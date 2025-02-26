@@ -1,0 +1,80 @@
+{
+    "appid": "1307550",
+    "type": "Game",
+    "name": "Craftopia",
+    "schinese_name": "Craftopia / 创世理想乡",
+    "isfreeapp": "0",
+    "change_number": "27540975",
+    "update_time": "2025-02-19 03:27:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1307551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3033017477210910487",
+                    "size": "23882977952",
+                    "download": "9069677936"
+                },
+                "legacy": {
+                    "gid": "9019849637081614226",
+                    "size": "9733871963",
+                    "download": "3640890576"
+                },
+                "alpha-unstable": {
+                    "gid": "3033017477210910487",
+                    "size": "23882977952",
+                    "download": "9069677936"
+                }
+            },
+            "decryptionkey": "12f11842a788e0b656032cfbaf79b2ee2e74e3f7715e25ddd2efe5c0a33afc35"
+        },
+        "1307552": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            }
+        },
+        "1307553": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            }
+        },
+        "1307554": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "workshopdepot": "1307550",
+        "branches": {
+            "public": {
+                "buildid": "17223339",
+                "timeupdated": "1739329643"
+            },
+            "legacy": {
+                "buildid": "10827022",
+                "description": "The legacy version of Craftopia before Seamless World Update has been released on June 28, 2023",
+                "timeupdated": "1687512703"
+            },
+            "alpha-unstable": {
+                "buildid": "17223339",
+                "timeupdated": "1738640559"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "943aa43bb56f97e92bf777e017575ca2bdea2bb76019eedecc6a358f92d801e9"
+    }
+}
