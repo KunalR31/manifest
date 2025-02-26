@@ -1,0 +1,108 @@
+{
+    "appid": "1432910",
+    "type": "Game",
+    "name": "Godlike Burger",
+    "schinese_name": "宇宙汉堡王 Godlike Burger",
+    "isfreeapp": "0",
+    "change_number": "27121344",
+    "update_time": "2025-01-23 08:20:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1432911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5379938551496965909",
+                    "size": "2001397860",
+                    "download": "494719056"
+                },
+                "for-players": {
+                    "gid": "3269430074776623464",
+                    "size": "2000526924",
+                    "download": "494314464"
+                }
+            },
+            "decryptionkey": "5297145e4fda3277ada496c6af9f83f7bab55c27b2e55c69105b6546557d7166"
+        },
+        "1432912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7760137211699493601",
+                    "size": "2013266512",
+                    "download": "495123664"
+                },
+                "for-players": {
+                    "gid": "7472269424670010596",
+                    "size": "2012398856",
+                    "download": "494742192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1432913": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4544344778550574393",
+                    "size": "2045730279",
+                    "download": "514607792"
+                },
+                "for-players": {
+                    "gid": "81473902554507014",
+                    "size": "2044659163",
+                    "download": "514073632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1670580": {
+            "dlcappid": "1670580",
+            "manifests": {
+                "public": {
+                    "gid": "6047750048657862925",
+                    "size": "7302288",
+                    "download": "7005920"
+                },
+                "for-players": {
+                    "gid": "6047750048657862925",
+                    "size": "7302288",
+                    "download": "7005920"
+                }
+            },
+            "decryptionkey": "9b59574bdf6f03c848d2d2b71e01fdf2f091899cdb36c484e44d71051e91cc1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9302436",
+                "timeupdated": "1663080652"
+            },
+            "for-players": {
+                "buildid": "8644691",
+                "description": "Test fixes with the players",
+                "timeupdated": "1651177833"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
