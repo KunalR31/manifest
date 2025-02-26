@@ -1,0 +1,89 @@
+{
+    "appid": "1641670",
+    "type": "Game",
+    "name": "EdgeOfTheAbyssAwaken",
+    "schinese_name": "临渊觉醒",
+    "isfreeapp": "0",
+    "change_number": "25604437",
+    "update_time": "2024-10-09 04:06:19",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1641671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5853871153129278759",
+                    "size": "17548589334",
+                    "download": "16286327552"
+                },
+                "0.92.3671": {
+                    "gid": "24538947697084657",
+                    "size": "17414804313",
+                    "download": "16265197536"
+                },
+                "mod-test": {
+                    "gid": "4128638124318674666",
+                    "size": "17649243429",
+                    "download": "16361055824"
+                },
+                "test": {
+                    "gid": "5853871153129278759",
+                    "size": "17548589334",
+                    "download": "16286327552"
+                }
+            },
+            "decryptionkey": "7d23d7b7fa7c560cdf18bbfa635fdb400f8fa2456a2c613003c78643fd3514ef"
+        },
+        "1641672": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9040885",
+                "timeupdated": "1656684517"
+            },
+            "0.92.3671": {
+                "buildid": "8709021",
+                "description": "版本归档",
+                "timeupdated": "1656000064"
+            },
+            "mod-test": {
+                "buildid": "9048871",
+                "description": "Mod测试",
+                "timeupdated": "1656739723"
+            },
+            "test": {
+                "buildid": "9040885",
+                "description": "test beta",
+                "timeupdated": "1656635535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
