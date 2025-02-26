@@ -1,0 +1,61 @@
+{
+    "appid": "1259840",
+    "type": "Game",
+    "name": "The House of Da Vinci 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27383598",
+    "update_time": "2025-02-09 09:26:25",
+    "depot": {
+        "1259841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7557514857820545466",
+                    "size": "6756679801",
+                    "download": "2746496016"
+                },
+                "low-end": {
+                    "gid": "2580507685196510741",
+                    "size": "2943659222",
+                    "download": "1332617648"
+                }
+            },
+            "decryptionkey": "d861f228c28813fb0f5540e64bee4620ce146056d81198900c06881d6e784eda"
+        },
+        "1259842": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2311641440770641824",
+                    "size": "2943961247",
+                    "download": "1332931792"
+                },
+                "low-end": {
+                    "gid": "6377668800780713296",
+                    "size": "2943669935",
+                    "download": "1332820768"
+                }
+            },
+            "decryptionkey": "f8324c2e3146d7c2652f73da840718aa33eb82d8306c7b0e38b674ead91dfe9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6381373",
+                "timeupdated": "1615900842"
+            },
+            "low-end": {
+                "buildid": "6381418",
+                "description": "for low-end hardware",
+                "timeupdated": "1615793392"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
