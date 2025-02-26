@@ -1,0 +1,92 @@
+{
+    "appid": "1478420",
+    "type": "Game",
+    "name": "Poco In Dungeon",
+    "schinese_name": "Poco In 地牢",
+    "isfreeapp": "0",
+    "change_number": "26270730",
+    "update_time": "2024-11-20 08:12:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1478421": {
+            "manifests": {
+                "public": {
+                    "gid": "8059431168348116254",
+                    "size": "2812862653",
+                    "download": "2162647936"
+                },
+                "version1.00": {
+                    "gid": "6229143626988313110",
+                    "size": "2826211837",
+                    "download": "2175759376"
+                },
+                "version1.01": {
+                    "gid": "6912472441517197060",
+                    "size": "2826145084",
+                    "download": "2175642496"
+                },
+                "version1.02": {
+                    "gid": "1809541671552992544",
+                    "size": "2826199678",
+                    "download": "2175756304"
+                },
+                "version1.03": {
+                    "gid": "8816591574870911631",
+                    "size": "2826198745",
+                    "download": "2175763888"
+                },
+                "version1.04": {
+                    "gid": "823774092440023388",
+                    "size": "2812970228",
+                    "download": "2162898544"
+                }
+            },
+            "decryptionkey": "feed9cfaa780d6319dc1113a7dbce65ebb3c823038cbc7a9ef0df85aeb43f062"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "6013398",
+                "timeupdated": "1608886934"
+            },
+            "version1.00": {
+                "buildid": "5994908",
+                "description": "Version 1.00 Initial release version",
+                "timeupdated": "1608700870"
+            },
+            "version1.01": {
+                "buildid": "6005472",
+                "description": "Version 1.01 Removed takedown(when unarmed))",
+                "timeupdated": "1608712662"
+            },
+            "version1.02": {
+                "buildid": "6006266",
+                "description": "Version 1.02 Fixed flying animations.",
+                "timeupdated": "1608737827"
+            },
+            "version1.03": {
+                "buildid": "6007735",
+                "description": "Version 1.03 Minor corrections.",
+                "timeupdated": "1608784722"
+            },
+            "version1.04": {
+                "buildid": "6009877",
+                "description": "Version 1.04 Prohibited flying while aiming with weapon.",
+                "timeupdated": "1608870334"
+            }
+        }
+    }
+}
