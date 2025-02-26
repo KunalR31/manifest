@@ -1,0 +1,104 @@
+{
+    "appid": "1084600",
+    "type": "Game",
+    "name": "My Time at Sandrock",
+    "schinese_name": "沙石镇时光",
+    "isfreeapp": "0",
+    "change_number": "27238173",
+    "update_time": "2025-01-31 00:13:48",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1084602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5014485731095115828",
+                    "size": "9718865034",
+                    "download": "8055044272"
+                }
+            },
+            "decryptionkey": "262b20ffd5fbd41eb4e6993b44dba982695731cf82c7f787236a1bc1b82109aa"
+        },
+        "2090470": {
+            "dlcappid": "2090470",
+            "manifests": {}
+        },
+        "1084601": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1653151599540428810",
+                    "size": "29929988591",
+                    "download": "12875018320"
+                },
+                "ks_demo": {
+                    "gid": "4378044535867016329",
+                    "size": "10059425522",
+                    "download": "4105840496"
+                },
+                "local": {
+                    "gid": "7927951539177385290",
+                    "size": "29692613217",
+                    "download": "11292391152"
+                }
+            },
+            "decryptionkey": "7af65c0378d727ff872dcf1bfc511faa6bda56ddb31f4d891ba88a15e5540d17"
+        },
+        "2182080": {
+            "dlcappid": "2182080",
+            "manifests": {
+                "public": {
+                    "gid": "6000569290448241032",
+                    "size": "324143382",
+                    "download": "272255552"
+                }
+            },
+            "decryptionkey": "8052cc32bd4cd71ff86ef8c4db68c2dc5ab50884feea0cc90db814a73eb3dcf7"
+        },
+        "1084603": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4585367830502336971",
+                    "size": "29929988669",
+                    "download": "12875032064"
+                }
+            },
+            "decryptionkey": "5298981b009169e714731cbf957866f073237c264807e27cc5ddc061d41efb5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17437780",
+                "timeupdated": "1740049148"
+            },
+            "ks_demo": {
+                "buildid": "6932693",
+                "description": "demo",
+                "timeupdated": "1624620637"
+            },
+            "local": {
+                "buildid": "12449461",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1697442995"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
