@@ -1,0 +1,101 @@
+{
+    "appid": "1267910",
+    "type": "Game",
+    "name": "Melvor Idle",
+    "schinese_name": "Melvor Idle 梅尔沃放置",
+    "isfreeapp": "0",
+    "change_number": "27525138",
+    "update_time": "2025-02-18 08:15:16",
+    "depot": {
+        "1267911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "349725829955010167",
+                    "size": "724342889",
+                    "download": "254397328"
+                },
+                "macos-client-fix": {
+                    "gid": "349725829955010167",
+                    "size": "724342889",
+                    "download": "254397328"
+                },
+                "windows-client-fix": {
+                    "gid": "2144876642696168024",
+                    "size": "717481162",
+                    "download": "253325008"
+                }
+            },
+            "decryptionkey": "2c7496aa9bd2af0b01037eb53e94883921ad093afa94350aee66e5e0b3c68a84"
+        },
+        "1267913": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8875374614659965895",
+                    "size": "831944273",
+                    "download": "264410496"
+                },
+                "macos-client-fix": {
+                    "gid": "8875374614659965895",
+                    "size": "831944273",
+                    "download": "264410496"
+                },
+                "windows-client-fix": {
+                    "gid": "8875374614659965895",
+                    "size": "831944273",
+                    "download": "264410496"
+                }
+            },
+            "decryptionkey": "a8450c2daf53c9f6d9c7cd6a3bc13e267df6255590d6aac15a16a4f951b20a0c"
+        },
+        "1267912": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8164613591265306544",
+                    "size": "1222508150",
+                    "download": "308539120"
+                },
+                "macos-client-fix": {
+                    "gid": "8164613591265306544",
+                    "size": "1222508150",
+                    "download": "308539120"
+                },
+                "windows-client-fix": {
+                    "gid": "8164613591265306544",
+                    "size": "1222508150",
+                    "download": "308539120"
+                }
+            },
+            "decryptionkey": "4cac0974efa6ca62ab12d6ce7bc2dc45f33b7a6368b00626b1177a09b2d986e1"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "13311431",
+                "timeupdated": "1706684950"
+            },
+            "macos-client-fix": {
+                "buildid": "13311431",
+                "description": "Client fix for MacOS",
+                "timeupdated": "1706609785"
+            },
+            "windows-client-fix": {
+                "buildid": "13341659",
+                "description": "Client fix for Windows",
+                "timeupdated": "1706835176"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
