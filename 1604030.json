@@ -1,0 +1,97 @@
+{
+    "appid": "1604030",
+    "type": "Game",
+    "name": "V Rising",
+    "schinese_name": "夜族崛起",
+    "isfreeapp": "0",
+    "change_number": "27533505",
+    "update_time": "2025-02-18 19:55:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1604031": {
+            "manifests": {
+                "public": {
+                    "gid": "5697875840152111543",
+                    "size": "8852295269",
+                    "download": "4312268992"
+                },
+                "0.5.43954_hotfix13": {
+                    "gid": "6194439063265605533",
+                    "size": "6727320665",
+                    "download": "2926222448"
+                },
+                "0.6.5.57575_hotfix6": {
+                    "gid": "6891775664759788354",
+                    "size": "8868388824",
+                    "download": "3948758016"
+                },
+                "legacy-0.5.x": {
+                    "gid": "8014165627894424827",
+                    "size": "6755176961",
+                    "download": "2945828704"
+                },
+                "public-test-r60262": {
+                    "gid": "3126289553066637128",
+                    "size": "8872162442",
+                    "download": "3947121760"
+                },
+                "legacy-0.6.x": {
+                    "gid": "1645242801883488504",
+                    "size": "8764065139",
+                    "download": "3839407408"
+                },
+                "public-test": {
+                    "gid": "5697875840152111543",
+                    "size": "8852295269",
+                    "download": "4312268992"
+                }
+            },
+            "decryptionkey": "e51d4f407e118a5477cab33cf9cd3340057f5aa111772951f47d76b05b594606"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "16549266",
+                "timeupdated": "1733222800"
+            },
+            "0.5.43954_hotfix13": {
+                "buildid": "9606444",
+                "description": "Client version: 0.5.43954",
+                "timeupdated": "1666712744"
+            },
+            "0.6.5.57575_hotfix6": {
+                "buildid": "11360518",
+                "description": "Client version: 0.6.5.57575",
+                "timeupdated": "1686742694"
+            },
+            "legacy-0.5.x": {
+                "buildid": "11162616",
+                "description": "Initial Early Access version. Originally released: 2022-05-17",
+                "timeupdated": "1684232262"
+            },
+            "public-test-r60262": {
+                "buildid": "12053751",
+                "description": "Temporary test branch for r60262.",
+                "timeupdated": "1698330349"
+            },
+            "legacy-0.6.x": {
+                "buildid": "14277210",
+                "description": "Gloomrot version - Originally released: 2023-05-17",
+                "timeupdated": "1714995880"
+            },
+            "public-test": {
+                "buildid": "16549266",
+                "description": "Public test branch for V Rising client. Use at your own risk. Always backup your saves.",
+                "timeupdated": "1733222701"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
