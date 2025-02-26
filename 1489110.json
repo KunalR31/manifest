@@ -1,0 +1,58 @@
+{
+    "appid": "1489110",
+    "type": "Game",
+    "name": "Zapling Bygone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27257154",
+    "update_time": "2025-02-01 00:34:22",
+    "depot": {
+        "1489111": {
+            "manifests": {
+                "public": {
+                    "gid": "6241887714550453836",
+                    "size": "1220689829",
+                    "download": "825525504"
+                },
+                "crashfix": {
+                    "gid": "6241887714550453836",
+                    "size": "1220689829",
+                    "download": "825525504"
+                },
+                "demo": {
+                    "gid": "7168267435564990696",
+                    "size": "1063082565",
+                    "download": "721389712"
+                },
+                "unstable": {
+                    "gid": "5275667566090954491",
+                    "size": "1220843813",
+                    "download": "825558176"
+                }
+            },
+            "decryptionkey": "2b95610a075bed0ad11abb9cb04e591350e3b158eb236bbbf738a3c028929bc0"
+        },
+        "1489112": {},
+        "branches": {
+            "public": {
+                "buildid": "9296823",
+                "timeupdated": "1687366043"
+            },
+            "crashfix": {
+                "buildid": "9296823",
+                "description": "Branch to use if game is crashing",
+                "timeupdated": "1687355713"
+            },
+            "demo": {
+                "buildid": "8952494",
+                "description": "To enable FULL owners access to the demo.",
+                "timeupdated": "1655418766"
+            },
+            "unstable": {
+                "buildid": "9319402",
+                "description": "Experimental Randomiser mode enabled",
+                "timeupdated": "1660596753"
+            }
+        }
+    }
+}
