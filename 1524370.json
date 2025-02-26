@@ -1,0 +1,73 @@
+{
+    "appid": "1524370",
+    "type": "Game",
+    "name": "Astellia Royal",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 23:54:25",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1524371": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1161893310994458136",
+                    "size": "53927918859",
+                    "download": "26153962272"
+                },
+                "beta": {
+                    "gid": "113887695509886447",
+                    "size": "50192865186",
+                    "download": "24713843456"
+                }
+            },
+            "decryptionkey": "98480cba30e985f95e30a4e988a86ab07d1e3935ea66f7f2dc6f18018905a0c8"
+        },
+        "1524372": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5602350245541869370",
+                    "size": "172814968",
+                    "download": "58284176"
+                },
+                "beta": {
+                    "gid": "4362622462567583257",
+                    "size": "172830331",
+                    "download": "58296400"
+                }
+            },
+            "decryptionkey": "65289dc6c82c39cb3e8e9e573ceccb812e01b38776131289b238088070f299b4"
+        },
+        "baselanguages": "english,german,koreana",
+        "branches": {
+            "public": {
+                "buildid": "7529637",
+                "timeupdated": "1634172820"
+            },
+            "beta": {
+                "buildid": "6143447",
+                "description": "beta Content Server",
+                "timeupdated": "1611718457"
+            }
+        }
+    }
+}
