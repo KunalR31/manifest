@@ -1,0 +1,80 @@
+{
+    "appid": "1185600",
+    "type": "Game",
+    "name": "神国：创造",
+    "schinese_name": "神国：创造",
+    "isfreeapp": "0",
+    "change_number": "25593265",
+    "update_time": "2024-10-09 00:30:12",
+    "depot": {
+        "baselanguages": "english,german,schinese,tchinese,japanese",
+        "1185601": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "504588170392225464",
+                    "size": "168450965",
+                    "download": "94506144"
+                },
+                "test": {
+                    "gid": "504588170392225464",
+                    "size": "168450965",
+                    "download": "94506144"
+                }
+            },
+            "decryptionkey": "13e25e0d49d0fa13f5e83834e8203a653184578f78c88b9b9318ac020b4604a0"
+        },
+        "1185602": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6833800958279724431",
+                    "size": "159663021",
+                    "download": "91698736"
+                },
+                "test": {
+                    "gid": "6833800958279724431",
+                    "size": "159663021",
+                    "download": "91698736"
+                }
+            },
+            "decryptionkey": "775f37f734288932950c17891e8e1c4fd5915dfb725297b84d207266b7959ce6"
+        },
+        "1185603": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1225703079000105623",
+                    "size": "190445737",
+                    "download": "100872032"
+                },
+                "test": {
+                    "gid": "1225703079000105623",
+                    "size": "190445737",
+                    "download": "100872032"
+                }
+            },
+            "decryptionkey": "e554507870e7cd87d21470f585a0d05c782b5d65b0a83c86c862ed8ade7d9524"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15540076",
+                "timeupdated": "1724998179"
+            },
+            "test": {
+                "buildid": "15540076",
+                "description": "test",
+                "timeupdated": "1724993006"
+            }
+        }
+    }
+}
