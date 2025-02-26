@@ -1,0 +1,78 @@
+{
+    "appid": "102840",
+    "type": "Game",
+    "name": "Shank 2",
+    "schinese_name": "闪克2",
+    "isfreeapp": "0",
+    "change_number": "26511959",
+    "update_time": "2024-12-06 01:05:59",
+    "depot": {
+        "102841": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6337282187118349599",
+                    "size": "1647462886",
+                    "download": "1464298400"
+                },
+                "beta": {
+                    "gid": "3585043146823585047",
+                    "size": "1647456049",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "587dc4fdaaf24f4ad2e33f9a1ba61025351157eede5dc3c0a9f0bed831a488e6"
+        },
+        "102842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "816208169619824010",
+                    "size": "1863497345",
+                    "download": "1695690160"
+                },
+                "beta": {
+                    "gid": "760741252490068110",
+                    "size": "1872918383",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "102842",
+            "decryptionkey": "816fb7aa5ffc8dc6efd4acab2e7dbb021e82a3f204aa31acabe49b30595afe12"
+        },
+        "102843": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2930963994001926852",
+                    "size": "1864387041",
+                    "download": "1696629584"
+                },
+                "beta": {
+                    "gid": "8615550492658198468",
+                    "size": "1867583665",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "216e6bdba1724e1df133dadb1d937883e1e75efd47efb41f45fb295667c00ed7"
+        },
+        "overridescddb": "1",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "13814478",
+                "timeupdated": "1711050369"
+            },
+            "beta": {
+                "buildid": "202486"
+            }
+        }
+    }
+}
