@@ -1,0 +1,113 @@
+{
+    "appid": "1108000",
+    "type": "Game",
+    "name": "Children of Silentown",
+    "schinese_name": "寂静村的孩子们 Children of Silentown",
+    "isfreeapp": "0",
+    "change_number": "27165352",
+    "update_time": "2025-01-26 01:26:56",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1108001": {
+            "manifests": {
+                "public": {
+                    "gid": "478032157096462195",
+                    "size": "0",
+                    "download": "0"
+                },
+                "experimental-public": {
+                    "gid": "478032157096462195",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "12d79aa3ef2cf69240f9fa58adfaa4998e9516761dc536a491406eb3e809f85b"
+        },
+        "1108002": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4760676608216050671",
+                    "size": "5848896464",
+                    "download": "1963374160"
+                },
+                "experimental-public": {
+                    "gid": "9107314927135652340",
+                    "size": "5849838286",
+                    "download": "1964229904"
+                }
+            },
+            "decryptionkey": "49b7ced8e4d9de168794fc71e5951c00ba81ab2872be4510b0e880ef51c33c5f"
+        },
+        "1108003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6935289779291329476",
+                    "size": "5027745474",
+                    "download": "1119708448"
+                },
+                "experimental-public": {
+                    "gid": "3728410304667472376",
+                    "size": "5021845022",
+                    "download": "1121608352"
+                }
+            },
+            "decryptionkey": "cb528879723409f9012ccf5c3881a3ba7473214f37068cb8de73dfed1e5521cd"
+        },
+        "2213230": {
+            "dlcappid": "2213230",
+            "manifests": {
+                "public": {
+                    "gid": "4566855326883605092",
+                    "size": "812440755",
+                    "download": "555663664"
+                },
+                "experimental-public": {
+                    "gid": "8651051592256389170",
+                    "size": "400028074",
+                    "download": "390281248"
+                }
+            },
+            "decryptionkey": "895b3166bb074f290ba8b76719e58bee422c573cdaf490e60f34276a9cb24a24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14159774",
+                "timeupdated": "1713964615"
+            },
+            "experimental-public": {
+                "buildid": "10343345",
+                "description": "public branch for unstable builds",
+                "timeupdated": "1673992791"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
