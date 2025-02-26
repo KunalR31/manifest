@@ -1,0 +1,56 @@
+{
+    "appid": "1059900",
+    "type": "Game",
+    "name": "Tribe: Primitive Builder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27038672",
+    "update_time": "2025-01-17 16:10:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1059901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8416183295252273923",
+                    "size": "6123381108",
+                    "download": "5872698176"
+                },
+                "old-version-1.1.3": {
+                    "gid": "3614468566844660249",
+                    "size": "6122806254",
+                    "download": "5872155840"
+                }
+            },
+            "decryptionkey": "1e29a8ec0be8503eb1df392dbedd81117d6763820605a731f15cdf91b45629ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12758507",
+                "timeupdated": "1700587713"
+            },
+            "old-version-1.1.3": {
+                "buildid": "12504605",
+                "description": "Old Version 1.1.3",
+                "timeupdated": "1698663022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
