@@ -1,0 +1,75 @@
+{
+    "appid": "1567440",
+    "type": "Game",
+    "name": "inbento",
+    "schinese_name": "内饭盒 - inbento",
+    "isfreeapp": "0",
+    "change_number": "27232950",
+    "update_time": "2025-01-30 18:25:58",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,norwegian,swedish,czech,brazilian",
+        "1567441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8353773690976464622",
+                    "size": "138883435",
+                    "download": "57880992"
+                },
+                "legacy": {
+                    "gid": "5021915249082963627",
+                    "size": "129568434",
+                    "download": "56226400"
+                },
+                "steamremote": {
+                    "gid": "156247990400385971",
+                    "size": "138883435",
+                    "download": "57881232"
+                }
+            },
+            "decryptionkey": "7862bab972fb6ed6a047521f8b3ff72ad9d65a6ef6faeb111e0c5770a0d09e13"
+        },
+        "1567442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1424720033832105004",
+                    "size": "206386504",
+                    "download": "72261248"
+                },
+                "legacy": {
+                    "gid": "1328989908344779384",
+                    "size": "197371851",
+                    "download": "70680048"
+                },
+                "steamremote": {
+                    "gid": "7771427659046558740",
+                    "size": "206386504",
+                    "download": "72260352"
+                }
+            },
+            "decryptionkey": "c20f8243e93de7de9ed30da5a83fee6a153585d1dbd90d5074f8afd27188f110"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16379151",
+                "timeupdated": "1731419075"
+            },
+            "legacy": {
+                "buildid": "14664552",
+                "description": "pre-2.50 build",
+                "timeupdated": "1731414678"
+            },
+            "steamremote": {
+                "buildid": "16377063",
+                "description": "Steam Remote Cloud Save fix",
+                "timeupdated": "1731418779"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
