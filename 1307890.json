@@ -1,0 +1,119 @@
+{
+    "appid": "1307890",
+    "type": "Game",
+    "name": "Kingdoms Reborn",
+    "schinese_name": "Kingdoms Reborn 王国重生",
+    "isfreeapp": "0",
+    "change_number": "27103031",
+    "update_time": "2025-01-22 08:43:59",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1307891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6509670926370476715",
+                    "size": "3649073589",
+                    "download": "3117195776"
+                },
+                "old_patch_coop": {
+                    "gid": "7779586017453225194",
+                    "size": "2773165202",
+                    "download": "2327313984"
+                },
+                "old_patch_japan": {
+                    "gid": "8760460235312951170",
+                    "size": "2902142465",
+                    "download": "2440473008"
+                },
+                "old_patch_viking": {
+                    "gid": "4985099036882136723",
+                    "size": "2176669978",
+                    "download": "1749678128"
+                },
+                "old_update": {
+                    "gid": "2307735569543665341",
+                    "size": "1804825304",
+                    "download": "1593797968"
+                },
+                "stable": {
+                    "gid": "1849308876690562207",
+                    "size": "3994245037",
+                    "download": "3446657520"
+                },
+                "test": {
+                    "gid": "6509670926370476715",
+                    "size": "3649073589",
+                    "download": "3117195776"
+                },
+                "test2": {
+                    "gid": "3916270570694461114",
+                    "size": "3643403557",
+                    "download": "3116106032"
+                }
+            },
+            "decryptionkey": "5fa0d724887dfa7ab13fbb10fc175fc32ffc82ba2ed329bace21eaa627b18343"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16599550",
+                "timeupdated": "1733137873"
+            },
+            "old_patch_coop": {
+                "buildid": "11846240",
+                "description": "Old Patch (Co-op)",
+                "timeupdated": "1693887347"
+            },
+            "old_patch_japan": {
+                "buildid": "12391959",
+                "description": "Old Patch (Japan)",
+                "timeupdated": "1708785895"
+            },
+            "old_patch_viking": {
+                "buildid": "10503263",
+                "description": "Old Patch (Viking)",
+                "timeupdated": "1684501748"
+            },
+            "old_update": {
+                "buildid": "8337697",
+                "description": "Old Patch (Emirates)",
+                "timeupdated": "1671175234"
+            },
+            "stable": {
+                "buildid": "14491079",
+                "description": "stable (mostly the same as default branch)",
+                "timeupdated": "1716996933"
+            },
+            "test": {
+                "buildid": "16599550",
+                "description": "Latest Test Branch",
+                "timeupdated": "1733136558"
+            },
+            "test2": {
+                "buildid": "16327273",
+                "description": "2nd Latest Test Branch (if latest has issues)",
+                "timeupdated": "1731050395"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
