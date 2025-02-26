@@ -1,0 +1,79 @@
+{
+    "appid": "1332760",
+    "type": "Game",
+    "name": "Nienix",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27370429",
+    "update_time": "2025-02-08 04:18:41",
+    "depot": {
+        "1332761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7579893413760873358",
+                    "size": "1060278723",
+                    "download": "838892224"
+                },
+                "beta": {
+                    "gid": "604450205400737332",
+                    "size": "1060244209",
+                    "download": "838868160"
+                }
+            },
+            "decryptionkey": "198199653ebe7899a33da1d08fa86370203e77d07f4c89a38d8e4e35c2b1431b"
+        },
+        "1332762": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498117954199579700",
+                    "size": "1060770323",
+                    "download": "838266640"
+                },
+                "beta": {
+                    "gid": "8817597272776723921",
+                    "size": "1060587547",
+                    "download": "838206496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1332763": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3999737412362993616",
+                    "size": "1059497395",
+                    "download": "837924800"
+                },
+                "beta": {
+                    "gid": "5976344496400400076",
+                    "size": "1059344387",
+                    "download": "837882304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese",
+        "workshopdepot": "1332760",
+        "branches": {
+            "public": {
+                "buildid": "17217878",
+                "timeupdated": "1738530814"
+            },
+            "beta": {
+                "buildid": "17217887",
+                "description": "Test branch",
+                "timeupdated": "1738530888"
+            }
+        },
+        "workshopdepotdecryptionkey": "a1b13e9debe4709abf802682874db4517e3058eaf3623b6c977b8dca595efaa1"
+    }
+}
