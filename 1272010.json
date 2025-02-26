@@ -1,0 +1,103 @@
+{
+    "appid": "1272010",
+    "type": "Game",
+    "name": "Destroyer: The U-Boat Hunter",
+    "schinese_name": "驱逐舰：U型艇猎手 - Destroyer: The U-Boat Hunter",
+    "isfreeapp": "0",
+    "change_number": "26915211",
+    "update_time": "2025-01-09 07:15:36",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1272011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "320369298358891501",
+                    "size": "10326236459",
+                    "download": "5967015488"
+                },
+                "experimental-public": {
+                    "gid": "7005714981113475034",
+                    "size": "11836828286",
+                    "download": "6546863680"
+                },
+                "fallback-public": {
+                    "gid": "1820822884709071587",
+                    "size": "10504583888",
+                    "download": "5848674480"
+                }
+            },
+            "decryptionkey": "2b204d83fff20d06c9b8a25156c60723c84b9422368c1d25e2683d0502c87abb"
+        },
+        "1272012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5095363633416631219",
+                    "size": "9973538881",
+                    "download": "5572879744"
+                }
+            },
+            "decryptionkey": "514d448b02bdc9421c0431403f7b11360b07b820321054758277ce6cee39c325"
+        },
+        "1272013": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1447270695024973811",
+                    "size": "11468484402",
+                    "download": "6085750096"
+                }
+            },
+            "decryptionkey": "d32f28ab57f152b7fbef2d286f099b1b50667a90c4157de800f65c2a8edb2fb5"
+        },
+        "2153660": {
+            "dlcappid": "2153660",
+            "manifests": {
+                "public": {
+                    "gid": "9205135071384393665",
+                    "size": "6703905",
+                    "download": "6107888"
+                }
+            },
+            "decryptionkey": "5ab8fbd24ce978b9f4589fa67187a50003da3c280dabe165b3b027ec04d9d199"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13936735",
+                "timeupdated": "1712152617"
+            },
+            "experimental-public": {
+                "buildid": "13774174",
+                "description": "public branch for unstable builds",
+                "timeupdated": "1710768284"
+            },
+            "fallback-public": {
+                "buildid": "10674517",
+                "description": "public branch for the last pre-patch version",
+                "timeupdated": "1685459146"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
