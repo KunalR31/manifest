@@ -1,0 +1,75 @@
+{
+    "appid": "1167450",
+    "type": "Game",
+    "name": "DAEMON X MACHINA",
+    "schinese_name": "机甲战魔/恶魔X机甲",
+    "isfreeapp": "0",
+    "change_number": "27372609",
+    "update_time": "2025-02-08 07:20:47",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1167451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5557761116931964144",
+                    "size": "13131848094",
+                    "download": "12046967008"
+                }
+            },
+            "decryptionkey": "3dc4397d4f94a640043bea785c35492e0b1bfc7e8d08d9f1a1f708f9eab47991"
+        },
+        "1167452": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "2985836493086515291",
+                    "size": "12580363148",
+                    "download": "11676711680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8188170",
+                "timeupdated": "1644625970"
+            },
+            "local": {
+                "buildid": "7518255",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1634028577"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
