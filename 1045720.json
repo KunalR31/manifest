@@ -1,0 +1,72 @@
+{
+    "appid": "1045720",
+    "type": "Game",
+    "name": "The Coma 2: Vicious Sisters",
+    "schinese_name": "昏迷2：恶毒姐妹",
+    "isfreeapp": "0",
+    "change_number": "26903014",
+    "update_time": "2025-01-08 13:15:42",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,russian,ukrainian",
+        "hasdepotsindlc": "1",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1045721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5811925398767740504",
+                    "size": "2439056386",
+                    "download": "1278381376"
+                }
+            },
+            "decryptionkey": "acab6f72f76788b069b0480637d5640c81b7a59821104105a5afba557f10697c"
+        },
+        "1045722": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7676269988866656508",
+                    "size": "2464142791",
+                    "download": "1280616400"
+                }
+            },
+            "decryptionkey": "2a66e873c1f7504af029ebcddcaa7c8928857f8b5b76d2e540e68b250ee4877a"
+        },
+        "1045723": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6625837995164890627",
+                    "size": "2408230918",
+                    "download": "1274775872"
+                }
+            },
+            "decryptionkey": "8f3c843ed3a064ad7a6172f2da123d83102baa04d862aa3d653136cdcbac3478"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4933703",
+                "timeupdated": "1588755462"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
