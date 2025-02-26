@@ -1,0 +1,83 @@
+{
+    "appid": "1012160",
+    "type": "Game",
+    "name": "SkyGameChanger-AirCombat II-",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26130026",
+    "update_time": "2024-11-11 00:12:57",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1012161": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2574754756933472033",
+                    "size": "1611954568",
+                    "download": "630907248"
+                },
+                "ver1.5-englishonly": {
+                    "gid": "3431400689466801371",
+                    "size": "991367149",
+                    "download": "364997280"
+                },
+                "ver1.50": {
+                    "gid": "9152799655352461729",
+                    "size": "998386173",
+                    "download": "367041952"
+                }
+            },
+            "decryptionkey": "c66ac76b162d18878d3a2393b9f675de3acd6d0ff59263ff03f29ba5d362bcd0"
+        },
+        "1012162": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2746765764988923785",
+                    "size": "1671626662",
+                    "download": "663851728"
+                },
+                "ver1.50": {
+                    "gid": "3832292797938621",
+                    "size": "1016527712",
+                    "download": "374560400"
+                }
+            },
+            "decryptionkey": "8e4abbfc5a1296681f527e7ca23f8f7e44ae4f1eae2e348a224a7e3638be85c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3810761",
+                "timeupdated": "1557473363"
+            },
+            "ver1.5-englishonly": {
+                "buildid": "3661421",
+                "timeupdated": "1553160830"
+            },
+            "ver1.50": {
+                "buildid": "3784885",
+                "timeupdated": "1557013872"
+            }
+        }
+    }
+}
