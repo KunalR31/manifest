@@ -1,0 +1,96 @@
+{
+    "appid": "1119730",
+    "type": "Game",
+    "name": "Ranch Simulator",
+    "schinese_name": "牧场模拟器",
+    "isfreeapp": "0",
+    "change_number": "27539784",
+    "update_time": "2025-02-19 02:10:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1119731": {
+            "manifests": {
+                "public": {
+                    "gid": "201163873940623018",
+                    "size": "21689737057",
+                    "download": "9216674912"
+                },
+                "previousupdate": {
+                    "gid": "2191962334811392174",
+                    "size": "15120536665",
+                    "download": "6460976640"
+                },
+                "unreal_engine_4_branch": {
+                    "gid": "2950070988431665156",
+                    "size": "15221653219",
+                    "download": "6453377984"
+                },
+                "sessionidtest": {
+                    "gid": "201163873940623018",
+                    "size": "21689737057",
+                    "download": "9216674912"
+                },
+                "unstable_branch": {
+                    "gid": "201163873940623018",
+                    "size": "21689737057",
+                    "download": "9216674912"
+                }
+            },
+            "decryptionkey": "5ba0690900411cc3e2378222e0e437425d26e3b81707810123555cf0c5606a77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17411056",
+                "timeupdated": "1740059633"
+            },
+            "previousupdate": {
+                "buildid": "10291479",
+                "description": "Holds the last previous update to the game",
+                "timeupdated": "1681739958"
+            },
+            "unreal_engine_4_branch": {
+                "buildid": "10892409",
+                "description": "Holds the last version of the Ue4 version",
+                "timeupdated": "1698842637"
+            },
+            "sessionidtest": {
+                "buildid": "17411056",
+                "description": "sessionidtest",
+                "timeupdated": "1740059483"
+            },
+            "unstable_branch": {
+                "buildid": "17411056",
+                "description": "Unstable test branch",
+                "timeupdated": "1739961931"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
