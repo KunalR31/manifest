@@ -1,0 +1,86 @@
+{
+    "appid": "1168880",
+    "type": "Game",
+    "name": "MOLEK-SYNTEZ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 08:18:36",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1168881": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2673798913566596804",
+                    "size": "141174226",
+                    "download": "136569760"
+                },
+                "m1-mac-fix": {
+                    "gid": "4055996737678719668",
+                    "size": "141161609",
+                    "download": "136566160"
+                }
+            },
+            "decryptionkey": "0dc54dcd847210aff8459b3b9d662016d7752b1fde5556796ff24df9ca17548c"
+        },
+        "1168882": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6029421069548313980",
+                    "size": "168014056",
+                    "download": "143329952"
+                },
+                "m1-mac-fix": {
+                    "gid": "6757855317538559186",
+                    "size": "168001376",
+                    "download": "143326320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1168883": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2965302548692693733",
+                    "size": "195989343",
+                    "download": "151837280"
+                },
+                "m1-mac-fix": {
+                    "gid": "8568409916065585089",
+                    "size": "195976726",
+                    "download": "151833680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9717150",
+                "timeupdated": "1665698780"
+            },
+            "m1-mac-fix": {
+                "buildid": "6332182",
+                "description": "Fix for launch hang on M1 Macs",
+                "timeupdated": "1670199437"
+            }
+        }
+    }
+}
