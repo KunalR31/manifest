@@ -1,0 +1,65 @@
+{
+    "appid": "1434950",
+    "type": "Game",
+    "name": "HighFleet",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27373150",
+    "update_time": "2025-02-08 08:18:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1434951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3715257932606719126",
+                    "size": "1494561778",
+                    "download": "1263570512"
+                },
+                "beta-public": {
+                    "gid": "4036343822303520785",
+                    "size": "1493135584",
+                    "download": "1262851584"
+                },
+                "v1.15": {
+                    "gid": "8906048549006393421",
+                    "size": "1455554256",
+                    "download": "1241220416"
+                }
+            },
+            "decryptionkey": "5602e4149942bb213b837b8f08d1af96485d9452f9f7854ccf686c16748c8c31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10047296",
+                "timeupdated": "1669818104"
+            },
+            "beta-public": {
+                "buildid": "9578297",
+                "description": "Beta version",
+                "timeupdated": "1664880773"
+            },
+            "v1.15": {
+                "buildid": "8250268",
+                "description": "Highfleet V.1.15 (Older version)",
+                "timeupdated": "1669819700"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
