@@ -1,0 +1,65 @@
+{
+    "appid": "1158420",
+    "type": "Game",
+    "name": "SimCasino",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26911961",
+    "update_time": "2025-01-09 02:15:08",
+    "depot": {
+        "1158422": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8791880904903537389",
+                    "size": "6179841614",
+                    "download": "1585950160"
+                },
+                "edge": {
+                    "gid": "8791880904903537389",
+                    "size": "6179841614",
+                    "download": "1585950160"
+                }
+            },
+            "decryptionkey": "42defb551c149cac294ae9f3bd8780e09ae46a3655f300f7ff074c139e95943e"
+        },
+        "1158423": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7216311618776162287",
+                    "size": "0",
+                    "download": "0"
+                },
+                "edge": {
+                    "gid": "7216311618776162287",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1158420",
+        "branches": {
+            "public": {
+                "buildid": "9209392",
+                "timeupdated": "1659025602"
+            },
+            "edge": {
+                "buildid": "9209392",
+                "description": "Experimental branch",
+                "timeupdated": "1659025596"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "503ec4cd3c7a64f9cdc4a7b7aa2921c2319e6f1e7a6df0df39763c499381039b"
+    }
+}
