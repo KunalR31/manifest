@@ -1,0 +1,59 @@
+{
+    "appid": "1604300",
+    "type": "Game",
+    "name": "LOVE 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26403520",
+    "update_time": "2024-12-05 06:43:56",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,swedish,turkish,brazilian,ukrainian,latam",
+        "1604301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "355878141402199338",
+                    "size": "211683533",
+                    "download": "192593888"
+                },
+                "lts_2024": {
+                    "gid": "7841937553279911479",
+                    "size": "210069497",
+                    "download": "192234768"
+                }
+            },
+            "decryptionkey": "7c58a05c9c4859b3be30e9edbb214d5366577ee4f5c3b455ddc5ebc2b981dd8f"
+        },
+        "1604302": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2416319664696347085",
+                    "size": "207572770",
+                    "download": "191103680"
+                },
+                "lts_2024": {
+                    "gid": "2416319664696347085",
+                    "size": "207572770",
+                    "download": "191103680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11334467",
+                "timeupdated": "1685218203"
+            },
+            "lts_2024": {
+                "buildid": "15495491",
+                "description": "lts 2024 test",
+                "timeupdated": "1724690673"
+            }
+        }
+    }
+}
