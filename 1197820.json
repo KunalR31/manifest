@@ -1,0 +1,63 @@
+{
+    "appid": "1197820",
+    "type": "Game",
+    "name": "Craftlands Workshoppe",
+    "schinese_name": "创造！云岛工坊（Craftlands Workshoppe）",
+    "isfreeapp": "0",
+    "change_number": "26975716",
+    "update_time": "2025-01-14 01:09:00",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1197821": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4410609782935349168",
+                    "size": "731866804",
+                    "download": "128221072"
+                },
+                "unstable_branch": {
+                    "gid": "5403327144542504221",
+                    "size": "668172738",
+                    "download": "119360096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1197822": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7252303038519410760",
+                    "size": "731866804",
+                    "download": "128109152"
+                }
+            },
+            "decryptionkey": "0c0236a44159a3ef5f52b288ea8757188164c83cab0b11e8768b32f9c200ed26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7921036",
+                "timeupdated": "1640113914"
+            },
+            "unstable_branch": {
+                "buildid": "6292515",
+                "timeupdated": "1614248363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
