@@ -1,0 +1,67 @@
+{
+    "appid": "1073820",
+    "type": "Game",
+    "name": "Love, Sam",
+    "schinese_name": "来自亲爱的萨姆-Love, Sam",
+    "isfreeapp": "0",
+    "change_number": "26953923",
+    "update_time": "2025-01-11 19:16:16",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1073820",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1073821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5464869264306026165",
+                    "size": "684650962",
+                    "download": "584713232"
+                },
+                "legacyversion": {
+                    "gid": "5826402616155297777",
+                    "size": "1733259377",
+                    "download": "1679014656"
+                }
+            },
+            "decryptionkey": "eef946077d76347d909f1b39bc46c92abcfc29ada14551d226cb0f160f339807"
+        },
+        "1073822": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "10953136",
+                "timeupdated": "1680849315"
+            },
+            "legacyversion": {
+                "buildid": "4148037",
+                "description": "Old Love Sam Version",
+                "timeupdated": "1666717259"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
