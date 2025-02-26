@@ -1,0 +1,82 @@
+{
+    "appid": "1052990",
+    "type": "Game",
+    "name": "A Monster's Expedition",
+    "schinese_name": "怪兽远征",
+    "isfreeapp": "0",
+    "change_number": "26933846",
+    "update_time": "2025-01-10 10:19:38",
+    "depot": {
+        "1052991": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4234586448371690387",
+                    "size": "560932156",
+                    "download": "358605056"
+                },
+                "1.0.4": {
+                    "gid": "6447302398195087702",
+                    "size": "558341316",
+                    "download": "358837104"
+                }
+            },
+            "decryptionkey": "65d060621a768ab3aaecd365ab466beeaa59e2a1a67028af575c58948786c183"
+        },
+        "1052992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1004527931275226329",
+                    "size": "564349610",
+                    "download": "359867152"
+                },
+                "1.0.4": {
+                    "gid": "8855196496293025800",
+                    "size": "566509173",
+                    "download": "360945136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1052993": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7275441295529682644",
+                    "size": "612460275",
+                    "download": "362517648"
+                },
+                "1.0.4": {
+                    "gid": "7090336880324373021",
+                    "size": "582096177",
+                    "download": "364107008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8853180",
+                "timeupdated": "1654107833"
+            },
+            "1.0.4": {
+                "buildid": "6354765",
+                "description": "Pre-content-update build",
+                "timeupdated": "1627677131"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
