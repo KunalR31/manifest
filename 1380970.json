@@ -1,0 +1,78 @@
+{
+    "appid": "1380970",
+    "type": "Game",
+    "name": "Sklime",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27391752",
+    "update_time": "2025-02-10 07:14:37",
+    "depot": {
+        "1380972": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6873632847481251724",
+                    "size": "384868080",
+                    "download": "100778208"
+                },
+                "beta": {
+                    "gid": "6873632847481251724",
+                    "size": "384868080",
+                    "download": "100778208"
+                }
+            },
+            "decryptionkey": "e2838fcb0e86b775aebc7f00dff9969e8b90c47851fad19972d497e7a7e34a62"
+        },
+        "1380974": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4589610652494327755",
+                    "size": "433138159",
+                    "download": "104555760"
+                },
+                "beta": {
+                    "gid": "4589610652494327755",
+                    "size": "433138159",
+                    "download": "104555760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1380975": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3084892921140777895",
+                    "size": "359418614",
+                    "download": "99023200"
+                },
+                "beta": {
+                    "gid": "3084892921140777895",
+                    "size": "359418614",
+                    "download": "99023200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17300195",
+                "timeupdated": "1739142870"
+            },
+            "beta": {
+                "buildid": "17300195",
+                "description": "beta branch",
+                "timeupdated": "1739137132"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
