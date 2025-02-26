@@ -1,0 +1,151 @@
+{
+    "appid": "1054430",
+    "type": "Game",
+    "name": "Fling to the Finish",
+    "schinese_name": "Fling to the Finish 终极拉扯",
+    "isfreeapp": "0",
+    "change_number": "27520552",
+    "update_time": "2025-02-18 01:57:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1054431": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5188738639227965975",
+                    "size": "1830237784",
+                    "download": "1072352128"
+                },
+                "beta": {
+                    "gid": "6747646647287808463",
+                    "size": "1816033577",
+                    "download": "1056379344"
+                },
+                "public-legacy": {
+                    "gid": "1007491023349398301",
+                    "size": "1830262075",
+                    "download": "1072381984"
+                }
+            },
+            "decryptionkey": "16e03e6c2b071b3f5ee0a1891c13c1992d612ce859f4cfcf6339957f5271fda5"
+        },
+        "1054432": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087039523147918907",
+                    "size": "1818023066",
+                    "download": "1068780272"
+                },
+                "beta": {
+                    "gid": "4087039523147918907",
+                    "size": "1818023066",
+                    "download": "1068780272"
+                },
+                "public-legacy": {
+                    "gid": "1661111856518658822",
+                    "size": "1818047348",
+                    "download": "1068775232"
+                }
+            },
+            "decryptionkey": "67ab7beacf303a5a5311525d2451028da0ebeec3a36760613f2c86066c1c98c3"
+        },
+        "1054433": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7077558718725526455",
+                    "size": "1832926895",
+                    "download": "1071162704"
+                },
+                "beta": {
+                    "gid": "6993423282870759884",
+                    "size": "1832880929",
+                    "download": "1071162576"
+                },
+                "public-legacy": {
+                    "gid": "8252828626787946265",
+                    "size": "1832873737",
+                    "download": "1071122928"
+                }
+            },
+            "decryptionkey": "096437dc426e5af8f8f9eab2805ba3d64d889806e7f5a8946e1c1b5999684c38"
+        },
+        "1711730": {
+            "dlcappid": "1711730"
+        },
+        "1711731": {
+            "dlcappid": "1711731"
+        },
+        "1711732": {
+            "dlcappid": "1711732"
+        },
+        "1711733": {
+            "dlcappid": "1711733"
+        },
+        "1711734": {
+            "dlcappid": "1711734"
+        },
+        "1670570": {
+            "dlcappid": "1670570",
+            "manifests": {
+                "public": {
+                    "gid": "52387190888966481",
+                    "size": "11549699",
+                    "download": "11579296"
+                },
+                "beta": {
+                    "gid": "52387190888966481",
+                    "size": "11549699",
+                    "download": "11579296"
+                },
+                "public-legacy": {
+                    "gid": "52387190888966481",
+                    "size": "11549699",
+                    "download": "11579296"
+                }
+            },
+            "decryptionkey": "952f8d8b78dab127697bd7280b9b78c996c590e28957b36b81a43d4e95eefd15"
+        },
+        "1054434": {},
+        "branches": {
+            "public": {
+                "buildid": "13330474",
+                "timeupdated": "1706892678"
+            },
+            "beta": {
+                "buildid": "14150734",
+                "description": "Build with unstable features",
+                "timeupdated": "1713904595"
+            },
+            "public-legacy": {
+                "buildid": "13206803",
+                "description": "last stable version",
+                "timeupdated": "1706892624"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
