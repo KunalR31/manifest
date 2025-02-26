@@ -1,0 +1,48 @@
+{
+    "appid": "1194890",
+    "type": "Game",
+    "name": "Star of Lemutia : Reborn",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25593528",
+    "update_time": "2024-10-09 00:35:03",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1194891": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3248522789567505248",
+                    "size": "289659454",
+                    "download": "277990864"
+                },
+                "beta": {
+                    "gid": "3570557873605695895",
+                    "size": "289590334",
+                    "download": "277877632"
+                }
+            },
+            "decryptionkey": "1dee4f3886fbae0d3e48f3db3d124164838700a648c99747c887792935981723"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "4564184",
+                "timeupdated": "1581689650"
+            },
+            "beta": {
+                "buildid": "4490752",
+                "description": "the game should be tested on this branch.",
+                "timeupdated": "1576262421"
+            }
+        }
+    }
+}
