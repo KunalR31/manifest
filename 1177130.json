@@ -1,0 +1,82 @@
+{
+    "appid": "1177130",
+    "type": "Game",
+    "name": "NABOKI",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25625472",
+    "update_time": "2024-10-11 22:24:19",
+    "depot": {
+        "1177131": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8619159145199689858",
+                    "size": "159497761",
+                    "download": "57606160"
+                },
+                "beta": {
+                    "gid": "3237217958809703120",
+                    "size": "159247488",
+                    "download": "57584192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1177132": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5046805029733629982",
+                    "size": "136707383",
+                    "download": "51121824"
+                },
+                "beta": {
+                    "gid": "1970422080802284680",
+                    "size": "159816513",
+                    "download": "56846320"
+                }
+            },
+            "decryptionkey": "6fdbc1079750f9bbe8469def200430c0afe2ead3a4e8cad92f642c5e808f576a"
+        },
+        "1177133": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1668118516090253057",
+                    "size": "182721438",
+                    "download": "53215200"
+                },
+                "beta": {
+                    "gid": "1926728908116158599",
+                    "size": "703299275",
+                    "download": "119903104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9055644",
+                "timeupdated": "1656920025"
+            },
+            "beta": {
+                "buildid": "8586071",
+                "description": "testing",
+                "timeupdated": "1650415370"
+            }
+        }
+    }
+}
