@@ -1,0 +1,114 @@
+{
+    "appid": "12900",
+    "type": "Game",
+    "name": "Audiosurf",
+    "schinese_name": "音乐战机",
+    "isfreeapp": "0",
+    "change_number": "26008930",
+    "update_time": "2024-11-01 23:57:03",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "12902": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4336871436980878519",
+                    "size": "448070421",
+                    "download": "364133184"
+                },
+                "beforewidescreen": {
+                    "gid": "6362762431074066813",
+                    "size": "441861755",
+                    "download": "362466608"
+                },
+                "beta": {
+                    "gid": "4336871436980878519",
+                    "size": "448070421",
+                    "download": "364133184"
+                }
+            },
+            "decryptionkey": "44f4f97c1899f42989a7337e1b1a92cfaa74eef044441f16c589b36dcc06da39"
+        },
+        "12903": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1656258878512501471",
+                    "size": "14513530",
+                    "download": "14414672"
+                },
+                "beforewidescreen": {
+                    "gid": "3361782965519411729",
+                    "size": "14707066",
+                    "download": "14524592"
+                },
+                "beta": {
+                    "gid": "1656258878512501471",
+                    "size": "14513530",
+                    "download": "14414672"
+                }
+            },
+            "decryptionkey": "cab4a1d94973956ee9a9ff3df89f0ad6a1514922a9595291d6cbf98c51e443ba"
+        },
+        "98003": {
+            "manifests": {
+                "public": {
+                    "gid": "4865720625817530462",
+                    "size": "8335125",
+                    "download": "8337632"
+                },
+                "beforewidescreen": {
+                    "gid": "4865720625817530462",
+                    "size": "8335125",
+                    "download": "8337632"
+                },
+                "beta": {
+                    "gid": "4865720625817530462",
+                    "size": "8335125",
+                    "download": "8337632"
+                }
+            },
+            "dlcappid": "98003",
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10840344",
+                "timeupdated": "1679590520"
+            },
+            "beforewidescreen": {
+                "buildid": "503121",
+                "description": "beforewidescreen",
+                "timeupdated": "1583966753"
+            },
+            "beta": {
+                "buildid": "10840344",
+                "description": "upcoming features",
+                "timeupdated": "1679590125"
+            }
+        }
+    }
+}
