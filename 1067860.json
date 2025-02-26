@@ -1,0 +1,65 @@
+{
+    "appid": "1067860",
+    "type": "Game",
+    "name": "NewCity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26904485",
+    "update_time": "2025-01-08 16:08:40",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1067861": {
+            "manifests": {
+                "public": {
+                    "gid": "6731851703686541399",
+                    "size": "1429303277",
+                    "download": "775667744"
+                },
+                "pre-art-update": {
+                    "gid": "6731851703686541399",
+                    "size": "1429303277",
+                    "download": "775667744"
+                },
+                "test": {
+                    "gid": "4914656765415736001",
+                    "size": "1579328815",
+                    "download": "884444352"
+                }
+            },
+            "decryptionkey": "e68e069c53903a530420e616457c24b0744c9aa02a8b18cf6e533986c797fb78"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1067860",
+        "branches": {
+            "public": {
+                "buildid": "7422467",
+                "timeupdated": "1632542036"
+            },
+            "pre-art-update": {
+                "buildid": "7422467",
+                "description": "Locked to v58.14",
+                "timeupdated": "1645848714"
+            },
+            "test": {
+                "buildid": "8795286",
+                "description": "Testing branch",
+                "timeupdated": "1653346112"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "701886be0edbd7d425a13cb32d8c2e1bb494dff1ae3347f5ae9191e98f3ef11e"
+    }
+}
