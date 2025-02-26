@@ -1,0 +1,103 @@
+{
+    "appid": "1324780",
+    "type": "Game",
+    "name": "Easy Red 2",
+    "schinese_name": "易红2",
+    "isfreeapp": "0",
+    "change_number": "27540593",
+    "update_time": "2025-02-19 03:01:13",
+    "depot": {
+        "1324781": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1711009088562328584",
+                    "size": "16192187892",
+                    "download": "7145804992"
+                },
+                "console_crossplay": {
+                    "gid": "6110414396938566551",
+                    "size": "15867628200",
+                    "download": "6967604944"
+                },
+                "publicbeta": {
+                    "gid": "6615833887439427940",
+                    "size": "16982542556",
+                    "download": "7474755424"
+                }
+            },
+            "decryptionkey": "8a121832d20574941b7d7e7eb4a34323c9ebe72338fc859080aac679b74bd78c"
+        },
+        "1324782": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6394313490116327435",
+                    "size": "16227492138",
+                    "download": "7168354736"
+                },
+                "console_crossplay": {
+                    "gid": "5353283451735616243",
+                    "size": "15902821938",
+                    "download": "6990441952"
+                },
+                "publicbeta": {
+                    "gid": "781836565178165710",
+                    "size": "17018774546",
+                    "download": "7494205024"
+                }
+            },
+            "decryptionkey": "4540b21d37c237bc72c6a5b2c3c1202a48b56a5e2bd9b7e8aed3e2112f87042c"
+        },
+        "1324783": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "551306570137536481",
+                    "size": "16151947796",
+                    "download": "7142966336"
+                },
+                "console_crossplay": {
+                    "gid": "658219766773378934",
+                    "size": "15828455689",
+                    "download": "6966064848"
+                },
+                "publicbeta": {
+                    "gid": "8592670114574424257",
+                    "size": "16940781481",
+                    "download": "7470345648"
+                }
+            },
+            "decryptionkey": "3e04baca8a855c9d1936a84667b80691d3a021d9b24927ff2f32a45f46d18b99"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
+        "workshopdepot": "1324780",
+        "branches": {
+            "public": {
+                "buildid": "17223191",
+                "timeupdated": "1738663124"
+            },
+            "console_crossplay": {
+                "buildid": "17003390",
+                "description": "Universal Console Crossplay Compatibility",
+                "timeupdated": "1736879124"
+            },
+            "publicbeta": {
+                "buildid": "17475168",
+                "description": "Public beta for easy red 2 - expect some bugs",
+                "timeupdated": "1740335468"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9c2fd69454514ddde97c26fb0212ca728b182427f101e9d4f5cdf8ac40462f29"
+    }
+}
