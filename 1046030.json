@@ -1,0 +1,124 @@
+{
+    "appid": "1046030",
+    "type": "Game",
+    "name": "ISLANDERS",
+    "schinese_name": "岛上居民",
+    "isfreeapp": "0",
+    "change_number": "26911957",
+    "update_time": "2025-01-09 02:14:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1046031": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4089494597588283672",
+                    "size": "644055065",
+                    "download": "267876048"
+                },
+                "public_beta": {
+                    "gid": "6390485028993280220",
+                    "size": "150722054",
+                    "download": "44478144"
+                }
+            },
+            "decryptionkey": "33c4649d448f898a1faa5d0e7a66071e5346618ddb5a4e1b92f58ad6ed6dcd2a"
+        },
+        "1046032": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3084849915599169765",
+                    "size": "143159558",
+                    "download": "42116544"
+                },
+                "public_beta": {
+                    "gid": "3084849915599169765",
+                    "size": "143159558",
+                    "download": "42116544"
+                }
+            },
+            "decryptionkey": "d433fcce48745cb3039159d83eab31ff390f1c10eb4282563ca6ea6f7361514b"
+        },
+        "1046033": {
+            "config": {
+                "osarch": "64",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6849514547580334911",
+                    "size": "156807082",
+                    "download": "47085008"
+                },
+                "public_beta": {
+                    "gid": "6849514547580334911",
+                    "size": "156807082",
+                    "download": "47085008"
+                }
+            },
+            "decryptionkey": "0efc1f99591ae0d0caa7e51fb74e78a63cfb5e362dfadaad35b20ca34d38007b"
+        },
+        "1046034": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055632661187445746",
+                    "size": "144120805",
+                    "download": "43375712"
+                },
+                "public_beta": {
+                    "gid": "3055632661187445746",
+                    "size": "144120805",
+                    "download": "43375712"
+                }
+            },
+            "decryptionkey": "790a354ca8d16ce8e7df524e7e4ed74647a03bc7ebe5d537732a2a7ad67a3c35"
+        },
+        "1046035": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4880282025429866213",
+                    "size": "668485728",
+                    "download": "275359216"
+                },
+                "public_beta": {
+                    "gid": "7286291415986740812",
+                    "size": "157000518",
+                    "download": "46562528"
+                }
+            },
+            "decryptionkey": "a5b56c8af584d3060abf18de9ffde1822acc411f6e542e1de83cf3904bbe9750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12722568",
+                "timeupdated": "1700741018"
+            },
+            "public_beta": {
+                "buildid": "5975123",
+                "description": "Public beta branch for testing.",
+                "timeupdated": "1608116403"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
