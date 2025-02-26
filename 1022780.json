@@ -1,0 +1,78 @@
+{
+    "appid": "1022780",
+    "type": "Game",
+    "name": "Animal Fight Club",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26600058",
+    "update_time": "2024-12-12 05:12:34",
+    "depot": {
+        "1022781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1137874669242395561",
+                    "size": "180625945",
+                    "download": "51052624"
+                },
+                "legacy": {
+                    "gid": "8871406064211349553",
+                    "size": "180112595",
+                    "download": "50453520"
+                }
+            },
+            "decryptionkey": "0032c1b3eefa6f5c609e948274aba4242a6296045c31d151457295aaea28e228"
+        },
+        "1022782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6225796006254015335",
+                    "size": "205840180",
+                    "download": "61655968"
+                },
+                "legacy": {
+                    "gid": "1394522830157011353",
+                    "size": "205294060",
+                    "download": "61077152"
+                }
+            },
+            "decryptionkey": "265a8b2374d2ffabdc445f9b233cd97cf89c71a1b7b83906db4937eaeb24356d"
+        },
+        "1022783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1164327247488266487",
+                    "size": "243157021",
+                    "download": "81868400"
+                },
+                "legacy": {
+                    "gid": "2437085558268188583",
+                    "size": "246700303",
+                    "download": "68098128"
+                }
+            },
+            "decryptionkey": "727a6408ad60a700b9b696d2b43a1b0bf220f0391570cf28a2766923b4d096b6"
+        },
+        "baselanguages": "english,italian,spanish,schinese,tchinese",
+        "workshopdepot": "1022780",
+        "branches": {
+            "public": {
+                "buildid": "4194351",
+                "timeupdated": "1568389783"
+            },
+            "legacy": {
+                "buildid": "3781192",
+                "timeupdated": "1557738170"
+            }
+        },
+        "workshopdepotdecryptionkey": "77953717c3b725405cd790cd217358e0e707459874b272a3597242635f7b0386"
+    }
+}
