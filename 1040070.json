@@ -1,0 +1,98 @@
+{
+    "appid": "1040070",
+    "type": "Game",
+    "name": "Merchant of the Skies",
+    "schinese_name": "天空商人",
+    "isfreeapp": "0",
+    "change_number": "27216936",
+    "update_time": "2025-01-29 20:17:46",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1040071": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3742108844535816689",
+                    "size": "403677709",
+                    "download": "61921424"
+                },
+                "beta": {
+                    "gid": "8967898003049020516",
+                    "size": "343427909",
+                    "download": "54315376"
+                }
+            },
+            "decryptionkey": "f342a24dd5fd52c848aa64fa7c7b430d54473e356153a0e0ad343096996a4da9"
+        },
+        "1040072": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "53489488401318790",
+                    "size": "444737233",
+                    "download": "64170480"
+                },
+                "beta": {
+                    "gid": "5529053482400026332",
+                    "size": "350947201",
+                    "download": "56738480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1040073": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3900295369986075510",
+                    "size": "423764107",
+                    "download": "65057632"
+                },
+                "beta": {
+                    "gid": "3735725922135505584",
+                    "size": "359968306",
+                    "download": "57647376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1040075": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "113138988696770694",
+                    "size": "328548519",
+                    "download": "60908368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6189049",
+                "timeupdated": "1612446220"
+            },
+            "beta": {
+                "buildid": "5687512",
+                "description": "latest builds for patch testing and translations",
+                "timeupdated": "1602770409"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
