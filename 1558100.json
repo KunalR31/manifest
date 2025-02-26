@@ -1,0 +1,88 @@
+{
+    "appid": "1558100",
+    "type": "Game",
+    "name": "PixPhys",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26859558",
+    "update_time": "2025-01-04 15:13:16",
+    "depot": {
+        "workshopdepot": "1558100",
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1558101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7474279829369497966",
+                    "size": "196329381",
+                    "download": "56466688"
+                },
+                "0.3_pixel_physics": {
+                    "gid": "7534675044562786093",
+                    "size": "91776189",
+                    "download": "38530016"
+                },
+                "alpha": {
+                    "gid": "1314819429046843108",
+                    "size": "164690219",
+                    "download": "58253680"
+                },
+                "experimental": {
+                    "gid": "479174288211284241",
+                    "size": "205619978",
+                    "download": "57976016"
+                }
+            },
+            "decryptionkey": "304a8fca886d457c4effd6f7f6a9eec5d3f2d992f89f94ed3e319191c0ba68f6"
+        },
+        "1558102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8708772613755212672",
+                    "size": "234122056",
+                    "download": "55355104"
+                },
+                "experimental": {
+                    "gid": "8616080283159794513",
+                    "size": "240046368",
+                    "download": "55970496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "9894825",
+                "timeupdated": "1667931899"
+            },
+            "0.3_pixel_physics": {
+                "buildid": "6935650",
+                "description": "This is a very old version of PixPhys. It implements pixel physics.",
+                "timeupdated": "1624654000"
+            },
+            "alpha": {
+                "buildid": "7049215",
+                "description": "Alpha version of PixPhys.",
+                "timeupdated": "1660506354"
+            },
+            "experimental": {
+                "buildid": "16069941",
+                "description": "Public test branch",
+                "timeupdated": "1729101827"
+            }
+        },
+        "workshopdepotdecryptionkey": "1e261b73072253c247e1d051ac8020d2c6a6245f5bbe823b276e1cbbbefc0c83"
+    }
+}
