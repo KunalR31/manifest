@@ -1,0 +1,76 @@
+{
+    "appid": "1291340",
+    "type": "Game",
+    "name": "Townscaper",
+    "schinese_name": "城镇叠叠乐",
+    "isfreeapp": "0",
+    "change_number": "27092636",
+    "update_time": "2025-01-21 20:09:42",
+    "depot": {
+        "1291341": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3218368929862251450",
+                    "size": "352402846",
+                    "download": "75194032"
+                },
+                "0.14": {
+                    "gid": "5912210771168311544",
+                    "size": "65272487",
+                    "download": "18170480"
+                },
+                "beta": {
+                    "gid": "3218368929862251450",
+                    "size": "352402846",
+                    "download": "75194032"
+                }
+            },
+            "decryptionkey": "e48062fcbad31518ebfc15ef58484aa135b22e600c05a4203431779eab8bc6e3"
+        },
+        "1291342": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4105552185008896131",
+                    "size": "278423174",
+                    "download": "59523408"
+                },
+                "0.14": {
+                    "gid": "2171239653642571494",
+                    "size": "67480698",
+                    "download": "18751776"
+                },
+                "beta": {
+                    "gid": "4105552185008896131",
+                    "size": "278423174",
+                    "download": "59523408"
+                }
+            },
+            "decryptionkey": "f58a8f5b52a3db214461ed2ec8281531fb66e61c15dfe36fca249b06a2addeb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7248348",
+                "timeupdated": "1689365939"
+            },
+            "0.14": {
+                "buildid": "5441317",
+                "description": "Legacy version",
+                "timeupdated": "1602076621"
+            },
+            "beta": {
+                "buildid": "7248348",
+                "description": "Public beta branch",
+                "timeupdated": "1629899209"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
