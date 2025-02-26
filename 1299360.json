@@ -1,0 +1,105 @@
+{
+    "appid": "1299360",
+    "type": "Game",
+    "name": "Mighty Goose",
+    "schinese_name": "暴走大鹅",
+    "isfreeapp": "0",
+    "change_number": "26920187",
+    "update_time": "2025-01-09 16:08:43",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1299361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "497537559640704304",
+                    "size": "159277832",
+                    "download": "140525632"
+                },
+                "beta": {
+                    "gid": "5718985821145865854",
+                    "size": "135258549",
+                    "download": "118975680"
+                },
+                "speedrun": {
+                    "gid": "7731164044376395048",
+                    "size": "131831764",
+                    "download": "115611632"
+                }
+            },
+            "decryptionkey": "ceb18d12e7cb9a34b06e387a69ea822778755935157897637c66f58e671c229b"
+        },
+        "1299362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2881461251181707675",
+                    "size": "166245646",
+                    "download": "140581664"
+                },
+                "beta": {
+                    "gid": "282131278529433520",
+                    "size": "140641701",
+                    "download": "118827552"
+                },
+                "speedrun": {
+                    "gid": "423031081298709094",
+                    "size": "137136420",
+                    "download": "115450832"
+                }
+            },
+            "decryptionkey": "fed834b69d44f9bb1310d4103b16f20743a42c45c645cc1d9e82b2d46098f5d0"
+        },
+        "1299363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2076139861466872795",
+                    "size": "197431625",
+                    "download": "145260960"
+                },
+                "beta": {
+                    "gid": "1179904590176977623",
+                    "size": "153701050",
+                    "download": "122416400"
+                },
+                "speedrun": {
+                    "gid": "4737439282954943789",
+                    "size": "150179449",
+                    "download": "119031552"
+                }
+            },
+            "decryptionkey": "9118511d91fa92341a5529c12167d36b0221394a6be495ea558acda9df7ca3b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9072793",
+                "timeupdated": "1659073921"
+            },
+            "beta": {
+                "buildid": "6865449",
+                "description": "Beta builds for Mighty Goose",
+                "timeupdated": "1623684280"
+            },
+            "speedrun": {
+                "buildid": "6824957",
+                "description": "Speedrunning build for speedrun competition",
+                "timeupdated": "1623071009"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
