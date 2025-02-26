@@ -1,0 +1,67 @@
+{
+    "appid": "1407450",
+    "type": "Game",
+    "name": "大江湖之苍龙与白鸟",
+    "schinese_name": "大江湖之苍龙与白鸟",
+    "isfreeapp": "0",
+    "change_number": "26935039",
+    "update_time": "2025-01-10 12:18:51",
+    "depot": {
+        "baselanguages": "schinese",
+        "1407451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5654515394235203094",
+                    "size": "2159373029",
+                    "download": "1317856208"
+                },
+                "demo": {
+                    "gid": "3057991785736936788",
+                    "size": "610493094",
+                    "download": "413785184"
+                },
+                "old_ea_version": {
+                    "gid": "5890083684420205210",
+                    "size": "1008023806",
+                    "download": "428216160"
+                }
+            },
+            "decryptionkey": "e77c2b5425b6c805511e3c7765549c490def944d6408b724c7f5e5296618e42c"
+        },
+        "1407452": {
+            "config": {
+                "realm": "steamchina",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8296180848148533287",
+                    "size": "2262149961",
+                    "download": "1382030208"
+                }
+            },
+            "decryptionkey": "f34851dd40298961c2625dd380b7a365558b0824159a15b0c7eda39026cd9c42"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16641865",
+                "timeupdated": "1733395584"
+            },
+            "demo": {
+                "buildid": "13761527",
+                "description": "demo version",
+                "timeupdated": "1710588904"
+            },
+            "old_ea_version": {
+                "sc_schinese": "旧EA分支版本",
+                "buildid": "9843813",
+                "description": "旧EA分支版本",
+                "timeupdated": "1726111298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
