@@ -1,0 +1,53 @@
+{
+    "appid": "1136370",
+    "type": "Game",
+    "name": "Bear and Breakfast",
+    "schinese_name": "熊与早餐",
+    "isfreeapp": "0",
+    "change_number": "26902549",
+    "update_time": "2025-01-08 12:15:28",
+    "depot": {
+        "1136371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "820858409044219931",
+                    "size": "1357799178",
+                    "download": "891721376"
+                },
+                "demo": {
+                    "gid": "8442884612868987629",
+                    "size": "3159469482",
+                    "download": "315971728"
+                },
+                "previous-version": {
+                    "gid": "3416738729303420020",
+                    "size": "1357798624",
+                    "download": "891738144"
+                }
+            },
+            "decryptionkey": "97d3fc3cb963c5a0f8ce48675ebb86bdccb88d34addd0ac16e26c038647dcf3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16772141",
+                "timeupdated": "1734625092"
+            },
+            "demo": {
+                "buildid": "6882286",
+                "description": "Archive Branch to keep the Demo Version",
+                "timeupdated": "1636043924"
+            },
+            "previous-version": {
+                "buildid": "16053010",
+                "description": "Keeping the previous game version for posterity.",
+                "timeupdated": "1734625248"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
