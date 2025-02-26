@@ -1,0 +1,78 @@
+{
+    "appid": "1020730",
+    "type": "Game",
+    "name": "Dark Bestiary",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25793116",
+    "update_time": "2024-10-19 05:07:12",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "1020731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5730507442843506176",
+                    "size": "492934655",
+                    "download": "105026272"
+                },
+                "test": {
+                    "gid": "5730507442843506176",
+                    "size": "492934655",
+                    "download": "105026272"
+                }
+            },
+            "decryptionkey": "c092f29fc19ceb4c28e8c5bd3c4466dc1585ba246ba66c52805c89d4345523a1"
+        },
+        "1020732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "572333083558790812",
+                    "size": "498438612",
+                    "download": "106260272"
+                },
+                "test": {
+                    "gid": "572333083558790812",
+                    "size": "498438612",
+                    "download": "106260272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1020733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5470008189957558774",
+                    "size": "506377077",
+                    "download": "107030688"
+                },
+                "test": {
+                    "gid": "5470008189957558774",
+                    "size": "506377077",
+                    "download": "107030688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8117989",
+                "timeupdated": "1643637931"
+            },
+            "test": {
+                "buildid": "8117989",
+                "description": "Don't forget to backup your save files.",
+                "timeupdated": "1643637308"
+            }
+        }
+    }
+}
