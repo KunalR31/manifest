@@ -1,0 +1,101 @@
+{
+    "appid": "1360390",
+    "type": "Game",
+    "name": "Cats and the Other Lives",
+    "schinese_name": "猫与众生",
+    "isfreeapp": "0",
+    "change_number": "27366535",
+    "update_time": "2025-02-08 00:26:25",
+    "depot": {
+        "baselanguages": "english,turkish",
+        "hasdepotsindlc": "0",
+        "1360391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "174276555964371455",
+                    "size": "2120806885",
+                    "download": "1376790864"
+                },
+                "internaltest": {
+                    "gid": "174276555964371455",
+                    "size": "2120806885",
+                    "download": "1376790864"
+                },
+                "mactest": {
+                    "gid": "174276555964371455",
+                    "size": "2120806885",
+                    "download": "1376790864"
+                }
+            },
+            "decryptionkey": "291e0e4443c9d62c97739750e3dd19990f855f925794848896c284a479c491f9"
+        },
+        "1360392": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "2226720": {
+            "dlcappid": "2226720",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2538814004508371294",
+                    "size": "20877667",
+                    "download": "18139920"
+                },
+                "internaltest": {
+                    "gid": "2538814004508371294",
+                    "size": "20877667",
+                    "download": "18139920"
+                },
+                "mactest": {
+                    "gid": "2538814004508371294",
+                    "size": "20877667",
+                    "download": "18139920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1360393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "internaltest": {
+                    "gid": "4505451270540744792",
+                    "size": "2037298171",
+                    "download": "1334406960"
+                },
+                "mactest": {
+                    "gid": "4505451270540744792",
+                    "size": "2037298171",
+                    "download": "1334406960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10128598",
+                "timeupdated": "1670847628"
+            },
+            "internaltest": {
+                "buildid": "10198724",
+                "description": "ForTesting",
+                "timeupdated": "1671704689"
+            },
+            "mactest": {
+                "buildid": "10198724",
+                "description": "forMac",
+                "timeupdated": "1671703644"
+            }
+        }
+    }
+}
