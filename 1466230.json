@@ -1,0 +1,87 @@
+{
+    "appid": "1466230",
+    "type": "Game",
+    "name": "The Holy Gosh Darn",
+    "schinese_name": "神的超级大宝贝",
+    "isfreeapp": "0",
+    "change_number": "27537556",
+    "update_time": "2025-02-18 23:57:13",
+    "depot": {
+        "1466231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "247934132448006554",
+                    "size": "1657718371",
+                    "download": "1314847040"
+                },
+                "demo": {
+                    "gid": "8379414820224075557",
+                    "size": "1065802717",
+                    "download": "755065024"
+                },
+                "ustabilt": {
+                    "gid": "8488633284532476896",
+                    "size": "1626486576",
+                    "download": "1282999072"
+                }
+            },
+            "decryptionkey": "4fe93fff3fec5cb4d2875d252a65b35747c729ad2e3365beb9a05eff6fdb4fa1"
+        },
+        "1466232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8211851067647224907",
+                    "size": "1633310384",
+                    "download": "1311428640"
+                },
+                "ustabilt": {
+                    "gid": "8644437486015438135",
+                    "size": "1778375091",
+                    "download": "1369065856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1466233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1095561294307869079",
+                    "size": "1514080341",
+                    "download": "1159834352"
+                },
+                "ustabilt": {
+                    "gid": "3361713493173740229",
+                    "size": "1439953621",
+                    "download": "1084931856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17409030",
+                "timeupdated": "1739894229"
+            },
+            "demo": {
+                "buildid": "12739252",
+                "description": "demo",
+                "timeupdated": "1700301606"
+            },
+            "ustabilt": {
+                "buildid": "17473690",
+                "description": "ustbilt",
+                "timeupdated": "1740316992"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
