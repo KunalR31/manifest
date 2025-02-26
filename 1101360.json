@@ -1,0 +1,71 @@
+{
+    "appid": "1101360",
+    "type": "Game",
+    "name": "Rock of Ages 3: Make & Break",
+    "schinese_name": "世纪之石3：制造与破坏",
+    "isfreeapp": "0",
+    "change_number": "27500172",
+    "update_time": "2025-02-16 12:15:29",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1101361": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2043251859189117248",
+                    "size": "3520222728",
+                    "download": "3413617920"
+                },
+                "local": {
+                    "gid": "8727818320090103474",
+                    "size": "3683735467",
+                    "download": "3445574800"
+                }
+            },
+            "decryptionkey": "08c2115cb72dce24358deb8abe73e0aae1df9871b4a471fc8338619ed22be736"
+        },
+        "1101362": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1722561155405160708",
+                    "size": "1987174",
+                    "download": "2007808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5663026",
+                "timeupdated": "1602280328"
+            },
+            "local": {
+                "buildid": "5089474",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1590665818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
