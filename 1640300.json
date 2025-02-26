@@ -1,0 +1,51 @@
+{
+    "appid": "1640300",
+    "type": "Game",
+    "name": "Project Warlock II",
+    "schinese_name": "术士计划2",
+    "isfreeapp": "0",
+    "change_number": "27535676",
+    "update_time": "2025-02-18 22:08:45",
+    "depot": {
+        "1640301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1053812035756317709",
+                    "size": "10177546909",
+                    "download": "4066102896"
+                },
+                "chapter2_wargression": {
+                    "gid": "4855901570708881704",
+                    "size": "8725687108",
+                    "download": "2436881760"
+                }
+            },
+            "decryptionkey": "0a4a648a90ec7381d779c624da1caf5b9fec4e69b48d0aae04af2a4011dafe29"
+        },
+        "1640302": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "1640303": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17121818",
+                "timeupdated": "1737751461"
+            },
+            "chapter2_wargression": {
+                "buildid": "14627764",
+                "description": "Project Warlock II: Chapter 2 Wargression (retired)",
+                "timeupdated": "1717692765"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
