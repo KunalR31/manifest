@@ -1,0 +1,60 @@
+{
+    "appid": "1021990",
+    "type": "Demo",
+    "name": "Steel Rats Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:44:53",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1021991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2794354122242806636",
+                    "size": "2572813824",
+                    "download": "2515627216"
+                }
+            },
+            "decryptionkey": "688abf484e5f8f91c248a5f304102530fb35a71eeeaff6b78c410772c1eec05a"
+        },
+        "1021992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "1021993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "3519782",
+                "timeupdated": "1548949110"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
