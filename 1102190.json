@@ -1,0 +1,79 @@
+{
+    "appid": "1102190",
+    "type": "Game",
+    "name": "Monster Train",
+    "schinese_name": "怪物火车",
+    "isfreeapp": "0",
+    "change_number": "26903563",
+    "update_time": "2025-01-08 14:16:37",
+    "depot": {
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1102191": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7945876831977925882",
+                    "size": "1139712578",
+                    "download": "624381744"
+                },
+                "compatibility-testing": {
+                    "gid": "8770606902026577304",
+                    "size": "1350298024",
+                    "download": "731868144"
+                },
+                "public-test-server": {
+                    "gid": "5602552159615286548",
+                    "size": "1225420944",
+                    "download": "681648160"
+                }
+            },
+            "decryptionkey": "b5b7e523cc61fede07b8692d01b67a7acad5a821fe3542e442d8967b803d2fc7"
+        },
+        "1359320": {
+            "dlcappid": "1359320",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2711900422473599541",
+                    "size": "57017933",
+                    "download": "50069824"
+                },
+                "public-test-server": {
+                    "gid": "7783499243211291241",
+                    "size": "66065908",
+                    "download": "56922192"
+                }
+            },
+            "decryptionkey": "a0222facea570990a7261d9c2c4403261b6b0f52330bd28db28da633dfe62a68"
+        },
+        "workshopdepot": "1102190",
+        "branches": {
+            "public": {
+                "buildid": "7651556",
+                "timeupdated": "1635981221"
+            },
+            "compatibility-testing": {
+                "buildid": "5543429",
+                "description": "Help players debug problems",
+                "timeupdated": "1600124652"
+            },
+            "public-test-server": {
+                "buildid": "6063165",
+                "description": "Public test server",
+                "timeupdated": "1610337498"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d8ebe47bde887813525c6fe9f4590ebc004676f13251f5f81e4881e613148e93"
+    }
+}
