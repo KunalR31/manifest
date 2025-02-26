@@ -1,0 +1,90 @@
+{
+    "appid": "1328350",
+    "type": "Game",
+    "name": "Turbo Overkill",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27257410",
+    "update_time": "2025-02-01 00:48:24",
+    "depot": {
+        "baselanguages": "english",
+        "1328351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5209197516293882716",
+                    "size": "7548796204",
+                    "download": "6179099168"
+                },
+                "modding": {
+                    "gid": "1140170376860650024",
+                    "size": "15845491129",
+                    "download": "5294992960"
+                },
+                "v1013": {
+                    "gid": "7976105571149745921",
+                    "size": "12390065389",
+                    "download": "10689225040"
+                },
+                "v1015": {
+                    "gid": "3462523310453271898",
+                    "size": "16085487791",
+                    "download": "11692049376"
+                },
+                "v1020": {
+                    "gid": "1820785217633758627",
+                    "size": "7149097038",
+                    "download": "5852812048"
+                },
+                "beta": {
+                    "gid": "5209197516293882716",
+                    "size": "7548796204",
+                    "download": "6179099168"
+                }
+            },
+            "decryptionkey": "8e7760ee0bd1834f2a2c1caebe0df6cb68d95b39db83171f57d85fc4708bc14b"
+        },
+        "1328352": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "workshopdepot": "1328350",
+        "branches": {
+            "public": {
+                "buildid": "17196456",
+                "timeupdated": "1738342098"
+            },
+            "modding": {
+                "buildid": "12835514",
+                "description": "A branch that has an uncompressed version of the game compiled with Mono",
+                "timeupdated": "1701320216"
+            },
+            "v1013": {
+                "buildid": "11964260",
+                "description": "Legacy branch",
+                "timeupdated": "1693204125"
+            },
+            "v1015": {
+                "buildid": "12047092",
+                "description": "Legacy branch",
+                "timeupdated": "1698279478"
+            },
+            "v1020": {
+                "buildid": "12863964",
+                "description": "Legacy branch",
+                "timeupdated": "1713200760"
+            },
+            "beta": {
+                "buildid": "17196456",
+                "description": "Beta branch for testing new and upcoming features",
+                "timeupdated": "1738315336"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f3150af85768541df981f170727d647ebf35938e658da631991907cf22c02292"
+    }
+}
