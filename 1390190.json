@@ -1,0 +1,173 @@
+{
+    "appid": "1390190",
+    "type": "Game",
+    "name": "APICO",
+    "schinese_name": "蜂语镇",
+    "isfreeapp": "0",
+    "change_number": "27528148",
+    "update_time": "2025-02-18 13:13:49",
+    "depot": {
+        "workshopdepot": "1390190",
+        "1390192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6892084808185059261",
+                    "size": "418398528",
+                    "download": "349899216"
+                },
+                "last_patch": {
+                    "gid": "6718897648539810541",
+                    "size": "382466290",
+                    "download": "341990128"
+                },
+                "apis": {
+                    "gid": "4422127612304562311",
+                    "size": "228450704",
+                    "download": "193105920"
+                },
+                "papilio": {
+                    "gid": "2683308123500065264",
+                    "size": "298290723",
+                    "download": "258087648"
+                },
+                "nautilus": {
+                    "gid": "7179645255686191007",
+                    "size": "271292797",
+                    "download": "231497248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1390193": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6947820814722332421",
+                    "size": "364886521",
+                    "download": "337561488"
+                },
+                "last_patch": {
+                    "gid": "4535943544562132061",
+                    "size": "364888155",
+                    "download": "337558272"
+                },
+                "apis": {
+                    "gid": "3926295215681594729",
+                    "size": "214571260",
+                    "download": "190020224"
+                },
+                "papilio": {
+                    "gid": "5154614258314045007",
+                    "size": "279095319",
+                    "download": "253672416"
+                },
+                "nautilus": {
+                    "gid": "550423104415872589",
+                    "size": "253714534",
+                    "download": "227058160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1390194": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6367278744961248129",
+                    "size": "366021510",
+                    "download": "338255840"
+                },
+                "last_patch": {
+                    "gid": "5362024179769796534",
+                    "size": "366008968",
+                    "download": "338253760"
+                },
+                "apis": {
+                    "gid": "2181752671707510656",
+                    "size": "211756996",
+                    "download": "189474176"
+                },
+                "papilio": {
+                    "gid": "2226296310839045910",
+                    "size": "280374713",
+                    "download": "254435328"
+                },
+                "nautilus": {
+                    "gid": "6794849797868684768",
+                    "size": "254835347",
+                    "download": "227754592"
+                }
+            },
+            "decryptionkey": "a83e5b85042126daf5728d277795885a27f157cce4468f16397147d9b8f22a4b"
+        },
+        "1390191": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4216952454585645188",
+                    "size": "364886521",
+                    "download": "337561488"
+                },
+                "last_patch": {
+                    "gid": "7327619265843763504",
+                    "size": "364888155",
+                    "download": "337558272"
+                },
+                "apis": {
+                    "gid": "4599293347504726276",
+                    "size": "214571260",
+                    "download": "190020224"
+                },
+                "papilio": {
+                    "gid": "2595935529338735439",
+                    "size": "279095319",
+                    "download": "253672416"
+                },
+                "nautilus": {
+                    "gid": "6376952624365960556",
+                    "size": "253714534",
+                    "download": "227058160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16772933",
+                "timeupdated": "1734438267"
+            },
+            "last_patch": {
+                "buildid": "15422146",
+                "description": "This branch will always bee on the last version of the game relative to the current live version",
+                "timeupdated": "1734032070"
+            },
+            "apis": {
+                "buildid": "9333559",
+                "description": "Archived version of the old 1.0 version of APICO (Apis 1.4.3 HF1)",
+                "timeupdated": "1694439939"
+            },
+            "papilio": {
+                "buildid": "11079239",
+                "description": "Archived version of the old 2.0 version of APICO (Papilio 2.2.3)",
+                "timeupdated": "1694439867"
+            },
+            "nautilus": {
+                "buildid": "12596215",
+                "description": "Archived version of the old 3.0 version of APICO (Nautilus 3.2.2)",
+                "timeupdated": "1715181018"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
