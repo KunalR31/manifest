@@ -1,0 +1,101 @@
+{
+    "appid": "1243960",
+    "type": "Game",
+    "name": "Unspottable",
+    "schinese_name": "拳击特工",
+    "isfreeapp": "0",
+    "change_number": "26945376",
+    "update_time": "2025-01-11 01:16:26",
+    "depot": {
+        "1243961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7477416350522418444",
+                    "size": "1283602104",
+                    "download": "247552464"
+                },
+                "beta_testing": {
+                    "gid": "150592160022201587",
+                    "size": "1283577912",
+                    "download": "247537536"
+                },
+                "onlinebeta": {
+                    "gid": "150592160022201587",
+                    "size": "1283577912",
+                    "download": "247537536"
+                }
+            },
+            "decryptionkey": "7aebeffe9f73689183b6674be54492a1f835e508f144bd65d8d558928e23b606"
+        },
+        "1243962": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5932273834234308055",
+                    "size": "1339345472",
+                    "download": "254832304"
+                },
+                "beta_testing": {
+                    "gid": "5932273834234308055",
+                    "size": "1339345472",
+                    "download": "254832304"
+                },
+                "onlinebeta": {
+                    "gid": "5932273834234308055",
+                    "size": "1339345472",
+                    "download": "254832304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1243963": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3400790925089705573",
+                    "size": "1310976601",
+                    "download": "255444784"
+                },
+                "beta_testing": {
+                    "gid": "3400790925089705573",
+                    "size": "1310976601",
+                    "download": "255444784"
+                },
+                "onlinebeta": {
+                    "gid": "3400790925089705573",
+                    "size": "1310976601",
+                    "download": "255444784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "15588786",
+                "timeupdated": "1725445663"
+            },
+            "beta_testing": {
+                "buildid": "15758482",
+                "description": "Beta testing",
+                "timeupdated": "1726758651"
+            },
+            "onlinebeta": {
+                "buildid": "15758482",
+                "description": "Beta branch for Unspottable - Online mode",
+                "timeupdated": "1727874157"
+            }
+        }
+    }
+}
