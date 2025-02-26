@@ -1,0 +1,69 @@
+{
+    "appid": "1268590",
+    "type": "Game",
+    "name": "Millennia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27363922",
+    "update_time": "2025-02-07 21:27:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1268591": {
+            "manifests": {
+                "public": {
+                    "gid": "7145436742673770083",
+                    "size": "6750084266",
+                    "download": "5795966640"
+                },
+                "openbeta": {
+                    "gid": "7145436742673770083",
+                    "size": "6750084266",
+                    "download": "5795966640"
+                }
+            },
+            "decryptionkey": "81443b429135f50985f3d1d2b7b82855ebe63b1472213827ca6cba86b460c55e"
+        },
+        "2647810": {
+            "dlcappid": "2647810",
+            "manifests": {
+                "public": {
+                    "gid": "8194239366616770741",
+                    "size": "261085722",
+                    "download": "225768080"
+                },
+                "openbeta": {
+                    "gid": "8194239366616770741",
+                    "size": "261085722",
+                    "download": "225768080"
+                }
+            },
+            "config": {
+                "optionaldlc": "2647810"
+            },
+            "decryptionkey": "039a5b79e1e5d200d26bf20e35f47fcd977d5e4dca873c10bd85dca5238754a7"
+        },
+        "workshopdepot": "1268590",
+        "branches": {
+            "public": {
+                "buildid": "16767664",
+                "timeupdated": "1736258160"
+            },
+            "openbeta": {
+                "buildid": "16767664",
+                "description": "For public testing of upcoming updates",
+                "timeupdated": "1734473749"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1",
+        "workshopdepotdecryptionkey": "201562bc1be7dd5c80a8f4ab62ef62b593be4919f5c0ffd572bbfb023a7fa4a4"
+    }
+}
