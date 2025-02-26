@@ -1,0 +1,59 @@
+{
+    "appid": "1599600",
+    "type": "Game",
+    "name": "PlateUp!",
+    "schinese_name": "速速上菜！",
+    "isfreeapp": "0",
+    "change_number": "27493076",
+    "update_time": "2025-02-15 18:14:14",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1599600",
+        "1599601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "783837753952585991",
+                    "size": "1417342693",
+                    "download": "406645424"
+                },
+                "crash-fix-test": {
+                    "gid": "3754009520993631004",
+                    "size": "1394071616",
+                    "download": "401544576"
+                },
+                "crossplaybeta": {
+                    "gid": "6594253868093343203",
+                    "size": "1397661267",
+                    "download": "401897600"
+                }
+            },
+            "decryptionkey": "f76247b76f5b0ded8151f64457185810cc0eebc920832653d7c5099888f26754"
+        },
+        "1599602": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17446677",
+                "timeupdated": "1740148911"
+            },
+            "crash-fix-test": {
+                "buildid": "15335463",
+                "description": "Test for Environment crash",
+                "timeupdated": "1723404695"
+            },
+            "crossplaybeta": {
+                "buildid": "15776693",
+                "description": "branch dedicated for crossplay",
+                "timeupdated": "1727881044"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "72c77831f035e3052b3342d9c06fe33b543b258e915f690e240c20c49e89350e"
+    }
+}
