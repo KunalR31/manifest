@@ -1,0 +1,69 @@
+{
+    "appid": "1264280",
+    "type": "Game",
+    "name": "Slipways",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27389093",
+    "update_time": "2025-02-10 01:17:29",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1264281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6520647778771720003",
+                    "size": "751179333",
+                    "download": "494955472"
+                },
+                "previous": {
+                    "gid": "7241632132740960042",
+                    "size": "742849811",
+                    "download": "492446352"
+                }
+            },
+            "decryptionkey": "c6f30f391d892cff62283e848ea9368dad8ebb8658ffb599246c61311023df03"
+        },
+        "1264282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3017957947949100432",
+                    "size": "800338516",
+                    "download": "506591648"
+                },
+                "previous": {
+                    "gid": "3062433167131350827",
+                    "size": "791496285",
+                    "download": "504062592"
+                }
+            },
+            "decryptionkey": "b7fef56f1caa5a060d7a34ddeb10e5da9d151c7ed2244e1ef0c32224cbf9b240"
+        },
+        "workshopdepot": "1264280",
+        "branches": {
+            "public": {
+                "buildid": "15946357",
+                "timeupdated": "1728304100"
+            },
+            "previous": {
+                "buildid": "13741165",
+                "description": "The previous version of the game, for when something goes wrong with an update.",
+                "timeupdated": "1728304062"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8bbaeff4b2b7a594d62e30eb418b4d3e8d63fd09f3e1376f3e71efe551dd38a8"
+    }
+}
