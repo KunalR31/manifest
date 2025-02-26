@@ -1,0 +1,51 @@
+{
+    "appid": "1131450",
+    "type": "Game",
+    "name": "Above Earth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26951327",
+    "update_time": "2025-01-11 11:16:07",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1131451": {
+            "manifests": {
+                "public": {
+                    "gid": "6232847957437309474",
+                    "size": "8105357741",
+                    "download": "7869619120"
+                },
+                "test": {
+                    "gid": "2162896740799813531",
+                    "size": "8103196833",
+                    "download": "7867388272"
+                }
+            },
+            "decryptionkey": "2a7181029e260f8f638f8492e3fff3a111e8f82641b1c798ceb10bc344cfce03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14294721",
+                "timeupdated": "1715112878"
+            },
+            "test": {
+                "buildid": "13647888",
+                "description": "Public Test Branch",
+                "timeupdated": "1709661304"
+            }
+        }
+    }
+}
