@@ -1,0 +1,62 @@
+{
+    "appid": "1345820",
+    "type": "Game",
+    "name": "Ragnarock",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27365207",
+    "update_time": "2025-02-07 23:04:53",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1345821": {
+            "manifests": {
+                "public": {
+                    "gid": "4751545988342561967",
+                    "size": "2334310915",
+                    "download": "2181261952"
+                },
+                "pre-release": {
+                    "gid": "4751545988342561967",
+                    "size": "2334310915",
+                    "download": "2181261952"
+                },
+                "previous-release": {
+                    "gid": "400358408555826991",
+                    "size": "2335281595",
+                    "download": "2182018224"
+                }
+            },
+            "decryptionkey": "237c808fac720391a4b5aaa3414f50b6f7331189972658c386ccbb969f231ef4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17277719",
+                "timeupdated": "1738940110"
+            },
+            "pre-release": {
+                "buildid": "17277719",
+                "description": "Beta branch for Ragnarock. Might not be multiplayer-compatible with the current version.",
+                "timeupdated": "1738940589"
+            },
+            "previous-release": {
+                "buildid": "16816946",
+                "description": "Previous stable version, to compare and keep playing if you experience any regressions. Please notify us on Discord. Might not be multiplayer-compatible with the current version.",
+                "timeupdated": "1738939874"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
