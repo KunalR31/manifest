@@ -1,0 +1,68 @@
+{
+    "appid": "1142220",
+    "type": "Game",
+    "name": "Beat Aim",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25055433",
+    "update_time": "2024-09-03 18:31:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1142221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7325106401524678954",
+                    "size": "463386007",
+                    "download": "117734208"
+                },
+                "development": {
+                    "gid": "6010713499102105187",
+                    "size": "488244269",
+                    "download": "130961312"
+                },
+                "devnewest": {
+                    "gid": "6010713499102105187",
+                    "size": "488244269",
+                    "download": "130961312"
+                }
+            },
+            "decryptionkey": "23a1202b5a6f3e071cd2037db76ed80dc890cb59370c0456581737a7b3f93ee9"
+        },
+        "workshopdepot": "1142220",
+        "baselanguages": "english,koreana,schinese,japanese,polish",
+        "branches": {
+            "public": {
+                "buildid": "9997312",
+                "timeupdated": "1669176011"
+            },
+            "development": {
+                "buildid": "14136733",
+                "description": "Public test version with newest features",
+                "timeupdated": "1713818474"
+            },
+            "devnewest": {
+                "buildid": "14136733",
+                "description": "The newest version, possibly with no leaderboards",
+                "timeupdated": "1713818465"
+            }
+        },
+        "workshopdepotdecryptionkey": "dc556872795b3453d5812b980236a4ac8c09a216333fce9d85de7df5c0478b65"
+    }
+}
