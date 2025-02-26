@@ -1,0 +1,62 @@
+{
+    "appid": "112100",
+    "type": "Game",
+    "name": "Avadon: The Black Fortress",
+    "schinese_name": "阿瓦登：黑暗城堡",
+    "isfreeapp": "0",
+    "change_number": "25657923",
+    "update_time": "2024-10-11 23:38:06",
+    "depot": {
+        "overridescddb": "1",
+        "112102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5064231271319177420",
+                    "size": "121853904",
+                    "download": "109905952"
+                }
+            },
+            "decryptionkey": "314c81ced8bdc6c13899051b8fb557d08b12900522b3837e92ab850cbe8e2eb0"
+        },
+        "112101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6035336520543477858",
+                    "size": "120298675",
+                    "download": "108705872"
+                }
+            },
+            "decryptionkey": "d965f376dba74640b6b2d3cf472161cc92532892f4dc860d134d97b233fee4f8"
+        },
+        "112103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3475063809515985752",
+                    "size": "120546725",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f0baf5d089a4adea8b97c907102edeaa5a9c3761a28e4f808e3bc5c29d0d8bb5"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "4252712",
+                "timeupdated": "1570082679"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
