@@ -1,0 +1,103 @@
+{
+    "appid": "1012610",
+    "type": "Game",
+    "name": "Buoyancy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26896542",
+    "update_time": "2025-01-08 02:12:31",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1012611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8350566963001104732",
+                    "size": "1731627353",
+                    "download": "730432400"
+                },
+                "devbranch": {
+                    "gid": "8350566963001104732",
+                    "size": "1731627353",
+                    "download": "730432400"
+                },
+                "prev_build": {
+                    "gid": "508276962334123404",
+                    "size": "1637921116",
+                    "download": "692537536"
+                }
+            },
+            "decryptionkey": "62bacdb835c60413b463552168a7a438e1a1617b7b0a39be67474ebfbee33737"
+        },
+        "1012612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5269174157375837620",
+                    "size": "1772655711",
+                    "download": "739256800"
+                },
+                "devbranch": {
+                    "gid": "5269174157375837620",
+                    "size": "1772655711",
+                    "download": "739256800"
+                },
+                "prev_build": {
+                    "gid": "146040548576207590",
+                    "size": "1678724212",
+                    "download": "701247376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1012613": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5266864986160390876",
+                    "size": "1812840075",
+                    "download": "741357072"
+                },
+                "devbranch": {
+                    "gid": "5266864986160390876",
+                    "size": "1812840075",
+                    "download": "741357072"
+                },
+                "prev_build": {
+                    "gid": "7802427963975400394",
+                    "size": "1719077190",
+                    "download": "703390224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7679321",
+                "timeupdated": "1636424023"
+            },
+            "devbranch": {
+                "buildid": "7679321",
+                "description": "The latest experimental builds.",
+                "timeupdated": "1636423902"
+            },
+            "prev_build": {
+                "buildid": "7517334",
+                "description": " v3.0.1104",
+                "timeupdated": "1636424184"
+            }
+        }
+    }
+}
