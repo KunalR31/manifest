@@ -1,0 +1,105 @@
+{
+    "appid": "1049410",
+    "type": "Game",
+    "name": "Superliminal",
+    "schinese_name": "超阈限空间 Superliminal",
+    "isfreeapp": "0",
+    "change_number": "27497216",
+    "update_time": "2025-02-16 04:15:23",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian,ukrainian,latam",
+        "workshopdepot": "1049410",
+        "1049411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3646111955971398231",
+                    "size": "16010744346",
+                    "download": "3179274256"
+                },
+                "superliminal-launch-version": {
+                    "gid": "2358911993831512816",
+                    "size": "11438613431",
+                    "download": "2372540912"
+                },
+                "superliminal-previous-patch": {
+                    "gid": "7110343821965905499",
+                    "size": "11376051154",
+                    "download": "2350470960"
+                }
+            },
+            "decryptionkey": "e31233e6b65f2a9bc367c15c7bb132f1d9f0d8812222f22f072d74b78ce4daf9"
+        },
+        "1049412": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3891342746257394329",
+                    "size": "16032166647",
+                    "download": "3185277472"
+                },
+                "superliminal-launch-version": {
+                    "gid": "8931970647707267887",
+                    "size": "11545328103",
+                    "download": "2430820432"
+                },
+                "superliminal-previous-patch": {
+                    "gid": "7988569650394646995",
+                    "size": "11397832552",
+                    "download": "2357419888"
+                }
+            },
+            "decryptionkey": "5e185815008cbba983f7ca6022dbd09dbf7bd5cf60ec34b328e583c337c3d48d"
+        },
+        "1049413": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3065443301679919409",
+                    "size": "16160081746",
+                    "download": "3266972528"
+                },
+                "superliminal-launch-version": {
+                    "gid": "5370944651000226375",
+                    "size": "11771656906",
+                    "download": "2580962208"
+                },
+                "superliminal-previous-patch": {
+                    "gid": "7541506485390969199",
+                    "size": "11469751829",
+                    "download": "2385175936"
+                }
+            },
+            "decryptionkey": "2aa29e12cf628421a5b1391cf45cbb1258d24a2c01973be9070237e1e406e3c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10651429",
+                "timeupdated": "1677611378"
+            },
+            "superliminal-launch-version": {
+                "buildid": "5785867",
+                "description": "Version 1.0",
+                "timeupdated": "1605828003"
+            },
+            "superliminal-previous-patch": {
+                "buildid": "5952707",
+                "description": "Branch for the last patch",
+                "timeupdated": "1619599982"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b26cfedae29d54a4070130f05dc1ea5e88a4a14f1b3f38e899667e46856b0bb7"
+    }
+}
