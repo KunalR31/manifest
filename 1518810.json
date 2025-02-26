@@ -1,0 +1,81 @@
+{
+    "appid": "1518810",
+    "type": "Game",
+    "name": "Koi Farm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25662910",
+    "update_time": "2024-10-11 23:50:00",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
+        "hasdepotsindlc": "0",
+        "1518811": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2344503477465998492",
+                    "size": "314392338",
+                    "download": "134105664"
+                },
+                "beta": {
+                    "gid": "2344503477465998492",
+                    "size": "314392338",
+                    "download": "134105664"
+                }
+            },
+            "decryptionkey": "e98c51085fd53e20c763f8600cd14f251a51b2fa35a36f6d4981284ef2bff056"
+        },
+        "1518812": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6475082431065093497",
+                    "size": "325639865",
+                    "download": "131939840"
+                },
+                "beta": {
+                    "gid": "6475082431065093497",
+                    "size": "325639865",
+                    "download": "131939840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1518813": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8199363149701983409",
+                    "size": "319218468",
+                    "download": "133513520"
+                },
+                "beta": {
+                    "gid": "4145064457616414885",
+                    "size": "319218897",
+                    "download": "133513584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14233916",
+                "timeupdated": "1714578588"
+            },
+            "beta": {
+                "buildid": "14233911",
+                "description": "beta versions",
+                "timeupdated": "1714578542"
+            }
+        }
+    }
+}
