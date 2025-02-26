@@ -1,0 +1,74 @@
+{
+    "appid": "1432100",
+    "type": "Game",
+    "name": "The Bookwalker",
+    "schinese_name": "书行者",
+    "isfreeapp": "0",
+    "change_number": "27436076",
+    "update_time": "2025-02-12 17:21:43",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1432101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4220389574143591608",
+                    "size": "12756489369",
+                    "download": "5475135888"
+                },
+                "test": {
+                    "gid": "2025501790235100009",
+                    "size": "7442692160",
+                    "download": "6423437216"
+                }
+            },
+            "decryptionkey": "35518dbcaa6f636a0c3a6397d8d9d266052610ee877a8b31a4c0944e976a8e7c"
+        },
+        "1432102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "7721003405534853279",
+                    "size": "12778460257",
+                    "download": "5486940544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2485400": {
+            "dlcappid": "2485400",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2303825314082641113",
+                    "size": "379136573",
+                    "download": "379830176"
+                },
+                "test": {
+                    "gid": "2303825314082641113",
+                    "size": "379136573",
+                    "download": "379830176"
+                }
+            },
+            "decryptionkey": "1c2044c2a9a0d4c545c013e0cfce89c6c2b91c5918ce8cebe31523193f727399"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11675945",
+                "timeupdated": "1689090467"
+            },
+            "test": {
+                "buildid": "11886102",
+                "description": "test",
+                "timeupdated": "1691431555"
+            }
+        }
+    }
+}
