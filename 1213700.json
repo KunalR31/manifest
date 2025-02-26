@@ -1,0 +1,77 @@
+{
+    "appid": "1213700",
+    "type": "Game",
+    "name": "Spirit of the North",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27274535",
+    "update_time": "2025-02-02 13:11:34",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1213701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4191926537624696875",
+                    "size": "3848599643",
+                    "download": "3746649456"
+                },
+                "public_update_beta_branch": {
+                    "gid": "4191926537624696875",
+                    "size": "3848599643",
+                    "download": "3746649456"
+                },
+                "shadowbugtestingbranch": {
+                    "gid": "6294106583366576833",
+                    "size": "3709618827",
+                    "download": "3638292960"
+                },
+                "sotn_standard_edition": {
+                    "gid": "2472757975669187391",
+                    "size": "3702854080",
+                    "download": "3631495952"
+                }
+            },
+            "decryptionkey": "4dfe3c7a1d433a9b7102f47919dde1f0b94b175cad010ab9041d54ec05c6ab4d"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "6112756",
+                "timeupdated": "1612447134"
+            },
+            "public_update_beta_branch": {
+                "buildid": "6112756",
+                "description": "Public Update Beta Branch",
+                "timeupdated": "1611169338"
+            },
+            "shadowbugtestingbranch": {
+                "buildid": "4906433",
+                "timeupdated": "1594833186"
+            },
+            "sotn_standard_edition": {
+                "buildid": "5755320",
+                "description": "Standard Edition of Spirit of the North",
+                "timeupdated": "1611247528"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
