@@ -1,0 +1,56 @@
+{
+    "appid": "1151250",
+    "type": "Game",
+    "name": "Horror Story: Hallowseed",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26766230",
+    "update_time": "2024-12-24 04:22:18",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1151251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6557019955380623251",
+                    "size": "15082290540",
+                    "download": "14640006416"
+                },
+                "old_story": {
+                    "gid": "8223586169359552651",
+                    "size": "12246146544",
+                    "download": "11766746512"
+                }
+            },
+            "decryptionkey": "55892b5dee52c0a03551550d89bcbb67c26ac3dd88ff14b60798c1c2404be33d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7711906",
+                "timeupdated": "1637071230"
+            },
+            "old_story": {
+                "buildid": "5882323",
+                "description": "Original version of Hallowseed",
+                "timeupdated": "1632143218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
