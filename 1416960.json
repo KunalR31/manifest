@@ -1,0 +1,70 @@
+{
+    "appid": "1416960",
+    "type": "Game",
+    "name": "Everafter Falls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27179007",
+    "update_time": "2025-01-27 15:26:59",
+    "depot": {
+        "baselanguages": "english,french,spanish,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1416961": {
+            "manifests": {
+                "public": {
+                    "gid": "5836748569160769135",
+                    "size": "401816186",
+                    "download": "262375280"
+                }
+            },
+            "decryptionkey": "2257e99decaf0453ec32df3a6762cc771e6ad768998a6dab444a236f02315163"
+        },
+        "1416962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7295132869356492976",
+                    "size": "395622733",
+                    "download": "259075024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1416963": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1835124127576755116",
+                    "size": "516789356",
+                    "download": "279736928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15577438",
+                "timeupdated": "1725365627"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
