@@ -1,0 +1,54 @@
+{
+    "appid": "1522820",
+    "type": "Game",
+    "name": "Orcs Must Die! 3",
+    "schinese_name": "兽人必须死3",
+    "isfreeapp": "0",
+    "change_number": "27315332",
+    "update_time": "2025-02-05 06:11:45",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1522821": {
+            "manifests": {
+                "public": {
+                    "gid": "4994883792205412410",
+                    "size": "13603861423",
+                    "download": "11032557184"
+                },
+                "local": {
+                    "gid": "8359337996581703660",
+                    "size": "13695857537",
+                    "download": "11055781520"
+                }
+            },
+            "decryptionkey": "5c5a37b435d9eef062eaf42d50bc6406d1b5b39b7b0a78023b11b26e02517422"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15042154",
+                "timeupdated": "1721222014"
+            },
+            "local": {
+                "buildid": "15039070",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1721066198"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
