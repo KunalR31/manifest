@@ -1,0 +1,94 @@
+{
+    "appid": "1227690",
+    "type": "Game",
+    "name": "Severed Steel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26963426",
+    "update_time": "2025-01-13 01:08:51",
+    "depot": {
+        "workshopdepot": "1227690",
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1227691": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7687532980808486604",
+                    "size": "3214720789",
+                    "download": "1449322816"
+                },
+                "oldleaderboards": {
+                    "gid": "7038995986383674598",
+                    "size": "3172486968",
+                    "download": "1431142736"
+                },
+                "ostupdate": {
+                    "gid": "8064998565269435593",
+                    "size": "3214134883",
+                    "download": "1449517520"
+                }
+            },
+            "decryptionkey": "3be8c18f70577f9b144fe8d86509526469d04d1158eadd101ab884027342f019"
+        },
+        "1754230": {
+            "dlcappid": "1754230",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2121775993643672375",
+                    "size": "12401807",
+                    "download": "11516528"
+                },
+                "oldleaderboards": {
+                    "gid": "2121775993643672375",
+                    "size": "12401807",
+                    "download": "11516528"
+                },
+                "ostupdate": {
+                    "gid": "2121775993643672375",
+                    "size": "12401807",
+                    "download": "11516528"
+                }
+            },
+            "decryptionkey": "6d97c56331877a75aae2999186d701176e3b67930cfbb382fee4f5af3627cc94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16558843",
+                "timeupdated": "1732747680"
+            },
+            "oldleaderboards": {
+                "buildid": "12212370",
+                "description": "last build witih old leaderboards",
+                "timeupdated": "1698415071"
+            },
+            "ostupdate": {
+                "buildid": "13460196",
+                "description": "before the new loc update",
+                "timeupdated": "1727009985"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "792f092873cdd11803d176b904ea889c22960946d7f5af105e0aa065a15165ae"
+    }
+}
