@@ -1,0 +1,56 @@
+{
+    "appid": "1562940",
+    "type": "Game",
+    "name": "英雄伝説 創の軌跡",
+    "schinese_name": "英雄传说 创之轨迹",
+    "isfreeapp": "0",
+    "change_number": "26984812",
+    "update_time": "2025-01-14 14:51:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1562941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7224740724412495727",
+                    "size": "43847395443",
+                    "download": "31657090704"
+                },
+                "1.10": {
+                    "gid": "2504388095903895814",
+                    "size": "43847419371",
+                    "download": "31657116400"
+                }
+            },
+            "decryptionkey": "09999efc7850199164d13bcc263c37847c3476fd2dba729c3cf1a51db410d77e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16251753",
+                "timeupdated": "1730380106"
+            },
+            "1.10": {
+                "buildid": "8543325",
+                "description": "1.10",
+                "timeupdated": "1730326423"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
