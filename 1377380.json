@@ -1,0 +1,125 @@
+{
+    "appid": "1377380",
+    "type": "Game",
+    "name": "Night of the Dead",
+    "schinese_name": "死亡之夜",
+    "isfreeapp": "0",
+    "change_number": "27108160",
+    "update_time": "2025-01-22 16:22:16",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,arabic,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1377381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1931549687264297069",
+                    "size": "32964867383",
+                    "download": "12041569360"
+                },
+                "1.2.4": {
+                    "gid": "4808012861772727043",
+                    "size": "28563369305",
+                    "download": "7862910512"
+                },
+                "1.3.2": {
+                    "gid": "7941499401732499872",
+                    "size": "29253574074",
+                    "download": "7862522048"
+                },
+                "2.0.10": {
+                    "gid": "2949843560484504458",
+                    "size": "58697543540",
+                    "download": "13941731232"
+                },
+                "2.1.4": {
+                    "gid": "5852156906740631304",
+                    "size": "51299986592",
+                    "download": "12780796384"
+                },
+                "2.4.1": {
+                    "gid": "2815751377896017482",
+                    "size": "52373702579",
+                    "download": "13256334848"
+                },
+                "3.3.2": {
+                    "gid": "7765352092407571823",
+                    "size": "33544754202",
+                    "download": "12202227536"
+                },
+                "3.4.4": {
+                    "gid": "1799855788396639723",
+                    "size": "33205676651",
+                    "download": "12132487824"
+                }
+            },
+            "decryptionkey": "6addb8dd08b6d64b9aa384474d0208f9121b2d32289af430eb93a7c200fac05c"
+        },
+        "2635010": {
+            "dlcappid": "2635010",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "15044491",
+                "timeupdated": "1721106053"
+            },
+            "1.2.4": {
+                "buildid": "8257360",
+                "description": "Stable version of 1.2.x",
+                "timeupdated": "1649984466"
+            },
+            "1.3.2": {
+                "buildid": "8833210",
+                "description": "Stable version of 1.3.x",
+                "timeupdated": "1664528557"
+            },
+            "2.0.10": {
+                "buildid": "10915426",
+                "description": "Stable version of 2.0.x",
+                "timeupdated": "1683538761"
+            },
+            "2.1.4": {
+                "buildid": "11888983",
+                "description": "Stable version of 2.1.x",
+                "timeupdated": "1695376641"
+            },
+            "2.4.1": {
+                "buildid": "12610231",
+                "description": "Stable version of 2.4.x",
+                "timeupdated": "1701164521"
+            },
+            "3.3.2": {
+                "buildid": "14105807",
+                "description": "Stable version of 3.3.x",
+                "timeupdated": "1716167603"
+            },
+            "3.4.4": {
+                "buildid": "14517359",
+                "description": "Stable version of 3.4.x",
+                "timeupdated": "1717144237"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
