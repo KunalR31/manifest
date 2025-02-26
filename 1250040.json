@@ -1,0 +1,76 @@
+{
+    "appid": "1250040",
+    "type": "Game",
+    "name": "PASVAN",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25594908",
+    "update_time": "2024-10-09 01:01:35",
+    "depot": {
+        "baselanguages": "english,turkish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1250041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "786690842448070645",
+                    "size": "582176162",
+                    "download": "377961024"
+                },
+                "1250041": {
+                    "gid": "786690842448070645",
+                    "size": "582176162",
+                    "download": "377961024"
+                },
+                "1250043": {
+                    "gid": "3956344561626460222",
+                    "size": "574367493",
+                    "download": "374496688"
+                }
+            },
+            "decryptionkey": "555ea64356a0c2435d254f3c11a587787ea1f0aa9e846a7f4083d8fa8994453f"
+        },
+        "1250043": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1262190544337629034",
+                    "size": "604728473",
+                    "download": "384272832"
+                },
+                "1250043": {
+                    "gid": "1262190544337629034",
+                    "size": "604728473",
+                    "download": "384272832"
+                }
+            },
+            "decryptionkey": "a38f0cab7aa02439d7126283bc09910a92f3a68f8b5502a0a4f92e5035246f47"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10072389",
+                "timeupdated": "1670094277"
+            },
+            "1250041": {
+                "buildid": "10072334",
+                "description": "Pasvan windows",
+                "timeupdated": "1670093352"
+            },
+            "1250043": {
+                "buildid": "10072376",
+                "description": "Pasvan mac",
+                "timeupdated": "1670093978"
+            }
+        }
+    }
+}
