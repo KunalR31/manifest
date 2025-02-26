@@ -1,0 +1,67 @@
+{
+    "appid": "1290",
+    "type": "Tool",
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27505633",
+    "update_time": "2025-02-17 03:36:42",
+    "depot": {
+        "overridescddb": "1",
+        "1281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                }
+            },
+            "depotfromapp": "1280",
+            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
+        },
+        "1291": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5803402660365387711",
+                    "size": "2066093291",
+                    "download": "904388384"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "3431600298929727963",
+                    "size": "794647",
+                    "download": "254192"
+                },
+                "prerelease": {
+                    "gid": "8061254468708826149",
+                    "size": "2040092502",
+                    "download": "898734816"
+                }
+            },
+            "decryptionkey": "7c4a5055dd1b27cad7360b9172a473af3a4c0c8f8b12ce9b0070b8e66936d6ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16273989",
+                "timeupdated": "1730544898"
+            },
+            "legacy-v6.0.0": {
+                "buildid": "1026294",
+                "description": "v6.0.0",
+                "timeupdated": "1677240195"
+            },
+            "prerelease": {
+                "buildid": "12027408",
+                "description": " \tPre-release testing branch",
+                "timeupdated": "1692921611"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
