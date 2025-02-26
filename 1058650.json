@@ -1,0 +1,64 @@
+{
+    "appid": "1058650",
+    "type": "Game",
+    "name": "Beyond The Wire",
+    "schinese_name": "越过壕沟",
+    "isfreeapp": "0",
+    "change_number": "27493784",
+    "update_time": "2025-02-15 20:15:45",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1058651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6612621698412921163",
+                    "size": "72655759987",
+                    "download": "30385536320"
+                },
+                "public-testing": {
+                    "gid": "1017610619737173736",
+                    "size": "51198285450",
+                    "download": "21233372416"
+                }
+            },
+            "decryptionkey": "d57213f778b8eb41050e34ddb415d21d0d745a0288e6897e4f6eda04b6f358e8"
+        },
+        "baselanguages": "english,german,french,schinese",
+        "branches": {
+            "public": {
+                "buildid": "11224329",
+                "timeupdated": "1688669978"
+            },
+            "public-testing": {
+                "buildid": "7650266",
+                "description": "public testing branch",
+                "timeupdated": "1635964598"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
