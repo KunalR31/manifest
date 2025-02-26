@@ -1,0 +1,84 @@
+{
+    "appid": "1238580",
+    "type": "DLC",
+    "name": "A800",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27530772",
+    "update_time": "2025-02-18 17:04:36",
+    "depot": {
+        "1238580": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1238580"
+            },
+            "dlcappid": "1238580",
+            "manifests": {
+                "public": {
+                    "gid": "4644692879897011594",
+                    "size": "846892",
+                    "download": "308512"
+                },
+                "nightly": {
+                    "gid": "5821703486523176747",
+                    "size": "846892",
+                    "download": "308368"
+                }
+            },
+            "decryptionkey": "40a3e430a7155a168fd988754ab31ab03592aac592fe0cafc9c097f94b7efdb3"
+        },
+        "1238581": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1238580"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7589814259229912455",
+                    "size": "870912",
+                    "download": "288416"
+                },
+                "nightly": {
+                    "gid": "7589814259229912455",
+                    "size": "870912",
+                    "download": "288416"
+                }
+            },
+            "dlcappid": "1238580",
+            "decryptionkey": ""
+        },
+        "1238582": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1238580"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1998073793102008479",
+                    "size": "1799600",
+                    "download": "582752"
+                },
+                "nightly": {
+                    "gid": "1998073793102008479",
+                    "size": "1799600",
+                    "download": "582752"
+                }
+            },
+            "dlcappid": "1238580",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911318",
+                "timeupdated": "1736093671"
+            },
+            "nightly": {
+                "buildid": "17472494",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740302349"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
