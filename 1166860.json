@@ -1,0 +1,74 @@
+{
+    "appid": "1166860",
+    "type": "Game",
+    "name": "Rival Stars Horse Racing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27408519",
+    "update_time": "2025-02-11 04:53:05",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1166861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7949479079215709821",
+                    "size": "4234441113",
+                    "download": "2540634640"
+                },
+                "local": {
+                    "gid": "5568375545895013952",
+                    "size": "2776915580",
+                    "download": "1680212256"
+                }
+            },
+            "decryptionkey": "be661b31efc83ddcbf1879df7a3465fef4cdb42a9dec1cd505fa895f552ad898"
+        },
+        "1166862": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "604179018081782584",
+                    "size": "4481393040",
+                    "download": "2583047120"
+                },
+                "local": {
+                    "gid": "7676226893386532025",
+                    "size": "3003168638",
+                    "download": "1715058128"
+                }
+            },
+            "decryptionkey": "461741bf6dbb540ea3aa64908a044ce59a495b3043e37baa6fbe66c008befe6c"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,latam",
+        "workshopdepot": "1166860",
+        "branches": {
+            "public": {
+                "buildid": "17108962",
+                "timeupdated": "1739220779"
+            },
+            "local": {
+                "buildid": "6890468",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1623981683"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
