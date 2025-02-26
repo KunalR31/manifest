@@ -1,0 +1,121 @@
+{
+    "appid": "1638300",
+    "type": "Game",
+    "name": "Solargene",
+    "schinese_name": "太阳基因",
+    "isfreeapp": "0",
+    "change_number": "27511417",
+    "update_time": "2025-02-17 15:59:17",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1638301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611253973017957431",
+                    "size": "12484396087",
+                    "download": "11603560112"
+                },
+                "v0.10": {
+                    "gid": "7692265208928600718",
+                    "size": "13139757235",
+                    "download": "11905534144"
+                },
+                "v0.11": {
+                    "gid": "3214573469612707872",
+                    "size": "12140121616",
+                    "download": "11269315008"
+                },
+                "v0.12": {
+                    "gid": "567532839759560941",
+                    "size": "12351474207",
+                    "download": "11443004512"
+                },
+                "v0.9": {
+                    "gid": "4402933993314346324",
+                    "size": "19852563245",
+                    "download": "18471607568"
+                },
+                "beta": {
+                    "gid": "2089828412329594067",
+                    "size": "12482991922",
+                    "download": "11602166496"
+                },
+                "debug": {
+                    "gid": "5197290169008785584",
+                    "size": "12733448764",
+                    "download": "11855215008"
+                },
+                "v0.13": {
+                    "gid": "6171916185342827083",
+                    "size": "12563920997",
+                    "download": "11691836560"
+                },
+                "v0.14": {
+                    "gid": "1370041557244229436",
+                    "size": "12733441692",
+                    "download": "11855105712"
+                }
+            },
+            "decryptionkey": "0642616772481bc9143398fa671663a44073b87df14e66053c1001ef32f2fecf"
+        },
+        "workshopdepot": "1638300",
+        "branches": {
+            "public": {
+                "buildid": "17278481",
+                "timeupdated": "1739179278"
+            },
+            "v0.10": {
+                "buildid": "9554563",
+                "description": "old stable version",
+                "timeupdated": "1669982598"
+            },
+            "v0.11": {
+                "buildid": "10665582",
+                "description": "old stable version",
+                "timeupdated": "1683729746"
+            },
+            "v0.12": {
+                "buildid": "12130230",
+                "description": "old stable version",
+                "timeupdated": "1706880172"
+            },
+            "v0.9": {
+                "buildid": "8574710",
+                "description": "old stable version",
+                "timeupdated": "1657193757"
+            },
+            "beta": {
+                "buildid": "17389832",
+                "description": "\tTesting builds before publishing to the main branch",
+                "timeupdated": "1739779153"
+            },
+            "debug": {
+                "buildid": "15266723",
+                "description": "debugging builds",
+                "timeupdated": "1725354444"
+            },
+            "v0.13": {
+                "buildid": "14664528",
+                "description": "old stable version",
+                "timeupdated": "1721542369"
+            },
+            "v0.14": {
+                "buildid": "15459665",
+                "description": "old stable version",
+                "timeupdated": "1739188274"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e1998dcd7d5e037400988a988c2b7dcb987a8a23d6a46fa64e77d92fc32d2bfe"
+    }
+}
