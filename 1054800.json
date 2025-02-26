@@ -1,0 +1,67 @@
+{
+    "appid": "1054800",
+    "type": "Game",
+    "name": "变量 - Variables",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26827345",
+    "update_time": "2025-01-01 01:17:55",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1054801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7580417875015902650",
+                    "size": "762366466",
+                    "download": "58488896"
+                },
+                "beta": {
+                    "gid": "1369794738217980918",
+                    "size": "911813018",
+                    "download": "75969040"
+                }
+            },
+            "decryptionkey": "b61c27c4367ffb80382568619b93b49db51671481e23af67d538f0f8e55eb752"
+        },
+        "1054802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4817984972933793278",
+                    "size": "420513670",
+                    "download": "54519392"
+                },
+                "beta": {
+                    "gid": "4817984972933793278",
+                    "size": "420513670",
+                    "download": "54519392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4343628",
+                "timeupdated": "1572517174"
+            },
+            "beta": {
+                "buildid": "4464287",
+                "timeupdated": "1575583866"
+            }
+        }
+    }
+}
