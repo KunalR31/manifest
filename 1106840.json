@@ -1,0 +1,84 @@
+{
+    "appid": "1106840",
+    "type": "Game",
+    "name": "Hydroneer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26920187",
+    "update_time": "2025-01-09 16:08:40",
+    "depot": {
+        "workshopdepot": "1106840",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1106841": {
+            "manifests": {
+                "public": {
+                    "gid": "5734271348429548282",
+                    "size": "13208365528",
+                    "download": "3253867168"
+                },
+                "early_development_version_0.8": {
+                    "gid": "972307823443412518",
+                    "size": "4641504666",
+                    "download": "1560106432"
+                },
+                "early_development_version_1.2": {
+                    "gid": "6023466821207174806",
+                    "size": "5536122476",
+                    "download": "1853651264"
+                },
+                "early_development_version_1.7": {
+                    "gid": "6333599003478152052",
+                    "size": "7154213229",
+                    "download": "2231905408"
+                }
+            },
+            "decryptionkey": "114df5212d170463951d552d5a36142d36654afbb6117152ad0cc34fee155477"
+        },
+        "2659380": {
+            "dlcappid": "2659380",
+            "manifests": {
+                "public": {
+                    "gid": "1870936844434479803",
+                    "size": "1629678268",
+                    "download": "326513120"
+                }
+            },
+            "decryptionkey": "a4dbcd198ebee0417d9d38e429a3089d950b236f5834f4b33c552f8c58df9ed2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14588238",
+                "timeupdated": "1717436644"
+            },
+            "early_development_version_0.8": {
+                "buildid": "5557756",
+                "description": "a look into an earlier version of Hydroneer before the game's release.",
+                "timeupdated": "1600346383"
+            },
+            "early_development_version_1.2": {
+                "buildid": "5000873",
+                "description": "a look into an earlier version of Hydroneer on release day.",
+                "timeupdated": "1683238089"
+            },
+            "early_development_version_1.7": {
+                "buildid": "7765219",
+                "description": "a look into Hydroneer before 2.0.",
+                "timeupdated": "1650911194"
+            }
+        },
+        "workshopdepotdecryptionkey": "e0dfbcb5b6a7c5b5b9a6da8c2263f5dc1d35d2ea0aeabab7b6965788e2a57e47"
+    }
+}
