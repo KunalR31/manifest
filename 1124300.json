@@ -1,0 +1,142 @@
+{
+    "appid": "1124300",
+    "type": "Game",
+    "name": "HUMANKIND™",
+    "schinese_name": "人类",
+    "isfreeapp": "0",
+    "change_number": "27515089",
+    "update_time": "2025-02-17 20:15:47",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,polish,turkish,brazilian",
+        "1124301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5085921668430862400",
+                    "size": "37017648014",
+                    "download": "14886003264"
+                },
+                "rollback": {
+                    "gid": "2936869216781286952",
+                    "size": "36783977842",
+                    "download": "14830395040"
+                },
+                "update_preview": {
+                    "gid": "4047577098521019287",
+                    "size": "37017647208",
+                    "download": "14885965824"
+                }
+            },
+            "decryptionkey": "31824a528b21cc0a39767df59e54f348eea747f224c7df02c059dceeb02d744a"
+        },
+        "1124302": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6353129257993443684",
+                    "size": "37060456128",
+                    "download": "14896821968"
+                },
+                "rollback": {
+                    "gid": "1422004937408954799",
+                    "size": "36826784907",
+                    "download": "14847318032"
+                },
+                "update_preview": {
+                    "gid": "4744833801444402146",
+                    "size": "37060455221",
+                    "download": "14896842624"
+                }
+            },
+            "decryptionkey": "a69d865390db19a0c3c7a5a141b33fbbb1b732aff23e1b9cc0f5b7bc706aa623"
+        },
+        "1124303": {
+            "dlcappid": "1633650",
+            "manifests": {
+                "public": {
+                    "gid": "4307787678226630570",
+                    "size": "249854910",
+                    "download": "188456944"
+                },
+                "rollback": {
+                    "gid": "4307787678226630570",
+                    "size": "249854910",
+                    "download": "188456944"
+                },
+                "update_preview": {
+                    "gid": "4307787678226630570",
+                    "size": "249854910",
+                    "download": "188456944"
+                }
+            },
+            "decryptionkey": "5193634fe68221a87011d503d6041e6f94ecd34252547c4e9a7bd2dfd3d9cdc7"
+        },
+        "workshopdepot": "1124300",
+        "branches": {
+            "public": {
+                "buildid": "17423584",
+                "timeupdated": "1739973830"
+            },
+            "rollback": {
+                "buildid": "16460781",
+                "description": "The previous version of the game, before the last update.",
+                "timeupdated": "1739474815"
+            },
+            "update_preview": {
+                "buildid": "17352694",
+                "description": "Preview branch for the next udpate. Please be aware that it may be unstable and not compatible with vanilla multiplayer.",
+                "timeupdated": "1739454974"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4d092aea0cdc3bc272cb80eb0511617bc474b5cdafcebae2408b700eadf9ce84"
+    }
+}
