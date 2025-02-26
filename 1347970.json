@@ -1,0 +1,61 @@
+{
+    "appid": "1347970",
+    "type": "Game",
+    "name": "Patch Quest",
+    "schinese_name": "拼贴冒险传 / Patch Quest",
+    "isfreeapp": "0",
+    "change_number": "27069709",
+    "update_time": "2025-01-20 12:08:07",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1347971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3252623879815885615",
+                    "size": "748729425",
+                    "download": "408649584"
+                },
+                "experimental": {
+                    "gid": "3438680658800816171",
+                    "size": "748730525",
+                    "download": "408618464"
+                }
+            },
+            "decryptionkey": "16b30d6e1a5efac95b1bbef8ba62ccb8d5adb88708f3b78d767186bfe526b462"
+        },
+        "2333170": {
+            "dlcappid": "2333170",
+            "manifests": {
+                "public": {
+                    "gid": "2311334381340924520",
+                    "size": "221047190",
+                    "download": "221013968"
+                }
+            },
+            "decryptionkey": "93d21540aa70eeaf25a19ca9acac7f6bde6888732a502b77728039fd042c6571"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11694594",
+                "timeupdated": "1689257681"
+            },
+            "experimental": {
+                "buildid": "11630699",
+                "description": "The very latest version of Patch Quest. May contain bugs!",
+                "timeupdated": "1688560529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
