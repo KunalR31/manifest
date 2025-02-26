@@ -1,0 +1,69 @@
+{
+    "appid": "1107280",
+    "type": "Demo",
+    "name": "Virtual Home Theater Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26822117",
+    "update_time": "2024-12-31 09:48:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1107281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7441286276846669179",
+                    "size": "62847146",
+                    "download": "42121936"
+                },
+                "v1.17.1": {
+                    "gid": "2383203851043414295",
+                    "size": "62621655",
+                    "download": "42007920"
+                },
+                "beta": {
+                    "gid": "4166497670604917131",
+                    "size": "62872745",
+                    "download": "42123872"
+                },
+                "previous": {
+                    "gid": "3865645761422612797",
+                    "size": "62832810",
+                    "download": "42118096"
+                }
+            },
+            "decryptionkey": "b9f7dcd31c9f550627c07cfe85bb7ca22e9b70d68377a22fe2145f1fc007307c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16358190",
+                "timeupdated": "1731331342"
+            },
+            "v1.17.1": {
+                "buildid": "10671550",
+                "description": "v1.17.1",
+                "timeupdated": "1709322045"
+            },
+            "beta": {
+                "buildid": "16878726",
+                "description": "Public beta branch",
+                "timeupdated": "1735609683"
+            },
+            "previous": {
+                "buildid": "15844049",
+                "description": "Public previous stable version branch",
+                "timeupdated": "1729982040"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
