@@ -1,0 +1,56 @@
+{
+    "appid": "1110910",
+    "type": "Game",
+    "name": "Mortal Shell",
+    "schinese_name": "致命躯壳",
+    "isfreeapp": "0",
+    "change_number": "26909701",
+    "update_time": "2025-01-08 23:18:07",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1110911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "191700587065152978",
+                    "size": "14940657110",
+                    "download": "7464782016"
+                },
+                "rtx-on": {
+                    "gid": "6955487124048433830",
+                    "size": "30972761141",
+                    "download": "15874881600"
+                }
+            },
+            "decryptionkey": "c6a18b263aa9a616ceb8bd5abf647a4c2190ed55748548225a1a44cc4d4c117e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7247979",
+                "timeupdated": "1629935650"
+            },
+            "rtx-on": {
+                "buildid": "4662292",
+                "timeupdated": "1581389138"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
