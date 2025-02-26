@@ -1,0 +1,56 @@
+{
+    "appid": "1121710",
+    "type": "Game",
+    "name": "Total Lockdown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26330600",
+    "update_time": "2024-12-05 01:17:39",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1121711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5125679414307340738",
+                    "size": "5441210873",
+                    "download": "2200677696"
+                },
+                "test": {
+                    "gid": "5125679414307340738",
+                    "size": "5441210873",
+                    "download": "2200677696"
+                }
+            },
+            "decryptionkey": "19b2c9644e597d99e64a983dcbe50b003fddb90f6dd3b2ab68540ca5cf1c0f74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5634176",
+                "timeupdated": "1601805590"
+            },
+            "test": {
+                "buildid": "5634176",
+                "description": "QA builds",
+                "timeupdated": "1601805606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
