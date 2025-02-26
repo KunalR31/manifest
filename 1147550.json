@@ -1,0 +1,168 @@
+{
+    "appid": "1147550",
+    "type": "Game",
+    "name": "Not For Broadcast",
+    "schinese_name": "不予播出 ( Not For Broadcast )",
+    "isfreeapp": "0",
+    "change_number": "27486464",
+    "update_time": "2025-02-15 04:15:58",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1147551": {
+            "manifests": {
+                "public": {
+                    "gid": "4179142375280234066",
+                    "size": "54808234187",
+                    "download": "42381433888"
+                },
+                "experimental2": {
+                    "gid": "1135589908830303268",
+                    "size": "49060425672",
+                    "download": "38726906928"
+                },
+                "alternatevideo": {
+                    "gid": "8234968903744517217",
+                    "size": "57494160387",
+                    "download": "40295559424"
+                }
+            },
+            "decryptionkey": "e77c3c3ca48df0a2a140f22a16494bd674a3f90e02d7cd6aaa06a069f7da2306"
+        },
+        "1147552": {
+            "manifests": {
+                "public": {
+                    "gid": "8364623276885752920",
+                    "size": "1676007318",
+                    "download": "1698859648"
+                },
+                "experimental2": {
+                    "gid": "26253684667128343",
+                    "size": "1592881491",
+                    "download": "1614602816"
+                },
+                "alternatevideo": {
+                    "gid": "8364623276885752920",
+                    "size": "1676007318",
+                    "download": "1698859648"
+                }
+            },
+            "decryptionkey": "5db5a1906dc83552bc93a7fbc8e198fd94f5158e7d05b9eefed30bb8c49d4ae8"
+        },
+        "1147553": {
+            "manifests": {
+                "public": {
+                    "gid": "5070434569740297865",
+                    "size": "1769327464",
+                    "download": "1793460560"
+                },
+                "experimental2": {
+                    "gid": "5275633275946916860",
+                    "size": "1750989694",
+                    "download": "1774872464"
+                },
+                "alternatevideo": {
+                    "gid": "5070434569740297865",
+                    "size": "1769327464",
+                    "download": "1793460560"
+                }
+            },
+            "decryptionkey": "7184221fe0a0d5caef7cf93b1bc24aed87cfa5a046f5634de14636ae4fc52434"
+        },
+        "1147554": {
+            "manifests": {
+                "public": {
+                    "gid": "4673560301910716582",
+                    "size": "1668433856",
+                    "download": "1691188848"
+                },
+                "experimental2": {
+                    "gid": "3381650217619069843",
+                    "size": "1651399189",
+                    "download": "1673921424"
+                },
+                "alternatevideo": {
+                    "gid": "4673560301910716582",
+                    "size": "1668433856",
+                    "download": "1691188848"
+                }
+            },
+            "decryptionkey": "ea562c0ad50c7bd0fa0cb2a6684ff6cb71d5654f676828c005d337b07a40f085"
+        },
+        "2199310": {
+            "dlcappid": "2199310",
+            "manifests": {
+                "public": {
+                    "gid": "8383074283729566403",
+                    "size": "7434884679",
+                    "download": "7536432672"
+                },
+                "experimental2": {
+                    "gid": "3874529675989095584",
+                    "size": "9742946845",
+                    "download": "9876085856"
+                },
+                "alternatevideo": {
+                    "gid": "5369213046793163967",
+                    "size": "7529366149",
+                    "download": "7413733696"
+                }
+            },
+            "decryptionkey": "84b163bc9e08de48a1e587247896559e7da504735d4277dc6674e364fb8b0af1"
+        },
+        "2303600": {
+            "dlcappid": "2303600",
+            "manifests": {
+                "public": {
+                    "gid": "4295815718717691497",
+                    "size": "15994775366",
+                    "download": "16213422560"
+                },
+                "alternatevideo": {
+                    "gid": "5692596630056952835",
+                    "size": "17205521265",
+                    "download": "15969402880"
+                }
+            },
+            "decryptionkey": "3e435af6db627c5fdf10e365b1e319b49b1aac6190e5bef985aab211221849a3"
+        },
+        "2303601": {
+            "dlcappid": "2303601",
+            "manifests": {
+                "public": {
+                    "gid": "292618191568686625",
+                    "size": "13903035183",
+                    "download": "14093164720"
+                },
+                "alternatevideo": {
+                    "gid": "4513541984541569170",
+                    "size": "14776504789",
+                    "download": "13894059168"
+                }
+            },
+            "decryptionkey": "af3f3248a85fa608d6be03357aa4790209ad4d008567a76d40726cf9124924e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15932446",
+                "timeupdated": "1728064732"
+            },
+            "experimental2": {
+                "buildid": "10879169",
+                "description": "Build that uses VP8 encoded videos.",
+                "timeupdated": "1680086037"
+            },
+            "alternatevideo": {
+                "buildid": "15932558",
+                "description": "Build that uses an alternate internal video player, for people experiencing issues with videos not playing in the primary build.",
+                "timeupdated": "1728064822"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
