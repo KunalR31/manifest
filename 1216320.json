@@ -1,0 +1,77 @@
+{
+    "appid": "1216320",
+    "type": "Game",
+    "name": "Shieldwall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27165299",
+    "update_time": "2025-01-26 01:20:21",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1216321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2111010488665826689",
+                    "size": "7917468036",
+                    "download": "2613686944"
+                },
+                "v.0.9.1": {
+                    "gid": "1999128339798063999",
+                    "size": "6852908378",
+                    "download": "2374280688"
+                },
+                "v.0.8.7": {
+                    "gid": "1184843914171271802",
+                    "size": "3483151300",
+                    "download": "1195359680"
+                },
+                "v.0.8.1": {
+                    "gid": "247155076933564042",
+                    "size": "2905025419",
+                    "download": "962571184"
+                }
+            },
+            "decryptionkey": "121ffa3e85426ad033d75eabafe829aa9fc20168fff2efc6513554cb11139b6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10831463",
+                "timeupdated": "1681842073"
+            },
+            "v.0.9.1": {
+                "buildid": "6781333",
+                "description": "Persia",
+                "timeupdated": "1731246527"
+            },
+            "v.0.8.7": {
+                "buildid": "5298087",
+                "description": "Statistics",
+                "timeupdated": "1731245808"
+            },
+            "v.0.8.1": {
+                "buildid": "4886716",
+                "description": "Alpha 4",
+                "timeupdated": "1731245255"
+            }
+        }
+    }
+}
