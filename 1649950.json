@@ -1,0 +1,79 @@
+{
+    "appid": "1649950",
+    "type": "Game",
+    "name": "News Tower",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536627",
+    "update_time": "2025-02-18 23:07:10",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1649952": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7731656776753139614",
+                    "size": "2201326424",
+                    "download": "448840864"
+                },
+                "community_test": {
+                    "gid": "7731656776753139614",
+                    "size": "2201326424",
+                    "download": "448840864"
+                },
+                "legacy": {
+                    "gid": "1945965351411080448",
+                    "size": "2124426680",
+                    "download": "441709056"
+                }
+            },
+            "decryptionkey": "49c2380d0c7954477872885734ff457ce8d952573a960930a87f60ded2a95f09"
+        },
+        "1649951": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8302492644624399235",
+                    "size": "2626989802",
+                    "download": "492089088"
+                },
+                "community_test": {
+                    "gid": "8302492644624399235",
+                    "size": "2626989802",
+                    "download": "492089088"
+                },
+                "legacy": {
+                    "gid": "5560347169810507217",
+                    "size": "2549863510",
+                    "download": "484918832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17350167",
+                "timeupdated": "1739799573"
+            },
+            "community_test": {
+                "buildid": "17350167",
+                "description": "Community test branch",
+                "timeupdated": "1739458285"
+            },
+            "legacy": {
+                "buildid": "15900284",
+                "description": "Play the previous version of the game",
+                "timeupdated": "1732011673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
