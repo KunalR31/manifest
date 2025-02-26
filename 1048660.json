@@ -1,0 +1,52 @@
+{
+    "appid": "1048660",
+    "type": "Game",
+    "name": "Knight Squad 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27393675",
+    "update_time": "2025-02-10 11:26:34",
+    "depot": {
+        "1048661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7500572436000718853",
+                    "size": "820017791",
+                    "download": "732032976"
+                },
+                "fix_local_8_players": {
+                    "gid": "7500572436000718853",
+                    "size": "820017791",
+                    "download": "732032976"
+                },
+                "split_kb_gamepad": {
+                    "gid": "5678685472250817655",
+                    "size": "807666701",
+                    "download": "711661648"
+                }
+            },
+            "decryptionkey": "5bef250b21ae7b0e26731f630f3ca69a1c0b88194129c999df1636838db11f44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7756043",
+                "timeupdated": "1662990246"
+            },
+            "fix_local_8_players": {
+                "buildid": "7756043",
+                "description": "Attempted fix for 8 players fix introduced in last build",
+                "timeupdated": "1637598486"
+            },
+            "split_kb_gamepad": {
+                "buildid": "6558033",
+                "description": "Option to split controller 1 from kb and mouse",
+                "timeupdated": "1618681912"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
