@@ -1,0 +1,122 @@
+{
+    "appid": "1538570",
+    "type": "Game",
+    "name": "Patron",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27117605",
+    "update_time": "2025-01-23 03:00:02",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1538571": {
+            "manifests": {
+                "public": {
+                    "gid": "112819328019118055",
+                    "size": "4738162872",
+                    "download": "1894891648"
+                },
+                "win7": {
+                    "gid": "5108804697179468294",
+                    "size": "4902401310",
+                    "download": "1769523552"
+                },
+                "open_beta": {
+                    "gid": "112819328019118055",
+                    "size": "4738162872",
+                    "download": "1894891648"
+                }
+            },
+            "decryptionkey": "0ae219a61f9fab330d2a42b1b7fb8475dca66ce9948d297861b4dd5125c6c6ee"
+        },
+        "1686030": {
+            "dlcappid": "1686030",
+            "manifests": {
+                "public": {
+                    "gid": "5316940126966993211",
+                    "size": "122623663",
+                    "download": "30881840"
+                },
+                "win7": {
+                    "gid": "5316940126966993211",
+                    "size": "122623663",
+                    "download": "30881840"
+                },
+                "open_beta": {
+                    "gid": "5316940126966993211",
+                    "size": "122623663",
+                    "download": "30881840"
+                }
+            },
+            "decryptionkey": "a114b5572e4e765bb71fe4d78fdaf1533b2077b19daab514de5f01546c6fdcb2"
+        },
+        "1760000": {
+            "dlcappid": "1760000",
+            "manifests": {
+                "public": {
+                    "gid": "3384945400617025795",
+                    "size": "454124511",
+                    "download": "174538368"
+                },
+                "win7": {
+                    "gid": "7888823630560782744",
+                    "size": "453174570",
+                    "download": "174292016"
+                },
+                "open_beta": {
+                    "gid": "3384945400617025795",
+                    "size": "454124511",
+                    "download": "174538368"
+                }
+            },
+            "decryptionkey": "64aa112ca15617497c271ae0f27d6cd430c566764e0d473335fd8f950885cb78"
+        },
+        "2473520": {
+            "dlcappid": "2473520",
+            "manifests": {
+                "public": {
+                    "gid": "1337595862085084242",
+                    "size": "0",
+                    "download": "0"
+                },
+                "open_beta": {
+                    "gid": "1337595862085084242",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15110823",
+                "timeupdated": "1721725078"
+            },
+            "win7": {
+                "buildid": "10629915",
+                "description": "Public Win7 branch",
+                "timeupdated": "1682425857"
+            },
+            "open_beta": {
+                "buildid": "15110823",
+                "description": "Public beta branch that receives updates before they are released in general",
+                "timeupdated": "1721725048"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
