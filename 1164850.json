@@ -1,0 +1,84 @@
+{
+    "appid": "1164850",
+    "type": "Game",
+    "name": "Sinking Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27338521",
+    "update_time": "2025-02-06 12:17:27",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1164851": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8708583980934799582",
+                    "size": "117947484",
+                    "download": "97504000"
+                },
+                "testing": {
+                    "gid": "8708583980934799582",
+                    "size": "117947484",
+                    "download": "97504000"
+                }
+            },
+            "decryptionkey": "1c55a77639f39ca14364ed9c66a42a37f425e50ca91722c6abeb559e41335812"
+        },
+        "1164852": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8597799518528832835",
+                    "size": "114705486",
+                    "download": "97105664"
+                },
+                "testing": {
+                    "gid": "8597799518528832835",
+                    "size": "114705486",
+                    "download": "97105664"
+                }
+            },
+            "decryptionkey": "f5ff811020c11849a8d50da7760a8a866b59874f830e2569282559a4af080fbe"
+        },
+        "1171190": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1171190",
+            "manifests": {
+                "public": {
+                    "gid": "4906083125093728005",
+                    "size": "1338075",
+                    "download": "1003424"
+                },
+                "testing": {
+                    "gid": "4906083125093728005",
+                    "size": "1338075",
+                    "download": "1003424"
+                }
+            },
+            "decryptionkey": "e7cff60611bac07923da3d5f9adb2277cd84042cb7fefda4c73906c24ded8179"
+        },
+        "workshopdepot": "1164850",
+        "branches": {
+            "public": {
+                "buildid": "15185067",
+                "timeupdated": "1722249550"
+            },
+            "testing": {
+                "buildid": "15185067",
+                "description": "Test branch, so we don't break the base game",
+                "timeupdated": "1722249495"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "7d7eba4f1a40629a6ecfdbe2fb892442e9cbcdcec301674d67399c0e89ec7826"
+    }
+}
