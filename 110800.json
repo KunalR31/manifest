@@ -1,0 +1,66 @@
+{
+    "appid": "110800",
+    "type": "Game",
+    "name": "L.A. Noire",
+    "schinese_name": "黑色洛城",
+    "isfreeapp": "0",
+    "change_number": "27456888",
+    "update_time": "2025-02-13 18:19:46",
+    "depot": {
+        "overridescddb": "1",
+        "110802": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3234208118368148040",
+                    "size": "24345993",
+                    "download": "10448112"
+                }
+            },
+            "decryptionkey": "74851338b906da06cd9e860d075ed5d8eb654b326d152a518ef3b62bea4baae6"
+        },
+        "110810": {
+            "optional": "1",
+            "systemdefined": "1",
+            "dlcappid": "110810",
+            "manifests": {
+                "public": {
+                    "gid": "239200575577592374",
+                    "size": "167",
+                    "download": "176"
+                }
+            },
+            "decryptionkey": "d5ffeca506e20ff835c9f9e6146e7163845408c264596f8d314712855d238f68"
+        },
+        "110801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7802845176688782381",
+                    "size": "14466771789",
+                    "download": "13787094928"
+                }
+            },
+            "decryptionkey": "34360e9d27bff94c1c6135d12ed4818d28e60082b3f7f984ed7f0c0eeecfc3b6"
+        },
+        "1899671": {
+            "manifests": {
+                "public": {
+                    "gid": "3602175371596669143",
+                    "size": "225713420",
+                    "download": "182514384"
+                }
+            },
+            "depotfromapp": "1899670",
+            "decryptionkey": "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13185632",
+                "timeupdated": "1706630752"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
