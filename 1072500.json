@@ -1,0 +1,80 @@
+{
+    "appid": "1072500",
+    "type": "Game",
+    "name": "AO Tennis 2",
+    "schinese_name": "澳洲国际网球2",
+    "isfreeapp": "0",
+    "change_number": "27513843",
+    "update_time": "2025-02-17 18:51:13",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1072501": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3727922909753034941",
+                    "size": "16072299840",
+                    "download": "15235069824"
+                },
+                "public_test_server": {
+                    "gid": "5025151271211037466",
+                    "size": "16084705482",
+                    "download": "15247679056"
+                }
+            },
+            "decryptionkey": "c1863dc4796bd607579ff60541fa593f1e5dffd8fc97da6c2f74ac3240cc966f"
+        },
+        "1072502": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5214902767555755097",
+                    "size": "16072299840",
+                    "download": "15233691616"
+                },
+                "public_test_server": {
+                    "gid": "5000373026361752433",
+                    "size": "16084705482",
+                    "download": "15246303184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8037564",
+                "timeupdated": "1642675402"
+            },
+            "public_test_server": {
+                "buildid": "4968847",
+                "timeupdated": "1589524164"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
