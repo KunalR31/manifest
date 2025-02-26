@@ -1,0 +1,78 @@
+{
+    "appid": "1358090",
+    "type": "Game",
+    "name": "Open Hexagon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25736698",
+    "update_time": "2024-10-16 07:01:44",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1358090",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1358091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4396570746105262556",
+                    "size": "75785680",
+                    "download": "70132864"
+                },
+                "beta": {
+                    "gid": "4396570746105262556",
+                    "size": "75785680",
+                    "download": "70132864"
+                }
+            },
+            "decryptionkey": "404c4205efb71afcc928a7055c2b83ee8fb2d787b5761812c73650ffb1e07c32"
+        },
+        "1358092": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8528002437381504963",
+                    "size": "81351920",
+                    "download": "67110768"
+                },
+                "beta": {
+                    "gid": "8528002437381504963",
+                    "size": "81351920",
+                    "download": "67110768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10950581",
+                "timeupdated": "1680824489"
+            },
+            "beta": {
+                "buildid": "10950581",
+                "description": "Public beta branch",
+                "timeupdated": "1680819568"
+            }
+        },
+        "workshopdepotdecryptionkey": "8991df9387e90145cdf387756efab7cc85c815095a9149db4396645b2157ec4c"
+    }
+}
