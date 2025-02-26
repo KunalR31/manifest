@@ -1,0 +1,131 @@
+{
+    "appid": "1405890",
+    "type": "Tool",
+    "name": "Blood Oath: When The Sword Rises dedicated server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25922791",
+    "update_time": "2024-10-28 07:06:46",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1405891": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5977469505492572677",
+                    "size": "428171785",
+                    "download": "277221408"
+                },
+                "server": {
+                    "gid": "5977469505492572677",
+                    "size": "428171785",
+                    "download": "277221408"
+                },
+                "testing": {
+                    "gid": "4850502933738785262",
+                    "size": "635547321",
+                    "download": "360045312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1405892": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7352978295039393128",
+                    "size": "2538076138",
+                    "download": "587765312"
+                },
+                "server": {
+                    "gid": "7352978295039393128",
+                    "size": "2538076138",
+                    "download": "587765312"
+                },
+                "testing": {
+                    "gid": "7892497832498071606",
+                    "size": "5621373089",
+                    "download": "886917520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6274856",
+                "timeupdated": "1613988819"
+            },
+            "server": {
+                "buildid": "6274856",
+                "description": "Multiplatform dedicated server",
+                "timeupdated": "1613988789"
+            },
+            "testing": {
+                "buildid": "16200085",
+                "description": "Access to the testing stage for Unreal 5.4",
+                "timeupdated": "1730070401"
+            }
+        }
+    }
+}
