@@ -1,0 +1,62 @@
+{
+    "appid": "1060230",
+    "type": "Game",
+    "name": "Sapiens",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26946191",
+    "update_time": "2025-01-11 02:15:37",
+    "depot": {
+        "workshopdepot": "1060230",
+        "1060231": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6072666085626754447",
+                    "size": "397450339",
+                    "download": "258395248"
+                },
+                "public-beta-unstable": {
+                    "gid": "4816314300336909539",
+                    "size": "398415898",
+                    "download": "258687792"
+                }
+            },
+            "decryptionkey": "f42b9fdda61ea875d9c3be27d29dff037a434b36dab97f7b5d2f53ad3f6e1127"
+        },
+        "1060232": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8469267746356079956",
+                    "size": "372602566",
+                    "download": "257045472"
+                },
+                "public-beta-unstable": {
+                    "gid": "5623835296855304090",
+                    "size": "373565877",
+                    "download": "257380832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16480312",
+                "timeupdated": "1732564023"
+            },
+            "public-beta-unstable": {
+                "buildid": "16805234",
+                "description": "Public Beta (Unstable)",
+                "timeupdated": "1734636821"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6aef37a9dae12a6d2b13902c6e8a7351b929ed105d47c90add6c685de4176d65"
+    }
+}
