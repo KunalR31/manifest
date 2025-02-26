@@ -1,0 +1,104 @@
+{
+    "appid": "1637320",
+    "type": "Game",
+    "name": "Dome Keeper",
+    "schinese_name": "Dome Keeper 穹顶守护者",
+    "isfreeapp": "0",
+    "change_number": "27525452",
+    "update_time": "2025-02-18 08:43:10",
+    "depot": {
+        "workshopdepot": "1637320",
+        "hasdepotsindlc": "1",
+        "1637321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3175951021758543310",
+                    "size": "1078482168",
+                    "download": "687718784"
+                },
+                "legacy-godot3": {
+                    "gid": "2833824279411023352",
+                    "size": "1011006672",
+                    "download": "647188192"
+                },
+                "legacy-v4.0": {
+                    "gid": "4053510985705996256",
+                    "size": "1075531960",
+                    "download": "683880080"
+                }
+            },
+            "decryptionkey": "c0d4d6c5d92ae7a0c63de34717961fde6f236bb14016e43c90d87efc92b5f5c8"
+        },
+        "1637322": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3437986951788477491",
+                    "size": "1084498800",
+                    "download": "688576368"
+                },
+                "legacy-godot3": {
+                    "gid": "2036629495710834763",
+                    "size": "1019351969",
+                    "download": "649730912"
+                },
+                "legacy-v4.0": {
+                    "gid": "2516520027307199860",
+                    "size": "1083226949",
+                    "download": "684956736"
+                }
+            },
+            "decryptionkey": "38589513fd71352d7bc7c6fd27896971ac96fc8eab25321af5ba7e0fba053b52"
+        },
+        "1637323": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3716898901698890242",
+                    "size": "1149024136",
+                    "download": "702194832"
+                },
+                "legacy-godot3": {
+                    "gid": "1860162588277815837",
+                    "size": "1066596146",
+                    "download": "658608960"
+                },
+                "legacy-v4.0": {
+                    "gid": "7001679521903061564",
+                    "size": "1143945112",
+                    "download": "697900192"
+                }
+            },
+            "decryptionkey": "b8d37f4ec539a4af41019ba11f330f53e08ad9c1ab63517f3972463e86ecf38a"
+        },
+        "1637324": {},
+        "branches": {
+            "public": {
+                "buildid": "16802329",
+                "timeupdated": "1734622811"
+            },
+            "legacy-godot3": {
+                "buildid": "13431135",
+                "description": "legacy",
+                "timeupdated": "1721905932"
+            },
+            "legacy-v4.0": {
+                "buildid": "15263246",
+                "description": "v4.0 of the game, to test regressions",
+                "timeupdated": "1729584044"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "51edc2419db29d00f4bf8e8b6b50218f85587bc2fa34483df694efa4e3e854b4"
+    }
+}
