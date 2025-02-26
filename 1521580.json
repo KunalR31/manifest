@@ -1,0 +1,104 @@
+{
+    "appid": "1521580",
+    "type": "Game",
+    "name": "Perfect Heist 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27504963",
+    "update_time": "2025-02-17 02:09:06",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1521581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5699313543082342056",
+                    "size": "9681354233",
+                    "download": "1564437648"
+                },
+                "raytracing-test": {
+                    "gid": "1675624913230179514",
+                    "size": "1723715454",
+                    "download": "312851360"
+                },
+                "beta": {
+                    "gid": "5699313543082342056",
+                    "size": "9681354233",
+                    "download": "1564437648"
+                },
+                "debug": {
+                    "gid": "3887763586450822472",
+                    "size": "8445168090",
+                    "download": "1395758176"
+                }
+            },
+            "decryptionkey": "4e6182d3021db3ba34b32c18a8fc41f1ea6b19103d0d64f00d70cf98876b76b2"
+        },
+        "1521582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4168765983783726904",
+                    "size": "9194314901",
+                    "download": "1481754128"
+                },
+                "raytracing-test": {
+                    "gid": "1122163872946465481",
+                    "size": "1276630563",
+                    "download": "217555648"
+                },
+                "beta": {
+                    "gid": "4168765983783726904",
+                    "size": "9194314901",
+                    "download": "1481754128"
+                },
+                "debug": {
+                    "gid": "4168765983783726904",
+                    "size": "9194314901",
+                    "download": "1481754128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1521580",
+        "branches": {
+            "public": {
+                "buildid": "17468582",
+                "timeupdated": "1740247767"
+            },
+            "raytracing-test": {
+                "buildid": "7255059",
+                "description": "RT Test",
+                "timeupdated": "1629983385"
+            },
+            "beta": {
+                "buildid": "17468582",
+                "description": "beta",
+                "timeupdated": "1740247774"
+            },
+            "debug": {
+                "buildid": "16646163",
+                "description": "debug",
+                "timeupdated": "1733867413"
+            }
+        },
+        "workshopdepotdecryptionkey": "e5173432ad760c2e1f68e7c9babce8830a045d1224c35ec40b59e540520036e0"
+    }
+}
