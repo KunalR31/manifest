@@ -1,0 +1,54 @@
+{
+    "appid": "1133120",
+    "type": "Game",
+    "name": "Ecosystem",
+    "schinese_name": "生态系统",
+    "isfreeapp": "0",
+    "change_number": "26930572",
+    "update_time": "2025-01-10 05:12:43",
+    "depot": {
+        "workshopdepot": "1133120",
+        "1133121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8533566902857630802",
+                    "size": "3544073360",
+                    "download": "970236704"
+                },
+                "combatopenbeta": {
+                    "gid": "5764734088703744884",
+                    "size": "2638981786",
+                    "download": "833944640"
+                },
+                "openbeta": {
+                    "gid": "7966007440461497056",
+                    "size": "2644764330",
+                    "download": "836899856"
+                }
+            },
+            "decryptionkey": "224caafcfaff8f534095420d9554d74754f82c7d8e3240317181445e0f7d8544"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16721484",
+                "timeupdated": "1734008426"
+            },
+            "combatopenbeta": {
+                "buildid": "12186533",
+                "description": "Open beta for the Combat Update",
+                "timeupdated": "1694686414"
+            },
+            "openbeta": {
+                "buildid": "14132098",
+                "description": "Open beta channel",
+                "timeupdated": "1713786456"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a44a947b5100f6151c521b78b05e220472a60395126d3e417de89927deb48cbd"
+    }
+}
