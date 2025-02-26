@@ -1,0 +1,164 @@
+{
+    "appid": "1159090",
+    "type": "Game",
+    "name": "Zoria: Age of Shattering",
+    "schinese_name": "佐瑞亚：碎裂纪元",
+    "isfreeapp": "0",
+    "change_number": "27299969",
+    "update_time": "2025-02-04 10:22:35",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1159091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "217443940782831973",
+                    "size": "20209686792",
+                    "download": "9861124048"
+                },
+                "localization-qa": {
+                    "gid": "8361449109497979150",
+                    "size": "20204852876",
+                    "download": "9857533440"
+                },
+                "beta": {
+                    "gid": "217443940782831973",
+                    "size": "20209686792",
+                    "download": "9861124048"
+                }
+            },
+            "decryptionkey": "ca1a220351cdfbfc159915fb62baa7c1d066b84049dc8e9e6e91786c8a94a7bf"
+        },
+        "1159092": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3557196688869609201",
+                    "size": "20327925900",
+                    "download": "9902573264"
+                },
+                "localization-qa": {
+                    "gid": "7214742361287188508",
+                    "size": "20323092117",
+                    "download": "9898989472"
+                },
+                "beta": {
+                    "gid": "3557196688869609201",
+                    "size": "20327925900",
+                    "download": "9902573264"
+                }
+            },
+            "decryptionkey": "9d66efc3bc4d1d3e1238b6257160f0f3b39c3275081551ecce4dd0b5744127b8"
+        },
+        "1159093": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6128008771177539192",
+                    "size": "0",
+                    "download": "0"
+                },
+                "localization-qa": {
+                    "gid": "6128008771177539192",
+                    "size": "0",
+                    "download": "0"
+                },
+                "demo-2023": {
+                    "gid": "6357403043655979759",
+                    "size": "14911231026",
+                    "download": "9653092464"
+                },
+                "beta": {
+                    "gid": "6128008771177539192",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1159094": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3164885963724753729",
+                    "size": "0",
+                    "download": "0"
+                },
+                "localization-qa": {
+                    "gid": "3164885963724753729",
+                    "size": "0",
+                    "download": "0"
+                },
+                "demo-2023": {
+                    "gid": "5044548169212195589",
+                    "size": "15014170790",
+                    "download": "9697642160"
+                },
+                "beta": {
+                    "gid": "3164885963724753729",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1159095": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            }
+        },
+        "1159096": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1159097": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17447938",
+                "timeupdated": "1740102029"
+            },
+            "localization-qa": {
+                "buildid": "16424375",
+                "description": "Localization QA",
+                "timeupdated": "1731696312"
+            },
+            "demo-2023": {
+                "buildid": "12033665",
+                "description": "Demo 2023",
+                "timeupdated": "1692976870"
+            },
+            "beta": {
+                "buildid": "17232216",
+                "description": "Beta branch",
+                "timeupdated": "1738635750"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
