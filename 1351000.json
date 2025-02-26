@@ -1,0 +1,48 @@
+{
+    "appid": "1351000",
+    "type": "Game",
+    "name": "Gangs of Sherwood",
+    "schinese_name": "舍伍德侠盗团 ",
+    "isfreeapp": "0",
+    "change_number": "27069578",
+    "update_time": "2025-01-20 11:52:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1351001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5628606927350261412",
+                    "size": "15014469171",
+                    "download": "13702816192"
+                }
+            },
+            "decryptionkey": "b55b3a9859675e8cfccbb2c111ca9987ea4becee8654ea81f98cc17fa510172e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12993378",
+                "timeupdated": "1703242205"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
