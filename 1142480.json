@@ -1,0 +1,69 @@
+{
+    "appid": "1142480",
+    "type": "Game",
+    "name": "Anthophobia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26964928",
+    "update_time": "2025-01-13 05:31:02",
+    "depot": {
+        "1142481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2960776510630326736",
+                    "size": "284465686",
+                    "download": "199648096"
+                },
+                "ondemand": {
+                    "gid": "3221252286483391006",
+                    "size": "247486873",
+                    "download": "247971664"
+                },
+                "v2022": {
+                    "gid": "7394662001702090827",
+                    "size": "290824903",
+                    "download": "195908656"
+                }
+            },
+            "decryptionkey": "5ce2ff8c0181fb8ac25c96c2c421a773946e61f2633aa1931b1f795a524ec665"
+        },
+        "1142482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1875256456618397755",
+                    "size": "240064083",
+                    "download": "239775136"
+                },
+                "v2022": {
+                    "gid": "6444993041604887558",
+                    "size": "237364819",
+                    "download": "237026352"
+                }
+            },
+            "decryptionkey": "bf594770e7f3853e805ab8a0adf271695d07d94500637553a38baef10a866258"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10042535",
+                "timeupdated": "1669820967"
+            },
+            "ondemand": {
+                "buildid": "4731129",
+                "description": "On Demand Texture setting",
+                "timeupdated": "1583062128"
+            },
+            "v2022": {
+                "buildid": "10006904",
+                "description": "Previous version",
+                "timeupdated": "1669278297"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
