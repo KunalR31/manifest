@@ -1,0 +1,106 @@
+{
+    "appid": "1035510",
+    "type": "Game",
+    "name": "Ultimate Zombie Defense",
+    "schinese_name": "终极僵尸防御",
+    "isfreeapp": "0",
+    "change_number": "27420388",
+    "update_time": "2025-02-11 21:17:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,latam",
+        "1035511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2731229136807760335",
+                    "size": "2193208948",
+                    "download": "1830806528"
+                },
+                "public-test": {
+                    "gid": "6705729517645737262",
+                    "size": "2104917556",
+                    "download": "1743966368"
+                }
+            },
+            "decryptionkey": "d05be96444ff15c5832e70013a8be6af44289589e42af9ac0053f98bbd1ad1db"
+        },
+        "1035512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3968747039930126497",
+                    "size": "2206607298",
+                    "download": "1847026096"
+                },
+                "public-test": {
+                    "gid": "285947899177962762",
+                    "size": "2104257822",
+                    "download": "1744494784"
+                }
+            },
+            "decryptionkey": "003ac1422d954f302e49c429d6dd00761d4b9daceacbb009673d0dc3194352b5"
+        },
+        "1035513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6770029762695569934",
+                    "size": "2327021875",
+                    "download": "1895272208"
+                },
+                "public-test": {
+                    "gid": "5449158612480785457",
+                    "size": "2238778398",
+                    "download": "1808848256"
+                }
+            },
+            "decryptionkey": "c15b805bd5c266bc3d03bac5ad226cb83b1f967e482876d878dd5e07bb793477"
+        },
+        "1035514": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4918517063703823851",
+                    "size": "2185522003",
+                    "download": "1828350160"
+                },
+                "public-test": {
+                    "gid": "7912538098238666202",
+                    "size": "2097230559",
+                    "download": "1741527456"
+                }
+            },
+            "decryptionkey": "e0a73c0062ba2757877662713d6b07f38eb5929cfcc2f41c6902481be72779bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13432320",
+                "timeupdated": "1707736813"
+            },
+            "public-test": {
+                "buildid": "7662345",
+                "description": "Preview of upcoming update",
+                "timeupdated": "1636108625"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
