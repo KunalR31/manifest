@@ -1,0 +1,79 @@
+{
+    "appid": "1048350",
+    "type": "Game",
+    "name": "Nigate Tale",
+    "schinese_name": "异界之上",
+    "isfreeapp": "0",
+    "change_number": "27205005",
+    "update_time": "2025-01-29 01:35:10",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,russian,japanese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1048351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "560572776073501769",
+                    "size": "3092292924",
+                    "download": "2791378160"
+                },
+                "advancetest": {
+                    "gid": "2779572112442464900",
+                    "size": "3034535619",
+                    "download": "2725507824"
+                }
+            },
+            "decryptionkey": "bba11e728718bd5b261407b3dc4592eaf36ba60665af5f27411b638e3733daf5"
+        },
+        "1048352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7834586068258687707",
+                    "size": "1957786982",
+                    "download": "1819780992"
+                },
+                "advancetest": {
+                    "gid": "7834586068258687707",
+                    "size": "1957786982",
+                    "download": "1819780992"
+                }
+            },
+            "decryptionkey": "fd59b597b19381ab889c44cf1cc0fe66da99920098126f6a4cad2a16ecb21c3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16284766",
+                "timeupdated": "1730961991"
+            },
+            "advancetest": {
+                "buildid": "8198057",
+                "description": "Advance Test",
+                "timeupdated": "1644912818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
