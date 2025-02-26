@@ -1,0 +1,99 @@
+{
+    "appid": "1611600",
+    "type": "Game",
+    "name": "WARNO",
+    "schinese_name": "预先号令",
+    "isfreeapp": "0",
+    "change_number": "27537067",
+    "update_time": "2025-02-18 23:29:09",
+    "depot": {
+        "workshopdepot": "1611600",
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1611601": {
+            "manifests": {
+                "public": {
+                    "gid": "7638169269214690003",
+                    "size": "52183563708",
+                    "download": "42358472800"
+                },
+                "compat_141935": {
+                    "gid": "2488000856389408977",
+                    "size": "50167533172",
+                    "download": "41226856448"
+                },
+                "compat_141373": {
+                    "gid": "2051638280315518852",
+                    "size": "49483776476",
+                    "download": "41203355360"
+                },
+                "compat_139445": {
+                    "gid": "2656822284020982446",
+                    "size": "43219222168",
+                    "download": "35736040880"
+                },
+                "compat_save_older_than_110364": {
+                    "gid": "4196574731009416605",
+                    "size": "60549523998",
+                    "download": "41003478832"
+                },
+                "compat_save_older_than_122779": {
+                    "gid": "8928887078388739384",
+                    "size": "74615941204",
+                    "download": "47975284336"
+                },
+                "compat_save_older_than_93194": {
+                    "gid": "1043691251633282674",
+                    "size": "55595923320",
+                    "download": "46318260512"
+                }
+            },
+            "decryptionkey": "4f4f2eafce1c568afab8d453340193eeec38f656303f6aca28a1ba4e806204ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17307623",
+                "timeupdated": "1739202416"
+            },
+            "compat_141935": {
+                "buildid": "16837181",
+                "description": "Compatibility for mods based on version 141935, compatibility for saves and replays prior to or equal to 141935",
+                "timeupdated": "1738834083"
+            },
+            "compat_141373": {
+                "buildid": "16759867",
+                "description": "(Old)",
+                "timeupdated": "1735026824"
+            },
+            "compat_139445": {
+                "buildid": "16548882",
+                "description": "(Old)",
+                "timeupdated": "1734423521"
+            },
+            "compat_save_older_than_110364": {
+                "buildid": "12789556",
+                "description": "(Old)",
+                "timeupdated": "1704960352"
+            },
+            "compat_save_older_than_122779": {
+                "buildid": "13893485",
+                "description": "(Old)",
+                "timeupdated": "1716448147"
+            },
+            "compat_save_older_than_93194": {
+                "buildid": "10839866",
+                "description": "(Old)",
+                "timeupdated": "1679588606"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d053a11e0ae8b1c11883882bf55f125055e5965c6c57c0a35774f33ee51114d8"
+    }
+}
