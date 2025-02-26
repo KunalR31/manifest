@@ -1,0 +1,94 @@
+{
+    "appid": "1091980",
+    "type": "Game",
+    "name": "The Bard's Tale IV: Director's Cut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26952085",
+    "update_time": "2025-01-11 13:15:21",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1091981": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2901284971833064646",
+                    "size": "27722062864",
+                    "download": "27317908784"
+                }
+            },
+            "decryptionkey": "4aba3b2e46b56a044d23df6475d1f7d603e4c348131d668c147679a5cfd9913c"
+        },
+        "1091982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1497185515544636219",
+                    "size": "54520043930",
+                    "download": "50061267408"
+                }
+            },
+            "decryptionkey": "ff8b2c45846b4d26bd8678ed9d4c548f082574222a413b7059c6c11a61815810"
+        },
+        "1091983": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4246117997886630222",
+                    "size": "38799153286",
+                    "download": "36675090720"
+                }
+            },
+            "decryptionkey": "7317e994b14f2348f60111cac419249b616a018ed6c2971a2917e4b37497c7bb"
+        },
+        "1091984": {
+            "dlcappid": "1107880",
+            "manifests": {
+                "public": {
+                    "gid": "1858018626392152835",
+                    "size": "137191013",
+                    "download": "138508880"
+                }
+            },
+            "decryptionkey": "cf6a3c6202c0b040a8735d5639ee5e5dbface6d0ae39231737a65a0e38b09198"
+        },
+        "1091985": {
+            "dlcappid": "1107881",
+            "manifests": {
+                "public": {
+                    "gid": "5215725026726629996",
+                    "size": "869477355",
+                    "download": "878906928"
+                }
+            },
+            "decryptionkey": "99b8dcaa3fd945a235fa5ee97b924c9dfaf14bcfaf562296c7f47dd4f2d86fd7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4686232",
+                "timeupdated": "1582229331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
