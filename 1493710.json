@@ -1,0 +1,93 @@
+{
+    "appid": "1493710",
+    "type": "Tool",
+    "name": "Proton Experimental",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540177",
+    "update_time": "2025-02-19 02:36:31",
+    "depot": {
+        "1493711": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2056937178513967004",
+                    "size": "1339725262",
+                    "download": "322633120"
+                },
+                "dualsense-haptics-wip": {
+                    "gid": "3648903187173470381",
+                    "size": "1234938991",
+                    "download": "290049520"
+                },
+                "bleeding-edge": {
+                    "gid": "1269769642735266767",
+                    "size": "1339698633",
+                    "download": "322672928"
+                },
+                "bleeding-edge-debug": {
+                    "gid": "6939130312136084276",
+                    "size": "4873375294",
+                    "download": "936698640"
+                },
+                "debug": {
+                    "gid": "3837052438978944300",
+                    "size": "4873100340",
+                    "download": "936189600"
+                },
+                "old-media-source": {
+                    "gid": "6253612379687866984",
+                    "size": "1222460567",
+                    "download": "288202080"
+                },
+                "test-bugid-23887-v2": {
+                    "gid": "1031922658557353942",
+                    "size": "1211179420",
+                    "download": "284477136"
+                }
+            },
+            "decryptionkey": "fe5a344520702440fcaf4f43f02af4b128229789f09d7595b05c3932e2aa0676"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17405578",
+                "timeupdated": "1739983976"
+            },
+            "dualsense-haptics-wip": {
+                "buildid": "12450672",
+                "description": "WIP DualSense support",
+                "timeupdated": "1697452971"
+            },
+            "bleeding-edge": {
+                "buildid": "17475222",
+                "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
+                "timeupdated": "1740335841"
+            },
+            "bleeding-edge-debug": {
+                "buildid": "17475240",
+                "description": "as dangerous as regular bleeding-edge, just with debug symbols",
+                "timeupdated": "1740336031"
+            },
+            "debug": {
+                "buildid": "17405608",
+                "description": "Unstripped",
+                "timeupdated": "1739983944"
+            },
+            "old-media-source": {
+                "buildid": "16140680",
+                "description": "old-media-source",
+                "timeupdated": "1729707536"
+            },
+            "test-bugid-23887-v2": {
+                "buildid": "14693446",
+                "description": "test-bugid-23887-v2",
+                "timeupdated": "1718205441"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
