@@ -1,0 +1,55 @@
+{
+    "appid": "1577240",
+    "type": "Game",
+    "name": "Cions of Vega",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26441587",
+    "update_time": "2024-12-05 09:07:49",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1577241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3190685056716076649",
+                    "size": "7269242694",
+                    "download": "3920000928"
+                },
+                "test": {
+                    "gid": "3190685056716076649",
+                    "size": "7269242694",
+                    "download": "3920000928"
+                }
+            },
+            "decryptionkey": "64cf80b16cfc7417dbc91b5714146238c05bf9ef0e8d7a7c8bdc06d260214e81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8415914",
+                "timeupdated": "1647946582"
+            },
+            "test": {
+                "buildid": "8415914",
+                "description": "test",
+                "timeupdated": "1647945739"
+            }
+        }
+    }
+}
