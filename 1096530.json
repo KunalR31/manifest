@@ -1,0 +1,103 @@
+{
+    "appid": "1096530",
+    "type": "Game",
+    "name": "Solasta: Crown of the Magister",
+    "schinese_name": "索拉斯塔：法师之冠",
+    "isfreeapp": "0",
+    "change_number": "26900248",
+    "update_time": "2025-01-08 08:17:59",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1096530",
+        "1096531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3535345957412496849",
+                    "size": "29630647333",
+                    "download": "25695759584"
+                },
+                "local": {
+                    "gid": "2839164459397044258",
+                    "size": "12617371947",
+                    "download": "11123495152"
+                },
+                "pre_ins_version": {
+                    "gid": "5184928769388995279",
+                    "size": "24317838574",
+                    "download": "21158939056"
+                }
+            },
+            "decryptionkey": "0b1e859ef0a9c257b2a834870286df53270b88a3abd8f95a817fb8bb736857d6"
+        },
+        "1096532": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4186960125558906065",
+                    "size": "29670346539",
+                    "download": "25715137968"
+                },
+                "pre_ins_version": {
+                    "gid": "5612529058490175493",
+                    "size": "24375431708",
+                    "download": "21186932592"
+                }
+            },
+            "decryptionkey": "d87907e100a8dcf41c56bbef38a931a4ed1e9323b70b02ade4db75b1022d7731"
+        },
+        "1438980": {
+            "dlcappid": "1438980",
+            "manifests": {
+                "public": {
+                    "gid": "1512023796800140346",
+                    "size": "1321333634",
+                    "download": "1330024928"
+                },
+                "pre_ins_version": {
+                    "gid": "6470021906255217049",
+                    "size": "660868190",
+                    "download": "662244560"
+                }
+            },
+            "decryptionkey": "82e68e4ef18583850066c57d580bc90c49e593a751276f5ee53dcc22b6259dcf"
+        },
+        "1581692": {
+            "dlcappid": "1581692"
+        },
+        "1581690": {
+            "dlcappid": "1581690"
+        },
+        "1581691": {
+            "dlcappid": "1581691"
+        },
+        "1722280": {
+            "dlcappid": "1722280"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13657322",
+                "timeupdated": "1709730659"
+            },
+            "local": {
+                "buildid": "6169164",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1612179939"
+            },
+            "pre_ins_version": {
+                "buildid": "9934200",
+                "description": "Version before INS",
+                "timeupdated": "1668442773"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "16022b541c53d839a28e07c63d1ee347f256990f4da9360d34081688e5b55896"
+    }
+}
