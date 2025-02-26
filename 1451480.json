@@ -1,0 +1,79 @@
+{
+    "appid": "1451480",
+    "type": "Game",
+    "name": "The Greatest Penguin Heist of All Time",
+    "schinese_name": "史上最伟大的企鹅劫案",
+    "isfreeapp": "0",
+    "change_number": "27381649",
+    "update_time": "2025-02-09 04:18:00",
+    "depot": {
+        "1451481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3438777522887107686",
+                    "size": "6589788419",
+                    "download": "3144378208"
+                },
+                "testing": {
+                    "gid": "3438777522887107686",
+                    "size": "6589788419",
+                    "download": "3144378208"
+                }
+            },
+            "decryptionkey": "803908852d4442cab75b83ab01c008d5dcf536aa2a405fb9174793b0bdab56bb"
+        },
+        "1451482": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3809472388208987352",
+                    "size": "7047457763",
+                    "download": "3195532224"
+                },
+                "testing": {
+                    "gid": "3809472388208987352",
+                    "size": "7047457763",
+                    "download": "3195532224"
+                }
+            },
+            "decryptionkey": "5bf3185aea27548106ef1ab8ff48b60297ae9613d1ec72a033b25e7b7cd82a6d"
+        },
+        "1451483": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9037767483449703027",
+                    "size": "8852957781",
+                    "download": "3433025344"
+                },
+                "testing": {
+                    "gid": "9037767483449703027",
+                    "size": "8852957781",
+                    "download": "3433025344"
+                }
+            },
+            "decryptionkey": "1848ae703facf3f03b1f808b190bc2a87d84a486f9f253322d59fa26c2141df7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16518430",
+                "timeupdated": "1732546688"
+            },
+            "testing": {
+                "buildid": "16518430",
+                "description": "Unstable testing branch for upcoming releases",
+                "timeupdated": "1732489587"
+            }
+        }
+    }
+}
