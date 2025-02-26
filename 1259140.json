@@ -1,0 +1,75 @@
+{
+    "appid": "1259140",
+    "type": "Game",
+    "name": "Ashina: The Red Witch",
+    "schinese_name": "艾诗娜：红女巫",
+    "isfreeapp": "0",
+    "change_number": "27369746",
+    "update_time": "2025-02-08 03:26:49",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1259141": {
+            "manifests": {
+                "public": {
+                    "gid": "7304502370705097563",
+                    "size": "288565383",
+                    "download": "178735616"
+                },
+                "beta": {
+                    "gid": "131623557899289944",
+                    "size": "287031152",
+                    "download": "178365680"
+                },
+                "rollbackversion0.0": {
+                    "gid": "1976382565623261058",
+                    "size": "285121611",
+                    "download": "177800352"
+                },
+                "rollbackversion0.1": {
+                    "gid": "7465390259654806837",
+                    "size": "288566461",
+                    "download": "178735968"
+                },
+                "rollbackversion0.2": {
+                    "gid": "7891165838982966797",
+                    "size": "288566266",
+                    "download": "178736000"
+                }
+            },
+            "decryptionkey": "13f0d759d78abc3eefd3f295567aa77420e5ace878b0669653b4c8a904848262"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10280376",
+                "timeupdated": "1673432755"
+            },
+            "beta": {
+                "buildid": "10183196",
+                "description": "For beta testers",
+                "timeupdated": "1671529186"
+            },
+            "rollbackversion0.0": {
+                "buildid": "9819223",
+                "description": "Incase your save file corrupts.",
+                "timeupdated": "1672638569"
+            },
+            "rollbackversion0.1": {
+                "buildid": "10241583",
+                "description": "Incase your save file corrupts.",
+                "timeupdated": "1672899819"
+            },
+            "rollbackversion0.2": {
+                "buildid": "10259463",
+                "description": "Incase your save file corrupts.",
+                "timeupdated": "1673432720"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
