@@ -1,0 +1,111 @@
+{
+    "appid": "1295900",
+    "type": "Game",
+    "name": "Draconia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27523930",
+    "update_time": "2025-02-18 06:14:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1295901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1766700359170040855",
+                    "size": "5631258264",
+                    "download": "4927548672"
+                },
+                "legacy": {
+                    "gid": "6787191241507819406",
+                    "size": "3085112960",
+                    "download": "2375999488"
+                },
+                "buildtest": {
+                    "gid": "1766700359170040855",
+                    "size": "5631258264",
+                    "download": "4927548672"
+                }
+            },
+            "decryptionkey": "c0d279495752c84a0904db347b03b01004415fc4e31a7664f0f9f4755102b56a"
+        },
+        "1295902": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3488460322543020612",
+                    "size": "6188739561",
+                    "download": "4090228096"
+                },
+                "legacy": {
+                    "gid": "8855412788177870780",
+                    "size": "3619144287",
+                    "download": "2385261744"
+                },
+                "buildtest": {
+                    "gid": "3488460322543020612",
+                    "size": "6188739561",
+                    "download": "4090228096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17479402",
+                "timeupdated": "1740376776"
+            },
+            "legacy": {
+                "buildid": "8503300",
+                "timeupdated": "1650185500"
+            },
+            "buildtest": {
+                "buildid": "17479402",
+                "description": "public developer build branch",
+                "timeupdated": "1740376746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
