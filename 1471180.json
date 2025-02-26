@@ -1,0 +1,65 @@
+{
+    "appid": "1471180",
+    "type": "Game",
+    "name": "梦江湖",
+    "schinese_name": "梦江湖",
+    "isfreeapp": "0",
+    "change_number": "25600317",
+    "update_time": "2024-10-09 02:50:59",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "workshopdepot": "1471180",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1471181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2551513694584415634",
+                    "size": "3390039174",
+                    "download": "713865392"
+                }
+            },
+            "decryptionkey": "b958b6ff26796c1543f3db4cd318da9d33a8847e97a1e5a6a608851967db3ba1"
+        },
+        "1471182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8104264753406309487",
+                    "size": "3390579833",
+                    "download": "714352576"
+                }
+            },
+            "decryptionkey": "ff67d2c86db2e7573abbb8391acf81fc65849d34bf67615071c900152b8a31e0"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "11356762",
+                "timeupdated": "1685513041"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0a92d85f7a3b592fa5e6706e8003a053e92f89d019c83e08ab36fa6f950db39f"
+    }
+}
