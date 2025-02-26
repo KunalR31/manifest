@@ -1,0 +1,74 @@
+{
+    "appid": "1286580",
+    "type": "Game",
+    "name": "Ship of Fools",
+    "schinese_name": "同舟共济",
+    "isfreeapp": "0",
+    "change_number": "27464550",
+    "update_time": "2025-02-14 01:47:18",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1286583": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7594638487794826799",
+                    "size": "2840975832",
+                    "download": "1240774352"
+                }
+            },
+            "decryptionkey": "883b29255b4c97d3e7840bebc536032840afa67a523fe14b16462d25f394f3e9"
+        },
+        "1286582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4491337005345644529",
+                    "size": "1225759611",
+                    "download": "905644960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1286581": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5961248495866746710",
+                    "size": "3913358511",
+                    "download": "1286450416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14409600",
+                "timeupdated": "1716314480"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
