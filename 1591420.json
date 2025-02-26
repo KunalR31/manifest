@@ -1,0 +1,67 @@
+{
+    "appid": "1591420",
+    "type": "Game",
+    "name": "Hmmsim Metro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27361010",
+    "update_time": "2025-02-07 17:29:47",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,japanese",
+        "hasdepotsindlc": "0",
+        "1591421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8518931165977990776",
+                    "size": "2515283199",
+                    "download": "2211488976"
+                },
+                "test": {
+                    "gid": "6222198090066188855",
+                    "size": "2435587413",
+                    "download": "2136910192"
+                },
+                "legacy": {
+                    "gid": "2092893200575157891",
+                    "size": "4903432161",
+                    "download": "1332996224"
+                }
+            },
+            "decryptionkey": "aafd3273eba85d9340aa81bc0c4396af94e76ae131b05956834369742364bafc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17473989",
+                "timeupdated": "1740321243"
+            },
+            "test": {
+                "buildid": "16915913",
+                "description": "Test",
+                "timeupdated": "1736155421"
+            },
+            "legacy": {
+                "buildid": "10900916",
+                "description": "Legacy",
+                "timeupdated": "1735656636"
+            }
+        }
+    }
+}
