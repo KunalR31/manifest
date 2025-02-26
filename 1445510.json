@@ -1,0 +1,59 @@
+{
+    "appid": "1445510",
+    "type": "Demo",
+    "name": "Zombie Soup Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 15:01:59",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1445511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3191706268315000271",
+                    "size": "1786524818",
+                    "download": "1568956080"
+                }
+            },
+            "decryptionkey": "6f5f46fa7bf63ed2def57cdf9059fb946f5ef2efea6fa843ba767993690ba28f"
+        },
+        "1445512": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "977706564101764197",
+                    "size": "1786524818",
+                    "download": "1564192096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12103467",
+                "timeupdated": "1694144392"
+            }
+        }
+    }
+}
