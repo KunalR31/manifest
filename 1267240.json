@@ -1,0 +1,77 @@
+{
+    "appid": "1267240",
+    "type": "Game",
+    "name": "Chaos Combat Chess",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27382523",
+    "update_time": "2025-02-09 06:26:07",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1267241": {
+            "config": {
+                "language": ""
+            }
+        },
+        "1267242": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8103353712975977636",
+                    "size": "1288328626",
+                    "download": "1036386992"
+                },
+                "local": {
+                    "gid": "4276316581235042027",
+                    "size": "335838754",
+                    "download": "189915392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1267243": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1215558056376188251",
+                    "size": "1272678264",
+                    "download": "1033697072"
+                },
+                "local": {
+                    "gid": "5807553585933768706",
+                    "size": "299783383",
+                    "download": "186700000"
+                }
+            },
+            "decryptionkey": "39c115b009d571efcce68b62324466a4dd16bf978da1555f92621cb6aa2b274d"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "5960648",
+                "timeupdated": "1608250970"
+            },
+            "local": {
+                "buildid": "4866851",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1586217148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
