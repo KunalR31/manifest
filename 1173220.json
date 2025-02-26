@@ -1,0 +1,56 @@
+{
+    "appid": "1173220",
+    "type": "Game",
+    "name": "Bleak Faith: Forsaken",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27469760",
+    "update_time": "2025-02-14 08:14:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1173221": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3873813939576497311",
+                    "size": "15036539660",
+                    "download": "6234323440"
+                },
+                "experimental": {
+                    "gid": "3873813939576497311",
+                    "size": "15036539660",
+                    "download": "6234323440"
+                }
+            },
+            "decryptionkey": "633cf68534b12dffbdb6a9b78d77b8a3a17fcfbe4a42c0d4547895e4e94e8ddd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15507154",
+                "timeupdated": "1725029767"
+            },
+            "experimental": {
+                "buildid": "15507154",
+                "description": "For testing the patches before they go live",
+                "timeupdated": "1725029740"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
