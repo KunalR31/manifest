@@ -1,0 +1,118 @@
+{
+    "appid": "1432860",
+    "type": "Game",
+    "name": "Sun Haven",
+    "schinese_name": "太阳避难所",
+    "isfreeapp": "0",
+    "change_number": "27537793",
+    "update_time": "2025-02-19 00:13:50",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1432861": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3890213935189285402",
+                    "size": "8899015418",
+                    "download": "920328944"
+                },
+                "patch1.3stable": {
+                    "gid": "139086255618073369",
+                    "size": "10867606066",
+                    "download": "624144784"
+                },
+                "patch1.4backup": {
+                    "gid": "7222590657231534516",
+                    "size": "8724726521",
+                    "download": "906613952"
+                },
+                "stablerollbackbranch": {
+                    "gid": "7637553855394288981",
+                    "size": "8658048380",
+                    "download": "824687168"
+                }
+            },
+            "decryptionkey": "699136c056b2ebdf81900c0ca6bffabdf5b83899c1d451837b3fbc945c986d86"
+        },
+        "1559320": {
+            "dlcappid": "1559320"
+        },
+        "1667610": {
+            "dlcappid": "1667610"
+        },
+        "1667600": {
+            "dlcappid": "1667600"
+        },
+        "1667620": {
+            "dlcappid": "1667620"
+        },
+        "1667660": {
+            "dlcappid": "1667660"
+        },
+        "1432862": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3977519364027520728",
+                    "size": "8888794390",
+                    "download": "915631696"
+                },
+                "patch1.3stable": {
+                    "gid": "113387688628337721",
+                    "size": "10728253483",
+                    "download": "584632736"
+                },
+                "patch1.4backup": {
+                    "gid": "7912862111819161708",
+                    "size": "8721509045",
+                    "download": "906947696"
+                },
+                "stablerollbackbranch": {
+                    "gid": "7212821265802185391",
+                    "size": "8658920923",
+                    "download": "825213168"
+                }
+            },
+            "decryptionkey": "26c2186d937d6a9271998f3740326a40582ea51a565d46f1aa620cb228c104e2"
+        },
+        "2305662": {
+            "manifests": {
+                "public": {
+                    "gid": "5013926395044398502",
+                    "size": "243290568",
+                    "download": "241214944"
+                }
+            },
+            "depotfromapp": "2305660",
+            "decryptionkey": "fd3834626fe0fb254f567e19c07831ea4684b5b1dc4360fdd0fd76a99491acd5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17449612",
+                "timeupdated": "1740113517"
+            },
+            "patch1.3stable": {
+                "buildid": "12594992",
+                "description": "patch 1.3 stable",
+                "timeupdated": "1718230959"
+            },
+            "patch1.4backup": {
+                "buildid": "15083969",
+                "description": "1.4 release",
+                "timeupdated": "1723491024"
+            },
+            "stablerollbackbranch": {
+                "buildid": "15974413",
+                "description": "has last patch in case of emergencies(not always)",
+                "timeupdated": "1730329534"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
