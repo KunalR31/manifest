@@ -1,0 +1,98 @@
+{
+    "appid": "1076160",
+    "type": "Game",
+    "name": "Command: Modern Operations",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536014",
+    "update_time": "2025-02-18 22:28:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1076160",
+        "1076161": {
+            "manifests": {
+                "public": {
+                    "gid": "3723893375910704405",
+                    "size": "27998661095",
+                    "download": "15461072736"
+                },
+                "32-bitlegacy": {
+                    "gid": "2661544588576315632",
+                    "size": "25289885466",
+                    "download": "15222103104"
+                },
+                "beta": {
+                    "gid": "2107846341784508744",
+                    "size": "27144098792",
+                    "download": "14683524384"
+                }
+            },
+            "decryptionkey": "7382251e4b0b939ed609909546aa5b1f2eba470796291b9b7a586fc7be38612d"
+        },
+        "1076162": {
+            "manifests": {
+                "public": {
+                    "gid": "3383091648756203420",
+                    "size": "191002077",
+                    "download": "190797264"
+                },
+                "32-bitlegacy": {
+                    "gid": "1675218491816951014",
+                    "size": "9516833",
+                    "download": "7261216"
+                },
+                "beta": {
+                    "gid": "1054233806338255079",
+                    "size": "10368543",
+                    "download": "7835936"
+                }
+            },
+            "decryptionkey": "180fe6de8201be6c1ab969105660e0ecd48339b08119cbf85b0dd48096faee67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16799192",
+                "timeupdated": "1734615828"
+            },
+            "32-bitlegacy": {
+                "buildid": "11782180",
+                "description": "32-bit legacy",
+                "timeupdated": "1691504211"
+            },
+            "beta": {
+                "buildid": "15835116",
+                "description": "Open Beta",
+                "timeupdated": "1727362141"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6776ff97399d0a2139ca691c4d9e166e010135a8daa679b1847c2d76781148b1"
+    }
+}
