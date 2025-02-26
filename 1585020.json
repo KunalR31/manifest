@@ -1,0 +1,70 @@
+{
+    "appid": "1585020",
+    "type": "Game",
+    "name": "JUNKPUNK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26823084",
+    "update_time": "2024-12-31 12:40:17",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1585021": {
+            "manifests": {
+                "public": {
+                    "gid": "8772610251633202034",
+                    "size": "12942637296",
+                    "download": "4334527024"
+                },
+                "old_junkpunk": {
+                    "gid": "9108562082681487792",
+                    "size": "7755892627",
+                    "download": "2905144816"
+                },
+                "update_test": {
+                    "gid": "4641968931338501047",
+                    "size": "12947233577",
+                    "download": "4334602096"
+                }
+            },
+            "decryptionkey": "96f2bd7af4758ff153ffbaafa69d9ca44af1485c4a374be8b113a877ab44188d"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,japanese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "10704187",
+                "timeupdated": "1678136257"
+            },
+            "old_junkpunk": {
+                "buildid": "7705976",
+                "description": "the previous version of the game",
+                "timeupdated": "1637442736"
+            },
+            "update_test": {
+                "buildid": "10849175",
+                "description": "Latest update before its live",
+                "timeupdated": "1679678327"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
