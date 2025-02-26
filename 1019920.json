@@ -1,0 +1,56 @@
+{
+    "appid": "1019920",
+    "type": "Game",
+    "name": "Gensokyo Defenders",
+    "schinese_name": "幻想乡守护者",
+    "isfreeapp": "0",
+    "change_number": "26918576",
+    "update_time": "2025-01-09 13:15:04",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1019921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6854362572033363919",
+                    "size": "1555911965",
+                    "download": "1421511728"
+                }
+            },
+            "decryptionkey": "3ab20f19cea6c8e7cef4ddba8f6172f61c19f3accba7123f2670f639b3817949"
+        },
+        "1060700": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1060700",
+            "manifests": {
+                "public": {
+                    "gid": "1231642319748814515",
+                    "size": "7796646",
+                    "download": "6130528"
+                }
+            },
+            "decryptionkey": "9aef0fb105394b435e48f1de105d422ce50eb80dba1acb22616c13385273b303"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "8097491",
+                "timeupdated": "1643367631"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
