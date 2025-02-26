@@ -1,0 +1,68 @@
+{
+    "appid": "1202200",
+    "type": "Game",
+    "name": "Paleo Pines",
+    "schinese_name": "恐龙牧场",
+    "isfreeapp": "0",
+    "change_number": "27329794",
+    "update_time": "2025-02-06 00:52:41",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "1202201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1235313511228964127",
+                    "size": "4413093127",
+                    "download": "1212654128"
+                },
+                "beta": {
+                    "gid": "1235313511228964127",
+                    "size": "4413093127",
+                    "download": "1212654128"
+                }
+            },
+            "decryptionkey": "c64a197ca6dffdd997a3a8120f31ff6f6e2eadb82b35d468f0d2004336811c57"
+        },
+        "1202202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "1202203": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6314504659539435599",
+                    "size": "4527416892",
+                    "download": "1255902976"
+                },
+                "beta": {
+                    "gid": "6314504659539435599",
+                    "size": "4527416892",
+                    "download": "1255902976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16036385",
+                "timeupdated": "1732642349"
+            },
+            "beta": {
+                "buildid": "16036385",
+                "description": "Public beta testing",
+                "timeupdated": "1728910046"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
