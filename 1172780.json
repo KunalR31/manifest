@@ -1,0 +1,53 @@
+{
+    "appid": "1172780",
+    "type": "Application",
+    "name": "Fences 5",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27493072",
+    "update_time": "2025-02-15 18:13:54",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1172781": {
+            "manifests": {
+                "public": {
+                    "gid": "4506233402794503785",
+                    "size": "19251295",
+                    "download": "17932880"
+                },
+                "beta": {
+                    "gid": "5734368231292809026",
+                    "size": "24431495",
+                    "download": "23524480"
+                }
+            },
+            "decryptionkey": "42ea13fe7a3949bffe8fa649b31e8ce4c7458af239a5332c67caf7d1c18b1799"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15188305",
+                "timeupdated": "1724358014"
+            },
+            "beta": {
+                "buildid": "17460219",
+                "description": "Fences 5 Beta Branch",
+                "timeupdated": "1740168119"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
