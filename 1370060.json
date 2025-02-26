@@ -1,0 +1,76 @@
+{
+    "appid": "1370060",
+    "type": "Game",
+    "name": "琪露诺的信仰之战",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25940457",
+    "update_time": "2024-10-29 06:58:10",
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1370062": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6324050046585469430",
+                    "size": "580203055",
+                    "download": "133459120"
+                },
+                "devuploading": {
+                    "gid": "8289448483594480787",
+                    "size": "439863616",
+                    "download": "108978160"
+                },
+                "local": {
+                    "gid": "8289448483594480787",
+                    "size": "439863616",
+                    "download": "108978160"
+                }
+            },
+            "decryptionkey": "539b4f854b4dd94258fdd108f5aaf94510ea799bc20fff94017a127d5d8f3651"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7969011",
+                "timeupdated": "1641301129"
+            },
+            "devuploading": {
+                "buildid": "6671845",
+                "description": "Uploading",
+                "lcsrequired": "1",
+                "timeupdated": "1620571628"
+            },
+            "local": {
+                "buildid": "6671845",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1620571499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
