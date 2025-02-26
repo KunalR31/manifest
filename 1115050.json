@@ -1,0 +1,89 @@
+{
+    "appid": "1115050",
+    "type": "Game",
+    "name": "Will You Snail?",
+    "schinese_name": "蜗的元宇宙",
+    "isfreeapp": "0",
+    "change_number": "26913953",
+    "update_time": "2025-01-09 05:15:01",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1115051": {
+            "manifests": {
+                "public": {
+                    "gid": "7209330756320585568",
+                    "size": "285008299",
+                    "download": "210401968"
+                },
+                "1_4_speedrunning": {
+                    "gid": "2555784986828489802",
+                    "size": "244514385",
+                    "download": "174759600"
+                },
+                "level_editor_beta": {
+                    "gid": "5028668009797938688",
+                    "size": "249881914",
+                    "download": "178408896"
+                },
+                "previous_version": {
+                    "gid": "5398537116482122881",
+                    "size": "274816769",
+                    "download": "204898352"
+                },
+                "sandbox": {
+                    "gid": "7209330756320585568",
+                    "size": "285008299",
+                    "download": "210401968"
+                },
+                "sandbox_previous": {
+                    "gid": "5398537116482122881",
+                    "size": "274816769",
+                    "download": "204898352"
+                }
+            },
+            "decryptionkey": "346aaa98fc5e8195ca6603a8308ae9e5b5738cae6eb8cb6e468d945108f08899"
+        },
+        "1115052": {},
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek",
+        "workshopdepot": "1115050",
+        "branches": {
+            "public": {
+                "buildid": "15878939",
+                "timeupdated": "1727719453"
+            },
+            "1_4_speedrunning": {
+                "buildid": "8500178",
+                "description": "Version 1.4 (Speedrunner's favorite)",
+                "timeupdated": "1676306791"
+            },
+            "level_editor_beta": {
+                "buildid": "8866649",
+                "description": "The Level Editor Beta",
+                "timeupdated": "1654259949"
+            },
+            "previous_version": {
+                "buildid": "14645642",
+                "description": "This will allow you to roll back to the last published build.",
+                "timeupdated": "1726913114"
+            },
+            "sandbox": {
+                "buildid": "15878939",
+                "description": "Virtual machine build for modding.",
+                "timeupdated": "1727719559"
+            },
+            "sandbox_previous": {
+                "buildid": "14645642",
+                "description": "Previous virtual machine build for modding.",
+                "timeupdated": "1726913310"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "583839dffd7f7a89aff31a1453de2297e27ebc6c228a6ca981bc6e235549a41e"
+    }
+}
