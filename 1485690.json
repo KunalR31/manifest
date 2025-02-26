@@ -1,0 +1,103 @@
+{
+    "appid": "1485690",
+    "type": "Game",
+    "name": "Potion Tycoon",
+    "schinese_name": "药剂大亨 - Potion Tycoon",
+    "isfreeapp": "0",
+    "change_number": "27231244",
+    "update_time": "2025-01-30 16:12:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1485691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6262064825271092391",
+                    "size": "1032329771",
+                    "download": "697597904"
+                },
+                "rollback": {
+                    "gid": "5689153489215350079",
+                    "size": "818031112",
+                    "download": "507207056"
+                },
+                "experimental-public": {
+                    "gid": "7103413508826213951",
+                    "size": "1032331956",
+                    "download": "697577440"
+                }
+            },
+            "decryptionkey": "74a35a5e7fd10a48ec9f16870df9575e1389402128f49fef01a6e5ca65a3a282"
+        },
+        "2239080": {
+            "dlcappid": "2239080",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5588315491262859765",
+                    "size": "24888717",
+                    "download": "19549232"
+                },
+                "rollback": {
+                    "gid": "3423539916556174153",
+                    "size": "24492863",
+                    "download": "19269744"
+                },
+                "experimental-public": {
+                    "gid": "5588315491262859765",
+                    "size": "24888717",
+                    "download": "19549232"
+                }
+            },
+            "decryptionkey": "845274ae026e4eee4d1f9acab311bbffe8fcb552b8a878898066b472e97c20c5"
+        },
+        "2239081": {
+            "dlcappid": "2239080",
+            "manifests": {
+                "public": {
+                    "gid": "4507019552982981583",
+                    "size": "23588025",
+                    "download": "7940720"
+                },
+                "rollback": {
+                    "gid": "1648610869915857947",
+                    "size": "842610",
+                    "download": "837040"
+                },
+                "experimental-public": {
+                    "gid": "1648610869915857947",
+                    "size": "842610",
+                    "download": "837040"
+                }
+            },
+            "decryptionkey": "82c4137c68eaaabd30476fe11bdcee3b17fb3831d13ea0236a03b48154d6b63b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16178308",
+                "timeupdated": "1729850072"
+            },
+            "rollback": {
+                "buildid": "13272415",
+                "description": "latest stable build",
+                "timeupdated": "1707478270"
+            },
+            "experimental-public": {
+                "buildid": "16037355",
+                "description": "unstable builds",
+                "timeupdated": "1728913822"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
