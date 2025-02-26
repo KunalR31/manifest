@@ -1,0 +1,100 @@
+{
+    "appid": "107200",
+    "type": "Game",
+    "name": "Space Pirates and Zombies",
+    "schinese_name": "太空海盗和僵尸",
+    "isfreeapp": "0",
+    "change_number": "26080762",
+    "update_time": "2024-11-07 08:24:27",
+    "depot": {
+        "107203": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7497967792110660350",
+                    "size": "167900799",
+                    "download": "0"
+                },
+                "spaz_2011": {
+                    "gid": "7497967792110660350",
+                    "size": "167900799",
+                    "download": "0"
+                },
+                "win10beta": {
+                    "gid": "7497967792110660350",
+                    "size": "167900799",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "107202": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2583687843857908812",
+                    "size": "164705482",
+                    "download": "155943392"
+                },
+                "spaz_2011": {
+                    "gid": "4720541106416472474",
+                    "size": "164701203",
+                    "download": "0"
+                },
+                "win10beta": {
+                    "gid": "2583687843857908812",
+                    "size": "164705482",
+                    "download": "155943392"
+                }
+            },
+            "decryptionkey": "bf3da4a1f6b3544335760104c0b48bf6ba1ad1c1ef403b3f7294acc0945f9c56"
+        },
+        "107204": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8971915222579962322",
+                    "size": "166954011",
+                    "download": "0"
+                },
+                "spaz_2011": {
+                    "gid": "8971915222579962322",
+                    "size": "166954011",
+                    "download": "0"
+                },
+                "win10beta": {
+                    "gid": "8971915222579962322",
+                    "size": "166954011",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "8591595",
+                "timeupdated": "1650476017"
+            },
+            "spaz_2011": {
+                "buildid": "150446",
+                "description": "2011 Open GL default SPAZ",
+                "timeupdated": "1600967062"
+            },
+            "win10beta": {
+                "buildid": "8591595",
+                "description": "Windows 10 Black Screen Fix?",
+                "timeupdated": "1650475699"
+            }
+        }
+    }
+}
