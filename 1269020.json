@@ -1,0 +1,97 @@
+{
+    "appid": "1269020",
+    "type": "Game",
+    "name": "No Plan B",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27527638",
+    "update_time": "2025-02-18 12:15:06",
+    "depot": {
+        "1269021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1661473184437150202",
+                    "size": "997846401",
+                    "download": "296100080"
+                },
+                "test": {
+                    "gid": "1661473184437150202",
+                    "size": "997846401",
+                    "download": "296100080"
+                },
+                "beta11": {
+                    "gid": "4847739581729502901",
+                    "size": "930171046",
+                    "download": "321543952"
+                },
+                "beta14": {
+                    "gid": "4313484724701926515",
+                    "size": "935130019",
+                    "download": "314079504"
+                }
+            },
+            "decryptionkey": "fd90cbce2f41dd81c0b6fae2cd5f390c768f98801261d448896e0a09a08c88e0"
+        },
+        "1269022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8216996282076510496",
+                    "size": "1031472424",
+                    "download": "305436192"
+                },
+                "test": {
+                    "gid": "8216996282076510496",
+                    "size": "1031472424",
+                    "download": "305436192"
+                }
+            },
+            "decryptionkey": "c7aa98302d60da91f22fe00072501937db4143cd042641a2cdb3ff4600788745"
+        },
+        "1269023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6693255322005520471",
+                    "size": "1235891877",
+                    "download": "457428816"
+                },
+                "test": {
+                    "gid": "6693255322005520471",
+                    "size": "1235891877",
+                    "download": "457428816"
+                }
+            },
+            "decryptionkey": "0b5567466c71f4f3bbedd362e1a0424fb77db5c80e31b5692b63b2b50239d382"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15448238",
+                "timeupdated": "1724314430"
+            },
+            "test": {
+                "buildid": "15448238",
+                "description": "Test branch",
+                "timeupdated": "1724247691"
+            },
+            "beta11": {
+                "buildid": "11640213",
+                "description": "Beta 11 legacy branch\t",
+                "timeupdated": "1703162649"
+            },
+            "beta14": {
+                "buildid": "12849749",
+                "description": "Beta 14 legacy branch\t",
+                "timeupdated": "1703162671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
