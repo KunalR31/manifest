@@ -1,0 +1,137 @@
+{
+    "appid": "1031460",
+    "type": "Game",
+    "name": "Sail Forth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27445994",
+    "update_time": "2025-02-13 03:42:51",
+    "depot": {
+        "1031461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "560365969685901602",
+                    "size": "565840812",
+                    "download": "333675760"
+                },
+                "demo": {
+                    "gid": "913299765535169673",
+                    "size": "459140783",
+                    "download": "284053440"
+                },
+                "first_build": {
+                    "gid": "4774982210111812415",
+                    "size": "167742265",
+                    "download": "103277792"
+                },
+                "bugfix_test": {
+                    "gid": "1546140654027062501",
+                    "size": "539905821",
+                    "download": "322965216"
+                },
+                "public_preview": {
+                    "gid": "295770935543809639",
+                    "size": "565744736",
+                    "download": "333671184"
+                }
+            },
+            "decryptionkey": "ea023f87109d8f082fc3cc0500f1ffc1f5303f86947128bb4c04261197145615"
+        },
+        "1031462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6026785959764709488",
+                    "size": "552674750",
+                    "download": "326484080"
+                },
+                "demo": {
+                    "gid": "228151985223617103",
+                    "size": "481146043",
+                    "download": "291058192"
+                },
+                "first_build": {
+                    "gid": "5193705757660303992",
+                    "size": "180026709",
+                    "download": "106297872"
+                },
+                "bugfix_test": {
+                    "gid": "2310711294259580618",
+                    "size": "568062993",
+                    "download": "328548608"
+                },
+                "public_preview": {
+                    "gid": "4423012325682046780",
+                    "size": "552570156",
+                    "download": "326461520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1031463": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3629393440861438555",
+                    "size": "582237657",
+                    "download": "334409536"
+                },
+                "demo": {
+                    "gid": "3076447017748393593",
+                    "size": "531265290",
+                    "download": "294561984"
+                },
+                "first_build": {
+                    "gid": "377209234055042275",
+                    "size": "209673753",
+                    "download": "116809280"
+                },
+                "bugfix_test": {
+                    "gid": "6050605656221676591",
+                    "size": "570325222",
+                    "download": "327808528"
+                },
+                "public_preview": {
+                    "gid": "3978116362487865083",
+                    "size": "582132279",
+                    "download": "334401520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16837752",
+                "timeupdated": "1735069940"
+            },
+            "demo": {
+                "buildid": "9218740",
+                "description": "Demo build, same as steam demo",
+                "timeupdated": "1659131186"
+            },
+            "first_build": {
+                "buildid": "3545999",
+                "description": "a build older than the sea",
+                "timeupdated": "1623390897"
+            },
+            "bugfix_test": {
+                "buildid": "14573225",
+                "description": "Temp branch for testing fixes with the community",
+                "timeupdated": "1717276493"
+            },
+            "public_preview": {
+                "buildid": "16271172",
+                "description": "Experimental branch, may contain bugs!",
+                "timeupdated": "1730941869"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
