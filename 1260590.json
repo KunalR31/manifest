@@ -1,0 +1,78 @@
+{
+    "appid": "1260590",
+    "type": "Game",
+    "name": "Hadean Tactics",
+    "schinese_name": "冥狱战术 (Hadean Tactics)",
+    "isfreeapp": "0",
+    "change_number": "27485828",
+    "update_time": "2025-02-15 03:22:37",
+    "depot": {
+        "baselanguages": "english,german,spanish,schinese,tchinese,japanese,turkish,brazilian",
+        "1260591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1201724929497939099",
+                    "size": "2912738812",
+                    "download": "1123816208"
+                },
+                "public_beta": {
+                    "gid": "6951832912184351734",
+                    "size": "2913551216",
+                    "download": "1124092992"
+                }
+            },
+            "decryptionkey": "713a3afb76db28c62316451087cf527f8b3ff7d3f17a8ca92f9a5369f8858591"
+        },
+        "1260592": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7457507229507886254",
+                    "size": "3082287906",
+                    "download": "1193011168"
+                },
+                "public_beta": {
+                    "gid": "4091199433432937430",
+                    "size": "3082908822",
+                    "download": "1193171376"
+                }
+            },
+            "decryptionkey": "d913b50de6552fec5c65fd18011582ee6c4df531b1b52150bdaa02a9fe5cb885"
+        },
+        "1260593": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2518321069696701340",
+                    "size": "2944768988",
+                    "download": "1133695056"
+                },
+                "public_beta": {
+                    "gid": "1124262922954313328",
+                    "size": "2944976490",
+                    "download": "1133751392"
+                }
+            },
+            "decryptionkey": "1cd6ebd8af5e1c51d5a0f8b42a7bb56a3dcf8f91ac1920638dd17c14ab535025"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16975609",
+                "timeupdated": "1736617377"
+            },
+            "public_beta": {
+                "buildid": "17371173",
+                "description": "community feature testing",
+                "timeupdated": "1739560954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
