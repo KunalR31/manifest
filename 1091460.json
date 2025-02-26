@@ -1,0 +1,57 @@
+{
+    "appid": "1091460",
+    "type": "Game",
+    "name": "Souls of Blades",
+    "schinese_name": "剑魄",
+    "isfreeapp": "0",
+    "change_number": "26084360",
+    "update_time": "2024-11-07 14:33:13",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "1091461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8548604218172825530",
+                    "size": "23565291733",
+                    "download": "16893269344"
+                },
+                "oldversion": {
+                    "gid": "7553984326054649232",
+                    "size": "18327359975",
+                    "download": "7120312048"
+                }
+            },
+            "decryptionkey": "e02f6fbe2b0395ab54fd2df7e6cd3898c091ab1bbaa57326eddc8509eb5e9f63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7506612",
+                "timeupdated": "1633796301"
+            },
+            "oldversion": {
+                "buildid": "5399057",
+                "description": "Old version running on DX11",
+                "timeupdated": "1608301989"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
