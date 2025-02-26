@@ -1,0 +1,59 @@
+{
+    "appid": "1029210",
+    "type": "Game",
+    "name": "30XX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26900824",
+    "update_time": "2025-01-08 09:18:00",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1029211": {
+            "manifests": {
+                "public": {
+                    "gid": "2499994218244667790",
+                    "size": "1152673005",
+                    "download": "411203216"
+                },
+                "publictest": {
+                    "gid": "2499994218244667790",
+                    "size": "1152673005",
+                    "download": "411203216"
+                }
+            },
+            "decryptionkey": "2b3982987797a16b314fec2be1ad269d546b9d168096304e5939b774f6fd3dc7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16143490",
+                "timeupdated": "1729641664"
+            },
+            "publictest": {
+                "buildid": "16143490",
+                "description": "30XX public test branch",
+                "timeupdated": "1729641787"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
