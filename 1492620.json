@@ -1,0 +1,69 @@
+{
+    "appid": "1492620",
+    "type": "Game",
+    "name": "Jelly Is Sticky",
+    "schinese_name": "黏黏果冻 (Jelly Is Sticky)",
+    "isfreeapp": "0",
+    "change_number": "27169271",
+    "update_time": "2025-01-26 13:27:43",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1492622": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8524983279530465105",
+                    "size": "336950609",
+                    "download": "137536336"
+                },
+                "sound": {
+                    "gid": "4501045497757065423",
+                    "size": "134236528",
+                    "download": "10193920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1492621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4824853357337875194",
+                    "size": "339285329",
+                    "download": "137834160"
+                },
+                "sound": {
+                    "gid": "5350597237761047650",
+                    "size": "136471408",
+                    "download": "10435568"
+                }
+            },
+            "decryptionkey": "a19333d517b43c91d85da7bf721b3be61c026a90e08cef9a0b10f3a35140212e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8789223",
+                "timeupdated": "1653267797"
+            },
+            "sound": {
+                "buildid": "6756734",
+                "description": "for iterating on sound design",
+                "timeupdated": "1621970332"
+            }
+        }
+    }
+}
