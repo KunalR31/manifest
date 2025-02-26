@@ -1,0 +1,123 @@
+{
+    "appid": "1244040",
+    "type": "Application",
+    "name": "Crocotile 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27525375",
+    "update_time": "2025-02-18 08:35:51",
+    "depot": {
+        "baselanguages": "english",
+        "1244041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5048759986038254560",
+                    "size": "417328647",
+                    "download": "128543488"
+                },
+                "linuxold": {
+                    "gid": "812907830567094140",
+                    "size": "417308483",
+                    "download": "128529504"
+                },
+                "windows7": {
+                    "gid": "2797620753108009997",
+                    "size": "376424190",
+                    "download": "118503840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1244042": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3373002703814610598",
+                    "size": "559089706",
+                    "download": "143233152"
+                },
+                "linuxold": {
+                    "gid": "7959057766414846777",
+                    "size": "470214231",
+                    "download": "121522304"
+                },
+                "windows7": {
+                    "gid": "8330586534653523443",
+                    "size": "545612766",
+                    "download": "137621952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1244043": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3506254751855550583",
+                    "size": "389790264",
+                    "download": "123453744"
+                },
+                "linuxold": {
+                    "gid": "2612294452657614072",
+                    "size": "390043535",
+                    "download": "123477824"
+                },
+                "windows7": {
+                    "gid": "5309511440558040577",
+                    "size": "358713499",
+                    "download": "112973824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1244044": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3140119623936239097",
+                    "size": "463101759",
+                    "download": "137933248"
+                },
+                "linuxold": {
+                    "gid": "3631286047134423366",
+                    "size": "463081599",
+                    "download": "137919488"
+                },
+                "windows7": {
+                    "gid": "6493648412880361974",
+                    "size": "376424190",
+                    "download": "118503840"
+                }
+            },
+            "decryptionkey": "ac90285d5c5308df897fabd50d4683ed2641b00ddf71bb98fdf07e72f3343708"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17400327",
+                "timeupdated": "1739838945"
+            },
+            "linuxold": {
+                "buildid": "17386061",
+                "description": "support for older linux",
+                "timeupdated": "1739740542"
+            },
+            "windows7": {
+                "buildid": "17386083",
+                "description": "windows 7",
+                "timeupdated": "1739740730"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
