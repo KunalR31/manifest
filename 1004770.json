@@ -1,0 +1,87 @@
+{
+    "appid": "1004770",
+    "type": "Game",
+    "name": "Maiden & Spell",
+    "schinese_name": "少女与魔法",
+    "isfreeapp": "0",
+    "change_number": "27446422",
+    "update_time": "2025-02-13 04:14:47",
+    "depot": {
+        "1205731": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1692941013507493111",
+                    "size": "150288636",
+                    "download": "90661792"
+                }
+            },
+            "depotfromapp": "1205730",
+            "decryptionkey": "bf9174e7e0775f4bcdf491373b7c6dd382cc57a69dde6bf9b49c0c14c55a34bf"
+        },
+        "1004771": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5114462997594861162",
+                    "size": "259791917",
+                    "download": "190568016"
+                },
+                "beta": {
+                    "gid": "5114462997594861162",
+                    "size": "259791917",
+                    "download": "190568016"
+                },
+                "june-2021": {
+                    "gid": "4666737999086430207",
+                    "size": "259739437",
+                    "download": "190541904"
+                },
+                "previous-patch": {
+                    "gid": "4666737999086430207",
+                    "size": "259739437",
+                    "download": "190541904"
+                },
+                "sept-2022": {
+                    "gid": "2358143432966630351",
+                    "size": "277972998",
+                    "download": "190063616"
+                }
+            },
+            "decryptionkey": "8c50bf0d876825852ca0c0d07a09ce2cece4bad9828494aaaa8d72b817d9df14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11675940",
+                "timeupdated": "1689090967"
+            },
+            "beta": {
+                "buildid": "11675940",
+                "description": "Balance testing",
+                "timeupdated": "1689090959"
+            },
+            "june-2021": {
+                "buildid": "11676112",
+                "description": "June 2021 Patch",
+                "timeupdated": "1689091684"
+            },
+            "previous-patch": {
+                "buildid": "11676112",
+                "description": "Pre-Sept. Beta balance (equivalent to Switch version)",
+                "timeupdated": "1689091696"
+            },
+            "sept-2022": {
+                "buildid": "9492197",
+                "description": "September 2022 Patch",
+                "timeupdated": "1688136781"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
