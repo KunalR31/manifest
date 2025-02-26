@@ -1,0 +1,46 @@
+{
+    "appid": "1458100",
+    "type": "Game",
+    "name": "Cozy Grove",
+    "schinese_name": "和睦森林",
+    "isfreeapp": "0",
+    "change_number": "26900250",
+    "update_time": "2025-01-08 08:20:46",
+    "depot": {
+        "1458101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8118013359660350565",
+                    "size": "2199716489",
+                    "download": "374654016"
+                },
+                "beta": {
+                    "gid": "8118013359660350565",
+                    "size": "2199716489",
+                    "download": "374654016"
+                }
+            },
+            "decryptionkey": "cc88233f6fa038e76138ab1766a46998a555d867ef3651f7419af88e3be2596c"
+        },
+        "1458102": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8945282",
+                "timeupdated": "1655843104"
+            },
+            "beta": {
+                "buildid": "8945282",
+                "description": "For testing of new updates before they have been released to the broader public. Please back up your save file before downloading the beta branch, since we cannot guarantee that it will be stable or completely safe to use at all times.",
+                "timeupdated": "1655355658"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
