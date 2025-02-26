@@ -1,0 +1,93 @@
+{
+    "appid": "1210550",
+    "type": "Game",
+    "name": "Hohokum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27201229",
+    "update_time": "2025-01-28 21:35:16",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1210551": {
+            "manifests": {
+                "public": {
+                    "gid": "1271567250706932307",
+                    "size": "3160110864",
+                    "download": "1198672208"
+                },
+                "binary-search": {
+                    "gid": "962550400803528380",
+                    "size": "3224753873",
+                    "download": "1201773392"
+                },
+                "debug": {
+                    "gid": "7539242467959558491",
+                    "size": "3224753907",
+                    "download": "1201771600"
+                },
+                "steamdeck-debug-testing": {
+                    "gid": "3239841502845058190",
+                    "size": "3187742072",
+                    "download": "1211538416"
+                },
+                "steamdeck-testing": {
+                    "gid": "8442633002152475737",
+                    "size": "3170769921",
+                    "download": "1204094032"
+                },
+                "testing": {
+                    "gid": "512151964791813487",
+                    "size": "3160091795",
+                    "download": "1198662112"
+                }
+            },
+            "decryptionkey": "e494916b8fcba96d63f4812af4f32dec86be2ad028f59c74da909f0f0ccab1a7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "9150969",
+                "timeupdated": "1658256840"
+            },
+            "binary-search": {
+                "buildid": "8974168",
+                "description": "none",
+                "timeupdated": "1657340121"
+            },
+            "debug": {
+                "buildid": "8986437",
+                "description": "debug builds",
+                "timeupdated": "1655905916"
+            },
+            "steamdeck-debug-testing": {
+                "buildid": "9091163",
+                "description": "steamdeck-debug-testing",
+                "timeupdated": "1657364617"
+            },
+            "steamdeck-testing": {
+                "buildid": "9091360",
+                "description": "steamdeck-testing",
+                "timeupdated": "1657369870"
+            },
+            "testing": {
+                "buildid": "9142485",
+                "description": "WIP TESTING ONLY",
+                "timeupdated": "1658157152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
