@@ -1,0 +1,55 @@
+{
+    "appid": "1261880",
+    "type": "Game",
+    "name": "Education",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26476748",
+    "update_time": "2024-12-05 11:51:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1261881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6075478080685255805",
+                    "size": "8331941893",
+                    "download": "4255511808"
+                },
+                "test": {
+                    "gid": "6075478080685255805",
+                    "size": "8331941893",
+                    "download": "4255511808"
+                }
+            },
+            "decryptionkey": "7f389b64bfc88f9659b87d49582efb94764036695b6d06882b72f75243db538b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8462886",
+                "timeupdated": "1648611206"
+            },
+            "test": {
+                "buildid": "8462886",
+                "timeupdated": "1648606971"
+            }
+        }
+    }
+}
