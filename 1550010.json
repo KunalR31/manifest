@@ -1,0 +1,61 @@
+{
+    "appid": "1550010",
+    "type": "Game",
+    "name": "The Witch of Fern Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26902552",
+    "update_time": "2025-01-08 12:16:07",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1550011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3598967083099358672",
+                    "size": "21242036630",
+                    "download": "7582461280"
+                }
+            },
+            "decryptionkey": "c8b421065260e3d0cf67fd1632fc48eb13af312245d4097c394a14b6112e466e"
+        },
+        "1550012": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4216123057545942319",
+                    "size": "20601669749",
+                    "download": "7443937600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16405181",
+                "timeupdated": "1731594007"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
