@@ -1,0 +1,53 @@
+{
+    "appid": "1621990",
+    "type": "Game",
+    "name": "Stray Blade",
+    "schinese_name": "Stray Blade - 迷失之刃",
+    "isfreeapp": "0",
+    "change_number": "27166456",
+    "update_time": "2025-01-26 04:27:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1621991": {
+            "manifests": {
+                "public": {
+                    "gid": "1378961617894193761",
+                    "size": "30195558900",
+                    "download": "9460634080"
+                },
+                "beta_test": {
+                    "gid": "8932915780971480710",
+                    "size": "29012912668",
+                    "download": "9236015120"
+                }
+            },
+            "decryptionkey": "bc000d9af5e354cc1ae5114408f5c1d2d516110c3f0c9f913686b41340b6c73b"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "12682948",
+                "timeupdated": "1700060014"
+            },
+            "beta_test": {
+                "buildid": "11377830",
+                "description": "Used for testing",
+                "timeupdated": "1686126534"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
