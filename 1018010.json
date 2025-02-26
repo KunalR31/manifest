@@ -1,0 +1,55 @@
+{
+    "appid": "1018010",
+    "type": "Game",
+    "name": "Castlevania Anniversary Collection",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27383200",
+    "update_time": "2025-02-09 08:17:56",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1018011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4125351698578021580",
+                    "size": "811053866",
+                    "download": "813966272"
+                }
+            },
+            "decryptionkey": "f369e7edc8f5b3ceafff6f9366fbf8d1b5f3ce2d064444f966315ff1b0cbdf4b"
+        },
+        "1018012": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3934183544680755781",
+                    "size": "813062952",
+                    "download": "815996192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3872343",
+                "timeupdated": "1560826890"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
