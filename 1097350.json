@@ -1,0 +1,61 @@
+{
+    "appid": "1097350",
+    "type": "Game",
+    "name": "Weird West: Definitive Edition",
+    "schinese_name": "诡野西部: 决定版",
+    "isfreeapp": "0",
+    "change_number": "26900248",
+    "update_time": "2025-01-08 08:18:01",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1097351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6301703151411512235",
+                    "size": "12798999858",
+                    "download": "5352276384"
+                }
+            },
+            "decryptionkey": "77d35d8bc6e68f2ccced7ca6a30cc5f078c00132b84bf57330f38cdea6e4702f"
+        },
+        "1097352": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5295690604804110272",
+                    "size": "12280975592",
+                    "download": "3652656624"
+                }
+            },
+            "decryptionkey": "d22d42504aa77b998102d10c9eba3fc812819846a43e60a95659b4cb75455462"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "10665862",
+                "timeupdated": "1677744375"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
