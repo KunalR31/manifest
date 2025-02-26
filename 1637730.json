@@ -1,0 +1,133 @@
+{
+    "appid": "1637730",
+    "type": "Game",
+    "name": "Crystal Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27370685",
+    "update_time": "2025-02-08 04:37:41",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1637731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "628007521841152550",
+                    "size": "561704128",
+                    "download": "519041776"
+                },
+                "beta": {
+                    "gid": "628007521841152550",
+                    "size": "561704128",
+                    "download": "519041776"
+                },
+                "console": {
+                    "gid": "700812043765417117",
+                    "size": "559201819",
+                    "download": "518742704"
+                },
+                "legacy": {
+                    "gid": "7110478535978860996",
+                    "size": "540091014",
+                    "download": "515516192"
+                }
+            },
+            "decryptionkey": "f06b86efa80e91c62751dbacc194e6d32c43928ab5e727d3125b097d38465bcd"
+        },
+        "1637732": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8214221379218363845",
+                    "size": "583881584",
+                    "download": "525692432"
+                },
+                "beta": {
+                    "gid": "8214221379218363845",
+                    "size": "583881584",
+                    "download": "525692432"
+                },
+                "console": {
+                    "gid": "5682269808696338950",
+                    "size": "581379787",
+                    "download": "525393840"
+                },
+                "legacy": {
+                    "gid": "2577916723852540845",
+                    "size": "563553629",
+                    "download": "522261360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1637733": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7789340199161510619",
+                    "size": "598309969",
+                    "download": "528885216"
+                },
+                "beta": {
+                    "gid": "7789340199161510619",
+                    "size": "598309969",
+                    "download": "528885216"
+                },
+                "console": {
+                    "gid": "4540953591792289880",
+                    "size": "595808172",
+                    "download": "528586624"
+                },
+                "legacy": {
+                    "gid": "8098578176031118774",
+                    "size": "576831223",
+                    "download": "525286736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1637730",
+        "branches": {
+            "public": {
+                "buildid": "17274610",
+                "timeupdated": "1738960658"
+            },
+            "beta": {
+                "buildid": "17274610",
+                "description": "For testing the latest build before it goes live.",
+                "timeupdated": "1738960622"
+            },
+            "console": {
+                "buildid": "13861345",
+                "description": "The build currently available on console (for confirming mod support).",
+                "timeupdated": "1724631205"
+            },
+            "legacy": {
+                "buildid": "8621753",
+                "description": "The previous build that was still 32 bit (version 1.1.1).",
+                "timeupdated": "1728354128"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c823114ddd1b46899ed7a82e45387e51cfe4752a5e78c60b49a52abc987091b9"
+    }
+}
