@@ -1,0 +1,41 @@
+{
+    "appid": "1062830",
+    "type": "Game",
+    "name": "Embr",
+    "schinese_name": "灭火先锋 / Embr",
+    "isfreeapp": "0",
+    "change_number": "27271184",
+    "update_time": "2025-02-02 03:33:05",
+    "depot": {
+        "1062831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2194872376799639831",
+                    "size": "9721016912",
+                    "download": "1720047808"
+                },
+                "stadiacrossplay": {
+                    "gid": "1437928793703029788",
+                    "size": "9588923456",
+                    "download": "1676077040"
+                }
+            },
+            "decryptionkey": "b67bf65058bab34ac1aec469651b75032e1bff85cdd58cb2e28d51f107d29776"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7862699",
+                "timeupdated": "1641477085"
+            },
+            "stadiacrossplay": {
+                "buildid": "7058363",
+                "description": "Maintains version parity to Stadia if they are ever out of sync",
+                "timeupdated": "1629296566"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
