@@ -1,0 +1,113 @@
+{
+    "appid": "1342810",
+    "type": "Game",
+    "name": "United Assault - Normandy '44",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26709759",
+    "update_time": "2024-12-19 16:34:30",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1342811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3014221675564723132",
+                    "size": "6370876416",
+                    "download": "6102338736"
+                },
+                "debug_build": {
+                    "gid": "3035229189322438018",
+                    "size": "5099381919",
+                    "download": "4847945792"
+                },
+                "legacy": {
+                    "gid": "3147480160753787402",
+                    "size": "4958825669",
+                    "download": "4776690704"
+                },
+                "development_preview": {
+                    "gid": "3014221675564723132",
+                    "size": "6370876416",
+                    "download": "6102338736"
+                }
+            },
+            "decryptionkey": "1ddf5904bfa9b854079491d165adce02ad5cd89b373b42c533d400701e90bbe9"
+        },
+        "1342812": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2321750225439365552",
+                    "size": "8966014480",
+                    "download": "7476270720"
+                },
+                "debug_build": {
+                    "gid": "2321750225439365552",
+                    "size": "8966014480",
+                    "download": "7476270720"
+                },
+                "legacy": {
+                    "gid": "2321750225439365552",
+                    "size": "8966014480",
+                    "download": "7476270720"
+                },
+                "development_preview": {
+                    "gid": "2321750225439365552",
+                    "size": "8966014480",
+                    "download": "7476270720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16797686",
+                "timeupdated": "1734597265"
+            },
+            "debug_build": {
+                "buildid": "9500081",
+                "description": "debug_build",
+                "timeupdated": "1663001543"
+            },
+            "legacy": {
+                "buildid": "9198276",
+                "description": "legacy",
+                "timeupdated": "1668253348"
+            },
+            "development_preview": {
+                "buildid": "16797686",
+                "description": "Public Development Preview",
+                "timeupdated": "1734597236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
