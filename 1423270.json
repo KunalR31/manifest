@@ -1,0 +1,74 @@
+{
+    "appid": "1423270",
+    "type": "Game",
+    "name": "Ghost Stories 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25599141",
+    "update_time": "2024-10-09 02:26:57",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1423271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "900307330589772140",
+                    "size": "623870616",
+                    "download": "401042688"
+                }
+            },
+            "decryptionkey": "cfe3203d1ffdf23080d4365524095f5ce37d55bf70860eb54ba430c71234e398"
+        },
+        "1423272": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5654178144278413523",
+                    "size": "657905770",
+                    "download": "411369600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1423273": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "1423274": {
+            "config": {
+                "language": ""
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish",
+        "branches": {
+            "public": {
+                "buildid": "8154020",
+                "timeupdated": "1644154727"
+            }
+        }
+    }
+}
