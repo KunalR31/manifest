@@ -1,0 +1,105 @@
+{
+    "appid": "1118200",
+    "type": "Game",
+    "name": "People Playground",
+    "schinese_name": "人类游乐场",
+    "isfreeapp": "0",
+    "change_number": "27493784",
+    "update_time": "2025-02-15 20:15:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1118200",
+        "1118201": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2944277424035712279",
+                    "size": "438319243",
+                    "download": "143799712"
+                },
+                "previous": {
+                    "gid": "4911063664111445019",
+                    "size": "412911674",
+                    "download": "134833488"
+                },
+                "alpha": {
+                    "gid": "4943293792667176108",
+                    "size": "492457965",
+                    "download": "156757712"
+                },
+                "beta": {
+                    "gid": "2944277424035712279",
+                    "size": "438319243",
+                    "download": "143799712"
+                }
+            },
+            "decryptionkey": "d99e7ccbd86c7d168a651c52fc54891a1b5ad40ee46627fd11bd2b4ab6bfb8d8"
+        },
+        "1118202": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1987324174694902380",
+                    "size": "430609907",
+                    "download": "141280016"
+                },
+                "previous": {
+                    "gid": "2784478921603369277",
+                    "size": "405202338",
+                    "download": "132304576"
+                },
+                "alpha": {
+                    "gid": "6457985935358018021",
+                    "size": "478494037",
+                    "download": "153657920"
+                },
+                "beta": {
+                    "gid": "1987324174694902380",
+                    "size": "430609907",
+                    "download": "141280016"
+                }
+            },
+            "decryptionkey": "a4e87225a2ee63931a6b945691d1c12696020bbc45de5e21d46ae158c8672b32"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13113624",
+                "timeupdated": "1704675078"
+            },
+            "previous": {
+                "buildid": "10691106",
+                "description": "previous build",
+                "timeupdated": "1697896822"
+            },
+            "alpha": {
+                "buildid": "17126116",
+                "description": "definitely broken and unfinished builds",
+                "timeupdated": "1737761014"
+            },
+            "beta": {
+                "buildid": "13113624",
+                "description": "preview versions",
+                "timeupdated": "1737155359"
+            }
+        },
+        "workshopdepotdecryptionkey": "21c3261ede1fc0aef871ac3d10699a619bc1aabab0ba790f67713e383ea6fc92"
+    }
+}
