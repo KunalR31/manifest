@@ -1,0 +1,72 @@
+{
+    "appid": "1286350",
+    "type": "Game",
+    "name": "BPM: BULLETS PER MINUTE",
+    "schinese_name": "BPM: 枪林弹雨",
+    "isfreeapp": "0",
+    "change_number": "26989907",
+    "update_time": "2025-01-14 21:08:48",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1286351": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2472693128966650368",
+                    "size": "13234358924",
+                    "download": "6567352224"
+                },
+                "rollback_pre_translations": {
+                    "gid": "8816761217889125948",
+                    "size": "14308810933",
+                    "download": "6774545280"
+                },
+                "rollback_sept_23_2020": {
+                    "gid": "8809283977192719988",
+                    "size": "13774502057",
+                    "download": "6418658928"
+                }
+            },
+            "decryptionkey": "2a7a7ad9c894a1677dc5b9841b915ffe4eeadbed7981da220993c6f463b077d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9606939",
+                "timeupdated": "1664353275"
+            },
+            "rollback_pre_translations": {
+                "buildid": "6189448",
+                "description": "Feb 4 build",
+                "timeupdated": "1631717540"
+            },
+            "rollback_sept_23_2020": {
+                "buildid": "5583991",
+                "description": "sept_23_2020 build",
+                "timeupdated": "1619903355"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
