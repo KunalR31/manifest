@@ -1,0 +1,66 @@
+{
+    "appid": "1538970",
+    "type": "Game",
+    "name": "Hammerwatch II",
+    "schinese_name": "铁锤守卫 II",
+    "isfreeapp": "0",
+    "change_number": "27494645",
+    "update_time": "2025-02-15 22:13:27",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1538971": {
+            "manifests": {
+                "public": {
+                    "gid": "4273489909773468443",
+                    "size": "569041422",
+                    "download": "502900816"
+                },
+                "beta": {
+                    "gid": "1794464058599893355",
+                    "size": "568758083",
+                    "download": "502701248"
+                }
+            },
+            "decryptionkey": "dfedfe3c03f180c326c777579dd6c396988ced2ab833c4ffa12bbbe5c0670666"
+        },
+        "1538972": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3436148908387954700",
+                    "size": "38663912",
+                    "download": "12905536"
+                },
+                "beta": {
+                    "gid": "6943027445671864906",
+                    "size": "38665448",
+                    "download": "12901632"
+                }
+            },
+            "decryptionkey": "e95246e91cad8a50160c99d50fe8485c4547a15a3338242f2cc42bc1c67be35a"
+        },
+        "workshopdepot": "1538970",
+        "branches": {
+            "public": {
+                "buildid": "14047098",
+                "timeupdated": "1713888071"
+            },
+            "beta": {
+                "buildid": "12477730",
+                "description": "BETA branch",
+                "timeupdated": "1697755557"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cad4b2fb74237ca9972980969ca3684cb370c1be744815815bbb6b28d98c4347"
+    }
+}
