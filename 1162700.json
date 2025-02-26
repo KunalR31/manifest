@@ -1,0 +1,173 @@
+{
+    "appid": "1162700",
+    "type": "Game",
+    "name": "Midnight Protocol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26920918",
+    "update_time": "2025-01-09 17:10:00",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1162701": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8171640546115605812",
+                    "size": "2006314415",
+                    "download": "525324960"
+                },
+                "demo": {
+                    "gid": "1671798375709585218",
+                    "size": "1768172423",
+                    "download": "416940208"
+                },
+                "development": {
+                    "gid": "8171640546115605812",
+                    "size": "2006314415",
+                    "download": "525324960"
+                },
+                "localization": {
+                    "gid": "2987523814206342448",
+                    "size": "1875079762",
+                    "download": "465860016"
+                },
+                "press": {
+                    "gid": "1727948922030125255",
+                    "size": "1829915890",
+                    "download": "433990896"
+                },
+                "quality_assurance": {
+                    "gid": "5080147164829028035",
+                    "size": "3074834152",
+                    "download": "430975408"
+                }
+            },
+            "decryptionkey": "672762756044514f7d5c50eb7d91645058098957016d19d6811ba55a3179b66b"
+        },
+        "1162702": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1233891005384921189",
+                    "size": "2012439050",
+                    "download": "524475552"
+                },
+                "demo": {
+                    "gid": "5239671941247618364",
+                    "size": "1771829404",
+                    "download": "416590688"
+                },
+                "development": {
+                    "gid": "1233891005384921189",
+                    "size": "2012439050",
+                    "download": "524475552"
+                },
+                "localization": {
+                    "gid": "5874751821939667175",
+                    "size": "1878251703",
+                    "download": "465346512"
+                },
+                "press": {
+                    "gid": "1107082843300496714",
+                    "size": "1833117779",
+                    "download": "433479168"
+                },
+                "quality_assurance": {
+                    "gid": "699953901472708300",
+                    "size": "3078036557",
+                    "download": "430430160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1162703": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4086848220941119140",
+                    "size": "2003881940",
+                    "download": "523769568"
+                },
+                "demo": {
+                    "gid": "8895498072682185239",
+                    "size": "1781869112",
+                    "download": "419360960"
+                },
+                "development": {
+                    "gid": "4086848220941119140",
+                    "size": "2003881940",
+                    "download": "523769568"
+                },
+                "localization": {
+                    "gid": "838952175675937328",
+                    "size": "1888504843",
+                    "download": "468145344"
+                },
+                "press": {
+                    "gid": "8410138440788778843",
+                    "size": "1843160487",
+                    "download": "436197472"
+                },
+                "quality_assurance": {
+                    "gid": "8423644853425826118",
+                    "size": "1838970675",
+                    "download": "433144080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1162700",
+        "branches": {
+            "public": {
+                "buildid": "9221770",
+                "timeupdated": "1659196876"
+            },
+            "demo": {
+                "buildid": "6533849",
+                "description": "Demo",
+                "timeupdated": "1618325426"
+            },
+            "development": {
+                "buildid": "9221770",
+                "description": "Unstable test branch",
+                "timeupdated": "1659196940"
+            },
+            "localization": {
+                "buildid": "7469775",
+                "description": "Beta branch for the localized versions of the game",
+                "timeupdated": "1633266012"
+            },
+            "press": {
+                "buildid": "6621725",
+                "description": "press preview build up until Kraken",
+                "timeupdated": "1619718575"
+            },
+            "quality_assurance": {
+                "buildid": "6548239",
+                "description": "QA branch",
+                "timeupdated": "1618515013"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "49b3dbae353dee6e81a4ed8d7a89897a4b31bfedbeae38eae32eedfb516cb4ec"
+    }
+}
