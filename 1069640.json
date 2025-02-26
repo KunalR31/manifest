@@ -1,0 +1,81 @@
+{
+    "appid": "1069640",
+    "type": "Game",
+    "name": "This Land Is My Land",
+    "schinese_name": "这是我的土地",
+    "isfreeapp": "0",
+    "change_number": "26904062",
+    "update_time": "2025-01-08 15:14:37",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1069641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1189226479937072183",
+                    "size": "7566575442",
+                    "download": "3379271600"
+                },
+                "previous_0.0.2.12497": {
+                    "gid": "8898251890255150909",
+                    "size": "6365432343",
+                    "download": "2857234592"
+                },
+                "previous_0.0.2.13817": {
+                    "gid": "8022395584182946604",
+                    "size": "6547504465",
+                    "download": "2950109824"
+                },
+                "previous_0.0.3.14933": {
+                    "gid": "4651973320338546570",
+                    "size": "6973903244",
+                    "download": "3118052336"
+                }
+            },
+            "decryptionkey": "e7f0959ebfd147f6293c889d88be9877c513d1923673402fa63c2cbf4a182675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13454307",
+                "timeupdated": "1708421813"
+            },
+            "previous_0.0.2.12497": {
+                "buildid": "4800290",
+                "timeupdated": "1585760382"
+            },
+            "previous_0.0.2.13817": {
+                "buildid": "5183719",
+                "timeupdated": "1599118780"
+            },
+            "previous_0.0.3.14933": {
+                "buildid": "5637250",
+                "description": "Prior to March 23, 2020 version",
+                "timeupdated": "1616425582"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
