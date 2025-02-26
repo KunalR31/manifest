@@ -1,0 +1,61 @@
+{
+    "appid": "1138640",
+    "type": "Game",
+    "name": "Hometopia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27466807",
+    "update_time": "2025-02-14 04:16:30",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1138640",
+        "1138641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3300151411924338232",
+                    "size": "7762014174",
+                    "download": "5369989088"
+                },
+                "hometopia-old-career-mode": {
+                    "gid": "8030994461999912970",
+                    "size": "4583628432",
+                    "download": "3151639280"
+                },
+                "open-beta": {
+                    "gid": "1654390147758399043",
+                    "size": "6400067937",
+                    "download": "4257540576"
+                }
+            },
+            "decryptionkey": "3595306a899c5b04a6dccc4ce52479d7e971074b71b2e8a5c187f24fa229945f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16874305",
+                "timeupdated": "1735551096"
+            },
+            "hometopia-old-career-mode": {
+                "buildid": "14909184",
+                "description": "Branch with old career mode",
+                "timeupdated": "1722621182"
+            },
+            "open-beta": {
+                "buildid": "16137640",
+                "description": " Public beta",
+                "timeupdated": "1729616783"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
