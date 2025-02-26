@@ -1,0 +1,48 @@
+{
+    "appid": "1451090",
+    "type": "Game",
+    "name": "Tactics Ogre: Reborn",
+    "schinese_name": "皇家骑士团：重生",
+    "isfreeapp": "0",
+    "change_number": "27478854",
+    "update_time": "2025-02-14 20:14:38",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1451091": {
+            "manifests": {
+                "public": {
+                    "gid": "4303847580532694722",
+                    "size": "12207344370",
+                    "download": "11731088544"
+                },
+                "local": {
+                    "gid": "1778581734381811451",
+                    "size": "12211006720",
+                    "download": "11733539808"
+                }
+            },
+            "decryptionkey": "05d42e1703b05e7a865e15447318d8cb35bc0b30f9221f1150ee53f7cb434096"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15883459",
+                "timeupdated": "1730973524"
+            },
+            "local": {
+                "buildid": "15766740",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1726813842"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
