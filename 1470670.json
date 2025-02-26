@@ -1,0 +1,71 @@
+{
+    "appid": "1470670",
+    "type": "Game",
+    "name": "Squirrelmageddon!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27383233",
+    "update_time": "2025-02-09 08:21:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1470673": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5770828417643196384",
+                    "size": "32909421957",
+                    "download": "32106802928"
+                },
+                "beta": {
+                    "gid": "8629677122639301657",
+                    "size": "33072189429",
+                    "download": "32233970288"
+                },
+                "betamaps": {
+                    "gid": "1212616776754252041",
+                    "size": "32041696218",
+                    "download": "31248822016"
+                }
+            },
+            "decryptionkey": "d1c60e0aa577c680e738bae948fb1412459cbf46fddf1b84e34c5358b38355a1"
+        },
+        "1470675": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17048755",
+                "timeupdated": "1737191870"
+            },
+            "beta": {
+                "buildid": "17472367",
+                "description": "Testing Branch",
+                "timeupdated": "1740300793"
+            },
+            "betamaps": {
+                "buildid": "14655383",
+                "description": "For map testing builds",
+                "timeupdated": "1717930841"
+            }
+        }
+    }
+}
