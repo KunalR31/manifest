@@ -1,0 +1,55 @@
+{
+    "appid": "1046300",
+    "type": "Game",
+    "name": "Pirates Outlaws",
+    "schinese_name": "航海奇闻",
+    "isfreeapp": "0",
+    "change_number": "26926799",
+    "update_time": "2025-01-10 00:16:29",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1046300",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1046302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8742767602365328407",
+                    "size": "625525450",
+                    "download": "305865184"
+                }
+            },
+            "decryptionkey": "d594421750ea38e89d30bf1d0372f90d3b8f941306c111dc49c15d81e0c96983"
+        },
+        "1046303": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7471282005071002658",
+                    "size": "536331455",
+                    "download": "292528384"
+                }
+            },
+            "decryptionkey": "5c2093c3bf10989371789c938ef19aca6d1f741f545c6bf94c6da59ba866b3a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12937669",
+                "timeupdated": "1702969492"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f01e27fbeabd91ec6b47e9ca2773c59bd0ba1a2420d439499a00804968d842f0"
+    }
+}
