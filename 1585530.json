@@ -1,0 +1,61 @@
+{
+    "appid": "1585530",
+    "type": "Game",
+    "name": "GW: Legacy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26446987",
+    "update_time": "2024-12-05 09:32:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1585531": {
+            "manifests": {
+                "public": {
+                    "gid": "5907073544516843477",
+                    "size": "4355286706",
+                    "download": "1550793728"
+                },
+                "alpha1": {
+                    "gid": "5907073544516843477",
+                    "size": "4355286706",
+                    "download": "1550793728"
+                },
+                "pre-openxr": {
+                    "gid": "8079474465983998058",
+                    "size": "2361526821",
+                    "download": "2236881008"
+                }
+            },
+            "decryptionkey": "22abbff8dc91a72a180edc54ebe5ee6dbb2f7acebe1b3e1631db5be6c5ee0181"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12393009",
+                "timeupdated": "1696861887"
+            },
+            "alpha1": {
+                "buildid": "12393009",
+                "description": "alpha branch",
+                "timeupdated": "1696861879"
+            },
+            "pre-openxr": {
+                "buildid": "8527075",
+                "description": "pre-openxr version",
+                "timeupdated": "1652146319"
+            }
+        }
+    }
+}
