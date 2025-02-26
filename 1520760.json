@@ -1,0 +1,82 @@
+{
+    "appid": "1520760",
+    "type": "Game",
+    "name": "Tyrant's Blessing",
+    "schinese_name": "暴君的祝福",
+    "isfreeapp": "0",
+    "change_number": "27009505",
+    "update_time": "2025-01-15 23:14:26",
+    "depot": {
+        "1520762": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4324775067375942773",
+                    "size": "1168919929",
+                    "download": "588801520"
+                },
+                "test": {
+                    "gid": "3127655733581391791",
+                    "size": "1162509463",
+                    "download": "587154240"
+                }
+            },
+            "decryptionkey": "c401e7a38c43d6f7d0f0a7c49b9b5c62949344f6bda8551c66d4a50fd1327cb9"
+        },
+        "1520763": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6961937129037058213",
+                    "size": "1190559029",
+                    "download": "596064944"
+                },
+                "test": {
+                    "gid": "7338525175587475202",
+                    "size": "1184758860",
+                    "download": "593712080"
+                }
+            },
+            "decryptionkey": "8f10f2ae0e8b2e7793ee637f0716a830a3e297a4b165e3e341af87c3e1d4c529"
+        },
+        "1520764": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6284641012456702499",
+                    "size": "1214761880",
+                    "download": "591491520"
+                },
+                "test": {
+                    "gid": "6020844194021256033",
+                    "size": "1208630734",
+                    "download": "586099824"
+                }
+            },
+            "decryptionkey": "c0af415c9d85e1e1b8d6b5544056585230ba333d81ae4d557db3abf08af7b971"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12652348",
+                "timeupdated": "1699749001"
+            },
+            "test": {
+                "buildid": "9567566",
+                "description": "Public test branch for upcoming updates.",
+                "timeupdated": "1663873060"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
