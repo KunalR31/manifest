@@ -1,0 +1,65 @@
+{
+    "appid": "1077290",
+    "type": "Game",
+    "name": "SuperSmash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26506365",
+    "update_time": "2024-12-05 19:42:45",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1077291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953390010909916543",
+                    "size": "361206797",
+                    "download": "112769136"
+                },
+                "experimental": {
+                    "gid": "7453480475521359080",
+                    "size": "367619807",
+                    "download": "114109696"
+                }
+            },
+            "decryptionkey": "b30b8d2af0f4f0cc14f6e600c53e8c6c53a84866d558a047ebcaec9ab70facf4"
+        },
+        "workshopdepot": "1077290",
+        "branches": {
+            "public": {
+                "buildid": "6588577",
+                "timeupdated": "1619169283"
+            },
+            "experimental": {
+                "buildid": "6716103",
+                "description": "use for experiment",
+                "timeupdated": "1621324848"
+            }
+        },
+        "workshopdepotdecryptionkey": "202ec6910ec0cb53faea2b2176a22ce46e285a88908d7d543cd6726955b60db6"
+    }
+}
