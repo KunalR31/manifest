@@ -1,0 +1,52 @@
+{
+    "appid": "1497450",
+    "type": "Game",
+    "name": "A Memoir Blue",
+    "schinese_name": "蓝色回忆录",
+    "isfreeapp": "0",
+    "change_number": "26909705",
+    "update_time": "2025-01-08 23:18:39",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1497451": {
+            "manifests": {
+                "public": {
+                    "gid": "3862198990751137339",
+                    "size": "3366815033",
+                    "download": "1692281824"
+                },
+                "input_test": {
+                    "gid": "7119692601847286493",
+                    "size": "3171539553",
+                    "download": "1297982240"
+                }
+            },
+            "decryptionkey": "d239a886111fb748629ec4778748df7fcb0adf321b1ae313e395922c711d1e94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8901003",
+                "timeupdated": "1655697399"
+            },
+            "input_test": {
+                "buildid": "7611663",
+                "description": "Testing input changes",
+                "timeupdated": "1635359300"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
