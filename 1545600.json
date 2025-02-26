@@ -1,0 +1,78 @@
+{
+    "appid": "1545600",
+    "type": "Game",
+    "name": "Grapple Hoops",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25602164",
+    "update_time": "2024-10-09 03:24:17",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1545601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8445722776103917764",
+                    "size": "6161468693",
+                    "download": "6004355904"
+                },
+                "beta": {
+                    "gid": "7851599774284161986",
+                    "size": "7648856693",
+                    "download": "7568443984"
+                }
+            },
+            "decryptionkey": "a17bb9228b329cf1ee98fdfa15cd9dfa6dbb68abf41cd3070ef1f66ad9dd112a"
+        },
+        "1545602": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1742090",
+            "manifests": {
+                "public": {
+                    "gid": "7028635114640495671",
+                    "size": "271306794",
+                    "download": "271224816"
+                },
+                "beta": {
+                    "gid": "7028635114640495671",
+                    "size": "271306794",
+                    "download": "271224816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1545600",
+        "branches": {
+            "public": {
+                "buildid": "9180910",
+                "timeupdated": "1658688182"
+            },
+            "beta": {
+                "buildid": "7901202",
+                "description": "beta testing",
+                "timeupdated": "1639737774"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
