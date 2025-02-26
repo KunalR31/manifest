@@ -1,0 +1,92 @@
+{
+    "appid": "1648350",
+    "type": "Beta",
+    "name": "Fret Smasher Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25201115",
+    "update_time": "2024-09-13 07:58:23",
+    "depot": {
+        "baselanguages": "english",
+        "1648351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5729048994974464495",
+                    "size": "1485809212",
+                    "download": "904530560"
+                },
+                "v0.36.2": {
+                    "gid": "4164256967651030851",
+                    "size": "1305770413",
+                    "download": "851375120"
+                },
+                "previous-version": {
+                    "gid": "3424565101503293938",
+                    "size": "1485960236",
+                    "download": "904539936"
+                },
+                "public-testing-branch": {
+                    "gid": "5729048994974464495",
+                    "size": "1485809212",
+                    "download": "904530560"
+                }
+            },
+            "decryptionkey": "801140569045125acc78ef1dfe225d8308ae1093fc57b39dec15093feceb1c63"
+        },
+        "1648352": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2503710043812126656",
+                    "size": "1528045985",
+                    "download": "906053104"
+                },
+                "v0.36.2": {
+                    "gid": "8945427918640016555",
+                    "size": "1351012133",
+                    "download": "856966720"
+                },
+                "previous-version": {
+                    "gid": "7688141478227720271",
+                    "size": "1528197521",
+                    "download": "906064368"
+                },
+                "public-testing-branch": {
+                    "gid": "2503710043812126656",
+                    "size": "1528045985",
+                    "download": "906053104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1648350",
+        "branches": {
+            "public": {
+                "buildid": "15538244",
+                "timeupdated": "1724979458"
+            },
+            "v0.36.2": {
+                "buildid": "9855473",
+                "description": "Rolls back to v0.36.2",
+                "timeupdated": "1678670621"
+            },
+            "previous-version": {
+                "buildid": "14313392",
+                "description": "Rolls back to the last stable update",
+                "timeupdated": "1724983792"
+            },
+            "public-testing-branch": {
+                "buildid": "15538244",
+                "description": "Public Pre-Release Builds",
+                "timeupdated": "1724978079"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c177c87dc586d5f022e5baed4e68885fd935ddc624e0a28f5361fb698d4cfe67"
+    }
+}
