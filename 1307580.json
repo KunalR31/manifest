@@ -1,0 +1,87 @@
+{
+    "appid": "1307580",
+    "type": "Game",
+    "name": "TOEM",
+    "schinese_name": "摄影冒险",
+    "isfreeapp": "0",
+    "change_number": "26903020",
+    "update_time": "2025-01-08 13:16:07",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1307581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2013106573923022441",
+                    "size": "428073653",
+                    "download": "231607392"
+                },
+                "1.05-patch": {
+                    "gid": "6531185170172670575",
+                    "size": "301518491",
+                    "download": "173151392"
+                }
+            },
+            "decryptionkey": "4156f45a2723b8c8f06ca5bfd488ae1404fb6cf00408cf75d7f601f2dccb64e7"
+        },
+        "1307582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2644849347443121752",
+                    "size": "439533999",
+                    "download": "232692016"
+                },
+                "1.05-patch": {
+                    "gid": "419659016736189479",
+                    "size": "306780069",
+                    "download": "174392192"
+                }
+            },
+            "decryptionkey": "b78a6ce5c36e193a1608dba8b9a05983c47ea081fe3e1d7af47f20a4070f0461"
+        },
+        "1307583": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8377957643321464410",
+                    "size": "441350111",
+                    "download": "231536176"
+                }
+            },
+            "decryptionkey": "2eed6b18421c1e6a78ecdd126703d16b824d387ad5dc05e7f5843f67fdfa5cec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11663616",
+                "timeupdated": "1688976418"
+            },
+            "1.05-patch": {
+                "buildid": "10317337",
+                "description": "Just here for speedrunners!",
+                "timeupdated": "1673627210"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
