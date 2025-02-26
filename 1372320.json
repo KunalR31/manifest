@@ -1,0 +1,91 @@
+{
+    "appid": "1372320",
+    "type": "Game",
+    "name": "Cloud Gardens",
+    "schinese_name": "云端花园",
+    "isfreeapp": "0",
+    "change_number": "26916992",
+    "update_time": "2025-01-09 10:14:59",
+    "depot": {
+        "1372321": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2874586199382021433",
+                    "size": "649222972",
+                    "download": "127128752"
+                },
+                "beta": {
+                    "gid": "2874586199382021433",
+                    "size": "649222972",
+                    "download": "127128752"
+                },
+                "exhibitions": {
+                    "gid": "759553883641275660",
+                    "size": "649105028",
+                    "download": "127205104"
+                },
+                "legacy": {
+                    "gid": "3718842253581428634",
+                    "size": "719091269",
+                    "download": "174497264"
+                }
+            },
+            "decryptionkey": "c6048f5203ffadde7e04256cee879b17a7f1b97f01cc849404e940ee0715f264"
+        },
+        "1372322": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6596031682601610953",
+                    "size": "651867310",
+                    "download": "129461920"
+                },
+                "beta": {
+                    "gid": "6596031682601610953",
+                    "size": "651867310",
+                    "download": "129461920"
+                },
+                "exhibitions": {
+                    "gid": "8535478490221756325",
+                    "size": "651746619",
+                    "download": "129532624"
+                },
+                "legacy": {
+                    "gid": "8080163887024296552",
+                    "size": "721956878",
+                    "download": "176864496"
+                }
+            },
+            "decryptionkey": "b013288636d1c029efe42290a797e7ad5133cd28a83804250ddd5f5986a48d9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11403316",
+                "timeupdated": "1686149404"
+            },
+            "beta": {
+                "buildid": "11403316",
+                "description": "beta of patch 1.1.1",
+                "timeupdated": "1686045589"
+            },
+            "exhibitions": {
+                "buildid": "9618662",
+                "description": "resets game after 5 minutes of inactivity",
+                "timeupdated": "1664462507"
+            },
+            "legacy": {
+                "buildid": "7513668",
+                "description": "version 1.0.8",
+                "timeupdated": "1636367183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
