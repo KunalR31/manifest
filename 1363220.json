@@ -1,0 +1,82 @@
+{
+    "appid": "1363220",
+    "type": "Demo",
+    "name": "职场浮生记 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26784529",
+    "update_time": "2024-12-26 09:08:32",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "1363221": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5361268002609376447",
+                    "size": "2359525728",
+                    "download": "1421964000"
+                },
+                "test": {
+                    "gid": "8899222680630588818",
+                    "size": "1654455556",
+                    "download": "1065834608"
+                }
+            },
+            "decryptionkey": "cc25c7fa0172ef2ede0f28ba50a43acc71e3ef81162ec8269b3488c089b825fa"
+        },
+        "1363222": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3593759688792255801",
+                    "size": "1943804993",
+                    "download": "1303818768"
+                },
+                "test": {
+                    "gid": "3593759688792255801",
+                    "size": "1943804993",
+                    "download": "1303818768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1363223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5880811552260709822",
+                    "size": "2280500978",
+                    "download": "1365448624"
+                },
+                "test": {
+                    "gid": "4732039959459031720",
+                    "size": "1972307048",
+                    "download": "1305575392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16848002",
+                "timeupdated": "1735117663"
+            },
+            "test": {
+                "buildid": "8198041",
+                "description": "测试",
+                "timeupdated": "1712539243"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
