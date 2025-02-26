@@ -1,0 +1,58 @@
+{
+    "appid": "1078920",
+    "type": "Game",
+    "name": "Main Assembly",
+    "schinese_name": "组装车间",
+    "isfreeapp": "0",
+    "change_number": "26901419",
+    "update_time": "2025-01-08 10:15:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1078921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6356761184168946664",
+                    "size": "3365939638",
+                    "download": "1255436976"
+                },
+                "experimental": {
+                    "gid": "116973662605949901",
+                    "size": "3366787611",
+                    "download": "1255329184"
+                }
+            },
+            "decryptionkey": "43b01b2f264f192ab28d897c399d92616a20aaf06bf13b8dab30e0931ef9836d"
+        },
+        "workshopdepot": "1078920",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "6123531",
+                "timeupdated": "1611676748"
+            },
+            "experimental": {
+                "buildid": "7045205",
+                "description": "Experimental branch with untested (but great!) changes. Use at your own risk!",
+                "timeupdated": "1626685585"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9e9d0488ef334341786808d7d6846eaaaa0a59117bce9337b626b0f00f1a79a5"
+    }
+}
