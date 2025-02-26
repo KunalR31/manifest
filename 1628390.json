@@ -1,0 +1,67 @@
+{
+    "appid": "1628390",
+    "type": "Demo",
+    "name": "Starship Simulator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26757844",
+    "update_time": "2024-12-23 09:53:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1628391": {
+            "manifests": {
+                "public": {
+                    "gid": "5128047528229742749",
+                    "size": "3002245068",
+                    "download": "2753184960"
+                },
+                "alpha_0.223.7.17_dx11": {
+                    "gid": "4156768283155614365",
+                    "size": "2619199193",
+                    "download": "2387447120"
+                }
+            },
+            "decryptionkey": "01a73eb64ef7cdc3f54724b95ed24edc8bb92e6745106e2ef44c82760283a3a4"
+        },
+        "1332101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3856286510367467978",
+                    "size": "2945082451",
+                    "download": "2684726912"
+                }
+            },
+            "depotfromapp": "1332100",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12766566",
+                "timeupdated": "1700620798"
+            },
+            "alpha_0.223.7.17_dx11": {
+                "buildid": "11526203",
+                "description": "The final DX11 build before the DX12 upgrade.",
+                "timeupdated": "1700599103"
+            }
+        }
+    }
+}
