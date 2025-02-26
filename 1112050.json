@@ -1,0 +1,112 @@
+{
+    "appid": "1112050",
+    "type": "Game",
+    "name": "Time for Quest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25816461",
+    "update_time": "2024-10-21 16:38:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1112051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2043762022253820116",
+                    "size": "440086406",
+                    "download": "265465376"
+                },
+                "linux": {
+                    "gid": "3905209046151098964",
+                    "size": "313408163",
+                    "download": "166013152"
+                },
+                "macos": {
+                    "gid": "3905209046151098964",
+                    "size": "313408163",
+                    "download": "166013152"
+                },
+                "windows": {
+                    "gid": "2149759019081650632",
+                    "size": "472705484",
+                    "download": "297101280"
+                }
+            },
+            "decryptionkey": "21384abe55e6d242c7eb2a4e8c1b0d8f29061eb27e8b0260b7ec75a3fc86c57a"
+        },
+        "1112052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7132335909748367183",
+                    "size": "579493568",
+                    "download": "295376112"
+                },
+                "linux": {
+                    "gid": "8495726468472348697",
+                    "size": "612112646",
+                    "download": "327010784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1112053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4190991012357437695",
+                    "size": "784760206",
+                    "download": "273591456"
+                },
+                "linux": {
+                    "gid": "1280126550952172539",
+                    "size": "690934092",
+                    "download": "191776528"
+                },
+                "macos": {
+                    "gid": "2258290911875108150",
+                    "size": "817379284",
+                    "download": "305226752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8858601",
+                "timeupdated": "1654170816"
+            },
+            "linux": {
+                "buildid": "4914543",
+                "timeupdated": "1587230260"
+            },
+            "macos": {
+                "buildid": "4914542",
+                "timeupdated": "1587230249"
+            },
+            "windows": {
+                "buildid": "4914522",
+                "timeupdated": "1587230270"
+            }
+        }
+    }
+}
