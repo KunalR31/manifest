@@ -1,0 +1,69 @@
+{
+    "appid": "1224600",
+    "type": "Game",
+    "name": "G String",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27247809",
+    "update_time": "2025-01-31 13:37:11",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1224601": {
+            "manifests": {
+                "public": {
+                    "gid": "8921579814389807970",
+                    "size": "14122162476",
+                    "download": "5929324960"
+                },
+                "previous": {
+                    "gid": "140413733362970425",
+                    "size": "11506810439",
+                    "download": "4775925632"
+                },
+                "legacy_patch_openbeta": {
+                    "gid": "8058842536308738585",
+                    "size": "12159117895",
+                    "download": "5933926848"
+                }
+            },
+            "decryptionkey": "d2c2881173fc134920609edb36c4977009731be277efab497b197e39eb6dda51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7020678",
+                "timeupdated": "1626191885"
+            },
+            "previous": {
+                "buildid": "5714414",
+                "description": "Previous build of the game, for save compatibility.",
+                "timeupdated": "1608580837"
+            },
+            "legacy_patch_openbeta": {
+                "buildid": "17129022",
+                "description": "Open Beta for BCUP Patch for 2025",
+                "timeupdated": "1737793521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
