@@ -1,0 +1,75 @@
+{
+    "appid": "1135230",
+    "type": "Game",
+    "name": "Ember Knights",
+    "schinese_name": "余烬骑士",
+    "isfreeapp": "0",
+    "change_number": "27250377",
+    "update_time": "2025-01-31 17:33:32",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1135232": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8293687531653199778",
+                    "size": "1061310226",
+                    "download": "769105216"
+                }
+            },
+            "decryptionkey": "4fb873edabfbd3320be661283c46fdc9dd7d5f9cc7d942b53790673083fe1b66"
+        },
+        "1135231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4282928667131848033",
+                    "size": "178036344",
+                    "download": "71031776"
+                }
+            },
+            "decryptionkey": "011afcb4ff95536d7fd9806e3c2b9b08d9dd0f69a69bd7b92076966562010938"
+        },
+        "1135233": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "865315344378060855",
+                    "size": "273631877",
+                    "download": "113159040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16802980",
+                "timeupdated": "1734629311"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
