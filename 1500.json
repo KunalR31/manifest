@@ -1,0 +1,143 @@
+{
+    "appid": "1500",
+    "type": "Game",
+    "name": "Darwinia",
+    "schinese_name": "达尔文",
+    "isfreeapp": "0",
+    "change_number": "27487178",
+    "update_time": "2025-02-15 05:12:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1505": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6542716366779683761",
+                    "size": "100541897",
+                    "download": "50314320"
+                },
+                "legacy": {
+                    "gid": "6299426245386861294",
+                    "size": "37670021",
+                    "download": "35384192"
+                },
+                "beta": {
+                    "gid": "4509153533505754860",
+                    "size": "95423250",
+                    "download": "49389744"
+                },
+                "previous": {
+                    "gid": "6542716366779683761",
+                    "size": "100541897",
+                    "download": "50314320"
+                }
+            },
+            "decryptionkey": "c41060ed9c303d9834b8a880531a3742f955633991a6bab971ad6ad7111513a9"
+        },
+        "1501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5047540950553447760",
+                    "size": "61985683",
+                    "download": "42858672"
+                },
+                "legacy": {
+                    "gid": "1621006573251409080",
+                    "size": "43045614",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3298578105137144770",
+                    "size": "63403953",
+                    "download": "43272896"
+                },
+                "previous": {
+                    "gid": "5047540950553447760",
+                    "size": "61985683",
+                    "download": "42858672"
+                }
+            },
+            "decryptionkey": "67f0bb2ebad2b6f07434bcb41a2e9e6be3c68f510fc890d53d6667532e73e966"
+        },
+        "1503": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "654008265121917707",
+                    "size": "67121271",
+                    "download": "43444272"
+                },
+                "legacy": {
+                    "gid": "1961385546257740227",
+                    "size": "46341037",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "8424700907334439642",
+                    "size": "68251968",
+                    "download": "43820208"
+                },
+                "previous": {
+                    "gid": "654008265121917707",
+                    "size": "67121271",
+                    "download": "43444272"
+                }
+            },
+            "decryptionkey": "324f5b7b6105a1a716ba4624c3713d44597d36bf912f01b62e1b762957a6d36a"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "310",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "14033910",
+                "timeupdated": "1712920475"
+            },
+            "legacy": {
+                "buildid": "4316058",
+                "description": "Legacy OpenGL 2.x and Direct3D 9 version",
+                "timeupdated": "1623656172"
+            },
+            "beta": {
+                "buildid": "17333386",
+                "description": "Prerelease Open Beta",
+                "timeupdated": "1739350709"
+            },
+            "previous": {
+                "buildid": "14033910",
+                "description": "Previous release version",
+                "timeupdated": "1726578657"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
