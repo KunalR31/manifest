@@ -1,0 +1,49 @@
+{
+    "appid": "1071100",
+    "type": "Application",
+    "name": "Boom 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27323336",
+    "update_time": "2025-02-05 18:16:56",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1071101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "584328467125634942",
+                    "size": "217944290",
+                    "download": "72364112"
+                },
+                "beta": {
+                    "gid": "584328467125634942",
+                    "size": "217944290",
+                    "download": "72364112"
+                }
+            },
+            "decryptionkey": "59a7304263d4314271b34b2318fac499949db736928b9c726f36fb989dab4417"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17198261",
+                "timeupdated": "1738666156"
+            },
+            "beta": {
+                "buildid": "17198261",
+                "description": "Boom 3D Beta",
+                "timeupdated": "1738666983"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
