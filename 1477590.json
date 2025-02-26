@@ -1,0 +1,78 @@
+{
+    "appid": "1477590",
+    "type": "Game",
+    "name": "EZ2ON REBOOT : R",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27483877",
+    "update_time": "2025-02-15 01:16:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1477591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5518415554565399055",
+                    "size": "73281223819",
+                    "download": "65713394800"
+                },
+                "public_testserver": {
+                    "gid": "632162973800232846",
+                    "size": "71517430376",
+                    "download": "63353557504"
+                }
+            },
+            "decryptionkey": "be6fde91b3fd41595188145d3f615546f92ef745010e1296bdec41f9cccb22d8"
+        },
+        "1477592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2290717018972308281",
+                    "size": "63430959461",
+                    "download": "55378102112"
+                },
+                "public_testserver": {
+                    "gid": "8290724850198071894",
+                    "size": "60354813250",
+                    "download": "52979394352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17101250",
+                "timeupdated": "1737613628"
+            },
+            "public_testserver": {
+                "buildid": "16894249",
+                "description": "PUBLIC TEST SERVER",
+                "timeupdated": "1735850946"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
