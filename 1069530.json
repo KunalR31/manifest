@@ -1,0 +1,62 @@
+{
+    "appid": "1069530",
+    "type": "Game",
+    "name": "Narita Boy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27499287",
+    "update_time": "2025-02-16 09:14:34",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "1069531": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2412472369341318950",
+                    "size": "1887584611",
+                    "download": "1218781568"
+                },
+                "public_test_branch": {
+                    "gid": "4381275279776651743",
+                    "size": "1887899533",
+                    "download": "1218868496"
+                }
+            },
+            "decryptionkey": "a4a4484c627f5b21ab3b103da51b53466291ebe0f757ca425141d07247a8261e"
+        },
+        "1069532": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6849492911424370846",
+                    "size": "1918292463",
+                    "download": "1223639696"
+                },
+                "public_test_branch": {
+                    "gid": "7120668546571412451",
+                    "size": "2142155091",
+                    "download": "1259649552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6659030",
+                "timeupdated": "1620638288"
+            },
+            "public_test_branch": {
+                "buildid": "6565372",
+                "description": "branch with Steam PC and Mac keybind changes",
+                "timeupdated": "1618922673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
