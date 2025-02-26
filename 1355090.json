@@ -1,0 +1,82 @@
+{
+    "appid": "1355090",
+    "type": "Game",
+    "name": "RAILGRADE",
+    "schinese_name": "异星铁路",
+    "isfreeapp": "0",
+    "change_number": "26901985",
+    "update_time": "2025-01-08 11:16:15",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1355091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6052882875941484714",
+                    "size": "3993044926",
+                    "download": "3836555664"
+                },
+                "experimental": {
+                    "gid": "6052882875941484714",
+                    "size": "3993044926",
+                    "download": "3836555664"
+                }
+            },
+            "decryptionkey": "daa3442e0de51069a1c33660f9b3a524a7d70f7fb852e47c4d158ecbb591aa6c"
+        },
+        "1355092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8852258941661286652",
+                    "size": "4153145578",
+                    "download": "3946106224"
+                },
+                "experimental": {
+                    "gid": "8852258941661286652",
+                    "size": "4153145578",
+                    "download": "3946106224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1355090",
+        "branches": {
+            "public": {
+                "buildid": "15071073",
+                "timeupdated": "1721280235"
+            },
+            "experimental": {
+                "buildid": "15071073",
+                "description": "Test up coming updates before they release.",
+                "timeupdated": "1721280859"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "5ce2d62d2f30b654276f7f64f7a76a27825061df125d2ddb9c518b6fb4e9bb44"
+    }
+}
