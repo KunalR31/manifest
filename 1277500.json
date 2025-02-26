@@ -1,0 +1,77 @@
+{
+    "appid": "1277500",
+    "type": "Game",
+    "name": "Skeletal Avenger",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26422003",
+    "update_time": "2024-12-05 07:46:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,finnish",
+        "1277501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3558369957709104738",
+                    "size": "267918322",
+                    "download": "107194192"
+                },
+                "beta": {
+                    "gid": "3558369957709104738",
+                    "size": "267918322",
+                    "download": "107194192"
+                },
+                "old-build": {
+                    "gid": "489715233093895080",
+                    "size": "266475400",
+                    "download": "106477728"
+                }
+            },
+            "decryptionkey": "4aafde6a00b0e391e133b88263cb010e747665ddd49b2ddc8c293b6ebabb382b"
+        },
+        "1277502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9151805223527201908",
+                    "size": "308241793",
+                    "download": "176164736"
+                },
+                "beta": {
+                    "gid": "9151805223527201908",
+                    "size": "308241793",
+                    "download": "176164736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9651237",
+                "timeupdated": "1664893344"
+            },
+            "beta": {
+                "buildid": "9651233",
+                "description": "Builds in beta testing",
+                "timeupdated": "1664893335"
+            },
+            "old-build": {
+                "buildid": "7648694",
+                "description": "Branch for older builds",
+                "timeupdated": "1637060817"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
