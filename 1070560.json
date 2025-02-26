@@ -1,0 +1,52 @@
+{
+    "appid": "1070560",
+    "type": "Tool",
+    "name": "Steam Linux Runtime 1.0 (scout)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24882345",
+    "update_time": "2024-08-21 22:57:09",
+    "depot": {
+        "1070561": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1466730401947067346",
+                    "size": "13004",
+                    "download": "5472"
+                },
+                "client_beta": {
+                    "gid": "1466730401947067346",
+                    "size": "13004",
+                    "download": "5472"
+                },
+                "previous": {
+                    "gid": "161006662529767504",
+                    "size": "13014",
+                    "download": "5472"
+                }
+            },
+            "decryptionkey": "4c947d1708cad6cce83c36773cbb1b28b928a86befc5e9edb3d31634b532c638"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15348173",
+                "timeupdated": "1724252221"
+            },
+            "client_beta": {
+                "buildid": "15348173",
+                "description": "use with Steam beta client",
+                "timeupdated": "1723505481"
+            },
+            "previous": {
+                "buildid": "14072089",
+                "description": "previous default build",
+                "timeupdated": "1724252163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
