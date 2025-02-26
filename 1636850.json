@@ -1,0 +1,66 @@
+{
+    "appid": "1636850",
+    "type": "Game",
+    "name": "CYBRID",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27489726",
+    "update_time": "2025-02-15 09:14:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1636851": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7512407524130995838",
+                    "size": "1158659907",
+                    "download": "483425744"
+                },
+                "noliv": {
+                    "gid": "8638403161755349285",
+                    "size": "1021411409",
+                    "download": "426046416"
+                },
+                "testnewliv": {
+                    "gid": "8646293987104420106",
+                    "size": "1158644883",
+                    "download": "483441232"
+                }
+            },
+            "decryptionkey": "c39bb3972ee3abdffe7fcd5264a30205d3a9e513ce9a352d444b6306137fc53e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12649415",
+                "timeupdated": "1699441605"
+            },
+            "noliv": {
+                "buildid": "12510753",
+                "description": "NoLIV",
+                "timeupdated": "1698064730"
+            },
+            "testnewliv": {
+                "buildid": "12649096",
+                "description": "testnewliv",
+                "timeupdated": "1699438958"
+            }
+        }
+    }
+}
