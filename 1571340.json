@@ -1,0 +1,75 @@
+{
+    "appid": "1571340",
+    "type": "Game",
+    "name": "VR HOT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27431925",
+    "update_time": "2025-02-12 11:23:12",
+    "depot": {
+        "1571341": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5582558543140450420",
+                    "size": "20551330651",
+                    "download": "8451156288"
+                },
+                "legacy-version": {
+                    "gid": "618117736590031525",
+                    "size": "21471328412",
+                    "download": "7972809888"
+                },
+                "local": {
+                    "gid": "1837073560083484808",
+                    "size": "4529694125",
+                    "download": "2199876960"
+                },
+                "previous-version": {
+                    "gid": "4507776727366270143",
+                    "size": "19927999472",
+                    "download": "7876203072"
+                },
+                "public-beta": {
+                    "gid": "5582558543140450420",
+                    "size": "20551330651",
+                    "download": "8451156288"
+                }
+            },
+            "decryptionkey": "ee0b8b28add459c0accd5b7a7df7a9fd3614b2790fea6cb28fd6430b726c7b10"
+        },
+        "workshopdepot": "1571340",
+        "branches": {
+            "public": {
+                "buildid": "17216405",
+                "timeupdated": "1738518158"
+            },
+            "legacy-version": {
+                "buildid": "11793540",
+                "description": "last version without openxr - no support, no updates",
+                "timeupdated": "1706618650"
+            },
+            "local": {
+                "buildid": "6584411",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1619108039"
+            },
+            "previous-version": {
+                "buildid": "16487184",
+                "description": "Previous version",
+                "timeupdated": "1738072107"
+            },
+            "public-beta": {
+                "buildid": "17216405",
+                "description": "Public Beta Channel for VR HOT",
+                "timeupdated": "1738518116"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e387b8acb6d3d1a920084c23bf1eab809fb9704ddf173d36b66c32b76d55850c"
+    }
+}
