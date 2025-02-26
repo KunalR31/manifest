@@ -1,0 +1,58 @@
+{
+    "appid": "1220170",
+    "type": "Game",
+    "name": "Eville",
+    "schinese_name": "Eville 埃维尔村",
+    "isfreeapp": "0",
+    "change_number": "27443332",
+    "update_time": "2025-02-13 00:57:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1220171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5706451751705216144",
+                    "size": "3266914277",
+                    "download": "3119526864"
+                },
+                "network-fix": {
+                    "gid": "1442884908912722235",
+                    "size": "3266910181",
+                    "download": "3119530416"
+                }
+            },
+            "decryptionkey": "9131a0177540f64715ca9a02f13640c81d5f0c8253f9eb8ec079a57c50c2ac60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12404544",
+                "timeupdated": "1698340774"
+            },
+            "network-fix": {
+                "buildid": "12869522",
+                "description": "Fixes network issues",
+                "timeupdated": "1701703149"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
