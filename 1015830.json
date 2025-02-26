@@ -1,0 +1,86 @@
+{
+    "appid": "1015830",
+    "type": "Game",
+    "name": "Dream Eater Ep1 噬梦者第一章",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26127703",
+    "update_time": "2024-11-10 17:05:23",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1015831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5806241969915294674",
+                    "size": "3506225663",
+                    "download": "3329035792"
+                },
+                "test": {
+                    "gid": "5806241969915294674",
+                    "size": "3506225663",
+                    "download": "3329035792"
+                }
+            },
+            "decryptionkey": "7cb059b1a03d68133c86f81c28d28334b51e519a44995ef1282412166197cfbe"
+        },
+        "1015832": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "dlcappid": "1056190"
+        },
+        "1056190": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "dlcappid": "1056190",
+            "manifests": {
+                "public": {
+                    "gid": "7357902628758204744",
+                    "size": "1329",
+                    "download": "1024"
+                },
+                "test": {
+                    "gid": "7357902628758204744",
+                    "size": "1329",
+                    "download": "1024"
+                }
+            },
+            "decryptionkey": "c7aec0e24cce33f690fff03fa2e5a887684cd6fce774541c4cf722153284f953"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4618914",
+                "timeupdated": "1580872703"
+            },
+            "test": {
+                "buildid": "4618914",
+                "timeupdated": "1580288065"
+            }
+        }
+    }
+}
