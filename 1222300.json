@@ -1,0 +1,69 @@
+{
+    "appid": "1222300",
+    "type": "Game",
+    "name": "Into The Flames",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27277604",
+    "update_time": "2025-02-02 22:32:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1222301": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3002786923119991479",
+                    "size": "5809868368",
+                    "download": "5580549648"
+                },
+                "retro": {
+                    "gid": "6659927421144242897",
+                    "size": "4044670965",
+                    "download": "3888865936"
+                },
+                "wheelsupporttesting": {
+                    "gid": "3436432608780077617",
+                    "size": "5823468425",
+                    "download": "5593903728"
+                }
+            },
+            "decryptionkey": "21dd651ba7ff6d43543c53112d5dfe96d4e425d31065d714776233eb737aa3b6"
+        },
+        "workshopdepot": "1222300",
+        "branches": {
+            "public": {
+                "buildid": "16895600",
+                "timeupdated": "1735864492"
+            },
+            "retro": {
+                "buildid": "5903618",
+                "description": "2020 Build",
+                "timeupdated": "1675070251"
+            },
+            "wheelsupporttesting": {
+                "buildid": "17047252",
+                "description": "Testing Wheel Support",
+                "timeupdated": "1737165364"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
