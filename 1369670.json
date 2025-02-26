@@ -1,0 +1,67 @@
+{
+    "appid": "1369670",
+    "type": "Game",
+    "name": "Motor Town: Behind The Wheel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27534535",
+    "update_time": "2025-02-18 21:00:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1369671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3756487993554861214",
+                    "size": "3122963159",
+                    "download": "2768408864"
+                },
+                "temp-ue4-0.6.20": {
+                    "gid": "8505833231573759861",
+                    "size": "1606084127",
+                    "download": "1358268288"
+                },
+                "test": {
+                    "gid": "5493646986026762106",
+                    "size": "3247952459",
+                    "download": "2893849696"
+                }
+            },
+            "decryptionkey": "2997d5be0b53d13cde83335f41136a55c7198a843f319a2e9e3667ef228a1aed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17136841",
+                "timeupdated": "1737903851"
+            },
+            "temp-ue4-0.6.20": {
+                "buildid": "11900954",
+                "description": "Temporary branch for who has problem running new unreal engine 5 build. Note this is old version of game",
+                "timeupdated": "1699583548"
+            },
+            "test": {
+                "buildid": "17472078",
+                "description": "For tester who want to play next update before others\t",
+                "timeupdated": "1740311094"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
