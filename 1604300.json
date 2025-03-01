@@ -4,8 +4,8 @@
     "name": "LOVE 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26403520",
-    "update_time": "2024-12-05 06:43:56",
+    "change_number": "27728173",
+    "update_time": "2025-03-01 08:59:00",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,swedish,turkish,brazilian,ukrainian,latam",
         "1604301": {
@@ -44,16 +44,32 @@
             },
             "decryptionkey": ""
         },
+        "1604303": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "42370488609465642",
+                    "size": "224400841",
+                    "download": "195689456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1604300",
         "branches": {
             "public": {
-                "buildid": "11334467",
-                "timeupdated": "1685218203"
+                "buildid": "17491154",
+                "timeupdated": "1740436784"
             },
             "lts_2024": {
                 "buildid": "15495491",
                 "description": "lts 2024 test",
                 "timeupdated": "1724690673"
             }
-        }
+        },
+        "workshopdepotdecryptionkey": ""
     }
 }
