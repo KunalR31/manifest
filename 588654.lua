@@ -1,0 +1,6 @@
+-- Made by BlackusPL | Thanks to toosl and Furcate --
+addappid(588650)
+addappid(588651, 1, "b1571411c76b5560172122534e5f36b33665aa1ae5337216fb74816b8c06a9cb")
+addappid(588654, 1, "d3869ea6e5650f8be36180bcfab511f05b89d33279c4fbcdcb636c53335585ad")
+setManifestid(588651, "1424459526839357792", 0)
+setManifestid(588654, "1964813582676736440", 0)
