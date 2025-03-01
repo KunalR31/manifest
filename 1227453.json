@@ -1,0 +1,71 @@
+{
+    "appid": "1227453",
+    "type": "DLC",
+    "name": "RACE",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731470",
+    "update_time": "2025-03-01 17:13:25",
+    "depot": {
+        "1227453": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227453"
+            },
+            "dlcappid": "1227453",
+            "manifests": {
+                "public": {
+                    "gid": "1529306934939159178",
+                    "size": "323846",
+                    "download": "107712"
+                },
+                "nightly": {
+                    "gid": "4746956791005726634",
+                    "size": "323846",
+                    "download": "107712"
+                }
+            },
+            "decryptionkey": "eb86e28d4fe9a6d574761b1e70b45fd6794059da2e51b4e7cb1778ca690068a1"
+        },
+        "1790010": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227453"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3652138296004003928",
+                    "size": "390995",
+                    "download": "88112"
+                },
+                "nightly": {
+                    "gid": "3652138296004003928",
+                    "size": "390995",
+                    "download": "88112"
+                }
+            },
+            "dlcappid": "1227453",
+            "decryptionkey": ""
+        },
+        "1790011": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227453"
+            },
+            "dlcappid": "1227453"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911372",
+                "timeupdated": "1736093705"
+            },
+            "nightly": {
+                "buildid": "17557857",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820401"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
