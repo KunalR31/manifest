@@ -1,0 +1,79 @@
+{
+    "appid": "1477010",
+    "type": "Game",
+    "name": "醉梦传说 ~ Tales of Heroes in Gensoukyo",
+    "schinese_name": "醉梦传说 ~ Tales of Heroes in Gensoukyo",
+    "isfreeapp": "0",
+    "change_number": "27728393",
+    "update_time": "2025-03-01 09:22:48",
+    "depot": {
+        "1477011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8297092979094244374",
+                    "size": "451367128",
+                    "download": "173694208"
+                },
+                "beta": {
+                    "gid": "7628464184750972855",
+                    "size": "440210353",
+                    "download": "171137824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1477012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1038277890539662346",
+                    "size": "463285217",
+                    "download": "177348432"
+                },
+                "beta": {
+                    "gid": "4539692302535217788",
+                    "size": "452034234",
+                    "download": "174724960"
+                }
+            },
+            "decryptionkey": "d8d27a27d12007252c6db515986b51deb8e08ad00542f8146eaf4d6bdf626d64"
+        },
+        "1477013": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "250013900827960776",
+                    "size": "454317091",
+                    "download": "173763616"
+                },
+                "beta": {
+                    "gid": "4675046821380973468",
+                    "size": "442900956",
+                    "download": "171072416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17474183",
+                "timeupdated": "1740323773"
+            },
+            "beta": {
+                "buildid": "13922243",
+                "description": "beta测试用",
+                "timeupdated": "1712057499"
+            }
+        }
+    }
+}
