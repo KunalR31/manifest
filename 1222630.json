@@ -1,0 +1,84 @@
+{
+    "appid": "1222630",
+    "type": "DLC",
+    "name": "Beetle PSX",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731478",
+    "update_time": "2025-03-01 17:14:14",
+    "depot": {
+        "1222630": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1222630"
+            },
+            "dlcappid": "1222630",
+            "manifests": {
+                "public": {
+                    "gid": "4290190034027227277",
+                    "size": "22973024",
+                    "download": "2464848"
+                },
+                "nightly": {
+                    "gid": "4400709240226625277",
+                    "size": "23013472",
+                    "download": "2471680"
+                }
+            },
+            "decryptionkey": "b32bbbe402d74b9c403f09a999d9314b8415d116f27aab83de07efa4cb81af9d"
+        },
+        "1790170": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222630"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3073963876943772169",
+                    "size": "24937556",
+                    "download": "2528656"
+                },
+                "nightly": {
+                    "gid": "5174509470571124977",
+                    "size": "24986708",
+                    "download": "2533808"
+                }
+            },
+            "dlcappid": "1222630",
+            "decryptionkey": ""
+        },
+        "1790171": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222630"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8452474055489901083",
+                    "size": "41313236",
+                    "download": "3747504"
+                },
+                "nightly": {
+                    "gid": "6307196175170622423",
+                    "size": "41379268",
+                    "download": "3773168"
+                }
+            },
+            "dlcappid": "1222630",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911374",
+                "timeupdated": "1736093825"
+            },
+            "nightly": {
+                "buildid": "17557862",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820450"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
