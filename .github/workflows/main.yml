@@ -1,0 +1,37 @@
+name: Merge All Branches Anonymously
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge-branches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your existing repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add source repo as remote
+        run: |
+          git remote add source https://github.com/SteamAutoCracks/ManifestHub.git
+          git fetch source --prune
+
+      - name: Rewrite history and push branches
+        run: |
+          git config user.name "KunalR31"
+          git config user.email "kxr3678@gmail.com"
+          for branch in $(git branch -r | grep 'source/' | sed 's/source\///'); do
+            echo "Processing branch: $branch"
+            git checkout -B "$branch" "source/$branch"
+            git rebase --root --exec "git commit --amend --no-edit --author='YourGitHubUsername <your-email@example.com>'"
+            git push origin "$branch" --force
+          done
+
+      - name: Cleanup
+        run: |
+          git remote remove source
