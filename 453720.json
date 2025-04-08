@@ -1,0 +1,86 @@
+{
+    "appid": "453720",
+    "type": "Game",
+    "name": "Last Will",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26332685",
+    "update_time": "2024-12-04 22:10:42",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "453721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8098223678966290325",
+                    "size": "2142943525",
+                    "download": "822794000"
+                },
+                "playtest": {
+                    "gid": "8098223678966290325",
+                    "size": "2142943525",
+                    "download": "822794000"
+                }
+            },
+            "decryptionkey": "85ebd6d3552e2312b18389c7de7a9cb81925f779a58797583f24e4c70e8c2106"
+        },
+        "453722": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4712995455826902222",
+                    "size": "2161546334",
+                    "download": "830699328"
+                },
+                "playtest": {
+                    "gid": "4712995455826902222",
+                    "size": "2161546334",
+                    "download": "830699328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "453724": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4692120496110746708",
+                    "size": "2151888815",
+                    "download": "830768128"
+                },
+                "playtest": {
+                    "gid": "4692120496110746708",
+                    "size": "2151888815",
+                    "download": "830768128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3241154",
+                "timeupdated": "1540343669"
+            },
+            "playtest": {
+                "buildid": "3241154",
+                "description": "For testing out the latest dev builds. Probably super unstable.",
+                "timeupdated": "1540343729"
+            }
+        }
+    }
+}
