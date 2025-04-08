@@ -1,0 +1,109 @@
+{
+    "appid": "284100",
+    "type": "Game",
+    "name": "Unclaimed World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26342964",
+    "update_time": "2024-12-05 02:39:38",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "284101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3159369609451446961",
+                    "size": "624095857",
+                    "download": "223021728"
+                },
+                "0.9.4.0": {
+                    "gid": "5725107258649164385",
+                    "size": "670943422",
+                    "download": "215404528"
+                },
+                "1.0.0.5": {
+                    "gid": "825268083702527122",
+                    "size": "624003322",
+                    "download": "222973024"
+                },
+                "1.0.2.6": {
+                    "gid": "9098614152649389598",
+                    "size": "624077845",
+                    "download": "222998128"
+                },
+                "test": {
+                    "gid": "3228066436651476114",
+                    "size": "464253115",
+                    "download": "238943952"
+                }
+            },
+            "decryptionkey": "66152da777fb68f29aa10cbff6b276236b3f4094d715ef3ce41ac2f0fbfed1a5"
+        },
+        "536790": {
+            "manifests": {
+                "public": {
+                    "gid": "96715669743251879",
+                    "size": "130926069",
+                    "download": "103505728"
+                },
+                "1.0.0.5": {
+                    "gid": "96715669743251879",
+                    "size": "130926069",
+                    "download": "103505728"
+                },
+                "1.0.2.6": {
+                    "gid": "96715669743251879",
+                    "size": "130926069",
+                    "download": "103505728"
+                },
+                "test": {
+                    "gid": "4976326506924062736",
+                    "size": "130926069",
+                    "download": "103505728"
+                }
+            },
+            "dlcappid": "536790",
+            "decryptionkey": "b4a7c188ecd0010f115e11edfb5ed0b56c98efc41da79471493904f192a6b84a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1644139",
+                "timeupdated": "1494685230"
+            },
+            "0.9.4.0": {
+                "buildid": "1351696",
+                "timeupdated": "1474838748"
+            },
+            "1.0.0.5": {
+                "buildid": "1382124",
+                "timeupdated": "1476451459"
+            },
+            "1.0.2.6": {
+                "buildid": "1472019",
+                "timeupdated": "1482704457"
+            },
+            "test": {
+                "buildid": "2652915",
+                "timeupdated": "1522675752"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
