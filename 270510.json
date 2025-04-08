@@ -1,0 +1,70 @@
+{
+    "appid": "270510",
+    "type": "Game",
+    "name": "EPOCH",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27387043",
+    "update_time": "2025-02-09 20:25:23",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "270511": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2174061517810304675",
+                    "size": "672157661",
+                    "download": "1270885983912"
+                },
+                "beta": {
+                    "gid": "5661254757997179791",
+                    "size": "672165405",
+                    "download": "345758294704"
+                },
+                "local": {
+                    "gid": "2135484659783268120",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "09b08136bb6e71a3f6fff4712a8cc7c06a625bf2f4892ebe0bf8522a3cc41cc5"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "324886"
+            },
+            "beta": {
+                "buildid": "345851",
+                "description": "Latest and Greatest"
+            },
+            "local": {
+                "buildid": "212889",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
