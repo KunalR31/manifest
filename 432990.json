@@ -1,0 +1,77 @@
+{
+    "appid": "432990",
+    "type": "Game",
+    "name": "Green Game: TimeSwapper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28257892",
+    "update_time": "2025-04-02 07:18:36",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "432991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7317150608169964741",
+                    "size": "528087493",
+                    "download": "72815488"
+                }
+            },
+            "decryptionkey": "6ce71c77dad28cd84e30524193fd35878d07da34db382586023585a5543ff7a9"
+        },
+        "432992": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3456551355346390067",
+                    "size": "532027966",
+                    "download": "73851536"
+                }
+            },
+            "decryptionkey": "4b19f05dcfd6396eb3ea92d82c0d51bb42433ea9c288a5581d3964d51271dab0"
+        },
+        "432993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8433033848347332064",
+                    "size": "369467755",
+                    "download": "77959968"
+                }
+            },
+            "decryptionkey": "c65a842f14f2ae4caefc563248712457436f5a15b9cfc4b2f0e8eded428b7976"
+        },
+        "432994": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6331544520649372357",
+                    "size": "558883224",
+                    "download": "82591232"
+                }
+            },
+            "decryptionkey": "bfe42a60a5e69cd14bd0260763c002aa060cf956ca570c09947d0d09ac232c5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "941041"
+            }
+        }
+    }
+}
