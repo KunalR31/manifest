@@ -1,0 +1,62 @@
+{
+    "appid": "1297490",
+    "type": "Game",
+    "name": "Superior: Vengeance",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26832089",
+    "update_time": "2025-01-01 20:18:51",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1297491": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7177777727509137992",
+                    "size": "4924976545",
+                    "download": "4404144656"
+                },
+                "client_ptr": {
+                    "gid": "7177777727509137992",
+                    "size": "4924976545",
+                    "download": "4404144656"
+                }
+            },
+            "decryptionkey": "7a240302efce7a0c6f4e1836ecfcdc1e2456daf496c21419bc594ae8cd3eb7e3"
+        },
+        "2634040": {
+            "dlcappid": "2634040",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15427469",
+                "timeupdated": "1724459337"
+            },
+            "client_ptr": {
+                "buildid": "15427469",
+                "description": "Test branch for next update",
+                "timeupdated": "1724111882"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
