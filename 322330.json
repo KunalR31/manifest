@@ -1,0 +1,121 @@
+{
+    "appid": "322330",
+    "type": "Game",
+    "name": "Don't Starve Together",
+    "schinese_name": "饥荒联机版",
+    "isfreeapp": "0",
+    "change_number": "28344314",
+    "update_time": "2025-04-07 19:10:35",
+    "depot": {
+        "workshopdepot": "322330",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "322331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "424412988967010102",
+                    "size": "4034128655",
+                    "download": "2805142448"
+                },
+                "beforemacoschanges": {
+                    "gid": "5978996668591746072",
+                    "size": "3362828099",
+                    "download": "2375034304"
+                },
+                "updatebeta": {
+                    "gid": "4574996303647114337",
+                    "size": "3995577614",
+                    "download": "2782797840"
+                }
+            },
+            "decryptionkey": "3ee94d4c47554fc580de37cdeb4bb41020ece2d5ab195d51d8b87f5e438e9f23"
+        },
+        "322332": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1369566053432056279",
+                    "size": "3914495054",
+                    "download": "2691899664"
+                },
+                "beforemacoschanges": {
+                    "gid": "8093978131067739771",
+                    "size": "3243206087",
+                    "download": "2261774192"
+                },
+                "updatebeta": {
+                    "gid": "3527902040306931128",
+                    "size": "3875946163",
+                    "download": "2669543264"
+                }
+            },
+            "decryptionkey": "8f36286253d1b2e61f2e7bfec57510d6ec34da84a9d126dc4adf19f6cff117be"
+        },
+        "322333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4376806533872430107",
+                    "size": "3893067775",
+                    "download": "2686665152"
+                },
+                "beforemacoschanges": {
+                    "gid": "824314026433670095",
+                    "size": "3242738771",
+                    "download": "2262919680"
+                },
+                "updatebeta": {
+                    "gid": "2352723026610623411",
+                    "size": "3854488536",
+                    "download": "2664303760"
+                }
+            },
+            "decryptionkey": "065e9fc3141e45c895786254045560d2af8860c513d0a6077fceaca5fda4c32f"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "17931480",
+                "timeupdated": "1743543858"
+            },
+            "beforemacoschanges": {
+                "buildid": "12576249",
+                "description": "r579121",
+                "timeupdated": "1698883383"
+            },
+            "updatebeta": {
+                "buildid": "17523342",
+                "description": "Public Beta",
+                "timeupdated": "1740620254"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
