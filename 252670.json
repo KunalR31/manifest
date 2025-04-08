@@ -1,0 +1,66 @@
+{
+    "appid": "252670",
+    "type": "Game",
+    "name": "Nihilumbra",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27127438",
+    "update_time": "2025-01-23 17:23:58",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "252671": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2360898676049689204",
+                    "size": "2382822893",
+                    "download": "535834272"
+                }
+            },
+            "decryptionkey": "93451a1f2412b47c53fa08c48a59504367abff6c63fcde0f4bfbdfe55041e488"
+        },
+        "252672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8812412027556335359",
+                    "size": "2391646557",
+                    "download": "537560560"
+                }
+            },
+            "decryptionkey": "b2302c865f6ba39c7c9c6bb8a9368a226f5301a44d84175bb4c06aa3ec1f8537"
+        },
+        "252673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2864257598601366356",
+                    "size": "4781590136",
+                    "download": "553450944"
+                }
+            },
+            "decryptionkey": "5d39a029dae78978f0590127ec7b008ee01f662165e43db09a8ea363110d7405"
+        },
+        "branches": {
+            "public": {
+                "buildid": "630592"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
