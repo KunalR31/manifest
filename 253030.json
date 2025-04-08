@@ -1,0 +1,118 @@
+{
+    "appid": "253030",
+    "type": "Game",
+    "name": "Race The Sun",
+    "schinese_name": "逐日飞翔",
+    "isfreeapp": "0",
+    "change_number": "27105704",
+    "update_time": "2025-01-22 12:25:57",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "253031": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1005746811166845326",
+                    "size": "155896395",
+                    "download": "32771968"
+                },
+                "old_stable": {
+                    "gid": "7084165925684659131",
+                    "size": "135660449",
+                    "download": "28644352"
+                }
+            },
+            "decryptionkey": "0a850868867e887a855c2a2130112853214138c933252296e885049be1e6e892"
+        },
+        "253032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "847402472000595992",
+                    "size": "167530712",
+                    "download": "34922640"
+                },
+                "old_stable": {
+                    "gid": "5652190320903646351",
+                    "size": "140204638",
+                    "download": "30366224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "253033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5296224263863569175",
+                    "size": "162680714",
+                    "download": "34010752"
+                },
+                "old_stable": {
+                    "gid": "4133644117103567858",
+                    "size": "139786618",
+                    "download": "30343984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "378731": {
+            "manifests": {
+                "public": {
+                    "gid": "9195102739094348968",
+                    "size": "24",
+                    "download": "80"
+                },
+                "old_stable": {
+                    "gid": "9195102739094348968",
+                    "size": "24",
+                    "download": "80"
+                }
+            },
+            "dlcappid": "378731",
+            "decryptionkey": "961597938bb3b38fc08573e751fa76f5ae87635cae214e7dcf18776e49cae3fb"
+        },
+        "378730": {
+            "manifests": {
+                "public": {
+                    "gid": "7368530143107066534",
+                    "size": "188158143",
+                    "download": "190064464"
+                },
+                "old_stable": {
+                    "gid": "7368530143107066534",
+                    "size": "188158143",
+                    "download": "190064464"
+                }
+            },
+            "dlcappid": "378730",
+            "decryptionkey": "2dcad09fbf379a14a93c2a7652cfe6fc81f6975e93244e6fe9fdffcb6a130ba2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1808508",
+                "timeupdated": "1494297795"
+            },
+            "old_stable": {
+                "buildid": "759512",
+                "timeupdated": "1487787337"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
