@@ -1,0 +1,143 @@
+{
+    "appid": "265990",
+    "type": "Game",
+    "name": "Rogue's Tale",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28051352",
+    "update_time": "2025-03-20 21:09:52",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "265991": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9141930878182256638",
+                    "size": "348530723",
+                    "download": "91237920"
+                },
+                "1.15": {
+                    "gid": "8809209695983890590",
+                    "size": "212073160",
+                    "download": "89147936"
+                },
+                "test": {
+                    "gid": "9141930878182256638",
+                    "size": "348530723",
+                    "download": "91237920"
+                }
+            },
+            "decryptionkey": "8ec50c018e0677c4efaafe76f8bde7c9bcbe7354fa4e2003a1a8d0e85341f346"
+        },
+        "265992": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9189357499867678073",
+                    "size": "350136553",
+                    "download": "90246960"
+                },
+                "1.15": {
+                    "gid": "5997200082632209454",
+                    "size": "218089998",
+                    "download": "90579360"
+                },
+                "test": {
+                    "gid": "9189357499867678073",
+                    "size": "350136553",
+                    "download": "90246960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "265993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8067646152941880940",
+                    "size": "343185992",
+                    "download": "90238912"
+                },
+                "test": {
+                    "gid": "8067646152941880940",
+                    "size": "343185992",
+                    "download": "90238912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1123270": {
+            "dlcappid": "1123270",
+            "manifests": {
+                "public": {
+                    "gid": "1471443451710317124",
+                    "size": "15",
+                    "download": "64"
+                },
+                "test": {
+                    "gid": "1471443451710317124",
+                    "size": "15",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "c507245a8d0b7e7467cdcd3fb6f97c96e4e1dd62389af9da56ca9b980ba706a4"
+        },
+        "1618410": {
+            "dlcappid": "1618410",
+            "manifests": {
+                "public": {
+                    "gid": "6013339490038714721",
+                    "size": "16",
+                    "download": "64"
+                },
+                "test": {
+                    "gid": "6013339490038714721",
+                    "size": "16",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "9d811911ba4fcd9d7542f63d997843065dd9418b2030da9e797c698538ced649"
+        },
+        "2335700": {
+            "dlcappid": "2335700",
+            "manifests": {
+                "public": {
+                    "gid": "3544350069341048349",
+                    "size": "13",
+                    "download": "64"
+                },
+                "test": {
+                    "gid": "3544350069341048349",
+                    "size": "13",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "8f1be7c77dda5638aad88fbcc3c8fb822d3044a67f76a2212ec646179e33277f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17377178",
+                "timeupdated": "1739629403"
+            },
+            "1.15": {
+                "buildid": "1955263",
+                "description": "Old version",
+                "timeupdated": "1560530523"
+            },
+            "test": {
+                "buildid": "17377178",
+                "description": "Public test branch",
+                "timeupdated": "1739628346"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
