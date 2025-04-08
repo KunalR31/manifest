@@ -1,0 +1,57 @@
+{
+    "appid": "1654660",
+    "type": "Game",
+    "name": "En Garde!",
+    "schinese_name": "击剑预备！",
+    "isfreeapp": "0",
+    "change_number": "27826345",
+    "update_time": "2025-03-07 09:06:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1654661": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8942731442814496327",
+                    "size": "7432075212",
+                    "download": "7032655488"
+                },
+                "v1.0": {
+                    "gid": "3524483345820795527",
+                    "size": "8678361472",
+                    "download": "8278375552"
+                }
+            },
+            "decryptionkey": "5b40c516f1699847186ea0cf3558f3a94137c7b55f85808a3ed2d88dbe4850a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13439833",
+                "timeupdated": "1708014204"
+            },
+            "v1.0": {
+                "buildid": "11947842",
+                "description": "Release version - had the level warp bug used by some speedrunners",
+                "timeupdated": "1692608787"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
