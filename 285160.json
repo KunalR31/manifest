@@ -1,0 +1,117 @@
+{
+    "appid": "285160",
+    "type": "Game",
+    "name": "LEGO® The Hobbit™",
+    "schinese_name": "乐高：霍比特人",
+    "isfreeapp": "0",
+    "change_number": "27993085",
+    "update_time": "2025-03-17 20:22:17",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "285161": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3531787193063722680",
+                    "size": "8852936958",
+                    "download": "4563815093697"
+                }
+            },
+            "decryptionkey": "4135d51d7feab5c9486308c898045892514450bfceffc9cf366b1c37dfceb5ca"
+        },
+        "285162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5597572562996417827",
+                    "size": "8669259317",
+                    "download": "881899359296"
+                },
+                "local": {
+                    "gid": "7573135715230589622",
+                    "size": "8669259317",
+                    "download": "484892257976"
+                }
+            },
+            "decryptionkey": "36d69764a808709db72a72a597867ba3cea57d05b21991a4b97e44fb5636807f"
+        },
+        "285163": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "292712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7649136833763476343",
+                    "size": "1623165",
+                    "download": "1592384"
+                }
+            },
+            "dlcappid": "292712",
+            "decryptionkey": "4adda7e7d7fec70194b674e56dcfba0ac942bcc63feb57541ff2193e2588df7c"
+        },
+        "292710": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "112895498698125239",
+                    "size": "1055293",
+                    "download": "653808"
+                }
+            },
+            "dlcappid": "292710",
+            "decryptionkey": "97849e45cf4fc1b5f410f52b05fb9184db288e1a4868847b4d87c537a6568e55"
+        },
+        "292711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6715094389507311823",
+                    "size": "1168914",
+                    "download": "737904"
+                }
+            },
+            "dlcappid": "292711",
+            "decryptionkey": "c2e5b9a384de141a6d83e35ea0f412275c1248582010345ce3efec5340a7c9aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "475949"
+            },
+            "local": {
+                "buildid": "474547",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
