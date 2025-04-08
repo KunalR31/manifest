@@ -1,0 +1,51 @@
+{
+    "appid": "2828980",
+    "type": "Demo",
+    "name": "Blood Rush Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27762663",
+    "update_time": "2025-03-04 06:28:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2828981": {
+            "manifests": {
+                "public": {
+                    "gid": "1577515699865711006",
+                    "size": "571680077",
+                    "download": "277955968"
+                },
+                "demo_beta": {
+                    "gid": "1577515699865711006",
+                    "size": "571680077",
+                    "download": "277955968"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17580575",
+                "timeupdated": "1741040930"
+            },
+            "demo_beta": {
+                "buildid": "17580575",
+                "description": "Branch used to test futur demo builds, join at your own risks",
+                "timeupdated": "1741040886"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
