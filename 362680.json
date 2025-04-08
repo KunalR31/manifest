@@ -1,0 +1,100 @@
+{
+    "appid": "362680",
+    "type": "Game",
+    "name": "Fran Bow",
+    "schinese_name": "弗兰的悲惨之旅",
+    "isfreeapp": "0",
+    "change_number": "28216583",
+    "update_time": "2025-03-31 01:15:38",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "362681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4329928028421149798",
+                    "size": "3837411095",
+                    "download": "1064618960"
+                },
+                "osxtest": {
+                    "gid": "1522353005604393024",
+                    "size": "537637864",
+                    "download": "490204928"
+                }
+            },
+            "decryptionkey": "44d14e5570baff72ae61a2c1d9b484c8e0ada528e532b141ec1234afaa5c49e8"
+        },
+        "362682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8790029259982388641",
+                    "size": "3828063689",
+                    "download": "1059835520"
+                },
+                "osxtest": {
+                    "gid": "1701625726277511403",
+                    "size": "534074094",
+                    "download": "489194064"
+                }
+            },
+            "decryptionkey": "b0c58d31e871b42fc70b331ec6b01ea3d6513e0316f8a2fef08ac01f2aa51014"
+        },
+        "362683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3855656605947109045",
+                    "size": "3858789172",
+                    "download": "1069936720"
+                },
+                "osxtest": {
+                    "gid": "8273405574729273541",
+                    "size": "541373966",
+                    "download": "490768304"
+                }
+            },
+            "decryptionkey": "a44a84f94135c910aba50badf09799ce3ebd35ff5160292fd5b402a75523459d"
+        },
+        "404840": {
+            "dlcappid": "404840",
+            "manifests": {
+                "public": {
+                    "gid": "2109512425821138143",
+                    "size": "749701949",
+                    "download": "587911648"
+                },
+                "osxtest": {
+                    "gid": "2109512425821138143",
+                    "size": "749701949",
+                    "download": "587911648"
+                }
+            },
+            "decryptionkey": "6954fc834142b8700efb11fa6b92c17db6f3ee81b4b12aa515b6a323ba4a3b33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11189293",
+                "timeupdated": "1683637371"
+            },
+            "osxtest": {
+                "buildid": "1605809",
+                "description": "Game crash fix test",
+                "timeupdated": "1486042169"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
