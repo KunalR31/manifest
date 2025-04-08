@@ -1,0 +1,80 @@
+{
+    "appid": "270450",
+    "type": "Game",
+    "name": "Robot Roller-Derby Disco Dodgeball",
+    "schinese_name": "机器人碰撞迪斯科躲避球",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-31 02:29:06",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "270450",
+        "270451": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6193384689152394330",
+                    "size": "531472636",
+                    "download": "275857312"
+                },
+                "beta": {
+                    "gid": "6193384689152394330",
+                    "size": "531472636",
+                    "download": "275857312"
+                }
+            },
+            "decryptionkey": "607a3a77aed19657402342101ff3bda74277557eddf2655ced6b55e6f1f4a32d"
+        },
+        "270452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8377513944200853708",
+                    "size": "552815901",
+                    "download": "283816400"
+                },
+                "beta": {
+                    "gid": "8377513944200853708",
+                    "size": "552815901",
+                    "download": "283816400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "270453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7341211668816511635",
+                    "size": "594879095",
+                    "download": "300885504"
+                },
+                "beta": {
+                    "gid": "7341211668816511635",
+                    "size": "594879095",
+                    "download": "300885504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5839956",
+                "timeupdated": "1605619831"
+            },
+            "beta": {
+                "buildid": "5839956",
+                "timeupdated": "1605582063"
+            }
+        },
+        "workshopdepotdecryptionkey": "c3a200eaae2ce31735e2188a05132c2122fac5d13d7888b58bc55fa04350c62f"
+    }
+}
