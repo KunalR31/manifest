@@ -1,0 +1,78 @@
+{
+    "appid": "2878030",
+    "type": "Game",
+    "name": "Moon Watch",
+    "schinese_name": "月影守望",
+    "isfreeapp": "0",
+    "change_number": "28011561",
+    "update_time": "2025-03-18 18:56:28",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,polish",
+        "2878031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4982993148192027523",
+                    "size": "212643303",
+                    "download": "64391184"
+                },
+                "testing": {
+                    "gid": "4982993148192027523",
+                    "size": "212643303",
+                    "download": "64391184"
+                }
+            },
+            "decryptionkey": "555a6d453705ccdcbccee970b4254ebe6dcb99adcc4b9697b091e872437c5707"
+        },
+        "2878032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6539367096995630661",
+                    "size": "244676961",
+                    "download": "73937824"
+                },
+                "testing": {
+                    "gid": "6539367096995630661",
+                    "size": "244676961",
+                    "download": "73937824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2878033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1284955459532181134",
+                    "size": "223797212",
+                    "download": "66582096"
+                },
+                "testing": {
+                    "gid": "1284955459532181134",
+                    "size": "223797212",
+                    "download": "66582096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16775757",
+                "timeupdated": "1734552951"
+            },
+            "testing": {
+                "buildid": "16775757",
+                "description": "Public Beta Testing",
+                "timeupdated": "1734453747"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
