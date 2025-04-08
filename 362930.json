@@ -1,0 +1,58 @@
+{
+    "appid": "362930",
+    "type": "Game",
+    "name": "Garfield Kart",
+    "schinese_name": "加菲猫卡丁车",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-31 04:20:02",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "362931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6806963823418817848",
+                    "size": "930826204",
+                    "download": "185229264"
+                },
+                "multi_test": {
+                    "gid": "7364880115317084531",
+                    "size": "941335159",
+                    "download": "185087440"
+                }
+            },
+            "decryptionkey": "655f861cbc910208a23b256e9c936a98b9481f22c902c3bcf0e8c0f85ef04915"
+        },
+        "362932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4526576541575148841",
+                    "size": "949063352",
+                    "download": "183438688"
+                },
+                "multi_test": {
+                    "gid": "4526576541575148841",
+                    "size": "949063352",
+                    "download": "183438688"
+                }
+            },
+            "decryptionkey": "04f2c8a4846618e824f451ac5a05d54ad0e0a01c3d0b39b15f8e81c2c2ebc219"
+        },
+        "branches": {
+            "public": {
+                "buildid": "805329"
+            },
+            "multi_test": {
+                "buildid": "2991941",
+                "description": "Test multiplayer P2P",
+                "timeupdated": "1533030016"
+            }
+        }
+    }
+}
