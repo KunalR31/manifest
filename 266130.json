@@ -1,0 +1,59 @@
+{
+    "appid": "266130",
+    "type": "Game",
+    "name": "Breach & Clear",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27163260",
+    "update_time": "2025-01-25 20:26:51",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "266131": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1745459226251874829",
+                    "size": "2811922184",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "baf015c74e71246b5e9a818b5ee1244dbb455a7c45dc814de4ad89017a0a3f49"
+        },
+        "266132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1731621374972583827",
+                    "size": "2825833672",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c9ae9a5875cfff7805fb95edaea39466221b197c973f3b6ff347ce07d65c096b"
+        },
+        "266133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3070598868020622635",
+                    "size": "2833399488",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6122939498f6b9676a9bf7db87cf106547d0b137c70a2eab621990dd5d312429"
+        },
+        "branches": {
+            "public": {
+                "buildid": "254091"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
