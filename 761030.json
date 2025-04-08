@@ -1,0 +1,95 @@
+{
+    "appid": "761030",
+    "type": "Game",
+    "name": "EARTHLOCK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26526621",
+    "update_time": "2024-12-06 21:41:42",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "761031": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5054176010644236168",
+                    "size": "4049513606",
+                    "download": "1544856544"
+                },
+                "languagetest": {
+                    "gid": "601558827570586118",
+                    "size": "3712505415",
+                    "download": "1437738224"
+                }
+            },
+            "decryptionkey": "94f81f875a581932dd42e23252c78adb39b5a08cebcfc0eb03db34fb4c383bf3"
+        },
+        "761032": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4697325949736628903",
+                    "size": "4085604186",
+                    "download": "1552329040"
+                },
+                "languagetest": {
+                    "gid": "4821394326689002326",
+                    "size": "3735903676",
+                    "download": "1442513584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "761035": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6819846418867001148",
+                    "size": "4074585718",
+                    "download": "1560863792"
+                },
+                "languagetest": {
+                    "gid": "5402715026931488006",
+                    "size": "3725721579",
+                    "download": "1449806576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "761033": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7193137209712718002",
+                    "size": "305234704",
+                    "download": "255022832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5859985",
+                "timeupdated": "1605887439"
+            },
+            "languagetest": {
+                "buildid": "2778708",
+                "description": "Localization testing",
+                "timeupdated": "1526472074"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
