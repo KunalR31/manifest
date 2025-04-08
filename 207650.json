@@ -1,0 +1,117 @@
+{
+    "appid": "207650",
+    "type": "Game",
+    "name": "A Virus Named TOM",
+    "schinese_name": "一种叫汤姆的病毒",
+    "isfreeapp": "0",
+    "change_number": "26397305",
+    "update_time": "2024-12-05 06:04:39",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "207651": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4927144948134973856",
+                    "size": "368386158",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "4927144948134973856",
+                    "size": "368386158",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fc3407d2c611e4c9733a5adfa6981386f5d514ce8a02281b74644a7cb94c93f9"
+        },
+        "207655": {
+            "manifests": {
+                "public": {
+                    "gid": "7979972379897938019",
+                    "size": "32455921",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "7979972379897938019",
+                    "size": "32455921",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "207655",
+            "decryptionkey": "6367611d8dbb43b3e5db2e8a272573541618c4293ff68b346bb950a68728a235"
+        },
+        "207660": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9201583901397105640",
+                    "size": "21237704",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "9201583901397105640",
+                    "size": "21237704",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "207660",
+            "decryptionkey": ""
+        },
+        "207652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2137790820947550930",
+                    "size": "270982767",
+                    "download": "234482240"
+                },
+                "linux32": {
+                    "gid": "7897316685400257577",
+                    "size": "279133755",
+                    "download": "236506896"
+                }
+            },
+            "decryptionkey": "2d486a4d08c8a273b60b42fe6b2833a58c914e0d7beb0f2f1598688f11514b7f"
+        },
+        "207653": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3907259246808761764",
+                    "size": "283793964",
+                    "download": "237304000"
+                },
+                "linux32": {
+                    "gid": "1283177379237494775",
+                    "size": "269027048",
+                    "download": "233839248"
+                }
+            },
+            "decryptionkey": "b5b178dd151c12fd18e9742a3efe11a855188b6497887dd78398f63daba27c38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6032507",
+                "timeupdated": "1609605979"
+            },
+            "linux32": {
+                "buildid": "4449406",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609452976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
