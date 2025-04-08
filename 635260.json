@@ -1,0 +1,89 @@
+{
+    "appid": "635260",
+    "type": "Game",
+    "name": "CarX Drift Racing Online",
+    "schinese_name": "CarX漂移赛车",
+    "isfreeapp": "0",
+    "change_number": "28312732",
+    "update_time": "2025-04-05 00:29:39",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "635261": {
+            "manifests": {
+                "public": {
+                    "gid": "3527169741645304394",
+                    "size": "8385057584",
+                    "download": "4799257008"
+                },
+                "old_version_1.9": {
+                    "gid": "6477544475857177194",
+                    "size": "2382212793",
+                    "download": "639167600"
+                },
+                "moddable": {
+                    "gid": "4842307879367843917",
+                    "size": "8303640764",
+                    "download": "4784006000"
+                },
+                "ptr_2.25.0": {
+                    "gid": "335186510234646582",
+                    "size": "8417162471",
+                    "download": "4822749856"
+                },
+                "ptr_2.25.0_moddable": {
+                    "gid": "3746894401045918730",
+                    "size": "8335066630",
+                    "download": "4807548960"
+                }
+            },
+            "decryptionkey": "12eafb480d17be3196fc40eeec87820d98ecf98fc24580764a1b86d14ae04cef"
+        },
+        "752440": {
+            "dlcappid": "752440"
+        },
+        "752450": {
+            "dlcappid": "752450"
+        },
+        "workshopdepot": "635260",
+        "branches": {
+            "public": {
+                "buildid": "17224854",
+                "timeupdated": "1738682066"
+            },
+            "old_version_1.9": {
+                "buildid": "4430790",
+                "timeupdated": "1574852634"
+            },
+            "moddable": {
+                "buildid": "17224552",
+                "description": "Public moddable branch",
+                "timeupdated": "1738682090"
+            },
+            "ptr_2.25.0": {
+                "buildid": "17812907",
+                "description": "Public test pre-release 2.25.0 v1",
+                "timeupdated": "1742581352"
+            },
+            "ptr_2.25.0_moddable": {
+                "buildid": "17811822",
+                "description": "Public test pre-release 2.25.0 v1 moddable",
+                "timeupdated": "1742581340"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
