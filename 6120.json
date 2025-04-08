@@ -1,0 +1,90 @@
+{
+    "appid": "6120",
+    "type": "Game",
+    "name": "Shank",
+    "schinese_name": "闪克",
+    "isfreeapp": "0",
+    "change_number": "27127438",
+    "update_time": "2025-01-23 17:23:53",
+    "depot": {
+        "overridescddb": "1",
+        "hasdepotsindlc": "0",
+        "6121": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8359087293181816026",
+                    "size": "1931407984",
+                    "download": "1720142032"
+                },
+                "classic": {
+                    "gid": "4563382158301391180",
+                    "size": "2163363857",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6ed17075d0fa3d2a0d7a26e7b55b3515640c2cc3aedb9bb676cfa5ffde3a8411"
+        },
+        "6122": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "systemdefined": "1",
+            "dlcappid": "6122",
+            "manifests": {
+                "public": {
+                    "gid": "8181043353150678929",
+                    "size": "1575719056",
+                    "download": "1424597088"
+                },
+                "classic": {
+                    "gid": "2386226008243705237",
+                    "size": "1575708375",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5dbfdd024ec5a74f41375e885bcd8322748665a80a90b55c6de080b8581d1b22"
+        },
+        "6123": {
+            "config": {
+                "language": ""
+            }
+        },
+        "6124": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6220221992125395365",
+                    "size": "1557600072",
+                    "download": "1418352640"
+                },
+                "classic": {
+                    "gid": "5475903680793398975",
+                    "size": "1557589391",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5170151ab3416bbe62e8825156c04a76e49ab2c329e2d2e5f770dd01e70afccb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5907709",
+                "timeupdated": "1606858282"
+            },
+            "classic": {
+                "buildid": "215512",
+                "description": "The original cut of the game"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
