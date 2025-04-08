@@ -1,0 +1,133 @@
+{
+    "appid": "252870",
+    "type": "Game",
+    "name": "PULSAR: Lost Colony",
+    "schinese_name": "脉冲星：失去的殖民地",
+    "isfreeapp": "0",
+    "change_number": "28314550",
+    "update_time": "2025-04-05 02:15:09",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "252871": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8615811211172103852",
+                    "size": "5931335256",
+                    "download": "2856897088"
+                },
+                "advancetesting": {
+                    "gid": "8615811211172103852",
+                    "size": "5931335256",
+                    "download": "2856897088"
+                },
+                "mono": {
+                    "gid": "7900977578365696093",
+                    "size": "5907020437",
+                    "download": "2850804016"
+                }
+            },
+            "decryptionkey": "6c05ecaa0bbb97919e27b86f0207cd578f42f66a6f47f97008f8829ac35fac3a"
+        },
+        "252872": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5714635392994823588",
+                    "size": "5767976337",
+                    "download": "2811039360"
+                },
+                "advancetesting": {
+                    "gid": "5714635392994823588",
+                    "size": "5767976337",
+                    "download": "2811039360"
+                },
+                "mono": {
+                    "gid": "3991985265353988923",
+                    "size": "5744128465",
+                    "download": "2805971120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "252873": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2314021303603240246",
+                    "size": "5837025887",
+                    "download": "2825679952"
+                },
+                "advancetesting": {
+                    "gid": "2314021303603240246",
+                    "size": "5837025887",
+                    "download": "2825679952"
+                },
+                "mono": {
+                    "gid": "5052844937639774455",
+                    "size": "5798294794",
+                    "download": "2819204416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "252870",
+        "branches": {
+            "public": {
+                "buildid": "17812536",
+                "timeupdated": "1742581237"
+            },
+            "advancetesting": {
+                "buildid": "17812536",
+                "description": "Public Advance Testing Branch",
+                "timeupdated": "1742580858"
+            },
+            "mono": {
+                "buildid": "17812556",
+                "description": "Mono branch",
+                "timeupdated": "1742581225"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "11414800c601062bfc159f5b2106b100690984d170cf816d1243103593f4ec1d"
+    }
+}
