@@ -1,0 +1,91 @@
+{
+    "appid": "1680000",
+    "type": "Game",
+    "name": "Rewrite+",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28143785",
+    "update_time": "2025-03-26 14:16:29",
+    "depot": {
+        "1680001": {
+            "manifests": {
+                "public": {
+                    "gid": "5612779521423029409",
+                    "size": "8473850890",
+                    "download": "7691154000"
+                },
+                "20220127": {
+                    "gid": "714367319211597677",
+                    "size": "7163543035",
+                    "download": "6419758192"
+                },
+                "backup": {
+                    "gid": "7842880882604778373",
+                    "size": "7167885038",
+                    "download": "6403259536"
+                },
+                "legacy": {
+                    "gid": "8252671096133549622",
+                    "size": "7162887675",
+                    "download": "6419680704"
+                },
+                "staging": {
+                    "gid": "1510449399575805834",
+                    "size": "7164247776",
+                    "download": "6415730496"
+                },
+                "step1": {
+                    "gid": "1510449399575805834",
+                    "size": "7164247776",
+                    "download": "6415730496"
+                }
+            },
+            "decryptionkey": "e009ba86a684927aee3716d3437309765040f05514e72f7329f91592c1ae015d"
+        },
+        "1680002": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5844151009421836893",
+                    "size": "537",
+                    "download": "368"
+                }
+            },
+            "decryptionkey": "f4525e02fbf324a3fac3c71d5f2e7d61afabcd923d65314bfe5a3cc8ced81a33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9931954",
+                "timeupdated": "1669068001"
+            },
+            "20220127": {
+                "buildid": "8095833",
+                "description": "20220127-1 build 8095833",
+                "timeupdated": "1669067710"
+            },
+            "backup": {
+                "buildid": "7912363",
+                "description": "backup",
+                "timeupdated": "1640301042"
+            },
+            "legacy": {
+                "buildid": "8095820",
+                "description": "legacy",
+                "timeupdated": "1643309562"
+            },
+            "staging": {
+                "buildid": "7912381",
+                "description": "branch for public testing",
+                "timeupdated": "1639987539"
+            },
+            "step1": {
+                "buildid": "7912381",
+                "description": "Save migration",
+                "timeupdated": "1640242249"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
