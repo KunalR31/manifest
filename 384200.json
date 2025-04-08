@@ -1,0 +1,62 @@
+{
+    "appid": "384200",
+    "type": "Game",
+    "name": "Raging Justice",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26811709",
+    "update_time": "2024-12-30 02:38:14",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "384201": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3183810376252377495",
+                    "size": "775450579",
+                    "download": "673103328"
+                }
+            },
+            "decryptionkey": "d0864c3a81d99d824448d48aca52d45d5eb670cf00dddfa692ce31fc4d1d4418"
+        },
+        "384205": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3231514126342775028",
+                    "size": "776486039",
+                    "download": "664130288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3031617",
+                "timeupdated": "1534265490"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
