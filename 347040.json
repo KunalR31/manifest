@@ -1,0 +1,57 @@
+{
+    "appid": "347040",
+    "type": "Game",
+    "name": "Keebles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26704580",
+    "update_time": "2024-12-19 08:22:34",
+    "depot": {
+        "347041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1361782176119276737",
+                    "size": "487737053",
+                    "download": "51360560"
+                },
+                "beta": {
+                    "gid": "6941706819500831175",
+                    "size": "567471405",
+                    "download": "53474896"
+                }
+            },
+            "decryptionkey": "053f67edbd819b056ab6a9ce3d4b208bcef6f2e853f74551e2a58135aa8f37b3"
+        },
+        "347042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5491005736097541713",
+                    "size": "599847098",
+                    "download": "61620224"
+                },
+                "beta": {
+                    "gid": "3936921555083001989",
+                    "size": "602363930",
+                    "download": "61702720"
+                }
+            },
+            "decryptionkey": "b7b7d95815c69e43eb63d5b65b6dea6e9fb52a642d9cccf221aafd5b1edc7def"
+        },
+        "branches": {
+            "public": {
+                "buildid": "569619"
+            },
+            "beta": {
+                "buildid": "569621",
+                "description": "Beta branch"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
