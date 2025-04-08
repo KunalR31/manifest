@@ -1,0 +1,116 @@
+{
+    "appid": "238320",
+    "type": "Game",
+    "name": "Outlast",
+    "schinese_name": "逃生",
+    "isfreeapp": "0",
+    "change_number": "27280308",
+    "update_time": "2025-02-03 05:11:34",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "238321": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8070241010372854777",
+                    "size": "3996301793",
+                    "download": "3343232896"
+                }
+            },
+            "decryptionkey": "4c6dde66a11fc24f39a7e16c0fd5027be8d4227e91867538aef8ee186568ec3a"
+        },
+        "273300": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7518923783983972229",
+                    "size": "2304427255",
+                    "download": "1992254608"
+                }
+            },
+            "dlcappid": "273300",
+            "decryptionkey": "ef20a5f980c8264317c95f217597a95cda9dd8e0de23d66237b0374e1b3b4b19"
+        },
+        "238322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "917611862989775609",
+                    "size": "3516931680",
+                    "download": "2849755360"
+                }
+            },
+            "decryptionkey": "d9563699204b1071d794df59950c02ee46497d4f9db36c461fa39114bdf0b859"
+        },
+        "238323": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3317545544496803274",
+                    "size": "3401037827",
+                    "download": "2813215248"
+                }
+            },
+            "decryptionkey": "9c0f4b149e80ddf49aa848fe86a8c58dbbdac73fc55870b945ccc74eafd4b7ec"
+        },
+        "238324": {
+            "config": {
+                "oslist": "macos"
+            },
+            "dlcappid": "273300",
+            "manifests": {
+                "public": {
+                    "gid": "44073114614687821",
+                    "size": "2400089006",
+                    "download": "2016638672"
+                }
+            },
+            "decryptionkey": "a533af71b69ecc9802e5288c39a3b94942a1e844f2584a8b2d49144fbaa2d3e4"
+        },
+        "238325": {
+            "config": {
+                "oslist": "linux"
+            },
+            "dlcappid": "273300",
+            "manifests": {
+                "public": {
+                    "gid": "1733128563364132694",
+                    "size": "2402469605",
+                    "download": "2018178352"
+                }
+            },
+            "decryptionkey": "2c90d8d88b5e11e438bf6f0f794fa08da92101921cb4bdc2dfc072cd7348a1c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "576074"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
