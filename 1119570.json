@@ -1,0 +1,99 @@
+{
+    "appid": "1119570",
+    "type": "Application",
+    "name": "Discord Bot Builder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28256189",
+    "update_time": "2025-04-02 04:47:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1119571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6669389061941308280",
+                    "size": "313356082",
+                    "download": "96068672"
+                },
+                "1.0.0-preview.5": {
+                    "gid": "6250883147276527834",
+                    "size": "282688773",
+                    "download": "87497984"
+                },
+                "old-versions": {
+                    "gid": "8207380261049340477",
+                    "size": "477295176",
+                    "download": "144874960"
+                },
+                "patch": {
+                    "gid": "7658637663585149574",
+                    "size": "285366985",
+                    "download": "87856864"
+                }
+            },
+            "decryptionkey": "ccfe1ed90bc1639c0d6a17e3f847da573ec8e623fa98aa32c1e3035961a29582"
+        },
+        "1119572": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1510093438988348919",
+                    "size": "280856875",
+                    "download": "90854560"
+                },
+                "1.0.0-preview.5": {
+                    "gid": "5228368975516622244",
+                    "size": "253224950",
+                    "download": "82799616"
+                },
+                "old-versions": {
+                    "gid": "6035103210079525605",
+                    "size": "427650237",
+                    "download": "138083408"
+                },
+                "patch": {
+                    "gid": "30467766959644814",
+                    "size": "255903162",
+                    "download": "83159056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17653519",
+                "timeupdated": "1741560059"
+            },
+            "1.0.0-preview.5": {
+                "buildid": "15868209",
+                "description": "Use only for existing bot compatibility reasons.",
+                "timeupdated": "1740675704"
+            },
+            "old-versions": {
+                "buildid": "13886387",
+                "description": "This branch contains the version 1.0.0-preview.4 and 0.3.2. Use only for existing bot compatibility reasons.",
+                "timeupdated": "1727549121"
+            },
+            "patch": {
+                "buildid": "17945335",
+                "description": "1.0.0-preview.6 patch",
+                "timeupdated": "1743540461"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
