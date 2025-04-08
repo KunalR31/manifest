@@ -1,0 +1,62 @@
+{
+    "appid": "1702950",
+    "type": "Demo",
+    "name": "Jupiter Moons: Mecha Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25064523",
+    "update_time": "2024-09-16 22:54:11",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "1702951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6272796593992157535",
+                    "size": "449664565",
+                    "download": "198889520"
+                },
+                "stable_chn": {
+                    "gid": "2290644705557129203",
+                    "size": "390521396",
+                    "download": "155702528"
+                }
+            },
+            "decryptionkey": "ffef2f8b1fbedc6935e0fb0da9ea4526cbfedc1bd99007dc50c00daec88f58fd"
+        },
+        "1702952": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5805219748601162031",
+                    "size": "472918926",
+                    "download": "201106560"
+                },
+                "stable_chn": {
+                    "gid": "8066408757826532692",
+                    "size": "430546895",
+                    "download": "157788080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7835842",
+                "timeupdated": "1638804545"
+            },
+            "stable_chn": {
+                "buildid": "7066283",
+                "description": "stable_chn",
+                "timeupdated": "1638470044"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
