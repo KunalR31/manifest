@@ -1,0 +1,92 @@
+{
+    "appid": "49810",
+    "type": "Game",
+    "name": "CreaVures",
+    "schinese_name": "奇异生物",
+    "isfreeapp": "0",
+    "change_number": "26043007",
+    "update_time": "2024-11-05 03:40:47",
+    "depot": {
+        "overridescddb": "1",
+        "49813": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6177620315933226283",
+                    "size": "340481096",
+                    "download": "0"
+                },
+                "autobuild": {
+                    "gid": "6177620315933226283",
+                    "size": "340481096",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "49812": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1887831392362218249",
+                    "size": "440188153",
+                    "download": "0"
+                },
+                "autobuild": {
+                    "gid": "1887831392362218249",
+                    "size": "440188153",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8de9f84eeef2a617da6de1543deda7b6c560570bfe6f1dd49fefe8df5ffce635"
+        },
+        "49811": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8251058258925210124",
+                    "size": "0",
+                    "download": "0"
+                },
+                "autobuild": {
+                    "gid": "8251058258925210124",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "82120d6352685997a14355b575ccad303d3f307fd5eea434e9a7d180bea887da"
+        },
+        "1035170": {
+            "manifests": {
+                "public": {
+                    "gid": "7307917588086952978",
+                    "size": "30056862",
+                    "download": "27136944"
+                },
+                "autobuild": {
+                    "gid": "7307917588086952978",
+                    "size": "30056862",
+                    "download": "27136944"
+                }
+            },
+            "dlcappid": "1035170",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3565414",
+                "timeupdated": "1550248228"
+            },
+            "autobuild": {
+                "buildid": "3565414",
+                "timeupdated": "1550248201"
+            }
+        }
+    }
+}
