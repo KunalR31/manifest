@@ -1,0 +1,82 @@
+{
+    "appid": "364260",
+    "type": "Game",
+    "name": "Warlock's Citadel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 07:51:07",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "364261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8705435550023866734",
+                    "size": "45716433",
+                    "download": "40974400"
+                },
+                "beta": {
+                    "gid": "8705435550023866734",
+                    "size": "45716433",
+                    "download": "40974400"
+                }
+            },
+            "decryptionkey": "57a3e199efabc0a83623c96fc25a5b5da65ad8dec6bb7f3f698edd13261f33a8"
+        },
+        "364262": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5652110459549714879",
+                    "size": "57080899",
+                    "download": "42615216"
+                },
+                "beta": {
+                    "gid": "5652110459549714879",
+                    "size": "57080899",
+                    "download": "42615216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "364263": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7087526157399050353",
+                    "size": "48063676",
+                    "download": "41336256"
+                },
+                "beta": {
+                    "gid": "7087526157399050353",
+                    "size": "48063676",
+                    "download": "41336256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "872977"
+            },
+            "beta": {
+                "buildid": "872977",
+                "description": "Public beta version branch"
+            }
+        }
+    }
+}
