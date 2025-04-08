@@ -1,0 +1,101 @@
+{
+    "appid": "240720",
+    "type": "Game",
+    "name": "Getting Over It with Bennett Foddy",
+    "schinese_name": "掘地求升 - 和班尼特福迪一起攻克难关",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:56",
+    "depot": {
+        "overridescddb": "1",
+        "240721": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8929663181184642541",
+                    "size": "1393495247",
+                    "download": "644705280"
+                },
+                "1.5861": {
+                    "gid": "6950145783972047979",
+                    "size": "1239286920",
+                    "download": "599882288"
+                },
+                "1.60": {
+                    "gid": "5680341712344300256",
+                    "size": "1394151450",
+                    "download": "644732544"
+                }
+            },
+            "decryptionkey": "26cb0de1a261ee24d21cc199cf58d4ba96331466baf68b3155f5a55225d0a6a7"
+        },
+        "240722": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1716515886269963434",
+                    "size": "1460542331",
+                    "download": "668432192"
+                },
+                "1.5861": {
+                    "gid": "458668140879301113",
+                    "size": "1283636826",
+                    "download": "617785568"
+                },
+                "1.60": {
+                    "gid": "6861827318584453292",
+                    "size": "1618698684",
+                    "download": "689463856"
+                }
+            },
+            "decryptionkey": "29a183e07b53567c7d4e36894b523d04d6695974189e600b19fbd6c468828629"
+        },
+        "240723": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8254469859624679693",
+                    "size": "2433588220",
+                    "download": "908768320"
+                },
+                "1.5861": {
+                    "gid": "2030367689934335771",
+                    "size": "1160519166",
+                    "download": "591116512"
+                },
+                "1.60": {
+                    "gid": "3290832462060823870",
+                    "size": "2435381564",
+                    "download": "909043616"
+                }
+            },
+            "decryptionkey": "7d8e6ea831140701984bf2769dae4982fbe04845b3bb3e7bc78192e046892118"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8111718",
+                "timeupdated": "1643492170"
+            },
+            "1.5861": {
+                "buildid": "3026543",
+                "description": "older build 1.5861",
+                "timeupdated": "1553551611"
+            },
+            "1.60": {
+                "buildid": "6712022",
+                "description": "older build 1.60",
+                "timeupdated": "1641483363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
