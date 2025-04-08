@@ -1,0 +1,77 @@
+{
+    "appid": "958320",
+    "type": "Game",
+    "name": "A Front Too Far: Normandy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28100501",
+    "update_time": "2025-03-24 08:19:19",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,dutch,turkish",
+        "hasdepotsindlc": "1",
+        "958321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "898801593780429731",
+                    "size": "718667282",
+                    "download": "311746992"
+                },
+                "beta": {
+                    "gid": "995924942992742173",
+                    "size": "725018378",
+                    "download": "313737088"
+                }
+            },
+            "decryptionkey": "3d151bc31b12ee0c5544cb9bc59d8de4e162e093beeceba520c80804dff36fea"
+        },
+        "958322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3705192236362052489",
+                    "size": "739224253",
+                    "download": "325719536"
+                },
+                "beta": {
+                    "gid": "6435896882986354262",
+                    "size": "739221541",
+                    "download": "325718096"
+                }
+            },
+            "decryptionkey": "53501b99e2a92a32f2b0e2221dad36a6645815ea999065b4bee3aab6a19f6613"
+        },
+        "958323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2436886958119255325",
+                    "size": "795783754",
+                    "download": "351562832"
+                },
+                "beta": {
+                    "gid": "4096071352068138404",
+                    "size": "795781042",
+                    "download": "351561616"
+                }
+            },
+            "decryptionkey": "fe8fb9c66b6aafeb40c4a184d2bbfc70e98361862d1306167f0f14b5a07cfcf9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3771333",
+                "timeupdated": "1556272168"
+            },
+            "beta": {
+                "buildid": "3486637",
+                "timeupdated": "1548061231"
+            }
+        }
+    }
+}
