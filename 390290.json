@@ -1,0 +1,118 @@
+{
+    "appid": "390290",
+    "type": "Game",
+    "name": "Bulb Boy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26834026",
+    "update_time": "2025-01-02 03:22:17",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "390291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4922513375895190768",
+                    "size": "2451145315",
+                    "download": "327649504"
+                },
+                "testing": {
+                    "gid": "8390776046387580389",
+                    "size": "2451232983",
+                    "download": "327680592"
+                }
+            },
+            "decryptionkey": "269aa609b6e5be73834b2b03ef666f3fb1b9622cf0591e1bbde0066e27713a59"
+        },
+        "390292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8977003833023196802",
+                    "size": "2490542677",
+                    "download": "338209504"
+                },
+                "testing": {
+                    "gid": "5192711927128216795",
+                    "size": "2492144289",
+                    "download": "338887360"
+                }
+            },
+            "decryptionkey": "e4d51b308206bcb633e6264794ab0d4ef46730eb40a75eb34fc51ca4f6b74faa"
+        },
+        "390293": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8266890116633670622",
+                    "size": "2446660942",
+                    "download": "326363488"
+                },
+                "testing": {
+                    "gid": "7625614469391279741",
+                    "size": "2446675955",
+                    "download": "326384416"
+                }
+            },
+            "decryptionkey": "12317e119a0f7589bfbf6f6bdd9356efa1e19b463f4ba86730af1239eaf33ded"
+        },
+        "390294": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9171134746764816181",
+                    "size": "2485348307",
+                    "download": "337614304"
+                },
+                "testing": {
+                    "gid": "3233057283742468804",
+                    "size": "2485416729",
+                    "download": "337639856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "497010": {
+            "dlcappid": "497010",
+            "manifests": {
+                "public": {
+                    "gid": "5699144046815823513",
+                    "size": "250373558",
+                    "download": "251300336"
+                },
+                "testing": {
+                    "gid": "5699144046815823513",
+                    "size": "250373558",
+                    "download": "251300336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1206433",
+                "timeupdated": "1468506971"
+            },
+            "testing": {
+                "buildid": "1312671",
+                "timeupdated": "1472736489"
+            }
+        }
+    }
+}
