@@ -1,0 +1,52 @@
+{
+    "appid": "715560",
+    "type": "Game",
+    "name": "Eastshade",
+    "schinese_name": "东方之茵",
+    "isfreeapp": "0",
+    "change_number": "26560221",
+    "update_time": "2024-12-10 00:09:47",
+    "depot": {
+        "baselanguages": "english,german,french,schinese,russian",
+        "715561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8837193572280458042",
+                    "size": "2028400426",
+                    "download": "1016109008"
+                },
+                "1.20": {
+                    "gid": "5850836216099907340",
+                    "size": "2007518274",
+                    "download": "1016405840"
+                }
+            },
+            "decryptionkey": "d0102657137d591fdf2e38f01fb3c499a899af9f2ab3227f0cb0ef522930e810"
+        },
+        "715562": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "715563": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11566145",
+                "timeupdated": "1687845856"
+            },
+            "1.20": {
+                "buildid": "3779834",
+                "description": "last version before glass shader update",
+                "timeupdated": "1706821735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
