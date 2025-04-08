@@ -1,0 +1,74 @@
+{
+    "appid": "422860",
+    "type": "Game",
+    "name": "Holodance",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25588630",
+    "update_time": "2024-10-08 22:54:13",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "422861": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8235940677080788820",
+                    "size": "8249443771",
+                    "download": "2927979424"
+                },
+                "alphadev": {
+                    "gid": "8235940677080788820",
+                    "size": "8249443771",
+                    "download": "2927979424"
+                },
+                "beta": {
+                    "gid": "8235940677080788820",
+                    "size": "8249443771",
+                    "download": "2927979424"
+                },
+                "prevbeta": {
+                    "gid": "5138728452017275634",
+                    "size": "8129467489",
+                    "download": "2903474752"
+                },
+                "previous": {
+                    "gid": "646614050918362276",
+                    "size": "8106721013",
+                    "download": "2904253184"
+                }
+            },
+            "decryptionkey": "14b48ace4adc356204e3847ed692d28ad319af12f31fdecda407a897f2a29f2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15405590",
+                "timeupdated": "1724000547"
+            },
+            "alphadev": {
+                "buildid": "15405590",
+                "description": "alphadev: We test on this one. You can, too!",
+                "timeupdated": "1723905845"
+            },
+            "beta": {
+                "buildid": "15405590",
+                "description": "beta: Testing on this is fairly safe.",
+                "timeupdated": "1723905914"
+            },
+            "prevbeta": {
+                "buildid": "6089277",
+                "description": "prevbeta: The previous beta.",
+                "timeupdated": "1723905896"
+            },
+            "previous": {
+                "buildid": "5929171",
+                "description": "previous: Last default, as emergency fallback.",
+                "timeupdated": "1723905876"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
