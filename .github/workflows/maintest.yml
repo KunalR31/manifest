@@ -7,53 +7,69 @@ jobs:
   process-branches:
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 100
       matrix:
-        job_index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        job_index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
+                    10,11,12,13,14,15,16,17,18,19,
+                    20,21,22,23,24,25,26,27,28,29,
+                    30,31,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,48,49,
+                    50,51,52,53,54,55,56,57,58,59,
+                    60,61,62,63,64,65,66,67,68,69,
+                    70,71,72,73,74,75,76,77,78,79,
+                    80,81,82,83,84,85,86,87,88,89,
+                    90,91,92,93,94,95,96,97,98,99]
 
     steps:
-      - name: Set up Git
+      - name: Setup Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Process branches
+      - name: Process branch subset
         run: |
+          set -euo pipefail
+
           SOURCE_REPO="https://github.com/SteamAutoCracks/ManifestHub.git"
           TARGET_REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
           TOTAL_BRANCHES=40000
-          JOB_COUNT=15
+          JOB_COUNT=100
           JOB_INDEX=${{ matrix.job_index }}
           BRANCHES_PER_JOB=$((TOTAL_BRANCHES / JOB_COUNT))
           START=$((JOB_INDEX * BRANCHES_PER_JOB))
           END=$((START + BRANCHES_PER_JOB - 1))
 
-          echo "Fetching remote branches..."
+          echo "Job $JOB_INDEX processing branches $START to $END"
+
+          echo "Fetching branch list..."
           branches=$(git ls-remote --heads "$SOURCE_REPO" | awk '{print $2}' | sed 's|refs/heads/||' | grep -v '^main$' | sed -n "$((START+1)),$((END+1))p")
 
           for branch in $branches; do
+            echo "-----------------------------"
             echo "Processing branch: $branch"
+            echo "-----------------------------"
 
             workdir=$(mktemp -d)
             pushd "$workdir" > /dev/null
 
-            git init
+            if ! git init; then echo "::warning:: Failed to init repo for $branch"; popd > /dev/null; rm -rf "$workdir"; continue; fi
             git remote add source "$SOURCE_REPO"
-            git fetch source "$branch"
-            git checkout FETCH_HEAD
 
-            # Remove .git to erase history
+            if ! git fetch source "$branch"; then echo "::warning:: Failed to fetch branch $branch"; popd > /dev/null; rm -rf "$workdir"; continue; fi
+            if ! git checkout FETCH_HEAD; then echo "::warning:: Failed to checkout branch $branch"; popd > /dev/null; rm -rf "$workdir"; continue; fi
+
             rm -rf .git
 
             git init
-            git config user.name "GitHub Actions"
+            git config user.name "MANGO UNLOCKER"
             git config user.email "actions@github.com"
             git add .
-            git commit -m "Commit by GitHub Actions"
+            git commit -m "discord.gg/steamden"
 
             git remote add origin "$TARGET_REPO"
             git branch -M "$branch"
-            git push origin "$branch" --force
+            if ! git push origin "$branch" --force; then echo "::warning:: Failed to push branch $branch"; fi
 
             popd > /dev/null
             rm -rf "$workdir"
