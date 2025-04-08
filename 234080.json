@@ -1,0 +1,49 @@
+{
+    "appid": "234080",
+    "type": "Game",
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "schinese_name": "恶魔城：暗影之王终极版",
+    "isfreeapp": "0",
+    "change_number": "27761777",
+    "update_time": "2025-03-04 05:22:17",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "234082": {},
+        "234081": {
+            "manifests": {
+                "public": {
+                    "gid": "5017088970159247252",
+                    "size": "15948229993",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ab40bf1e8f8f4e355c8bae5308935e25aab33dfa288481d8daa4a10db80794e1"
+        },
+        "234083": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1410852896033128696",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b87b6f66b1adb93c834b430768ddf9b1cf1457edf63f2a6235366c28cbcc711f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "109689"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
