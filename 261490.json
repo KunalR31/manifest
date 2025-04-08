@@ -1,0 +1,51 @@
+{
+    "appid": "261490",
+    "type": "Game",
+    "name": "Bedlam",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 13:23:35",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261493": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1563201318503053709",
+                    "size": "4945131545",
+                    "download": "1601669888"
+                }
+            },
+            "decryptionkey": "6e7dcbf878a9bbf4cd5a2f6a6cb783533b3b1554ab66812102f71729ac77a296"
+        },
+        "261494": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3633545108541900796",
+                    "size": "4942112076",
+                    "download": "1602215504"
+                }
+            },
+            "decryptionkey": "98d1e703976e63bb16bf52c72eaafc316ebe9184272856e33d8ab3cc7cd89ee4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "843110"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
