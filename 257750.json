@@ -1,0 +1,99 @@
+{
+    "appid": "257750",
+    "type": "Game",
+    "name": "Bloody Trapland",
+    "schinese_name": "血腥陷阱大地",
+    "isfreeapp": "0",
+    "change_number": "25059408",
+    "update_time": "2024-09-03 23:12:18",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "1",
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6561146280530465957",
+                    "size": "404091407",
+                    "download": "77135312"
+                },
+                "beta": {
+                    "gid": "6561146280530465957",
+                    "size": "404091407",
+                    "download": "77135312"
+                }
+            },
+            "decryptionkey": "2c5e8e48e8e8091ae9498d34b580fd9aae140f059deb02232ff0b19bbcdfd014"
+        },
+        "257752": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "257753": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7487998119381530991",
+                    "size": "32994635",
+                    "download": "284163492150"
+                },
+                "beta": {
+                    "gid": "7487998119381530991",
+                    "size": "32994635",
+                    "download": "284163492150"
+                }
+            },
+            "decryptionkey": "98f30eb56bfe5c89e9b17bb69a1a2fbd1ea9e4e8a46bbe007610aad588e101c7"
+        },
+        "899330": {
+            "dlcappid": "899330"
+        },
+        "257754": {
+            "dlcappid": "899330",
+            "manifests": {
+                "public": {
+                    "gid": "4431356783837699111",
+                    "size": "267537181",
+                    "download": "221645472"
+                },
+                "beta": {
+                    "gid": "4431356783837699111",
+                    "size": "267537181",
+                    "download": "221645472"
+                }
+            },
+            "decryptionkey": "7bbf0078fbc3708d4b74274da03a32ae57e8d51463cc4a666264eca515ef00ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3043700",
+                "timeupdated": "1534590324"
+            },
+            "beta": {
+                "buildid": "3043700",
+                "timeupdated": "1534590099"
+            }
+        }
+    }
+}
