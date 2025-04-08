@@ -1,0 +1,113 @@
+{
+    "appid": "342620",
+    "type": "Game",
+    "name": "It came from space and ate our brains",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27776824",
+    "update_time": "2025-03-04 23:22:01",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "342621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7918030782125534988",
+                    "size": "1131681073",
+                    "download": "556385360"
+                },
+                "beta": {
+                    "gid": "7918030782125534988",
+                    "size": "1131681073",
+                    "download": "556385360"
+                },
+                "classic": {
+                    "gid": "2829665115338447063",
+                    "size": "326190390",
+                    "download": "101301136"
+                }
+            },
+            "decryptionkey": "4ad93afb49a071fec87a1a8f99b2258ee667a6beb0771f28cd728e86f61ae4c6"
+        },
+        "342623": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8718732943605128366",
+                    "size": "1176324430",
+                    "download": "548084896"
+                },
+                "beta": {
+                    "gid": "7150944589517899340",
+                    "size": "1195713166",
+                    "download": "567513600"
+                },
+                "classic": {
+                    "gid": "6775987371964255739",
+                    "size": "330034438",
+                    "download": "102352880"
+                }
+            },
+            "decryptionkey": "0d74a90b1eb963fd43090e07db4fc940861be471f2a664099437c08275231ca1"
+        },
+        "342622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7932311735168254306",
+                    "size": "350862837",
+                    "download": "108423680"
+                },
+                "beta": {
+                    "gid": "7932311735168254306",
+                    "size": "350862837",
+                    "download": "108423680"
+                },
+                "classic": {
+                    "gid": "7932311735168254306",
+                    "size": "350862837",
+                    "download": "108423680"
+                }
+            },
+            "decryptionkey": "72a84c1eb5a8d7aa6531a91f32daa157d1d77b4fb0b363364e22124184f6f415"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6123838",
+                "timeupdated": "1611332802"
+            },
+            "beta": {
+                "buildid": "6087627",
+                "description": "Public beta branch",
+                "timeupdated": "1610964190"
+            },
+            "classic": {
+                "buildid": "911519",
+                "description": "Original version of the game",
+                "timeupdated": "1579525716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
