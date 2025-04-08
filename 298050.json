@@ -1,0 +1,196 @@
+{
+    "appid": "298050",
+    "type": "Game",
+    "name": "Master of Orion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27117929",
+    "update_time": "2025-01-23 03:26:02",
+    "depot": {
+        "workshopdepot": "298050",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "298051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "923858947576026962",
+                    "size": "6659549733",
+                    "download": "2725014896"
+                },
+                "launch": {
+                    "gid": "4799681089201202048",
+                    "size": "7190287587",
+                    "download": "2784782336"
+                },
+                "version51": {
+                    "gid": "3134093078918188858",
+                    "size": "5612323594",
+                    "download": "2292365168"
+                },
+                "version54.11": {
+                    "gid": "4917281881761048084",
+                    "size": "6658515224",
+                    "download": "2724526736"
+                }
+            },
+            "decryptionkey": "621aaf910c0593b0ba238a2d44f485ad455788f6d678dbb73e2559a555e27987"
+        },
+        "298052": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "690811508945347497",
+                    "size": "0",
+                    "download": "0"
+                },
+                "launch": {
+                    "gid": "690811508945347497",
+                    "size": "0",
+                    "download": "0"
+                },
+                "version51": {
+                    "gid": "690811508945347497",
+                    "size": "0",
+                    "download": "0"
+                },
+                "version54.11": {
+                    "gid": "690811508945347497",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "298053": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4377604795835962036",
+                    "size": "6810484434",
+                    "download": "2764193216"
+                },
+                "launch": {
+                    "gid": "1434673752418576637",
+                    "size": "7339540624",
+                    "download": "2823867200"
+                },
+                "version51": {
+                    "gid": "4739037804356548080",
+                    "size": "5763895351",
+                    "download": "2332082688"
+                },
+                "version54.11": {
+                    "gid": "4893302364857228394",
+                    "size": "6809187245",
+                    "download": "2763672672"
+                }
+            },
+            "decryptionkey": "4cc655439ad64a12e1561aa282f7009b9c5649d9add45c038e1ea44382e25c5c"
+        },
+        "298054": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3399211004200547812",
+                    "size": "6634542940",
+                    "download": "2726116480"
+                },
+                "launch": {
+                    "gid": "5382891432926236907",
+                    "size": "7166955933",
+                    "download": "2785176592"
+                },
+                "version51": {
+                    "gid": "4366495866794165311",
+                    "size": "5589667888",
+                    "download": "2293106064"
+                },
+                "version54.11": {
+                    "gid": "2246483259568711482",
+                    "size": "6632455942",
+                    "download": "2724835632"
+                }
+            },
+            "decryptionkey": "ab7012cee84703c4e1208735ea36cc4ab6ff822cee555de511c661ea92cb64c9"
+        },
+        "498200": {
+            "dlcappid": "498200",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2172820373015970650",
+                    "size": "1215468526",
+                    "download": "1014713952"
+                },
+                "launch": {
+                    "gid": "2172820373015970650",
+                    "size": "1215468526",
+                    "download": "1014713952"
+                },
+                "version51": {
+                    "gid": "2172820373015970650",
+                    "size": "1215468526",
+                    "download": "1014713952"
+                },
+                "version54.11": {
+                    "gid": "2172820373015970650",
+                    "size": "1215468526",
+                    "download": "1014713952"
+                }
+            },
+            "decryptionkey": "79620f58404523b065b1c38bce0290d2481fcd417624ff20cda5b7fec9055520"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4762723",
+                "timeupdated": "1584021728"
+            },
+            "launch": {
+                "buildid": "1353309",
+                "description": "Official Launch",
+                "timeupdated": "1478713802"
+            },
+            "version51": {
+                "buildid": "1453840",
+                "description": "Pollution and Gravity Update",
+                "timeupdated": "1480431052"
+            },
+            "version54.11": {
+                "buildid": "1627905",
+                "description": "Revenge of Antares",
+                "timeupdated": "1492102258"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "05b945545f6480ca191c5f1d7913ae740c0d897f5dd2b357272ce61e79daef79"
+    }
+}
