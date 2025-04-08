@@ -1,0 +1,89 @@
+{
+    "appid": "348460",
+    "type": "Game",
+    "name": "Bierzerkers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27941242",
+    "update_time": "2025-03-14 03:22:40",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "348461": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7243159530122116668",
+                    "size": "6442311514",
+                    "download": "825466128"
+                },
+                "local": {
+                    "gid": "5035757589147013541",
+                    "size": "3571601220",
+                    "download": "870736544"
+                }
+            },
+            "decryptionkey": "ebb535a3ec7a2de1002d3564af36087d86c363784d9e7ce7ee8d9d0a207a1ea7"
+        },
+        "348462": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2308169507307775246",
+                    "size": "2944435378",
+                    "download": "701442800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "404120": {
+            "dlcappid": "404120"
+        },
+        "348463": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "1759490",
+                "timeupdated": "1492219190"
+            },
+            "local": {
+                "buildid": "1662100",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1488319612"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
