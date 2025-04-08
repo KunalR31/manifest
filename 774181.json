@@ -1,0 +1,99 @@
+{
+    "appid": "774181",
+    "type": "Game",
+    "name": "Rhythm Doctor",
+    "schinese_name": "Rhythm Doctor 节奏医生",
+    "isfreeapp": "0",
+    "change_number": "28323844",
+    "update_time": "2025-04-05 21:43:42",
+    "depot": {
+        "workshopdepot": "774181",
+        "774182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5225994281982727101",
+                    "size": "1093631378",
+                    "download": "373141680"
+                },
+                "beta": {
+                    "gid": "4063226810717116291",
+                    "size": "1091345610",
+                    "download": "372498448"
+                }
+            },
+            "decryptionkey": "76d37d204d148b56554e8f8de5fba461e96eb4206c11c67aaf4fce8327ddd0a9"
+        },
+        "774185": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5694766510151104123",
+                    "size": "1104864566",
+                    "download": "375550048"
+                },
+                "beta": {
+                    "gid": "926262663945776561",
+                    "size": "1102376138",
+                    "download": "374948848"
+                }
+            },
+            "decryptionkey": "106fec9539cb2a9532e537df1fda91b4297a1482dfc2799a4b79aa8df59a55d5"
+        },
+        "774183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3129364873473252045",
+                    "size": "1128645480",
+                    "download": "383173664"
+                },
+                "beta": {
+                    "gid": "1914754738650350925",
+                    "size": "1125892110",
+                    "download": "382436720"
+                }
+            },
+            "decryptionkey": "51118da8096080b0800e51f785e7b8812e81e340ad4f3e6caed07a39ff96ecab"
+        },
+        "774184": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "715518296505182071",
+                    "size": "1100317064",
+                    "download": "373772496"
+                },
+                "beta": {
+                    "gid": "2878964528895644048",
+                    "size": "1098712228",
+                    "download": "373235904"
+                }
+            },
+            "decryptionkey": "3ae0a202ba2e80ef7386acf3a1f9014a1bf2bec36d70f66349afb9495e030006"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16243416",
+                "timeupdated": "1730323879"
+            },
+            "beta": {
+                "buildid": "17314523",
+                "description": "public beta testing",
+                "timeupdated": "1739239404"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
