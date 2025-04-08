@@ -1,0 +1,87 @@
+{
+    "appid": "38720",
+    "type": "Game",
+    "name": "RUSH",
+    "schinese_name": "冲锋",
+    "isfreeapp": "0",
+    "change_number": "26035356",
+    "update_time": "2024-11-04 18:44:25",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,italian,dutch",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "38721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6310569386126047308",
+                    "size": "274809027",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4e9b49cb756500c94c30f84f5a3479e817b2082b94e7e64bb980fbcc9486a61b"
+        },
+        "38722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5224961914068267918",
+                    "size": "163226547",
+                    "download": "115964432"
+                }
+            },
+            "decryptionkey": "f3848497f29848c9cd12a87e1faf41a21be678b35bcdd3f978357cad2a33bfd6"
+        },
+        "38723": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7442307014536787324",
+                    "size": "169354914",
+                    "download": "117554896"
+                }
+            },
+            "decryptionkey": "e0717633dbf6bd0cd4e630b912a96bcd42bd63245f5803789dabb4fb4409a756"
+        },
+        "98012": {
+            "dlcappid": "98012",
+            "manifests": {
+                "public": {
+                    "gid": "802517688290875267",
+                    "size": "10691187",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5360252",
+                "timeupdated": "1596297178"
+            }
+        }
+    }
+}
