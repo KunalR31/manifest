@@ -1,0 +1,87 @@
+{
+    "appid": "219850",
+    "type": "Demo",
+    "name": "Torchlight II Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:26:10",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "200711": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "depotfromapp": "200710",
+            "sharedinstall": "2"
+        },
+        "200712": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4117268495188656245",
+                    "size": "40009256",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "51776e76bc3cc28f142f4b168b689710e5a3cc96ada5a8bcf7aff2127bb75b55"
+        },
+        "200714": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "depotfromapp": "200710",
+            "sharedinstall": "2"
+        },
+        "219851": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7867631990121530871",
+                    "size": "134709812",
+                    "download": "24813104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "200715": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "depotfromapp": "200710",
+            "sharedinstall": "2"
+        },
+        "219852": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9041051565522482853",
+                    "size": "152868886",
+                    "download": "25690464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "567971"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
