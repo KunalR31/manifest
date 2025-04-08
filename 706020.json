@@ -1,0 +1,88 @@
+{
+    "appid": "706020",
+    "type": "Game",
+    "name": "Fade to Silence",
+    "schinese_name": "归于寂静",
+    "isfreeapp": "0",
+    "change_number": "24673097",
+    "update_time": "2024-08-07 02:29:58",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "706021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "481049271136312167",
+                    "size": "11358376274",
+                    "download": "10996452736"
+                },
+                "experimental": {
+                    "gid": "481049271136312167",
+                    "size": "11358376274",
+                    "download": "10996452736"
+                }
+            },
+            "decryptionkey": "97d44e729bc2a30283cd9b6452e2ffdb712e3620cdd7a4a61b6e911431bf991f"
+        },
+        "706022": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "706023": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "706024": {},
+        "706025": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2376103032615806422",
+                    "size": "520473497",
+                    "download": "294094768"
+                },
+                "experimental": {
+                    "gid": "2376103032615806422",
+                    "size": "520473497",
+                    "download": "294094768"
+                }
+            },
+            "decryptionkey": "72b92dcd60e4fe3d5a44fb9698fbb91623e04efbaf7b3488f7a7fe0967ad7eee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3806947",
+                "timeupdated": "1557849871"
+            },
+            "experimental": {
+                "buildid": "3806947",
+                "timeupdated": "1557481006"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
