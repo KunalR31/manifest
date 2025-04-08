@@ -1,0 +1,94 @@
+{
+    "appid": "246420",
+    "type": "Game",
+    "name": "Kingdom Rush",
+    "schinese_name": "王国守卫战",
+    "isfreeapp": "0",
+    "change_number": "27533614",
+    "update_time": "2025-02-18 20:03:48",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "246421": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5872568085283434659",
+                    "size": "363629478",
+                    "download": "363565744"
+                },
+                "legacy": {
+                    "gid": "6284225790387315880",
+                    "size": "2092678351",
+                    "download": "351982080"
+                }
+            },
+            "decryptionkey": "5435d120412fea104e604ea151e16e439b95df2a769cbf660c51b53a0130d563"
+        },
+        "246422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7898178512458006891",
+                    "size": "369653127",
+                    "download": "365168704"
+                },
+                "legacy": {
+                    "gid": "4302677312551068996",
+                    "size": "2101445755",
+                    "download": "357774576"
+                }
+            },
+            "decryptionkey": "8eb92c910e8a3a140c96b16ac23fb2e370eccec64dbaf508bb3fe626273919db"
+        },
+        "246423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8765564732949348930",
+                    "size": "385108749",
+                    "download": "367994672"
+                },
+                "legacy": {
+                    "gid": "1303829312225660377",
+                    "size": "2099986877",
+                    "download": "359706288"
+                }
+            },
+            "decryptionkey": "5b7cccc9354c9e19700c2bad6a5ee8015edd1696af9da2fb737ad2ed72f12928"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7837359",
+                "timeupdated": "1639657469"
+            },
+            "legacy": {
+                "buildid": "1001293",
+                "description": "Legacy version (Unity)",
+                "timeupdated": "1580924513"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
