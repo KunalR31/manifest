@@ -1,0 +1,135 @@
+{
+    "appid": "1768280",
+    "type": "Game",
+    "name": "Ozymandias",
+    "schinese_name": "法老王：青铜帝国 Ozymandias",
+    "isfreeapp": "0",
+    "change_number": "27275755",
+    "update_time": "2025-02-02 17:34:05",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1768281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4582052251858057911",
+                    "size": "789315692",
+                    "download": "704655776"
+                },
+                "v1.1.x.x-multiplayer-compatibility": {
+                    "gid": "2335607718820043150",
+                    "size": "789362585",
+                    "download": "704723168"
+                },
+                "v1.2.x.x-multiplayer-compatibility": {
+                    "gid": "7654588033347055224",
+                    "size": "789378220",
+                    "download": "704734608"
+                },
+                "v1.3.x.x-multiplayer-compatibility": {
+                    "gid": "2920792778452429549",
+                    "size": "788119630",
+                    "download": "703589888"
+                },
+                "v1.4.x.x-multiplayer-compatibility": {
+                    "gid": "2136424021100218632",
+                    "size": "789318056",
+                    "download": "704647312"
+                },
+                "v1.5.x.x-multiplayer-compatibility": {
+                    "gid": "3720617926991723495",
+                    "size": "789315691",
+                    "download": "704648336"
+                }
+            },
+            "decryptionkey": "65311719320baaa218623ce4c897ea6ebe89a0031a33aff30e97a77305bf29ce"
+        },
+        "1768282": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "721096585714703730",
+                    "size": "838374262",
+                    "download": "687058912"
+                },
+                "v1.1.x.x-multiplayer-compatibility": {
+                    "gid": "2919832971251094603",
+                    "size": "837230274",
+                    "download": "686321440"
+                },
+                "v1.2.x.x-multiplayer-compatibility": {
+                    "gid": "6471072329313041922",
+                    "size": "836405359",
+                    "download": "685525440"
+                },
+                "v1.3.x.x-multiplayer-compatibility": {
+                    "gid": "3300280536815453018",
+                    "size": "835137264",
+                    "download": "684368176"
+                },
+                "v1.4.x.x-multiplayer-compatibility": {
+                    "gid": "8747231421455668444",
+                    "size": "836904515",
+                    "download": "685533568"
+                },
+                "v1.5.x.x-multiplayer-compatibility": {
+                    "gid": "513640783865960244",
+                    "size": "837311769",
+                    "download": "685942512"
+                }
+            },
+            "decryptionkey": "0a70958722cf06622ff0dcd532e66869924626ee2145f8350bc27ef4d1d7c4a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12581423",
+                "timeupdated": "1699840737"
+            },
+            "v1.1.x.x-multiplayer-compatibility": {
+                "buildid": "10108535",
+                "description": "Use this branch to play multiplayer games created with version 1.1.x.x\t",
+                "timeupdated": "1673981437"
+            },
+            "v1.2.x.x-multiplayer-compatibility": {
+                "buildid": "10605261",
+                "description": "Use this branch to play multiplayer games created with version 1.2.x.x",
+                "timeupdated": "1677104110"
+            },
+            "v1.3.x.x-multiplayer-compatibility": {
+                "buildid": "10703273",
+                "description": "Use this branch to play multiplayer games created with version 1.3.x.x",
+                "timeupdated": "1682442798"
+            },
+            "v1.4.x.x-multiplayer-compatibility": {
+                "buildid": "11263515",
+                "description": "Use this branch to play multiplayer games created with version 1.4.x.x",
+                "timeupdated": "1686748664"
+            },
+            "v1.5.x.x-multiplayer-compatibility": {
+                "buildid": "11448020",
+                "description": "Use this branch to play multiplayer games created with version 1.5.x.x",
+                "timeupdated": "1692230014"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
