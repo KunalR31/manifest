@@ -1,0 +1,72 @@
+{
+    "appid": "264730",
+    "type": "Game",
+    "name": "Deadly 30",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23890815",
+    "update_time": "2024-06-09 10:39:05",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "264731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9159027761734010208",
+                    "size": "30465630",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "afbd9481f6dd17aaf6d50138818f795a9ae10b0868f2b1a6c697f2b5e4ce993c"
+        },
+        "264732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4192011811176738191",
+                    "size": "84818764",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "637a949393ca87345eb31852c975776b34df4f1217f96650b013bb11e119f225"
+        },
+        "264733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4423521626380721008",
+                    "size": "35732854",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8c58123c3a08cdffaf6c16a2c308c7f1ebea8f393ec897a87d7758ba468d1268"
+        },
+        "branches": {
+            "public": {
+                "buildid": "175940"
+            }
+        }
+    }
+}
