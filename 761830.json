@@ -1,0 +1,78 @@
+{
+    "appid": "761830",
+    "type": "Game",
+    "name": "Mr. Prepper",
+    "schinese_name": "末日准备狂",
+    "isfreeapp": "0",
+    "change_number": "28344498",
+    "update_time": "2025-04-07 19:23:10",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "761831": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7480009910822341415",
+                    "size": "5747289166",
+                    "download": "2050954912"
+                },
+                "legacy": {
+                    "gid": "1205062465444635491",
+                    "size": "3956749976",
+                    "download": "1539550768"
+                },
+                "legacy_old_engine": {
+                    "gid": "9075190753984427366",
+                    "size": "3942886740",
+                    "download": "1546909776"
+                },
+                "experimental": {
+                    "gid": "1462816144506374278",
+                    "size": "5409914538",
+                    "download": "1940583520"
+                }
+            },
+            "decryptionkey": "46eeb5fdced56fe223ab7a3ee5efbf1cfc9f81ab82d1285f0fe38b1ccb2daf6c"
+        },
+        "761832": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4953428177395180989",
+                    "size": "5420723281",
+                    "download": "1938172032"
+                }
+            },
+            "decryptionkey": "77abf0e1403cf75ac402c4a621736b0a475028a83ac1b8b94dcac5b2d97d8232"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16144364",
+                "timeupdated": "1729646966"
+            },
+            "legacy": {
+                "buildid": "6702988",
+                "description": "legacy game branch",
+                "timeupdated": "1624329343"
+            },
+            "legacy_old_engine": {
+                "buildid": "6521368",
+                "description": "old engine legacy branch",
+                "timeupdated": "1618245818"
+            },
+            "experimental": {
+                "buildid": "15104997",
+                "description": "experimental game branch",
+                "timeupdated": "1721578809"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
