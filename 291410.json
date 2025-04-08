@@ -1,0 +1,83 @@
+{
+    "appid": "291410",
+    "type": "Game",
+    "name": "Duelyst",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27169534",
+    "update_time": "2025-01-26 14:26:10",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "291411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7197984500439233014",
+                    "size": "633514822",
+                    "download": "465305280"
+                }
+            },
+            "decryptionkey": "1c370446ba0ed891461b6cfe2263dff7fb1937924e04df4f894fc178f043a9bd"
+        },
+        "291412": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4272977352097954871",
+                    "size": "618233362",
+                    "download": "457050592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "291413": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9014420073209103790",
+                    "size": "604717102",
+                    "download": "458235040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2837095",
+                "timeupdated": "1528322469"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
