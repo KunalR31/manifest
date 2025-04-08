@@ -1,0 +1,56 @@
+{
+    "appid": "917950",
+    "type": "Game",
+    "name": "Vellum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28340111",
+    "update_time": "2025-04-07 14:08:42",
+    "depot": {
+        "917951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6432775823821442828",
+                    "size": "3274171799",
+                    "download": "1500011552"
+                },
+                "crashtester": {
+                    "gid": "7215888268680806236",
+                    "size": "1358540694",
+                    "download": "724523520"
+                },
+                "testing": {
+                    "gid": "1777002462371444430",
+                    "size": "3893377802",
+                    "download": "1710225168"
+                }
+            },
+            "decryptionkey": "782dc04cd840b972d5f38b24f8e6190b7935018e7dfee5516cbe431927c12af0"
+        },
+        "917952": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17522155",
+                "timeupdated": "1740617665"
+            },
+            "crashtester": {
+                "buildid": "14017917",
+                "description": "Used for specific debugging",
+                "timeupdated": "1712808607"
+            },
+            "testing": {
+                "buildid": "18007326",
+                "description": "Current testing branch",
+                "timeupdated": "1744006118"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
