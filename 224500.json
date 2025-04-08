@@ -1,0 +1,95 @@
+{
+    "appid": "224500",
+    "type": "Game",
+    "name": "Gnomoria",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26246608",
+    "update_time": "2024-11-18 23:25:42",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "224501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1783052962293932349",
+                    "size": "191008722",
+                    "download": "177145840"
+                },
+                "indev": {
+                    "gid": "1783052962293932349",
+                    "size": "191008722",
+                    "download": "177145840"
+                }
+            },
+            "decryptionkey": "5b708f35582b8e2b8f3a0c03f711c0bd30f503062c31a1a3745ecf4bd9e628fb"
+        },
+        "224502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1449715813554941292",
+                    "size": "222383974",
+                    "download": "178458240"
+                },
+                "indev": {
+                    "gid": "1449715813554941292",
+                    "size": "222383974",
+                    "download": "178458240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "224503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4196774202470249197",
+                    "size": "210108938",
+                    "download": "174910368"
+                },
+                "indev": {
+                    "gid": "4196774202470249197",
+                    "size": "210108938",
+                    "download": "174910368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "224500",
+        "branches": {
+            "public": {
+                "buildid": "4058623",
+                "timeupdated": "1564503722"
+            },
+            "indev": {
+                "buildid": "4058623",
+                "description": "Public test branch",
+                "timeupdated": "1564503729"
+            }
+        },
+        "workshopdepotdecryptionkey": "d6a05add2c1cf43a614c9a5ec28df8a9c4d67c422b8f23d10d4a6997fcd91a94"
+    }
+}
