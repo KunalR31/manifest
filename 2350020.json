@@ -1,0 +1,66 @@
+{
+    "appid": "2350020",
+    "type": "Game",
+    "name": "Start Over",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27996626",
+    "update_time": "2025-03-17 23:12:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2350021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1274542154653462882",
+                    "size": "18051991627",
+                    "download": "17476954096"
+                },
+                "legacy": {
+                    "gid": "4319022772045150637",
+                    "size": "40577209011",
+                    "download": "38270222816"
+                },
+                "old_save_system": {
+                    "gid": "3861340373459456509",
+                    "size": "18051991579",
+                    "download": "17476971536"
+                }
+            },
+            "decryptionkey": "179ddff63691fe5ea7d4edecb2212eb273d67f773d3e33c9e84fdeed3bd2157a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15878341",
+                "timeupdated": "1727715979"
+            },
+            "legacy": {
+                "buildid": "13548196",
+                "description": "An older version of the game",
+                "timeupdated": "1727367773"
+            },
+            "old_save_system": {
+                "buildid": "15851453",
+                "description": "for the people that want to play in their old save",
+                "timeupdated": "1727446649"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
