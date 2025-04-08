@@ -1,0 +1,59 @@
+{
+    "appid": "587430",
+    "type": "Game",
+    "name": "I Expect You To Die",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25167321",
+    "update_time": "2024-09-11 11:07:18",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "587431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5938002367866234945",
+                    "size": "2302396241",
+                    "download": "600944096"
+                },
+                "compatibility": {
+                    "gid": "8925413108101352429",
+                    "size": "2183910063",
+                    "download": "574559712"
+                },
+                "oldindexbuild": {
+                    "gid": "3760861078918074415",
+                    "size": "2164109934",
+                    "download": "570082928"
+                }
+            },
+            "decryptionkey": "eeda000e949e2a0be67b4c7e0fc40947a07bc2221b850d5bce357667ee8089e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7475461",
+                "timeupdated": "1636654486"
+            },
+            "compatibility": {
+                "buildid": "5945734",
+                "description": "improved compatibility for some configurations",
+                "timeupdated": "1607564325"
+            },
+            "oldindexbuild": {
+                "buildid": "4211987",
+                "description": "old style index controls",
+                "timeupdated": "1607953809"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
