@@ -1,0 +1,122 @@
+{
+    "appid": "218820",
+    "type": "Game",
+    "name": "Mercenary Kings",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27983848",
+    "update_time": "2025-03-17 04:21:42",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "baselanguages": "english,french",
+        "218821": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "621698610113857201",
+                    "size": "213986575",
+                    "download": "134210080"
+                },
+                "beta": {
+                    "gid": "621698610113857201",
+                    "size": "213986575",
+                    "download": "134210080"
+                },
+                "linux32": {
+                    "gid": "621698610113857201",
+                    "size": "213986575",
+                    "download": "134210080"
+                }
+            },
+            "decryptionkey": "43840656b6bed47fb05e092d959666c2209be91903dfd98e760769d9bc914429"
+        },
+        "218822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9040633698820373098",
+                    "size": "234185089",
+                    "download": "142365440"
+                },
+                "beta": {
+                    "gid": "9040633698820373098",
+                    "size": "234185089",
+                    "download": "142365440"
+                },
+                "linux32": {
+                    "gid": "2741665790559721775",
+                    "size": "219990380",
+                    "download": "138611072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "218823": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5041255923054087555",
+                    "size": "222495917",
+                    "download": "138668128"
+                },
+                "beta": {
+                    "gid": "5041255923054087555",
+                    "size": "222495917",
+                    "download": "138668128"
+                },
+                "linux32": {
+                    "gid": "6630492811153285300",
+                    "size": "249956754",
+                    "download": "146312256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029296",
+                "timeupdated": "1609456698"
+            },
+            "beta": {
+                "buildid": "6029296",
+                "description": "Beta",
+                "timeupdated": "1609456589"
+            },
+            "linux32": {
+                "buildid": "3377255",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609456571"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
