@@ -1,0 +1,83 @@
+{
+    "appid": "2187300",
+    "type": "Game",
+    "name": "Active Soccer 2023",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28313929",
+    "update_time": "2025-04-05 01:37:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2187301": {
+            "manifests": {
+                "public": {
+                    "gid": "4444392235103068994",
+                    "size": "2296409322",
+                    "download": "2126665104"
+                },
+                "patch3": {
+                    "gid": "7021837165139321845",
+                    "size": "2276522642",
+                    "download": "2091907632"
+                },
+                "patch4": {
+                    "gid": "2560841366150991763",
+                    "size": "2295635030",
+                    "download": "2122086752"
+                },
+                "patch5": {
+                    "gid": "4444392235103068994",
+                    "size": "2296409322",
+                    "download": "2126665104"
+                },
+                "patch6": {
+                    "gid": "3640781299302096629",
+                    "size": "2302888596",
+                    "download": "2132752144"
+                }
+            },
+            "decryptionkey": "ce8a07c2b9ff39e806eea3b6b6c90c35a021d76a8544131fea2731c09fe53172"
+        },
+        "baselanguages": "english,german,french,italian,spanish,dutch",
+        "branches": {
+            "public": {
+                "buildid": "14834345",
+                "timeupdated": "1719335648"
+            },
+            "patch3": {
+                "buildid": "11927950",
+                "description": "Patch #3 build",
+                "timeupdated": "1700926339"
+            },
+            "patch4": {
+                "buildid": "12753065",
+                "description": "Patch #4 build",
+                "timeupdated": "1718035861"
+            },
+            "patch5": {
+                "buildid": "14834345",
+                "description": "Patch #5 build",
+                "timeupdated": "1719335609"
+            },
+            "patch6": {
+                "buildid": "15162054",
+                "description": "Patch #6 build",
+                "timeupdated": "1721992895"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
