@@ -1,0 +1,80 @@
+{
+    "appid": "1285020",
+    "type": "Game",
+    "name": "Flipon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26545266",
+    "update_time": "2024-12-08 16:16:03",
+    "depot": {
+        "1285021": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "439580115417985632",
+                    "size": "189971209",
+                    "download": "122807024"
+                },
+                "stage": {
+                    "gid": "439580115417985632",
+                    "size": "189971209",
+                    "download": "122807024"
+                }
+            },
+            "decryptionkey": "cd7538b4e0ac91f8eadfa59ec384fc55dc42decf4498b8a3fbd8fc03507af36e"
+        },
+        "1285022": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6652691993352071921",
+                    "size": "192541472",
+                    "download": "124202832"
+                },
+                "stage": {
+                    "gid": "6652691993352071921",
+                    "size": "192541472",
+                    "download": "124202832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1285023": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3747446334308584321",
+                    "size": "245929883",
+                    "download": "128110992"
+                },
+                "stage": {
+                    "gid": "3747446334308584321",
+                    "size": "245929883",
+                    "download": "128110992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "11066069",
+                "timeupdated": "1682152423"
+            },
+            "stage": {
+                "buildid": "11066069",
+                "description": "Staging",
+                "timeupdated": "1682152414"
+            }
+        }
+    }
+}
