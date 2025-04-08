@@ -1,0 +1,77 @@
+{
+    "appid": "583270",
+    "type": "Game",
+    "name": "Cosmic Express",
+    "schinese_name": "宇宙快车",
+    "isfreeapp": "0",
+    "change_number": "27000963",
+    "update_time": "2025-01-15 12:15:18",
+    "depot": {
+        "583271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5413144616197613053",
+                    "size": "208120092",
+                    "download": "61288432"
+                },
+                "v1.0": {
+                    "gid": "5413144616197613053",
+                    "size": "208120092",
+                    "download": "61288432"
+                }
+            },
+            "decryptionkey": "3a222f85f5b0e34fbe0be891b9c6ae39ec2e2cdfec24fc1d4c9d21509998ec84"
+        },
+        "583272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "447393174861213990",
+                    "size": "256363423",
+                    "download": "73712624"
+                },
+                "v1.0": {
+                    "gid": "447393174861213990",
+                    "size": "256363423",
+                    "download": "73712624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "583273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7086465685385556408",
+                    "size": "249360791",
+                    "download": "73822224"
+                },
+                "v1.0": {
+                    "gid": "7086465685385556408",
+                    "size": "249360791",
+                    "download": "73822224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1735392",
+                "timeupdated": "1491342620"
+            },
+            "v1.0": {
+                "buildid": "1735392",
+                "description": "Older build, in case of incompatibility",
+                "timeupdated": "1631835211"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
