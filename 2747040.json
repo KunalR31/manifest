@@ -1,0 +1,55 @@
+{
+    "appid": "2747040",
+    "type": "Demo",
+    "name": "MycoRelic Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25114510",
+    "update_time": "2024-09-07 03:42:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2747041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8727424917061488050",
+                    "size": "613954036",
+                    "download": "393735568"
+                },
+                "development": {
+                    "gid": "4604073950442822242",
+                    "size": "539871341",
+                    "download": "401911424"
+                }
+            },
+            "decryptionkey": "10a9a5a830466b1332eceb0b036a719e3fce8fe98bf44a7e4145d5d652bbd355"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13650507",
+                "timeupdated": "1709680821"
+            },
+            "development": {
+                "buildid": "15095520",
+                "description": "Experimental branch",
+                "timeupdated": "1721435791"
+            }
+        }
+    }
+}
