@@ -1,0 +1,65 @@
+{
+    "appid": "585190",
+    "type": "Game",
+    "name": "A Gummy's Life",
+    "schinese_name": "黏性世界",
+    "isfreeapp": "0",
+    "change_number": "27022876",
+    "update_time": "2025-01-16 18:23:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "585191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7393167967293472076",
+                    "size": "1295536751",
+                    "download": "367840464"
+                }
+            },
+            "decryptionkey": "89e112651ccd2dba42337f26e4504db63b90c36131b5f74c4b80fb4c9305696b"
+        },
+        "585192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5180556955807972744",
+                    "size": "1324821077",
+                    "download": "360949824"
+                }
+            },
+            "decryptionkey": "337178b9eaca6b3ff40cf858b4c8d47ee5368867af7719de75934e412b23e4f8"
+        },
+        "585193": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4885996823400078325",
+                    "size": "1227731521",
+                    "download": "358264784"
+                }
+            },
+            "decryptionkey": "4fa20f8b32e60c1c5f967a416769add52cd3b7ddadc6406a03ee124ad948f9d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17024948",
+                "timeupdated": "1737023007"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
