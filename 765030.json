@@ -1,0 +1,119 @@
+{
+    "appid": "765030",
+    "type": "Game",
+    "name": "樱雪集～Yuyuko's Butterfly Dream",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28230288",
+    "update_time": "2025-03-31 22:50:31",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "765031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2508080701448531156",
+                    "size": "296388783",
+                    "download": "211388048"
+                },
+                "test": {
+                    "gid": "6787165571493937774",
+                    "size": "268504577",
+                    "download": "183232352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "765032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "628736194866711027",
+                    "size": "317136331",
+                    "download": "213408864"
+                },
+                "test": {
+                    "gid": "9194517039022177089",
+                    "size": "289252125",
+                    "download": "185252320"
+                }
+            },
+            "decryptionkey": "2a3cbdf4af0d7bec6f0feaf4e681c55fb6eb666af022308a0071354fe13d1eaa"
+        },
+        "765033": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2745499462206318194",
+                    "size": "380957542",
+                    "download": "215026448"
+                },
+                "test": {
+                    "gid": "7090872999295204617",
+                    "size": "349976346",
+                    "download": "187457104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "765034": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            }
+        },
+        "765035": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1419768412283858105",
+                    "size": "340361305",
+                    "download": "212283296"
+                },
+                "test": {
+                    "gid": "449311174883895059",
+                    "size": "312727590",
+                    "download": "184370736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1145760": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "1145760",
+            "manifests": {
+                "public": {
+                    "gid": "7170247870455712251",
+                    "size": "181692188",
+                    "download": "66078272"
+                }
+            },
+            "decryptionkey": "ecb6991e763e6c3d818fac27a152c77d26da028fd13f55ca4324334f9a545ce8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6852434",
+                "timeupdated": "1623407765"
+            },
+            "test": {
+                "buildid": "3760376",
+                "timeupdated": "1556015579"
+            }
+        }
+    }
+}
