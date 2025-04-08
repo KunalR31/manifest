@@ -1,0 +1,57 @@
+{
+    "appid": "222860",
+    "type": "Tool",
+    "name": "Left 4 Dead 2 Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27049302",
+    "update_time": "2025-01-18 05:05:01",
+    "depot": {
+        "222861": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4827977561765481436",
+                    "size": "9549160153",
+                    "download": "4643088992"
+                }
+            },
+            "decryptionkey": "1b12a0c0e444d2d7c4565b605dc90e2b321ff22974ba26e521cfec4903f29416"
+        },
+        "222862": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8960944863362722054",
+                    "size": "161485629",
+                    "download": "57306128"
+                }
+            },
+            "decryptionkey": "74972d6d723e24f3d579f035db53ac2f98a3a27d7c1b9446571dec933a9762d2"
+        },
+        "222863": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2405357637318523777",
+                    "size": "243403436",
+                    "download": "70712544"
+                }
+            },
+            "decryptionkey": "d26680c7e070340e0e05bc82a00de791d94d26a15206d86ecfeec97af600e842"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "17033453",
+                "timeupdated": "1737147896"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
