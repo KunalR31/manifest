@@ -1,0 +1,87 @@
+{
+    "appid": "546430",
+    "type": "Game",
+    "name": "Pathway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27288652",
+    "update_time": "2025-02-03 20:35:47",
+    "depot": {
+        "baselanguages": "english,german",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "546431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4493958282423529341",
+                    "size": "1018253682",
+                    "download": "513194224"
+                },
+                "preview": {
+                    "gid": "4612380480030506772",
+                    "size": "1032335800",
+                    "download": "523034096"
+                }
+            },
+            "decryptionkey": "397461bc1da197ece17435d52660a0d2ffd6369b0f50fccc5cbe30263b3d3e28"
+        },
+        "546432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1055957405384195784",
+                    "size": "1065329756",
+                    "download": "520681024"
+                },
+                "preview": {
+                    "gid": "6142206850829356988",
+                    "size": "1071974576",
+                    "download": "526943488"
+                }
+            },
+            "decryptionkey": "393cf1805124af882cd8ad906d097a39de85a0a9004e36554726f2baad80fa66"
+        },
+        "546433": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "773080397893289308",
+                    "size": "1023553410",
+                    "download": "515511408"
+                },
+                "preview": {
+                    "gid": "5157590612468993200",
+                    "size": "1030128574",
+                    "download": "521706304"
+                }
+            },
+            "decryptionkey": "d1f9ca635aa69148bb621ba502f0779364adbc4bd548839adc09f373a91128a8"
+        },
+        "workshopdepot": "546430",
+        "branches": {
+            "public": {
+                "buildid": "8082258",
+                "timeupdated": "1643297746"
+            },
+            "preview": {
+                "buildid": "17222667",
+                "description": "Preview Version",
+                "timeupdated": "1738586082"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a07ddd0c044689c6ed652a8a5cbd0c67c6267e9d96cc6aa40260a713babb1c6e"
+    }
+}
