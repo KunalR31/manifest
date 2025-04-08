@@ -1,0 +1,80 @@
+{
+    "appid": "476530",
+    "type": "Game",
+    "name": "Children of a Dead Earth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25502319",
+    "update_time": "2024-10-03 03:35:26",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "476531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8994427384156452018",
+                    "size": "157126400",
+                    "download": "112741088"
+                },
+                "test": {
+                    "gid": "3540630362283835083",
+                    "size": "169598757",
+                    "download": "115921408"
+                }
+            },
+            "decryptionkey": "5e775e1aceeee4027b801262f7978e02f6ac3f9552161b6bcf7c5df6794c59b8"
+        },
+        "476532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1424755431756078898",
+                    "size": "143219516",
+                    "download": "111424480"
+                },
+                "test": {
+                    "gid": "4280537492929877484",
+                    "size": "142577220",
+                    "download": "111281136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "476530",
+        "branches": {
+            "public": {
+                "buildid": "2945058",
+                "timeupdated": "1531529100"
+            },
+            "test": {
+                "buildid": "2390377",
+                "timeupdated": "1530470894"
+            }
+        },
+        "workshopdepotdecryptionkey": "dff4bb7e61f0fe2d6d8212b65c3171084f47894958157379ef1a9ed6c36bea30"
+    }
+}
