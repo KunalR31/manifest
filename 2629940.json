@@ -1,0 +1,78 @@
+{
+    "appid": "2629940",
+    "type": "Demo",
+    "name": "Hours After Midnight Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23348213",
+    "update_time": "2024-07-16 02:46:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2629941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3620772911138493069",
+                    "size": "339706528",
+                    "download": "170738112"
+                },
+                "pre_release": {
+                    "gid": "3620772911138493069",
+                    "size": "339706528",
+                    "download": "170738112"
+                }
+            },
+            "decryptionkey": "c866a825a8dd8ca7348c499f4107d345e5e69e4dfa3ee6288a40c5f842ee7e96"
+        },
+        "2629942": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5652622258532122134",
+                    "size": "344400628",
+                    "download": "168925536"
+                },
+                "pre_release": {
+                    "gid": "5652622258532122134",
+                    "size": "344400628",
+                    "download": "168925536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2629943": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14212719",
+                "timeupdated": "1714418569"
+            },
+            "pre_release": {
+                "buildid": "14212719",
+                "description": "Public Pre-Release",
+                "timeupdated": "1714418542"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
