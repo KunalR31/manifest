@@ -1,0 +1,43 @@
+{
+    "appid": "8640",
+    "type": "Game",
+    "name": "RACE On",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26685919",
+    "update_time": "2024-12-18 08:50:33",
+    "depot": {
+        "overridescddb": "1",
+        "8619": {
+            "optional": "1",
+            "systemdefined": "1",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "8641": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6211172972784822086",
+                    "size": "1354283332",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "45b5c4155276d107622c5bb2781327a7b015010613a3fd977e950efad0f51817"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "11256"
+            }
+        }
+    }
+}
