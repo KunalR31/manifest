@@ -1,0 +1,71 @@
+{
+    "appid": "436820",
+    "type": "Game",
+    "name": "Waltz of the Wizard (Legacy demo)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28159883",
+    "update_time": "2025-03-27 08:13:16",
+    "depot": {
+        "436821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6851318029597426148",
+                    "size": "1217590689",
+                    "download": "450720336"
+                },
+                "kioskmode": {
+                    "gid": "1626434212596126528",
+                    "size": "1209396060",
+                    "download": "448767520"
+                },
+                "legacy": {
+                    "gid": "5465301853312511549",
+                    "size": "887140361",
+                    "download": "350901712"
+                }
+            },
+            "decryptionkey": "0d0605d7e07b9d7a30825092b67e7423b8565c1f0015fbbf7d136cf339149889"
+        },
+        "436822": {
+            "manifests": {
+                "public": {
+                    "gid": "5825855508776648941",
+                    "size": "1209396060",
+                    "download": "448612032"
+                },
+                "kioskmode": {
+                    "gid": "8783359745585866857",
+                    "size": "1208929988",
+                    "download": "448628144"
+                },
+                "legacy": {
+                    "gid": "6585463907633860879",
+                    "size": "871717179",
+                    "download": "349601376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8727110",
+                "timeupdated": "1652364922"
+            },
+            "kioskmode": {
+                "buildid": "3218027",
+                "description": "Kiosk mode that doesn't save progress or settings",
+                "timeupdated": "1539704877"
+            },
+            "legacy": {
+                "buildid": "2274027",
+                "description": "Legacy build of Waltz",
+                "timeupdated": "1510322994"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
