@@ -1,0 +1,131 @@
+{
+    "appid": "268990",
+    "type": "Game",
+    "name": "The Dishwasher: Vampire Smile",
+    "schinese_name": "洗碗工：吸血鬼的微笑",
+    "isfreeapp": "0",
+    "change_number": "26918037",
+    "update_time": "2025-01-09 12:09:30",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "268991": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "381558314979488051",
+                    "size": "335721490",
+                    "download": "269002256"
+                },
+                "lastupdate": {
+                    "gid": "8024273370805399981",
+                    "size": "211920789",
+                    "download": "168276128"
+                },
+                "linux32": {
+                    "gid": "4873672566364647805",
+                    "size": "344625968",
+                    "download": "271823360"
+                },
+                "tutorialfix": {
+                    "gid": "4038451394963604723",
+                    "size": "335722002",
+                    "download": "269002512"
+                }
+            },
+            "decryptionkey": "5a5d7fabd733f6155ea75ed7bdd87df63bf5027a632d7ad68172d7d9ea622daf"
+        },
+        "268992": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2808065542849337844",
+                    "size": "357255068",
+                    "download": "265777136"
+                },
+                "lastupdate": {
+                    "gid": "5794185362820603855",
+                    "size": "247997044",
+                    "download": "174024192"
+                },
+                "linux32": {
+                    "gid": "2975464871707946023",
+                    "size": "378815471",
+                    "download": "271734320"
+                },
+                "tutorialfix": {
+                    "gid": "1445781208526513752",
+                    "size": "357255580",
+                    "download": "265777392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "268993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5865563321652162922",
+                    "size": "370318096",
+                    "download": "268705584"
+                },
+                "lastupdate": {
+                    "gid": "4215647234751083905",
+                    "size": "222292521",
+                    "download": "166490832"
+                },
+                "linux32": {
+                    "gid": "3171312416366424549",
+                    "size": "351530896",
+                    "download": "263921824"
+                },
+                "tutorialfix": {
+                    "gid": "2437626202243806460",
+                    "size": "370318608",
+                    "download": "268705840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8270154",
+                "timeupdated": "1645734854"
+            },
+            "lastupdate": {
+                "buildid": "2149193",
+                "timeupdated": "1543275901"
+            },
+            "linux32": {
+                "buildid": "4348330",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609457346"
+            },
+            "tutorialfix": {
+                "buildid": "11821474",
+                "description": "Possible fix for tutorial crash",
+                "timeupdated": "1690694910"
+            }
+        }
+    }
+}
