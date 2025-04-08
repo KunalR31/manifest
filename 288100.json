@@ -1,0 +1,83 @@
+{
+    "appid": "288100",
+    "type": "Game",
+    "name": "MechRunner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24156071",
+    "update_time": "2024-06-28 11:25:00",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "288101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2563053956149072885",
+                    "size": "870612610",
+                    "download": "537165392"
+                },
+                "beta": {
+                    "gid": "8781712533303997858",
+                    "size": "985927869",
+                    "download": "614195152"
+                }
+            },
+            "decryptionkey": "7989c93295c404e9044d45194376a5e6c92cb2589b8db049d7898ebf13231ef6"
+        },
+        "288102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7011946029704129482",
+                    "size": "879804628",
+                    "download": "539093344"
+                },
+                "beta": {
+                    "gid": "1891586197883595938",
+                    "size": "984082564",
+                    "download": "615789328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "288103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5354389476467700336",
+                    "size": "876788950",
+                    "download": "538822608"
+                },
+                "beta": {
+                    "gid": "8096761704952550486",
+                    "size": "990339452",
+                    "download": "616416880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1232890",
+                "timeupdated": "1468859264"
+            },
+            "beta": {
+                "buildid": "898053"
+            }
+        }
+    }
+}
