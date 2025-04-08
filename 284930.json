@@ -1,0 +1,67 @@
+{
+    "appid": "284930",
+    "type": "Game",
+    "name": "Speed Kills",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26637863",
+    "update_time": "2024-12-14 07:39:44",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "284931": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5733313288824432149",
+                    "size": "1051790019",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6563840952673721840",
+                    "size": "1163406119",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7d60911244f5e5d2656de34188d1cf1ddf884410c4911cbafb44010da72c4970"
+        },
+        "284932": {
+            "manifests": {
+                "public": {
+                    "gid": "5495191348075461855",
+                    "size": "72833024",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2123996158039185376",
+                    "size": "35",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "271044"
+            },
+            "local": {
+                "buildid": "263228",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
