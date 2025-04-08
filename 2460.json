@@ -1,0 +1,56 @@
+{
+    "appid": "2460",
+    "type": "Tool",
+    "name": "Bloody Good Time Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 08:39:45",
+    "depot": {
+        "overridescddb": "1",
+        "2452": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5726217717789289915",
+                    "size": "1279247053",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "2450",
+            "decryptionkey": "8e17c6b223df2e04eab11586874c1950b3204999174697442ea215c6c58f1966"
+        },
+        "2453": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6238851782732503747",
+                    "size": "101950591",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1002",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "87012"
+            }
+        }
+    }
+}
