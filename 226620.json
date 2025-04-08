@@ -1,0 +1,95 @@
+{
+    "appid": "226620",
+    "type": "Game",
+    "name": "Desktop Dungeons",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26827704",
+    "update_time": "2025-01-01 02:17:42",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "226621": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2147511589869182564",
+                    "size": "389659132",
+                    "download": "260361648"
+                },
+                "legacy": {
+                    "gid": "8037026199342209195",
+                    "size": "388046580",
+                    "download": "259873648"
+                }
+            },
+            "decryptionkey": "df2707056eeb76654471b4edb61355fe2a35217ba54974e9811859069f9e37fb"
+        },
+        "226622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7660013186770846262",
+                    "size": "397071169",
+                    "download": "261608512"
+                },
+                "legacy": {
+                    "gid": "8813096060715733542",
+                    "size": "395505602",
+                    "download": "261135680"
+                }
+            },
+            "decryptionkey": "55f272315895774ba11d347619cd965f90057297f41c6728258443f44cf47707"
+        },
+        "226623": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7570645180738867892",
+                    "size": "395605718",
+                    "download": "261988080"
+                },
+                "legacy": {
+                    "gid": "284955286676554271",
+                    "size": "404598608",
+                    "download": "265071776"
+                }
+            },
+            "decryptionkey": "03d9edc7bb5998e532dabae44802329560a467e1e36b6587888548d5591d1192"
+        },
+        "261420": {
+            "manifests": {
+                "public": {
+                    "gid": "2428260342073033529",
+                    "size": "269804816",
+                    "download": "0"
+                },
+                "legacy": {
+                    "gid": "2428260342073033529",
+                    "size": "269804816",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "261420",
+            "decryptionkey": "366cc6f05d9b690a50f37158c8430f2ebccc465e8b4dbb79d47be27f67b88638"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11119841",
+                "timeupdated": "1682732205"
+            },
+            "legacy": {
+                "buildid": "9252666",
+                "description": "Legacy version of Desktop Dungeons for fan mod compatibility",
+                "timeupdated": "1659617561"
+            }
+        }
+    }
+}
