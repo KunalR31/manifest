@@ -1,0 +1,75 @@
+{
+    "appid": "1978590",
+    "type": "Game",
+    "name": "Anger Foot",
+    "schinese_name": "愤怒的大脚",
+    "isfreeapp": "0",
+    "change_number": "27950711",
+    "update_time": "2025-03-14 15:20:41",
+    "depot": {
+        "1978591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1246271747967493332",
+                    "size": "14714494484",
+                    "download": "3168446672"
+                },
+                "af_1.4": {
+                    "gid": "4006371548847163758",
+                    "size": "14826541339",
+                    "download": "3249285808"
+                },
+                "af_1.41": {
+                    "gid": "727278195130076781",
+                    "size": "15539915608",
+                    "download": "3419276304"
+                },
+                "openbeta": {
+                    "gid": "8202155837942319916",
+                    "size": "14711656188",
+                    "download": "3162686448"
+                }
+            },
+            "decryptionkey": "97fd1a955a81c6d401ffd49816ff8ffa4ab5147e00f909d06d946cfdd6204f1d"
+        },
+        "1978592": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2764505353257513971",
+                    "size": "350319729",
+                    "download": "70643072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15756309",
+                "timeupdated": "1726747778"
+            },
+            "af_1.4": {
+                "buildid": "15014340",
+                "description": "Anger Foot Build 1.4",
+                "timeupdated": "1725033753"
+            },
+            "af_1.41": {
+                "buildid": "15356322",
+                "description": "Anger Foot Build 1.41",
+                "timeupdated": "1725033706"
+            },
+            "openbeta": {
+                "buildid": "15493773",
+                "description": "Open Beta",
+                "timeupdated": "1725033786"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
