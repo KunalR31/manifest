@@ -1,0 +1,107 @@
+{
+    "appid": "230270",
+    "type": "Game",
+    "name": "N++",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27133035",
+    "update_time": "2025-01-23 23:25:54",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "230271": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2179215669601847538",
+                    "size": "1025481560",
+                    "download": "493860384"
+                },
+                "localisation": {
+                    "gid": "8939431176140915826",
+                    "size": "1025457239",
+                    "download": "493859184"
+                },
+                "test": {
+                    "gid": "2179215669601847538",
+                    "size": "1025481560",
+                    "download": "493860384"
+                }
+            },
+            "decryptionkey": "012ae7bf93394d9c13a6fe0b6a19bb864b9c9a12987f502e3701037af032e5d9"
+        },
+        "230272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5385924979330004871",
+                    "size": "761159195",
+                    "download": "477235104"
+                },
+                "localisation": {
+                    "gid": "7865204438852300392",
+                    "size": "761550437",
+                    "download": "477649376"
+                },
+                "test": {
+                    "gid": "5385924979330004871",
+                    "size": "761159195",
+                    "download": "477235104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "230273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5728917180114399740",
+                    "size": "1240521857",
+                    "download": "496397360"
+                },
+                "test": {
+                    "gid": "5728917180114399740",
+                    "size": "1240521857",
+                    "download": "496397360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "11493859",
+                "timeupdated": "1686973575"
+            },
+            "localisation": {
+                "buildid": "4913023",
+                "timeupdated": "1587180262"
+            },
+            "test": {
+                "buildid": "11493859",
+                "timeupdated": "1686972583"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
