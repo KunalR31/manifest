@@ -1,0 +1,59 @@
+{
+    "appid": "765810",
+    "type": "Game",
+    "name": "Mars Horizon",
+    "schinese_name": "火星地平线",
+    "isfreeapp": "0",
+    "change_number": "28195721",
+    "update_time": "2025-03-29 01:15:36",
+    "depot": {
+        "765811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1652043022080784307",
+                    "size": "3104630938",
+                    "download": "863841136"
+                },
+                "experimental": {
+                    "gid": "2531309154999514076",
+                    "size": "3042639151",
+                    "download": "852751952"
+                }
+            },
+            "decryptionkey": "bb4e7dfff5f3dd3c28780b58a5ad405ec3718089674b9540cd6a8020511ca92b"
+        },
+        "765812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3474571211925564299",
+                    "size": "3118965528",
+                    "download": "869238096"
+                },
+                "experimental": {
+                    "gid": "5757734966688830343",
+                    "size": "3603947316",
+                    "download": "900782496"
+                }
+            },
+            "decryptionkey": "b33a879f38bb057eafe8eb554b9a924f5c2309ed442754c1318e35b1d6dcd015"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8805406",
+                "timeupdated": "1655906438"
+            },
+            "experimental": {
+                "buildid": "7136081",
+                "description": "Experimental changes and fixes for public testing",
+                "timeupdated": "1637329427"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
