@@ -1,0 +1,80 @@
+{
+    "appid": "2693120",
+    "type": "Application",
+    "name": "XBPlay",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27489091",
+    "update_time": "2025-02-15 08:07:04",
+    "depot": {
+        "baselanguages": "english",
+        "2693121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4700581115011891095",
+                    "size": "347514341",
+                    "download": "115963280"
+                },
+                "beta": {
+                    "gid": "4700581115011891095",
+                    "size": "347514341",
+                    "download": "115963280"
+                }
+            },
+            "decryptionkey": "3e00d53fe5807fe0422bde437a73aa62eceefbe22ec94f04f1847df13c780ce2"
+        },
+        "2693122": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "607260195787336376",
+                    "size": "498350337",
+                    "download": "162409888"
+                },
+                "beta": {
+                    "gid": "607260195787336376",
+                    "size": "498350337",
+                    "download": "162409888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2693123": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1980375629206920301",
+                    "size": "335811901",
+                    "download": "107447536"
+                },
+                "beta": {
+                    "gid": "1980375629206920301",
+                    "size": "335811901",
+                    "download": "107447536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17364605",
+                "timeupdated": "1739578018"
+            },
+            "beta": {
+                "buildid": "17364605",
+                "description": "beta",
+                "timeupdated": "1739526705"
+            }
+        }
+    }
+}
