@@ -1,0 +1,104 @@
+{
+    "appid": "940710",
+    "type": "Game",
+    "name": "Colt Canyon",
+    "schinese_name": "柯尔特峡谷",
+    "isfreeapp": "0",
+    "change_number": "27908269",
+    "update_time": "2025-03-12 17:59:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "940711": {
+            "manifests": {
+                "public": {
+                    "gid": "7041028418435309747",
+                    "size": "574521647",
+                    "download": "353071824"
+                },
+                "version-1020": {
+                    "gid": "5818943599902494761",
+                    "size": "322964340",
+                    "download": "215244048"
+                },
+                "version-1100": {
+                    "gid": "306759797305306182",
+                    "size": "330784849",
+                    "download": "217059760"
+                },
+                "version-1111": {
+                    "gid": "6931265589116962732",
+                    "size": "331440903",
+                    "download": "217177392"
+                },
+                "unstable": {
+                    "gid": "7041028418435309747",
+                    "size": "574521647",
+                    "download": "353071824"
+                },
+                "version-1213": {
+                    "gid": "1118441811636874598",
+                    "size": "567597457",
+                    "download": "351428144"
+                },
+                "version-1300": {
+                    "gid": "1014468181408799523",
+                    "size": "571157720",
+                    "download": "352581616"
+                }
+            },
+            "decryptionkey": "ae061c0dae36e1e644026d8935cce8f98b374fc44774f434c103af5078feb355"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17690680",
+                "timeupdated": "1741773578"
+            },
+            "version-1020": {
+                "buildid": "6004594",
+                "description": "Version 1.0.2.0",
+                "timeupdated": "1629483348"
+            },
+            "version-1100": {
+                "buildid": "7474893",
+                "description": "Version 1.1.1.0",
+                "timeupdated": "1639753623"
+            },
+            "version-1111": {
+                "buildid": "8200578",
+                "description": "Version 1.1.1.1",
+                "timeupdated": "1656690439"
+            },
+            "unstable": {
+                "buildid": "17690680",
+                "description": "Public pre-release testing",
+                "timeupdated": "1741773561"
+            },
+            "version-1213": {
+                "buildid": "10201865",
+                "description": "Version 1.2.1.3",
+                "timeupdated": "1728759706"
+            },
+            "version-1300": {
+                "buildid": "16040265",
+                "description": "Version 1.3.0.0",
+                "timeupdated": "1731881227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
