@@ -1,0 +1,94 @@
+{
+    "appid": "493340",
+    "type": "Game",
+    "name": "Planet Coaster",
+    "schinese_name": "过山车之星",
+    "isfreeapp": "0",
+    "change_number": "27104407",
+    "update_time": "2025-01-22 10:27:18",
+    "depot": {
+        "workshopdepot": "493340",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "493341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1860998967709107590",
+                    "size": "12318237971",
+                    "download": "12077557504"
+                }
+            },
+            "decryptionkey": "09a4f06e0ef8de8d1caf20ff08c96103f36c42117bfbada84788bbbb1e6fb540"
+        },
+        "553770": {
+            "dlcappid": "553770",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "85056478682462288",
+                    "size": "752315649",
+                    "download": "745018160"
+                }
+            },
+            "decryptionkey": "89104dad5e5c9353db7da2a99242c14b9da5fa15e5e838953b4c2ca13e9cf43a"
+        },
+        "553771": {
+            "dlcappid": "553771",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2666834127152107450",
+                    "size": "33457179",
+                    "download": "30930624"
+                }
+            },
+            "decryptionkey": "8f009b27cac943465ce5619ce1fb47db51d461407158065897ee58150490f9d1"
+        },
+        "493359": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5359596109481587651",
+                    "size": "12052362781",
+                    "download": "11852813808"
+                }
+            },
+            "decryptionkey": "38c45d793c46bac67e42f1a20ba64fc3d92edeb7dd9fda970d75db772a664520"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "14428432",
+                "timeupdated": "1716210011"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ca45add22809fbfd4f2e9a8393edc799cc5c7c6a693fb1aacb78141c08fa51d5"
+    }
+}
