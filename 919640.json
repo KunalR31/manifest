@@ -1,0 +1,87 @@
+{
+    "appid": "919640",
+    "type": "Game",
+    "name": "Steel Division 2",
+    "schinese_name": "钢铁之师2",
+    "isfreeapp": "0",
+    "change_number": "28304664",
+    "update_time": "2025-04-04 16:39:28",
+    "depot": {
+        "workshopdepot": "919640",
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "919641": {
+            "manifests": {
+                "public": {
+                    "gid": "7166862061550002029",
+                    "size": "97124044000",
+                    "download": "60039705088"
+                },
+                "compat_old_save": {
+                    "gid": "4771660764391842046",
+                    "size": "84778583600",
+                    "download": "51703251984"
+                }
+            },
+            "decryptionkey": "e4accb53bb694864b0f3b1524387a0a4035d482624f09d6d6872b321642d10d3"
+        },
+        "988170": {
+            "dlcappid": "988170",
+            "manifests": {
+                "public": {
+                    "gid": "2712962817460656790",
+                    "size": "184594854",
+                    "download": "179125664"
+                },
+                "compat_old_save": {
+                    "gid": "2712962817460656790",
+                    "size": "184594854",
+                    "download": "179125664"
+                }
+            },
+            "decryptionkey": "ef1a14771041deccaf7b6e1d0b2a5892cc9729e1cb8f17f89e6a96c0b21fa4a0"
+        },
+        "988172": {
+            "manifests": {
+                "public": {
+                    "gid": "8797564130778543687",
+                    "size": "3211951",
+                    "download": "3216640"
+                },
+                "compat_old_save": {
+                    "gid": "8797564130778543687",
+                    "size": "3211951",
+                    "download": "3216640"
+                }
+            },
+            "dlcappid": "988172",
+            "decryptionkey": "c0e3624a2143c3fc6e9db28bd40caca3c7187fd628e0e86469ed44f242b6224e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17664402",
+                "timeupdated": "1741852845"
+            },
+            "compat_old_save": {
+                "buildid": "6711807",
+                "description": "Compatibility for saves and replays older than version 46442",
+                "timeupdated": "1622531833"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
