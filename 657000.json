@@ -1,0 +1,42 @@
+{
+    "appid": "657000",
+    "type": "Game",
+    "name": "Rising Hell",
+    "schinese_name": "杀戮之源 / Rising Hell",
+    "isfreeapp": "0",
+    "change_number": "24779576",
+    "update_time": "2024-08-14 15:48:28",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "657001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1044356662774515000",
+                    "size": "624882421",
+                    "download": "122812128"
+                },
+                "public_beta": {
+                    "gid": "1848127666031354233",
+                    "size": "610332625",
+                    "download": "120902560"
+                }
+            },
+            "decryptionkey": "e9b8fb8d9210904da3a6b3f0aaf1b24514564d02f701a970861cfb60d1ca473c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8241641",
+                "timeupdated": "1646196020"
+            },
+            "public_beta": {
+                "buildid": "7356684",
+                "description": "for public testing, might be unstable",
+                "timeupdated": "1631689050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
