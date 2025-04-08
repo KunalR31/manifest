@@ -1,0 +1,133 @@
+{
+    "appid": "268910",
+    "type": "Game",
+    "name": "Cuphead",
+    "schinese_name": "茶杯头",
+    "isfreeapp": "0",
+    "change_number": "27103037",
+    "update_time": "2025-01-22 08:45:16",
+    "depot": {
+        "overridescddb": "1",
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "268911": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6818141525323043853",
+                    "size": "4044943299",
+                    "download": "3362346768"
+                },
+                "legacy": {
+                    "gid": "3578133244580719506",
+                    "size": "11629569673",
+                    "download": "1978107024"
+                },
+                "legacy-1.1.5": {
+                    "gid": "4141305784780205510",
+                    "size": "11596568849",
+                    "download": "1974952672"
+                },
+                "legacy-1.2.4": {
+                    "gid": "8517245093737291598",
+                    "size": "3878512110",
+                    "download": "3295381024"
+                }
+            },
+            "decryptionkey": "5f5e2d0105e9fcfbd0c7151658efd92af0181865fe434192f8e2c5d24d4940da"
+        },
+        "268912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8633535714830637397",
+                    "size": "4055148745",
+                    "download": "3364603216"
+                },
+                "legacy-1.1.5": {
+                    "gid": "21080377164622124",
+                    "size": "11751092052",
+                    "download": "1977277008"
+                },
+                "legacy-1.2.4": {
+                    "gid": "8715044838575258750",
+                    "size": "3894489377",
+                    "download": "3299538256"
+                }
+            },
+            "decryptionkey": "6378a6f3808fd925e8fdc2cd115d7b60f1908a6dff6b5f6c1fb0af7f392db1e4"
+        },
+        "1117850": {
+            "dlcappid": "1117850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "468317947627682665",
+                    "size": "1747323887",
+                    "download": "1569136976"
+                },
+                "legacy-1.2.4": {
+                    "gid": "5303367015411117480",
+                    "size": "1747323887",
+                    "download": "1569136976"
+                }
+            },
+            "decryptionkey": "c40d10dcd40756563a4956777e0bb4333e48d34c00e2836edd3d5fdbc0eba095"
+        },
+        "1117851": {
+            "dlcappid": "1117850",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "819870908970387521",
+                    "size": "1747322969",
+                    "download": "1569116368"
+                },
+                "legacy-1.2.4": {
+                    "gid": "1755936978512595447",
+                    "size": "1747322969",
+                    "download": "1569116368"
+                }
+            },
+            "decryptionkey": "1d08dafb023ed4a43d3def619d54ace53b3b4bced035e744da83b4449f26cac7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9318602",
+                "timeupdated": "1660937966"
+            },
+            "legacy": {
+                "buildid": "2157580",
+                "description": "No patches -- use at your own risk",
+                "timeupdated": "1513803752"
+            },
+            "legacy-1.1.5": {
+                "buildid": "3454824",
+                "description": "DX9 -- not compatible with DLC",
+                "timeupdated": "1553111056"
+            },
+            "legacy-1.2.4": {
+                "buildid": "9030965",
+                "description": "Pre-DLC -- not compatible with DLC",
+                "timeupdated": "1656526139"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
