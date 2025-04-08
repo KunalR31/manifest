@@ -1,0 +1,56 @@
+{
+    "appid": "367270",
+    "type": "Game",
+    "name": "Angels Fall First",
+    "schinese_name": "折翼天使",
+    "isfreeapp": "0",
+    "change_number": "28108071",
+    "update_time": "2025-03-24 20:12:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "367271": {
+            "manifests": {
+                "public": {
+                    "gid": "7646224042970227813",
+                    "size": "5413589503",
+                    "download": "4035942768"
+                },
+                "legacy": {
+                    "gid": "3087389603775856347",
+                    "size": "3570893917",
+                    "download": "2613877168"
+                },
+                "uncooked": {
+                    "gid": "8093148342055888336",
+                    "size": "9641317632",
+                    "download": "3988291104"
+                }
+            },
+            "decryptionkey": "c24ac20cf1f18da2f3050fd65c5595e621ed1a0f1232c99cae8caf5545dcf52b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17697345",
+                "timeupdated": "1741883462"
+            },
+            "legacy": {
+                "buildid": "806844",
+                "description": "First ever (more or less working) build of AFF on Steam, a curiousity",
+                "timeupdated": "1539376167"
+            },
+            "uncooked": {
+                "buildid": "5305510",
+                "description": "Branch for testing uncooked, moddable builds",
+                "timeupdated": "1595111772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
