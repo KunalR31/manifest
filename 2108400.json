@@ -1,0 +1,68 @@
+{
+    "appid": "2108400",
+    "type": "Game",
+    "name": "ATCo2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 14:42:58",
+    "depot": {
+        "2108401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5592916359939200964",
+                    "size": "403620363",
+                    "download": "245541168"
+                },
+                "local": {
+                    "gid": "7123633988671862725",
+                    "size": "115702266",
+                    "download": "27763728"
+                }
+            },
+            "decryptionkey": "b399af4ec160cea20539e4c3993bbdc190f0d2bbaad5eb88c01e603fb510332d"
+        },
+        "2108402": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4219686233459775476",
+                    "size": "405459611",
+                    "download": "244738304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2108403": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4870787069559072487",
+                    "size": "428052086",
+                    "download": "253001888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10675625",
+                "timeupdated": "1677772272"
+            },
+            "local": {
+                "buildid": "9275708",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1659982411"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
