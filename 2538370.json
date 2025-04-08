@@ -1,0 +1,80 @@
+{
+    "appid": "2538370",
+    "type": "Game",
+    "name": "Long Story Short",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28181100",
+    "update_time": "2025-03-28 08:15:57",
+    "depot": {
+        "baselanguages": "english",
+        "2538371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7937132459277278381",
+                    "size": "2525744666",
+                    "download": "2358584144"
+                },
+                "local": {
+                    "gid": "4495000955844843689",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "83fcafc23d4204b0dc577b6792eeb8f23240220e9851a1db4bbe4452b05e9307"
+        },
+        "2538372": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6361798921941891274",
+                    "size": "2526290923",
+                    "download": "2353370848"
+                },
+                "local": {
+                    "gid": "8053122032191472104",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2538373": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8683508829041305575",
+                    "size": "2517277083",
+                    "download": "2354562272"
+                },
+                "local": {
+                    "gid": "7952146957765109537",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16354036",
+                "timeupdated": "1731183353"
+            },
+            "local": {
+                "buildid": "11933390",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1691967749"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
