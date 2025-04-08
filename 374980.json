@@ -1,0 +1,186 @@
+{
+    "appid": "374980",
+    "type": "Tool",
+    "name": "Zombie Grinder Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182341",
+    "update_time": "2024-11-14 05:38:34",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "374981": {
+            "manifests": {
+                "public": {
+                    "gid": "7154443791000396439",
+                    "size": "121817737",
+                    "download": "106511072"
+                },
+                "nightly": {
+                    "gid": "7154443791000396439",
+                    "size": "121817737",
+                    "download": "106511072"
+                },
+                "rcbuild": {
+                    "gid": "7154443791000396439",
+                    "size": "121817737",
+                    "download": "106511072"
+                }
+            },
+            "decryptionkey": "384398fb2d39e6bed6d455069d71076b2f34549662ae3213c287c136d4d11bda"
+        },
+        "374982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "64823490078023323",
+                    "size": "9898662",
+                    "download": "3266768"
+                },
+                "nightly": {
+                    "gid": "64823490078023323",
+                    "size": "9898662",
+                    "download": "3266768"
+                },
+                "rcbuild": {
+                    "gid": "64823490078023323",
+                    "size": "9898662",
+                    "download": "3266768"
+                }
+            },
+            "decryptionkey": "f89a59b04562d34733565adf5aa50706e4d9558c9acc7f44f3272c831ad0f9b8"
+        },
+        "374983": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3629520069727201116",
+                    "size": "17850508",
+                    "download": "4821904"
+                },
+                "nightly": {
+                    "gid": "3629520069727201116",
+                    "size": "17850508",
+                    "download": "4821904"
+                },
+                "rcbuild": {
+                    "gid": "3629520069727201116",
+                    "size": "17850508",
+                    "download": "4821904"
+                }
+            },
+            "decryptionkey": "cddbf37139d080ee9f3cd140b80c9f19f19ab79f8a34787de6ade55941c46562"
+        },
+        "374984": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2446415286446662071",
+                    "size": "19947797",
+                    "download": "5212032"
+                },
+                "nightly": {
+                    "gid": "2446415286446662071",
+                    "size": "19947797",
+                    "download": "5212032"
+                },
+                "rcbuild": {
+                    "gid": "2446415286446662071",
+                    "size": "19947797",
+                    "download": "5212032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1092295",
+                "timeupdated": "1461608971"
+            },
+            "nightly": {
+                "buildid": "1092295",
+                "description": "Nightly builds. May be very unstable.\t",
+                "timeupdated": "1461542405"
+            },
+            "rcbuild": {
+                "buildid": "1092295",
+                "description": "Release candidate build for testing.",
+                "timeupdated": "1461608980"
+            }
+        }
+    }
+}
