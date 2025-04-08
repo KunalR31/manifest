@@ -1,0 +1,38 @@
+{
+    "appid": "96810",
+    "type": "Tool",
+    "name": "Nexuiz Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 05:24:21",
+    "depot": {
+        "96802": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6231482703797645821",
+                    "size": "2089203164",
+                    "download": "1867777888"
+                },
+                "local": {
+                    "gid": "736013265079676428",
+                    "size": "1551486481",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "94c382c1f76d3f991330a37e6b1a772a08dc950007a928c8de1b80b80a4b33cb"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "920036"
+            },
+            "local": {
+                "buildid": "5560",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
