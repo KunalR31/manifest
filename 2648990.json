@@ -1,0 +1,48 @@
+{
+    "appid": "2648990",
+    "type": "Game",
+    "name": "Nerd Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26895702",
+    "update_time": "2025-01-08 01:15:19",
+    "depot": {
+        "2648991": {
+            "manifests": {
+                "public": {
+                    "gid": "5990607739619942886",
+                    "size": "526913267",
+                    "download": "110147808"
+                },
+                "beta": {
+                    "gid": "339871676903392918",
+                    "size": "528953439",
+                    "download": "109096784"
+                },
+                "stable": {
+                    "gid": "355917280356650709",
+                    "size": "535814168",
+                    "download": "111504000"
+                }
+            },
+            "decryptionkey": "f7f2d9e981e6b2a55dcbd4dad2de4e6544fc3dbd915cda08123660847ebde572"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14688791",
+                "timeupdated": "1718184936"
+            },
+            "beta": {
+                "buildid": "14561647",
+                "description": "A public test branch to test new version scheduled for public release",
+                "timeupdated": "1717163622"
+            },
+            "stable": {
+                "buildid": "14390133",
+                "description": "A stable branch if previous version has problems",
+                "timeupdated": "1717163613"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
