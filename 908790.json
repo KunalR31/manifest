@@ -1,0 +1,55 @@
+{
+    "appid": "908790",
+    "type": "Game",
+    "name": "Subdivision Infinity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26831261",
+    "update_time": "2025-01-01 16:18:53",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "908791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5356001688471085615",
+                    "size": "2067525603",
+                    "download": "1960516224"
+                },
+                "beta": {
+                    "gid": "5356001688471085615",
+                    "size": "2067525603",
+                    "download": "1960516224"
+                }
+            },
+            "decryptionkey": "8bd7090ce66c6ca883d54dc88abce0b1d4b636513d3c17b7ca76e94740bf9e6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10862180",
+                "timeupdated": "1679906566"
+            },
+            "beta": {
+                "buildid": "10862180",
+                "description": "Beta branch.",
+                "timeupdated": "1679905139"
+            }
+        }
+    }
+}
