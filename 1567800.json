@@ -1,0 +1,49 @@
+{
+    "appid": "1567800",
+    "type": "Game",
+    "name": "星空列车与白的旅行",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27036759",
+    "update_time": "2025-01-17 12:54:36",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1567801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2804954319430949746",
+                    "size": "5088220328",
+                    "download": "1063870800"
+                },
+                "win732-test": {
+                    "gid": "905778584517112827",
+                    "size": "5046710861",
+                    "download": "1025560944"
+                }
+            },
+            "decryptionkey": "7bbc4910773b61294434cfa7d2e40ac4caa8fd058486b5d45925e01f63d9417c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8331503",
+                "timeupdated": "1646720490"
+            },
+            "win732-test": {
+                "buildid": "6698579",
+                "description": "win7-test",
+                "timeupdated": "1646720482"
+            }
+        }
+    }
+}
