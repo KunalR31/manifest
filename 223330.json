@@ -1,0 +1,113 @@
+{
+    "appid": "223330",
+    "type": "Game",
+    "name": "Sea Dogs: To Each His Own",
+    "schinese_name": "海盗奥德赛：人各有志",
+    "isfreeapp": "0",
+    "change_number": "27117121",
+    "update_time": "2025-01-23 02:25:54",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "russian",
+        "223331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "russian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "614951102325383897",
+                    "size": "12770140958",
+                    "download": "5846960688"
+                },
+                "1.7-patch": {
+                    "gid": "104478624317356049",
+                    "size": "12717193795",
+                    "download": "5836505904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4920868821231714973",
+                    "size": "12238457695",
+                    "download": "5126013072"
+                },
+                "1.7-patch": {
+                    "gid": "2132105967358293814",
+                    "size": "12188754044",
+                    "download": "5115517584"
+                }
+            },
+            "decryptionkey": "2da3ab8a20d6c98aafb7eca66059a33c0301df0d258409518ba2372ab21bfca5"
+        },
+        "223333": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6725322306437944338",
+                    "size": "12750882964",
+                    "download": "5268631728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223334": {
+            "config": {
+                "language": "english",
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2685789718803739151",
+                    "size": "12222459345",
+                    "download": "4563080080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "7784981",
+                "timeupdated": "1637947934"
+            },
+            "1.7-patch": {
+                "buildid": "4877468",
+                "description": "previous version",
+                "timeupdated": "1635319561"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
