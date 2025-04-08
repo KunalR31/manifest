@@ -1,0 +1,106 @@
+{
+    "appid": "860950",
+    "type": "Game",
+    "name": "Mark of the Ninja: Remastered",
+    "schinese_name": "忍者之印：重置版",
+    "isfreeapp": "0",
+    "change_number": "28070216",
+    "update_time": "2025-03-21 19:13:09",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "860951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2079761656899377231",
+                    "size": "8096184287",
+                    "download": "7274183344"
+                },
+                "beta": {
+                    "gid": "6026507602320588839",
+                    "size": "8096167391",
+                    "download": "7274180864"
+                },
+                "previous_build": {
+                    "gid": "2215004001883038661",
+                    "size": "8096174416",
+                    "download": "7274315296"
+                }
+            },
+            "decryptionkey": "cc1edd2b80374b31917911123d97ff8a647c5b0ad18eb9bb36b32cb9e33f9542"
+        },
+        "860952": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1424750439569085556",
+                    "size": "8113250833",
+                    "download": "7274514864"
+                },
+                "beta": {
+                    "gid": "6329988818477367301",
+                    "size": "8113233937",
+                    "download": "7274512384"
+                },
+                "previous_build": {
+                    "gid": "7443103714221701880",
+                    "size": "8104143651",
+                    "download": "7274928160"
+                }
+            },
+            "decryptionkey": "5d8038581b4139f23ca39d7effad4257faead028b1d0259851c1836e3288e942"
+        },
+        "860953": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6544161266413167188",
+                    "size": "8097449465",
+                    "download": "7272434944"
+                },
+                "beta": {
+                    "gid": "7087102213912364639",
+                    "size": "8097432569",
+                    "download": "7272432464"
+                },
+                "previous_build": {
+                    "gid": "8836813209402813276",
+                    "size": "8097171722",
+                    "download": "7272529280"
+                }
+            },
+            "decryptionkey": "a163f40c3289cf1469a2fdbdac0d31093d1a13c8714b9c9f867fd54739fcb697"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish",
+        "branches": {
+            "public": {
+                "buildid": "5908561",
+                "timeupdated": "1606871854"
+            },
+            "beta": {
+                "buildid": "3555596",
+                "timeupdated": "1550015760"
+            },
+            "previous_build": {
+                "buildid": "3204930",
+                "timeupdated": "1540314585"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
