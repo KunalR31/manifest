@@ -1,0 +1,65 @@
+{
+    "appid": "378360",
+    "type": "Game",
+    "name": "Ymir",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28070496",
+    "update_time": "2025-03-21 19:30:28",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "378361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5432518757305501693",
+                    "size": "986715266",
+                    "download": "752163872"
+                },
+                "previous_version": {
+                    "gid": "6093109825524773682",
+                    "size": "937207267",
+                    "download": "703455328"
+                },
+                "testers": {
+                    "gid": "5432518757305501693",
+                    "size": "986715266",
+                    "download": "752163872"
+                }
+            },
+            "decryptionkey": "713385bd229af8b8996b9c2dafada1225a6c67c2ee9b0aa5ca6fcaa19ba8bf36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17226891",
+                "timeupdated": "1738603123"
+            },
+            "previous_version": {
+                "buildid": "10531828",
+                "description": "Previous version of the game",
+                "timeupdated": "1677249613"
+            },
+            "testers": {
+                "buildid": "17226891",
+                "description": "For testers before public release",
+                "timeupdated": "1738602862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
