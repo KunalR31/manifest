@@ -1,0 +1,90 @@
+{
+    "appid": "322500",
+    "type": "Game",
+    "name": "SUPERHOT",
+    "schinese_name": "燥热",
+    "isfreeapp": "0",
+    "change_number": "27876708",
+    "update_time": "2025-03-11 02:02:45",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "322501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4409995243011845478",
+                    "size": "4343656452",
+                    "download": "1165457008"
+                },
+                "previous-patch": {
+                    "gid": "6912182052444625074",
+                    "size": "4351934898",
+                    "download": "1079435232"
+                }
+            },
+            "decryptionkey": "d03db515479e54b594f98bcebca8c47627b0290928af9712a9929119f203d541"
+        },
+        "322502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5059247870837982590",
+                    "size": "4812220742",
+                    "download": "1149684720"
+                },
+                "previous-patch": {
+                    "gid": "1675147143681636573",
+                    "size": "4694515483",
+                    "download": "1085053040"
+                }
+            },
+            "decryptionkey": "78a91342c79f05459baf6ee12e712b7738c786d2c0c97ae1cdd1722bc98ee763"
+        },
+        "322503": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1923393125442143474",
+                    "size": "4403995797",
+                    "download": "1125700496"
+                },
+                "previous-patch": {
+                    "gid": "2878910345031727738",
+                    "size": "4330064479",
+                    "download": "1069889584"
+                }
+            },
+            "decryptionkey": "9629b89103c3f9dfa467b53b6980207793790e0a0a48386cb9404ddd443ae0f4"
+        },
+        "322504": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12661657",
+                "timeupdated": "1699947606"
+            },
+            "previous-patch": {
+                "buildid": "5300852",
+                "description": "Version from the last update",
+                "timeupdated": "1596025319"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
