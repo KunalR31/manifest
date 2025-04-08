@@ -1,0 +1,53 @@
+{
+    "appid": "320790",
+    "type": "Game",
+    "name": "Fabula Mortis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26117502",
+    "update_time": "2024-11-09 09:21:14",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "320791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2849863889863583863",
+                    "size": "1348446493",
+                    "download": "1060865040"
+                },
+                "local": {
+                    "gid": "8135422793332284861",
+                    "size": "1335701014",
+                    "download": "1098818128"
+                }
+            },
+            "decryptionkey": "0493ca67bd032e71340d71e697393833b4634244a875fcfd8ba8f35f6033adb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "521090"
+            },
+            "local": {
+                "buildid": "389770",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
