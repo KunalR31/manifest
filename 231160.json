@@ -1,0 +1,168 @@
+{
+    "appid": "231160",
+    "type": "Game",
+    "name": "The Swapper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28270732",
+    "update_time": "2025-04-02 22:59:58",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "231161": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4766457470056451316",
+                    "size": "937383677",
+                    "download": "0"
+                },
+                "compatibility": {
+                    "gid": "5504949947304904551",
+                    "size": "937414370",
+                    "download": "0"
+                },
+                "intel_fix_beta": {
+                    "gid": "8037371161923204296",
+                    "size": "936588725",
+                    "download": "0"
+                },
+                "intel_fix_beta_2": {
+                    "gid": "6842744024875428974",
+                    "size": "936594869",
+                    "download": "0"
+                },
+                "public_beta": {
+                    "gid": "9026791211683849690",
+                    "size": "937384189",
+                    "download": "0"
+                },
+                "beta2025": {
+                    "gid": "2698239627919030682",
+                    "size": "988885277",
+                    "download": "777608832"
+                }
+            },
+            "decryptionkey": "e6812325d6c6299b4f4c2af217c1061b5ef6a50bebc4707cd49ec680ac9fcfc7"
+        },
+        "231162": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
+                },
+                "compatibility": {
+                    "gid": "5716373161549003920",
+                    "size": "983022159",
+                    "download": "0"
+                },
+                "intel_fix_beta": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
+                },
+                "intel_fix_beta_2": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
+                },
+                "public_beta": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
+                },
+                "beta2025": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c305d349c6875a3cd806b81680dc9aa9a3808da01f740a381cda3e71c4f961fb"
+        },
+        "231163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5385124560162702064",
+                    "size": "979424200",
+                    "download": "0"
+                },
+                "compatibility": {
+                    "gid": "8878753917216664302",
+                    "size": "979431191",
+                    "download": "0"
+                },
+                "intel_fix_beta": {
+                    "gid": "3655365630960712052",
+                    "size": "979425224",
+                    "download": "0"
+                },
+                "intel_fix_beta_2": {
+                    "gid": "3655365630960712052",
+                    "size": "979425224",
+                    "download": "0"
+                },
+                "public_beta": {
+                    "gid": "3655365630960712052",
+                    "size": "979425224",
+                    "download": "0"
+                },
+                "beta2025": {
+                    "gid": "3655365630960712052",
+                    "size": "979425224",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd030fd481bc1dab38c113c92e3b65ff30e650454ee193454e2991d5dfeebf8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "226328"
+            },
+            "compatibility": {
+                "buildid": "194554"
+            },
+            "intel_fix_beta": {
+                "buildid": "311720",
+                "description": "Intel fix beta"
+            },
+            "intel_fix_beta_2": {
+                "buildid": "311837",
+                "description": "Intel fix beta 2"
+            },
+            "public_beta": {
+                "buildid": "243151",
+                "description": "Public beta"
+            },
+            "beta2025": {
+                "buildid": "17956193",
+                "description": "Beta testing for new builds",
+                "timeupdated": "1743605995"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
