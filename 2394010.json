@@ -1,0 +1,95 @@
+{
+    "appid": "2394010",
+    "type": "Tool",
+    "name": "Palworld Dedicated Server",
+    "schinese_name": "幻兽帕鲁 专用服务器",
+    "isfreeapp": "0",
+    "change_number": "28342221",
+    "update_time": "2025-04-07 16:58:17",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2394011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5166953748400310585",
+                    "size": "3938030027",
+                    "download": "3156103776"
+                }
+            },
+            "decryptionkey": "9e838b6ba46638923d3d573c4ba1b97b79528f588b5b6c6f2faf7f7579132465"
+        },
+        "2394012": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "267999471071788047",
+                    "size": "3542673805",
+                    "download": "3050709264"
+                }
+            },
+            "decryptionkey": "3c46f4155a00e0a67ea99ef11b77266cc2fb0e8abea3bf024ee3da7f3c868bfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17936917",
+                "timeupdated": "1743649330"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
