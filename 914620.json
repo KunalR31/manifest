@@ -1,0 +1,77 @@
+{
+    "appid": "914620",
+    "type": "Game",
+    "name": "Mist Survival",
+    "schinese_name": "迷霧生存",
+    "isfreeapp": "0",
+    "change_number": "28241560",
+    "update_time": "2025-04-01 13:03:35",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "914621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4579725911674497978",
+                    "size": "28581456848",
+                    "download": "13490767904"
+                },
+                "old_build_041": {
+                    "gid": "1982110330880164102",
+                    "size": "22788852964",
+                    "download": "10405087360"
+                },
+                "old_build_052": {
+                    "gid": "4318788186095428807",
+                    "size": "21547447798",
+                    "download": "9664396560"
+                },
+                "devtest": {
+                    "gid": "4579725911674497978",
+                    "size": "28581456848",
+                    "download": "13490767904"
+                }
+            },
+            "decryptionkey": "3de6377dcc0c7e93bb1fdd7a9b8b9f13d72ab35f016e283d585b3a595f8b6367"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17915006",
+                "timeupdated": "1743483809"
+            },
+            "old_build_041": {
+                "buildid": "5622237",
+                "description": "Old Build 0.4.1",
+                "timeupdated": "1658999621"
+            },
+            "old_build_052": {
+                "buildid": "10236012",
+                "description": "Old Build 0.5.2.1",
+                "timeupdated": "1701788038"
+            },
+            "devtest": {
+                "buildid": "17914586",
+                "description": "Test Branch",
+                "timeupdated": "1743323986"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
