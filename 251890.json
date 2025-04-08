@@ -1,0 +1,75 @@
+{
+    "appid": "251890",
+    "type": "Game",
+    "name": "World of Diving",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27805554",
+    "update_time": "2025-03-06 09:06:47",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "251891": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6004233786596283235",
+                    "size": "5543828563",
+                    "download": "2484774304"
+                }
+            },
+            "decryptionkey": "9a593a0888afcd286e1f900b587f71ecac6972bc49c7c676a450997bab1a1ee0"
+        },
+        "251892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6159019120985487035",
+                    "size": "5580265177",
+                    "download": "2497208512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "251893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "110266594976341761",
+                    "size": "5571635804",
+                    "download": "2497400288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "251890",
+        "branches": {
+            "public": {
+                "buildid": "1638674",
+                "timeupdated": "1487694343"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
