@@ -1,0 +1,148 @@
+{
+    "appid": "230700",
+    "type": "Game",
+    "name": "La-Mulana",
+    "schinese_name": "穆拉纳秘宝",
+    "isfreeapp": "0",
+    "change_number": "27131003",
+    "update_time": "2025-01-23 21:20:17",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,spanish,russian,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "230701": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "849931476712452120",
+                    "size": "108189024",
+                    "download": "75464928"
+                },
+                "tester": {
+                    "gid": "8124752266535081485",
+                    "size": "107415658",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1495bee7fdfce903697c1b4fed277a0c235d79ec99d56778b2908241c8dd4e55"
+        },
+        "230702": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2271186099936044047",
+                    "size": "111689953",
+                    "download": "76655408"
+                },
+                "tester": {
+                    "gid": "7391816915883408476",
+                    "size": "112377677",
+                    "download": "76734144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "230703": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3953156145743629465",
+                    "size": "118293573",
+                    "download": "77814928"
+                },
+                "tester": {
+                    "gid": "3953156145743629465",
+                    "size": "118293573",
+                    "download": "77814928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1281900": {
+            "dlcappid": "1281900",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6821253032341079200",
+                    "size": "124259393",
+                    "download": "125949456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1279250": {
+            "dlcappid": "1279250",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2602485575694031664",
+                    "size": "282270441",
+                    "download": "286124864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1279251": {
+            "dlcappid": "1279251",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4542384540125162977",
+                    "size": "12441712",
+                    "download": "6782640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1279252": {
+            "dlcappid": "1279252",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "408158590955133274",
+                    "size": "252956328",
+                    "download": "210043952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "5968359",
+                "timeupdated": "1608030752"
+            },
+            "tester": {
+                "buildid": "1594002",
+                "description": "for Testers",
+                "timeupdated": "1485504398"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
