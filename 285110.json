@@ -1,0 +1,323 @@
+{
+    "appid": "285110",
+    "type": "Game",
+    "name": "GearCity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27975212",
+    "update_time": "2025-03-16 03:33:07",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "285110",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "285111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3737694188569057828",
+                    "size": "4268454789",
+                    "download": "3721557024"
+                },
+                "1.22": {
+                    "gid": "8786791827262916512",
+                    "size": "2106940507",
+                    "download": "1861432368"
+                },
+                "1.23": {
+                    "gid": "7428618413303349748",
+                    "size": "2224469659",
+                    "download": "1946395280"
+                },
+                "1.24": {
+                    "gid": "3867604011556750305",
+                    "size": "2429513293",
+                    "download": "2051268512"
+                },
+                "irc_testing": {
+                    "gid": "9217400289705345691",
+                    "size": "4269647618",
+                    "download": "3721685744"
+                },
+                "32-bit_engine": {
+                    "gid": "6764317014576980611",
+                    "size": "4130315141",
+                    "download": "3588127936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8408108252872564993",
+                    "size": "4748642287",
+                    "download": "3819985872"
+                },
+                "1.22": {
+                    "gid": "3627044973739407885",
+                    "size": "2515852426",
+                    "download": "1935472368"
+                },
+                "1.23": {
+                    "gid": "4090040072068410264",
+                    "size": "2624063768",
+                    "download": "2028323344"
+                },
+                "1.24": {
+                    "gid": "4430080458778325519",
+                    "size": "2900386132",
+                    "download": "2147235568"
+                },
+                "irc_testing": {
+                    "gid": "7996643177029742893",
+                    "size": "4749829943",
+                    "download": "3820108176"
+                },
+                "32-bit_engine": {
+                    "gid": "4807206943290382807",
+                    "size": "4611596802",
+                    "download": "3686926080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285113": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1774731557391949582",
+                    "size": "4368063842",
+                    "download": "3732913200"
+                },
+                "1.22": {
+                    "gid": "9027045685253317979",
+                    "size": "2207469213",
+                    "download": "1865037312"
+                },
+                "1.23": {
+                    "gid": "7479428155181764090",
+                    "size": "2319126019",
+                    "download": "1958762288"
+                },
+                "1.24": {
+                    "gid": "1982990433541828333",
+                    "size": "2526840103",
+                    "download": "2062415072"
+                },
+                "irc_testing": {
+                    "gid": "345592998078482083",
+                    "size": "4367677011",
+                    "download": "3732853840"
+                },
+                "32-bit_engine": {
+                    "gid": "8854037150503199177",
+                    "size": "4229409356",
+                    "download": "3599674976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285114": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3077502520350502141",
+                    "size": "5289671342",
+                    "download": "3942707856"
+                },
+                "1.22": {
+                    "gid": "2001730434703627580",
+                    "size": "2515852426",
+                    "download": "1918266032"
+                },
+                "1.23": {
+                    "gid": "5674764737295438168",
+                    "size": "2624063768",
+                    "download": "2010584960"
+                },
+                "1.24": {
+                    "gid": "2462667373142363302",
+                    "size": "3502671786",
+                    "download": "2278630720"
+                },
+                "irc_testing": {
+                    "gid": "5216420085571374101",
+                    "size": "5371613007",
+                    "download": "3951655968"
+                },
+                "32-bit_engine": {
+                    "gid": "4256775576628360655",
+                    "size": "4748642402",
+                    "download": "3805128192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285115": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2262408437224510068",
+                    "size": "4459689073",
+                    "download": "3785892704"
+                },
+                "1.22": {
+                    "gid": "5252760004426580368",
+                    "size": "2207469213",
+                    "download": "1864871872"
+                },
+                "1.23": {
+                    "gid": "5007202472546935785",
+                    "size": "2319126019",
+                    "download": "1958063152"
+                },
+                "1.24": {
+                    "gid": "46664867986510772",
+                    "size": "2751787482",
+                    "download": "2220959312"
+                },
+                "irc_testing": {
+                    "gid": "4934575944714016552",
+                    "size": "4542032832",
+                    "download": "3794993232"
+                },
+                "32-bit_engine": {
+                    "gid": "8384491897868744501",
+                    "size": "4368063844",
+                    "download": "3732956816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285116": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "624516242363011506",
+                    "size": "4433193599",
+                    "download": "3776377328"
+                },
+                "1.22": {
+                    "gid": "1199380259992556266",
+                    "size": "2106940507",
+                    "download": "1858688784"
+                },
+                "1.23": {
+                    "gid": "931546298307974969",
+                    "size": "2224470122",
+                    "download": "1946814656"
+                },
+                "1.24": {
+                    "gid": "6079386468577658639",
+                    "size": "2544163546",
+                    "download": "2089988176"
+                },
+                "irc_testing": {
+                    "gid": "2656620573939678003",
+                    "size": "4434379260",
+                    "download": "3776506832"
+                },
+                "32-bit_engine": {
+                    "gid": "2796783368877779598",
+                    "size": "4268454791",
+                    "download": "3722147408"
+                }
+            },
+            "decryptionkey": "7ed3ec854999242f3bc6b69713a026c30a0ad3bd7f8c0805898bc43a462cdf4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17738804",
+                "timeupdated": "1742067183"
+            },
+            "1.22": {
+                "buildid": "3504687",
+                "description": "1.22 Supplemental Patch 2",
+                "timeupdated": "1573005582"
+            },
+            "1.23": {
+                "buildid": "3504690",
+                "description": "1.23 Supplemental Patch 4",
+                "timeupdated": "1573005752"
+            },
+            "1.24": {
+                "buildid": "3610728",
+                "description": "1.24 Supplemental Patch 9",
+                "timeupdated": "1573005944"
+            },
+            "irc_testing": {
+                "buildid": "10371321",
+                "description": "Putting IRC users to QA work.",
+                "timeupdated": "1674261002"
+            },
+            "32-bit_engine": {
+                "buildid": "15781863",
+                "description": "32-Bit v1.25",
+                "timeupdated": "1726935530"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4bac31762eaddc69b39047972720ac62ec0a5566d91739812d07d450392624b9"
+    }
+}
