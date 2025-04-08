@@ -1,0 +1,88 @@
+{
+    "appid": "2730700",
+    "type": "Game",
+    "name": "DRONE PERSPECTIVE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28340174",
+    "update_time": "2025-04-07 14:16:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2730701": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6792070481629962611",
+                    "size": "5881430590",
+                    "download": "5641711952"
+                },
+                "forward_shading": {
+                    "gid": "5375928382666297325",
+                    "size": "5819362533",
+                    "download": "5589010896"
+                },
+                "forwardshading": {
+                    "gid": "5375928382666297325",
+                    "size": "5819362533",
+                    "download": "5589010896"
+                },
+                "non_rtx": {
+                    "gid": "42302078374434837",
+                    "size": "5836124120",
+                    "download": "5602267392"
+                },
+                "upcoming_features": {
+                    "gid": "6792070481629962611",
+                    "size": "5881430590",
+                    "download": "5641711952"
+                }
+            },
+            "decryptionkey": "dba98ceae0220e43e02479a21fe2843be7d4adda5694f3bd8466c96a44b5851c"
+        },
+        "workshopdepot": "2730700",
+        "branches": {
+            "public": {
+                "buildid": "17911519",
+                "timeupdated": "1743326658"
+            },
+            "forward_shading": {
+                "buildid": "17911613",
+                "description": "Performant mode using forward shading for computers with integrated GPU. Use this branch!",
+                "timeupdated": "1743326677"
+            },
+            "forwardshading": {
+                "buildid": "17911613",
+                "description": "Please use forward_shading branch, they are identical, this name looks ugly",
+                "timeupdated": "1743326669"
+            },
+            "non_rtx": {
+                "buildid": "17911709",
+                "description": "Build with RTX explicitly turned off. Will not be using rtx features, regardless your graphics card. Good for 2060s",
+                "timeupdated": "1743326687"
+            },
+            "upcoming_features": {
+                "buildid": "17911519",
+                "description": "This branch is to test upcoming features, before they are available for everyone",
+                "timeupdated": "1743279677"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
