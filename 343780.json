@@ -1,0 +1,89 @@
+{
+    "appid": "343780",
+    "type": "Game",
+    "name": "Cat Goes Fishing",
+    "schinese_name": "小猫钓鱼",
+    "isfreeapp": "0",
+    "change_number": "28316155",
+    "update_time": "2025-04-05 04:11:37",
+    "depot": {
+        "343781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2708293152369153241",
+                    "size": "33199157",
+                    "download": "18248416"
+                },
+                "gamma": {
+                    "gid": "2708293152369153241",
+                    "size": "33199157",
+                    "download": "18248416"
+                },
+                "beta": {
+                    "gid": "2708293152369153241",
+                    "size": "33199157",
+                    "download": "18248416"
+                },
+                "fast": {
+                    "gid": "2708293152369153241",
+                    "size": "33199157",
+                    "download": "18248416"
+                }
+            },
+            "decryptionkey": "58a7298110be7e23962443ba93991143f08c06eb17ab6ed807048ee46e812804"
+        },
+        "343782": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3104444665715272859",
+                    "size": "56856261",
+                    "download": "29741760"
+                },
+                "gamma": {
+                    "gid": "2811289735487427888",
+                    "size": "56377377",
+                    "download": "30979536"
+                },
+                "beta": {
+                    "gid": "3104444665715272859",
+                    "size": "56856261",
+                    "download": "29741760"
+                },
+                "fast": {
+                    "gid": "3104444665715272859",
+                    "size": "56856261",
+                    "download": "29741760"
+                }
+            },
+            "decryptionkey": "68e4c817ed512f81ebbe6cd84e5156d8fa8ccbaac4c8b7ef7c057d30a2bbe328"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15262279",
+                "timeupdated": "1722851236"
+            },
+            "gamma": {
+                "buildid": "11941609",
+                "description": "Fewer updates, known issues.",
+                "timeupdated": "1692057942"
+            },
+            "beta": {
+                "buildid": "15262279",
+                "description": "Latest updates, unstable.",
+                "timeupdated": "1722851138"
+            },
+            "fast": {
+                "buildid": "15262279",
+                "description": "Runs faster, but may have bugs.",
+                "timeupdated": "1722851183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
