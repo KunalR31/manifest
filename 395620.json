@@ -1,0 +1,91 @@
+{
+    "appid": "395620",
+    "type": "Game",
+    "name": "Ittle Dew 2+",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27135985",
+    "update_time": "2025-01-24 02:26:12",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "395621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8127083840590666237",
+                    "size": "1060914195",
+                    "download": "617379120"
+                },
+                "vanilla": {
+                    "gid": "1874168462161477906",
+                    "size": "828229890",
+                    "download": "331343056"
+                }
+            },
+            "decryptionkey": "b6b2f7f40aeb8e30707b48d7906a628690c2a495e8bd7cee4167fa2a1a55d98a"
+        },
+        "395622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "315802976294812147",
+                    "size": "1106987318",
+                    "download": "629579056"
+                },
+                "vanilla": {
+                    "gid": "2612019994144164490",
+                    "size": "871559894",
+                    "download": "342642736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "395623": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5907844509068258263",
+                    "size": "1105868511",
+                    "download": "630976416"
+                },
+                "vanilla": {
+                    "gid": "1353272913318668545",
+                    "size": "866689798",
+                    "download": "342576288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3862072",
+                "timeupdated": "1558973653"
+            },
+            "vanilla": {
+                "buildid": "1573603",
+                "description": "Preserved, pre-Dream World version",
+                "timeupdated": "1558716633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
