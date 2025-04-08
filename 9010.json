@@ -1,0 +1,67 @@
+{
+    "appid": "9010",
+    "type": "Game",
+    "name": "Return to Castle Wolfenstein",
+    "schinese_name": "重返德军总部",
+    "isfreeapp": "0",
+    "change_number": "26784297",
+    "update_time": "2024-12-26 08:22:18",
+    "depot": {
+        "9011": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3427162182448439563",
+                    "size": "806975208",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1250383739134372589",
+                    "size": "800773864",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1250383739134372589",
+                    "size": "800773864",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c0e9cd613c10302fbe131288c5b91f769fd29e7f2fd436bb6386ff8e114ade48"
+        },
+        "9012": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7703796907330982314",
+                    "size": "6201344",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7703796907330982314",
+                    "size": "6201344",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "7703796907330982314",
+                    "size": "6201344",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3746"
+            },
+            "beta": {
+                "buildid": "3750"
+            },
+            "local": {
+                "buildid": "3751",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
