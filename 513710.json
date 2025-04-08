@@ -1,0 +1,79 @@
+{
+    "appid": "513710",
+    "type": "Game",
+    "name": "SCUM",
+    "schinese_name": "人渣",
+    "isfreeapp": "0",
+    "change_number": "28345822",
+    "update_time": "2025-04-07 20:49:43",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam",
+        "depotdeltapatches": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "513711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "803483309713251790",
+                    "size": "79456943773",
+                    "download": "27905983488"
+                }
+            },
+            "decryptionkey": "a4217026617fd23bbc1b544c3160c7c7e5157bc3cfcd825b8dbd1c6d0513c3b4"
+        },
+        "919680": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "919680",
+            "manifests": {
+                "public": {
+                    "gid": "6252294094855435400",
+                    "size": "37896840",
+                    "download": "25373104"
+                }
+            },
+            "decryptionkey": "903d006bb149ccbe1ab4f9dbbad34150079380811c9c78b3cfa5c1505ad889ae"
+        },
+        "1643210": {
+            "dlcappid": "1643210",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8526987047835682522",
+                    "size": "96504739",
+                    "download": "94680896"
+                }
+            },
+            "decryptionkey": "9e747e8f5cf60151ff0c48ce9eb2bb1977b88052fbb610f1a0ae88d28d001194"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17779968",
+                "timeupdated": "1742475636"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
