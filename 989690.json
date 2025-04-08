@@ -1,0 +1,69 @@
+{
+    "appid": "989690",
+    "type": "Game",
+    "name": "Conan Unconquered",
+    "schinese_name": "不屈者柯南",
+    "isfreeapp": "0",
+    "change_number": "26947588",
+    "update_time": "2025-01-11 04:09:49",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "989691": {
+            "manifests": {
+                "public": {
+                    "gid": "1506225326517432314",
+                    "size": "8181803182",
+                    "download": "4176831872"
+                },
+                "public_test": {
+                    "gid": "1506225326517432314",
+                    "size": "8181803182",
+                    "download": "4176831872"
+                }
+            },
+            "decryptionkey": "956c4557113dd14a719501a116a706462f4f803eb0a8582e64778d9064afd958"
+        },
+        "1040880": {
+            "manifests": {
+                "public": {
+                    "gid": "6468330548420696053",
+                    "size": "326835324",
+                    "download": "302473920"
+                },
+                "public_test": {
+                    "gid": "6468330548420696053",
+                    "size": "326835324",
+                    "download": "302473920"
+                }
+            },
+            "dlcappid": "1040880",
+            "decryptionkey": "45633e5d4790a11f81c368d60f9adcbef7416cb340112afec08a41a628340551"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4247885",
+                "timeupdated": "1570125809"
+            },
+            "public_test": {
+                "buildid": "4247885",
+                "description": "Public Test Branch for new features.",
+                "timeupdated": "1570125784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
