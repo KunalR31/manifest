@@ -1,0 +1,76 @@
+{
+    "appid": "284050",
+    "type": "Game",
+    "name": "Sanitarium",
+    "schinese_name": "疯人院",
+    "isfreeapp": "0",
+    "change_number": "27121416",
+    "update_time": "2025-01-23 08:27:12",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "284051": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2197383176086176404",
+                    "size": "2189949697",
+                    "download": "755115922424"
+                }
+            },
+            "decryptionkey": "8a62eaa19b98dbf115a1940155f118935c2fe5d2485a6e64b8f23801f72bcf1a"
+        },
+        "284052": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5919744556507660598",
+                    "size": "1571202884",
+                    "download": "3009794555912"
+                }
+            },
+            "decryptionkey": "20661a175dbb3e25456c0896de04afd0fe8dffcbe8c2795333bd75fc2b346c57"
+        },
+        "284053": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3559741926029564332",
+                    "size": "1588714483",
+                    "download": "2243479137730"
+                }
+            },
+            "decryptionkey": "1b1813de97b551a976423bf59244d0c2bae31097e9b7dcce20e64788d4186cce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "429367"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
