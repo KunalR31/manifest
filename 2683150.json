@@ -1,0 +1,65 @@
+{
+    "appid": "2683150",
+    "type": "Game",
+    "name": "Ale & Tale Tavern",
+    "schinese_name": "传说酒馆",
+    "isfreeapp": "0",
+    "change_number": "28316150",
+    "update_time": "2025-04-05 04:11:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2683151": {
+            "manifests": {
+                "public": {
+                    "gid": "567527726784182802",
+                    "size": "4058430070",
+                    "download": "1340730976"
+                },
+                "prv2": {
+                    "gid": "590502473402878070",
+                    "size": "3408871075",
+                    "download": "1158764736"
+                },
+                "prv3": {
+                    "gid": "7586214972356448278",
+                    "size": "3599442190",
+                    "download": "1222692800"
+                },
+                "test": {
+                    "gid": "3853142180744691894",
+                    "size": "4079380621",
+                    "download": "1345446416"
+                }
+            },
+            "decryptionkey": "fb4abcba88c9d336863c767233f69ca8be744236c5b6ae985441b2796efc5464"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17864991",
+                "timeupdated": "1742988769"
+            },
+            "prv2": {
+                "buildid": "16656249",
+                "description": "v 1.2",
+                "timeupdated": "1735564643"
+            },
+            "prv3": {
+                "buildid": "17038318",
+                "description": "v 1.3",
+                "timeupdated": "1737704562"
+            },
+            "test": {
+                "buildid": "17865057",
+                "description": "Public",
+                "timeupdated": "1742983610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
