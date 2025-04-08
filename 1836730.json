@@ -1,0 +1,54 @@
+{
+    "appid": "1836730",
+    "type": "Game",
+    "name": "Echo Point Nova",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28292573",
+    "update_time": "2025-04-04 00:06:12",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836731": {
+            "manifests": {
+                "public": {
+                    "gid": "3688351565388227381",
+                    "size": "3081904586",
+                    "download": "2853313328"
+                },
+                "decktest": {
+                    "gid": "372220488810528734",
+                    "size": "3648540403",
+                    "download": "2956316656"
+                }
+            },
+            "decryptionkey": "3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824"
+        },
+        "workshopdepot": "1836730",
+        "branches": {
+            "public": {
+                "buildid": "17972626",
+                "timeupdated": "1743696368"
+            },
+            "decktest": {
+                "buildid": "17642498",
+                "description": "testing Deck UI",
+                "timeupdated": "1741391967"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
