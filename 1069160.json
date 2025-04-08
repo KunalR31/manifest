@@ -1,0 +1,61 @@
+{
+    "appid": "1069160",
+    "type": "Game",
+    "name": "SKALD: Against the Black Priory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28030983",
+    "update_time": "2025-03-19 19:07:04",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1069161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4024816514648269928",
+                    "size": "731628578",
+                    "download": "345418224"
+                },
+                "experimental-public-test": {
+                    "gid": "5571651389086422425",
+                    "size": "733171754",
+                    "download": "345624992"
+                }
+            },
+            "decryptionkey": "e74c024af3a1587e5fb2cfc293646bad96cd8af3525d45ac46cfc7320dffd267"
+        },
+        "1069162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7574834699726070717",
+                    "size": "568490380",
+                    "download": "246240848"
+                },
+                "experimental-public-test": {
+                    "gid": "362331759211505348",
+                    "size": "537215277",
+                    "download": "239246480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17422151",
+                "timeupdated": "1740398370"
+            },
+            "experimental-public-test": {
+                "buildid": "17064742",
+                "description": "For public testing",
+                "timeupdated": "1737377429"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
