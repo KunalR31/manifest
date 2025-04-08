@@ -1,0 +1,53 @@
+{
+    "appid": "1735700",
+    "type": "Game",
+    "name": "Back to the Dawn",
+    "schinese_name": "动物迷城",
+    "isfreeapp": "0",
+    "change_number": "28283825",
+    "update_time": "2025-04-03 15:47:45",
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1735701": {
+            "manifests": {
+                "public": {
+                    "gid": "4257355322524323510",
+                    "size": "2717184497",
+                    "download": "666792736"
+                },
+                "opentest": {
+                    "gid": "3598860233358553076",
+                    "size": "2717184517",
+                    "download": "666803600"
+                }
+            },
+            "decryptionkey": "f2bbd7e59cb9050efe964f132c6edcb6059ffefaa0995f9b658989c95a85d7df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16031104",
+                "timeupdated": "1728886247"
+            },
+            "opentest": {
+                "buildid": "16031132",
+                "description": "玩家测试分支",
+                "timeupdated": "1728886229"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
