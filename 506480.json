@@ -1,0 +1,89 @@
+{
+    "appid": "506480",
+    "type": "Game",
+    "name": "Archmage Rises",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27504015",
+    "update_time": "2025-02-17 00:16:00",
+    "depot": {
+        "506481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2350295922858712693",
+                    "size": "5441097270",
+                    "download": "1760168928"
+                },
+                "beta": {
+                    "gid": "2350295922858712693",
+                    "size": "5441097270",
+                    "download": "1760168928"
+                },
+                "legacy": {
+                    "gid": "5354474294335759104",
+                    "size": "5277101431",
+                    "download": "1722377552"
+                },
+                "magetower": {
+                    "gid": "8348670437694666077",
+                    "size": "5224446635",
+                    "download": "1717380336"
+                }
+            },
+            "decryptionkey": "7fb3cf0aa87aa59e1b5fe2a162fd4740fe5e0e4012be7ee8180007ce2d948013"
+        },
+        "506482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "88426885159206118",
+                    "size": "5466116002",
+                    "download": "1772810896"
+                },
+                "beta": {
+                    "gid": "88426885159206118",
+                    "size": "5466116002",
+                    "download": "1772810896"
+                },
+                "legacy": {
+                    "gid": "1981668869263734291",
+                    "size": "5302093433",
+                    "download": "1735028032"
+                },
+                "magetower": {
+                    "gid": "4968695064595964819",
+                    "size": "5247900119",
+                    "download": "1728673008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14357094",
+                "timeupdated": "1715719566"
+            },
+            "beta": {
+                "buildid": "14357094",
+                "description": "Rivals Combat Beta - 0.2.200",
+                "timeupdated": "1715719106"
+            },
+            "legacy": {
+                "buildid": "13094789",
+                "description": "Legacy (Pre-Combat)",
+                "timeupdated": "1705510913"
+            },
+            "magetower": {
+                "buildid": "12249870",
+                "description": "0.2.8 (deprecated)",
+                "timeupdated": "1696091143"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
