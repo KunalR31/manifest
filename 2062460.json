@@ -1,0 +1,81 @@
+{
+    "appid": "2062460",
+    "type": "DLC",
+    "name": "RetroArch - Handy",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731480",
+    "update_time": "2025-03-01 17:14:26",
+    "depot": {
+        "2062460": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2062460",
+            "manifests": {
+                "public": {
+                    "gid": "2896471562454425006",
+                    "size": "992020",
+                    "download": "141520"
+                },
+                "nightly": {
+                    "gid": "5264734896203047854",
+                    "size": "992020",
+                    "download": "141472"
+                }
+            },
+            "decryptionkey": "4684dbc2815fb21f9e801cf230396e1a0c252f7e6131e092ef99b72260d8f89e"
+        },
+        "2062461": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4456167280818265651",
+                    "size": "893882",
+                    "download": "80720"
+                },
+                "nightly": {
+                    "gid": "4456167280818265651",
+                    "size": "893882",
+                    "download": "80720"
+                }
+            },
+            "dlcappid": "2062460",
+            "decryptionkey": "1c94ea0786940ca66fa8aa06ffefba29af101415f2795ab0b9c7e6eed597c03f"
+        },
+        "2062462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7721350609633718154",
+                    "size": "1522130",
+                    "download": "134144"
+                },
+                "nightly": {
+                    "gid": "7721350609633718154",
+                    "size": "1522130",
+                    "download": "134144"
+                }
+            },
+            "dlcappid": "2062460",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911375",
+                "timeupdated": "1736093854"
+            },
+            "nightly": {
+                "buildid": "17557863",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820462"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
