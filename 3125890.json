@@ -1,0 +1,75 @@
+{
+    "appid": "3125890",
+    "type": "Game",
+    "name": "Mineral Defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28265213",
+    "update_time": "2025-04-02 17:48:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3125891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "294517459348845369",
+                    "size": "917675798",
+                    "download": "700031088"
+                },
+                "nightly": {
+                    "gid": "3566310034933850767",
+                    "size": "915625330",
+                    "download": "700080128"
+                }
+            },
+            "decryptionkey": "a7a9b39f854c3b38cfd2c6605ee1b6926b5799dd7e2f03d3b5a17c9d27f4c7f9"
+        },
+        "3125892": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3644279254906966773",
+                    "size": "791686510",
+                    "download": "579701216"
+                },
+                "nightly": {
+                    "gid": "7217349235157205643",
+                    "size": "791589017",
+                    "download": "579322096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17894379",
+                "timeupdated": "1743147915"
+            },
+            "nightly": {
+                "buildid": "17952501",
+                "description": "Where the latest changes will be available. Has a greater chance of issues ands bugs.",
+                "timeupdated": "1743587303"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
