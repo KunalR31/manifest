@@ -1,0 +1,67 @@
+{
+    "appid": "261530",
+    "type": "Game",
+    "name": "Lifeless Planet",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924298",
+    "update_time": "2025-03-13 10:22:01",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3788141728966861509",
+                    "size": "984742617",
+                    "download": "623850288"
+                }
+            },
+            "decryptionkey": "dd21f24d863de400699de49521cdb6459eeaac5ec851d48a3c95a7317143ffd5"
+        },
+        "261532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7863426499431084523",
+                    "size": "983766685",
+                    "download": "617867536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "261533": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "341583837872164349",
+                    "size": "921921390",
+                    "download": "493778336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1555930",
+                "timeupdated": "1485979470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
