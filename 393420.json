@@ -1,0 +1,145 @@
+{
+    "appid": "393420",
+    "type": "Game",
+    "name": "Hurtworld",
+    "schinese_name": "伤害世界",
+    "isfreeapp": "0",
+    "change_number": "27114230",
+    "update_time": "2025-01-22 23:26:05",
+    "depot": {
+        "workshopdepot": "393420",
+        "393421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1384002874314769666",
+                    "size": "1306983790",
+                    "download": "615235120"
+                },
+                "devtest": {
+                    "gid": "1384002874314769666",
+                    "size": "1306983790",
+                    "download": "615235120"
+                },
+                "oldversion": {
+                    "gid": "2661474767150921317",
+                    "size": "1285151761",
+                    "download": "607645728"
+                }
+            },
+            "decryptionkey": "7d248292bbd5595db5efe42d943865d5bf24dc6233d7e0c90eb563a0d1437444"
+        },
+        "393422": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "720214503351041440",
+                    "size": "1028517284",
+                    "download": "535514720"
+                },
+                "devtest": {
+                    "gid": "720214503351041440",
+                    "size": "1028517284",
+                    "download": "535514720"
+                },
+                "oldversion": {
+                    "gid": "720214503351041440",
+                    "size": "1028517284",
+                    "download": "535514720"
+                }
+            },
+            "decryptionkey": "7cb94ec8d63a86901d6cb9e70aaa9adce2372cea992b342cbe1b7267741a9b66"
+        },
+        "393423": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1866934642305261145",
+                    "size": "1489181522",
+                    "download": "651365248"
+                },
+                "devtest": {
+                    "gid": "1866934642305261145",
+                    "size": "1489181522",
+                    "download": "651365248"
+                },
+                "oldversion": {
+                    "gid": "5990448780863971821",
+                    "size": "1408471861",
+                    "download": "627629424"
+                }
+            },
+            "decryptionkey": "bbf3293997086137dd011b08441055c049ae6191771a3ef10bf6b7cc3b001a51"
+        },
+        "393424": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "442009312388249176",
+                    "size": "14336",
+                    "download": "3920"
+                },
+                "devtest": {
+                    "gid": "442009312388249176",
+                    "size": "14336",
+                    "download": "3920"
+                },
+                "oldversion": {
+                    "gid": "442009312388249176",
+                    "size": "14336",
+                    "download": "3920"
+                }
+            },
+            "decryptionkey": "c8c08b504d414364fddb91ad385653cb154e19526c6711b12868fd79a71218a5"
+        },
+        "393425": {
+            "manifests": {
+                "public": {
+                    "gid": "2957262058801283718",
+                    "size": "3487640511",
+                    "download": "1034606000"
+                },
+                "devtest": {
+                    "gid": "2957262058801283718",
+                    "size": "3487640511",
+                    "download": "1034606000"
+                },
+                "oldversion": {
+                    "gid": "3069271829393854452",
+                    "size": "3487500015",
+                    "download": "1034569632"
+                }
+            },
+            "decryptionkey": "a865468f3e3961bf1600e612b832dc6b2ddb2b318c79d231ed10b2d435228ad6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10796695",
+                "timeupdated": "1679072278"
+            },
+            "devtest": {
+                "buildid": "10796695",
+                "description": "Dev only test branch",
+                "timeupdated": "1679072294"
+            },
+            "oldversion": {
+                "buildid": "4710831",
+                "description": "The previous protocol version before for slow to update servers",
+                "timeupdated": "1679068820"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d0839c6655630cf849c5ee91ab4f1f26bd9954e42ab1cd5a1a726c057123eed2"
+    }
+}
