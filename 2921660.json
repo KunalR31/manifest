@@ -1,0 +1,53 @@
+{
+    "appid": "2921660",
+    "type": "Demo",
+    "name": "Cat Quest III: Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24773461",
+    "update_time": "2024-08-14 06:40:38",
+    "depot": {
+        "2921661": {
+            "manifests": {
+                "public": {
+                    "gid": "4782758942347880853",
+                    "size": "731761137",
+                    "download": "553672592"
+                },
+                "experimentalcutscenefix": {
+                    "gid": "4782758942347880853",
+                    "size": "731761137",
+                    "download": "553672592"
+                },
+                "h264cutscenefix": {
+                    "gid": "6075835647020863479",
+                    "size": "1116628014",
+                    "download": "935249344"
+                }
+            },
+            "decryptionkey": "e0a11574d4ef417eeac1ab9389bf22b33ea7d71066aeb2ec32bf3f882dd77b59"
+        },
+        "2921662": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14714289",
+                "timeupdated": "1718418182"
+            },
+            "experimentalcutscenefix": {
+                "buildid": "14714289",
+                "description": " Fix for cutscenes - Use this only if you are experiencing choppy cutscenes",
+                "timeupdated": "1718357975"
+            },
+            "h264cutscenefix": {
+                "buildid": "14701597",
+                "description": "Fix for cutscenes - Use this only if you are experiencing choppy cutscenes",
+                "timeupdated": "1718264620"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
