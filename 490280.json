@@ -1,0 +1,123 @@
+{
+    "appid": "490280",
+    "type": "Game",
+    "name": "Realms of Magic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27105108",
+    "update_time": "2025-01-22 11:26:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "490281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4510106752601346171",
+                    "size": "3402181234",
+                    "download": "2095815424"
+                },
+                "alpha": {
+                    "gid": "2333682099370401786",
+                    "size": "830485836",
+                    "download": "136842672"
+                },
+                "beta": {
+                    "gid": "7217900763518056598",
+                    "size": "1526077025",
+                    "download": "200761872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "490282": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1468068641017096294",
+                    "size": "3435706828",
+                    "download": "2116584672"
+                },
+                "alpha": {
+                    "gid": "1710097578803506989",
+                    "size": "863907494",
+                    "download": "157676672"
+                },
+                "beta": {
+                    "gid": "7498317528032375422",
+                    "size": "1559592379",
+                    "download": "221526048"
+                }
+            },
+            "decryptionkey": "ed0e9e4c7912af267a863219cc0a85142960121334554c5440d8190d56794356"
+        },
+        "490283": {
+            "manifests": {
+                "public": {
+                    "gid": "6618444228558892069",
+                    "size": "3",
+                    "download": "48"
+                },
+                "alpha": {
+                    "gid": "6618444228558892069",
+                    "size": "3",
+                    "download": "48"
+                },
+                "beta": {
+                    "gid": "6618444228558892069",
+                    "size": "3",
+                    "download": "48"
+                }
+            },
+            "decryptionkey": "87da8ea5863b7ab1be86f2347be173a7a8c512bc0d072e678ccd012690a14d04"
+        },
+        "490284": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "490285": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "490286": {},
+        "branches": {
+            "public": {
+                "buildid": "17024019",
+                "timeupdated": "1737050212"
+            },
+            "alpha": {
+                "buildid": "8164691",
+                "description": "Alpha 0.7.1",
+                "timeupdated": "1644320597"
+            },
+            "beta": {
+                "buildid": "8824948",
+                "description": "Beta 0.26.1",
+                "timeupdated": "1655343531"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
