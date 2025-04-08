@@ -1,0 +1,65 @@
+{
+    "appid": "548680",
+    "type": "Game",
+    "name": "Iron Crypticle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25553383",
+    "update_time": "2024-10-06 14:00:40",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "548681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5649686886660732872",
+                    "size": "97859770",
+                    "download": "59160784"
+                },
+                "compatibility": {
+                    "gid": "2190992312521676304",
+                    "size": "97778295",
+                    "download": "59154528"
+                },
+                "steamdecktest": {
+                    "gid": "6518240503032277884",
+                    "size": "97859770",
+                    "download": "59160800"
+                }
+            },
+            "decryptionkey": "b55bbcfd61fb8d367a752b8e751d76c1471182cc81e7463a9faa9399986c77ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10099430",
+                "timeupdated": "1670438052"
+            },
+            "compatibility": {
+                "buildid": "2046538",
+                "description": "Previous stable build",
+                "timeupdated": "1656407329"
+            },
+            "steamdecktest": {
+                "buildid": "9019941",
+                "description": "Test for Steam Deck",
+                "timeupdated": "1656407348"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
