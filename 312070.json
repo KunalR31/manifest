@@ -1,0 +1,102 @@
+{
+    "appid": "312070",
+    "type": "Tool",
+    "name": "Dark Horizons: Mechanized Corps Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26181952",
+    "update_time": "2024-11-14 05:07:12",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "312071": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9130850983636379988",
+                    "size": "2410229024",
+                    "download": "899987040"
+                },
+                "beta_testing": {
+                    "gid": "6780493223730701921",
+                    "size": "2389043705",
+                    "download": "899156640"
+                },
+                "beta2_private": {
+                    "gid": "9130850983636379988",
+                    "size": "2410229024",
+                    "download": "899987040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "312072": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "beta2_private": {
+                    "gid": "2472684528410320248",
+                    "size": "1883497369",
+                    "download": "463269872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "912039"
+            },
+            "beta_testing": {
+                "buildid": "726551"
+            },
+            "beta2_private": {
+                "buildid": "3478238",
+                "description": "unity prebeta2",
+                "timeupdated": "1547740473"
+            }
+        }
+    }
+}
