@@ -1,0 +1,68 @@
+{
+    "appid": "2296430",
+    "type": "Demo",
+    "name": "Paleo Pines Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:25",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "2296431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7364099634683536869",
+                    "size": "4007442742",
+                    "download": "1130323360"
+                },
+                "beta": {
+                    "gid": "1564580017121446286",
+                    "size": "3882072161",
+                    "download": "1033070864"
+                }
+            },
+            "decryptionkey": "931fdff964ef41c589a7529e45eb24626a1dbe41ea55f0bf8bc928fece21f3bd"
+        },
+        "2296432": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "2296433": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2304954595249955409",
+                    "size": "4106324884",
+                    "download": "1169321280"
+                },
+                "beta": {
+                    "gid": "1033569411415694481",
+                    "size": "3982965009",
+                    "download": "1072555536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12664355",
+                "timeupdated": "1701261725"
+            },
+            "beta": {
+                "buildid": "13189435",
+                "description": "Public beta testing",
+                "timeupdated": "1708446288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
