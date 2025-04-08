@@ -1,0 +1,100 @@
+{
+    "appid": "32440",
+    "type": "Game",
+    "name": "LEGO® Star Wars™: The Complete Saga",
+    "schinese_name": "乐高星球大战：完整的传奇",
+    "isfreeapp": "0",
+    "change_number": "28181100",
+    "update_time": "2025-03-28 08:15:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "32441": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4358579234166114438",
+                    "size": "4676822480",
+                    "download": "0"
+                },
+                "domesticated_internal": {
+                    "gid": "4358579234166114438",
+                    "size": "4676822480",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d77a4f05dc43f9c65f271b3702812287726bf1b90edb9e268382f4590bc93f63"
+        },
+        "32442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "56539961887986393",
+                    "size": "4725986986",
+                    "download": "4605226272"
+                },
+                "domesticated_internal": {
+                    "gid": "56539961887986393",
+                    "size": "4725986986",
+                    "download": "4605226272"
+                },
+                "local": {
+                    "gid": "56539961887986393",
+                    "size": "4725986986",
+                    "download": "4605226272"
+                }
+            },
+            "decryptionkey": "460c92a21ba7795efebe9e7911f94cdc4441cedfdc1857dcd3f6881cccd25cc1"
+        },
+        "32443": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1545834275898559130",
+                    "size": "32684042",
+                    "download": "19271136"
+                },
+                "domesticated_internal": {
+                    "gid": "1545834275898559130",
+                    "size": "32684042",
+                    "download": "19271136"
+                },
+                "local": {
+                    "gid": "1250827065471072599",
+                    "size": "32684042",
+                    "download": "19271136"
+                }
+            },
+            "decryptionkey": "0dae5277d39b6217ae076ce511c3208e21e7d9680faffab0ffa4e2e5b0257ae8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1017673",
+                "timeupdated": "1458747710"
+            },
+            "domesticated_internal": {
+                "buildid": "1017673"
+            },
+            "local": {
+                "buildid": "1017670",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
