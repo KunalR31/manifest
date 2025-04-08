@@ -1,0 +1,98 @@
+{
+    "appid": "431180",
+    "type": "Game",
+    "name": "WolfQuest: Classic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28233333",
+    "update_time": "2025-04-01 01:45:14",
+    "depot": {
+        "431181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "110795274054828248",
+                    "size": "1581084145",
+                    "download": "566941888"
+                },
+                "linuxtest": {
+                    "gid": "1905752336994693054",
+                    "size": "1554041421",
+                    "download": "557020416"
+                },
+                "wqbeta": {
+                    "gid": "5982090967320813940",
+                    "size": "1554041428",
+                    "download": "557027296"
+                }
+            },
+            "decryptionkey": "7457410214aea45d38b331e83749c65843ae829865b2fa9ae109783a88756a7d"
+        },
+        "431182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8892657813424746113",
+                    "size": "1558090152",
+                    "download": "567649248"
+                },
+                "linuxtest": {
+                    "gid": "3503207750042341529",
+                    "size": "1531036673",
+                    "download": "557433312"
+                },
+                "wqbeta": {
+                    "gid": "1129890534093497429",
+                    "size": "1531036681",
+                    "download": "557515776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "431183": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "431184": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "431185": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "linuxtest": {
+                    "gid": "4551217042457012750",
+                    "size": "1539313917",
+                    "download": "562714880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6051863",
+                "timeupdated": "1610050252"
+            },
+            "linuxtest": {
+                "buildid": "2193342",
+                "description": "Test build for Linux",
+                "timeupdated": "1507824865"
+            },
+            "wqbeta": {
+                "buildid": "1685188",
+                "timeupdated": "1489254725"
+            }
+        }
+    }
+}
