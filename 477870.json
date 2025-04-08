@@ -1,0 +1,83 @@
+{
+    "appid": "477870",
+    "type": "Game",
+    "name": "Yomawari: Night Alone",
+    "schinese_name": "夜廻",
+    "isfreeapp": "0",
+    "change_number": "27159050",
+    "update_time": "2025-01-25 09:28:22",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "477871": {
+            "manifests": {
+                "public": {
+                    "gid": "2591754114830748988",
+                    "size": "1024032443",
+                    "download": "552854256"
+                },
+                "beta": {
+                    "gid": "4108751421186442231",
+                    "size": "1024024239",
+                    "download": "552848400"
+                }
+            },
+            "decryptionkey": "edaf481d0285207caf29f7932ea8a5304ef850a012a097fb6f03747bebaa75f4"
+        },
+        "477880": {
+            "manifests": {
+                "public": {
+                    "gid": "7407340641025171058",
+                    "size": "57567589",
+                    "download": "17935520"
+                },
+                "beta": {
+                    "gid": "7407340641025171058",
+                    "size": "57567589",
+                    "download": "17935520"
+                }
+            },
+            "dlcappid": "477880",
+            "decryptionkey": "828ff21e336b8ed12ff212e3623e3c68e4e203f5e594fdce2a45506c74ecea7f"
+        },
+        "477881": {
+            "manifests": {
+                "public": {
+                    "gid": "5368817760499388309",
+                    "size": "4665531",
+                    "download": "4015824"
+                },
+                "beta": {
+                    "gid": "5368817760499388309",
+                    "size": "4665531",
+                    "download": "4015824"
+                }
+            },
+            "decryptionkey": "c88c1b69618a608a9339c7b80c2e00badbeb60c7703cc7b3c2c33cad2a3b87ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1627019",
+                "timeupdated": "1487008659"
+            },
+            "beta": {
+                "buildid": "1614567",
+                "description": "Public beta branch",
+                "timeupdated": "1486495321"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
