@@ -1,0 +1,88 @@
+{
+    "appid": "655740",
+    "type": "Game",
+    "name": "Tallowmere 2: Curse of the Kittens",
+    "schinese_name": "烛火地牢2：猫咪的诅咒",
+    "isfreeapp": "0",
+    "change_number": "26413664",
+    "update_time": "2024-12-05 05:53:07",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "655742": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3109495219785996717",
+                    "size": "214914434",
+                    "download": "147513872"
+                },
+                "testing": {
+                    "gid": "3109495219785996717",
+                    "size": "214914434",
+                    "download": "147513872"
+                }
+            },
+            "decryptionkey": "266dae46d421a214d5a9fe3b77c86bca1791c6af7b25e0bfb4dbdb1a950a1bd9"
+        },
+        "655743": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "339761217394188984",
+                    "size": "209637156",
+                    "download": "146152768"
+                },
+                "testing": {
+                    "gid": "339761217394188984",
+                    "size": "209637156",
+                    "download": "146152768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "655744": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3997207313212248263",
+                    "size": "218519522",
+                    "download": "147820704"
+                },
+                "testing": {
+                    "gid": "3997207313212248263",
+                    "size": "218519522",
+                    "download": "147820704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16558371",
+                "timeupdated": "1732835250"
+            },
+            "testing": {
+                "buildid": "16558371",
+                "description": "Testing for upcoming versions.",
+                "timeupdated": "1732744566"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
