@@ -1,0 +1,53 @@
+{
+    "appid": "255520",
+    "type": "Game",
+    "name": "Viscera Cleanup Detail: Shadow Warrior",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27850781",
+    "update_time": "2025-03-08 21:01:28",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "255521": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "824400145388654286",
+                    "size": "1252566669",
+                    "download": "843704464"
+                },
+                "local": {
+                    "gid": "8439072812564174698",
+                    "size": "814513753",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fb82303d8279ab1c2d248b4f47f600f09ee1e9b1a0878ab4874e807bc2202e6d"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "4286356",
+                "timeupdated": "1571470700"
+            },
+            "local": {
+                "buildid": "119405",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
