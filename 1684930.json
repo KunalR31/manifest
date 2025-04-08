@@ -1,0 +1,52 @@
+{
+    "appid": "1684930",
+    "type": "Game",
+    "name": "CULTIC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26851161",
+    "update_time": "2025-01-03 20:07:09",
+    "depot": {
+        "1684931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4521446159325547901",
+                    "size": "4807313012",
+                    "download": "540306992"
+                },
+                "beta": {
+                    "gid": "8715823285512779623",
+                    "size": "4985327142",
+                    "download": "560075232"
+                },
+                "v102archive": {
+                    "gid": "1713738018785687222",
+                    "size": "3201652991",
+                    "download": "443130400"
+                }
+            },
+            "decryptionkey": "a66658f152af830e0aaeff5d5e5cb8c4b31bf7e379547fe442ce70c0804dde01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13015560",
+                "timeupdated": "1703197742"
+            },
+            "beta": {
+                "buildid": "13512871",
+                "description": "A side branch for testing features that may not be stable",
+                "timeupdated": "1708468827"
+            },
+            "v102archive": {
+                "buildid": "9749486",
+                "description": "Archived version of v102b",
+                "timeupdated": "1668610960"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
