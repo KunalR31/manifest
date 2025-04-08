@@ -1,0 +1,42 @@
+{
+    "appid": "213610",
+    "type": "Game",
+    "name": "Sonic Adventure™ 2 ",
+    "schinese_name": "索尼克大冒险2",
+    "isfreeapp": "0",
+    "change_number": "27507235",
+    "update_time": "2025-02-17 07:12:35",
+    "depot": {
+        "213611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2881461178350562369",
+                    "size": "3253731096",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3148603639301720156",
+                    "size": "3136762139",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "62f1345bc9ba1ad0629de28584b42ae616b50160113d7735b6eda7f0e9434117"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "15280"
+            },
+            "local": {
+                "buildid": "7159",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
