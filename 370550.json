@@ -1,0 +1,57 @@
+{
+    "appid": "370550",
+    "type": "Game",
+    "name": "Sparkle 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27878677",
+    "update_time": "2025-03-11 04:20:13",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "370551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1941573773012584276",
+                    "size": "110911377",
+                    "download": "80084624"
+                },
+                "test_branch": {
+                    "gid": "1941573773012584276",
+                    "size": "110911377",
+                    "download": "80084624"
+                }
+            },
+            "decryptionkey": "f846f79f7a101def47ad435ee812d0b1cb13b284a187c8172a289a4c8885a6c1"
+        },
+        "370552": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "370553": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "baselanguages": "english,german,schinese,tchinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "1916263",
+                "timeupdated": "1498470797"
+            },
+            "test_branch": {
+                "buildid": "1916263",
+                "timeupdated": "1498468688"
+            }
+        }
+    }
+}
