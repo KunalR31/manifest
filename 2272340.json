@@ -1,0 +1,110 @@
+{
+    "appid": "2272340",
+    "type": "Demo",
+    "name": "Horticular Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530768",
+    "update_time": "2025-02-18 17:04:21",
+    "depot": {
+        "2272341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5655306461626003434",
+                    "size": "244990890",
+                    "download": "135069424"
+                },
+                "demo1": {
+                    "gid": "4913152360664570316",
+                    "size": "142677324",
+                    "download": "83831648"
+                },
+                "demo2": {
+                    "gid": "5740172421010055519",
+                    "size": "204961675",
+                    "download": "108273712"
+                },
+                "local": {
+                    "gid": "779660476647651777",
+                    "size": "141210003",
+                    "download": "83909008"
+                },
+                "demo3": {
+                    "gid": "412139825149747372",
+                    "size": "204219440",
+                    "download": "107880704"
+                }
+            },
+            "decryptionkey": "3f79a553debd9333ea1a8a2c39452adead570f3693f6ec6c176885ea6daaadca"
+        },
+        "2272342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6881836406277338238",
+                    "size": "239567429",
+                    "download": "133241088"
+                },
+                "demo1": {
+                    "gid": "7384827977198474345",
+                    "size": "143275566",
+                    "download": "83496016"
+                },
+                "demo2": {
+                    "gid": "8256113856820799056",
+                    "size": "206482737",
+                    "download": "108462880"
+                },
+                "local": {
+                    "gid": "3045541451001312152",
+                    "size": "142669671",
+                    "download": "83163424"
+                },
+                "demo3": {
+                    "gid": "8406741834616913112",
+                    "size": "201372476",
+                    "download": "106844496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2272343": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15969213",
+                "timeupdated": "1728576477"
+            },
+            "demo1": {
+                "buildid": "11289941",
+                "description": "Legacy version of first demo",
+                "timeupdated": "1684781457"
+            },
+            "demo2": {
+                "buildid": "12162628",
+                "description": " Legacy version of demo2",
+                "timeupdated": "1696450418"
+            },
+            "local": {
+                "buildid": "10269943",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1673022244"
+            },
+            "demo3": {
+                "buildid": "12533242",
+                "description": "Legacy version of demo3",
+                "timeupdated": "1720187574"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
