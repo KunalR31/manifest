@@ -1,0 +1,77 @@
+{
+    "appid": "3117820",
+    "type": "Game",
+    "name": "Sultan's Game",
+    "schinese_name": "苏丹的游戏",
+    "isfreeapp": "0",
+    "change_number": "28341374",
+    "update_time": "2025-04-07 15:58:16",
+    "depot": {
+        "3117821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "698781801115035953",
+                    "size": "2494771157",
+                    "download": "528231024"
+                },
+                "devtest-0.2": {
+                    "gid": "2708524691989434518",
+                    "size": "630537478",
+                    "download": "154384768"
+                },
+                "devtest-0.3": {
+                    "gid": "8745392836043176886",
+                    "size": "757193962",
+                    "download": "179010656"
+                }
+            },
+            "decryptionkey": "6da5c61617ae1bce4dec442e070762a2b581103f5765d3067a24cc1276dd0461"
+        },
+        "3117822": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2711083383518413833",
+                    "size": "2531154496",
+                    "download": "530614304"
+                }
+            },
+            "decryptionkey": "035a90c8a84efd35f026f2ac3856c53f459fed40e95d99e490f0eed947a99be9"
+        },
+        "3117823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2772338772037893987",
+                    "size": "2587573360",
+                    "download": "546988816"
+                }
+            },
+            "decryptionkey": "4041c78dfa1b7b56de279bbaf92f1bd964a745fd067e476ed3302d0a40b90042"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17954583",
+                "timeupdated": "1743661583"
+            },
+            "devtest-0.2": {
+                "buildid": "15365016",
+                "description": "0.2测试分支",
+                "timeupdated": "1723620227"
+            },
+            "devtest-0.3": {
+                "buildid": "15543771",
+                "description": "0.3测试分支",
+                "timeupdated": "1725016346"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
