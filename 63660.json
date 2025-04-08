@@ -1,0 +1,60 @@
+{
+    "appid": "63660",
+    "type": "Game",
+    "name": "Myst: Masterpiece Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28277920",
+    "update_time": "2025-04-03 06:38:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "63661": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1375041727168249817",
+                    "size": "1457290995",
+                    "download": "1016813232"
+                }
+            },
+            "decryptionkey": "890c562cc0714297319a92b81a0d8541b811b5b8d6387dc49e8ef700701721ac"
+        },
+        "63662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "536039244949027125",
+                    "size": "1442432586",
+                    "download": "968519712"
+                }
+            },
+            "decryptionkey": "79085083070bb83d7221035f84c1286be1c4c8c66a56d91c46ff1c4b4fa83475"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4937526",
+                "timeupdated": "1587759246"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
