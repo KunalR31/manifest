@@ -1,0 +1,82 @@
+{
+    "appid": "2184150",
+    "type": "Game",
+    "name": "Dead Matter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28328415",
+    "update_time": "2025-04-06 09:21:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2184151": {
+            "manifests": {
+                "public": {
+                    "gid": "7032576386046463821",
+                    "size": "84683131211",
+                    "download": "71366434512"
+                },
+                "0.11": {
+                    "gid": "4914543460670075187",
+                    "size": "151234715260",
+                    "download": "38435535536"
+                },
+                "release-staging": {
+                    "gid": "7944132835928768887",
+                    "size": "84684447708",
+                    "download": "71369810880"
+                },
+                "automatic-build": {
+                    "gid": "5589235360701332269",
+                    "size": "99736838955",
+                    "download": "83254892096"
+                },
+                "automatic-nightly": {
+                    "gid": "876074162484757126",
+                    "size": "99737887275",
+                    "download": "83312950368"
+                }
+            },
+            "decryptionkey": "7fcf86a407ed2bf3dc7d0191e036bd4d5da63afbdf4eb27eef04177d249b932c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13664354",
+                "timeupdated": "1709847201"
+            },
+            "0.11": {
+                "buildid": "12196325",
+                "description": "0.11 (launch build)",
+                "timeupdated": "1708371725"
+            },
+            "release-staging": {
+                "buildid": "13631068",
+                "description": "initial build for review",
+                "timeupdated": "1709665980"
+            },
+            "automatic-build": {
+                "buildid": "17999130",
+                "description": "builds live from our CI.",
+                "timeupdated": "1743902470"
+            },
+            "automatic-nightly": {
+                "buildid": "17986828",
+                "description": "nightly builds from our CI.",
+                "timeupdated": "1743779124"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
