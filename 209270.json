@@ -1,0 +1,75 @@
+{
+    "appid": "209270",
+    "type": "Game",
+    "name": "Hero Academy",
+    "schinese_name": "英雄学院",
+    "isfreeapp": "0",
+    "change_number": "27049218",
+    "update_time": "2025-01-18 04:56:14",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,german,russian,spanish,koreana,japanese",
+        "209271": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6666388743283557154",
+                    "size": "281342204",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1864007920561328211",
+                    "size": "311307238",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9491a40e71656fdba42124f2296daae3e94e784887f314a5e4487eecea448da6"
+        },
+        "209272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4376635001110231781",
+                    "size": "308516421",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4376635001110231781",
+                    "size": "308516421",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "209273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4072454658146684445",
+                    "size": "297064536",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "226310"
+            },
+            "local": {
+                "buildid": "117796",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
