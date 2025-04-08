@@ -1,0 +1,58 @@
+{
+    "appid": "603060",
+    "type": "Game",
+    "name": "Tarim: Guardians",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25802253",
+    "update_time": "2024-10-20 03:15:20",
+    "depot": {
+        "603061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5159522229804905481",
+                    "size": "208762283",
+                    "download": "138645872"
+                }
+            },
+            "decryptionkey": "e6318ab9ba2d02016b10df3dcbf86d260f4d419f5c735eb41843c74ed2b16d5f"
+        },
+        "603062": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7825075589642332444",
+                    "size": "237415806",
+                    "download": "145385360"
+                }
+            },
+            "decryptionkey": "2174e9a4fce25cf962ca1aeb4a35a2cbdb0e74b4d25029d415350ff9b442598f"
+        },
+        "603063": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1139041712168205040",
+                    "size": "298514287",
+                    "download": "148597760"
+                }
+            },
+            "decryptionkey": "6b670385f73db055f545946ea479e11bce9d16f8b98dfa0240ea6710fd91eebc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2391866",
+                "timeupdated": "1513907709"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
