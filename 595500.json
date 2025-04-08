@@ -1,0 +1,77 @@
+{
+    "appid": "595500",
+    "type": "Game",
+    "name": "Freedom Planet 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27045353",
+    "update_time": "2025-01-18 00:09:34",
+    "depot": {
+        "595501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8898663635948445397",
+                    "size": "2951408668",
+                    "download": "877284128"
+                },
+                "beta": {
+                    "gid": "8898663635948445397",
+                    "size": "2951408668",
+                    "download": "877284128"
+                }
+            },
+            "decryptionkey": "86a2e170a65b000d81b0d33f7f503c61db1233abdf1725b9abbd3dc216e2d77b"
+        },
+        "595502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6819799092938107588",
+                    "size": "1024004736",
+                    "download": "403657520"
+                },
+                "beta": {
+                    "gid": "6819799092938107588",
+                    "size": "1024004736",
+                    "download": "403657520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "595503": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5868938483863053437",
+                    "size": "2900033147",
+                    "download": "841316576"
+                },
+                "beta": {
+                    "gid": "5868938483863053437",
+                    "size": "2900033147",
+                    "download": "841316576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13862019",
+                "timeupdated": "1712236475"
+            },
+            "beta": {
+                "buildid": "13862019",
+                "description": "For testing new builds",
+                "timeupdated": "1712236436"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
