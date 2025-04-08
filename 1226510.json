@@ -1,0 +1,82 @@
+{
+    "appid": "1226510",
+    "type": "Game",
+    "name": "Trigon: Space Story",
+    "schinese_name": "特里贡：太空故事",
+    "isfreeapp": "0",
+    "change_number": "27493416",
+    "update_time": "2025-02-15 19:13:47",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1226511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7585193513361469347",
+                    "size": "2950757078",
+                    "download": "921291280"
+                }
+            },
+            "decryptionkey": "02b4eb817d2ab5c81bd3bfd7ffbb24842abbe4edebada37621bfa3e8484e6795"
+        },
+        "1226512": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4202078104642811512",
+                    "size": "2947269985",
+                    "download": "921295232"
+                }
+            },
+            "decryptionkey": "2237a0ab33888b8fdec4cb20acc2c6e0f2a1032fe9b3758390294a63b688f3d5"
+        },
+        "1226513": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1248611420721467556",
+                    "size": "3011115681",
+                    "download": "930333984"
+                }
+            },
+            "decryptionkey": "0d40bb3fd58ea5656ba49087e0b48ed0896a2ab3908e1a284ef8120aa4813722"
+        },
+        "1925020": {
+            "dlcappid": "1925020",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "671546642333335833",
+                    "size": "1878339498",
+                    "download": "1748981232"
+                }
+            },
+            "decryptionkey": "0fb91d29273f4a1f0238848e932e5ff532e950072956003b750fa11740c09b3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17335352",
+                "timeupdated": "1739363685"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
