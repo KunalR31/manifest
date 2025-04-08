@@ -1,0 +1,59 @@
+{
+    "appid": "306000",
+    "type": "Game",
+    "name": "Super Dungeon Bros",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28170745",
+    "update_time": "2025-03-27 21:31:56",
+    "depot": {
+        "306001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5814114672476052327",
+                    "size": "3215325784",
+                    "download": "2098185776"
+                },
+                "hordebeta": {
+                    "gid": "5767680312015897510",
+                    "size": "3215322896",
+                    "download": "2098181888"
+                }
+            },
+            "decryptionkey": "5b9769f67ef9b747ce6cff13ba1926b0edeb8f0e58398fd9e37c6804bcbfea70"
+        },
+        "306002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3246739059830989446",
+                    "size": "3254318855",
+                    "download": "2110454928"
+                },
+                "hordebeta": {
+                    "gid": "3246739059830989446",
+                    "size": "3254318855",
+                    "download": "2110454928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2236571",
+                "timeupdated": "1509120960"
+            },
+            "hordebeta": {
+                "buildid": "2110341",
+                "description": "Horde Mode Beta",
+                "timeupdated": "1505493559"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
