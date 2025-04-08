@@ -1,0 +1,84 @@
+{
+    "appid": "72000",
+    "type": "Game",
+    "name": "Closure",
+    "schinese_name": "终结",
+    "isfreeapp": "0",
+    "change_number": "26857337",
+    "update_time": "2025-01-04 08:06:00",
+    "depot": {
+        "72001": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4911812781221340771",
+                    "size": "476842013",
+                    "download": "276480448"
+                },
+                "legacy_oct_2013": {
+                    "gid": "2221212811193700540",
+                    "size": "479575839",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0c5cd6a7170cf2926d299c6ab50f7c783dc452330b762314af63b1d32a36eb39"
+        },
+        "72002": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6021534848761575379",
+                    "size": "475581065",
+                    "download": "276039040"
+                },
+                "legacy_oct_2013": {
+                    "gid": "7000995822220145097",
+                    "size": "504836725",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bf5e3a7f4ba4cebc8b84c9dc645eca89dbcd3d19d2d23f4b0b28f397190e932c"
+        },
+        "72003": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8773573918984812078",
+                    "size": "476429201",
+                    "download": "275016864"
+                },
+                "legacy_oct_2013": {
+                    "gid": "8679076681866069867",
+                    "size": "484713088",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3baaa3ef8809f3a88de0ab74c6df7b3cfba0df90b479d8c967a85bcecad1a997"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "16397574",
+                "timeupdated": "1733357250"
+            },
+            "legacy_oct_2013": {
+                "buildid": "136324",
+                "description": "previous version of the game, before the 2024 maintenance update",
+                "timeupdated": "1713144614"
+            }
+        }
+    }
+}
