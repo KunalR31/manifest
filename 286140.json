@@ -1,0 +1,87 @@
+{
+    "appid": "286140",
+    "type": "Game",
+    "name": "Eidolon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26702759",
+    "update_time": "2024-12-19 05:41:53",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "286141": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3762731534886579029",
+                    "size": "1350164742",
+                    "download": "996229936"
+                },
+                "test": {
+                    "gid": "8966121773637537458",
+                    "size": "1287703348",
+                    "download": "1151347942726"
+                }
+            },
+            "decryptionkey": "d5367a73ba6b61257acf6cef913d9bc6003ffa33648258b17225bd5f3ddac73e"
+        },
+        "286142": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2430501946914181321",
+                    "size": "1192045351",
+                    "download": "889791488"
+                },
+                "test": {
+                    "gid": "5976937016778578004",
+                    "size": "1096559676",
+                    "download": "1843693185347"
+                }
+            },
+            "decryptionkey": "d7c9fc6be187cec732de386c761d58b761a17c49c297f8af06c671e39467eb0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "489887"
+            },
+            "test": {
+                "buildid": "396468"
+            }
+        }
+    }
+}
