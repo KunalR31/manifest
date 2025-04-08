@@ -1,0 +1,67 @@
+{
+    "appid": "2027970",
+    "type": "Game",
+    "name": "Sole Saga",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28078098",
+    "update_time": "2025-03-22 02:18:26",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2027971": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "2027972": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6765969858732767718",
+                    "size": "114281568",
+                    "download": "65745488"
+                },
+                "open_beta": {
+                    "gid": "6765969858732767718",
+                    "size": "114281568",
+                    "download": "65745488"
+                }
+            },
+            "decryptionkey": "04341296658d8d9dcfba616b8db4ccb19b5645fd799fd74ea8cb44293d231bb4"
+        },
+        "2027973": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3252160508365013913",
+                    "size": "120835169",
+                    "download": "67186144"
+                },
+                "open_beta": {
+                    "gid": "3252160508365013913",
+                    "size": "120835169",
+                    "download": "67186144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14855968",
+                "timeupdated": "1719551574"
+            },
+            "open_beta": {
+                "buildid": "14855968",
+                "description": "Unstable version for testing",
+                "timeupdated": "1719550976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
