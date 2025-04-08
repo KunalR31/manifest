@@ -1,0 +1,91 @@
+{
+    "appid": "2052040",
+    "type": "Game",
+    "name": "Golden Lap",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28274180",
+    "update_time": "2025-04-03 02:24:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2052041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4560568217033032230",
+                    "size": "476042740",
+                    "download": "249706864"
+                },
+                "public-beta": {
+                    "gid": "8493410666947014318",
+                    "size": "476014424",
+                    "download": "249699872"
+                }
+            },
+            "decryptionkey": "c74ccfb10c89445ff894aa81581e2be00bd9dd819acf8033ab3131e2517c933b"
+        },
+        "2052042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2633224306988498728",
+                    "size": "481491219",
+                    "download": "253590192"
+                },
+                "public-beta": {
+                    "gid": "2548248019208735873",
+                    "size": "481457948",
+                    "download": "253579280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2052043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6359049043351805288",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public-beta": {
+                    "gid": "6359049043351805288",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2052044": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "workshopdepot": "2052040",
+        "branches": {
+            "public": {
+                "buildid": "17709647",
+                "timeupdated": "1741884027"
+            },
+            "public-beta": {
+                "buildid": "17253104",
+                "description": "Public beta branch",
+                "timeupdated": "1738769734"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "442b14375651c592db3b4e1ad3f6b34b7a9623dc22cadef6f2194e6ce1256dec"
+    }
+}
