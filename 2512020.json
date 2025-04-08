@@ -1,0 +1,85 @@
+{
+    "appid": "2512020",
+    "type": "Demo",
+    "name": "Europa Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26042532",
+    "update_time": "2024-11-05 03:05:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2512021": {
+            "manifests": {
+                "public": {
+                    "gid": "226027967478045182",
+                    "size": "3998798190",
+                    "download": "1139053664"
+                },
+                "debug": {
+                    "gid": "1254351982111250737",
+                    "size": "4337985880",
+                    "download": "1479581552"
+                },
+                "last_stable": {
+                    "gid": "6173538197781077177",
+                    "size": "3958361422",
+                    "download": "1409389200"
+                },
+                "testing": {
+                    "gid": "226027967478045182",
+                    "size": "3998798190",
+                    "download": "1139053664"
+                }
+            },
+            "decryptionkey": "011202a206973a7dde2deb567c5a3f66a8b0512cc57b3a9f32a0ac9f7fe45163"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15846435",
+                "timeupdated": "1727425659"
+            },
+            "debug": {
+                "buildid": "12497637",
+                "description": "Generate logs and debug info (slow)",
+                "timeupdated": "1697844051"
+            },
+            "last_stable": {
+                "buildid": "12498388",
+                "description": "last stable build of the demo",
+                "timeupdated": "1714180456"
+            },
+            "testing": {
+                "buildid": "15846435",
+                "description": "Fresh builds",
+                "timeupdated": "1727417434"
+            }
+        }
+    }
+}
