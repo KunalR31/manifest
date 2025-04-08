@@ -1,0 +1,50 @@
+{
+    "appid": "2300",
+    "type": "Game",
+    "name": "DOOM II",
+    "schinese_name": "毁灭战士2",
+    "isfreeapp": "0",
+    "change_number": "27126010",
+    "update_time": "2025-01-23 15:26:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "855800032594053046",
+                    "size": "520634979",
+                    "download": "304832704"
+                },
+                "local": {
+                    "gid": "879787433995082618",
+                    "size": "38455455",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e20a67a0ee08097842bc07ab3b8624bfed9ac0085565dbd65ea564478c1f72b2"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "2300",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "9306097",
+                "timeupdated": "1660852588"
+            },
+            "local": {
+                "buildid": "192618",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ebfd97ee677a0250cd607bdff1071346e09c5c49a5f91bcf6d3405701be19c72"
+    }
+}
