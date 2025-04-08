@@ -1,0 +1,87 @@
+{
+    "appid": "38740",
+    "type": "Game",
+    "name": "EDGE",
+    "schinese_name": "边缘",
+    "isfreeapp": "0",
+    "change_number": "26035366",
+    "update_time": "2024-11-04 18:44:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,italian,dutch,portuguese,polish,turkish,finnish,czech",
+        "38742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2765061051598399048",
+                    "size": "124728688",
+                    "download": "85886384"
+                }
+            },
+            "decryptionkey": "d1d0b6e134afda86a68f27c51cad218882abfb5544d3951fa91aff49431c7795"
+        },
+        "38741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5391298578565460953",
+                    "size": "120038388",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7eff794bcab74eee12e0f7e7afe7adf9a9f7e119730047c99407ab6ca6b2d3cd"
+        },
+        "38743": {
+            "manifests": {
+                "public": {
+                    "gid": "1459470264691022410",
+                    "size": "776165",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "38743",
+            "decryptionkey": ""
+        },
+        "38744": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3810736947388024555",
+                    "size": "129567732",
+                    "download": "87048176"
+                }
+            },
+            "decryptionkey": "0e40cddfac5fbf12db1ff57c57162cfb5b0ee6daccff65801a29e6ecf299d876"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "5360250",
+                "timeupdated": "1596297132"
+            }
+        }
+    }
+}
