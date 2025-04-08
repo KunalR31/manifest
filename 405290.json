@@ -1,0 +1,128 @@
+{
+    "appid": "405290",
+    "type": "Game",
+    "name": "Charlie Murder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26487892",
+    "update_time": "2024-12-05 12:15:52",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "405291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7119626080133177785",
+                    "size": "944060394",
+                    "download": "740244304"
+                },
+                "lastupdate": {
+                    "gid": "3286647006850132064",
+                    "size": "436326053",
+                    "download": "352763424"
+                },
+                "linux32": {
+                    "gid": "5771747480610270588",
+                    "size": "952964872",
+                    "download": "743065632"
+                },
+                "nothrottle": {
+                    "gid": "6671101906638562880",
+                    "size": "944060394",
+                    "download": "740244192"
+                }
+            },
+            "decryptionkey": "12d9a3b5c07a42c7725ac40c2710728fbb2fedd02f9f5d4ff1c029213d6f9ca3"
+        },
+        "405292": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5065121577069151855",
+                    "size": "965593929",
+                    "download": "746233056"
+                },
+                "lastupdate": {
+                    "gid": "4930562369690213208",
+                    "size": "472402267",
+                    "download": "362352288"
+                },
+                "linux32": {
+                    "gid": "4282482634302249874",
+                    "size": "987154334",
+                    "download": "752190464"
+                },
+                "nothrottle": {
+                    "gid": "123611582844268140",
+                    "size": "965593929",
+                    "download": "746232944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "405293": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2851496303216217754",
+                    "size": "978707415",
+                    "download": "749259456"
+                },
+                "lastupdate": {
+                    "gid": "6398656290256627367",
+                    "size": "446748202",
+                    "download": "354916880"
+                },
+                "linux32": {
+                    "gid": "3736877871706927389",
+                    "size": "959920217",
+                    "download": "744475920"
+                },
+                "nothrottle": {
+                    "gid": "7741731232066852322",
+                    "size": "978707415",
+                    "download": "749259344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8270183",
+                "timeupdated": "1645735180"
+            },
+            "lastupdate": {
+                "buildid": "2149213",
+                "timeupdated": "1543275861"
+            },
+            "linux32": {
+                "buildid": "4348341",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609457170"
+            },
+            "nothrottle": {
+                "buildid": "8270193",
+                "timeupdated": "1645735280"
+            }
+        }
+    }
+}
