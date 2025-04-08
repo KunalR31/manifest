@@ -1,0 +1,74 @@
+{
+    "appid": "297310",
+    "type": "Game",
+    "name": "Pro Wrestling X",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27169042",
+    "update_time": "2025-01-26 12:25:33",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "297311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6062223424657564527",
+                    "size": "1848635183",
+                    "download": "595151424"
+                },
+                "bleeding-edge-build": {
+                    "gid": "8485368895389574535",
+                    "size": "1027748860",
+                    "download": "304791136"
+                },
+                "local": {
+                    "gid": "7797899227397088348",
+                    "size": "24584783",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "596e4e64cc84caa359b96f5db0e8ef45bf5eb9ad9f35a91a2cae4987cabf51e9"
+        },
+        "297329": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6802750685600872873",
+                    "size": "1027048032",
+                    "download": "307632320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "297310",
+        "branches": {
+            "public": {
+                "buildid": "15360292",
+                "timeupdated": "1725472661"
+            },
+            "bleeding-edge-build": {
+                "buildid": "2530580",
+                "description": "Final update for Unity 4 engine",
+                "timeupdated": "1518744863"
+            },
+            "local": {
+                "buildid": "293128",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
