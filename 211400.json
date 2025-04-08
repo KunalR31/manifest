@@ -1,0 +1,54 @@
+{
+    "appid": "211400",
+    "type": "Game",
+    "name": "Deadlight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-16 23:17:01",
+    "depot": {
+        "211401": {
+            "manifests": {
+                "public": {
+                    "gid": "2231028220962401695",
+                    "size": "4331973730",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4692805497632690357",
+                    "size": "4331973730",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "81f2aa5c99f1f9d6a2793a7fcf622a10311954cea91bbfe18e137531bddc452d"
+        },
+        "211419": {
+            "manifests": {
+                "public": {
+                    "gid": "3412488096432106295",
+                    "size": "347220336",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1052366090733074133",
+                    "size": "347220336",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "211419",
+            "decryptionkey": "000f3bd15a4dc24bcdcdb53cdf91ee17f75e8ebd69af284dc3dff9a51745ccac"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "branches": {
+            "public": {
+                "buildid": "27194"
+            },
+            "local": {
+                "buildid": "26831",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
