@@ -1,0 +1,85 @@
+{
+    "appid": "1931730",
+    "type": "Game",
+    "name": "Fort Solis",
+    "schinese_name": "索利斯堡",
+    "isfreeapp": "0",
+    "change_number": "28219188",
+    "update_time": "2025-03-31 06:52:21",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,portuguese,polish",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1931731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7356745487723738161",
+                    "size": "11794166251",
+                    "download": "5371423632"
+                }
+            },
+            "decryptionkey": "48ecd148da7853ad66d48b435da51151247b8110a6367e474dee4f8260d7db6e"
+        },
+        "1931732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5493042209246812368",
+                    "size": "4731186534",
+                    "download": "3893779792"
+                }
+            },
+            "decryptionkey": "54c57b13ed1eaf1a060a4f182efa513a17b3a305a6c3ee1024b03cfb75beac86"
+        },
+        "2545430": {
+            "manifests": {
+                "public": {
+                    "gid": "3397532900335480022",
+                    "size": "573191538",
+                    "download": "573610336"
+                }
+            },
+            "dlcappid": "2545430",
+            "depotfromapp": "2545430",
+            "decryptionkey": "50ef04fd9aa277d2c1067f9bf0567ad040522c3d54f9ede961a7946f12af7b2a"
+        },
+        "3160390": {
+            "manifests": {
+                "public": {
+                    "gid": "8483743732992104885",
+                    "size": "3238374975",
+                    "download": "2815588384"
+                }
+            },
+            "dlcappid": "3160390",
+            "depotfromapp": "3160390",
+            "decryptionkey": "1085cf46d657900b21a57d1eaed394acf64024a046f970529106d4c98b2da385"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16940110",
+                "timeupdated": "1736342936"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
