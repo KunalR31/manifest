@@ -1,0 +1,55 @@
+{
+    "appid": "73230",
+    "type": "Game",
+    "name": "Majesty Gold HD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 05:35:46",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "73231": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7673133858776375127",
+                    "size": "748725807",
+                    "download": "575496720"
+                },
+                "beta2": {
+                    "gid": "6446026379664872206",
+                    "size": "749053399",
+                    "download": "575587296"
+                }
+            },
+            "decryptionkey": "281093f3893010fef3fab6281684a38ea977052ba843a4e1b01217cbf7921cc9"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "73230",
+        "branches": {
+            "public": {
+                "buildid": "1611771",
+                "timeupdated": "1486338358"
+            },
+            "beta2": {
+                "buildid": "2536689",
+                "description": "Steam Multiplayer Support",
+                "timeupdated": "1518998399"
+            }
+        },
+        "workshopdepotdecryptionkey": "b5612051e98b412ebf7f31f46458860384c81fa493fdcee42b33ebbf05f57ea2"
+    }
+}
