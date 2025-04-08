@@ -1,0 +1,60 @@
+{
+    "appid": "291150",
+    "type": "Game",
+    "name": "Evolution RTS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 21:41:20",
+    "depot": {
+        "overridescddb": "1",
+        "291152": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "204567957015393937",
+                    "size": "5769625279",
+                    "download": "5403437184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "291153": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4425764595924362201",
+                    "size": "7802186770",
+                    "download": "7118375568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "291151": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1911095378334156351",
+                    "size": "7764634591",
+                    "download": "7110830224"
+                }
+            },
+            "decryptionkey": "a1389316fe7deeef48b1bdc41f6446e6b3af7121874df1ad3f100f59c38d8775"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8745361",
+                "timeupdated": "1652679967"
+            }
+        }
+    }
+}
