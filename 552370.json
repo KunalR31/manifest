@@ -1,0 +1,74 @@
+{
+    "appid": "552370",
+    "type": "Game",
+    "name": "Riders of Asgard",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28035673",
+    "update_time": "2025-03-20 00:00:36",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "552371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "149269329065890925",
+                    "size": "1609216941",
+                    "download": "1470580464"
+                }
+            },
+            "decryptionkey": "070b8ff3842dab7184d4bd66e3dbfb1f9ad91880ebb9758bbf5ab13794f29446"
+        },
+        "552372": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6680295177439026512",
+                    "size": "1558294385",
+                    "download": "1444933440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "552374": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6208233998441235629",
+                    "size": "2788439345",
+                    "download": "2125464112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2142758",
+                "timeupdated": "1506228911"
+            }
+        }
+    }
+}
