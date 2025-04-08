@@ -1,0 +1,78 @@
+{
+    "appid": "285800",
+    "type": "Game",
+    "name": "Braveland",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27117929",
+    "update_time": "2025-01-23 03:25:59",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "285801": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3060027302118254542",
+                    "size": "373473468",
+                    "download": "248006384"
+                },
+                "local": {
+                    "gid": "7246456943965199313",
+                    "size": "283863723",
+                    "download": "212846768"
+                }
+            },
+            "decryptionkey": "4c64b70ff66172ec34d6f515640d08593527d319108851503acbaa5f43c2ba06"
+        },
+        "285802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5822383255753897388",
+                    "size": "322536875",
+                    "download": "227592496"
+                }
+            },
+            "decryptionkey": "5ed519979b6b745243d94abf93fccadb4d1266db8befa4db998e0a8f08984308"
+        },
+        "285803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8642537048209172608",
+                    "size": "322222569",
+                    "download": "226079920"
+                }
+            },
+            "decryptionkey": "da00b89a55d50c8af7952a94507f0bd79aaa371d95a2c13390f93cd1f422d529"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11372191",
+                "timeupdated": "1688126928"
+            },
+            "local": {
+                "buildid": "2478653",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1517242798"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
