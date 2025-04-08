@@ -1,0 +1,86 @@
+{
+    "appid": "2005050",
+    "type": "Game",
+    "name": "Dance Dash ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28232465",
+    "update_time": "2025-04-01 00:44:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2005051": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3872539563546085029",
+                    "size": "3261911190",
+                    "download": "620831504"
+                },
+                "beta-moddable": {
+                    "gid": "5962569775078509394",
+                    "size": "1771076874",
+                    "download": "565768064"
+                },
+                "feature_newui": {
+                    "gid": "2133457482040516297",
+                    "size": "3887016457",
+                    "download": "1101143728"
+                },
+                "feature_preview": {
+                    "gid": "4649384113566648026",
+                    "size": "3477215860",
+                    "download": "613936816"
+                },
+                "feature_preview_color_swap": {
+                    "gid": "1785068292053524269",
+                    "size": "3522350144",
+                    "download": "617011760"
+                }
+            },
+            "decryptionkey": "fba7e1af6af6751a4390e7dea7f1b2c21f91a061947639149761ee4df632502e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17716844",
+                "timeupdated": "1741915898"
+            },
+            "beta-moddable": {
+                "buildid": "17927724",
+                "description": "Moddable",
+                "timeupdated": "1743439478"
+            },
+            "feature_newui": {
+                "buildid": "16799661",
+                "description": "New UI branch",
+                "timeupdated": "1737012881"
+            },
+            "feature_preview": {
+                "buildid": "15807449",
+                "description": "practice mode",
+                "timeupdated": "1727175051"
+            },
+            "feature_preview_color_swap": {
+                "buildid": "15847986",
+                "description": "note color swap",
+                "timeupdated": "1727427462"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
