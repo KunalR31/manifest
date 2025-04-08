@@ -1,0 +1,102 @@
+{
+    "appid": "368420",
+    "type": "Game",
+    "name": "Mirage: Arcane Warfare",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 10:29:05",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "368421": {
+            "manifests": {
+                "public": {
+                    "gid": "1468268255518728710",
+                    "size": "15718816450",
+                    "download": "5258857104"
+                },
+                "local": {
+                    "gid": "2332660819971814461",
+                    "size": "11293346228",
+                    "download": "3119087984"
+                },
+                "patch_testing": {
+                    "gid": "1468268255518728710",
+                    "size": "15718816450",
+                    "download": "5258857104"
+                }
+            },
+            "decryptionkey": "3dfee627b2eab92c6f885340f6982f8df2392526e0f66614399351fc240f248c"
+        },
+        "536820": {
+            "dlcappid": "536820",
+            "manifests": {
+                "public": {
+                    "gid": "6882676419056800428",
+                    "size": "409459712",
+                    "download": "86671632"
+                },
+                "patch_testing": {
+                    "gid": "6882676419056800428",
+                    "size": "409459712",
+                    "download": "86671632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "548660": {
+            "manifests": {
+                "public": {
+                    "gid": "5986226876968242506",
+                    "size": "516998975",
+                    "download": "517268192"
+                },
+                "patch_testing": {
+                    "gid": "5986226876968242506",
+                    "size": "516998975",
+                    "download": "517268192"
+                }
+            },
+            "dlcappid": "548660",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2157521",
+                "timeupdated": "1506970051"
+            },
+            "local": {
+                "buildid": "1338604",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1473986764"
+            },
+            "patch_testing": {
+                "buildid": "2157521",
+                "description": "patch testing for Mirage",
+                "timeupdated": "1506719591"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
