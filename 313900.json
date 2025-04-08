@@ -1,0 +1,75 @@
+{
+    "appid": "313900",
+    "type": "Tool",
+    "name": "NS2: Combat Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182222",
+    "update_time": "2024-11-14 05:28:35",
+    "depot": {
+        "baselanguages": "english,german,french,swedish",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "313902": {
+            "manifests": {
+                "public": {
+                    "gid": "131337985844360728",
+                    "size": "10678222043",
+                    "download": "4506576528"
+                }
+            },
+            "decryptionkey": "e15c527b97933a7c4322af1765e1ab3820d4309fdf942cc57f8b52ce8e64eb20"
+        },
+        "313901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7967996421633057889",
+                    "size": "113306288",
+                    "download": "46196848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "313903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "465516024796531105",
+                    "size": "259461352",
+                    "download": "58600176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "778980"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
