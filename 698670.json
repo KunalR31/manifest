@@ -1,0 +1,97 @@
+{
+    "appid": "698670",
+    "type": "Game",
+    "name": "Scorn",
+    "schinese_name": "蔑视",
+    "isfreeapp": "0",
+    "change_number": "28266725",
+    "update_time": "2025-04-02 19:11:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "698671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3802045124937220712",
+                    "size": "30974071618",
+                    "download": "15657466848"
+                }
+            },
+            "decryptionkey": "4e1f1b866d2734e7bebea00a9226a1d1406620391d593824cde754a461253b17"
+        },
+        "698672": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "698673": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            }
+        },
+        "698674": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "3876252616822249507",
+                    "size": "42017454506",
+                    "download": "20931720944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2023230": {
+            "dlcappid": "2023230",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5498395678317195685",
+                    "size": "105544962",
+                    "download": "103596208"
+                }
+            },
+            "decryptionkey": "fa6115ec633bab9fcbd3d36a02f38cae3dc7d062710fa19626553964243f9bd9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11514315",
+                "timeupdated": "1688556405"
+            },
+            "local": {
+                "buildid": "8906538",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1654805535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
