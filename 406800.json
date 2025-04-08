@@ -1,0 +1,67 @@
+{
+    "appid": "406800",
+    "type": "Tool",
+    "name": "Out of Reach Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182377",
+    "update_time": "2024-11-14 05:39:58",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "406801": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4579662108376774771",
+                    "size": "1089506001",
+                    "download": "452100624"
+                },
+                "acceptance-test": {
+                    "gid": "4579662108376774771",
+                    "size": "1089506001",
+                    "download": "452100624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "406802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3187265135399302722",
+                    "size": "1101154340",
+                    "download": "470012640"
+                },
+                "acceptance-test": {
+                    "gid": "3187265135399302722",
+                    "size": "1101154340",
+                    "download": "470012640"
+                }
+            },
+            "decryptionkey": "dcf1c3e4e7119e26bcef0d8c8a4bdfba554b14b6ab00653806b216cebb1ff463"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3087675",
+                "timeupdated": "1536057889"
+            },
+            "acceptance-test": {
+                "buildid": "3087675",
+                "timeupdated": "1535989678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
