@@ -1,0 +1,65 @@
+{
+    "appid": "903950",
+    "type": "Game",
+    "name": "Last Oasis",
+    "schinese_name": "最后的绿洲",
+    "isfreeapp": "0",
+    "change_number": "28275122",
+    "update_time": "2025-04-03 03:27:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "903951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6086372743302901374",
+                    "size": "25556680576",
+                    "download": "24447482768"
+                },
+                "classic": {
+                    "gid": "541509903396589753",
+                    "size": "20961441708",
+                    "download": "20242326096"
+                }
+            },
+            "decryptionkey": "ff12e0c2a6e6ffd00cd305eb3f8a404cb932e582b33a6fe524de975d447072d1"
+        },
+        "workshopdepot": "903950",
+        "branches": {
+            "public": {
+                "buildid": "17885973",
+                "timeupdated": "1743093928"
+            },
+            "classic": {
+                "buildid": "9193433",
+                "description": "Classic S4",
+                "timeupdated": "1658848552"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
