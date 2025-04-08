@@ -1,0 +1,71 @@
+{
+    "appid": "288470",
+    "type": "Game",
+    "name": "Fable Anniversary",
+    "schinese_name": "神鬼寓言：周年纪念版",
+    "isfreeapp": "0",
+    "change_number": "28093152",
+    "update_time": "2025-03-23 12:12:54",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,brazilian",
+        "288471": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1143286446041538284",
+                    "size": "9296134855",
+                    "download": "9251200623994"
+                },
+                "beta_builds": {
+                    "gid": "1887043171238540611",
+                    "size": "9292052302",
+                    "download": "9011852420672"
+                }
+            },
+            "decryptionkey": "5795bc052b2a0d53947c274a5da3926e6ba122feed6400c5f833e323177dfea9"
+        },
+        "319120": {
+            "manifests": {
+                "public": {
+                    "gid": "3559001727507772683",
+                    "size": "16510883423",
+                    "download": "17100958022951"
+                },
+                "beta_builds": {
+                    "gid": "901558837333980629",
+                    "size": "16510894800",
+                    "download": "18528258865684"
+                }
+            },
+            "dlcappid": "319120",
+            "decryptionkey": "0584d850aa452f1020491d01f0981832d8525f47eadf9561a3d3ae45932f9eba"
+        },
+        "workshopdepot": "288470",
+        "branches": {
+            "public": {
+                "buildid": "434572"
+            },
+            "beta_builds": {
+                "buildid": "445776",
+                "description": "Builds that are still in test"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
