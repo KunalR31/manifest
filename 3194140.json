@@ -1,0 +1,53 @@
+{
+    "appid": "3194140",
+    "type": "Game",
+    "name": "Cozy Sudoku",
+    "schinese_name": "悠享数独",
+    "isfreeapp": "0",
+    "change_number": "28087756",
+    "update_time": "2025-03-22 22:20:20",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3194141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2784304156659946795",
+                    "size": "44005933",
+                    "download": "34371312"
+                }
+            },
+            "decryptionkey": "d9cb1d9252cb59c4d11609d4135650b1b5145d165f29e16d55d1f2e671a218c0"
+        },
+        "3194142": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8073092677241896535",
+                    "size": "306126983",
+                    "download": "125065408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17820771",
+                "timeupdated": "1742653155"
+            }
+        }
+    }
+}
