@@ -1,0 +1,75 @@
+{
+    "appid": "665840",
+    "type": "Game",
+    "name": "To The Sea : The Courier",
+    "schinese_name": "去海边：信使",
+    "isfreeapp": "0",
+    "change_number": "25589078",
+    "update_time": "2024-10-08 23:03:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "665841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2140778956074411608",
+                    "size": "3993300805",
+                    "download": "3756882352"
+                },
+                "playtest": {
+                    "gid": "2140778956074411608",
+                    "size": "3993300805",
+                    "download": "3756882352"
+                }
+            },
+            "decryptionkey": "1bc2698ce0ddc3eb85216d482e93724272ab8c3cba1b1a3c1aeada54ca682310"
+        },
+        "665842": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2447954797856227399",
+                    "size": "3993300805",
+                    "download": "3756882352"
+                },
+                "playtest": {
+                    "gid": "2447954797856227399",
+                    "size": "3993300805",
+                    "download": "3756882352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12584469",
+                "timeupdated": "1698770449"
+            },
+            "playtest": {
+                "buildid": "12584469",
+                "description": "Beta Test branch",
+                "timeupdated": "1698770393"
+            }
+        }
+    }
+}
