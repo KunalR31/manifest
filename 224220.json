@@ -1,0 +1,51 @@
+{
+    "appid": "224220",
+    "type": "Game",
+    "name": "Pressure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26959604",
+    "update_time": "2025-01-12 12:15:37",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "224221": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4051894683164227695",
+                    "size": "692230434",
+                    "download": "284891696"
+                },
+                "beta": {
+                    "gid": "4051894683164227695",
+                    "size": "692230434",
+                    "download": "284891696"
+                }
+            },
+            "decryptionkey": "fa3d4f1df789ee89790d11f5154c1fc0bc45c6e0aa8c760ea222947644ca8af6"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "957048"
+            },
+            "beta": {
+                "buildid": "957048"
+            }
+        }
+    }
+}
