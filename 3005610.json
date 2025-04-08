@@ -1,0 +1,80 @@
+{
+    "appid": "3005610",
+    "type": "DLC",
+    "name": "RetroArch - DOSBox Pure",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731460",
+    "update_time": "2025-03-01 17:12:52",
+    "depot": {
+        "3005610": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "3005610",
+            "manifests": {
+                "public": {
+                    "gid": "7616663018779144758",
+                    "size": "3669905",
+                    "download": "1401776"
+                },
+                "nightly": {
+                    "gid": "4216262889582986536",
+                    "size": "3669905",
+                    "download": "1401776"
+                }
+            },
+            "decryptionkey": "cea28863c8c346e2aaeef94ce0832d7ddf8f290ff01772976f66b676a22d2d53"
+        },
+        "3005611": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3764346075223965889",
+                    "size": "2986305",
+                    "download": "1183440"
+                },
+                "nightly": {
+                    "gid": "3764346075223965889",
+                    "size": "2986305",
+                    "download": "1183440"
+                }
+            },
+            "dlcappid": "3005610",
+            "decryptionkey": "beeae485104ece806adfa6dd859088f4a8551d8971a12dcee4fd0dc79fd72447"
+        },
+        "3005612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2795677194641444982",
+                    "size": "4947625",
+                    "download": "2001632"
+                },
+                "nightly": {
+                    "gid": "2795677194641444982",
+                    "size": "4947625",
+                    "download": "2001632"
+                }
+            },
+            "dlcappid": "3005610",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911369",
+                "timeupdated": "1736093758"
+            },
+            "nightly": {
+                "buildid": "17557852",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820368"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
