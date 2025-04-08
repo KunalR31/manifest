@@ -1,0 +1,101 @@
+{
+    "appid": "496300",
+    "type": "Game",
+    "name": "Kingdom: New Lands",
+    "schinese_name": "王国：新大陆",
+    "isfreeapp": "0",
+    "change_number": "28278307",
+    "update_time": "2025-04-03 07:14:48",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese",
+        "496301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3872450498041949631",
+                    "size": "413362091",
+                    "download": "294973232"
+                },
+                "beta": {
+                    "gid": "3872450498041949631",
+                    "size": "413362091",
+                    "download": "294973232"
+                }
+            },
+            "decryptionkey": "572df00b3e10f4316ee29f1b11a3ac01192e3cd6a58b7332781d8b1101bf89e3"
+        },
+        "496302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "99912734096114169",
+                    "size": "425230103",
+                    "download": "297307568"
+                },
+                "beta": {
+                    "gid": "99912734096114169",
+                    "size": "425230103",
+                    "download": "297307568"
+                }
+            },
+            "decryptionkey": "f2621e84c01368238de1e1102e9844200b83e05d339922a8faf0296f3eab78ed"
+        },
+        "496303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1172845252453470058",
+                    "size": "455037822",
+                    "download": "308991440"
+                },
+                "beta": {
+                    "gid": "1172845252453470058",
+                    "size": "455037822",
+                    "download": "308991440"
+                }
+            },
+            "decryptionkey": "12d1c69afb29f10f0cfaf288aff41316201ef70c49c7e12fee68bde51313bfc1"
+        },
+        "496304": {
+            "dlcappid": "509430",
+            "manifests": {
+                "public": {
+                    "gid": "1350565684893008780",
+                    "size": "811776342",
+                    "download": "808470352"
+                },
+                "beta": {
+                    "gid": "1350565684893008780",
+                    "size": "811776342",
+                    "download": "808470352"
+                }
+            },
+            "decryptionkey": "e94bcc30f1a422d071d1a459fdcd286a61bc675a2ddf23412ae7d6ad3b223d24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4412667",
+                "timeupdated": "1574930083"
+            },
+            "beta": {
+                "buildid": "4412667",
+                "description": "Test Upcoming Patch",
+                "timeupdated": "1574412127"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
