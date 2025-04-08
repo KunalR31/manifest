@@ -1,0 +1,94 @@
+{
+    "appid": "238430",
+    "type": "Game",
+    "name": "Contagion",
+    "schinese_name": "传染病",
+    "isfreeapp": "0",
+    "change_number": "28343729",
+    "update_time": "2025-04-07 18:29:10",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "238430",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "238431": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5398482100768099870",
+                    "size": "152230854",
+                    "download": "56324800"
+                },
+                "upcoming": {
+                    "gid": "8322698711883200484",
+                    "size": "152210374",
+                    "download": "56326976"
+                }
+            },
+            "decryptionkey": "9634d3738964c481192d594ce8d7f9a419a244256b490377943a7bffc8b0ea19"
+        },
+        "238432": {
+            "manifests": {
+                "public": {
+                    "gid": "7643457758226270725",
+                    "size": "15444639949",
+                    "download": "4663920240"
+                },
+                "upcoming": {
+                    "gid": "3375076295755284665",
+                    "size": "15475236176",
+                    "download": "4670610240"
+                }
+            },
+            "decryptionkey": "f00f954df6fbd23bb1489bbbc205d4aaa14cd59e86be36568a009ffec817fc26"
+        },
+        "2733030": {
+            "dlcappid": "2733030",
+            "manifests": {
+                "public": {
+                    "gid": "718209926835744991",
+                    "size": "314801345",
+                    "download": "295345888"
+                },
+                "upcoming": {
+                    "gid": "718209926835744991",
+                    "size": "314801345",
+                    "download": "295345888"
+                }
+            },
+            "decryptionkey": "e66920b6c71eeae9b09000478cfa408aaf4bcf7ac73d62acb75ed60896d227d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17958917",
+                "timeupdated": "1743618405"
+            },
+            "upcoming": {
+                "buildid": "17997680",
+                "description": "Upcoming Build",
+                "timeupdated": "1743888697"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
