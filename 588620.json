@@ -1,0 +1,88 @@
+{
+    "appid": "588620",
+    "type": "Game",
+    "name": "Mary Le Chef - Cooking Passion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26810928",
+    "update_time": "2024-12-29 23:39:53",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "588621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7641128404018166687",
+                    "size": "775435508",
+                    "download": "738437744"
+                },
+                "legacy_version": {
+                    "gid": "4710847370111281869",
+                    "size": "344193024",
+                    "download": "282592592"
+                }
+            },
+            "decryptionkey": "b3934d7c48fa9fa04143d4c16272dccb720afce08ccd72f57d0e9943da7d4fec"
+        },
+        "588622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8342005758436767363",
+                    "size": "799858841",
+                    "download": "745203840"
+                },
+                "legacy_version": {
+                    "gid": "2656954416209902083",
+                    "size": "355368481",
+                    "download": "284952320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "588623": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1834630284590549722",
+                    "size": "784342027",
+                    "download": "740323888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,swedish,brazilian,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "13882785",
+                "timeupdated": "1712061072"
+            },
+            "legacy_version": {
+                "buildid": "1833307",
+                "description": "Old build from May 2017, fallback if game doesn't run on your computer.",
+                "timeupdated": "1708614916"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
