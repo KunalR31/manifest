@@ -1,0 +1,76 @@
+{
+    "appid": "280140",
+    "type": "Game",
+    "name": "Millennium - A New Hope",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26012120",
+    "update_time": "2024-11-02 03:56:27",
+    "depot": {
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280141": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7300517873765288359",
+                    "size": "109814667",
+                    "download": "101665648"
+                },
+                "beta": {
+                    "gid": "4548879522157941078",
+                    "size": "109814665",
+                    "download": "101666368"
+                }
+            },
+            "decryptionkey": "a45818153e1ba27fe23dbbdd1b61e572ffbc11292e287b08b2657ef07182d395"
+        },
+        "306100": {
+            "manifests": {
+                "public": {
+                    "gid": "5903394681225817611",
+                    "size": "29841827",
+                    "download": "26681760"
+                },
+                "beta": {
+                    "gid": "5903394681225817611",
+                    "size": "29841827",
+                    "download": "26681760"
+                }
+            },
+            "dlcappid": "306100",
+            "decryptionkey": "1b033f0aae6427e907c80ae2138191180ba7eac0be16c9e9aa161bf53128ec44"
+        },
+        "368410": {
+            "manifests": {
+                "public": {
+                    "gid": "3730446447893230209",
+                    "size": "38946774",
+                    "download": "35771888"
+                },
+                "beta": {
+                    "gid": "3730446447893230209",
+                    "size": "38946774",
+                    "download": "35771888"
+                }
+            },
+            "dlcappid": "368410",
+            "decryptionkey": "32570ec8ed6300ff3115990911b2ba056c7a77e19c9d5c7484ed9832ad04e769"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1475936",
+                "timeupdated": "1479890720"
+            },
+            "beta": {
+                "buildid": "718584"
+            }
+        }
+    }
+}
