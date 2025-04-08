@@ -1,0 +1,91 @@
+{
+    "appid": "1110960",
+    "type": "Demo",
+    "name": "Cosmoteer Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27922416",
+    "update_time": "2025-03-13 07:58:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1110961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "44520282230416022",
+                    "size": "608399248",
+                    "download": "576712736"
+                },
+                "classic": {
+                    "gid": "6982830380730695883",
+                    "size": "117433082",
+                    "download": "99626416"
+                }
+            }
+        },
+        "1110962": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8406864551850707185",
+                    "size": "188465476",
+                    "download": "57038464"
+                },
+                "classic": {
+                    "gid": "3292293046463802446",
+                    "size": "226324471",
+                    "download": "71518032"
+                }
+            }
+        },
+        "1110963": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2007287913033620485",
+                    "size": "203400240",
+                    "download": "63269568"
+                },
+                "classic": {
+                    "gid": "134676358724339210",
+                    "size": "244002581",
+                    "download": "79570400"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,schinese,russian,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17700896",
+                "timeupdated": "1741823908"
+            },
+            "classic": {
+                "buildid": "9480814",
+                "description": "Cosmoteer Classic",
+                "timeupdated": "1663712396"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
