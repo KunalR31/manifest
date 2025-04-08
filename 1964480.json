@@ -1,0 +1,71 @@
+{
+    "appid": "1964480",
+    "type": "Application",
+    "name": "Yami RPG Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28149629",
+    "update_time": "2025-03-26 20:55:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1964481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6355250622016102358",
+                    "size": "1769119402",
+                    "download": "595223984"
+                },
+                "js-legacy": {
+                    "gid": "1369691805348584487",
+                    "size": "1346955004",
+                    "download": "476316672"
+                }
+            },
+            "decryptionkey": "0fbc3ce20c8baf6dfbb6c67c3e8301316876c2e2ef6b9149498b901c54b7fa7d"
+        },
+        "1964482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "851043992407910470",
+                    "size": "1911285494",
+                    "download": "594929664"
+                },
+                "js-legacy": {
+                    "gid": "3140226095485318395",
+                    "size": "1880589615",
+                    "download": "595322096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "1964480",
+        "branches": {
+            "public": {
+                "buildid": "17823866",
+                "timeupdated": "1742694421"
+            },
+            "js-legacy": {
+                "buildid": "12559764",
+                "description": "Legacy Version (JavaScript-based) - 2023.10.27",
+                "timeupdated": "1742036400"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
