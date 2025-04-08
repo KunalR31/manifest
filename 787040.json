@@ -1,0 +1,51 @@
+{
+    "appid": "787040",
+    "type": "Game",
+    "name": "Perfect Heist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27471419",
+    "update_time": "2025-02-14 10:27:34",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "787041": {
+            "manifests": {
+                "public": {
+                    "gid": "221241433871930607",
+                    "size": "697158562",
+                    "download": "494955696"
+                },
+                "test-branch": {
+                    "gid": "1541739973495315413",
+                    "size": "697160610",
+                    "download": "494955408"
+                }
+            },
+            "decryptionkey": "8e1b399208f92c18d1de06cfa3f28c3d9a8d311b20c3fc46ff1e71bf58b281e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6534080",
+                "timeupdated": "1618327868"
+            },
+            "test-branch": {
+                "buildid": "6784282",
+                "description": "Test Branch for the latest changes",
+                "timeupdated": "1622420177"
+            }
+        }
+    }
+}
