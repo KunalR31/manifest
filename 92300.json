@@ -1,0 +1,42 @@
+{
+    "appid": "92300",
+    "type": "Game",
+    "name": "A.R.E.S.",
+    "schinese_name": "A.R.E.S：灭绝备忘录",
+    "isfreeapp": "0",
+    "change_number": "25666560",
+    "update_time": "2024-10-11 23:59:00",
+    "depot": {
+        "92303": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6001136494759812280",
+                    "size": "107805400",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "92303",
+            "decryptionkey": "6db4ded51d9fdd5071893737b37f671592e199f802de2fc80025ed5e600be16f"
+        },
+        "92301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "847619044773245350",
+                    "size": "264904379",
+                    "download": "1422529206668"
+                }
+            },
+            "decryptionkey": "c20bd9c3a34c81c550f0752836655af1c94a9883425ceb94d649ed75d82cf023"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,spanish,german,french,italian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "325221"
+            }
+        }
+    }
+}
