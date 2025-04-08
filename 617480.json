@@ -1,0 +1,110 @@
+{
+    "appid": "617480",
+    "type": "Game",
+    "name": "Tower of Time",
+    "schinese_name": "时光之塔",
+    "isfreeapp": "0",
+    "change_number": "28339617",
+    "update_time": "2025-04-07 13:10:20",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "617481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8932998733898647043",
+                    "size": "11554895101",
+                    "download": "5300329600"
+                },
+                "beta_pre_patch": {
+                    "gid": "4079697229307570456",
+                    "size": "11533551532",
+                    "download": "5295816496"
+                },
+                "previous_version": {
+                    "gid": "5152251158486011572",
+                    "size": "11545886454",
+                    "download": "5295787776"
+                },
+                "public_beta": {
+                    "gid": "4364469118305894961",
+                    "size": "18262109900",
+                    "download": "8118032416"
+                },
+                "public_french_beta": {
+                    "gid": "2329687033952093109",
+                    "size": "18406965712",
+                    "download": "8205925344"
+                }
+            },
+            "decryptionkey": "9679f72e357189f9e4df381c634dad5451f77202804263a2b10564605633502c"
+        },
+        "617482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7512677691976141256",
+                    "size": "11374030119",
+                    "download": "4959603344"
+                },
+                "beta_pre_patch": {
+                    "gid": "2609769511523614651",
+                    "size": "11365063872",
+                    "download": "4950655280"
+                },
+                "previous_version": {
+                    "gid": "7512677691976141256",
+                    "size": "11374030119",
+                    "download": "4959603344"
+                },
+                "public_beta": {
+                    "gid": "8764809280723479046",
+                    "size": "17966999304",
+                    "download": "7691455248"
+                },
+                "public_french_beta": {
+                    "gid": "3053339861672998324",
+                    "size": "18111633080",
+                    "download": "7777431088"
+                }
+            },
+            "decryptionkey": "fb00644f79baf330476211f18987ada976f3714919f989943df4a85a40abdbf8"
+        },
+        "617483": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10793875",
+                "timeupdated": "1680686078"
+            },
+            "beta_pre_patch": {
+                "buildid": "3781516",
+                "description": "beta_pre_patch",
+                "timeupdated": "1579791118"
+            },
+            "previous_version": {
+                "buildid": "5059146",
+                "description": "In case of an issue with current version - you can always switch to the previous one.",
+                "timeupdated": "1680686044"
+            },
+            "public_beta": {
+                "buildid": "2825472",
+                "description": "Public beta build",
+                "timeupdated": "1527851851"
+            },
+            "public_french_beta": {
+                "buildid": "3143857",
+                "description": "Public beta of French translation",
+                "timeupdated": "1537518307"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
