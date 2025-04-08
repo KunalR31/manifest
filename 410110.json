@@ -1,0 +1,100 @@
+{
+    "appid": "410110",
+    "type": "Game",
+    "name": "12 is Better Than 6",
+    "schinese_name": "12比6好",
+    "isfreeapp": "0",
+    "change_number": "27103768",
+    "update_time": "2025-01-22 09:27:49",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "410111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6614402114077256255",
+                    "size": "1170087347",
+                    "download": "719801808"
+                },
+                "test": {
+                    "gid": "1764992391673374368",
+                    "size": "1169914930",
+                    "download": "719631856"
+                }
+            },
+            "decryptionkey": "1a3d27168d3940fa042064bdf6b2ef270bfda7541717eaa00bc6e6a008ee2e0b"
+        },
+        "410112": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3752807508547351897",
+                    "size": "599200556",
+                    "download": "320700256"
+                },
+                "test": {
+                    "gid": "3752807508547351897",
+                    "size": "599200556",
+                    "download": "320700256"
+                }
+            },
+            "decryptionkey": "d9b81b167ad2582212ce886f0bd4a94ae98c67cefa855a3ce31bfd578b965014"
+        },
+        "410113": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2349198136058042729",
+                    "size": "600519806",
+                    "download": "231104176"
+                },
+                "test": {
+                    "gid": "2349198136058042729",
+                    "size": "600519806",
+                    "download": "231104176"
+                }
+            },
+            "decryptionkey": "ffe14e8b5bec76829b05bd2e259906a37c1ecffeffde6cc42ef8402703b47bca"
+        },
+        "450830": {
+            "dlcappid": "450830",
+            "manifests": {
+                "public": {
+                    "gid": "1249679737089271186",
+                    "size": "61232421",
+                    "download": "57551408"
+                },
+                "test": {
+                    "gid": "1249679737089271186",
+                    "size": "61232421",
+                    "download": "57551408"
+                }
+            },
+            "decryptionkey": "31848f9751155309eee3b0e193ba670688f2734ee6e750fcf7e9c1d02c4a0613"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3612466",
+                "timeupdated": "1551650752"
+            },
+            "test": {
+                "buildid": "3609436",
+                "timeupdated": "1551487111"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
