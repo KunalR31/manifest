@@ -1,0 +1,183 @@
+{
+    "appid": "371970",
+    "type": "Game",
+    "name": "Barony",
+    "schinese_name": "男爵",
+    "isfreeapp": "0",
+    "change_number": "28334661",
+    "update_time": "2025-04-07 02:32:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "371972": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7482368075614295588",
+                    "size": "934050863",
+                    "download": "535673664"
+                },
+                "v4.3.0-compatability": {
+                    "gid": "2947277393691406748",
+                    "size": "932324939",
+                    "download": "535552432"
+                },
+                "old-3.3.7": {
+                    "gid": "2113431571501222710",
+                    "size": "246076786",
+                    "download": "225832016"
+                },
+                "v4.2.1-compatability": {
+                    "gid": "7346427659802288864",
+                    "size": "871241782",
+                    "download": "530680784"
+                },
+                "4.0.2-speedrun": {
+                    "gid": "4835392294644153254",
+                    "size": "440609590",
+                    "download": "387548304"
+                }
+            },
+            "decryptionkey": "67e87aa283676e2c78d2a3f8bb8651825e3afd860a0d39da946fbefd252348be"
+        },
+        "371971": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5888302273235842994",
+                    "size": "986947415",
+                    "download": "547105344"
+                },
+                "v4.3.0-compatability": {
+                    "gid": "1863193712344836415",
+                    "size": "985010191",
+                    "download": "546912752"
+                },
+                "old-3.3.7": {
+                    "gid": "3878318767786457237",
+                    "size": "342864905",
+                    "download": "231069040"
+                },
+                "v4.2.1-compatability": {
+                    "gid": "3298683773788805437",
+                    "size": "923810472",
+                    "download": "541853600"
+                },
+                "4.0.2-speedrun": {
+                    "gid": "6632053128996497795",
+                    "size": "494281020",
+                    "download": "400194752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "371973": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8890781409482373833",
+                    "size": "971446239",
+                    "download": "541108624"
+                },
+                "v4.3.0-compatability": {
+                    "gid": "3111250283590770824",
+                    "size": "969750419",
+                    "download": "540965488"
+                },
+                "old-3.3.7": {
+                    "gid": "2820623644529211751",
+                    "size": "261859931",
+                    "download": "228695520"
+                },
+                "v4.2.1-compatability": {
+                    "gid": "4811242108599414771",
+                    "size": "908891534",
+                    "download": "536088176"
+                },
+                "4.0.2-speedrun": {
+                    "gid": "6887482419268852356",
+                    "size": "450536904",
+                    "download": "389236480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "470540": {
+            "manifests": {
+                "public": {
+                    "gid": "8637528418297383130",
+                    "size": "328190002",
+                    "download": "319376816"
+                },
+                "v4.3.0-compatability": {
+                    "gid": "8637528418297383130",
+                    "size": "328190002",
+                    "download": "319376816"
+                },
+                "old-3.3.7": {
+                    "gid": "8637528418297383130",
+                    "size": "328190002",
+                    "download": "319376816"
+                },
+                "v4.2.1-compatability": {
+                    "gid": "8637528418297383130",
+                    "size": "328190002",
+                    "download": "319376816"
+                },
+                "4.0.2-speedrun": {
+                    "gid": "8637528418297383130",
+                    "size": "328190002",
+                    "download": "319376816"
+                }
+            },
+            "dlcappid": "470540",
+            "decryptionkey": "04abc82a5fff78401c74b7dc6d2772e9cf3b93f8094dfffc634f9bdbb4bb4b8e"
+        },
+        "workshopdepot": "371970",
+        "branches": {
+            "public": {
+                "buildid": "16731529",
+                "timeupdated": "1734072058"
+            },
+            "v4.3.0-compatability": {
+                "buildid": "16274946",
+                "description": "Compatability for V4.3.0",
+                "timeupdated": "1734043915"
+            },
+            "old-3.3.7": {
+                "buildid": "7933019",
+                "description": "Legacy - 3.3.7 (Blessed Addition)",
+                "timeupdated": "1690876178"
+            },
+            "v4.2.1-compatability": {
+                "buildid": "15867183",
+                "description": "Compatability for V4.2.1",
+                "timeupdated": "1729827115"
+            },
+            "4.0.2-speedrun": {
+                "buildid": "11958955",
+                "description": "Speedrunning legacy build",
+                "timeupdated": "1695640676"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "7ddb00a4dd4ff1611227dd7dc0fa1560d7d533475f5077bd9c5db86e828d887f"
+    }
+}
