@@ -1,0 +1,57 @@
+{
+    "appid": "270590",
+    "type": "Game",
+    "name": "Long Night",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26670940",
+    "update_time": "2024-12-17 10:37:32",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french",
+        "270591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4960547208108111525",
+                    "size": "1102732841",
+                    "download": "1759130946656"
+                },
+                "beta": {
+                    "gid": "3534398808508591813",
+                    "size": "1102600475",
+                    "download": "49506469928"
+                }
+            },
+            "decryptionkey": "65885c310f8030171be1971e2135fac702bdcd2548f623519942f6e47c8b0db0"
+        },
+        "270592": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6900568728678011449",
+                    "size": "1134618954",
+                    "download": "216954650232"
+                },
+                "beta": {
+                    "gid": "6900568728678011449",
+                    "size": "1134618954",
+                    "download": "59388729768"
+                }
+            },
+            "decryptionkey": "e8d194e5d0c393ebb2cbc5425bea8aceaaabe79dd16e71a137ad84a1c8cd84a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "322685"
+            },
+            "beta": {
+                "buildid": "329572"
+            }
+        }
+    }
+}
