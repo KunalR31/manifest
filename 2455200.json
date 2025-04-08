@@ -1,0 +1,72 @@
+{
+    "appid": "2455200",
+    "type": "Demo",
+    "name": "Galactic Defense: Automation Demo",
+    "schinese_name": "银河边境防御线: 自动化 试玩",
+    "isfreeapp": "0",
+    "change_number": "26433420",
+    "update_time": "2024-12-05 08:22:50",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2455201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "219682661452592083",
+                    "size": "846043092",
+                    "download": "842733984"
+                },
+                "prereleasetest": {
+                    "gid": "219682661452592083",
+                    "size": "846043092",
+                    "download": "842733984"
+                }
+            },
+            "decryptionkey": "eca2e760993e3c7bd69b9bcf88023d4214b2bad5686b2e6e2a1a63e8d7deae73"
+        },
+        "2455205": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3162375894796507642",
+                    "size": "867808370",
+                    "download": "855670880"
+                },
+                "prereleasetest": {
+                    "gid": "3162375894796507642",
+                    "size": "867808370",
+                    "download": "855670880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2455206": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8955032895821258521",
+                    "size": "886389501",
+                    "download": "863232384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16587001",
+                "timeupdated": "1732958872"
+            },
+            "prereleasetest": {
+                "buildid": "16586934",
+                "description": "branch for testing before release",
+                "timeupdated": "1732958470"
+            }
+        }
+    }
+}
