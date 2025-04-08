@@ -1,0 +1,90 @@
+{
+    "appid": "2241720",
+    "type": "Tool",
+    "name": "TheCenozoicEraServer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27799082",
+    "update_time": "2025-03-06 01:04:15",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "2241721": {
+            "manifests": {
+                "public": {
+                    "gid": "7087319044995798846",
+                    "size": "3296458583",
+                    "download": "665944784"
+                },
+                "legacy": {
+                    "gid": "21483053722263952",
+                    "size": "3621398822",
+                    "download": "1352014368"
+                },
+                "recode": {
+                    "gid": "763110303717128361",
+                    "size": "5628996227",
+                    "download": "1504850112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17575314",
+                "timeupdated": "1741012558"
+            },
+            "legacy": {
+                "buildid": "11148489",
+                "description": "Previous Version",
+                "timeupdated": "1700877047"
+            },
+            "recode": {
+                "buildid": "17452070",
+                "description": "Recoded Version",
+                "timeupdated": "1741194251"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
