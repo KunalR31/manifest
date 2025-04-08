@@ -1,0 +1,54 @@
+{
+    "appid": "570050",
+    "type": "Game",
+    "name": "Raiden V: Director's Cut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25499179",
+    "update_time": "2024-10-03 00:08:54",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "570051": {
+            "manifests": {
+                "public": {
+                    "gid": "8421580091318723806",
+                    "size": "5366655818",
+                    "download": "1560548256"
+                },
+                "fix_cheer": {
+                    "gid": "3716936436843554406",
+                    "size": "5366649674",
+                    "download": "1560545888"
+                },
+                "fix_frame_rate": {
+                    "gid": "8421580091318723806",
+                    "size": "5366655818",
+                    "download": "1560548256"
+                }
+            },
+            "decryptionkey": "c14ca313a237ac1201ad35b3c02a04f75412ef18e86311188e0372dfd50d10fa"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "2204201",
+                "timeupdated": "1508551061"
+            },
+            "fix_cheer": {
+                "buildid": "2192611",
+                "timeupdated": "1507809049"
+            },
+            "fix_frame_rate": {
+                "buildid": "2204201",
+                "timeupdated": "1508211141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
