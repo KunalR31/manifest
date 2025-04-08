@@ -1,0 +1,80 @@
+{
+    "appid": "256010",
+    "type": "Game",
+    "name": "Jagged Alliance Flashback",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25007397",
+    "update_time": "2024-09-17 11:50:52",
+    "depot": {
+        "overridescddb": "1",
+        "256011": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7127718388165759380",
+                    "size": "2926319279",
+                    "download": "1522869072"
+                },
+                "public_test": {
+                    "gid": "6354351411158656575",
+                    "size": "2926322709",
+                    "download": "85535926440"
+                }
+            },
+            "decryptionkey": "f663557fa28fa4f4eb663661e235c0f6bb8b08e836061339be7e062426917fff"
+        },
+        "256012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5933135049814882797",
+                    "size": "2926545385",
+                    "download": "1524813584"
+                },
+                "public_test": {
+                    "gid": "5151207639410836351",
+                    "size": "2926548815",
+                    "download": "230295269232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "256013": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5052539592406857956",
+                    "size": "2924360000",
+                    "download": "1519823712"
+                },
+                "public_test": {
+                    "gid": "2569368326345704522",
+                    "size": "2906582109",
+                    "download": "23575779776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "338560": {
+            "dlcappid": "338560"
+        },
+        "branches": {
+            "public": {
+                "buildid": "590468"
+            },
+            "public_test": {
+                "buildid": "477037",
+                "description": "Public test builds"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
