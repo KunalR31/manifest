@@ -1,0 +1,157 @@
+{
+    "appid": "259530",
+    "type": "Game",
+    "name": "Savant - Ascent",
+    "schinese_name": "莎凡特",
+    "isfreeapp": "0",
+    "change_number": "27968882",
+    "update_time": "2025-03-15 11:20:33",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "259531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4148669846917807698",
+                    "size": "104166639",
+                    "download": "75930448"
+                },
+                "local": {
+                    "gid": "7043940007074438408",
+                    "size": "48570459",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "4148669846917807698",
+                    "size": "104166639",
+                    "download": "75930448"
+                }
+            },
+            "decryptionkey": "7973ef250d5b698a5c28361c07b97a589d05cabead4114d6894808a2490fa763"
+        },
+        "259532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "132238365678190632",
+                    "size": "87912710",
+                    "download": "75537920"
+                },
+                "local": {
+                    "gid": "1203189366318820960",
+                    "size": "51300648",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "132238365678190632",
+                    "size": "87912710",
+                    "download": "75537920"
+                }
+            },
+            "decryptionkey": "dd99f8b4fa6272c560de391923b16391616248bfbfa97e905bf46ea4de49c154"
+        },
+        "259533": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3810259025721719658",
+                    "size": "81351367",
+                    "download": "71922512"
+                },
+                "local": {
+                    "gid": "1849125161056776027",
+                    "size": "46350126",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "3810259025721719658",
+                    "size": "81351367",
+                    "download": "71922512"
+                }
+            },
+            "decryptionkey": "514c13f801b71e8c69d1be6f274ae038bec19154f6d92fd696103b58f5bf51f7"
+        },
+        "656810": {
+            "manifests": {
+                "public": {
+                    "gid": "4459164537762377809",
+                    "size": "180649849",
+                    "download": "180455152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "656760": {
+            "manifests": {
+                "public": {
+                    "gid": "5580035132805009302",
+                    "size": "223689560",
+                    "download": "222530080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "657270": {
+            "manifests": {
+                "public": {
+                    "gid": "8134794806861589496",
+                    "size": "155457439",
+                    "download": "154769056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "657360": {
+            "manifests": {
+                "public": {
+                    "gid": "5992617444961751407",
+                    "size": "177427017",
+                    "download": "176563360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "657361": {
+            "manifests": {
+                "public": {
+                    "gid": "8372690970812257316",
+                    "size": "192056817",
+                    "download": "191356832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2333193",
+                "timeupdated": "1512148089"
+            },
+            "local": {
+                "buildid": "144737",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "publicbeta": {
+                "buildid": "2333172",
+                "description": "Public Beta - Test new features",
+                "timeupdated": "1512147354"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
