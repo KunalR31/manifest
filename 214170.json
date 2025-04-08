@@ -1,0 +1,99 @@
+{
+    "appid": "214170",
+    "type": "Game",
+    "name": "Divine Divinity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27117929",
+    "update_time": "2025-01-23 03:25:51",
+    "depot": {
+        "214170": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5194937154695120905",
+                    "size": "2306662069",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "7438293150494626372",
+                    "size": "2367793743",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "80d23f1ef2b98d259677a69f294e5e980350f2672baa0de6d82394a481d0f1a3"
+        },
+        "214172": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "820071816460708874",
+                    "size": "165806194",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e658d690f0414fbce17f1b4cdc2b414cb7033351f08f27d220171cab1a12ca81"
+        },
+        "214171": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8575482005895744817",
+                    "size": "196815870",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0855d56743d402e66348b66749fd420c1285b4eb601e762c6a10cdbba71d640b"
+        },
+        "214173": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8613540334830051408",
+                    "size": "172662153",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bb01537e7171541c788d96449662548bb7f6616fae056835dbb8cd843552992e"
+        },
+        "214174": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8953207741448160191",
+                    "size": "328718643",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "be17b10a33b759b4923076a5e3bf04b7e0cc4c57e25349da9e85be81a9b9f5f6"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "61130"
+            },
+            "local": {
+                "buildid": "4137",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
