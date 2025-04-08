@@ -1,0 +1,74 @@
+{
+    "appid": "278100",
+    "type": "Game",
+    "name": "RIVE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26035406",
+    "update_time": "2024-11-04 18:47:57",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,brazilian",
+        "278101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5078223687761893907",
+                    "size": "914475655",
+                    "download": "768379232"
+                }
+            },
+            "decryptionkey": "10d67d4a02815f0a19f3127434b1b919426caed400ea99bfb49efea456f12196"
+        },
+        "278102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1311531435384520630",
+                    "size": "959365275",
+                    "download": "800606464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "278103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8109354492142167747",
+                    "size": "957793232",
+                    "download": "799936992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5360254",
+                "timeupdated": "1596297208"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
