@@ -1,0 +1,109 @@
+{
+    "appid": "221180",
+    "type": "Game",
+    "name": "Eufloria HD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27118612",
+    "update_time": "2025-01-23 04:20:04",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "221181": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2101304207072225407",
+                    "size": "403837686",
+                    "download": "347200224"
+                },
+                "feb2015": {
+                    "gid": "3069722344087984572",
+                    "size": "366277824",
+                    "download": "342333344"
+                }
+            },
+            "decryptionkey": "7e31bdf78eda08ea4277b1e2c80f8baca85e06d525dffb0e9b0ca03a67f2ecc9"
+        },
+        "221182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4417486980090893177",
+                    "size": "405936771",
+                    "download": "350050000"
+                },
+                "feb2015": {
+                    "gid": "2274702470557345222",
+                    "size": "405396827",
+                    "download": "350936720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "221183": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2920009337459606923",
+                    "size": "387506539",
+                    "download": "348031520"
+                },
+                "feb2015": {
+                    "gid": "2920009337459606923",
+                    "size": "387506539",
+                    "download": "348031520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "327040": {
+            "manifests": {
+                "public": {
+                    "gid": "3430467182818181831",
+                    "size": "1881052357",
+                    "download": "1627953200"
+                },
+                "feb2015": {
+                    "gid": "3430467182818181831",
+                    "size": "1881052357",
+                    "download": "1627953200"
+                }
+            },
+            "dlcappid": "327040",
+            "decryptionkey": "14b048a6a4a96fbcb07310038ff56a41e36116fb890d44d46eeca9446a9b7376"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5272442",
+                "timeupdated": "1594459751"
+            },
+            "feb2015": {
+                "buildid": "5170485",
+                "timeupdated": "1594347616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
