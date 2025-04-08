@@ -1,0 +1,84 @@
+{
+    "appid": "63710",
+    "type": "Game",
+    "name": "BIT.TRIP RUNNER",
+    "schinese_name": "像素奔跑者",
+    "isfreeapp": "0",
+    "change_number": "27175907",
+    "update_time": "2025-01-27 07:26:04",
+    "depot": {
+        "202961": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2656285029064240935",
+                    "size": "52757609",
+                    "download": "52187472"
+                },
+                "wingl_unsupported": {
+                    "gid": "2656285029064240935",
+                    "size": "52757609",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "202961",
+            "decryptionkey": "d62b83f76a2e9d5afb086018ef24e074e668f8e7a6d464cc842b4a622b0c2e23"
+        },
+        "63713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6304087863411660240",
+                    "size": "59806151",
+                    "download": "26616464"
+                },
+                "wingl_unsupported": {
+                    "gid": "1881380181363629169",
+                    "size": "57037528",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "63711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1983135888873324893",
+                    "size": "63790751",
+                    "download": "35040896"
+                },
+                "wingl_unsupported": {
+                    "gid": "8434493619620074655",
+                    "size": "61620502",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "df5cb35bf6fb9fb96edf46dbd1580a5da418b3b8e5008274dba67c09c682baef"
+        },
+        "63715": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "774526"
+            },
+            "wingl_unsupported": {
+                "buildid": "20741",
+                "description": "Old OpenGL builds.  Unsupported!"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
