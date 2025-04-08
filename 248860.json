@@ -1,0 +1,80 @@
+{
+    "appid": "248860",
+    "type": "Game",
+    "name": "NEO Scavenger",
+    "schinese_name": "末日拾荒者",
+    "isfreeapp": "0",
+    "change_number": "27132057",
+    "update_time": "2025-01-23 22:25:53",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "248861": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5489943841464404302",
+                    "size": "190772428",
+                    "download": "169249888"
+                },
+                "public_test": {
+                    "gid": "5489943841464404302",
+                    "size": "190772428",
+                    "download": "169249888"
+                }
+            },
+            "decryptionkey": "5d41feeab8d9e10c2db8c483f3226af69c14a36270db64428ea8bf8f0edda1ee"
+        },
+        "248862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8925702662126196236",
+                    "size": "218501662",
+                    "download": "178186592"
+                },
+                "public_test": {
+                    "gid": "8925702662126196236",
+                    "size": "218501662",
+                    "download": "178186592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "248863": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2108851847250180169",
+                    "size": "198385106",
+                    "download": "168701936"
+                },
+                "public_test": {
+                    "gid": "2108851847250180169",
+                    "size": "198385106",
+                    "download": "168701936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1555756",
+                "timeupdated": "1489621715"
+            },
+            "public_test": {
+                "buildid": "1555756",
+                "description": "Public testing version: new features, new content, possibly new bugs",
+                "timeupdated": "1483748101"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
