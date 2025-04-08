@@ -1,0 +1,78 @@
+{
+    "appid": "415420",
+    "type": "Game",
+    "name": "Nyan Cat: Lost In Space",
+    "schinese_name": "彩虹猫：迷失太空",
+    "isfreeapp": "0",
+    "change_number": "27138190",
+    "update_time": "2025-01-24 05:26:05",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "415421": {
+            "manifests": {
+                "public": {
+                    "gid": "6991666460020760590",
+                    "size": "89021482",
+                    "download": "88348288"
+                },
+                "local": {
+                    "gid": "5891782163369206515",
+                    "size": "160172655",
+                    "download": "143425088"
+                }
+            },
+            "decryptionkey": "c70db1e05ea56dad941c96c1c0ed236175a0f5dc185145c5e71b0ff3aba0f659"
+        },
+        "415422": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7923369923543721584",
+                    "size": "2842166",
+                    "download": "863024"
+                }
+            },
+            "decryptionkey": "6fb0217aea6d7ea2d43d82f81356e873a3a82a2f5f99e618168ea9cefac1e577"
+        },
+        "415423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "237262177702448809",
+                    "size": "5226213",
+                    "download": "1516000"
+                }
+            },
+            "decryptionkey": "b319b84e49d37f24b867d8857d66babbd7509d3b24c648017eade4528498c3f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2567711",
+                "timeupdated": "1519918594"
+            },
+            "local": {
+                "buildid": "836614",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
