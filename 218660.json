@@ -1,0 +1,82 @@
+{
+    "appid": "218660",
+    "type": "Game",
+    "name": "iBomber Attack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26846930",
+    "update_time": "2025-01-03 11:11:10",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "218661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4347362125123476695",
+                    "size": "970457751",
+                    "download": "951782112"
+                }
+            },
+            "decryptionkey": "9b76202dc2e5f10f2118dbc34855b2b71555f39f0ef054fbe2674ba66aacaef8"
+        },
+        "218662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "432289879006520846",
+                    "size": "978004583",
+                    "download": "957119152"
+                }
+            },
+            "decryptionkey": "fbaa4c9c202fbbd5f403696f0063eb23149de5553b51cb274b1597f0e70a8848"
+        },
+        "218663": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5397477286923944625",
+                    "size": "973179476",
+                    "download": "950713184"
+                }
+            },
+            "decryptionkey": "c622d27308155d1ed28826ad3d1ab7800de895598bc651e499137ee3eaf2ecd0"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "824510"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
