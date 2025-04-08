@@ -1,0 +1,93 @@
+{
+    "appid": "307880",
+    "type": "Game",
+    "name": "Savage Lands",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27142964",
+    "update_time": "2025-01-24 12:24:37",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "307881": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6638246964444326719",
+                    "size": "3890145930",
+                    "download": "1553661936"
+                },
+                "legacy": {
+                    "gid": "3864762566097672992",
+                    "size": "1687610519",
+                    "download": "786388912"
+                }
+            },
+            "decryptionkey": "d7cf047c98350788d5abd608ed43de218509c555762b3df08b439e62f6ad630b"
+        },
+        "307882": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6607497893488495132",
+                    "size": "3911732032",
+                    "download": "1559970368"
+                },
+                "legacy": {
+                    "gid": "898277275156842583",
+                    "size": "1680005056",
+                    "download": "774919200"
+                }
+            },
+            "decryptionkey": "6fae1a49ceaa0f2d708622b4c8e7d6c8d9719ff30a5c154a474726796eaabc76"
+        },
+        "307883": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1633027523953994291",
+                    "size": "3893986032",
+                    "download": "1550799280"
+                },
+                "legacy": {
+                    "gid": "3008492631624768857",
+                    "size": "1681113247",
+                    "download": "775595456"
+                }
+            },
+            "decryptionkey": "8fcda1c8f874850455b00ccca7bec09548aaf523bd9286dff3b32170bb2777c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12516772",
+                "timeupdated": "1698377439"
+            },
+            "legacy": {
+                "buildid": "851723",
+                "description": "Final Unity 4 Build"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
