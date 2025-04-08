@@ -1,0 +1,149 @@
+{
+    "appid": "281610",
+    "type": "Game",
+    "name": "Homeworld: Deserts of Kharak",
+    "schinese_name": "家园：卡拉克沙漠",
+    "isfreeapp": "0",
+    "change_number": "28169760",
+    "update_time": "2025-03-27 20:40:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian",
+        "281611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5210092107733013038",
+                    "size": "8583491078",
+                    "download": "4348431840"
+                },
+                "local": {
+                    "gid": "2676749656911114222",
+                    "size": "7217604985",
+                    "download": "3873165072"
+                }
+            },
+            "decryptionkey": "b7098d08745b810350e061389ce73e97d97d5411dfd2b3143873c93563d86f3d"
+        },
+        "281612": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2202974001492067414",
+                    "size": "155160606",
+                    "download": "127257200"
+                },
+                "local": {
+                    "gid": "4102344309960144194",
+                    "size": "27300976",
+                    "download": "15672656"
+                }
+            },
+            "decryptionkey": "5957cf5b86ebdcbf0b167c5558651b3dfd7263927ea862f59e75b84934ebe53e"
+        },
+        "281613": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7207157799389788718",
+                    "size": "163831022",
+                    "download": "129740384"
+                },
+                "local": {
+                    "gid": "644526588860484981",
+                    "size": "31091376",
+                    "download": "17882160"
+                }
+            },
+            "decryptionkey": "4ba88568446783b01096329aa771ccbf5079582b370750f05c6441ae1154f5f1"
+        },
+        "281614": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "433240",
+            "manifests": {
+                "public": {
+                    "gid": "3792884669909128939",
+                    "size": "808408205",
+                    "download": "635485984"
+                }
+            },
+            "decryptionkey": "7033c4d115fd98f302adead0b176abb814d677d3e52ab893d2cd7e6b3c97eec2"
+        },
+        "436550": {
+            "manifests": {
+                "public": {
+                    "gid": "9154155049379705947",
+                    "size": "1316705437",
+                    "download": "1274969632"
+                }
+            },
+            "dlcappid": "436550",
+            "decryptionkey": "3ce2d0e6e8e2ba6f8a9e6d75f492c0086149ba24341323aee1c907eeef1e83f3"
+        },
+        "281615": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591641159003219646",
+                    "size": "8231030368",
+                    "download": "4191643536"
+                }
+            },
+            "decryptionkey": "6ff29acefd33aa7515a6f39829a75672ed45d74f10c76fa65e7797fd8530b655"
+        },
+        "281616": {
+            "dlcappid": "433240",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8548008470451474605",
+                    "size": "810268632",
+                    "download": "629265920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "12339551",
+                "timeupdated": "1696431648"
+            },
+            "local": {
+                "buildid": "910678",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
