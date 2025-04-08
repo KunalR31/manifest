@@ -1,0 +1,80 @@
+{
+    "appid": "2398170",
+    "type": "Game",
+    "name": "BORE BLASTERS",
+    "schinese_name": "深地爆破采掘",
+    "isfreeapp": "0",
+    "change_number": "28333273",
+    "update_time": "2025-04-06 23:16:43",
+    "depot": {
+        "baselanguages": "english",
+        "2398171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5270379223840653531",
+                    "size": "521522420",
+                    "download": "464146352"
+                },
+                "experimental": {
+                    "gid": "5270379223840653531",
+                    "size": "521522420",
+                    "download": "464146352"
+                }
+            },
+            "decryptionkey": "17a13058c9b92ec2d622ec63e9e8535e28fcfa051ab2df613ca72f72d422fa8e"
+        },
+        "2398172": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2323878692577563436",
+                    "size": "519452902",
+                    "download": "463494528"
+                },
+                "experimental": {
+                    "gid": "2323878692577563436",
+                    "size": "519452902",
+                    "download": "463494528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2398173": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055702667224458227",
+                    "size": "522831964",
+                    "download": "464108544"
+                },
+                "experimental": {
+                    "gid": "3055702667224458227",
+                    "size": "522831964",
+                    "download": "464108544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17512324",
+                "timeupdated": "1740563279"
+            },
+            "experimental": {
+                "buildid": "17512324",
+                "description": "Help test bleeding edge builds. WARNING: Save file at risk",
+                "timeupdated": "1740561988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
