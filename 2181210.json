@@ -1,0 +1,116 @@
+{
+    "appid": "2181210",
+    "type": "Tool",
+    "name": "JBMod Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26392854",
+    "update_time": "2024-12-05 05:44:40",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "2181211": {
+            "manifests": {
+                "public": {
+                    "gid": "472081192675930999",
+                    "size": "736006173",
+                    "download": "231211680"
+                },
+                "local": {
+                    "gid": "8241761630710254520",
+                    "size": "735741277",
+                    "download": "230964816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2181212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4426020149334356664",
+                    "size": "99785896",
+                    "download": "32004096"
+                },
+                "local": {
+                    "gid": "297253290235479004",
+                    "size": "99785896",
+                    "download": "32003568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2181213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8922622124892569028",
+                    "size": "79608804",
+                    "download": "19892272"
+                },
+                "local": {
+                    "gid": "1718218215059467337",
+                    "size": "79608804",
+                    "download": "19892320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10753002",
+                "timeupdated": "1678676757"
+            },
+            "local": {
+                "buildid": "10635288",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1677302260"
+            }
+        }
+    }
+}
