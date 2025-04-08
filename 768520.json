@@ -1,0 +1,60 @@
+{
+    "appid": "768520",
+    "type": "Game",
+    "name": "Red Solstice 2: Survivors",
+    "schinese_name": "Red Solstice 2: Survivors - 红至日2：幸存者",
+    "isfreeapp": "0",
+    "change_number": "26896121",
+    "update_time": "2025-01-08 01:42:28",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "768521": {
+            "manifests": {
+                "public": {
+                    "gid": "5179039703634067628",
+                    "size": "13113770890",
+                    "download": "5229729472"
+                },
+                "patchpreroll": {
+                    "gid": "3724890029056059542",
+                    "size": "13106157450",
+                    "download": "5228274016"
+                }
+            },
+            "decryptionkey": "6f73b9272499736de64e539fa4273b4f3068592d4e4cc2411d7c7faf71df7f8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16930750",
+                "timeupdated": "1736271741"
+            },
+            "patchpreroll": {
+                "buildid": "16739786",
+                "description": "Testing new patches",
+                "timeupdated": "1736243669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
