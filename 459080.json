@@ -1,0 +1,89 @@
+{
+    "appid": "459080",
+    "type": "Game",
+    "name": "YIIK: A Postmodern RPG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27409119",
+    "update_time": "2025-02-11 05:38:39",
+    "depot": {
+        "459081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6371337978980658450",
+                    "size": "7241273739",
+                    "download": "2388648512"
+                },
+                "alternate_launcher": {
+                    "gid": "2253469943870515717",
+                    "size": "7203302399",
+                    "download": "2375066352"
+                },
+                "experimental_builds": {
+                    "gid": "5057198911883293804",
+                    "size": "7238301227",
+                    "download": "2385156416"
+                },
+                "legacybranch": {
+                    "gid": "2279992701954899213",
+                    "size": "4467662486",
+                    "download": "1226405776"
+                }
+            },
+            "decryptionkey": "705c1bd54089b6a9b8448ce9bd16de2b79ea15500d4c8fc2ddefccc85c2704b7"
+        },
+        "459082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2147783073012233284",
+                    "size": "7206605588",
+                    "download": "2372959808"
+                },
+                "alternate_launcher": {
+                    "gid": "5649306894675624433",
+                    "size": "7206537292",
+                    "download": "2372990944"
+                },
+                "experimental_builds": {
+                    "gid": "5981811734507512128",
+                    "size": "7203653308",
+                    "download": "2369475408"
+                },
+                "legacybranch": {
+                    "gid": "5154756771587987192",
+                    "size": "4476515296",
+                    "download": "1228646912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16762414",
+                "timeupdated": "1734373196"
+            },
+            "alternate_launcher": {
+                "buildid": "16618179",
+                "description": "For users experiencing launcher issues",
+                "timeupdated": "1733248644"
+            },
+            "experimental_builds": {
+                "buildid": "17312773",
+                "description": "The most recent builds of YIIK. Bug fixes are being worked on and tested here",
+                "timeupdated": "1739223498"
+            },
+            "legacybranch": {
+                "buildid": "6529784",
+                "description": "legacy branch",
+                "timeupdated": "1681257032"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
