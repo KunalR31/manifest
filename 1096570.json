@@ -1,0 +1,140 @@
+{
+    "appid": "1096570",
+    "type": "Game",
+    "name": "SONG OF HORROR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26950033",
+    "update_time": "2025-01-11 08:16:51",
+    "depot": {
+        "baselanguages": "english,german,french,spanish",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1096571": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8190275771400931094",
+                    "size": "11058033955",
+                    "download": "9841245808"
+                },
+                "soh-v1.24_aura_enabled": {
+                    "gid": "1781549772837695249",
+                    "size": "9284703079",
+                    "download": "9039318272"
+                }
+            },
+            "decryptionkey": "dffa128a302f183d9ddbdc34dd4d31d88d8618fd873509b8e40cf4b9a133973e"
+        },
+        "1151730": {
+            "dlcappid": "1151730",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1156978330219783414",
+                    "size": "1592452611",
+                    "download": "1591355008"
+                },
+                "soh-v1.24_aura_enabled": {
+                    "gid": "5890855563194240268",
+                    "size": "2721561067",
+                    "download": "1303101808"
+                }
+            },
+            "depotfromapp": "1151730",
+            "decryptionkey": "1fa432cb9b2476b7b825842c3509dcba1f9e5d17146d1542fa2cf9629f375ba3"
+        },
+        "1157230": {
+            "dlcappid": "1157230",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2985930999990768818",
+                    "size": "2138081633",
+                    "download": "2138157360"
+                },
+                "soh-v1.24_aura_enabled": {
+                    "gid": "897338367463362354",
+                    "size": "3695744793",
+                    "download": "1736166768"
+                }
+            },
+            "depotfromapp": "1157230",
+            "decryptionkey": "d11a1682bf5ef74c412d84bc31da9eace38258ca0f0036f87feaf28fde2a69d2"
+        },
+        "1158110": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8878294472635219411",
+                    "size": "2470390217",
+                    "download": "2464680064"
+                },
+                "soh-v1.24_aura_enabled": {
+                    "gid": "578365272803329154",
+                    "size": "2470149907",
+                    "download": "2464203968"
+                }
+            },
+            "dlcappid": "1158110",
+            "depotfromapp": "1158110",
+            "decryptionkey": "10e306a0051ec5d25d4cad10a9d396949dacd2350b2f1a338cf82ba5ff55f8fa"
+        },
+        "1158111": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "1158111",
+            "manifests": {
+                "public": {
+                    "gid": "8218282634936959097",
+                    "size": "3163142116",
+                    "download": "3163640400"
+                },
+                "soh-v1.24_aura_enabled": {
+                    "gid": "9023288658838365935",
+                    "size": "5207974078",
+                    "download": "2611984768"
+                }
+            },
+            "depotfromapp": "1158111",
+            "decryptionkey": "9aaf0983692baa458a164715f4463a8f4bb6aad4e5e477afb95b8c5cee89823a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8260563",
+                "timeupdated": "1646933824"
+            },
+            "soh-v1.24_aura_enabled": {
+                "buildid": "5824188",
+                "description": "Public branch with Asus Aura enabled",
+                "timeupdated": "1638459716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
