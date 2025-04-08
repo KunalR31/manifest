@@ -1,0 +1,68 @@
+{
+    "appid": "51100",
+    "type": "Game",
+    "name": "Tactical Intervention",
+    "schinese_name": "战术干预",
+    "isfreeapp": "0",
+    "change_number": "26185878",
+    "update_time": "2024-11-14 10:49:53",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "51101": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "985924076967165472",
+                    "size": "7472373909",
+                    "download": "3326555888"
+                }
+            },
+            "decryptionkey": "bb15e797a6979e41e53d589426e071f67a12bc03db51366af24550d876bdf47e"
+        },
+        "51104": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2582325691754057106",
+                    "size": "161620528",
+                    "download": "43893552"
+                }
+            },
+            "decryptionkey": "44085e870df5a0df78003e5da5e1791199aa626b0c5989dda100b59f1564853d"
+        },
+        "workshopdepot": "51100",
+        "branches": {
+            "public": {
+                "buildid": "2086041",
+                "timeupdated": "1504286398"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
