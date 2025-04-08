@@ -1,0 +1,85 @@
+{
+    "appid": "1621210",
+    "type": "Game",
+    "name": "Nemithia - Tale of the Legendary Saviors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26749516",
+    "update_time": "2024-12-22 07:05:23",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1621210",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1621211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4292250088053535186",
+                    "size": "1478358684",
+                    "download": "121315808"
+                },
+                "public-beta": {
+                    "gid": "4292250088053535186",
+                    "size": "1478358684",
+                    "download": "121315808"
+                }
+            },
+            "decryptionkey": "e6b21c222e5ce9af05eee87eadc79762568f90213ed67464096a13d7cd3fa6b4"
+        },
+        "1621212": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4735620179763053485",
+                    "size": "1510481375",
+                    "download": "118326000"
+                },
+                "public-beta": {
+                    "gid": "4735620179763053485",
+                    "size": "1510481375",
+                    "download": "118326000"
+                }
+            },
+            "decryptionkey": "6cccfc8a789cd08b86fae59329d6c5f3ff5f6a1c4165f80c2e504d3df67f1ffe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16826135",
+                "timeupdated": "1734822319"
+            },
+            "public-beta": {
+                "buildid": "16826135",
+                "description": "Public Beta Branch",
+                "timeupdated": "1734822269"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
