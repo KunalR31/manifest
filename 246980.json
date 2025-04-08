@@ -1,0 +1,87 @@
+{
+    "appid": "246980",
+    "type": "Game",
+    "name": "InFlux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26237594",
+    "update_time": "2024-11-18 09:23:15",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "246982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5574135960212955721",
+                    "size": "1211736888",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5574135960212955721",
+                    "size": "1211736888",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5b295610f8b682ce5c0c52b5662caea5e93fb43a065d7f28a4b9e43a03131303"
+        },
+        "246981": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8241552407730058344",
+                    "size": "1005361108",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "8241552407730058344",
+                    "size": "1005361108",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "278720": {
+            "manifests": {
+                "public": {
+                    "gid": "4849907674748109322",
+                    "size": "140809364",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "278720",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "289738"
+            },
+            "beta": {
+                "buildid": "121800"
+            },
+            "local": {
+                "buildid": "289680",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
