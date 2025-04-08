@@ -1,0 +1,72 @@
+{
+    "appid": "2082470",
+    "type": "Demo",
+    "name": "VEIN Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28344879",
+    "update_time": "2025-04-07 19:47:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2082471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7415640997585282578",
+                    "size": "53482312181",
+                    "download": "17525616912"
+                },
+                "experimental": {
+                    "gid": "4639297321101250753",
+                    "size": "53957017849",
+                    "download": "17756879904"
+                }
+            }
+        },
+        "2082472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5976526949668419753",
+                    "size": "50386421235",
+                    "download": "16939746672"
+                },
+                "experimental": {
+                    "gid": "5488951368844555513",
+                    "size": "50795679242",
+                    "download": "17158639488"
+                }
+            }
+        },
+        "workshopdepot": "2082470",
+        "branches": {
+            "public": {
+                "buildid": "17971705",
+                "timeupdated": "1743691803"
+            },
+            "experimental": {
+                "buildid": "18010785",
+                "description": "Bleeding-edge updates, unstable",
+                "timeupdated": "1744026463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
