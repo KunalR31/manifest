@@ -1,0 +1,85 @@
+{
+    "appid": "491530",
+    "type": "Game",
+    "name": "Notruf 112",
+    "schinese_name": "紧急112：消防队员模拟",
+    "isfreeapp": "0",
+    "change_number": "27115265",
+    "update_time": "2025-01-23 00:28:27",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,polish,turkish",
+        "workshopdepot": "491530",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "491531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5038853086416267517",
+                    "size": "3941034914",
+                    "download": "1134335440"
+                },
+                "beta": {
+                    "gid": "1310899138348419983",
+                    "size": "3999377914",
+                    "download": "1168316016"
+                }
+            },
+            "decryptionkey": "75706ad45ded4eb130afacc177c675a508d3adac6e944c5cf03260a58db58d94"
+        },
+        "491532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "83794733229325079",
+                    "size": "3935516394",
+                    "download": "1133277104"
+                },
+                "beta": {
+                    "gid": "8552877141275387246",
+                    "size": "3993655802",
+                    "download": "1166628640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2389688",
+                "timeupdated": "1513861935"
+            },
+            "beta": {
+                "buildid": "3136491",
+                "description": "Beta group",
+                "timeupdated": "1537430549"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8a36af5adcfdd44e2607a5a0e20d72fee979ef68da1f1093b384714a9e50fcbb"
+    }
+}
