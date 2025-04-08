@@ -1,0 +1,49 @@
+{
+    "appid": "981430",
+    "type": "Game",
+    "name": "Gordian Quest",
+    "schinese_name": "高殿战记",
+    "isfreeapp": "0",
+    "change_number": "27768245",
+    "update_time": "2025-03-04 14:22:25",
+    "depot": {
+        "981431": {
+            "manifests": {
+                "public": {
+                    "gid": "9155127372339053699",
+                    "size": "3260756031",
+                    "download": "1309365152"
+                },
+                "italian-lqa": {
+                    "gid": "1973366745047832608",
+                    "size": "3491344681",
+                    "download": "1274070544"
+                },
+                "bleeding-edge": {
+                    "gid": "7630779631982779039",
+                    "size": "3277667536",
+                    "download": "1314467152"
+                }
+            },
+            "decryptionkey": "f60c5f2079299e20a4a654e1637be4799eea0c3b7cd6a67007eb22e1383a2632"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "12188208",
+                "timeupdated": "1695016060"
+            },
+            "italian-lqa": {
+                "buildid": "9324872",
+                "description": "Playtesting for Italian localization.",
+                "timeupdated": "1660660215"
+            },
+            "bleeding-edge": {
+                "buildid": "17004204",
+                "description": "Try out the latest features. Uses a separate save file. Expect things to break and change fast.",
+                "timeupdated": "1740128783"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
