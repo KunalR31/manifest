@@ -1,0 +1,81 @@
+{
+    "appid": "2915550",
+    "type": "Tool",
+    "name": "FOUNDRY: Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28336964",
+    "update_time": "2025-04-07 07:49:26",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2915551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8096038852330380352",
+                    "size": "2292217284",
+                    "download": "1067599792"
+                }
+            },
+            "decryptionkey": "c351825f444ce7a649c47935036391c1f3420a12a422c54b5c55df9d86bb11da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15370692",
+                "timeupdated": "1723730213"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
