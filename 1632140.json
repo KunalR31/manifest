@@ -1,0 +1,65 @@
+{
+    "appid": "1632140",
+    "type": "Game",
+    "name": "girl agent",
+    "schinese_name": "少女探员",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 12:00:55",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1632141": {
+            "manifests": {
+                "public": {
+                    "gid": "8165083128165215811",
+                    "size": "2505728700",
+                    "download": "766204624"
+                },
+                "develop": {
+                    "gid": "8165083128165215811",
+                    "size": "2505728700",
+                    "download": "766204624"
+                }
+            },
+            "decryptionkey": "ddc56f0938146777672406b23de2e681f177652dc112f94a9488e505311a0c36"
+        },
+        "1788000": {
+            "dlcappid": "1788000",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6688730376977556584",
+                    "size": "13141240",
+                    "download": "13320736"
+                },
+                "develop": {
+                    "gid": "6688730376977556584",
+                    "size": "13141240",
+                    "download": "13320736"
+                }
+            },
+            "decryptionkey": "155b25a16ba1b49eb66790c4c9550a4afda63ca15f56be6fe4ac79a0dfc788db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8455608",
+                "timeupdated": "1648523606"
+            },
+            "develop": {
+                "buildid": "8455608",
+                "description": "for development",
+                "timeupdated": "1648522343"
+            }
+        }
+    }
+}
