@@ -1,0 +1,81 @@
+{
+    "appid": "2339040",
+    "type": "Game",
+    "name": "Landnama",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26439523",
+    "update_time": "2024-12-05 05:54:26",
+    "depot": {
+        "2339041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "983394507827217160",
+                    "size": "205369976",
+                    "download": "139802016"
+                },
+                "classic": {
+                    "gid": "3132140843424427665",
+                    "size": "196499048",
+                    "download": "137543424"
+                }
+            },
+            "decryptionkey": "46789bf5b7b445274bd3e5f4e35e2a26254ed0824ed96b19a003632f6e45e864"
+        },
+        "2339042": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5853864876898923004",
+                    "size": "264469271",
+                    "download": "153743680"
+                },
+                "classic": {
+                    "gid": "2252621477860277552",
+                    "size": "251948465",
+                    "download": "150251184"
+                }
+            },
+            "decryptionkey": "4201aad31aedcd46c280ee5ce88dfe18fa08d3a5138f88ccf2b358a03c026dd5"
+        },
+        "2339043": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "786199601523069098",
+                    "size": "215186640",
+                    "download": "142318656"
+                },
+                "classic": {
+                    "gid": "3671308412717130515",
+                    "size": "204947880",
+                    "download": "139797504"
+                }
+            },
+            "decryptionkey": "fa9a86cdea13ba8e744be2c38e2159753fbadb3a3b5abbbbbe694971384ea2d3"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16311308",
+                "timeupdated": "1730881030"
+            },
+            "classic": {
+                "buildid": "11858807",
+                "description": "Landnama's Release Version",
+                "timeupdated": "1697456709"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
