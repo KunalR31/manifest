@@ -1,0 +1,41 @@
+{
+    "appid": "8710",
+    "type": "Tool",
+    "name": "STCC - The Game Demo Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 05:20:38",
+    "depot": {
+        "overridescddb": "1",
+        "8701": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "754530197296991187",
+                    "size": "438399926",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "8700",
+            "decryptionkey": ""
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1002",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "markdlcdepots": "1",
+        "branches": {}
+    }
+}
