@@ -1,0 +1,126 @@
+{
+    "appid": "302710",
+    "type": "Game",
+    "name": "BlazeRush",
+    "schinese_name": "火焰冲击",
+    "isfreeapp": "0",
+    "change_number": "28126717",
+    "update_time": "2025-03-25 17:58:06",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "302711": {
+            "manifests": {
+                "public": {
+                    "gid": "8155472579115704172",
+                    "size": "353398641",
+                    "download": "344901344"
+                },
+                "local": {
+                    "gid": "3238390973695639111",
+                    "size": "861860904",
+                    "download": "758838544"
+                },
+                "vanilla": {
+                    "gid": "8155472579115704172",
+                    "size": "353398641",
+                    "download": "344901344"
+                }
+            },
+            "decryptionkey": "6bfc23663c95cb76be822f390402673c479ec96572aea3c5feff75e7894bf64e"
+        },
+        "302712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7144720777667403256",
+                    "size": "875997840",
+                    "download": "764381376"
+                },
+                "local": {
+                    "gid": "4371673114711379164",
+                    "size": "874032078",
+                    "download": "763245360"
+                },
+                "vanilla": {
+                    "gid": "8614609476948492427",
+                    "size": "9141164",
+                    "download": "3431552"
+                }
+            },
+            "decryptionkey": "3a3f3687ddd5a769a007fc1532e6a5f51866522b9b72551bda684028c563def4"
+        },
+        "302713": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6373553222880318782",
+                    "size": "12663205",
+                    "download": "4476704"
+                },
+                "vanilla": {
+                    "gid": "6373553222880318782",
+                    "size": "12663205",
+                    "download": "4476704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "302714": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4145326063380582481",
+                    "size": "12416717",
+                    "download": "4939904"
+                },
+                "vanilla": {
+                    "gid": "4145326063380582481",
+                    "size": "12416717",
+                    "download": "4939904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2934580": {
+            "dlcappid": "2934580"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15058379",
+                "timeupdated": "1721302249"
+            },
+            "local": {
+                "buildid": "14037820",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1712943217"
+            },
+            "vanilla": {
+                "buildid": "824539",
+                "description": "Original version of a game.",
+                "timeupdated": "1721381132"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
