@@ -1,0 +1,153 @@
+{
+    "appid": "343050",
+    "type": "Tool",
+    "name": "Don't Starve Together Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28344217",
+    "update_time": "2025-04-07 19:03:38",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "343051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8340068881516300765",
+                    "size": "4065295494",
+                    "download": "2811529776"
+                },
+                "beforemacoschanges": {
+                    "gid": "4534454870854554447",
+                    "size": "3390131066",
+                    "download": "2380486432"
+                },
+                "updatebeta": {
+                    "gid": "8209280916116020246",
+                    "size": "4026745477",
+                    "download": "2789155616"
+                }
+            },
+            "decryptionkey": "2c52e5002a767247ff7bb75add632763dc0afe52acc5769f5d5eb6209544b7f8"
+        },
+        "343052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5461362296172659822",
+                    "size": "3980455184",
+                    "download": "2708980864"
+                },
+                "beforemacoschanges": {
+                    "gid": "4555268090536644559",
+                    "size": "3295530575",
+                    "download": "2274945136"
+                },
+                "updatebeta": {
+                    "gid": "8024403350440060055",
+                    "size": "3941906293",
+                    "download": "2686629200"
+                }
+            },
+            "decryptionkey": "fcec5bd16dfbc7de765d0a1a7af7e175878d153d572012b3381b9b9cfcff3476"
+        },
+        "343053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "27187878983623489",
+                    "size": "3885793530",
+                    "download": "2684234080"
+                },
+                "beforemacoschanges": {
+                    "gid": "2845679795893720385",
+                    "size": "3225653113",
+                    "download": "2257541728"
+                },
+                "updatebeta": {
+                    "gid": "7788586192910354087",
+                    "size": "3847214291",
+                    "download": "2661870688"
+                }
+            },
+            "decryptionkey": "4af842c155c770e5b6ac26a64aa4869f7515d7c6ffa0b812e3798290d3b17c0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17931431",
+                "timeupdated": "1743543854"
+            },
+            "beforemacoschanges": {
+                "buildid": "12576213",
+                "description": "r579121",
+                "timeupdated": "1698883395"
+            },
+            "updatebeta": {
+                "buildid": "17523436",
+                "description": "Public Beta",
+                "timeupdated": "1740620277"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
