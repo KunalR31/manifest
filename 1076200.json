@@ -1,0 +1,99 @@
+{
+    "appid": "1076200",
+    "type": "Game",
+    "name": "Roguebook",
+    "schinese_name": "魔域之书",
+    "isfreeapp": "0",
+    "change_number": "27513998",
+    "update_time": "2025-02-17 19:02:23",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1076201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2995946032821263265",
+                    "size": "4319223907",
+                    "download": "1396672160"
+                },
+                "1.5.8": {
+                    "gid": "6258344325447511210",
+                    "size": "3855625247",
+                    "download": "1277883936"
+                }
+            },
+            "decryptionkey": "50ee1eeed9965f82ead8a6be6c534afef4ac5991a57be019e7c2f479e1442d14"
+        },
+        "1076202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4503896454055639366",
+                    "size": "4349256404",
+                    "download": "1405356400"
+                },
+                "1.5.8": {
+                    "gid": "6262376006038960116",
+                    "size": "3878163829",
+                    "download": "1285102032"
+                }
+            },
+            "decryptionkey": "37a9c8bdb3dc21a8955368d58448ee07ec2c23e089ed50893aadef75fd40a7dd"
+        },
+        "1076203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5320882812528019288",
+                    "size": "4369112354",
+                    "download": "1399088576"
+                },
+                "1.5.8": {
+                    "gid": "4202349306145889935",
+                    "size": "3903114019",
+                    "download": "1280870336"
+                }
+            },
+            "decryptionkey": "1a13c15ae96dec51ce59c1881ad86035c73e1e83452499a1c74b7e765860a70a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8473091",
+                "timeupdated": "1649148978"
+            },
+            "1.5.8": {
+                "buildid": "7361859",
+                "description": "Last 1.5 version",
+                "timeupdated": "1631691816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
