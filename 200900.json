@@ -1,0 +1,87 @@
+{
+    "appid": "200900",
+    "type": "Game",
+    "name": "Cave Story+",
+    "schinese_name": "洞窟物语",
+    "isfreeapp": "0",
+    "change_number": "27491326",
+    "update_time": "2025-02-15 13:13:11",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "200905": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6949702094591263227",
+                    "size": "189754030",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "55328048c4a994b1db1536e0c976348548ece46b93948cc97685f5ffcd3d5207"
+        },
+        "200902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9070663006689096970",
+                    "size": "3664895",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "200903": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5037116489773060030",
+                    "size": "1147176",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4f3a77562ad23e2f1efec7609a14cea6aa8ca699b1c23b29b4e68baf6ff2998c"
+        },
+        "200906": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8091313859397229641",
+                    "size": "1929968",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "workshopdepot": "200900",
+        "branches": {
+            "public": {
+                "buildid": "22447"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "7bbb2887a4e5867af66618a87e8337a0dcb185da6e68bf2fdd6b2913efe2040c"
+    }
+}
