@@ -1,0 +1,82 @@
+{
+    "appid": "2783610",
+    "type": "Game",
+    "name": "Malignant Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27972126",
+    "update_time": "2025-03-15 20:22:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2783611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5694169439106597385",
+                    "size": "738043306",
+                    "download": "401750032"
+                },
+                "local": {
+                    "gid": "5548818558127368173",
+                    "size": "654716907",
+                    "download": "348813760"
+                },
+                "oldbuild": {
+                    "gid": "684592760520854019",
+                    "size": "703418753",
+                    "download": "381475344"
+                },
+                "nightly-build": {
+                    "gid": "5685561199120506215",
+                    "size": "744635539",
+                    "download": "404031264"
+                }
+            },
+            "decryptionkey": "03aaf63f91db64d853f421a5ebd04a91a9f5834581ff5853c2aab6c8170e69df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14232327",
+                "timeupdated": "1714572544"
+            },
+            "local": {
+                "buildid": "13199836",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1705524739"
+            },
+            "oldbuild": {
+                "buildid": "13951237",
+                "description": "one update before from the latest version",
+                "timeupdated": "1713247938"
+            },
+            "nightly-build": {
+                "buildid": "14172859",
+                "description": "untested-updates",
+                "timeupdated": "1714049524"
+            }
+        }
+    }
+}
