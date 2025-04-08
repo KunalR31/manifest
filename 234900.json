@@ -1,0 +1,80 @@
+{
+    "appid": "234900",
+    "type": "Game",
+    "name": "Anodyne",
+    "schinese_name": "镇痛",
+    "isfreeapp": "0",
+    "change_number": "27167535",
+    "update_time": "2025-01-26 07:26:24",
+    "depot": {
+        "overridescddb": "1",
+        "234901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4410290425533029018",
+                    "size": "236241559",
+                    "download": "163044320"
+                },
+                "beta": {
+                    "gid": "3037525968856114347",
+                    "size": "236104222",
+                    "download": "163019216"
+                }
+            },
+            "decryptionkey": "eb7cfab30c6ce64f0ecf257a807cc6f7977ff59750df2b813779e523f7654ea2"
+        },
+        "234902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6542586886442311988",
+                    "size": "265444541",
+                    "download": "161997904"
+                },
+                "beta": {
+                    "gid": "6711570160496749314",
+                    "size": "265184375",
+                    "download": "161971504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "234903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5828973670738540060",
+                    "size": "161915972",
+                    "download": "92635920"
+                },
+                "beta": {
+                    "gid": "6364211590309932777",
+                    "size": "161776423",
+                    "download": "92609392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15101492",
+                "timeupdated": "1721518174"
+            },
+            "beta": {
+                "buildid": "12385594",
+                "timeupdated": "1696742846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
