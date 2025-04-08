@@ -1,0 +1,61 @@
+{
+    "appid": "1890150",
+    "type": "Demo",
+    "name": "The Symbiant Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:45:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,thai,japanese,brazilian,latam",
+        "1890151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6753025197225981408",
+                    "size": "577821436",
+                    "download": "416339504"
+                },
+                "mac_build": {
+                    "gid": "8788507490487252265",
+                    "size": "473215684",
+                    "download": "349224976"
+                }
+            },
+            "decryptionkey": "e4f168318d067185ebca436edef4d4d3988fa5f722ed9a77c9b5f5ff56b5a1b8"
+        },
+        "1890152": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "996778333634713554",
+                    "size": "724922458",
+                    "download": "637666448"
+                },
+                "mac_build": {
+                    "gid": "4430508030968556617",
+                    "size": "385857712",
+                    "download": "325788096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10678357",
+                "timeupdated": "1677794957"
+            },
+            "mac_build": {
+                "buildid": "10226334",
+                "description": "depot for mac builds",
+                "timeupdated": "1672274667"
+            }
+        }
+    }
+}
