@@ -1,0 +1,50 @@
+{
+    "appid": "211010",
+    "type": "Game",
+    "name": "Alien Shooter 2 Conscription",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26824989",
+    "update_time": "2024-12-31 18:39:13",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "211011": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7425590536511841885",
+                    "size": "1226411501",
+                    "download": "768651280"
+                }
+            },
+            "decryptionkey": "435d56c637df27ec1f9775a391e261a199778c5ee19e983718898559cb759183"
+        },
+        "211012": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4689696369794033553",
+                    "size": "6200421",
+                    "download": "2406944"
+                }
+            },
+            "decryptionkey": "fabfc6babecf7c7d86a990aec85d6e19098a75d99daf3b6ad32bcf31f5474866"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1487473",
+                "timeupdated": "1480440420"
+            }
+        }
+    }
+}
