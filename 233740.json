@@ -1,0 +1,88 @@
+{
+    "appid": "233740",
+    "type": "Game",
+    "name": "Organ Trail: Director's Cut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27120719",
+    "update_time": "2025-01-23 07:26:58",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233741": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2533224059630953102",
+                    "size": "293141445",
+                    "download": "146656944"
+                },
+                "local": {
+                    "gid": "1879838769445240138",
+                    "size": "123634005",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "233742": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6468801805939090518",
+                    "size": "279895198",
+                    "download": "144022048"
+                },
+                "local": {
+                    "gid": "936273736773077798",
+                    "size": "120297091",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1802325a3e76bea0ef40d6155d4afd97fb002ecbb5b39303523ea6387ebccc37"
+        },
+        "233743": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "746776172283732075",
+                    "size": "288885469",
+                    "download": "146299520"
+                },
+                "local": {
+                    "gid": "2079937793130638580",
+                    "size": "124422682",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1253446",
+                "timeupdated": "1469918051"
+            },
+            "local": {
+                "buildid": "61103",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
