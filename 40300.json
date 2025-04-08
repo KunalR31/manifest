@@ -1,0 +1,167 @@
+{
+    "appid": "40300",
+    "type": "Game",
+    "name": "Risen",
+    "schinese_name": "崛起",
+    "isfreeapp": "0",
+    "change_number": "27124225",
+    "update_time": "2025-01-23 12:26:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "40301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6698882191058428791",
+                    "size": "5396390730",
+                    "download": "3727383344"
+                },
+                "original": {
+                    "gid": "2187120273980209558",
+                    "size": "2448483244",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "7293778096059201342",
+                    "size": "5397048715",
+                    "download": "3727585152"
+                }
+            },
+            "decryptionkey": "c0f59136ea852fdd9daa775fb4858d811f7a676514dd3956c7c193872c51474d"
+        },
+        "40302": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8113222533569558582",
+                    "size": "234",
+                    "download": "208"
+                },
+                "original": {
+                    "gid": "5370364409772511625",
+                    "size": "941583429",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "8113222533569558582",
+                    "size": "234",
+                    "download": "208"
+                }
+            },
+            "decryptionkey": "0960877c75113d30e40308c351c8f29e5653a438d455058eba40c16118d197f5"
+        },
+        "40303": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8916657681778587475",
+                    "size": "234",
+                    "download": "208"
+                },
+                "original": {
+                    "gid": "8606351278865796538",
+                    "size": "1040013861",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "8916657681778587475",
+                    "size": "234",
+                    "download": "208"
+                }
+            },
+            "decryptionkey": "71098649d43fc9e046024a805cbed9dd54f87d371bd5aa2daebad2ea30e831a7"
+        },
+        "40304": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9182145418088019446",
+                    "size": "234",
+                    "download": "208"
+                },
+                "original": {
+                    "gid": "5872033134917103079",
+                    "size": "58411730",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "9182145418088019446",
+                    "size": "234",
+                    "download": "208"
+                }
+            },
+            "decryptionkey": "ad69828bc3a96f3f5975fb0981b469debc9fa5acc35e2f68a7f628f9e9f6787d"
+        },
+        "40305": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1310293667293345246",
+                    "size": "234",
+                    "download": "208"
+                },
+                "original": {
+                    "gid": "9015581276892960712",
+                    "size": "58430330",
+                    "download": "0"
+                },
+                "publicbeta": {
+                    "gid": "1310293667293345246",
+                    "size": "234",
+                    "download": "208"
+                }
+            },
+            "decryptionkey": "3aa3fd77859357b110883c748a34e67803da92c36e01a9889719597040ab97d3"
+        },
+        "40306": {
+            "config": {
+                "language": "polish"
+            }
+        },
+        "40307": {
+            "config": {
+                "language": "russian"
+            }
+        },
+        "baselanguages": "english,russian,polish",
+        "branches": {
+            "public": {
+                "buildid": "10392721",
+                "timeupdated": "1674580092"
+            },
+            "original": {
+                "buildid": "11462",
+                "description": "Original game from 2009",
+                "timeupdated": "1673865461"
+            },
+            "publicbeta": {
+                "buildid": "10475629",
+                "description": "publicbeta",
+                "timeupdated": "1675468871"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
