@@ -1,0 +1,66 @@
+{
+    "appid": "1105590",
+    "type": "Game",
+    "name": "Dream Cycle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27193273",
+    "update_time": "2025-01-28 09:35:27",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1105591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3303822958390797283",
+                    "size": "37904327972",
+                    "download": "23691179936"
+                },
+                "ea_1.2_pre-update2": {
+                    "gid": "1623637337588529518",
+                    "size": "25464691553",
+                    "download": "16832390528"
+                },
+                "ea_preupdate1": {
+                    "gid": "7665833748571746311",
+                    "size": "23633544791",
+                    "download": "15877168160"
+                }
+            },
+            "decryptionkey": "d4a52ea4696ad4df5cf285f873b576fd94ee58da68021d08a8f1882c017298ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9353221",
+                "timeupdated": "1660985442"
+            },
+            "ea_1.2_pre-update2": {
+                "buildid": "7827198",
+                "description": "EA 1.2 rollback to keep saves",
+                "timeupdated": "1653415035"
+            },
+            "ea_preupdate1": {
+                "buildid": "7347588",
+                "description": "EA 1.1.6 for pre-Update 1 saves",
+                "timeupdated": "1636488342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
