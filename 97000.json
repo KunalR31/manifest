@@ -1,0 +1,76 @@
+{
+    "appid": "97000",
+    "type": "Game",
+    "name": "Solar 2",
+    "schinese_name": "太阳系行星2",
+    "isfreeapp": "0",
+    "change_number": "27135980",
+    "update_time": "2025-01-24 02:25:38",
+    "depot": {
+        "overridescddb": "1",
+        "97001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4361717347350009838",
+                    "size": "247136786",
+                    "download": "100711184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "97002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3396487429180384403",
+                    "size": "256639851",
+                    "download": "103867968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "97003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5530550117261972966",
+                    "size": "254476452",
+                    "download": "103050672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "97004": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7417463183440819954",
+                    "size": "253508084",
+                    "download": "103172656"
+                }
+            },
+            "decryptionkey": "ace3a67d361b6b114546975215db816cfa82234d05cc0d7bb048beed7873c790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12926926",
+                "timeupdated": "1702282453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
