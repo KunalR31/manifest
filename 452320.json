@@ -1,0 +1,93 @@
+{
+    "appid": "452320",
+    "type": "Game",
+    "name": "Party Saboteurs",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24167562",
+    "update_time": "2024-06-29 02:25:43",
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "1",
+        "452321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "532948511910443515",
+                    "size": "2781418169",
+                    "download": "487485104"
+                },
+                "beta": {
+                    "gid": "2753303166790699781",
+                    "size": "825114645",
+                    "download": "118022416"
+                }
+            },
+            "decryptionkey": "9be10b3dc134304ef768d3c1d4a753b15c8596bbfb12100588c25479431710c4"
+        },
+        "452322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5903756702802663152",
+                    "size": "2825869097",
+                    "download": "502196144"
+                },
+                "beta": {
+                    "gid": "7368939541552048952",
+                    "size": "829234372",
+                    "download": "120297488"
+                }
+            },
+            "decryptionkey": "20024331303e6762a83459209cc526c4b836919b017cca1774e671f20ce80a32"
+        },
+        "452323": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3033948131828978525",
+                    "size": "2828933970",
+                    "download": "501107120"
+                },
+                "beta": {
+                    "gid": "8080431217894481313",
+                    "size": "833078572",
+                    "download": "120779456"
+                }
+            },
+            "decryptionkey": "fdf1037510dfe866c0ebc633ac9a71b2224a5340f63b6951bcdc027e17f54497"
+        },
+        "452324": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4245716690278797363",
+                    "size": "2786742689",
+                    "download": "489089648"
+                }
+            },
+            "decryptionkey": "01e86baec0ad568be6035ab6b78c511a9b57748c05e2f1645cc4e9dd4ecea667"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3340910",
+                "timeupdated": "1544271213"
+            },
+            "beta": {
+                "buildid": "1800035",
+                "timeupdated": "1493912902"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
