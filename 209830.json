@@ -1,0 +1,71 @@
+{
+    "appid": "209830",
+    "type": "Game",
+    "name": "Lone Survivor: The Director's Cut",
+    "schinese_name": "孤独的幸存者：导演剪辑版",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:30",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "209832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2064201954870334675",
+                    "size": "160950521",
+                    "download": "124002848"
+                },
+                "theoriginalcut": {
+                    "gid": "1410892261818882362",
+                    "size": "131005672",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "209831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3870923268656594712",
+                    "size": "138934626",
+                    "download": "118976720"
+                },
+                "theoriginalcut": {
+                    "gid": "897567510402252592",
+                    "size": "111559834",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3281ce742ac0927afc658e10fa03047470e9768df05f33a842997dc23dd87d28"
+        },
+        "433780": {
+            "manifests": {
+                "public": {
+                    "gid": "3453507621926158538",
+                    "size": "127694761",
+                    "download": "118705440"
+                }
+            },
+            "dlcappid": "433780",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "922672"
+            },
+            "theoriginalcut": {
+                "buildid": "30069"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
