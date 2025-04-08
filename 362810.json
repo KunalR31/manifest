@@ -1,0 +1,100 @@
+{
+    "appid": "362810",
+    "type": "Game",
+    "name": "Fighties",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 04:32:04",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "362811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2390610685139602761",
+                    "size": "61933102",
+                    "download": "38982848"
+                },
+                "mac2": {
+                    "gid": "6327351896088537246",
+                    "size": "58387070",
+                    "download": "37328208"
+                },
+                "updatetest": {
+                    "gid": "1949732710700360710",
+                    "size": "62926350",
+                    "download": "39800976"
+                }
+            },
+            "decryptionkey": "a2d48e2096fa9f3b61c6684d0ca23e7a1b470dc427adefb1b34c3b42dffa1046"
+        },
+        "362812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "414440804964233834",
+                    "size": "63953144",
+                    "download": "26269568"
+                },
+                "mac2": {
+                    "gid": "4896356449634775287",
+                    "size": "60419058",
+                    "download": "25264112"
+                },
+                "updatetest": {
+                    "gid": "7405125968574279302",
+                    "size": "64872821",
+                    "download": "26472896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "362813": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3220646162881039128",
+                    "size": "66691435",
+                    "download": "41293264"
+                },
+                "mac2": {
+                    "gid": "6538163108782825837",
+                    "size": "63042519",
+                    "download": "39555488"
+                },
+                "updatetest": {
+                    "gid": "5249046751647337177",
+                    "size": "67947304",
+                    "download": "42223136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1033497",
+                "timeupdated": "1458594436"
+            },
+            "mac2": {
+                "buildid": "731466"
+            },
+            "updatetest": {
+                "buildid": "830030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
