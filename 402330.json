@@ -1,0 +1,188 @@
+{
+    "appid": "402330",
+    "type": "Game",
+    "name": "Press X to Not Die",
+    "schinese_name": "不想死就按X",
+    "isfreeapp": "0",
+    "change_number": "28074561",
+    "update_time": "2025-03-21 23:13:05",
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "402331": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4886596980662042953",
+                    "size": "2745568869",
+                    "download": "2496580576"
+                },
+                "oldfna": {
+                    "gid": "8595397246947267488",
+                    "size": "2451399421",
+                    "download": "2425168064"
+                },
+                "test": {
+                    "gid": "4886596980662042953",
+                    "size": "2745568869",
+                    "download": "2496580576"
+                },
+                "xnabranch": {
+                    "gid": "2737158040779148069",
+                    "size": "1314647688",
+                    "download": "1067123904"
+                }
+            },
+            "decryptionkey": "33a12e3ac6bc15a808f572e40b036a5ae8bcc564319ee435d33b7886231f1b6f"
+        },
+        "497970": {
+            "dlcappid": "497970",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7873729758020295281",
+                    "size": "832055689",
+                    "download": "830073456"
+                },
+                "oldfna": {
+                    "gid": "7873729758020295281",
+                    "size": "832055689",
+                    "download": "830073456"
+                },
+                "test": {
+                    "gid": "7873729758020295281",
+                    "size": "832055689",
+                    "download": "830073456"
+                },
+                "xnabranch": {
+                    "gid": "5799703045195742809",
+                    "size": "552508685",
+                    "download": "530332896"
+                }
+            },
+            "decryptionkey": "1cb9d456c478cf6f2adad094e17ef1cbff129d67fc42aa24de63c295872204d3"
+        },
+        "402332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8360890588352332073",
+                    "size": "2745568869",
+                    "download": "2496580576"
+                },
+                "oldfna": {
+                    "gid": "1545820322274537801",
+                    "size": "2451399421",
+                    "download": "2425168064"
+                },
+                "test": {
+                    "gid": "8360890588352332073",
+                    "size": "2745568869",
+                    "download": "2496580576"
+                }
+            },
+            "decryptionkey": "3f1f91c5e7d0688af0c77a0ca1cd4c10470f89352cafd7569ed066003c656b81"
+        },
+        "402333": {
+            "dlcappid": "497970",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3680372861503071828",
+                    "size": "832055689",
+                    "download": "830073456"
+                },
+                "oldfna": {
+                    "gid": "3680372861503071828",
+                    "size": "832055689",
+                    "download": "830073456"
+                },
+                "test": {
+                    "gid": "3680372861503071828",
+                    "size": "832055689",
+                    "download": "830073456"
+                }
+            },
+            "decryptionkey": "a50749aea2292211368e5c6a5e4cfdfcc9349883ddfadd285b8a4fa3c24188ab"
+        },
+        "402334": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3803913106580524192",
+                    "size": "42375092",
+                    "download": "11392336"
+                },
+                "oldfna": {
+                    "gid": "967644301086386779",
+                    "size": "26292477",
+                    "download": "7064720"
+                },
+                "test": {
+                    "gid": "3803913106580524192",
+                    "size": "42375092",
+                    "download": "11392336"
+                }
+            },
+            "decryptionkey": "789cc217a68816052e45315fbe01aac7af783ca3b0b5fc10e0d9a8f813c014e0"
+        },
+        "402335": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "24381460324297802",
+                    "size": "70056363",
+                    "download": "17507488"
+                },
+                "oldfna": {
+                    "gid": "836223540137515260",
+                    "size": "57625836",
+                    "download": "16363408"
+                },
+                "test": {
+                    "gid": "24381460324297802",
+                    "size": "70056363",
+                    "download": "17507488"
+                }
+            },
+            "decryptionkey": "b690c52814d085ac5b5cdc8f67165a2df1145745f8c01d429a666fd11ca09e9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8285607",
+                "timeupdated": "1646040879"
+            },
+            "oldfna": {
+                "buildid": "2477130",
+                "description": "Last FNA XNA version (2018)",
+                "timeupdated": "1644470188"
+            },
+            "test": {
+                "buildid": "8285607",
+                "timeupdated": "1646040600"
+            },
+            "xnabranch": {
+                "buildid": "1617185",
+                "description": "Last XNA Framework Version (2017)",
+                "timeupdated": "1498446108"
+            }
+        }
+    }
+}
