@@ -1,0 +1,61 @@
+{
+    "appid": "216110",
+    "type": "Game",
+    "name": "Tiny Troopers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 00:36:41",
+    "depot": {
+        "216111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5891169132977704045",
+                    "size": "273389307",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8847318782568755496",
+                    "size": "268595953",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "603077d3e36620d308b22fe1443f26fd3b20d7c52420174af64405c359574d30"
+        },
+        "216112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6099276058542629877",
+                    "size": "278235766",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8955603006618036564",
+                    "size": "273335273",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "94e0f1775a94792ab0ae6316b31160b81020fb97d01c5074041fce25204dc5f8"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "29152"
+            },
+            "local": {
+                "buildid": "14317",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
