@@ -1,0 +1,50 @@
+{
+    "appid": "70004",
+    "type": "Tool",
+    "name": "Dino D-Day SDK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27118684",
+    "update_time": "2025-01-23 04:25:39",
+    "depot": {
+        "70003": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4656082492747871009",
+                    "size": "161342844",
+                    "download": "42396960"
+                },
+                "public_beta": {
+                    "gid": "4656082492747871009",
+                    "size": "161342844",
+                    "download": "42396960"
+                }
+            },
+            "decryptionkey": "3a93d1c614f89d4bdf5399ddaada34475d54372cab3efdd4dea722a634b501ca"
+        },
+        "70001": {
+            "systemdefined": "1",
+            "depotfromapp": "70000",
+            "sharedinstall": "2"
+        },
+        "70002": {
+            "systemdefined": "1",
+            "depotfromapp": "70000",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1036580",
+                "timeupdated": "1486517875"
+            },
+            "public_beta": {
+                "buildid": "1036580",
+                "timeupdated": "1459377453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
