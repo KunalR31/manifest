@@ -1,0 +1,55 @@
+{
+    "appid": "3197770",
+    "type": "Beta",
+    "name": "Locator Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26904291",
+    "update_time": "2025-01-08 15:44:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3388651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "830485912748359681",
+                    "size": "485685569",
+                    "download": "392443760"
+                },
+                "beta": {
+                    "gid": "830485912748359681",
+                    "size": "485685569",
+                    "download": "392443760"
+                }
+            },
+            "depotfromapp": "3388650",
+            "decryptionkey": "eb7a30cc4b60ed277c689d8992cdb410069623388b24b92b2102c0cfdeaf9115"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16920046",
+                "timeupdated": "1736189518"
+            },
+            "beta": {
+                "buildid": "16920046",
+                "description": "Beta branch",
+                "timeupdated": "1736189075"
+            }
+        }
+    }
+}
