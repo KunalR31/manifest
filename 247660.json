@@ -1,0 +1,59 @@
+{
+    "appid": "247660",
+    "type": "Game",
+    "name": "Deadly Premonition: The Director's Cut",
+    "schinese_name": "致命预感：导演剪辑版",
+    "isfreeapp": "0",
+    "change_number": "27122093",
+    "update_time": "2025-01-23 09:26:44",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "247661": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4411786532077286984",
+                    "size": "6987044003",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5508763201244165494",
+                    "size": "8190976",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "81d8f5f9f1d7c135fabb5c00d1a639991225b4dbd03b59f0195649dad01aab79"
+        },
+        "247662": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "256240": {
+            "manifests": {
+                "public": {
+                    "gid": "412603431378426753",
+                    "size": "96676471",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "256240",
+            "decryptionkey": "7e899ef565ff363fbb15449b503b26d2fa59a7ae9966b30d8a68cab2612e1322"
+        },
+        "branches": {
+            "public": {
+                "buildid": "149740"
+            },
+            "local": {
+                "buildid": "114954",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
