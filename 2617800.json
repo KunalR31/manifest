@@ -1,0 +1,83 @@
+{
+    "appid": "2617800",
+    "type": "Game",
+    "name": "Desktop Tourney World",
+    "schinese_name": "桌面修仙",
+    "isfreeapp": "0",
+    "change_number": "24720542",
+    "update_time": "2024-08-09 21:33:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2617801": {
+            "manifests": {
+                "public": {
+                    "gid": "7361255120723289947",
+                    "size": "367977283",
+                    "download": "258868784"
+                },
+                "1.0.0": {
+                    "gid": "8110330435443348356",
+                    "size": "384419262",
+                    "download": "267514816"
+                },
+                "1.1.x": {
+                    "gid": "5981250159576028515",
+                    "size": "367963568",
+                    "download": "258877760"
+                },
+                "1.2.x": {
+                    "gid": "4772072363642089823",
+                    "size": "367977283",
+                    "download": "258914976"
+                },
+                "1.3.x": {
+                    "gid": "7361255120723289947",
+                    "size": "367977283",
+                    "download": "258868784"
+                }
+            },
+            "decryptionkey": "f2800c56e02af2c0763ba40f02fae1a9501bb7ab8fb9e9c6578c81e2faf2dd7b"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "13749013",
+                "timeupdated": "1710487522"
+            },
+            "1.0.0": {
+                "buildid": "13247777",
+                "description": "stable 1.0.0",
+                "timeupdated": "1706521502"
+            },
+            "1.1.x": {
+                "buildid": "13360321",
+                "description": "stable 1.1.10",
+                "timeupdated": "1707032840"
+            },
+            "1.2.x": {
+                "buildid": "13747895",
+                "description": "stable 1.2.x",
+                "timeupdated": "1710476989"
+            },
+            "1.3.x": {
+                "buildid": "13749013",
+                "description": "Experimental 1.3.x\t",
+                "timeupdated": "1710486789"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
