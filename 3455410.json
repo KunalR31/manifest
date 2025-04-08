@@ -1,0 +1,77 @@
+{
+    "appid": "3455410",
+    "type": "Beta",
+    "name": "The Red One: OCCULTATION Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28333244",
+    "update_time": "2025-04-06 23:11:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "3455411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4856113273222537180",
+                    "size": "7740339940",
+                    "download": "6755864976"
+                },
+                "dev_version": {
+                    "gid": "2942136983583358419",
+                    "size": "7921351898",
+                    "download": "6905125840"
+                },
+                "qa_version": {
+                    "gid": "4856113273222537180",
+                    "size": "7740339940",
+                    "download": "6755864976"
+                }
+            },
+            "decryptionkey": "7e87fc79ed27aac59a27741aef81c2f89ffddb5ea72f09dc1bba09cac51a26b6"
+        },
+        "3455412": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17720589",
+                "timeupdated": "1741932924"
+            },
+            "dev_version": {
+                "buildid": "18002328",
+                "description": "dev_version",
+                "timeupdated": "1743952290"
+            },
+            "qa_version": {
+                "buildid": "17720589",
+                "description": "qa_version",
+                "timeupdated": "1741932948"
+            }
+        }
+    }
+}
