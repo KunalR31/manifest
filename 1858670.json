@@ -1,0 +1,86 @@
+{
+    "appid": "1858670",
+    "type": "Beta",
+    "name": "Mocap Fusion [ VR ] Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28146252",
+    "update_time": "2025-03-26 17:20:09",
+    "depot": {
+        "1858671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5164558563471348619",
+                    "size": "5371857586",
+                    "download": "1937516720"
+                },
+                "oculus": {
+                    "gid": "6657441263453794405",
+                    "size": "4459438892",
+                    "download": "1568789312"
+                },
+                "oculus_legacy": {
+                    "gid": "2170128612898740564",
+                    "size": "4447395106",
+                    "download": "1565829664"
+                },
+                "previous_version": {
+                    "gid": "2339326631409178760",
+                    "size": "5297609246",
+                    "download": "1918276416"
+                },
+                "legacy_version": {
+                    "gid": "9193474645823450006",
+                    "size": "5248996223",
+                    "download": "1897476016"
+                },
+                "workshop_downloader": {
+                    "gid": "7316436363005494526",
+                    "size": "228516955",
+                    "download": "25760800"
+                }
+            },
+            "decryptionkey": "526617096584690dffa256a05df14ede6e48fa9583b0cf0248ed91e77718b69e"
+        },
+        "workshopdepot": "1858670",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17864594",
+                "timeupdated": "1742980805"
+            },
+            "oculus": {
+                "buildid": "17198310",
+                "description": "Quest finger tracking over Oculus-Link (Current Version 8.1.2)",
+                "timeupdated": "1738325064"
+            },
+            "oculus_legacy": {
+                "buildid": "16256543",
+                "description": "Quest finger tracking over Oculus-Link (Previous Version 8.1.1))",
+                "timeupdated": "1737452816"
+            },
+            "previous_version": {
+                "buildid": "17300911",
+                "description": "APS LUXOR v9.5.7",
+                "timeupdated": "1740470510"
+            },
+            "legacy_version": {
+                "buildid": "16750135",
+                "description": " APS LUXOR v9.4.6",
+                "timeupdated": "1740469433"
+            },
+            "workshop_downloader": {
+                "buildid": "16871133",
+                "description": "UI for downloading assets from the Playtest branch.",
+                "timeupdated": "1735497179"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
