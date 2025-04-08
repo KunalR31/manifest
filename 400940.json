@@ -1,0 +1,73 @@
+{
+    "appid": "400940",
+    "type": "Game",
+    "name": "Budget Cuts",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28296471",
+    "update_time": "2025-04-04 04:33:33",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian",
+        "400941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5957495084434193383",
+                    "size": "8832093768",
+                    "download": "2205393680"
+                },
+                "fix_controller_bindings": {
+                    "gid": "707664136196016407",
+                    "size": "8613331253",
+                    "download": "2164852928"
+                },
+                "oculussdk": {
+                    "gid": "2532871806027844553",
+                    "size": "8830973422",
+                    "download": "2205074560"
+                },
+                "old_demo": {
+                    "gid": "674485332764859777",
+                    "size": "300971334",
+                    "download": "108325136"
+                },
+                "pre_arcade_patch_6": {
+                    "gid": "3443651017119539622",
+                    "size": "7072900450",
+                    "download": "1697771024"
+                }
+            },
+            "decryptionkey": "fc6cdd47c1c056649e954e201860baf4f11f8b6644ccecf30876dddc25fafc82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7574335",
+                "timeupdated": "1634821988"
+            },
+            "fix_controller_bindings": {
+                "buildid": "4942025",
+                "description": "Branch for fixing broken controller bindings",
+                "timeupdated": "1611051584"
+            },
+            "oculussdk": {
+                "buildid": "5998045",
+                "description": "Oculus SDK support",
+                "timeupdated": "1608644663"
+            },
+            "old_demo": {
+                "buildid": "1060357",
+                "description": "Old Budget Cuts Demo",
+                "timeupdated": "1531132817"
+            },
+            "pre_arcade_patch_6": {
+                "buildid": "3368784",
+                "description": "For speedrunners who want to use old exploits",
+                "timeupdated": "1565123119"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
