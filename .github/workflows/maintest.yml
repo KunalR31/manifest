@@ -1,4 +1,4 @@
-name: Parallel Branch Processing
+name: Clone ManifestHub Branches
 
 on:
   workflow_dispatch:
@@ -8,34 +8,53 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        job_index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] # 15 jobs in parallel
-    steps:
-      - name: Checkout target repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1 # Only fetch latest commit, no history
+        job_index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
-      - name: Add source repo as remote
+    steps:
+      - name: Set up Git
         run: |
-          git remote add source https://github.com/SteamAutoCracks/ManifestHub.git
-          git fetch source --prune
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
 
       - name: Process branches
         run: |
+          SOURCE_REPO="https://github.com/SteamAutoCracks/ManifestHub.git"
+          TARGET_REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
           TOTAL_BRANCHES=40000
           JOB_COUNT=15
           JOB_INDEX=${{ matrix.job_index }}
           BRANCHES_PER_JOB=$((TOTAL_BRANCHES / JOB_COUNT))
           START=$((JOB_INDEX * BRANCHES_PER_JOB))
           END=$((START + BRANCHES_PER_JOB - 1))
-          
-          echo "Processing branches $START to $END"
-          # Get all remote branches, strip 'source/' prefix, and slice range for this job
-          branches=$(git branch -r | grep 'source/' | sed 's|source/||' | sed -n "$((START+1)),$((END+1))p" | grep -E '^[0-9]+$')
+
+          echo "Fetching remote branches..."
+          branches=$(git ls-remote --heads "$SOURCE_REPO" | awk '{print $2}' | sed 's|refs/heads/||' | grep -v '^main$' | sed -n "$((START+1)),$((END+1))p")
+
           for branch in $branches; do
             echo "Processing branch: $branch"
-            git checkout --orphan "$branch" # Create branch with no history
-            git reset --hard # Clear any existing history or metadata
-            git pull source "$branch" --allow-unrelated-histories # Pull content without linking histories
-            git push origin "$branch" --force || echo "Failed to push $branch"
+
+            workdir=$(mktemp -d)
+            pushd "$workdir" > /dev/null
+
+            git init
+            git remote add source "$SOURCE_REPO"
+            git fetch source "$branch"
+            git checkout FETCH_HEAD
+
+            # Remove .git to erase history
+            rm -rf .git
+
+            git init
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add .
+            git commit -m "Commit by GitHub Actions"
+
+            git remote add origin "$TARGET_REPO"
+            git branch -M "$branch"
+            git push origin "$branch" --force
+
+            popd > /dev/null
+            rm -rf "$workdir"
           done
