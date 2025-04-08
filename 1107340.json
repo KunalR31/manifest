@@ -1,0 +1,77 @@
+{
+    "appid": "1107340",
+    "type": "Game",
+    "name": "LONN",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27065454",
+    "update_time": "2025-01-20 01:53:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1107341": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1217306944467882339",
+                    "size": "17747423619",
+                    "download": "17243060864"
+                },
+                "publicbeta": {
+                    "gid": "1217306944467882339",
+                    "size": "17747423619",
+                    "download": "17243060864"
+                }
+            },
+            "decryptionkey": "2001fb2d078b16e6d722164757da74426e1cfa1bc52b1807c69753aa11eed928"
+        },
+        "1107342": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4559359597761468347",
+                    "size": "17747423619",
+                    "download": "17258737424"
+                },
+                "publicbeta": {
+                    "gid": "4559359597761468347",
+                    "size": "17747423619",
+                    "download": "17258737424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10321467",
+                "timeupdated": "1673680465"
+            },
+            "publicbeta": {
+                "buildid": "10321467",
+                "description": "Test game updates before they go live",
+                "timeupdated": "1673680512"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
