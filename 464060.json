@@ -1,0 +1,71 @@
+{
+    "appid": "464060",
+    "type": "Game",
+    "name": "RUINER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27971743",
+    "update_time": "2025-03-15 19:21:04",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,turkish,brazilian,ukrainian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "464061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6369463491525684049",
+                    "size": "10905310742",
+                    "download": "10122781712"
+                },
+                "vanilla": {
+                    "gid": "6329666625249024940",
+                    "size": "10311930300",
+                    "download": "9611408464"
+                }
+            },
+            "decryptionkey": "caf56d9514fc22cab6d846defe4d6f3edf908db25ff6f7742b7d2339d8eaf71e"
+        },
+        "464062": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4656047199401119981",
+                    "size": "11534893440",
+                    "download": "9484954336"
+                }
+            },
+            "decryptionkey": "0799e14bb212309573ede5e16823800c7ce6049901908ef08d131f32d2c328c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4232504",
+                "timeupdated": "1569517284"
+            },
+            "vanilla": {
+                "buildid": "2158664",
+                "description": "game version 1.0",
+                "timeupdated": "1507208237"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
