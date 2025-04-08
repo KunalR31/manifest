@@ -1,0 +1,94 @@
+{
+    "appid": "464620",
+    "type": "Game",
+    "name": "Siralim 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25674231",
+    "update_time": "2024-10-12 01:38:59",
+    "depot": {
+        "baselanguages": "english",
+        "464621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1063583489002652215",
+                    "size": "126255616",
+                    "download": "127581072"
+                },
+                "test": {
+                    "gid": "8959972322845599328",
+                    "size": "126344704",
+                    "download": "127586176"
+                }
+            },
+            "decryptionkey": "817177cd32660bfbf7c1ca3a008e65c2f784f859abfa9ccdcc6e6374c1f0e6bb"
+        },
+        "464622": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6439561190310676895",
+                    "size": "146648633",
+                    "download": "119049552"
+                },
+                "test": {
+                    "gid": "6655617911456207075",
+                    "size": "122799769",
+                    "download": "98764096"
+                }
+            },
+            "decryptionkey": "ecad51f781c5860924fb1b94ef6028c0e9cf625719aa1929bbb50b269fd6da19"
+        },
+        "464623": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3113093515353133798",
+                    "size": "153697844",
+                    "download": "122579216"
+                },
+                "test": {
+                    "gid": "8978402896520061638",
+                    "size": "126140505",
+                    "download": "99563552"
+                }
+            },
+            "decryptionkey": "7a700aa6f61be35334271076b84a116ed9dcb9c509e92ec256132a78e3ced5fd"
+        },
+        "509500": {
+            "manifests": {
+                "public": {
+                    "gid": "1080972165462332323",
+                    "size": "134989610",
+                    "download": "134325872"
+                },
+                "test": {
+                    "gid": "1080972165462332323",
+                    "size": "134989610",
+                    "download": "134325872"
+                }
+            },
+            "dlcappid": "509500",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "3631259",
+                "timeupdated": "1552145027"
+            },
+            "test": {
+                "buildid": "1494514",
+                "description": "don't use this!",
+                "timeupdated": "1480689070"
+            }
+        }
+    }
+}
