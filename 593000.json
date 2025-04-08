@@ -1,0 +1,51 @@
+{
+    "appid": "593000",
+    "type": "Tool",
+    "name": "Alien Swarm: Reactive Drop - SDK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28275273",
+    "update_time": "2025-04-03 03:35:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "593001": {
+            "manifests": {
+                "public": {
+                    "gid": "251742555524267012",
+                    "size": "107334875",
+                    "download": "26125456"
+                },
+                "beta": {
+                    "gid": "5972513960992757225",
+                    "size": "107335767",
+                    "download": "26125664"
+                }
+            },
+            "decryptionkey": "3969b2dbb28f6885a96c88922e5580634c67fda6f3159425e6dd95667681efb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16830240",
+                "timeupdated": "1734904699"
+            },
+            "beta": {
+                "buildid": "17959699",
+                "description": "More frequent updates to test new features before they're ready. May require the beta branch of the game to be installed as well.",
+                "timeupdated": "1743622543"
+            }
+        }
+    }
+}
