@@ -1,0 +1,105 @@
+{
+    "appid": "2244480",
+    "type": "Game",
+    "name": "REMEDIUM: Sentinels",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28169187",
+    "update_time": "2025-03-27 20:07:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2244481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2409183856378008188",
+                    "size": "2569635952",
+                    "download": "885524176"
+                },
+                "1.20.03": {
+                    "gid": "5360326222433263942",
+                    "size": "2284455307",
+                    "download": "693901584"
+                },
+                "local": {
+                    "gid": "1655136512233316930",
+                    "size": "1699632772",
+                    "download": "548633904"
+                }
+            },
+            "decryptionkey": "1a34cc06be4514f464de7e542cf278832a521923c24551961a4487c3e121b025"
+        },
+        "2244482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2682773941754296560",
+                    "size": "3164718013",
+                    "download": "809619440"
+                },
+                "1.20.03": {
+                    "gid": "3247519416124999513",
+                    "size": "3275095650",
+                    "download": "825504096"
+                }
+            },
+            "decryptionkey": "e239bc295952e8693f3de434ebc9ec5fdd4fbbb651d20068c79984e18465e601"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17881550",
+                "timeupdated": "1743075591"
+            },
+            "1.20.03": {
+                "buildid": "11948856",
+                "description": "1.20.03 version",
+                "timeupdated": "1695616040"
+            },
+            "local": {
+                "buildid": "10157359",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1671137405"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
