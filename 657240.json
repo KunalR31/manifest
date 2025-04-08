@@ -1,0 +1,133 @@
+{
+    "appid": "657240",
+    "type": "Game",
+    "name": "Tracks - The Train Set Game",
+    "schinese_name": "轨道：模型游戏",
+    "isfreeapp": "0",
+    "change_number": "27936842",
+    "update_time": "2025-03-13 23:59:45",
+    "depot": {
+        "workshopdepot": "657240",
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "657241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "525784439297935512",
+                    "size": "2119900654",
+                    "download": "630962624"
+                },
+                "hungtesting": {
+                    "gid": "1888266819220587011",
+                    "size": "1478886888",
+                    "download": "373847344"
+                },
+                "public_beta": {
+                    "gid": "525784439297935512",
+                    "size": "2119900654",
+                    "download": "630962624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "657242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5747319913785559958",
+                    "size": "2154097713",
+                    "download": "652570464"
+                },
+                "hungtesting": {
+                    "gid": "8059678525441757791",
+                    "size": "1524289167",
+                    "download": "399050256"
+                },
+                "public_beta": {
+                    "gid": "5747319913785559958",
+                    "size": "2154097713",
+                    "download": "652570464"
+                }
+            },
+            "decryptionkey": "61b88f22c008f7862db3a8e00ecb94ee3e96d07a597dd6d96623055a78d9fbe7"
+        },
+        "1278630": {
+            "dlcappid": "1278630",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1469132969525202354",
+                    "size": "108748060",
+                    "download": "30650272"
+                },
+                "public_beta": {
+                    "gid": "1469132969525202354",
+                    "size": "108748060",
+                    "download": "30650272"
+                }
+            },
+            "decryptionkey": "bc7476b9f9885bc3deb85579dc00c11645b4901fe5282dd0cde79e46de1930ba"
+        },
+        "1296900": {
+            "dlcappid": "1296900",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6018650092893496142",
+                    "size": "208733257",
+                    "download": "38325856"
+                },
+                "public_beta": {
+                    "gid": "6018650092893496142",
+                    "size": "208733257",
+                    "download": "38325856"
+                }
+            },
+            "decryptionkey": "9e981dc28c7c62e2b7e192a5074a5f981d9b7afcd3845af3769abea84e29998c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17530920",
+                "timeupdated": "1741881579"
+            },
+            "hungtesting": {
+                "buildid": "3321934",
+                "description": "Fatal Error - 4.20 Test",
+                "timeupdated": "1542730908"
+            },
+            "public_beta": {
+                "buildid": "17530920",
+                "description": "A preview of the next update",
+                "timeupdated": "1741277129"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
