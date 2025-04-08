@@ -1,0 +1,74 @@
+{
+    "appid": "453030",
+    "type": "Game",
+    "name": "The Fifth Expedition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 09:15:59",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "453031": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3871537895201873694",
+                    "size": "2549029407",
+                    "download": "463319216"
+                },
+                "store": {
+                    "gid": "3871537895201873694",
+                    "size": "2549029407",
+                    "download": "463319216"
+                }
+            },
+            "decryptionkey": "2cea03cfe553ec40192bdfb903e257a13242b8147f5d08e6d89431cfab3c0e95"
+        },
+        "453032": {
+            "config": {
+                "oslist": "linux",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6042648261893739553",
+                    "size": "2550815704",
+                    "download": "456962560"
+                },
+                "store": {
+                    "gid": "6042648261893739553",
+                    "size": "2550815704",
+                    "download": "456962560"
+                }
+            },
+            "decryptionkey": "5dcd2f0d7052aa010a2cceac19d364ff5705d3a290a0f6085db8c03ff14f883c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1118988",
+                "timeupdated": "1462884351"
+            },
+            "store": {
+                "buildid": "1118988",
+                "timeupdated": "1462884344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
