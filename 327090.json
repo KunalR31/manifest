@@ -1,0 +1,87 @@
+{
+    "appid": "327090",
+    "type": "Game",
+    "name": "Out of Reach",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24957064",
+    "update_time": "2024-08-27 19:11:51",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "327091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "852050055379004114",
+                    "size": "6899567725",
+                    "download": "2777112624"
+                },
+                "beta-1.0.2": {
+                    "gid": "852050055379004114",
+                    "size": "6899567725",
+                    "download": "2777112624"
+                }
+            },
+            "decryptionkey": "df079f709359d65236fcd6949c3072bae097b9c61edc72338cf3a5b3e5e2bdeb"
+        },
+        "327093": {
+            "config": {
+                "oslist": "linux",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4072986715720711410",
+                    "size": "5886994921",
+                    "download": "2357924368"
+                },
+                "beta-1.0.2": {
+                    "gid": "4072986715720711410",
+                    "size": "5886994921",
+                    "download": "2357924368"
+                }
+            },
+            "decryptionkey": "653660a571be3b4ccb30c9c77f4379e931e7f9aaad22ef99a6b292af3ac70999"
+        },
+        "327092": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1868737161853391858",
+                    "size": "5851240093",
+                    "download": "2331349888"
+                },
+                "beta-1.0.2": {
+                    "gid": "1868737161853391858",
+                    "size": "5851240093",
+                    "download": "2331349888"
+                }
+            },
+            "decryptionkey": "6dab6c2d32a95837e6f600f4987a54fa05e689204707a5600efca66eb3356824"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3088210",
+                "timeupdated": "1536057755"
+            },
+            "beta-1.0.2": {
+                "buildid": "3088210",
+                "timeupdated": "1535989718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
