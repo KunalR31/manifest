@@ -1,0 +1,84 @@
+{
+    "appid": "425210",
+    "type": "Game",
+    "name": "Shadwen",
+    "schinese_name": "莎德雯",
+    "isfreeapp": "0",
+    "change_number": "27127438",
+    "update_time": "2025-01-23 17:24:03",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "425211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1654298924864210678",
+                    "size": "5748844324",
+                    "download": "4684382672"
+                },
+                "build1322": {
+                    "gid": "5176248570947085625",
+                    "size": "5655795836",
+                    "download": "4610465552"
+                }
+            },
+            "decryptionkey": "8f144d2bc27bf82e80a1553052fb47f8a41ca014b93f9d1b33a471b363b9c742"
+        },
+        "425212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8217754463186055742",
+                    "size": "2361590128",
+                    "download": "1951188016"
+                },
+                "build1322": {
+                    "gid": "7070806729751774138",
+                    "size": "2279548435",
+                    "download": "1893915216"
+                }
+            },
+            "decryptionkey": "19f77bf36c071ecbeabfb28e1a9b7f0ea05d6e1c4312a44f475c73a854a1287a"
+        },
+        "425213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8817185366774000141",
+                    "size": "2314624827",
+                    "download": "1944431760"
+                },
+                "build1322": {
+                    "gid": "1512313388713313571",
+                    "size": "2234789730",
+                    "download": "1887848256"
+                }
+            },
+            "decryptionkey": "4442f3be90cf6f47cd7609f2b7e7836b9b318b72c7064f3a41a449beb92cf63b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1253439",
+                "timeupdated": "1470760433"
+            },
+            "build1322": {
+                "buildid": "1129359",
+                "description": "Legacy build for modders",
+                "timeupdated": "1475140410"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
