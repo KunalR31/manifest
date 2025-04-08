@@ -1,0 +1,41 @@
+{
+    "appid": "8770",
+    "type": "Tool",
+    "name": "RACE On - Demo: Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 12:41:26",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "8761": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6451590462232625361",
+                    "size": "638369240",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "8760",
+            "decryptionkey": ""
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1002",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "branches": {}
+    }
+}
