@@ -1,0 +1,80 @@
+{
+    "appid": "856370",
+    "type": "Game",
+    "name": "One-way Ticket · 单程票",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-27 07:29:58",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "856371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3449397176035822501",
+                    "size": "1068884496",
+                    "download": "932815184"
+                },
+                "dlc01": {
+                    "gid": "8533588829821937351",
+                    "size": "1662556453",
+                    "download": "1422984560"
+                }
+            },
+            "decryptionkey": "ace45142a35566d35259e73c175292d3e3f3ba5849beb0b268855639f0255bfa"
+        },
+        "856372": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "970020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2589074976385781833",
+                    "size": "597720655",
+                    "download": "304773424"
+                },
+                "dlc01": {
+                    "gid": "2589074976385781833",
+                    "size": "597720655",
+                    "download": "304773424"
+                }
+            },
+            "dlcappid": "970020",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3780566",
+                "timeupdated": "1556612750"
+            },
+            "dlc01": {
+                "buildid": "3288602",
+                "timeupdated": "1541677213"
+            }
+        }
+    }
+}
