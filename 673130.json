@@ -1,0 +1,107 @@
+{
+    "appid": "673130",
+    "type": "Game",
+    "name": "AMID EVIL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28328341",
+    "update_time": "2025-04-06 09:10:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "673131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1734607153529171994",
+                    "size": "5214839976",
+                    "download": "4969031632"
+                },
+                "previousver": {
+                    "gid": "8305655221973253163",
+                    "size": "4793039444",
+                    "download": "4586548096"
+                }
+            },
+            "decryptionkey": "b13838081ef22aafb9bc5c9f9c2c8ab96fc951ecad54ea4e79e4e2b2cc856ae4"
+        },
+        "673132": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7245561293049415179",
+                    "size": "5325067477",
+                    "download": "4711941824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1198780": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "1198780"
+            },
+            "dlcappid": "1198780",
+            "manifests": {
+                "public": {
+                    "gid": "8260059129768017384",
+                    "size": "4856602236",
+                    "download": "3752245040"
+                },
+                "previousver": {
+                    "gid": "8260059129768017384",
+                    "size": "4856602236",
+                    "download": "3752245040"
+                }
+            },
+            "decryptionkey": "144c01050c8c2f5f7633531c0638f340b63f299c9eb41baee1df1278dd237b50"
+        },
+        "1852860": {
+            "dlcappid": "1852860",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7214872820596106557",
+                    "size": "2976606844",
+                    "download": "2967954672"
+                }
+            },
+            "decryptionkey": "0ae35df91c89a8e534c5b7d1e1efd6edb0863cfc2d4ea8f3c65f517fdf620a7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13530103",
+                "timeupdated": "1708623839"
+            },
+            "previousver": {
+                "buildid": "4764407",
+                "description": "Previous version of AE",
+                "timeupdated": "1583891877"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
