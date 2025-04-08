@@ -1,0 +1,78 @@
+{
+    "appid": "282760",
+    "type": "Game",
+    "name": "Circuits",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27271938",
+    "update_time": "2025-02-02 05:31:07",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,spanish,schinese,russian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "282761": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6287837232816749455",
+                    "size": "280771069",
+                    "download": "176974832"
+                }
+            },
+            "decryptionkey": "1e5a3e598e6e9140711ac4623d9f3146b83348c371aace794ac572ce18c296ef"
+        },
+        "282762": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3633669680124962730",
+                    "size": "294235055",
+                    "download": "180726112"
+                }
+            },
+            "decryptionkey": "8a040c03277f732ba5b0c11c3649ee715f6d6f0b6a3c2d2fdafea964ca6707d1"
+        },
+        "282763": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5115064543124056921",
+                    "size": "292654998",
+                    "download": "179172736"
+                }
+            },
+            "decryptionkey": "ae324d2e744e121c9d51bf5687d8c959ef8ebca9091647c4d77a0fb370e048d0"
+        },
+        "282764": {
+            "manifests": {
+                "public": {
+                    "gid": "3158234920763662467",
+                    "size": "67227279",
+                    "download": "63804336"
+                }
+            },
+            "decryptionkey": "9166aa3848cea7e73e355d82f2735884bdde757a69d9ff9947ac5ef98cb7343c"
+        },
+        "workshopdepot": "282760",
+        "branches": {
+            "public": {
+                "buildid": "850357"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2656038bd4cfa8165e02db1a2287be8845d0a96ddca79f978773479f1ed83f2a"
+    }
+}
