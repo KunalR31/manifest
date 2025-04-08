@@ -1,0 +1,207 @@
+{
+    "appid": "574980",
+    "type": "Game",
+    "name": "Them's Fightin' Herds",
+    "schinese_name": "彩虹小马格斗",
+    "isfreeapp": "0",
+    "change_number": "28119477",
+    "update_time": "2025-03-25 08:14:13",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "574983": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4216879368293389798",
+                    "size": "0",
+                    "download": "0"
+                },
+                "macos_public": {
+                    "gid": "4216879368293389798",
+                    "size": "0",
+                    "download": "0"
+                },
+                "stable": {
+                    "gid": "4216879368293389798",
+                    "size": "0",
+                    "download": "0"
+                },
+                "december_patch": {
+                    "gid": "4216879368293389798",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "272092765317589852",
+                    "size": "47409944",
+                    "download": "38023040"
+                },
+                "macos_public": {
+                    "gid": "8467742873119738600",
+                    "size": "43276096",
+                    "download": "35007104"
+                },
+                "stable": {
+                    "gid": "4834103831144554858",
+                    "size": "46871832",
+                    "download": "37622224"
+                },
+                "december_patch": {
+                    "gid": "8735197348390515561",
+                    "size": "47414800",
+                    "download": "38024048"
+                }
+            },
+            "decryptionkey": "0b69dafa0e40126b3062dbfa7cf051409823c601a565d3ef1ba5d412af3d0345"
+        },
+        "574981": {
+            "manifests": {
+                "public": {
+                    "gid": "632770488193039984",
+                    "size": "8400862419",
+                    "download": "3385030160"
+                },
+                "macos_public": {
+                    "gid": "2000437811551101930",
+                    "size": "6251362573",
+                    "download": "2495772064"
+                },
+                "stable": {
+                    "gid": "6755882041096222321",
+                    "size": "6896645879",
+                    "download": "2727449456"
+                },
+                "december_patch": {
+                    "gid": "7086423145311614723",
+                    "size": "8400876186",
+                    "download": "3385024000"
+                }
+            },
+            "decryptionkey": "dbbef6545bc9032fc2d37759f9a8e9685476037aac6c213039d84d19579872a2"
+        },
+        "574984": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "574985": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5818790652591806924",
+                    "size": "89464724",
+                    "download": "22088592"
+                },
+                "macos_public": {
+                    "gid": "490617930935226728",
+                    "size": "85471052",
+                    "download": "21464512"
+                },
+                "stable": {
+                    "gid": "1742795789168528596",
+                    "size": "88530836",
+                    "download": "21934016"
+                },
+                "december_patch": {
+                    "gid": "5818790652591806924",
+                    "size": "89464724",
+                    "download": "22088592"
+                }
+            },
+            "decryptionkey": "9d6a154527c69d42644330646fb845f86ab3f99ee2517ad59128cfa145188263"
+        },
+        "574986": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4895436445403680844",
+                    "size": "113431778",
+                    "download": "29227056"
+                },
+                "macos_public": {
+                    "gid": "5638201826776787674",
+                    "size": "89080550",
+                    "download": "23910768"
+                },
+                "stable": {
+                    "gid": "8379867616870948520",
+                    "size": "112052258",
+                    "download": "29020336"
+                },
+                "december_patch": {
+                    "gid": "4895436445403680844",
+                    "size": "113431778",
+                    "download": "29227056"
+                }
+            },
+            "decryptionkey": "c768e2895d596c6879c11b76d646a8970f0fa92884483bafb7d64a143b43179e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13825464",
+                "timeupdated": "1712077180"
+            },
+            "macos_public": {
+                "buildid": "9124890",
+                "description": "temp branch for macos, rollback to before console release",
+                "timeupdated": "1666285094"
+            },
+            "stable": {
+                "buildid": "12763824",
+                "description": "stable branch",
+                "timeupdated": "1702525667"
+            },
+            "december_patch": {
+                "buildid": "16786953",
+                "description": "Q4 2024 Patch",
+                "timeupdated": "1734529445"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
