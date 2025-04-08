@@ -1,0 +1,66 @@
+{
+    "appid": "1024430",
+    "type": "Game",
+    "name": "Super Arcade Soccer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25590816",
+    "update_time": "2024-10-08 23:42:24",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1024431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4350029212202645717",
+                    "size": "230534628",
+                    "download": "65192416"
+                },
+                "beta": {
+                    "gid": "4899860119035614220",
+                    "size": "227066441",
+                    "download": "62081072"
+                }
+            },
+            "decryptionkey": "9712ba190e933239db8257082a4dd989b54f879c78ca8272bbbccf0033a5e7ea"
+        },
+        "1024432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3957156528872077037",
+                    "size": "236452790",
+                    "download": "68260160"
+                },
+                "beta": {
+                    "gid": "3661276285277296508",
+                    "size": "241898931",
+                    "download": "68753744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4616291",
+                "timeupdated": "1580229176"
+            },
+            "beta": {
+                "buildid": "3821578",
+                "description": "Beta",
+                "timeupdated": "1557829254"
+            }
+        }
+    }
+}
