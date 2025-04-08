@@ -1,0 +1,69 @@
+{
+    "appid": "2565550",
+    "type": "Game",
+    "name": "Beyond Hanwell",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27984095",
+    "update_time": "2025-03-17 04:56:56",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2565551": {
+            "manifests": {
+                "public": {
+                    "gid": "7799521675689063823",
+                    "size": "60943902051",
+                    "download": "59218984960"
+                },
+                "beta": {
+                    "gid": "7799521675689063823",
+                    "size": "60943902051",
+                    "download": "59218984960"
+                },
+                "v1rollback": {
+                    "gid": "6183279840525828078",
+                    "size": "64638181217",
+                    "download": "62769035360"
+                }
+            },
+            "decryptionkey": "97e08dc9c8a92304c49389b9890893ffa3dace77807e9ff785390076133b4dc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16517285",
+                "timeupdated": "1732477256"
+            },
+            "beta": {
+                "buildid": "16517285",
+                "description": "Untested, potentially buggy branch",
+                "timeupdated": "1732476326"
+            },
+            "v1rollback": {
+                "buildid": "15855888",
+                "description": "1.0 Rollback, in case issues arise from updates.",
+                "timeupdated": "1730062948"
+            }
+        }
+    }
+}
