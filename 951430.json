@@ -1,0 +1,82 @@
+{
+    "appid": "951430",
+    "type": "Game",
+    "name": "Dead Age 2",
+    "schinese_name": "尸变纪元2",
+    "isfreeapp": "0",
+    "change_number": "28097457",
+    "update_time": "2025-03-24 00:54:50",
+    "depot": {
+        "951431": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1652646509857790188",
+                    "size": "7922506380",
+                    "download": "6923851056"
+                },
+                "pre_090": {
+                    "gid": "3345689259816980706",
+                    "size": "7068117012",
+                    "download": "5622584256"
+                }
+            },
+            "decryptionkey": "725a4c43d135b7a2a88f31b230fa673d5fd1b368ff63d872b3f68fb91fceed05"
+        },
+        "951432": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3844054939571024844",
+                    "size": "6505548540",
+                    "download": "5665598016"
+                },
+                "pre_090": {
+                    "gid": "3893411397036490488",
+                    "size": "7032444798",
+                    "download": "5623352496"
+                }
+            },
+            "decryptionkey": "a881f9e28189dcb78f84a8d2d7e8dba3f7e5341ffc95e689f2a47edbaccb78e0"
+        },
+        "951433": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7297886884510268786",
+                    "size": "6536253200",
+                    "download": "5694658736"
+                },
+                "pre_090": {
+                    "gid": "8858604197058135174",
+                    "size": "7054917894",
+                    "download": "5645837728"
+                }
+            },
+            "decryptionkey": "14054dfc84dedefd8dbd0d364590f4b26959222a0dd9d9f9cf821e4a0d0e518d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17446130",
+                "timeupdated": "1740140161"
+            },
+            "pre_090": {
+                "buildid": "6304709",
+                "description": "stable version prior to 0.9.0",
+                "timeupdated": "1614963536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
