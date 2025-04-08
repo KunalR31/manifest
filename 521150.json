@@ -1,0 +1,75 @@
+{
+    "appid": "521150",
+    "type": "Game",
+    "name": "Another Brick in The Mall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25860573",
+    "update_time": "2024-10-23 23:38:54",
+    "depot": {
+        "workshopdepot": "521150",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "521151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3011283284401496745",
+                    "size": "183681077",
+                    "download": "119127184"
+                },
+                "legacy10": {
+                    "gid": "5752920344942362539",
+                    "size": "169829390",
+                    "download": "116801600"
+                },
+                "unstable": {
+                    "gid": "74134089306682402",
+                    "size": "170515213",
+                    "download": "117322560"
+                }
+            },
+            "decryptionkey": "e8ca0dc6e6ea0ee4f21367724434d17cbe78b4a4d7a6ba1c12d93297c1fba5da"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "6496831",
+                "timeupdated": "1617986825"
+            },
+            "legacy10": {
+                "buildid": "5002534",
+                "description": "Legacy 1.0",
+                "timeupdated": "1616435570"
+            },
+            "unstable": {
+                "buildid": "6676501",
+                "description": "Test branch",
+                "timeupdated": "1620661610"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "be348164f4877511d3c7bd058dfe4c734eb225db1dbbbf13aec0bbf86be8a2b5"
+    }
+}
