@@ -1,0 +1,74 @@
+{
+    "appid": "6060",
+    "type": "Game",
+    "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+    "schinese_name": "星球大战：前线2",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:16",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "6061": {
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6184123930358608135",
+                    "size": "10296173294",
+                    "download": "6052961408"
+                }
+            },
+            "decryptionkey": "e7340e9a1cf3858d8db5fe171763e3ac6e99b1183d71ae25a88552f5413ca35b"
+        },
+        "6062": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3949341301431433490",
+                    "size": "791195280",
+                    "download": "593632448"
+                }
+            },
+            "decryptionkey": "ebebbd970aff196a968e971c6c1e7cb9f1cae2a55b22cd244573a8c442db3f80"
+        },
+        "6063": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3954701481858588850",
+                    "size": "798514832",
+                    "download": "599480432"
+                }
+            },
+            "decryptionkey": "d692976fb2e1eb3d6b9a7bb9f9bd237e747caa8a6fe0804b2349c8450fc48649"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6217431",
+                "timeupdated": "1612944958"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
