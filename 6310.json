@@ -1,0 +1,47 @@
+{
+    "appid": "6310",
+    "type": "Game",
+    "name": "The Longest Journey",
+    "schinese_name": "无尽的旅程",
+    "isfreeapp": "0",
+    "change_number": "28061146",
+    "update_time": "2025-03-21 07:20:20",
+    "depot": {
+        "6311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "404429144808164178",
+                    "size": "1287578047",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3369568286308910981",
+                    "size": "1288221407",
+                    "download": "1188246336"
+                }
+            },
+            "decryptionkey": "be74703051c8af7612bbf4c2aad65a551d528415272aa81c0c8bec2fd38c8eff"
+        },
+        "6312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "32037"
+            },
+            "beta": {
+                "buildid": "4315219",
+                "description": "Fix for white dialog on exit and floating menu clicking problem",
+                "timeupdated": "1571828111"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
