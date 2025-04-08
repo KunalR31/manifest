@@ -1,0 +1,57 @@
+{
+    "appid": "2309400",
+    "type": "Game",
+    "name": "The Devourer: Hunted Souls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28318697",
+    "update_time": "2025-04-05 08:11:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german",
+        "2309401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5521160895261578432",
+                    "size": "15038238342",
+                    "download": "14601816288"
+                },
+                "beta": {
+                    "gid": "1081958911125792317",
+                    "size": "16944870499",
+                    "download": "16442490464"
+                }
+            },
+            "decryptionkey": "8f9aca927d6e5f8c9580f88cb29060f69d4c013f4b56ccba58a14c8bc3aaa457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12742159",
+                "timeupdated": "1703190049"
+            },
+            "beta": {
+                "buildid": "16954341",
+                "description": "To test new stuff",
+                "timeupdated": "1736443738"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
