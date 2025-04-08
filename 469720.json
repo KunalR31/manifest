@@ -1,0 +1,74 @@
+{
+    "appid": "469720",
+    "type": "Game",
+    "name": "Monsters' Den: Godfall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28240887",
+    "update_time": "2025-04-01 11:49:13",
+    "depot": {
+        "469721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3150638534257183137",
+                    "size": "147014666",
+                    "download": "117466096"
+                },
+                "stable": {
+                    "gid": "7315863603689940038",
+                    "size": "139303715",
+                    "download": "109672848"
+                },
+                "testing": {
+                    "gid": "7263579542354465783",
+                    "size": "146997043",
+                    "download": "117456736"
+                }
+            },
+            "decryptionkey": "182e9a14710c9b3fd2ffee93c0f70693d514f27ee5a067f5bc924ec0487444cc"
+        },
+        "469722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1075720181293755103",
+                    "size": "137893740",
+                    "download": "110749664"
+                },
+                "stable": {
+                    "gid": "4029136189660868448",
+                    "size": "126964981",
+                    "download": "99689488"
+                },
+                "testing": {
+                    "gid": "1075720181293755103",
+                    "size": "137893740",
+                    "download": "110749664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10706776",
+                "timeupdated": "1678162779"
+            },
+            "stable": {
+                "buildid": "4001440",
+                "description": "Older versions - Use if you have problems with an update.",
+                "timeupdated": "1596177041"
+            },
+            "testing": {
+                "buildid": "6916721",
+                "description": "Help test upcoming changes to the game.",
+                "timeupdated": "1624427110"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
