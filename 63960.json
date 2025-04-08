@@ -1,0 +1,73 @@
+{
+    "appid": "63960",
+    "type": "Game",
+    "name": "Theatre of War 3: Korea",
+    "schinese_name": "战场3：朝鲜",
+    "isfreeapp": "0",
+    "change_number": "27992737",
+    "update_time": "2025-03-17 19:55:57",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "63961": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3117391426650511064",
+                    "size": "1578186665",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "424de56ec177abe443b35a746afde4cfecfb0fe73b97a0ed0be21b7b883937a1"
+        },
+        "63962": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3853334029061751976",
+                    "size": "60485006",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "63963": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2470390793600352727",
+                    "size": "38492773",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "300171"
+            }
+        }
+    }
+}
