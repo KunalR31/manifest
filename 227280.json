@@ -1,0 +1,62 @@
+{
+    "appid": "227280",
+    "type": "Game",
+    "name": "No Time to Explain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 18:56:17",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "227280",
+        "hasdepotsindlc": "1",
+        "227281": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4632650567340189308",
+                    "size": "49480562",
+                    "download": "0"
+                },
+                "alpha": {
+                    "gid": "4632650567340189308",
+                    "size": "49480562",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "647ea04a4599a372431c1ea3bbcc4af40d1784aba59b7558478479818cac6fc4"
+        },
+        "227282": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5173688854813659727",
+                    "size": "173938799",
+                    "download": "0"
+                },
+                "alpha": {
+                    "gid": "5173688854813659727",
+                    "size": "173938799",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "255535"
+            },
+            "alpha": {
+                "buildid": "255535",
+                "description": "This is the first test!"
+            }
+        },
+        "workshopdepotdecryptionkey": "7445ae9cc802710c4dee8f31027e642ed587deaa66bb146eda0aa2456490103d"
+    }
+}
