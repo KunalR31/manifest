@@ -1,0 +1,56 @@
+{
+    "appid": "871920",
+    "type": "Game",
+    "name": "Mad Restaurant People",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25803972",
+    "update_time": "2024-10-20 08:04:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,koreana,spanish,schinese",
+        "871921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "34603172052244313",
+                    "size": "392013580",
+                    "download": "294292112"
+                },
+                "beta": {
+                    "gid": "3407377172180402740",
+                    "size": "389496601",
+                    "download": "291732624"
+                }
+            },
+            "decryptionkey": "4ed12f08f0c57ff4912596f94b2f968e9056483fdecb30beaf1b4f3b78617319"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10507489",
+                "timeupdated": "1675876902"
+            },
+            "beta": {
+                "buildid": "9160760",
+                "description": "beta",
+                "timeupdated": "1658369096"
+            }
+        }
+    }
+}
