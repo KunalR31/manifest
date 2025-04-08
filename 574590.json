@@ -1,0 +1,149 @@
+{
+    "appid": "574590",
+    "type": "Game",
+    "name": "Koloro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27166448",
+    "update_time": "2025-01-26 04:26:35",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian",
+        "hasdepotsindlc": "1",
+        "574591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8675310032942918784",
+                    "size": "1369054645",
+                    "download": "625862208"
+                },
+                "proton": {
+                    "gid": "2444232893944574200",
+                    "size": "1368765774",
+                    "download": "625798144"
+                },
+                "with-unity-dialog": {
+                    "gid": "8567591343988696048",
+                    "size": "1369054645",
+                    "download": "625859424"
+                }
+            },
+            "decryptionkey": "7e581c87152800baae7bfa2a63f8172ff7735675a3fac88ef0f0834a4d5ff6e0"
+        },
+        "574592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "215007647458040562",
+                    "size": "1362721717",
+                    "download": "623878608"
+                },
+                "proton": {
+                    "gid": "4243952036047061389",
+                    "size": "1362433358",
+                    "download": "623819712"
+                },
+                "with-unity-dialog": {
+                    "gid": "6077882949381720007",
+                    "size": "1362721717",
+                    "download": "623878736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574593": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1136056732040967228",
+                    "size": "1369183577",
+                    "download": "627182160"
+                },
+                "proton": {
+                    "gid": "1136056732040967228",
+                    "size": "1369183577",
+                    "download": "627182160"
+                },
+                "with-unity-dialog": {
+                    "gid": "1136056732040967228",
+                    "size": "1369183577",
+                    "download": "627182160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574594": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2393882452120248399",
+                    "size": "1368949747",
+                    "download": "626532576"
+                },
+                "proton": {
+                    "gid": "2393882452120248399",
+                    "size": "1368949747",
+                    "download": "626532576"
+                },
+                "with-unity-dialog": {
+                    "gid": "2393882452120248399",
+                    "size": "1368949747",
+                    "download": "626532576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574595": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "564308877126317810",
+                    "size": "1378777916",
+                    "download": "627586976"
+                },
+                "proton": {
+                    "gid": "8173468961254222735",
+                    "size": "1378553718",
+                    "download": "627531872"
+                },
+                "with-unity-dialog": {
+                    "gid": "564308877126317810",
+                    "size": "1378777916",
+                    "download": "627586976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6354080",
+                "timeupdated": "1615564845"
+            },
+            "proton": {
+                "buildid": "4538561",
+                "description": "Build from before the fix for remote controllers.",
+                "timeupdated": "1615936397"
+            },
+            "with-unity-dialog": {
+                "buildid": "6386550",
+                "description": "Always display the Unity dialog when starting the game.",
+                "timeupdated": "1615865254"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
