@@ -1,0 +1,66 @@
+{
+    "appid": "262850",
+    "type": "Game",
+    "name": "The Journey Down: Chapter Two",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27748772",
+    "update_time": "2025-03-03 13:22:37",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "262851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5995257813409486192",
+                    "size": "1224378220",
+                    "download": "1174447936"
+                }
+            },
+            "decryptionkey": "775b8eb81546c24c2a38203de8610684ed0bb80a124642eb05b11940d295425f"
+        },
+        "262852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "420209598978029449",
+                    "size": "1223870301",
+                    "download": "1174843312"
+                }
+            },
+            "decryptionkey": "4482ebfbbe563b044fa2f18c7086ac9e683169b8acfb8f755ed768b6445ce58d"
+        },
+        "262853": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9136932156961074242",
+                    "size": "1212640279",
+                    "download": "62219508777"
+                }
+            },
+            "decryptionkey": "56a2dac55bfe7a537fc9daad350e229f467e4bf0be362bd14c262cae16e9c513"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1660774",
+                "timeupdated": "1488278339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
