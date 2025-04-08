@@ -1,0 +1,92 @@
+{
+    "appid": "260790",
+    "type": "Game",
+    "name": "1001 Spikes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27902661",
+    "update_time": "2025-03-12 10:21:02",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "260791": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2842241878433027",
+                    "size": "124201013",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2842241878433027",
+                    "size": "124201013",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "63755527e56285d3e7264e05f17a06551854ce0ff1e0fc88ebba1d3e008d1c4c"
+        },
+        "260792": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "807101627033892123",
+                    "size": "126237705",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "807101627033892123",
+                    "size": "126237705",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "260793": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2956129945905658851",
+                    "size": "128038076",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2956129945905658851",
+                    "size": "128038076",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "307296"
+            },
+            "beta": {
+                "buildid": "307296",
+                "description": "beta"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
