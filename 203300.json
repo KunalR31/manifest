@@ -1,0 +1,78 @@
+{
+    "appid": "203300",
+    "type": "Tool",
+    "name": "America's Army: Proving Grounds Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:43:44",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "203301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8293858377451486443",
+                    "size": "2215628915",
+                    "download": "970686448"
+                }
+            },
+            "decryptionkey": "9172c5655843fa3862eccc58dd73eda905638fdbf403754dea6241b690126056"
+        },
+        "203302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5392429432907816915",
+                    "size": "142062333",
+                    "download": "53195952"
+                }
+            },
+            "decryptionkey": "5bac834bde5c332beee242ec972c5ae8c17c03c24e87e3486ba6a9139868292a"
+        },
+        "203303": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2586890273536726424",
+                    "size": "77148618",
+                    "download": "21171792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8671920",
+                "timeupdated": "1651608500"
+            }
+        }
+    }
+}
