@@ -1,0 +1,99 @@
+{
+    "appid": "1482380",
+    "type": "Game",
+    "name": "Maniac",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28165783",
+    "update_time": "2025-03-27 16:33:32",
+    "depot": {
+        "1482381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1126467131556124749",
+                    "size": "1347471249",
+                    "download": "298426272"
+                },
+                "ludeo-playtest": {
+                    "gid": "1020885950548012256",
+                    "size": "1344054117",
+                    "download": "298006016"
+                },
+                "test": {
+                    "gid": "1585664862427268693",
+                    "size": "1368035698",
+                    "download": "303203152"
+                }
+            },
+            "decryptionkey": "0aef693e6ad6e947bb44801b47a8aab5af3daebdfdecf54a95ec4d092a669fa6"
+        },
+        "1482382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6337807951108357628",
+                    "size": "1179971645",
+                    "download": "236893648"
+                },
+                "ludeo-playtest": {
+                    "gid": "3595205781956273172",
+                    "size": "1176553968",
+                    "download": "236475120"
+                },
+                "test": {
+                    "gid": "3164176914058968276",
+                    "size": "1280649981",
+                    "download": "250301216"
+                }
+            },
+            "decryptionkey": "071d595bfd532b39a24f8f272b79c59559d5e15027fd0d9f5b8f0925a8ae6681"
+        },
+        "1482383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4869309332686676749",
+                    "size": "1075392574",
+                    "download": "208531904"
+                },
+                "ludeo-playtest": {
+                    "gid": "921822773462894580",
+                    "size": "1071975442",
+                    "download": "208111856"
+                },
+                "test": {
+                    "gid": "7829434465405688494",
+                    "size": "1115180122",
+                    "download": "213016960"
+                }
+            },
+            "decryptionkey": "ddc7f708a6417af0b1289571d4929b376c6c339d5fd10538634f24e6a2526a4e"
+        },
+        "workshopdepot": "1482380",
+        "branches": {
+            "public": {
+                "buildid": "15085881",
+                "timeupdated": "1721375666"
+            },
+            "ludeo-playtest": {
+                "buildid": "14676956",
+                "description": "Ludeo play test",
+                "timeupdated": "1718106209"
+            },
+            "test": {
+                "buildid": "17879670",
+                "description": "Testing",
+                "timeupdated": "1743064408"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
