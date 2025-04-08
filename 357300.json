@@ -1,0 +1,70 @@
+{
+    "appid": "357300",
+    "type": "Game",
+    "name": "Snakebird",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27184358",
+    "update_time": "2025-01-27 22:20:05",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "357301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3115212093001675989",
+                    "size": "97773143",
+                    "download": "34162992"
+                }
+            },
+            "decryptionkey": "15abadd380dd4ecbb4fda2aea3cdfc9217979f6fc472b548428226a84da34011"
+        },
+        "357302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6395859451378563400",
+                    "size": "131389344",
+                    "download": "42059936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "357303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8757911744412191631",
+                    "size": "104512627",
+                    "download": "35877216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "656091"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
