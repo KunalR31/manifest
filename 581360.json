@@ -1,0 +1,77 @@
+{
+    "appid": "581360",
+    "type": "Game",
+    "name": "FoxTail",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25558048",
+    "update_time": "2024-10-07 03:10:06",
+    "depot": {
+        "581361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1315443526980836774",
+                    "size": "163668804",
+                    "download": "138814320"
+                },
+                "beta": {
+                    "gid": "3281918929914757456",
+                    "size": "163687601",
+                    "download": "138954384"
+                }
+            },
+            "decryptionkey": "b90dfc52d80a0480b964fc29f74e8386e3c6d45da1bf721508dcf37e963376dd"
+        },
+        "581362": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6177946317926462747",
+                    "size": "202789135",
+                    "download": "148729760"
+                },
+                "beta": {
+                    "gid": "4637227531143212565",
+                    "size": "203138120",
+                    "download": "148983584"
+                }
+            },
+            "decryptionkey": "5f7c660a312bf7a66499a6694d6537865e3b03c7d3f3b5ec152818a90e4ff2a0"
+        },
+        "581363": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5082491460540455849",
+                    "size": "169630824",
+                    "download": "141637760"
+                },
+                "beta": {
+                    "gid": "4683038300898396638",
+                    "size": "167916823",
+                    "download": "140514336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "5037176",
+                "timeupdated": "1589602443"
+            },
+            "beta": {
+                "buildid": "4998475",
+                "timeupdated": "1588913266"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
