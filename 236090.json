@@ -1,0 +1,141 @@
+{
+    "appid": "236090",
+    "type": "Game",
+    "name": "Dust: An Elysian Tail",
+    "schinese_name": "尘埃：幸福的轨迹",
+    "isfreeapp": "0",
+    "change_number": "25704246",
+    "update_time": "2024-10-14 17:12:35",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "236091": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3453858318896867494",
+                    "size": "1445250056",
+                    "download": "0"
+                },
+                "fna-win32": {
+                    "gid": "4007191613483824249",
+                    "size": "1448208287",
+                    "download": "1263835280"
+                },
+                "linux32": {
+                    "gid": "3453858318896867494",
+                    "size": "1445250056",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3155f6c04de0b5378792f0f0fbda30e9ede86cd2d21440cd04ad606c480a6d4f"
+        },
+        "236092": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3643140810355546394",
+                    "size": "1471319737",
+                    "download": "1270161296"
+                },
+                "fna-win32": {
+                    "gid": "1454495045651842857",
+                    "size": "1495994062",
+                    "download": "1277727696"
+                },
+                "linux32": {
+                    "gid": "6849150296028487888",
+                    "size": "1471049878",
+                    "download": "1270065408"
+                }
+            },
+            "decryptionkey": "26942aee558b9dff58620cb1135ed862c62ee2467a2faf37b236db32948c5263"
+        },
+        "236093": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5351902967923787795",
+                    "size": "1481534882",
+                    "download": "1272316560"
+                },
+                "fna-win32": {
+                    "gid": "3948403660756632540",
+                    "size": "1482501721",
+                    "download": "1272463952"
+                },
+                "linux32": {
+                    "gid": "387628862349969762",
+                    "size": "1467863487",
+                    "download": "1269168848"
+                }
+            },
+            "decryptionkey": "3d41e921c3967df57e456fe7174ac9ed9bf64d61c692074fdf3fd97a5b055396"
+        },
+        "326860": {
+            "manifests": {
+                "public": {
+                    "gid": "1923481502402109913",
+                    "size": "264016992",
+                    "download": "262790544"
+                },
+                "fna-win32": {
+                    "gid": "1923481502402109913",
+                    "size": "264016992",
+                    "download": "262790544"
+                },
+                "linux32": {
+                    "gid": "1923481502402109913",
+                    "size": "264016992",
+                    "download": "262790544"
+                }
+            },
+            "dlcappid": "326860",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029182",
+                "timeupdated": "1609453593"
+            },
+            "fna-win32": {
+                "buildid": "10920922",
+                "description": "Win32 FNA - Unsupported!",
+                "timeupdated": "1680547456"
+            },
+            "linux32": {
+                "buildid": "4896504",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609453582"
+            }
+        }
+    }
+}
