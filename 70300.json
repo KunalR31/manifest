@@ -1,0 +1,125 @@
+{
+    "appid": "70300",
+    "type": "Game",
+    "name": "VVVVVV",
+    "schinese_name": "弹弹跳跳闪避人",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 20:08:25",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "70302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8509859513867064964",
+                    "size": "75053041",
+                    "download": "64998048"
+                },
+                "2.2-archive": {
+                    "gid": "4329466134797006658",
+                    "size": "80025600",
+                    "download": "65407680"
+                },
+                "2.3-archive": {
+                    "gid": "3838254081427581659",
+                    "size": "66720800",
+                    "download": "62762496"
+                },
+                "glitchrunners": {
+                    "gid": "6504935134816227564",
+                    "size": "74284388",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8b631aacc07b2b550f0cd075356e90c60780823c181cc4e1842a00e08c2b2d65"
+        },
+        "70301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3698788310958512252",
+                    "size": "73417142",
+                    "download": "64563104"
+                },
+                "2.2-archive": {
+                    "gid": "8634644582765853340",
+                    "size": "67444237",
+                    "download": "62800016"
+                },
+                "2.3-archive": {
+                    "gid": "6927737193340588022",
+                    "size": "65395589",
+                    "download": "62480640"
+                },
+                "glitchrunners": {
+                    "gid": "3372739566530827938",
+                    "size": "72971402",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b2e6e5f765dd9f1aacc5f5aeb9e1cd0f460ef6b2784b776ad1156d95dfd02deb"
+        },
+        "70303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "300282889879649001",
+                    "size": "75431327",
+                    "download": "65033968"
+                },
+                "2.2-archive": {
+                    "gid": "1245510960219112541",
+                    "size": "107251519",
+                    "download": "69250752"
+                },
+                "2.3-archive": {
+                    "gid": "3678379832535460247",
+                    "size": "66745069",
+                    "download": "62716912"
+                },
+                "glitchrunners": {
+                    "gid": "2149408677029208455",
+                    "size": "75465775",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "773b5bbc45e104fb921e4666d76dbfb78bdca3e8d3fb74409fbaacc26b349934"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15452566",
+                "timeupdated": "1724423568"
+            },
+            "2.2-archive": {
+                "buildid": "4404957",
+                "description": "Version 2.2, for archiving",
+                "timeupdated": "1616993841"
+            },
+            "2.3-archive": {
+                "buildid": "7927143",
+                "description": "Version 2.3, for archiving",
+                "timeupdated": "1704938792"
+            },
+            "glitchrunners": {
+                "buildid": "18024",
+                "description": "Version 2.0, for archiving"
+            }
+        }
+    }
+}
