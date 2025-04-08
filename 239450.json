@@ -1,0 +1,65 @@
+{
+    "appid": "239450",
+    "type": "Game",
+    "name": "Gun Monkeys",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 10:23:43",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "239451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4339400077314436757",
+                    "size": "209399587",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4339400077314436757",
+                    "size": "209399587",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "16ab806152d459cacb439cc519ec0ecc42e20d4c6901630456acaeb474756668"
+        },
+        "239452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5756335684407470998",
+                    "size": "193255055",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5756335684407470998",
+                    "size": "193255055",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a7c06565cdec4db6d82ef1f48b5416b919b30c693df6f333da252b0b2dab8380"
+        },
+        "branches": {
+            "public": {
+                "buildid": "119934"
+            },
+            "beta": {
+                "buildid": "119934",
+                "description": "Open Beta"
+            }
+        }
+    }
+}
