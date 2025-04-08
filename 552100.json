@@ -1,0 +1,68 @@
+{
+    "appid": "552100",
+    "type": "Game",
+    "name": "Brick Rigs",
+    "schinese_name": "砖厂Brick Rigs",
+    "isfreeapp": "0",
+    "change_number": "28265796",
+    "update_time": "2025-04-02 18:16:58",
+    "depot": {
+        "workshopdepot": "552100",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "552101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6579074036481288258",
+                    "size": "2124102644",
+                    "download": "604373136"
+                },
+                "legacy": {
+                    "gid": "7615572276252897297",
+                    "size": "3901375832",
+                    "download": "1429133088"
+                },
+                "experimental": {
+                    "gid": "6579074036481288258",
+                    "size": "2124102644",
+                    "download": "604373136"
+                }
+            },
+            "decryptionkey": "2655dc8f6778dc013bae87f3f20881b6b118c6beaca59114be62b0dd6a551679"
+        },
+        "552102": {},
+        "branches": {
+            "public": {
+                "buildid": "15224196",
+                "timeupdated": "1722624553"
+            },
+            "legacy": {
+                "buildid": "7032272",
+                "description": "Pre experimental update version",
+                "timeupdated": "1626329088"
+            },
+            "experimental": {
+                "buildid": "15224196",
+                "description": "Public testing branch",
+                "timeupdated": "1722504602"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
