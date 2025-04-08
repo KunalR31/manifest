@@ -1,0 +1,48 @@
+{
+    "appid": "454120",
+    "type": "Game",
+    "name": "Starbase",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28345939",
+    "update_time": "2025-04-07 20:56:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "454121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8957868362596217292",
+                    "size": "24181817626",
+                    "download": "24213937600"
+                },
+                "public_test_universe": {
+                    "gid": "8957868362596217292",
+                    "size": "24181817626",
+                    "download": "24213937600"
+                }
+            },
+            "decryptionkey": "b02cfdfdf74398f9c880cc72d63e6d5c95d65f812eeb016e822a3b915d38200e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11286725",
+                "timeupdated": "1684833584"
+            },
+            "public_test_universe": {
+                "buildid": "11286725",
+                "description": "Public Test Universe",
+                "timeupdated": "1684752839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
