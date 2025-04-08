@@ -1,0 +1,75 @@
+{
+    "appid": "237110",
+    "type": "Game",
+    "name": "Mortal Kombat Komplete Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:40",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "237111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5892663489144728542",
+                    "size": "9930150950",
+                    "download": "10175738744998"
+                }
+            },
+            "decryptionkey": "2c086732018a2360a855d4d934af330f401e54794f4f8880fe41f9e0b724a1e3"
+        },
+        "237112": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2425211273725835674",
+                    "size": "122747",
+                    "download": "70996784"
+                }
+            },
+            "decryptionkey": "08ad2e11b65d254326f45d40a792b2687736ba990175d22c1fdaa77b103ae08d"
+        },
+        "237113": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2124184357098637035",
+                    "size": "117807",
+                    "download": "70996080"
+                }
+            },
+            "decryptionkey": "44163a4633f508f0f3fb88f3312505c73b08ef29c787c5743adf862d5f598f3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "344915"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
