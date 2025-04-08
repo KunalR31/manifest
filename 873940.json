@@ -1,0 +1,90 @@
+{
+    "appid": "873940",
+    "type": "Game",
+    "name": "Crying Suns",
+    "schinese_name": "哀恸之日",
+    "isfreeapp": "0",
+    "change_number": "27831795",
+    "update_time": "2025-03-07 17:02:00",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "873945": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4558558984636725319",
+                    "size": "1122858029",
+                    "download": "420290448"
+                },
+                "last_orders_closed_beta": {
+                    "gid": "4661201593234576715",
+                    "size": "1097353056",
+                    "download": "410154576"
+                }
+            },
+            "decryptionkey": "6fdd2d670421a8be6cf95b0cbc021fa9288687c4ea46b91b1825a6898b6e3304"
+        },
+        "873946": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6289632621503088174",
+                    "size": "1111065154",
+                    "download": "416861024"
+                },
+                "last_orders_closed_beta": {
+                    "gid": "764843108037927366",
+                    "size": "1038069329",
+                    "download": "396598816"
+                }
+            },
+            "decryptionkey": "81e2ed60c8fb92a2cb2e8a472178c8e7f6c5c499e8814ec6592e672a6a752b3b"
+        },
+        "873947": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6609761517066381446",
+                    "size": "1163386851",
+                    "download": "427204736"
+                },
+                "last_orders_closed_beta": {
+                    "gid": "2142673342469773617",
+                    "size": "1093023341",
+                    "download": "406251312"
+                }
+            },
+            "decryptionkey": "0cb4aa0549c3e773745871b5f98f0e444315ee196467c35b7ccc294882bd487a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11466075",
+                "timeupdated": "1686817037"
+            },
+            "last_orders_closed_beta": {
+                "buildid": "10347155",
+                "description": "Last Orders Closed Beta",
+                "timeupdated": "1674033385"
+            },
+            "local": {
+                "buildid": "3908191",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1560263106"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
