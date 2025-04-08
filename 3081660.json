@@ -1,0 +1,53 @@
+{
+    "appid": "3081660",
+    "type": "Demo",
+    "name": "ColdRidge Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26183469",
+    "update_time": "2024-11-14 07:30:46",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3081661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8809673654242471444",
+                    "size": "619248327",
+                    "download": "342821072"
+                }
+            },
+            "decryptionkey": "b875575c9f9e6498e5346fef5829ba4a2cfa60e47db761bfa312b2c3fd24a366"
+        },
+        "3081662": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5709861141786676990",
+                    "size": "603263730",
+                    "download": "338357280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16206951",
+                "timeupdated": "1730125631"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
