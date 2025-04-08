@@ -1,0 +1,109 @@
+{
+    "appid": "269370",
+    "type": "Game",
+    "name": "Reaper - Tale of a Pale Swordsman",
+    "schinese_name": "收割者：剑客传奇",
+    "isfreeapp": "0",
+    "change_number": "27726772",
+    "update_time": "2025-03-01 06:44:15",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,italian,spanish,russian,portuguese,polish,czech,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269371": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8118003077310596593",
+                    "size": "50681585",
+                    "download": "48043920"
+                },
+                "beta": {
+                    "gid": "8118003077310596593",
+                    "size": "50681585",
+                    "download": "48043920"
+                },
+                "legacy": {
+                    "gid": "540416203355523868",
+                    "size": "51478046",
+                    "download": "47263760"
+                }
+            },
+            "decryptionkey": "240963bc6fb5afc9425a8a87fa7fd374228202ae5024d22882d9b4233b49903f"
+        },
+        "269372": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2027439942083162464",
+                    "size": "37950105",
+                    "download": "30851200"
+                },
+                "beta": {
+                    "gid": "2027439942083162464",
+                    "size": "37950105",
+                    "download": "30851200"
+                },
+                "legacy": {
+                    "gid": "2027439942083162464",
+                    "size": "37950105",
+                    "download": "30851200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "269373": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7424081610912759108",
+                    "size": "37660973",
+                    "download": "31567920"
+                },
+                "beta": {
+                    "gid": "7424081610912759108",
+                    "size": "37660973",
+                    "download": "31567920"
+                },
+                "legacy": {
+                    "gid": "7424081610912759108",
+                    "size": "37660973",
+                    "download": "31567920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16861958",
+                "timeupdated": "1735322994"
+            },
+            "beta": {
+                "buildid": "16861958",
+                "description": "Beta Testing",
+                "timeupdated": "1735322939"
+            },
+            "legacy": {
+                "buildid": "4293026",
+                "description": "Legacy Version",
+                "timeupdated": "1734608974"
+            }
+        }
+    }
+}
