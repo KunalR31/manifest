@@ -1,0 +1,92 @@
+{
+    "appid": "968250",
+    "type": "Game",
+    "name": "King of Retail",
+    "schinese_name": "零售之王",
+    "isfreeapp": "0",
+    "change_number": "28215410",
+    "update_time": "2025-03-30 22:30:10",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "968251": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2028525921048860646",
+                    "size": "6062556432",
+                    "download": "1750392752"
+                },
+                "beta": {
+                    "gid": "5574871302696559500",
+                    "size": "12143396617",
+                    "download": "4876126784"
+                },
+                "twitch": {
+                    "gid": "7713738804138905149",
+                    "size": "6062552336",
+                    "download": "1750396880"
+                }
+            },
+            "decryptionkey": "00a9d01177a0c165234278cc7d4f0552f8e2771d2c76c1b9cd60bcc3c92f13d7"
+        },
+        "968253": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6960435718192666311",
+                    "size": "7357358655",
+                    "download": "2104105760"
+                },
+                "beta": {
+                    "gid": "6613820363241653524",
+                    "size": "6164660720",
+                    "download": "2175899472"
+                },
+                "twitch": {
+                    "gid": "6960435718192666311",
+                    "size": "7357358655",
+                    "download": "2104105760"
+                }
+            },
+            "decryptionkey": "46f30d67a59c1dca52f743ef9ba92a717b43d84c62d5969c2af7ead1750de600"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9626984",
+                "timeupdated": "1664543166"
+            },
+            "beta": {
+                "buildid": "8070284",
+                "description": "Branch for beta testers (may be unstable)",
+                "timeupdated": "1642947615"
+            },
+            "twitch": {
+                "buildid": "9626986",
+                "description": "For accessing twitch integration",
+                "timeupdated": "1664543185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
