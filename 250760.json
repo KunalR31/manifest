@@ -1,0 +1,99 @@
+{
+    "appid": "250760",
+    "type": "Game",
+    "name": "Shovel Knight: Treasure Trove",
+    "schinese_name": "铲子骑士",
+    "isfreeapp": "0",
+    "change_number": "27963622",
+    "update_time": "2025-03-15 03:20:41",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250761": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6757202436040670445",
+                    "size": "442074054",
+                    "download": "304259440"
+                },
+                "previous": {
+                    "gid": "1810793099338883515",
+                    "size": "441968054",
+                    "download": "304226240"
+                }
+            },
+            "decryptionkey": "897c8575e16463ffb846336d3c94feddcdbc5a10976ca1c1e6c3b21134aabf00"
+        },
+        "250762": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "250763": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "640934121098388361",
+                    "size": "451104911",
+                    "download": "306885888"
+                },
+                "previous": {
+                    "gid": "3465980217438540393",
+                    "size": "468148177",
+                    "download": "311877712"
+                }
+            },
+            "decryptionkey": "b2f715c24260faeb8476ccb07fe99ca9ca105e4e5a868b2a1afe6217c2901e34"
+        },
+        "250764": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4855535016329198867",
+                    "size": "503538578",
+                    "download": "312111936"
+                },
+                "previous": {
+                    "gid": "1935283082321148236",
+                    "size": "503428268",
+                    "download": "312076592"
+                }
+            },
+            "decryptionkey": "53390b208ea0022be6f8a23a23c47c6352fbe3de4198c7cf2e0ebb9bc370afb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6222443",
+                "timeupdated": "1614634188"
+            },
+            "previous": {
+                "buildid": "4772417",
+                "timeupdated": "1588411751"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
