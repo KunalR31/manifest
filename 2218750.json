@@ -1,0 +1,76 @@
+{
+    "appid": "2218750",
+    "type": "Game",
+    "name": "Halls of Torment",
+    "schinese_name": "Halls of Torment 苦痛殿堂",
+    "isfreeapp": "0",
+    "change_number": "28250622",
+    "update_time": "2025-04-01 22:49:42",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,brazilian,ukrainian,latam",
+        "2218751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8298656234492327787",
+                    "size": "1907064107",
+                    "download": "634079536"
+                },
+                "experimental": {
+                    "gid": "8298656234492327787",
+                    "size": "1907064107",
+                    "download": "634079536"
+                }
+            },
+            "decryptionkey": "77e405a755a01168f3c593afff3cf026d1e1a98ae9305e5e34f66d3d3646105b"
+        },
+        "2218752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5329946389545747132",
+                    "size": "1918523069",
+                    "download": "637493104"
+                },
+                "experimental": {
+                    "gid": "5329946389545747132",
+                    "size": "1918523069",
+                    "download": "637493104"
+                }
+            },
+            "decryptionkey": "a7f53da3b69f8caad57110d9a5793e8d27d836945013f56ae01b011d9440b74f"
+        },
+        "3386980": {
+            "dlcappid": "3386980",
+            "manifests": {
+                "public": {
+                    "gid": "8062042308541835723",
+                    "size": "228266784",
+                    "download": "35929392"
+                },
+                "experimental": {
+                    "gid": "8062042308541835723",
+                    "size": "228266784",
+                    "download": "35929392"
+                }
+            },
+            "decryptionkey": "959c2315ffca5cd7b82d1878582e16e23a8bb1befbcf9f265fd6c2d0c1cf8c52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17332798",
+                "timeupdated": "1739347581"
+            },
+            "experimental": {
+                "buildid": "17332798",
+                "description": "testing out few essential changes ahead of the time",
+                "timeupdated": "1739347378"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
