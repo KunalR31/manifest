@@ -1,0 +1,83 @@
+{
+    "appid": "534720",
+    "type": "Game",
+    "name": "Tornuffalo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 13:19:32",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "534721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3872207764312908721",
+                    "size": "642658200",
+                    "download": "301388720"
+                },
+                "buffalsnow_blizzard": {
+                    "gid": "1589774984083147447",
+                    "size": "644227514",
+                    "download": "289472848"
+                },
+                "fullbody": {
+                    "gid": "3394113701046402459",
+                    "size": "642658242",
+                    "download": "301388736"
+                },
+                "testing": {
+                    "gid": "8316698706505039171",
+                    "size": "646860543",
+                    "download": "304835408"
+                },
+                "two_hammers": {
+                    "gid": "1711972573186435820",
+                    "size": "641455873",
+                    "download": "302699840"
+                }
+            },
+            "decryptionkey": "032635a47bf4373636b8031ff19fd80147496d3165f13487b19ad2c1149c99f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1790737",
+                "timeupdated": "1493529538"
+            },
+            "buffalsnow_blizzard": {
+                "buildid": "1540590",
+                "timeupdated": "1482703332"
+            },
+            "fullbody": {
+                "buildid": "1753303",
+                "timeupdated": "1492028390"
+            },
+            "testing": {
+                "buildid": "2913784",
+                "timeupdated": "1530593011"
+            },
+            "two_hammers": {
+                "buildid": "2259867",
+                "timeupdated": "1509928833"
+            }
+        }
+    }
+}
