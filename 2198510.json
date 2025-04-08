@@ -1,0 +1,94 @@
+{
+    "appid": "2198510",
+    "type": "Game",
+    "name": "New Cycle",
+    "schinese_name": "耀斑纪元 - New Cycle",
+    "isfreeapp": "0",
+    "change_number": "28183731",
+    "update_time": "2025-03-28 12:14:55",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2198511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9167880883804580851",
+                    "size": "9002136199",
+                    "download": "4474094176"
+                },
+                "public-hotfix": {
+                    "gid": "4413958440607831881",
+                    "size": "6120584938",
+                    "download": "3130570832"
+                },
+                "public-experimental": {
+                    "gid": "2181372139518610190",
+                    "size": "8705296875",
+                    "download": "4323814544"
+                },
+                "public-rollback": {
+                    "gid": "3993232167501047688",
+                    "size": "7122384048",
+                    "download": "3670789504"
+                }
+            },
+            "decryptionkey": "cc63e967354dee46c1617e73a460c60281c8c39681d133bac4e8dde913ae7f47"
+        },
+        "2731240": {
+            "dlcappid": "2731240",
+            "manifests": {
+                "public": {
+                    "gid": "3435710286209944019",
+                    "size": "19808191",
+                    "download": "19627056"
+                },
+                "public-hotfix": {
+                    "gid": "3435710286209944019",
+                    "size": "19808191",
+                    "download": "19627056"
+                },
+                "public-experimental": {
+                    "gid": "3435710286209944019",
+                    "size": "19808191",
+                    "download": "19627056"
+                },
+                "public-rollback": {
+                    "gid": "3435710286209944019",
+                    "size": "19808191",
+                    "download": "19627056"
+                }
+            },
+            "decryptionkey": "e2843df7fe82e31f0567798a3812e5b8ab9428c9c7c1d4e0a17e16d26ad3da49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15033761",
+                "timeupdated": "1721049751"
+            },
+            "public-hotfix": {
+                "buildid": "13211656",
+                "description": "for public hotfix evaluation",
+                "timeupdated": "1705609493"
+            },
+            "public-experimental": {
+                "buildid": "17857056",
+                "description": "unstable builds with experimental features",
+                "timeupdated": "1742931560"
+            },
+            "public-rollback": {
+                "buildid": "13841721",
+                "description": "latest stable build before update",
+                "timeupdated": "1720717699"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
