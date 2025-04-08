@@ -1,0 +1,97 @@
+{
+    "appid": "248710",
+    "type": "Game",
+    "name": "Iesabel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27169265",
+    "update_time": "2025-01-26 13:27:01",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "248711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3877253058318917774",
+                    "size": "2543761650",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5751558582513311142",
+                    "size": "1504200227",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "04c51a085a666fffa9d60cc2cc767b391a6d56f4e56075d8beae8a7abda55c2a"
+        },
+        "248713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6958128003100246150",
+                    "size": "2597665896",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "88227881912505352",
+                    "size": "1518076519",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0693da8b873fd62c7602f16690cde891bce2906e4d7a3d621ec3309ad4b06f7a"
+        },
+        "248712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6393257655333035383",
+                    "size": "2546359973",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6172242166250540029",
+                    "size": "1539996854",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b1b6a0b4cdd9b71a6308deef0f0d2ae6a75b021fd66bb6b8d1dc98d624b29374"
+        },
+        "248714": {
+            "manifests": {
+                "public": {
+                    "gid": "7863171547658164928",
+                    "size": "46820801",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "12bc252543e199025ca230c2659639e2667d53251b90b9e15b56092ac112938c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "260192"
+            },
+            "local": {
+                "buildid": "114265",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
