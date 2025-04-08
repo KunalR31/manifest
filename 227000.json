@@ -1,0 +1,100 @@
+{
+    "appid": "227000",
+    "type": "Game",
+    "name": "Primordia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28226060",
+    "update_time": "2025-03-31 18:21:19",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,italian",
+        "227001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7532971083527994480",
+                    "size": "1395273506",
+                    "download": "1115742512"
+                },
+                "lastprimordiaversion": {
+                    "gid": "535714484852406307",
+                    "size": "1500335446",
+                    "download": "1132264384"
+                }
+            },
+            "decryptionkey": "8c3cc95fb36ea0a5f84bbb69910be9ae6dfc2102ebf8437d1e97d618b2a3152e"
+        },
+        "227002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696810156822067434",
+                    "size": "1404222227",
+                    "download": "1102299312"
+                },
+                "lastprimordiaversion": {
+                    "gid": "1193837025957063489",
+                    "size": "1504873325",
+                    "download": "1098901264"
+                }
+            },
+            "decryptionkey": "7d3c59eee3a7dd3f977ab23b7a7a911775c16b2ce1f3430f9230f3d3aad2d72d"
+        },
+        "227003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "554944726640394624",
+                    "size": "1462002899",
+                    "download": "1115081344"
+                },
+                "lastprimordiaversion": {
+                    "gid": "8966243870555689453",
+                    "size": "1528780624",
+                    "download": "1101854880"
+                }
+            },
+            "decryptionkey": "d0ed11ebfd9609638411b402a7ffc11b51e6d93b675645666304cbf64b15a9fc"
+        },
+        "227007": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7656991305118254214",
+                    "size": "1462976420",
+                    "download": "1114845216"
+                },
+                "lastprimordiaversion": {
+                    "gid": "6822842143009241354",
+                    "size": "1573647624",
+                    "download": "1112911760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17225725",
+                "timeupdated": "1738596629"
+            },
+            "lastprimordiaversion": {
+                "buildid": "9470597",
+                "description": "Primordia prior version",
+                "timeupdated": "1666857953"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
