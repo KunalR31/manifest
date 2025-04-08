@@ -1,0 +1,51 @@
+{
+    "appid": "278890",
+    "type": "Game",
+    "name": "Angvik",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26357815",
+    "update_time": "2024-12-05 03:43:51",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "278891": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1465446714645286853",
+                    "size": "90312363",
+                    "download": "52138752"
+                }
+            },
+            "decryptionkey": "f5de7e793c260bc21a70fcff5ebccbc2d4fa0e6260fc45386505d44bdc59b0e0"
+        },
+        "278892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2593168169213617249",
+                    "size": "106406288",
+                    "download": "54424768"
+                }
+            },
+            "decryptionkey": "9eeff70a3104dca5022369b2891aafab79739f1d55b758cbb30e33ef340cca3b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "440736"
+            }
+        }
+    }
+}
