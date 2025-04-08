@@ -1,0 +1,108 @@
+{
+    "appid": "1881120",
+    "type": "Game",
+    "name": "Titan Station",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27725366",
+    "update_time": "2025-03-01 04:45:35",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1881121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6840668909821245682",
+                    "size": "9156899656",
+                    "download": "8837950896"
+                },
+                "beta": {
+                    "gid": "4403530846129103951",
+                    "size": "5197596226",
+                    "download": "5056153696"
+                },
+                "local": {
+                    "gid": "4403530846129103951",
+                    "size": "5197596226",
+                    "download": "5056153696"
+                },
+                "playtest": {
+                    "gid": "4403530846129103951",
+                    "size": "5197596226",
+                    "download": "5056153696"
+                },
+                "vrbeta": {
+                    "gid": "6840668909821245682",
+                    "size": "9156899656",
+                    "download": "8837950896"
+                }
+            },
+            "decryptionkey": "b4a69ecd0cefbcf11da832190c08ba52706b51f77f6a774fc0a83e4300aa4e74"
+        },
+        "2663810": {
+            "dlcappid": "2663810",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5308636472601567631",
+                    "size": "3046312042",
+                    "download": "2928134496"
+                },
+                "vrbeta": {
+                    "gid": "5308636472601567631",
+                    "size": "3046312042",
+                    "download": "2928134496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14655494",
+                "timeupdated": "1717932482"
+            },
+            "beta": {
+                "buildid": "8143940",
+                "description": "betatest",
+                "lcsrequired": "1",
+                "timeupdated": "1643963040"
+            },
+            "local": {
+                "buildid": "8143940",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1643962920"
+            },
+            "playtest": {
+                "buildid": "8143940",
+                "description": "Playtest",
+                "lcsrequired": "1",
+                "timeupdated": "1643963120"
+            },
+            "vrbeta": {
+                "buildid": "14655494",
+                "description": "Build to test VR",
+                "timeupdated": "1717932463"
+            }
+        }
+    }
+}
