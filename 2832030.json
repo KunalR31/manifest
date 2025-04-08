@@ -1,0 +1,79 @@
+{
+    "appid": "2832030",
+    "type": "Tool",
+    "name": "ANEURISM IV Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28339805",
+    "update_time": "2025-04-07 13:33:35",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "2832031": {
+            "manifests": {
+                "public": {
+                    "gid": "5471414248357178992",
+                    "size": "553188888",
+                    "download": "401481600"
+                },
+                "preview": {
+                    "gid": "7771388674701632377",
+                    "size": "554441975",
+                    "download": "401606160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17914449",
+                "timeupdated": "1743321444"
+            },
+            "preview": {
+                "buildid": "18007121",
+                "description": "Public preview branch",
+                "timeupdated": "1744004011"
+            }
+        }
+    }
+}
