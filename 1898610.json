@@ -1,0 +1,102 @@
+{
+    "appid": "1898610",
+    "type": "Game",
+    "name": "Hands of Necromancy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28082218",
+    "update_time": "2025-03-22 08:19:44",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1898613": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2450236926772853776",
+                    "size": "37998653",
+                    "download": "18408064"
+                },
+                "legacy_saves": {
+                    "gid": "2985913856000404047",
+                    "size": "37886524",
+                    "download": "18372816"
+                }
+            },
+            "decryptionkey": "e00994481ab50802024ad9f4b3981bc33920c354313f08350ca23515c9ef0835"
+        },
+        "1898611": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8179587387291143679",
+                    "size": "75787941",
+                    "download": "29015600"
+                },
+                "legacy_saves": {
+                    "gid": "2229220124581541561",
+                    "size": "87726204",
+                    "download": "32484288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1898612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9167366306503893516",
+                    "size": "115709890",
+                    "download": "40583600"
+                },
+                "legacy_saves": {
+                    "gid": "4648732406034459382",
+                    "size": "120185247",
+                    "download": "41719440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1898614": {
+            "manifests": {
+                "public": {
+                    "gid": "3020843598232769924",
+                    "size": "267087077",
+                    "download": "264286784"
+                },
+                "legacy_saves": {
+                    "gid": "3219577052949151292",
+                    "size": "263833488",
+                    "download": "261128176"
+                }
+            },
+            "decryptionkey": "b4f7feb0481f8df30638d664a2018e08807736082a97e62cfa2a7a4850f528f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17352710",
+                "timeupdated": "1739973865"
+            },
+            "legacy_saves": {
+                "buildid": "15201631",
+                "description": "Branch for the previous build saves compatibility",
+                "timeupdated": "1739978025"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
