@@ -1,0 +1,85 @@
+{
+    "appid": "402390",
+    "type": "Game",
+    "name": "Hyperdrive Massacre",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27084467",
+    "update_time": "2025-01-21 07:53:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "402391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3014977526515043645",
+                    "size": "378006876",
+                    "download": "97234032"
+                },
+                "local": {
+                    "gid": "1319287148331790623",
+                    "size": "2800190692",
+                    "download": "2642091424"
+                }
+            },
+            "decryptionkey": "ed2c1f4161039618572688fd656e77c9811960ab2e43453ce909f1263d9d7af1"
+        },
+        "402392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2519123643606404589",
+                    "size": "382612218",
+                    "download": "99022896"
+                },
+                "local": {
+                    "gid": "2519123643606404589",
+                    "size": "382612218",
+                    "download": "99022896"
+                }
+            },
+            "decryptionkey": "29b0f71c328d59462dbfa71d7314a41505e67e331462bd033d42f493a3fc7e75"
+        },
+        "402393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "70272525162359071",
+                    "size": "403086807",
+                    "download": "106196224"
+                },
+                "local": {
+                    "gid": "70272525162359071",
+                    "size": "403086807",
+                    "download": "106196224"
+                }
+            },
+            "decryptionkey": "7411345aee40fc1fa15c0f6c0184f4f03cb79ee323060f3b786c13e5ca34420a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2825873",
+                "timeupdated": "1530803554"
+            },
+            "local": {
+                "buildid": "1119376",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1462895580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
