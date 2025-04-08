@@ -1,0 +1,115 @@
+{
+    "appid": "388210",
+    "type": "Game",
+    "name": "Day of the Tentacle Remastered",
+    "schinese_name": "疯狂时代重制版",
+    "isfreeapp": "0",
+    "change_number": "27348500",
+    "update_time": "2025-02-07 00:25:35",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "388211": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8150331470367542821",
+                    "size": "2736740372",
+                    "download": "2305261936"
+                },
+                "open_beta": {
+                    "gid": "8150331470367542821",
+                    "size": "2736740372",
+                    "download": "2305261936"
+                }
+            },
+            "decryptionkey": "5d7d18fd5916bddba2e9340b05c731f4b0f33de544c10fb6bd189e4818a5338d"
+        },
+        "388212": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3298751354544021668",
+                    "size": "2741178797",
+                    "download": "2306377168"
+                },
+                "open_beta": {
+                    "gid": "3298751354544021668",
+                    "size": "2741178797",
+                    "download": "2306377168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "388214": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2376453229416774441",
+                    "size": "2736865590",
+                    "download": "2306145520"
+                },
+                "open_beta": {
+                    "gid": "2376453229416774441",
+                    "size": "2736865590",
+                    "download": "2306145520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "388213": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7983847359504027419",
+                    "size": "2740940218",
+                    "download": "2306880272"
+                },
+                "open_beta": {
+                    "gid": "7983847359504027419",
+                    "size": "2740940218",
+                    "download": "2306880272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6047174",
+                "timeupdated": "1612767274"
+            },
+            "open_beta": {
+                "buildid": "6047174",
+                "description": "Public beta branch",
+                "timeupdated": "1610141816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
