@@ -1,0 +1,55 @@
+{
+    "appid": "207100",
+    "type": "Demo",
+    "name": "Castle Crashers Demo",
+    "schinese_name": "城堡破坏者 试玩版",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-16 22:05:00",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "207101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2964815665658602170",
+                    "size": "75167733",
+                    "download": "50234128"
+                }
+            },
+            "decryptionkey": "929286cd335a46bf59eaea2a3cb7dceb4455a1f3910e8538680407e55ff3cad7"
+        },
+        "207102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3328975304925231194",
+                    "size": "261630139",
+                    "download": "207179344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "15019474",
+                "timeupdated": "1722442970"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
