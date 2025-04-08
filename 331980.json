@@ -1,0 +1,81 @@
+{
+    "appid": "331980",
+    "type": "Game",
+    "name": "Last Inua",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28170721",
+    "update_time": "2025-03-27 21:30:27",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "331981": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6081597042723948040",
+                    "size": "662555464",
+                    "download": "13425420928"
+                },
+                "developmentbranch": {
+                    "gid": "5373356379090466753",
+                    "size": "662554639",
+                    "download": "34501081304"
+                }
+            },
+            "decryptionkey": "0afdeabcb6ef1133d24e46f8dbe0ceedf4ddf9362b8f14e55c2eefc3ffed2cf8"
+        },
+        "331982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4662230443712688002",
+                    "size": "640873464",
+                    "download": "16394790080"
+                },
+                "developmentbranch": {
+                    "gid": "3957214154514823661",
+                    "size": "640872111",
+                    "download": "32396649232"
+                }
+            },
+            "decryptionkey": "19ada600f2a86b699909049ab7dcc33a6a891169caebffcfc53813c0cf486680"
+        },
+        "331983": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8559891468935779821",
+                    "size": "645270890",
+                    "download": "16501895800"
+                },
+                "developmentbranch": {
+                    "gid": "1620963737606761614",
+                    "size": "645269537",
+                    "download": "32277469416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "476038"
+            },
+            "developmentbranch": {
+                "buildid": "468674"
+            }
+        }
+    }
+}
