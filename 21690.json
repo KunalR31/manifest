@@ -1,0 +1,87 @@
+{
+    "appid": "21690",
+    "type": "Game",
+    "name": "Resident Evil 5",
+    "schinese_name": "生化危机5",
+    "isfreeapp": "0",
+    "change_number": "27522497",
+    "update_time": "2025-02-18 04:12:48",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "21692": {
+            "manifests": {
+                "public": {
+                    "gid": "8019335905957731486",
+                    "size": "9039902756",
+                    "download": "7703584752"
+                }
+            },
+            "decryptionkey": "556f26dec9fcd54f1ecb0f2af6b1259a325a3eed959c0b242c83fa176c74971d"
+        },
+        "352000": {
+            "dlcappid": "352000",
+            "manifests": {
+                "public": {
+                    "gid": "455789278129163691",
+                    "size": "5384",
+                    "download": "928"
+                }
+            },
+            "decryptionkey": "dba46409b51f3da1c7669a74a091ce7725eb5969705192edbb9ba3f9abd096d3"
+        },
+        "352001": {
+            "dlcappid": "352001",
+            "manifests": {
+                "public": {
+                    "gid": "157854607758045553",
+                    "size": "5384",
+                    "download": "928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "21691": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2911490666295175655",
+                    "size": "5384",
+                    "download": "1616"
+                }
+            },
+            "decryptionkey": "b3ad2af3d25d179accc032ae7853c6f8a916bba21b5f0be9f11f22f0938110a4"
+        },
+        "21693": {
+            "manifests": {
+                "public": {
+                    "gid": "3603548504038570692",
+                    "size": "112321519",
+                    "download": "88546480"
+                }
+            },
+            "decryptionkey": "a07f44cc54133c4921ca14f7014ea4a5fd0aa0dbc36d13f3d7abe5f3be00c564"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11465250",
+                "timeupdated": "1691384947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
