@@ -1,0 +1,66 @@
+{
+    "appid": "234820",
+    "type": "Application",
+    "name": "Driver Fusion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27145947",
+    "update_time": "2025-01-24 17:03:59",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "234821": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "145865111013195724",
+                    "size": "51263839",
+                    "download": "16168032"
+                },
+                "v11.1.0.0": {
+                    "gid": "3681167002677853610",
+                    "size": "57026310",
+                    "download": "18448560"
+                },
+                "v11.2.0.0": {
+                    "gid": "6189447577996973208",
+                    "size": "57240326",
+                    "download": "17033888"
+                },
+                "v12.0.0.0": {
+                    "gid": "6846252428059268216",
+                    "size": "50592743",
+                    "download": "15997536"
+                }
+            },
+            "decryptionkey": "a89074202c42f17c5a74caa7683082d9b5649ce0cb16e194594a43ef599c6b84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17076976",
+                "timeupdated": "1737460258"
+            },
+            "v11.1.0.0": {
+                "buildid": "12850890",
+                "description": "11.1",
+                "timeupdated": "1714034738"
+            },
+            "v11.2.0.0": {
+                "buildid": "14230806",
+                "description": "11.2",
+                "timeupdated": "1725526563"
+            },
+            "v12.0.0.0": {
+                "buildid": "16106388",
+                "description": "12.0",
+                "timeupdated": "1737034534"
+            }
+        }
+    }
+}
