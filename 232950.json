@@ -1,0 +1,106 @@
+{
+    "appid": "232950",
+    "type": "Game",
+    "name": "Bridge Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 05:21:44",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,brazilian",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "232954": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8023858929821230220",
+                    "size": "1398671168",
+                    "download": "0"
+                },
+                "beta_bridge": {
+                    "gid": "8023858929821230220",
+                    "size": "1398671168",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "232951": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7302655242693195370",
+                    "size": "1398427584",
+                    "download": "0"
+                },
+                "beta_bridge": {
+                    "gid": "7302655242693195370",
+                    "size": "1398427584",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "99de0bebf124a1cd0d8c12472bcc0b9154d5f40df268ce7d3eae02c2910eb9c0"
+        },
+        "232952": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5030705341791908759",
+                    "size": "1309827065",
+                    "download": "1569896725642"
+                },
+                "beta_bridge": {
+                    "gid": "7963539966627550841",
+                    "size": "1414596983",
+                    "download": "2557666101931"
+                }
+            },
+            "decryptionkey": "6298e61dce58bb00c1300d1a52b378a8b3904b59574fffded3b18e9cb07e37c1"
+        },
+        "232953": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6847338792248629973",
+                    "size": "1402976564",
+                    "download": "0"
+                },
+                "beta_bridge": {
+                    "gid": "6847338792248629973",
+                    "size": "1402976564",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2fc156ad9471a98cb137d9d6fe327949c3881fb11d362286b681226bfcef1606"
+        },
+        "branches": {
+            "public": {
+                "buildid": "372509"
+            },
+            "beta_bridge": {
+                "buildid": "349753",
+                "description": "Beta test Bridge project"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
