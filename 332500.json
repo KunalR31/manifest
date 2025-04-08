@@ -1,0 +1,64 @@
+{
+    "appid": "332500",
+    "type": "Game",
+    "name": "GRAV",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27162864",
+    "update_time": "2025-01-25 19:25:13",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "332501": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7061587480614612855",
+                    "size": "4349677776",
+                    "download": "3238659248"
+                },
+                "local": {
+                    "gid": "4435785669666865621",
+                    "size": "4349677774",
+                    "download": "3238659248"
+                }
+            },
+            "decryptionkey": "caa20c300a8597f958fbbb68994a489bdffd1092abaa4e71ab6ad6cc91cad3aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1763174",
+                "timeupdated": "1492452617"
+            },
+            "local": {
+                "buildid": "1709022",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1490232533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
