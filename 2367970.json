@@ -1,0 +1,59 @@
+{
+    "appid": "2367970",
+    "type": "Application",
+    "name": "Crosshair Genie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25273194",
+    "update_time": "2024-09-18 13:15:56",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2367971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8803546907316476395",
+                    "size": "4847931",
+                    "download": "1804912"
+                },
+                "dispatcher-test": {
+                    "gid": "4380253302908590921",
+                    "size": "5200784",
+                    "download": "1891248"
+                },
+                "experimental": {
+                    "gid": "7197590106798851090",
+                    "size": "4835131",
+                    "download": "1800880"
+                }
+            },
+            "decryptionkey": "965585ad08379857c076fb30b92581bb54d42c39e8daf8ea2df1c65bfedee976"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "12674575",
+                "timeupdated": "1699646546"
+            },
+            "dispatcher-test": {
+                "buildid": "13190646",
+                "description": "Tests for fixing the dispatcher randomly terminating client window",
+                "timeupdated": "1705453038"
+            },
+            "experimental": {
+                "buildid": "12674579",
+                "description": "Public experimental branch",
+                "timeupdated": "1699646562"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
