@@ -1,0 +1,86 @@
+{
+    "appid": "380930",
+    "type": "Demo",
+    "name": "Train Valley Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:43:58",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,czech,brazilian",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "380931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2791017814547805049",
+                    "size": "196387219",
+                    "download": "72781184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "380932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1956206768377476201",
+                    "size": "200707707",
+                    "download": "74135584"
+                }
+            },
+            "decryptionkey": "76faca7e7230791bc7bdfbef9de1c250259dd4fa3af1cdb8cff8595086454b19"
+        },
+        "380933": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6479829184221791154",
+                    "size": "242143923",
+                    "download": "85222592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "380934": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6769066661569085346",
+                    "size": "234137065",
+                    "download": "84087952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1060092",
+                "timeupdated": "1459948726"
+            }
+        }
+    }
+}
