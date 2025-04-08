@@ -1,0 +1,67 @@
+{
+    "appid": "223810",
+    "type": "Game",
+    "name": "Ys I",
+    "schinese_name": "伊苏1&2编年史+",
+    "isfreeapp": "0",
+    "change_number": "28221192",
+    "update_time": "2025-03-31 10:50:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "223811": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5263943299446780124",
+                    "size": "709620413",
+                    "download": "584396048"
+                },
+                "2018-05-30": {
+                    "gid": "3852468455455778983",
+                    "size": "709720821",
+                    "download": "584459200"
+                },
+                "2020-08-10": {
+                    "gid": "4081057876324934399",
+                    "size": "709721845",
+                    "download": "584459904"
+                }
+            },
+            "decryptionkey": "8cae9dc48566afcdfc0650c0eb761d060215cbf6af2d1c69e9a530d4b9e2fdab"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "7966314",
+                "timeupdated": "1641249561"
+            },
+            "2018-05-30": {
+                "buildid": "2820805",
+                "description": "May 30th, 2018 version",
+                "timeupdated": "1597050936"
+            },
+            "2020-08-10": {
+                "buildid": "5392158",
+                "description": "August 10th, 2020 version",
+                "timeupdated": "1641249362"
+            }
+        }
+    }
+}
