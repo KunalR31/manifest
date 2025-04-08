@@ -1,0 +1,84 @@
+{
+    "appid": "15320",
+    "type": "Game",
+    "name": "IL-2 Sturmovik: 1946",
+    "schinese_name": "伊尔2捍卫雄鹰：1946",
+    "isfreeapp": "0",
+    "change_number": "27274535",
+    "update_time": "2025-02-02 13:11:29",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "15321": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6326519142567601287",
+                    "size": "8425800326",
+                    "download": "6779368816"
+                },
+                "4_12_2": {
+                    "gid": "7096212016992312610",
+                    "size": "7170708500",
+                    "download": "5715442912"
+                },
+                "old_version": {
+                    "gid": "2694238369344026944",
+                    "size": "7171269337",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6531d3a11c55db1c7b0cec3247f98052192c83fd94a40c2fdaaff0505657f21e"
+        },
+        "15322": {
+            "shareddepottype": "0",
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6129742325214271714",
+                    "size": "627425516",
+                    "download": "619434416"
+                },
+                "4_12_2": {
+                    "gid": "2701580607295623887",
+                    "size": "617966213",
+                    "download": "610916288"
+                },
+                "old_version": {
+                    "gid": "2701580607295623887",
+                    "size": "617966213",
+                    "download": "610916288"
+                }
+            },
+            "decryptionkey": "ebde747d47d1ea0a21f2cddda8e8fb79b7cfa1a76eb430626d5536b148e9afa7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2692945",
+                "timeupdated": "1525341257"
+            },
+            "4_12_2": {
+                "buildid": "516528",
+                "description": "Version 4.12.2",
+                "timeupdated": "1525341234"
+            },
+            "old_version": {
+                "buildid": "516563"
+            }
+        }
+    }
+}
