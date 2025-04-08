@@ -1,0 +1,121 @@
+{
+    "appid": "401710",
+    "type": "Game",
+    "name": "Flinthook",
+    "schinese_name": "燧石之钩",
+    "isfreeapp": "0",
+    "change_number": "26111876",
+    "update_time": "2024-11-09 01:03:00",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "401711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "114977123182346920",
+                    "size": "167532457",
+                    "download": "110223712"
+                },
+                "linux32": {
+                    "gid": "7354676415939285289",
+                    "size": "162189066",
+                    "download": "109636000"
+                }
+            },
+            "decryptionkey": "db930d487cb7e59bfba46fa92912cacadca15c41201ed079d9fa85a9131fc7b4"
+        },
+        "401712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "384737786616548689",
+                    "size": "187353149",
+                    "download": "116911648"
+                },
+                "linux32": {
+                    "gid": "7952294633020147621",
+                    "size": "215189438",
+                    "download": "124712640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "401713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1981495227245219764",
+                    "size": "199866906",
+                    "download": "119937488"
+                },
+                "linux32": {
+                    "gid": "3397798940263191461",
+                    "size": "188575869",
+                    "download": "117082816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "401714": {
+            "dlcappid": "616530",
+            "manifests": {
+                "public": {
+                    "gid": "5067616864759173833",
+                    "size": "218284679",
+                    "download": "215961840"
+                },
+                "linux32": {
+                    "gid": "5067616864759173833",
+                    "size": "218284679",
+                    "download": "215961840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14209232",
+                "timeupdated": "1714397732"
+            },
+            "linux32": {
+                "buildid": "2756155",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609456719"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
