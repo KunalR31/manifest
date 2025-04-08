@@ -1,0 +1,48 @@
+{
+    "appid": "273500",
+    "type": "Game",
+    "name": "Over 9000 Zombies!",
+    "schinese_name": "超过9000僵尸",
+    "isfreeapp": "0",
+    "change_number": "27156010",
+    "update_time": "2025-01-25 04:26:07",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish,brazilian",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "273501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3314854416181303392",
+                    "size": "68734663",
+                    "download": "34316480"
+                }
+            },
+            "decryptionkey": "b4e95d800154878474d234b8f23ba370cec7bf6752caf6032f6c54a5ecfa3eef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "618131"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
