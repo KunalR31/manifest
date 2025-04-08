@@ -1,0 +1,67 @@
+{
+    "appid": "637050",
+    "type": "Game",
+    "name": "Spire of Sorcery",
+    "schinese_name": "魔法尖塔",
+    "isfreeapp": "0",
+    "change_number": "27199449",
+    "update_time": "2025-01-28 19:18:43",
+    "depot": {
+        "637051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2615336886235463107",
+                    "size": "2339948781",
+                    "download": "787601776"
+                },
+                "beta": {
+                    "gid": "2615336886235463107",
+                    "size": "2339948781",
+                    "download": "787601776"
+                },
+                "experimental": {
+                    "gid": "3349252279379756327",
+                    "size": "2354796019",
+                    "download": "788218896"
+                },
+                "v203": {
+                    "gid": "970098476043539601",
+                    "size": "5519653219",
+                    "download": "902181568"
+                }
+            },
+            "decryptionkey": "a4b62b338d0017fe1b08d003de4ac2a73ace00d7a64b5041c908626f10cecd1c"
+        },
+        "637052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "8677701",
+                "timeupdated": "1651754820"
+            },
+            "beta": {
+                "buildid": "8677701",
+                "description": "public beta builds",
+                "timeupdated": "1651754813"
+            },
+            "experimental": {
+                "buildid": "8780693",
+                "description": "experimental versions",
+                "timeupdated": "1653116013"
+            },
+            "v203": {
+                "buildid": "7783318",
+                "description": "v203",
+                "timeupdated": "1640268789"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
