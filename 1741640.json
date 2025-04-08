@@ -1,0 +1,99 @@
+{
+    "appid": "1741640",
+    "type": "Game",
+    "name": "Shadows of Forbidden Gods",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27867682",
+    "update_time": "2025-03-10 16:49:50",
+    "depot": {
+        "workshopdepot": "1741640",
+        "1741641": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "516369656616128994",
+                    "size": "687209948",
+                    "download": "303776112"
+                },
+                "betabranch": {
+                    "gid": "516369656616128994",
+                    "size": "687209948",
+                    "download": "303776112"
+                },
+                "betabranch-prevver": {
+                    "gid": "516369656616128994",
+                    "size": "687209948",
+                    "download": "303776112"
+                },
+                "demo_compatibility": {
+                    "gid": "1365468640453034663",
+                    "size": "584944792",
+                    "download": "207360512"
+                },
+                "previous_version": {
+                    "gid": "3149929258219990243",
+                    "size": "671476339",
+                    "download": "301415008"
+                }
+            },
+            "decryptionkey": "37375cfe796e7fcb91c3cff89c4a3f46249b9e1e111f1c6292dd75650f225cb8"
+        },
+        "2855250": {
+            "dlcappid": "2855250",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6567778624694305925",
+                    "size": "1399845141",
+                    "download": "341028144"
+                },
+                "betabranch": {
+                    "gid": "6567778624694305925",
+                    "size": "1399845141",
+                    "download": "341028144"
+                },
+                "betabranch-prevver": {
+                    "gid": "6567778624694305925",
+                    "size": "1399845141",
+                    "download": "341028144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14088798",
+                "timeupdated": "1713393997"
+            },
+            "betabranch": {
+                "buildid": "14088798",
+                "description": "Testing Branch for upcoming, currently unstable, features",
+                "timeupdated": "1713393952"
+            },
+            "betabranch-prevver": {
+                "buildid": "14088798",
+                "description": "Previous Version of the Beta Branch",
+                "timeupdated": "1713393960"
+            },
+            "demo_compatibility": {
+                "buildid": "9341569",
+                "description": "A branch for continuing saves from the demo",
+                "timeupdated": "1671593054"
+            },
+            "previous_version": {
+                "buildid": "11738896",
+                "description": "Old version for save compatibility",
+                "timeupdated": "1695672792"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2acd35cccc0891f87b052b6807b5eb7c1f16ad7f0907f043cccea48939a508c8"
+    }
+}
