@@ -1,0 +1,66 @@
+{
+    "appid": "1220150",
+    "type": "Game",
+    "name": "Blue Fire",
+    "schinese_name": "蓝火",
+    "isfreeapp": "0",
+    "change_number": "26906182",
+    "update_time": "2025-01-08 18:17:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1220151": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6718638963836157489",
+                    "size": "7201934382",
+                    "download": "3170221936"
+                },
+                "3.1.0": {
+                    "gid": "4110290451272380819",
+                    "size": "4956398967",
+                    "download": "2238778032"
+                },
+                "3.1.1": {
+                    "gid": "7086427512132646940",
+                    "size": "4957533787",
+                    "download": "2239053584"
+                }
+            },
+            "decryptionkey": "a2192e5a6b5ef59eccd27dbc9d92eb107fc920b831b4eb377b7c458d3523063e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9611247",
+                "timeupdated": "1664805812"
+            },
+            "3.1.0": {
+                "buildid": "6236624",
+                "description": "3.1.0 for SpeedRuns",
+                "timeupdated": "1614886590"
+            },
+            "3.1.1": {
+                "buildid": "6260867",
+                "description": "3.1.1 for SpeedRuns",
+                "timeupdated": "1614955433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
