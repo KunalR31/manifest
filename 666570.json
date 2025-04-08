@@ -1,0 +1,80 @@
+{
+    "appid": "666570",
+    "type": "Game",
+    "name": "Infectonator 3: Apocalypse",
+    "schinese_name": "传染恐慌3：启示录",
+    "isfreeapp": "0",
+    "change_number": "28093155",
+    "update_time": "2025-03-23 12:14:15",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "666571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8808412321471075087",
+                    "size": "264587763",
+                    "download": "105340672"
+                },
+                "public-testing": {
+                    "gid": "8808412321471075087",
+                    "size": "264587763",
+                    "download": "105340672"
+                }
+            },
+            "decryptionkey": "2d0d56b2454537a965535b695301a39b480b8bd5a39e289158a7447dc506f054"
+        },
+        "666572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7027413966533886599",
+                    "size": "365227827",
+                    "download": "118362480"
+                },
+                "public-testing": {
+                    "gid": "7027413966533886599",
+                    "size": "365227827",
+                    "download": "118362480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3970375",
+                "timeupdated": "1561982060"
+            },
+            "public-testing": {
+                "buildid": "3970375",
+                "description": "beta branch that is visible to public",
+                "timeupdated": "1561980261"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
