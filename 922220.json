@@ -1,0 +1,115 @@
+{
+    "appid": "922220",
+    "type": "Game",
+    "name": "Khospis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26349723",
+    "update_time": "2024-12-05 03:09:30",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "922221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7503943389716325510",
+                    "size": "2011346512",
+                    "download": "799886144"
+                },
+                "linux": {
+                    "gid": "906435365956328044",
+                    "size": "2010894428",
+                    "download": "798298832"
+                },
+                "macs": {
+                    "gid": "906435365956328044",
+                    "size": "2010894428",
+                    "download": "798298832"
+                },
+                "windons32": {
+                    "gid": "906435365956328044",
+                    "size": "2010894428",
+                    "download": "798298832"
+                }
+            },
+            "decryptionkey": "6c04bcd66cff46adace8849ffd4fd5568855c6e07852c2f5337ba26f4990712b"
+        },
+        "922224": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8712057068704682442",
+                    "size": "2080622855",
+                    "download": "822594368"
+                },
+                "macs": {
+                    "gid": "4907431765007377371",
+                    "size": "1883429593",
+                    "download": "731193536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "922222": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "windons32": {
+                    "gid": "3023908530624581374",
+                    "size": "2005769296",
+                    "download": "797983648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "922223": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "3418270963403307536",
+                    "size": "2068847618",
+                    "download": "833259808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3479941",
+                "timeupdated": "1547784103"
+            },
+            "linux": {
+                "buildid": "3482353",
+                "description": "Linux All",
+                "timeupdated": "1547838983"
+            },
+            "macs": {
+                "buildid": "3480228",
+                "description": "Khopis For Macs",
+                "timeupdated": "1547794561"
+            },
+            "windons32": {
+                "buildid": "3479980",
+                "description": "Khospis For 32",
+                "timeupdated": "1547785093"
+            }
+        }
+    }
+}
