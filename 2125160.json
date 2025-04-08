@@ -1,0 +1,75 @@
+{
+    "appid": "2125160",
+    "type": "Game",
+    "name": "Prison Life 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28216886",
+    "update_time": "2025-03-31 01:51:47",
+    "depot": {
+        "workshopdepot": "2125160",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2125161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2819077404302070538",
+                    "size": "8785487639",
+                    "download": "5062088752"
+                }
+            },
+            "decryptionkey": "245bc07100842ee5b556c9e2fdc15a5440537c3222d28f5bde555562eab65aa5"
+        },
+        "2125162": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8986928349795727949",
+                    "size": "6862778515",
+                    "download": "3412761312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2125163": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6827304253996897285",
+                    "size": "8945188104",
+                    "download": "5160227456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16856419",
+                "timeupdated": "1735305264"
+            }
+        },
+        "workshopdepotdecryptionkey": "6363a29c93e52707b07d48d751bf3c16c3a5656ce77a82aa1af14983ab6765c2"
+    }
+}
