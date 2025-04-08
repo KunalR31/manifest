@@ -1,0 +1,163 @@
+{
+    "appid": "386940",
+    "type": "Game",
+    "name": "Ultimate Chicken Horse",
+    "schinese_name": "超级鸡马",
+    "isfreeapp": "0",
+    "change_number": "27105101",
+    "update_time": "2025-01-22 11:26:30",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "386941": {
+            "manifests": {
+                "public": {
+                    "gid": "819494070590847490",
+                    "size": "6",
+                    "download": "64"
+                },
+                "mac_input_fix": {
+                    "gid": "819494070590847490",
+                    "size": "6",
+                    "download": "64"
+                },
+                "online-fixes": {
+                    "gid": "819494070590847490",
+                    "size": "6",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "468fd966fb446f6751ea67a25687b0e423fea61638f6b942a41ed6f8eb7f073a"
+        },
+        "386942": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2656345245742222625",
+                    "size": "2183943282",
+                    "download": "726317760"
+                },
+                "mac_input_fix": {
+                    "gid": "1915804465260713798",
+                    "size": "1871359269",
+                    "download": "613374816"
+                },
+                "online-fixes": {
+                    "gid": "4426958378491955095",
+                    "size": "2183893602",
+                    "download": "726323072"
+                }
+            },
+            "decryptionkey": "6050a40c785f778d78655ff43408f770ba44ed0f0b066bc88591e84746c3820e"
+        },
+        "386943": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2694079455800725996",
+                    "size": "2221932719",
+                    "download": "734872656"
+                },
+                "mac_input_fix": {
+                    "gid": "7236606332684062450",
+                    "size": "1908919570",
+                    "download": "621900160"
+                },
+                "online-fixes": {
+                    "gid": "2298774592664681860",
+                    "size": "2221883039",
+                    "download": "734871024"
+                }
+            },
+            "decryptionkey": "eda580fb43750c674790357a3d78df444c272da9003b5a6638e44a102a8b3b63"
+        },
+        "386944": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5019882789656582233",
+                    "size": "2225525191",
+                    "download": "726347616"
+                },
+                "mac_input_fix": {
+                    "gid": "2009889448868600724",
+                    "size": "1912530363",
+                    "download": "613382560"
+                },
+                "online-fixes": {
+                    "gid": "2778063160963917943",
+                    "size": "2225475511",
+                    "download": "726345520"
+                }
+            },
+            "decryptionkey": "7e59c8157c276f6ef0cbccb7ba16cad1cbe5d0a40e8938aec309c71b07715321"
+        },
+        "386945": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "890477716665417980",
+                    "size": "2174850410",
+                    "download": "723553424"
+                },
+                "mac_input_fix": {
+                    "gid": "2715595792265521018",
+                    "size": "1862266397",
+                    "download": "610607952"
+                },
+                "online-fixes": {
+                    "gid": "2808105220566564620",
+                    "size": "2174800730",
+                    "download": "723553104"
+                }
+            },
+            "decryptionkey": "836fe7f1c616c04e425ce816245609bfb5cbe8ea683172027557902b9e0ddbcb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15129211",
+                "timeupdated": "1721936432"
+            },
+            "mac_input_fix": {
+                "buildid": "12702231",
+                "description": "Test fix for the mac controllers",
+                "timeupdated": "1699990508"
+            },
+            "online-fixes": {
+                "buildid": "14536422",
+                "description": "Branch for testing online fixes",
+                "timeupdated": "1717002431"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
