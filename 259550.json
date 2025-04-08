@@ -1,0 +1,102 @@
+{
+    "appid": "259550",
+    "type": "Game",
+    "name": "Hero of the Kingdom",
+    "schinese_name": "王国英雄",
+    "isfreeapp": "0",
+    "change_number": "27719897",
+    "update_time": "2025-02-28 23:17:39",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,danish,dutch,hungarian,czech,turkish,brazilian,ukrainian",
+        "259551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows,linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8934690533475673066",
+                    "size": "340330649",
+                    "download": "203789712"
+                },
+                "legacy": {
+                    "gid": "5324555284706459972",
+                    "size": "327918088",
+                    "download": "200931792"
+                }
+            },
+            "decryptionkey": "31110b860af7cc31944bf178cc08270666a0bf070919feb247094ebe94b2b81b"
+        },
+        "259552": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1520459277225542207",
+                    "size": "2667408",
+                    "download": "762032"
+                },
+                "legacy": {
+                    "gid": "7002421986854516785",
+                    "size": "2448960",
+                    "download": "939632"
+                }
+            },
+            "decryptionkey": "409e698813c8381e0faf7875df9f451694307b0a2e99e341aaee89a4a89bc035"
+        },
+        "259553": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4939275580704006786",
+                    "size": "359276782",
+                    "download": "200995024"
+                },
+                "legacy": {
+                    "gid": "7771276110293802681",
+                    "size": "331828596",
+                    "download": "195708832"
+                }
+            },
+            "decryptionkey": "d8f627bc12fc251fc06b2ee8c979c1982f8e5aed2a48e8378aa8684d7df99c95"
+        },
+        "259554": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7528242167493183496",
+                    "size": "1646065",
+                    "download": "531872"
+                },
+                "legacy": {
+                    "gid": "6548517632641072241",
+                    "size": "1440002",
+                    "download": "462608"
+                }
+            },
+            "decryptionkey": "24e1b7ce66f9615c0928aaf32c9981ea98ded81b1d66e83cc39b44b1f90aa424"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17548854",
+                "timeupdated": "1740755855"
+            },
+            "legacy": {
+                "buildid": "5448023",
+                "description": "The legacy version of the game.",
+                "timeupdated": "1713445766"
+            }
+        }
+    }
+}
