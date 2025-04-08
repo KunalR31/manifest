@@ -1,0 +1,170 @@
+{
+    "appid": "543260",
+    "type": "Game",
+    "name": "Wonder Boy: The Dragon's Trap",
+    "schinese_name": "神奇小子：龙之陷阱",
+    "isfreeapp": "0",
+    "change_number": "27345395",
+    "update_time": "2025-02-06 21:24:09",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,brazilian",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "543261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3274044032442995862",
+                    "size": "1080394705",
+                    "download": "947968896"
+                },
+                "beta": {
+                    "gid": "5860821971783194621",
+                    "size": "1067438169",
+                    "download": "944432384"
+                },
+                "beta_linux": {
+                    "gid": "3274044032442995862",
+                    "size": "1080394705",
+                    "download": "947968896"
+                },
+                "beta_opengl": {
+                    "gid": "845669656352704808",
+                    "size": "1074373385",
+                    "download": "947099888"
+                },
+                "beta_save_to_appdata": {
+                    "gid": "5587740063634129725",
+                    "size": "1034402936",
+                    "download": "942803376"
+                },
+                "linux32": {
+                    "gid": "3274044032442995862",
+                    "size": "1080394705",
+                    "download": "947968896"
+                }
+            },
+            "decryptionkey": "8be7d52c9a7bf3194f869abb115ae09f54626a3b66ec8a241a2cf74a7efb154f"
+        },
+        "543262": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5905071087488895056",
+                    "size": "1034985480",
+                    "download": "942756880"
+                },
+                "beta": {
+                    "gid": "5905071087488895056",
+                    "size": "1034985480",
+                    "download": "942756880"
+                },
+                "beta_linux": {
+                    "gid": "5958646196398646538",
+                    "size": "1061744584",
+                    "download": "941985104"
+                },
+                "beta_opengl": {
+                    "gid": "5905071087488895056",
+                    "size": "1034985480",
+                    "download": "942756880"
+                },
+                "beta_save_to_appdata": {
+                    "gid": "4759704514585555944",
+                    "size": "1034396504",
+                    "download": "942640976"
+                },
+                "linux32": {
+                    "gid": "5905071087488895056",
+                    "size": "1034985480",
+                    "download": "942756880"
+                }
+            },
+            "decryptionkey": "beb8f036efa9a1c124619b6dba8c790b2786e6e79d0ef519fa8dc294ab457558"
+        },
+        "543263": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3684180650374126441",
+                    "size": "1032390009",
+                    "download": "943558992"
+                },
+                "beta": {
+                    "gid": "3684180650374126441",
+                    "size": "1032390009",
+                    "download": "943558992"
+                },
+                "beta_linux": {
+                    "gid": "3684180650374126441",
+                    "size": "1032390009",
+                    "download": "943558992"
+                },
+                "beta_opengl": {
+                    "gid": "3684180650374126441",
+                    "size": "1032390009",
+                    "download": "943558992"
+                },
+                "beta_save_to_appdata": {
+                    "gid": "8656549614852580892",
+                    "size": "1031643517",
+                    "download": "943360992"
+                },
+                "linux32": {
+                    "gid": "3684180650374126441",
+                    "size": "1032390009",
+                    "download": "943558992"
+                }
+            },
+            "decryptionkey": "d6402d545e59f3d1a085f4f560829abc548f99ec853fef2334907b6f644e8828"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4612784",
+                "timeupdated": "1580150125"
+            },
+            "beta": {
+                "buildid": "3437763",
+                "description": "Beta branch",
+                "timeupdated": "1546426176"
+            },
+            "beta_linux": {
+                "buildid": "13053619",
+                "description": "Linux Maintenance Testing",
+                "timeupdated": "1703711182"
+            },
+            "beta_opengl": {
+                "buildid": "3440255",
+                "timeupdated": "1546517381"
+            },
+            "beta_save_to_appdata": {
+                "buildid": "2493874",
+                "timeupdated": "1517615502"
+            },
+            "linux32": {
+                "buildid": "4612784",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1703711515"
+            }
+        }
+    }
+}
