@@ -1,0 +1,117 @@
+{
+    "appid": "1998610",
+    "type": "Tool",
+    "name": "Temp Dedicated",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27046731",
+    "update_time": "2025-01-18 01:39:45",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "1998611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1640196035815784840",
+                    "size": "32458327",
+                    "download": "32902480"
+                },
+                "staging": {
+                    "gid": "591128272413131190",
+                    "size": "56425824",
+                    "download": "57197728"
+                },
+                "release": {
+                    "gid": "1640196035815784840",
+                    "size": "32458327",
+                    "download": "32902480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1998612": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "327222170851835720",
+                    "size": "155290755",
+                    "download": "43690768"
+                },
+                "staging": {
+                    "gid": "5040164320037620480",
+                    "size": "157642084",
+                    "download": "45583184"
+                },
+                "release": {
+                    "gid": "327222170851835720",
+                    "size": "155290755",
+                    "download": "43690768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16768863",
+                "timeupdated": "1734413353"
+            },
+            "staging": {
+                "buildid": "17043267",
+                "description": "pre-release",
+                "timeupdated": "1737135578"
+            },
+            "release": {
+                "buildid": "16768863",
+                "description": "pre-public",
+                "timeupdated": "1734413306"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
