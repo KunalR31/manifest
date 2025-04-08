@@ -1,0 +1,59 @@
+{
+    "appid": "2678340",
+    "type": "Demo",
+    "name": "GUNRUN Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:46:50",
+    "depot": {
+        "2678341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7542672094559304460",
+                    "size": "6337269",
+                    "download": "2797568"
+                },
+                "nightly": {
+                    "gid": "7542672094559304460",
+                    "size": "6337269",
+                    "download": "2797568"
+                }
+            },
+            "decryptionkey": "d9552fa59105b679e985c76d416ae9e0f45a0e232ffb20b483689bc23504e55a"
+        },
+        "2678342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6412458885472914042",
+                    "size": "14936044",
+                    "download": "3601856"
+                },
+                "nightly": {
+                    "gid": "6412458885472914042",
+                    "size": "14936044",
+                    "download": "3601856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13367422",
+                "timeupdated": "1707126679"
+            },
+            "nightly": {
+                "buildid": "13367422",
+                "description": "Most recent version.",
+                "timeupdated": "1707125717"
+            }
+        }
+    }
+}
