@@ -1,0 +1,88 @@
+{
+    "appid": "231200",
+    "type": "Game",
+    "name": "Kentucky Route Zero",
+    "schinese_name": "肯塔基零号国道：电脑版",
+    "isfreeapp": "0",
+    "change_number": "27142964",
+    "update_time": "2025-01-24 12:24:31",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "231203": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4423469540433988208",
+                    "size": "2272297002",
+                    "download": "1576518528"
+                },
+                "testing-public": {
+                    "gid": "6192480197298512618",
+                    "size": "2022953400",
+                    "download": "1468445936"
+                }
+            },
+            "decryptionkey": "828bdc92db9b07fd9ded2bc02e1c73e5e64020e213935474927fcb790aa609c7"
+        },
+        "231204": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1752996963759455817",
+                    "size": "2459821303",
+                    "download": "1613870352"
+                },
+                "testing-public": {
+                    "gid": "8621228892336678404",
+                    "size": "2192006728",
+                    "download": "1502213552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "231205": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7815316056948468833",
+                    "size": "2953207350",
+                    "download": "1586160880"
+                },
+                "testing-public": {
+                    "gid": "1491132254105015723",
+                    "size": "2045481980",
+                    "download": "1473326560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15522953",
+                "timeupdated": "1724875822"
+            },
+            "testing-public": {
+                "buildid": "12053059",
+                "timeupdated": "1693257182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
