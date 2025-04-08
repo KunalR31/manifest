@@ -1,0 +1,49 @@
+{
+    "appid": "41005",
+    "type": "Tool",
+    "name": "Serious Sam HD Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:25:43",
+    "depot": {
+        "41005": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2404348604514929802",
+                    "size": "10557336",
+                    "download": "3426608"
+                },
+                "publicbeta": {
+                    "gid": "2404348604514929802",
+                    "size": "10557336",
+                    "download": "3426608"
+                }
+            },
+            "decryptionkey": "2ca6933ef1dd48a71413adc449ee2d03292a3d121857b7b9b6589422db84dd85"
+        },
+        "41003": {
+            "systemdefined": "1",
+            "depotfromapp": "41000",
+            "sharedinstall": "2"
+        },
+        "41001": {
+            "systemdefined": "1",
+            "depotfromapp": "41000",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "13305126",
+                "timeupdated": "1706555832"
+            },
+            "publicbeta": {
+                "buildid": "13305126",
+                "timeupdated": "1706555846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
