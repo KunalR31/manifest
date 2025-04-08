@@ -1,0 +1,57 @@
+{
+    "appid": "552880",
+    "type": "Game",
+    "name": "STARDROP",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26323161",
+    "update_time": "2024-12-05 00:30:06",
+    "depot": {
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "552881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7907232827345239414",
+                    "size": "24768271409",
+                    "download": "8109472576"
+                },
+                "publicdev": {
+                    "gid": "7907232827345239414",
+                    "size": "24768271409",
+                    "download": "8109472576"
+                }
+            },
+            "decryptionkey": "f3b53be8b7c55de24d785f2abc575d85e4bc6bf4d4fa275cbb9c355f9791f432"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4130177",
+                "timeupdated": "1566497380"
+            },
+            "publicdev": {
+                "buildid": "4130177",
+                "description": "Public Dev Branch",
+                "timeupdated": "1566497388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
