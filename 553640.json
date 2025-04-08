@@ -1,0 +1,87 @@
+{
+    "appid": "553640",
+    "type": "Game",
+    "name": "ICEY",
+    "schinese_name": "艾希",
+    "isfreeapp": "0",
+    "change_number": "27003510",
+    "update_time": "2025-01-15 16:14:35",
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "553641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4792066442372409142",
+                    "size": "5860600661",
+                    "download": "1160139424"
+                },
+                "beta": {
+                    "gid": "8983623131026350848",
+                    "size": "5687660496",
+                    "download": "955393712"
+                }
+            },
+            "decryptionkey": "c43efb7d162191ffd887e73f2373974c64df411656075028af76deadb0f1dfdc"
+        },
+        "553642": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3630099803145564190",
+                    "size": "5855489797",
+                    "download": "1158667616"
+                },
+                "beta": {
+                    "gid": "7313020619289359626",
+                    "size": "5682329263",
+                    "download": "953871216"
+                }
+            },
+            "decryptionkey": "ecfcbba334f887d5fafca898004b2402e6a5fdfce89ed26c819092cdd88bd07c"
+        },
+        "553643": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5525657299178721174",
+                    "size": "5897927609",
+                    "download": "1170776064"
+                },
+                "beta": {
+                    "gid": "916401677070615763",
+                    "size": "5726421820",
+                    "download": "965558384"
+                }
+            },
+            "decryptionkey": "ebeb0e8ee145d15f4c219bd914b6e1a77e77a82381793d9524d4cbe6dfb27a95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2971687",
+                "timeupdated": "1534415689"
+            },
+            "beta": {
+                "buildid": "1679923",
+                "description": "New feature but not stable",
+                "timeupdated": "1489055364"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
