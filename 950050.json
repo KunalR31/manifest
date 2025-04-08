@@ -1,0 +1,63 @@
+{
+    "appid": "950050",
+    "type": "Game",
+    "name": "Starlink: Battle for Atlas",
+    "schinese_name": "星链：阿特拉斯之战",
+    "isfreeapp": "0",
+    "change_number": "27899220",
+    "update_time": "2025-03-12 05:22:13",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "950051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4432488422355836825",
+                    "size": "24472102928",
+                    "download": "23046983440"
+                },
+                "local": {
+                    "gid": "1045356110938532149",
+                    "size": "24472102440",
+                    "download": "23047132368"
+                }
+            },
+            "decryptionkey": "c31833eb6039c37bfcf691ba8f0cdf9ee2361bfe135c7a8d09b43e5052e4d99b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7695121",
+                "timeupdated": "1637853813"
+            },
+            "local": {
+                "buildid": "3745612",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1555502952"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
