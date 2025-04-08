@@ -1,0 +1,84 @@
+{
+    "appid": "257830",
+    "type": "Game",
+    "name": "Violett",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27149861",
+    "update_time": "2025-01-24 21:28:42",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,russian,japanese,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1142035055910495479",
+                    "size": "893544761",
+                    "download": "476367248"
+                }
+            },
+            "decryptionkey": "b3bb099531b0086600b4e42e1645f2d58cbdcf103f4d62057dd26f5810a8b9b8"
+        },
+        "257832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7925646106209207864",
+                    "size": "899177508",
+                    "download": "476510672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "257833": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1039250822311758392",
+                    "size": "898905345",
+                    "download": "476143680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "257834": {
+            "manifests": {
+                "public": {
+                    "gid": "5016731579335876170",
+                    "size": "92031088",
+                    "download": "89164352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "821338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
