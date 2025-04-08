@@ -1,0 +1,68 @@
+{
+    "appid": "241320",
+    "type": "Game",
+    "name": "Ittle Dew",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27166440",
+    "update_time": "2025-01-26 04:26:09",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "241321": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6729466465943399123",
+                    "size": "464162567",
+                    "download": "110483312"
+                }
+            },
+            "decryptionkey": "da642b6d5dfd89e55f668a09298f3cd8a6cc987dd083390a0a1a26fd0f95e664"
+        },
+        "241322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7939121810234193786",
+                    "size": "468135806",
+                    "download": "111858256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "241323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2614855577984688810",
+                    "size": "471189391",
+                    "download": "112675456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "489222"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
