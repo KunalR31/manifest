@@ -1,0 +1,74 @@
+{
+    "appid": "1515210",
+    "type": "Game",
+    "name": "The Past Within",
+    "schinese_name": "内心的过去",
+    "isfreeapp": "0",
+    "change_number": "27436013",
+    "update_time": "2025-02-12 17:18:05",
+    "depot": {
+        "1515211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4205609305160462031",
+                    "size": "556846317",
+                    "download": "283351456"
+                },
+                "external-qa": {
+                    "gid": "3338462000364430158",
+                    "size": "545520320",
+                    "download": "279164352"
+                },
+                "press": {
+                    "gid": "3338462000364430158",
+                    "size": "545520320",
+                    "download": "279164352"
+                }
+            },
+            "decryptionkey": "bfd6a3c58a0830a1eb930ce88de60f4825317d69ee09c1bb3e86ea5edc7062cb"
+        },
+        "1515212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5868079189110496057",
+                    "size": "355373425",
+                    "download": "292845728"
+                },
+                "external-qa": {
+                    "gid": "3512936755637385890",
+                    "size": "350663200",
+                    "download": "288383872"
+                },
+                "press": {
+                    "gid": "3512936755637385890",
+                    "size": "350663200",
+                    "download": "288383872"
+                }
+            },
+            "decryptionkey": "e209f2d09625305477ce055a82cc5be737ef4284fdde3dd5e99c5384462de607"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14254743",
+                "timeupdated": "1714753044"
+            },
+            "external-qa": {
+                "buildid": "10828363",
+                "description": "External QA",
+                "timeupdated": "1679484598"
+            },
+            "press": {
+                "buildid": "10828363",
+                "description": "press builds",
+                "timeupdated": "1679484606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
