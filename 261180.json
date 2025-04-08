@@ -1,0 +1,109 @@
+{
+    "appid": "261180",
+    "type": "Game",
+    "name": "Lethal League",
+    "schinese_name": "致命联盟",
+    "isfreeapp": "0",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:27",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261181": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8139535435715100688",
+                    "size": "98473934",
+                    "download": "79461296"
+                },
+                "public_beta": {
+                    "gid": "8590011003391190655",
+                    "size": "688380738",
+                    "download": "71999120"
+                },
+                "tourney_v2": {
+                    "gid": "5221983320671976723",
+                    "size": "102966080",
+                    "download": "84911840"
+                }
+            },
+            "decryptionkey": "00fcf997d4736a229775d41c0352b2aa27b1166f0503b22beab0165525cd28e6"
+        },
+        "261182": {},
+        "261183": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6841789313969051756",
+                    "size": "103944147",
+                    "download": "74378480"
+                },
+                "public_beta": {
+                    "gid": "6841789313969051756",
+                    "size": "103944147",
+                    "download": "74378480"
+                },
+                "tourney_v2": {
+                    "gid": "6990792643035107645",
+                    "size": "99145329",
+                    "download": "75852816"
+                }
+            },
+            "decryptionkey": "f64af6cec3fc66a4c9fe1288c0607dcb316ad7df8296d2f677ffdbb02f824c16"
+        },
+        "261184": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6098241712489772654",
+                    "size": "193241635",
+                    "download": "98604768"
+                },
+                "public_beta": {
+                    "gid": "6098241712489772654",
+                    "size": "193241635",
+                    "download": "98604768"
+                },
+                "tourney_v2": {
+                    "gid": "7324775257613156511",
+                    "size": "179331626",
+                    "download": "99146176"
+                }
+            },
+            "decryptionkey": "23371550348f06f1782ffe3c3f2d54f817ff6da28dae910f1306bc57a56c474c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1305526",
+                "timeupdated": "1472472310"
+            },
+            "public_beta": {
+                "buildid": "4659337",
+                "description": "public beta branch, everyone can access",
+                "timeupdated": "1581434792"
+            },
+            "tourney_v2": {
+                "buildid": "692317"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
