@@ -1,0 +1,81 @@
+{
+    "appid": "2004140",
+    "type": "DLC",
+    "name": "RetroArch - Fuse",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731454",
+    "update_time": "2025-03-01 17:12:10",
+    "depot": {
+        "2004140": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2004140",
+            "manifests": {
+                "public": {
+                    "gid": "7557928001323971570",
+                    "size": "2319116",
+                    "download": "692928"
+                },
+                "nightly": {
+                    "gid": "3194533791842619384",
+                    "size": "2319116",
+                    "download": "692816"
+                }
+            },
+            "decryptionkey": "e5bebc1fb237dd765ac65d37d4f382dd39fce4df074ba06ddb2db3443d8dbbfb"
+        },
+        "2004141": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "191820576607132546",
+                    "size": "2334614",
+                    "download": "670864"
+                },
+                "nightly": {
+                    "gid": "191820576607132546",
+                    "size": "2334614",
+                    "download": "670864"
+                }
+            },
+            "dlcappid": "2004140",
+            "decryptionkey": "e0fc5ee85c20a0e3505016fe00e104d8bc35733bbfcdf4246af4af32a6de86e1"
+        },
+        "2004142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4842358965195356509",
+                    "size": "4596622",
+                    "download": "1304048"
+                },
+                "nightly": {
+                    "gid": "4842358965195356509",
+                    "size": "4596622",
+                    "download": "1304048"
+                }
+            },
+            "dlcappid": "2004140",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911364",
+                "timeupdated": "1736093827"
+            },
+            "nightly": {
+                "buildid": "17557844",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820324"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
