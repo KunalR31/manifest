@@ -1,0 +1,70 @@
+{
+    "appid": "582010",
+    "type": "Game",
+    "name": "Monster Hunter: World",
+    "schinese_name": "怪物猎人：世界",
+    "isfreeapp": "0",
+    "change_number": "28213253",
+    "update_time": "2025-03-30 16:14:45",
+    "depot": {
+        "depotdeltapatches": "1",
+        "workshopdepot": "582010",
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,arabic,brazilian,latam",
+        "582011": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2525674006025364114",
+                    "size": "54986406857",
+                    "download": "55424803296"
+                },
+                "local": {
+                    "gid": "7567777454855638397",
+                    "size": "43698972628",
+                    "download": "43418058656"
+                }
+            },
+            "decryptionkey": "da6b97dc25e43b8f7ceaf9bcdbfba960f2e3e855b855fc47975d58a68d3f7688"
+        },
+        "582012": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "960781",
+            "manifests": {
+                "public": {
+                    "gid": "5526886592091189537",
+                    "size": "50644138247",
+                    "download": "50836412032"
+                }
+            },
+            "decryptionkey": "92d06583c95939873c5c33658cd8b1111fa209a4c7576207565e942fa78eb888"
+        },
+        "582013": {
+            "dlcappid": "1118011",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15539686",
+                "timeupdated": "1728259143"
+            },
+            "local": {
+                "buildid": "4299913",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1571379521"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
