@@ -1,0 +1,56 @@
+{
+    "appid": "616680",
+    "type": "Game",
+    "name": "Monster Showdown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26827018",
+    "update_time": "2025-01-01 00:18:34",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "616681": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4110670995692752985",
+                    "size": "2899584686",
+                    "download": "2742022736"
+                },
+                "classic": {
+                    "gid": "931384323505252042",
+                    "size": "2410450224",
+                    "download": "2287064864"
+                }
+            },
+            "decryptionkey": "f4ee170c189d8aab26cc40a795d4878489a6f2d9636d66f2d996acb3823db6b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8087878",
+                "timeupdated": "1643244165"
+            },
+            "classic": {
+                "buildid": "6249295",
+                "description": "The classic Monster Reapers VR game.",
+                "timeupdated": "1628923327"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
