@@ -1,0 +1,66 @@
+{
+    "appid": "487390",
+    "type": "Demo",
+    "name": "System Shock Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:44:06",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "487391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8640540910133790377",
+                    "size": "5336924219",
+                    "download": "1949096496"
+                }
+            },
+            "decryptionkey": "1d5b8c5435829f5ba0eb858f2bf732e2fe60e4123aaea7b7c190609e9c889079"
+        },
+        "487392": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "487393": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1151628815262148890",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10490706",
+                "timeupdated": "1675766068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
