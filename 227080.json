@@ -1,0 +1,85 @@
+{
+    "appid": "227080",
+    "type": "Game",
+    "name": "Papo & Yo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27120069",
+    "update_time": "2025-01-23 06:25:15",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,italian,german,spanish,brazilian",
+        "markdlcdepots": "1",
+        "227081": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7139592645588388774",
+                    "size": "1989468543",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7139592645588388774",
+                    "size": "1989468543",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ced0677b1c84f086354aebf2f8497e407af79f3fbe5d1a4476dea594d1139123"
+        },
+        "227090": {
+            "manifests": {
+                "public": {
+                    "gid": "3141948737585082973",
+                    "size": "130511779",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3141948737585082973",
+                    "size": "130511779",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "227090",
+            "decryptionkey": "fd2a1daa0bbbe41a3cfc3f1a20fda388520ce47f68b16d941021c98d9b68258c"
+        },
+        "227082": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7731499500327966311",
+                    "size": "1947838938",
+                    "download": "1446148672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "227083": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8422153802559784554",
+                    "size": "1646354311",
+                    "download": "1307771792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "931572"
+            },
+            "beta": {
+                "buildid": "62552",
+                "description": "public beta branch"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
