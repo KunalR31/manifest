@@ -1,0 +1,187 @@
+{
+    "appid": "257350",
+    "type": "Game",
+    "name": "Baldur's Gate II: Enhanced Edition",
+    "schinese_name": "博德之门2：增强版",
+    "isfreeapp": "0",
+    "change_number": "28326977",
+    "update_time": "2025-04-06 05:10:16",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257351": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3888329441652977407",
+                    "size": "8254776",
+                    "download": "3385168"
+                },
+                "bg2_beta": {
+                    "gid": "6293390391979925714",
+                    "size": "5863616",
+                    "download": "2230080"
+                },
+                "bgiiee_1.3": {
+                    "gid": "6297749583129630560",
+                    "size": "2588331662",
+                    "download": "2286327184"
+                },
+                "bgiiee_2.5": {
+                    "gid": "6293390391979925714",
+                    "size": "5863616",
+                    "download": "2230080"
+                },
+                "road_to_2.6": {
+                    "gid": "3888329441652977407",
+                    "size": "8254776",
+                    "download": "3385168"
+                }
+            },
+            "decryptionkey": "88e74b749a3e454dcff08e818290a58bcb741800f002aa0e40cfdca9d364f5c8"
+        },
+        "257352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8658310026871073462",
+                    "size": "17592168",
+                    "download": "9168176"
+                },
+                "bg2_beta": {
+                    "gid": "3850303201136451847",
+                    "size": "19126795",
+                    "download": "6647392"
+                },
+                "bgiiee_1.3": {
+                    "gid": "2871501681828004837",
+                    "size": "2599491687",
+                    "download": "2291486816"
+                },
+                "bgiiee_2.5": {
+                    "gid": "3850303201136451847",
+                    "size": "19126795",
+                    "download": "6647392"
+                },
+                "road_to_2.6": {
+                    "gid": "8658310026871073462",
+                    "size": "17592168",
+                    "download": "9168176"
+                }
+            },
+            "decryptionkey": "e3455666047d6559b851052b68f9f73041bbffb76ee74ba8cb93b1f0ccc0e5fe"
+        },
+        "257353": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4053865679617046373",
+                    "size": "13392570",
+                    "download": "4137600"
+                },
+                "bg2_beta": {
+                    "gid": "9213057710484756530",
+                    "size": "24348673",
+                    "download": "7316352"
+                },
+                "bgiiee_1.3": {
+                    "gid": "8351191104358268576",
+                    "size": "2593270302",
+                    "download": "2291146768"
+                },
+                "bgiiee_2.5": {
+                    "gid": "9213057710484756530",
+                    "size": "24348673",
+                    "download": "7316352"
+                },
+                "road_to_2.6": {
+                    "gid": "4053865679617046373",
+                    "size": "13392570",
+                    "download": "4137600"
+                }
+            },
+            "decryptionkey": "ef916ff1549de04b067c8cc39c4ce5ae4ebc1a8fb410c27b35ca856ba34b883d"
+        },
+        "257354": {
+            "manifests": {
+                "public": {
+                    "gid": "5077780254848295841",
+                    "size": "3796686720",
+                    "download": "3255316368"
+                },
+                "bg2_beta": {
+                    "gid": "4733204326410348697",
+                    "size": "3659535704",
+                    "download": "3148679888"
+                },
+                "bgiiee_1.3": {
+                    "gid": "5200981683245439130",
+                    "size": "0",
+                    "download": "0"
+                },
+                "bgiiee_2.5": {
+                    "gid": "4733204326410348697",
+                    "size": "3659535704",
+                    "download": "3148679888"
+                },
+                "road_to_2.6": {
+                    "gid": "5077780254848295841",
+                    "size": "3796686720",
+                    "download": "3255316368"
+                }
+            },
+            "decryptionkey": "b3c8a168d08424cbdab3eb502d4a177b32515e334c705d3257dfa8630073a818"
+        },
+        "2489050": {
+            "dlcappid": "2489050",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "6660111",
+                "timeupdated": "1621353630"
+            },
+            "bg2_beta": {
+                "buildid": "2903325",
+                "description": "BG2EE beta",
+                "timeupdated": "1530220027"
+            },
+            "bgiiee_1.3": {
+                "buildid": "1063185",
+                "timeupdated": "1460063365"
+            },
+            "bgiiee_2.5": {
+                "buildid": "2903325",
+                "description": "BG2 EE 2.5",
+                "timeupdated": "1618850222"
+            },
+            "road_to_2.6": {
+                "buildid": "6660111",
+                "description": "The Road to 2.6",
+                "timeupdated": "1620674023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
