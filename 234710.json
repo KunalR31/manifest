@@ -1,0 +1,53 @@
+{
+    "appid": "234710",
+    "type": "Game",
+    "name": "Poker Night 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27113259",
+    "update_time": "2025-01-22 22:25:51",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "234711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "606659319083740705",
+                    "size": "529018190",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9ad519dab570d657bd85cf3ed5e4c76a6e8ec58c3b98a389f4e0f32e45e05d0b"
+        },
+        "234712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1715049724252470895",
+                    "size": "540599264",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "17fec2573b771a3c9e485b965b30e173fc80a5886dfdd82fe8d20b7edd2bbc84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "66417"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
