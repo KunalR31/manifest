@@ -1,0 +1,56 @@
+{
+    "appid": "2644620",
+    "type": "Game",
+    "name": "The Backrooms: Escape",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28111453",
+    "update_time": "2025-03-24 23:22:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2644621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399842587956954206",
+                    "size": "7946210317",
+                    "download": "7869983680"
+                },
+                "ue4-v.1.2.3": {
+                    "gid": "7585396364955566012",
+                    "size": "3545122203",
+                    "download": "3491702432"
+                }
+            },
+            "decryptionkey": "c1e40b4c69f96934adde6bf593afceb6a3055771d5c350b5db14b0dcb56ca12c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17832911",
+                "timeupdated": "1742829688"
+            },
+            "ue4-v.1.2.3": {
+                "buildid": "13002452",
+                "description": "Outdated version dated December 19, 2023",
+                "timeupdated": "1706862569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
