@@ -1,0 +1,52 @@
+{
+    "appid": "1415920",
+    "type": "Game",
+    "name": "PBA Pro Bowling 2021",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27380898",
+    "update_time": "2025-02-09 02:29:03",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1415921": {
+            "manifests": {
+                "public": {
+                    "gid": "4317608319863647590",
+                    "size": "3112994600",
+                    "download": "2996564432"
+                },
+                "60fps_beta": {
+                    "gid": "158812507797082566",
+                    "size": "2777334720",
+                    "download": "2661025984"
+                }
+            },
+            "decryptionkey": "55c1f46d4745d02cdc6466e57157dbbb88f2a266f8f4e58f1e5294d6cffb22cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6255142",
+                "timeupdated": "1613767432"
+            },
+            "60fps_beta": {
+                "buildid": "6062519",
+                "description": "Beta branch for running the game at 60 fps",
+                "timeupdated": "1610318795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
