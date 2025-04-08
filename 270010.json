@@ -1,0 +1,61 @@
+{
+    "appid": "270010",
+    "type": "Game",
+    "name": "Time Rifters",
+    "schinese_name": "时间裂缝",
+    "isfreeapp": "0",
+    "change_number": "27162532",
+    "update_time": "2025-01-25 18:26:29",
+    "depot": {
+        "overridescddb": "1",
+        "270011": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "518100599985981586",
+                    "size": "847382741",
+                    "download": "510219632"
+                },
+                "dk2": {
+                    "gid": "518100599985981586",
+                    "size": "847382741",
+                    "download": "510219632"
+                }
+            },
+            "decryptionkey": "fd7334ac24177dbc3aef2892e457b75a609f0dbb61fb3cca5906b79263cc145f"
+        },
+        "270012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3434530768906737310",
+                    "size": "844173438",
+                    "download": "510129808"
+                },
+                "dk2": {
+                    "gid": "3434530768906737310",
+                    "size": "844173438",
+                    "download": "510129808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "0",
+        "branches": {
+            "public": {
+                "buildid": "754360"
+            },
+            "dk2": {
+                "buildid": "754360",
+                "description": "Oculus 0.4.3 SDK"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
