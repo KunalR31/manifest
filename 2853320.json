@@ -1,0 +1,63 @@
+{
+    "appid": "2853320",
+    "type": "Application",
+    "name": "DynamicsBrushes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23980896",
+    "update_time": "2024-06-15 08:38:49",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2853321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8947639632085835675",
+                    "size": "276031644",
+                    "download": "36161088"
+                },
+                "dynbrushes": {
+                    "gid": "5454965381573314033",
+                    "size": "257124275",
+                    "download": "35014416"
+                }
+            },
+            "decryptionkey": "78bd039d8017c157b07666dd6b0c88e1118306364373f8c9ec3092261050cc27"
+        },
+        "2853322": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "790456544654792216",
+                    "size": "255896645",
+                    "download": "46836912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14714765",
+                "timeupdated": "1718346080"
+            },
+            "dynbrushes": {
+                "buildid": "14453147",
+                "description": "DynBrushes",
+                "timeupdated": "1716373273"
+            }
+        }
+    }
+}
