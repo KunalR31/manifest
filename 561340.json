@@ -1,0 +1,59 @@
+{
+    "appid": "561340",
+    "type": "Game",
+    "name": "Merlin adventurer store",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 10:44:37",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "561341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3226381689646917562",
+                    "size": "142065407",
+                    "download": "124274144"
+                },
+                "local": {
+                    "gid": "5809103479892800934",
+                    "size": "144064882",
+                    "download": "126490624"
+                },
+                "test": {
+                    "gid": "1573649196316789916",
+                    "size": "142101247",
+                    "download": "124308688"
+                }
+            },
+            "decryptionkey": "8de82763e75c4586dc113b333d7d899d7548cb89f6879d09702effd7f857a83d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1562183",
+                "timeupdated": "1484119273"
+            },
+            "local": {
+                "buildid": "1475471",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1479867203"
+            },
+            "test": {
+                "buildid": "1558212",
+                "timeupdated": "1483961678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
