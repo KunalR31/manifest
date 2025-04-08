@@ -1,0 +1,84 @@
+{
+    "appid": "1232621",
+    "type": "DLC",
+    "name": "RetroArch - PocketCDG",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731538",
+    "update_time": "2025-03-01 17:19:06",
+    "depot": {
+        "1232621": {
+            "dlcappid": "1232621",
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1232621"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7059513131863842268",
+                    "size": "227162",
+                    "download": "96272"
+                },
+                "nightly": {
+                    "gid": "2132326303252421318",
+                    "size": "227162",
+                    "download": "96288"
+                }
+            },
+            "decryptionkey": "6fe61b38eac9782e2b702a3a517cb9ca07ed9f1a4b91ea78c05f5d08b075565f"
+        },
+        "1789750": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1232621"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "634181324774155846",
+                    "size": "185874",
+                    "download": "71280"
+                },
+                "nightly": {
+                    "gid": "634181324774155846",
+                    "size": "185874",
+                    "download": "71280"
+                }
+            },
+            "dlcappid": "1232621",
+            "decryptionkey": ""
+        },
+        "1789751": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1232621"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6498393810005296762",
+                    "size": "450226",
+                    "download": "111360"
+                },
+                "nightly": {
+                    "gid": "6498393810005296762",
+                    "size": "450226",
+                    "download": "111360"
+                }
+            },
+            "dlcappid": "1232621",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911407",
+                "timeupdated": "1736093689"
+            },
+            "nightly": {
+                "buildid": "17557909",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820742"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
