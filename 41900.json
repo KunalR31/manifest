@@ -1,0 +1,76 @@
+{
+    "appid": "41900",
+    "type": "Game",
+    "name": "The Bard's Tale",
+    "schinese_name": "新冰城传奇",
+    "isfreeapp": "0",
+    "change_number": "27127438",
+    "update_time": "2025-01-23 17:23:54",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "41901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7457128207740512685",
+                    "size": "4051889455",
+                    "download": "3496436544"
+                }
+            },
+            "decryptionkey": "5d71ff231e8ce1a65c17defee4f5876a44dea4ed1e7a0101dc153b2bec274bba"
+        },
+        "41902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5577412546042144555",
+                    "size": "3583125444",
+                    "download": "3124528384"
+                }
+            },
+            "decryptionkey": "14a940c4099739f4a948a976ef3e71a6b909219370a8600806cfd5d39fe6478f"
+        },
+        "41903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5709958786316292242",
+                    "size": "3613845896",
+                    "download": "3160340400"
+                }
+            },
+            "decryptionkey": "3297218faabdf373cc57b1f857120b578f5597e94d5b27dfb38e725fbe5528d7"
+        },
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish",
+        "branches": {
+            "public": {
+                "buildid": "7828788",
+                "timeupdated": "1638641229"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
