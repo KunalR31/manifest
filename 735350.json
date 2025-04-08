@@ -1,0 +1,90 @@
+{
+    "appid": "735350",
+    "type": "Game",
+    "name": "Bottle: Pilgrim Redux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26828588",
+    "update_time": "2025-01-01 05:18:37",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "735351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6584020986606511884",
+                    "size": "7511564018",
+                    "download": "3637868864"
+                },
+                "legacy": {
+                    "gid": "3318355417158139382",
+                    "size": "6774246424",
+                    "download": "3199117664"
+                },
+                "localui": {
+                    "gid": "6318000995764349728",
+                    "size": "6690728135",
+                    "download": "3185163280"
+                },
+                "test": {
+                    "gid": "6584020986606511884",
+                    "size": "7511564018",
+                    "download": "3637868864"
+                },
+                "tr_voice": {
+                    "gid": "57766414020121606",
+                    "size": "7511549564",
+                    "download": "3638001072"
+                }
+            },
+            "decryptionkey": "317ae1aa3ed0c9825ce7610df03e799083fca840640a11a40fd91b20b70477c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13753764",
+                "timeupdated": "1710514897"
+            },
+            "legacy": {
+                "buildid": "5184835",
+                "description": "The original game with old voice over and everything",
+                "timeupdated": "1604730172"
+            },
+            "localui": {
+                "buildid": "2889028",
+                "timeupdated": "1532082350"
+            },
+            "test": {
+                "buildid": "13753764",
+                "timeupdated": "1710514443"
+            },
+            "tr_voice": {
+                "buildid": "11128367",
+                "description": "Turkish voice language option",
+                "timeupdated": "1682915630"
+            }
+        }
+    }
+}
