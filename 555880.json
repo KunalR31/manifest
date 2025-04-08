@@ -1,0 +1,60 @@
+{
+    "appid": "555880",
+    "type": "Game",
+    "name": "Sairento VR",
+    "schinese_name": "默者 VR",
+    "isfreeapp": "0",
+    "change_number": "26114991",
+    "update_time": "2024-11-09 05:06:06",
+    "depot": {
+        "555881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5986815526274552263",
+                    "size": "23386997161",
+                    "download": "6175703104"
+                },
+                "index-controller": {
+                    "gid": "6233065102833180641",
+                    "size": "16970316644",
+                    "download": "4692928672"
+                },
+                "oculus-sdk": {
+                    "gid": "4058218922222111417",
+                    "size": "23380669926",
+                    "download": "6175746992"
+                },
+                "public-test": {
+                    "gid": "5986815526274552263",
+                    "size": "23386997161",
+                    "download": "6175703104"
+                }
+            },
+            "decryptionkey": "d1e67737cee67ad3f0cc35b498267c07fe2b3912d8e00355465f982d30e210d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10924975",
+                "timeupdated": "1680602819"
+            },
+            "index-controller": {
+                "buildid": "4082097",
+                "timeupdated": "1565163770"
+            },
+            "oculus-sdk": {
+                "buildid": "10925460",
+                "description": "Oculus SDK version, no DLC/Achievement support.",
+                "timeupdated": "1680602866"
+            },
+            "public-test": {
+                "buildid": "10924975",
+                "description": "Public test branch (v1.5)",
+                "timeupdated": "1680602807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
