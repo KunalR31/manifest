@@ -1,0 +1,87 @@
+{
+    "appid": "1477330",
+    "type": "Game",
+    "name": "魂之归宿",
+    "schinese_name": "魂之归宿",
+    "isfreeapp": "0",
+    "change_number": "26846809",
+    "update_time": "2025-01-03 10:52:35",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1477331": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6173469732658810127",
+                    "size": "344215222",
+                    "download": "310000832"
+                },
+                "test1": {
+                    "gid": "6480759043312532746",
+                    "size": "336547081",
+                    "download": "305031536"
+                }
+            },
+            "decryptionkey": "4354b5293c40db77974ffc7bcc2cbbfe36c5d8550c654c25758eaaae4988b2a1"
+        },
+        "1477332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1449267816333306976",
+                    "size": "331914723",
+                    "download": "305767792"
+                },
+                "test1": {
+                    "gid": "8655466238168196594",
+                    "size": "322353493",
+                    "download": "296450080"
+                }
+            },
+            "decryptionkey": "972b56120a5c65c5ab6d94b2ca39cf7039141ff3d54919a4b6b1f4ff3f8da5f2"
+        },
+        "1477333": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6969634485669083148",
+                    "size": "367115463",
+                    "download": "319564528"
+                },
+                "test1": {
+                    "gid": "2866349514028613285",
+                    "size": "336547081",
+                    "download": "305031536"
+                }
+            },
+            "decryptionkey": "6aaaf64dd461c08e7b9e9c4de916c577eefdbc5be392ae997007ab76b1066209"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16896291",
+                "timeupdated": "1735872751"
+            },
+            "test1": {
+                "buildid": "5912834",
+                "description": "test",
+                "timeupdated": "1607185478"
+            }
+        }
+    }
+}
