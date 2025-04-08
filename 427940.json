@@ -1,0 +1,56 @@
+{
+    "appid": "427940",
+    "type": "Game",
+    "name": "Industries of Titan",
+    "schinese_name": "泰坦工业",
+    "isfreeapp": "0",
+    "change_number": "27137452",
+    "update_time": "2025-01-24 04:26:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "427941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8992076946456164505",
+                    "size": "5030060013",
+                    "download": "4492242944"
+                },
+                "experimental": {
+                    "gid": "8992076946456164505",
+                    "size": "5030060013",
+                    "download": "4492242944"
+                }
+            },
+            "decryptionkey": "d301ef289590d899e6e1e55f66d5ceb292de012b2b7d17d86ece48b59cea9e93"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10887092",
+                "timeupdated": "1680196034"
+            },
+            "experimental": {
+                "buildid": "10887092",
+                "description": "For a sneak peek into experimental, in-development features! Might be less stable than the base game.",
+                "timeupdated": "1680196047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
