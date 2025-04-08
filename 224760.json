@@ -1,0 +1,137 @@
+{
+    "appid": "224760",
+    "type": "Game",
+    "name": "FEZ",
+    "schinese_name": "菲斯",
+    "isfreeapp": "0",
+    "change_number": "27507695",
+    "update_time": "2025-02-17 08:15:40",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,japanese,portuguese",
+        "markdlcdepots": "1",
+        "224761": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7323732734525082112",
+                    "size": "395266998",
+                    "download": "339822624"
+                },
+                "1.11": {
+                    "gid": "7668506258677288215",
+                    "size": "396021883",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2005812974000456638",
+                    "size": "393964275",
+                    "download": "339797344"
+                },
+                "sdl3": {
+                    "gid": "7323732734525082112",
+                    "size": "395266998",
+                    "download": "339822624"
+                }
+            },
+            "decryptionkey": "5cee956b25656115e424eafff4ed6154f0a0cfa95f7878f5e4b522e56a3e13a8"
+        },
+        "224762": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5672754372855605298",
+                    "size": "441317193",
+                    "download": "352244592"
+                },
+                "1.11": {
+                    "gid": "806695957621298636",
+                    "size": "427020412",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3203639762093675261",
+                    "size": "430032964",
+                    "download": "349418032"
+                },
+                "sdl3": {
+                    "gid": "2695779325618796966",
+                    "size": "420439455",
+                    "download": "346426624"
+                }
+            },
+            "decryptionkey": "7841263bdb917e406f920643dc5e5788092320529e1dec608ac1670ad49ce3af"
+        },
+        "224764": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3921862058076559490",
+                    "size": "414654597",
+                    "download": "344374720"
+                },
+                "1.11": {
+                    "gid": "6120386562079164674",
+                    "size": "412655542",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7485552630044714651",
+                    "size": "433034926",
+                    "download": "349062896"
+                },
+                "sdl3": {
+                    "gid": "3921862058076559490",
+                    "size": "414654597",
+                    "download": "344374720"
+                }
+            },
+            "decryptionkey": "bf3f852a124f683798dfa5f480cb73e8367d227452ff1aab19ce8519463b685a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1493264",
+                "timeupdated": "1480639231"
+            },
+            "1.11": {
+                "buildid": "306353",
+                "description": "1.11 (MonoGame)"
+            },
+            "beta": {
+                "buildid": "15155093",
+                "description": "For testing",
+                "timeupdated": "1721939927"
+            },
+            "sdl3": {
+                "buildid": "17081469",
+                "description": "SDL 3.0 Testing, UNSTABLE",
+                "timeupdated": "1737485047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
