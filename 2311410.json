@@ -1,0 +1,70 @@
+{
+    "appid": "2311410",
+    "type": "Game",
+    "name": "异世重生 : 枪之勇者 Reincarnation : Hero of the Gun",
+    "schinese_name": "异世重生 : 枪之勇者",
+    "isfreeapp": "0",
+    "change_number": "28024570",
+    "update_time": "2025-03-19 09:53:11",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2311411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3981660008361932537",
+                    "size": "173668356",
+                    "download": "74268832"
+                },
+                "test": {
+                    "gid": "6853881155506608873",
+                    "size": "192888597",
+                    "download": "78607280"
+                },
+                "test_save_fix": {
+                    "gid": "6514422607327987019",
+                    "size": "192887573",
+                    "download": "78607120"
+                },
+                "v1.85": {
+                    "gid": "2492006849921198587",
+                    "size": "173664100",
+                    "download": "74206304"
+                }
+            },
+            "decryptionkey": "c653f1a69ce24b087432cbd9112a5945633f82d33f0862d609272da4a13442bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10815210",
+                "timeupdated": "1679364267"
+            },
+            "test": {
+                "buildid": "10811628",
+                "description": "测试",
+                "timeupdated": "1679322333"
+            },
+            "test_save_fix": {
+                "buildid": "10811798",
+                "description": "TestSaveFix",
+                "timeupdated": "1679323849"
+            },
+            "v1.85": {
+                "buildid": "10770953",
+                "description": "1.85",
+                "timeupdated": "1679364220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
