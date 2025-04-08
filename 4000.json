@@ -1,0 +1,157 @@
+{
+    "appid": "4000",
+    "type": "Game",
+    "name": "Garry's Mod",
+    "schinese_name": "盖瑞模组",
+    "isfreeapp": "0",
+    "change_number": "28334066",
+    "update_time": "2025-04-07 01:10:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "depotdeltapatches": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "4001": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8152304831196629690",
+                    "size": "3930971052",
+                    "download": "2289925984"
+                },
+                "dev": {
+                    "gid": "5520622483039287375",
+                    "size": "3930974032",
+                    "download": "2289927072"
+                },
+                "prerelease": {
+                    "gid": "8152304831196629690",
+                    "size": "3930971052",
+                    "download": "2289925984"
+                },
+                "x86-64": {
+                    "gid": "147890778070862640",
+                    "size": "3910058720",
+                    "download": "2285281040"
+                }
+            },
+            "decryptionkey": "70b50aa1b52c66816a5f3ee61235edc988520ba54e96913f0bf7ff73c37794de"
+        },
+        "4002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "240522064353835806",
+                    "size": "213432675",
+                    "download": "80222912"
+                },
+                "dev": {
+                    "gid": "5577021389803025873",
+                    "size": "213441891",
+                    "download": "80223392"
+                },
+                "prerelease": {
+                    "gid": "240522064353835806",
+                    "size": "213432675",
+                    "download": "80222912"
+                },
+                "x86-64": {
+                    "gid": "3656077562889800155",
+                    "size": "493103662",
+                    "download": "172703776"
+                }
+            },
+            "decryptionkey": "a3e3a34828218993dbc70c168dd602ee73fe43b8fef8cd6458be59de953da3d9"
+        },
+        "4003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4537522670897335792",
+                    "size": "282127508",
+                    "download": "61405552"
+                },
+                "dev": {
+                    "gid": "6706727136902806869",
+                    "size": "282120617",
+                    "download": "61402368"
+                },
+                "prerelease": {
+                    "gid": "4537522670897335792",
+                    "size": "282127508",
+                    "download": "61405552"
+                },
+                "x86-64": {
+                    "gid": "8264835576279231326",
+                    "size": "362509930",
+                    "download": "99539248"
+                }
+            },
+            "decryptionkey": "f12729464515b02d079469c178a93188480f07765f21fe5191f3cc35c18378aa"
+        },
+        "4004": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7626010930083713435",
+                    "size": "159169450",
+                    "download": "34008272"
+                },
+                "dev": {
+                    "gid": "2712112745071515197",
+                    "size": "159179186",
+                    "download": "34008096"
+                },
+                "prerelease": {
+                    "gid": "7626010930083713435",
+                    "size": "159169450",
+                    "download": "34008272"
+                },
+                "x86-64": {
+                    "gid": "1061131852158813245",
+                    "size": "260812121",
+                    "download": "79670880"
+                }
+            },
+            "decryptionkey": "bda3d73d97ece9ee942f1275a70d9af5d37dcd48e2e47565feb3b00fc6b66dbd"
+        },
+        "workshopdepot": "4000",
+        "branches": {
+            "public": {
+                "buildid": "17902109",
+                "timeupdated": "1743184936"
+            },
+            "dev": {
+                "buildid": "17985493",
+                "description": "Development Branch",
+                "timeupdated": "1743773115"
+            },
+            "prerelease": {
+                "buildid": "17902109",
+                "description": "Pre-Release Branch",
+                "timeupdated": "1743184740"
+            },
+            "x86-64": {
+                "buildid": "17989217",
+                "description": "Chromium + 64-bit binaries",
+                "timeupdated": "1743791062"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
