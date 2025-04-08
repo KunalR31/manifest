@@ -1,0 +1,65 @@
+{
+    "appid": "448560",
+    "type": "Game",
+    "name": "Mind Games",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26812755",
+    "update_time": "2024-12-30 06:38:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,dutch",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "448561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5067570968786802888",
+                    "size": "33654144",
+                    "download": "26991824"
+                }
+            },
+            "decryptionkey": "4842252941384a444aac92f389889b4b466470f62d6ba3230efdb870e65bb762"
+        },
+        "448562": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2601027976609520807",
+                    "size": "87616349",
+                    "download": "48266800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "448563": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7235915186298353152",
+                    "size": "90859916",
+                    "download": "50139552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9460543",
+                "timeupdated": "1662468243"
+            }
+        }
+    }
+}
