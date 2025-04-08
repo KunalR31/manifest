@@ -1,0 +1,95 @@
+{
+    "appid": "42160",
+    "type": "Game",
+    "name": "War of the Roses",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-02 13:01:41",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,russian,french,polish,japanese",
+        "markdlcdepots": "1",
+        "42161": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8901754595291167587",
+                    "size": "6658185295",
+                    "download": "6460261808"
+                },
+                "latest": {
+                    "gid": "2596952303211434922",
+                    "size": "6018686372",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6048030d6a07998986fdc986c1c200c1c2caf37566db8b10c2eb0646ad19b84b"
+        },
+        "218843": {
+            "manifests": {
+                "public": {
+                    "gid": "2247322494743071537",
+                    "size": "181379958",
+                    "download": "166418816"
+                },
+                "latest": {
+                    "gid": "816028083978169649",
+                    "size": "90876712",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "218843",
+            "decryptionkey": ""
+        },
+        "271090": {
+            "manifests": {
+                "public": {
+                    "gid": "1274898709192987744",
+                    "size": "4241192",
+                    "download": "4063040"
+                }
+            },
+            "dlcappid": "271090",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "519680"
+            },
+            "latest": {
+                "buildid": "47756",
+                "description": "Test the latest WOTR features"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
