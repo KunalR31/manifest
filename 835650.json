@@ -1,0 +1,89 @@
+{
+    "appid": "835650",
+    "type": "Game",
+    "name": "Rising Lords",
+    "schinese_name": "领主争锋",
+    "isfreeapp": "0",
+    "change_number": "28334765",
+    "update_time": "2025-04-07 02:45:24",
+    "depot": {
+        "workshopdepot": "835650",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "835651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7211463745422100298",
+                    "size": "629767432",
+                    "download": "579318288"
+                },
+                "beta": {
+                    "gid": "8027469637196758110",
+                    "size": "633608378",
+                    "download": "582772304"
+                },
+                "previous": {
+                    "gid": "2747182358746567725",
+                    "size": "629765512",
+                    "download": "579317664"
+                }
+            },
+            "decryptionkey": "303aa5cf9ac4c0d43a57dd173753a1d76e9bf428373d0d798298af8f86e3dc0a"
+        },
+        "835652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7224757215891973034",
+                    "size": "477522149",
+                    "download": "427621760"
+                },
+                "beta": {
+                    "gid": "7224757215891973034",
+                    "size": "477522149",
+                    "download": "427621760"
+                },
+                "previous": {
+                    "gid": "7224757215891973034",
+                    "size": "477522149",
+                    "download": "427621760"
+                }
+            },
+            "decryptionkey": "ce35de34cbb732b7631b924e5c90854abc88cb1cb580d0c98fe6be00896c2700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16722789",
+                "timeupdated": "1735640168"
+            },
+            "beta": {
+                "buildid": "17722327",
+                "description": "unstable",
+                "timeupdated": "1741942806"
+            },
+            "previous": {
+                "buildid": "16610687",
+                "timeupdated": "1735639991"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
