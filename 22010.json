@@ -1,0 +1,45 @@
+{
+    "appid": "22010",
+    "type": "Demo",
+    "name": "World of Goo Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 07:55:35",
+    "depot": {
+        "22011": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "749112230312534736",
+                    "size": "40449837",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d5d72b008050a2e8e93079efa72a3f0e5038a9b6fdf83a17e707c658cd4ab475"
+        },
+        "22013": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "986887056451592438",
+                    "size": "35488614",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "52402"
+            }
+        }
+    }
+}
