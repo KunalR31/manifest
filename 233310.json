@@ -1,0 +1,47 @@
+{
+    "appid": "233310",
+    "type": "Game",
+    "name": "Avadon 2: The Corruption",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27169798",
+    "update_time": "2025-01-26 15:26:41",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "233312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7436381131097366033",
+                    "size": "174616239",
+                    "download": "160915008"
+                }
+            },
+            "decryptionkey": "f5599f80b297c1104e08343793d9fcb906e832f4cb19baeb7e1789e936760431"
+        },
+        "233311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2446369840179514643",
+                    "size": "170643432",
+                    "download": "159221072"
+                }
+            },
+            "decryptionkey": "4612bbdde15789d4280ec6b0ba8fb8c2186482e6b976c137adb84cd7e54e6e59"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4512909",
+                "timeupdated": "1576791474"
+            }
+        }
+    }
+}
