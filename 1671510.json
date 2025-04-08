@@ -1,0 +1,81 @@
+{
+    "appid": "1671510",
+    "type": "Game",
+    "name": "Like an Angel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27116200",
+    "update_time": "2025-01-23 01:26:58",
+    "depot": {
+        "baselanguages": "english,tchinese",
+        "hasdepotsindlc": "0",
+        "1671511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5043541228497060598",
+                    "size": "1422378721",
+                    "download": "787405648"
+                },
+                "local": {
+                    "gid": "5201689391782559299",
+                    "size": "1071158548",
+                    "download": "629148640"
+                }
+            },
+            "decryptionkey": "978f25aa58e40068072d3c34ee89eed9835ed958f07edbce254e196e44d51c64"
+        },
+        "1671512": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8606890139753849252",
+                    "size": "1423593552",
+                    "download": "787591888"
+                }
+            },
+            "decryptionkey": "de7dab116af66e0437c849441095483982d76fdc80d17ce01071239578acc7b7"
+        },
+        "1965420": {
+            "dlcappid": "1965420",
+            "manifests": {
+                "public": {
+                    "gid": "8976447730810508765",
+                    "size": "6544",
+                    "download": "6672"
+                }
+            },
+            "decryptionkey": "52f0fc9f930c3cb973760af5362a8fc42c7765ae96670d47ef53cd3a93d2ea16"
+        },
+        "2066910": {
+            "dlcappid": "2066910",
+            "manifests": {
+                "public": {
+                    "gid": "8770811382581486949",
+                    "size": "6544",
+                    "download": "6672"
+                }
+            },
+            "decryptionkey": "8ff87cc3c494c517f80489e57c018b420d152e074c712d94ad77d8d1edce70e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9508403",
+                "timeupdated": "1663089634"
+            },
+            "local": {
+                "buildid": "8208629",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1644951668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
