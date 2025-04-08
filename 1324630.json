@@ -1,0 +1,79 @@
+{
+    "appid": "1324630",
+    "type": "Game",
+    "name": "Drive-By Cop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25596699",
+    "update_time": "2024-10-09 01:36:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1324631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1500840286080512251",
+                    "size": "1985918334",
+                    "download": "568997552"
+                },
+                "test": {
+                    "gid": "1500840286080512251",
+                    "size": "1985918334",
+                    "download": "568997552"
+                }
+            },
+            "decryptionkey": "370c13a19b928a357f3320a0911c090d6ed3a1a52f0dc642bd7e0568c18ee1a3"
+        },
+        "1324632": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6411517208105187291",
+                    "size": "1976879884",
+                    "download": "535677008"
+                },
+                "test": {
+                    "gid": "6411517208105187291",
+                    "size": "1976879884",
+                    "download": "535677008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1324633": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7096380",
+                "timeupdated": "1627413078"
+            },
+            "test": {
+                "buildid": "7096380",
+                "description": "Test branch",
+                "timeupdated": "1627413017"
+            }
+        }
+    }
+}
