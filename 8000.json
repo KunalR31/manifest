@@ -1,0 +1,101 @@
+{
+    "appid": "8000",
+    "type": "Game",
+    "name": "Tomb Raider: Anniversary",
+    "schinese_name": "古墓丽影十周年纪念版",
+    "isfreeapp": "0",
+    "change_number": "27501179",
+    "update_time": "2025-02-16 16:16:09",
+    "depot": {
+        "overridescddb": "1",
+        "8003": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1511543773474975845",
+                    "size": "1285703680",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d4e8812e53cb24d184fa2f43f3628cb4cbf34292801a6cee8c466e516bf78199"
+        },
+        "8002": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3539074135745778285",
+                    "size": "1399744512",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "566e41ba63d701ebf6f145e2c0836504c38a36c476806f81de5b80ea2b253223"
+        },
+        "8001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "673843596600290444",
+                    "size": "1467169752",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4e1307023822badbbf24311cd61f7a64e6e36f9b31d3548cad45ecf53e5c2b64"
+        },
+        "8004": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7764973269043582719",
+                    "size": "35188605",
+                    "download": "18549104"
+                },
+                "local": {
+                    "gid": "4887654687505290490",
+                    "size": "35191522",
+                    "download": "18549968"
+                }
+            },
+            "decryptionkey": "85a3d729a50020ae5ee44b40241e3f00e970cdcaed1a58f3398119d3ff2504f4"
+        },
+        "8005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5094234521168121858",
+                    "size": "4107463924",
+                    "download": "2479190608"
+                },
+                "local": {
+                    "gid": "206039134985693447",
+                    "size": "4107463924",
+                    "download": "2479190608"
+                }
+            },
+            "decryptionkey": "2e7e2b94a64f32b584f5e3c86fd299420ce019d2930756ab6fd93a077f52de47"
+        },
+        "branches": {
+            "public": {
+                "buildid": "842717"
+            },
+            "local": {
+                "buildid": "862675",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
