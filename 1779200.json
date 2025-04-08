@@ -1,0 +1,75 @@
+{
+    "appid": "1779200",
+    "type": "Game",
+    "name": "Thrive",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27494151",
+    "update_time": "2025-02-15 21:06:18",
+    "depot": {
+        "1779202": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1138047218639712873",
+                    "size": "1793471361",
+                    "download": "598810400"
+                },
+                "0.6.5-last-version-with-godot-3": {
+                    "gid": "257976494422021828",
+                    "size": "964344786",
+                    "download": "486286720"
+                },
+                "beta": {
+                    "gid": "1138047218639712873",
+                    "size": "1793471361",
+                    "download": "598810400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1779203": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8492801338801533622",
+                    "size": "1815179728",
+                    "download": "604427920"
+                },
+                "0.6.5-last-version-with-godot-3": {
+                    "gid": "5125749421719998037",
+                    "size": "962136316",
+                    "download": "483293792"
+                },
+                "beta": {
+                    "gid": "8492801338801533622",
+                    "size": "1815179728",
+                    "download": "604427920"
+                }
+            },
+            "decryptionkey": "dfb49b0b5ca0f978bbc8b8660a2caf5557a9428728152c454982f0f2367fe141"
+        },
+        "workshopdepot": "1779200",
+        "branches": {
+            "public": {
+                "buildid": "17466974",
+                "timeupdated": "1740227376"
+            },
+            "0.6.5-last-version-with-godot-3": {
+                "buildid": "13551762",
+                "description": "Last version of Thrive before the update to Godot 4",
+                "timeupdated": "1712829661"
+            },
+            "beta": {
+                "buildid": "17466974",
+                "description": "non-stable version",
+                "timeupdated": "1740227322"
+            }
+        },
+        "workshopdepotdecryptionkey": "0bc26f1cfaaf503dd0da91dda91013588bbf228610145f4260c21f479f57210a"
+    }
+}
