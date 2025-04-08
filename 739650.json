@@ -1,0 +1,55 @@
+{
+    "appid": "739650",
+    "type": "Game",
+    "name": "Drake Hollow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24279554",
+    "update_time": "2024-07-09 00:57:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "739651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6679317760156277051",
+                    "size": "6708475725",
+                    "download": "2198294064"
+                },
+                "public_test_realm": {
+                    "gid": "7306325006801249908",
+                    "size": "6708403021",
+                    "download": "2198270864"
+                }
+            },
+            "decryptionkey": "552923721d39995578b2fbe8710de847045c8409ce877be51229c793fdf5f068"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7250853",
+                "timeupdated": "1630082541"
+            },
+            "public_test_realm": {
+                "buildid": "7113599",
+                "description": "Experimental build for public testing",
+                "timeupdated": "1628711909"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
