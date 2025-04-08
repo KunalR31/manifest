@@ -1,0 +1,126 @@
+{
+    "appid": "967050",
+    "type": "Game",
+    "name": "Pacify",
+    "schinese_name": "安抚",
+    "isfreeapp": "0",
+    "change_number": "26998583",
+    "update_time": "2025-01-15 08:22:00",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "967051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2767967813248720154",
+                    "size": "2738336479",
+                    "download": "2539575408"
+                },
+                "beforevoicechat": {
+                    "gid": "2596031047179860178",
+                    "size": "4581281767",
+                    "download": "2188568320"
+                },
+                "beforewoodsupdate": {
+                    "gid": "956979588960452256",
+                    "size": "4882500210",
+                    "download": "2327941024"
+                },
+                "beforelastupdate": {
+                    "gid": "8776328153087146076",
+                    "size": "2737935755",
+                    "download": "2539204704"
+                }
+            },
+            "decryptionkey": "f96aef139156453d9d43b1bcf8871a2d27acaec7129cc3270b195cddb35654fb"
+        },
+        "967052": {
+            "config": {
+                "osarch": "64",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4289640111343383449",
+                    "size": "2547913174",
+                    "download": "2372346112"
+                },
+                "beforevoicechat": {
+                    "gid": "2775818209891412246",
+                    "size": "4727333909",
+                    "download": "2288219248"
+                },
+                "beforewoodsupdate": {
+                    "gid": "7320454687369854624",
+                    "size": "4896127290",
+                    "download": "2391476608"
+                },
+                "beforelastupdate": {
+                    "gid": "7446047750781643410",
+                    "size": "2547528243",
+                    "download": "2371983072"
+                }
+            },
+            "decryptionkey": "a68832c81999178d3d4e7f79aae6866804866e68ec397a9cb74bb870e0083b60"
+        },
+        "967053": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7360878306830354340",
+                    "size": "2738336516",
+                    "download": "2542041632"
+                },
+                "beforelastupdate": {
+                    "gid": "6587702386118890818",
+                    "size": "2737935792",
+                    "download": "2541672800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15498557",
+                "timeupdated": "1724711833"
+            },
+            "beforevoicechat": {
+                "buildid": "5697819",
+                "description": "Pre voice chat build",
+                "timeupdated": "1602983341"
+            },
+            "beforewoodsupdate": {
+                "buildid": "5856843",
+                "description": "PACIFY before the woods update",
+                "timeupdated": "1644266792"
+            },
+            "beforelastupdate": {
+                "buildid": "13990405",
+                "description": "This is the game before the most recent update",
+                "timeupdated": "1724711854"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
