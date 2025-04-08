@@ -1,0 +1,84 @@
+{
+    "appid": "373650",
+    "type": "Game",
+    "name": "The Assembly",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28208040",
+    "update_time": "2025-03-30 01:15:40",
+    "depot": {
+        "baselanguages": "english,german,french",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "373659": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2502591635727516916",
+                    "size": "3896922653",
+                    "download": "3744815104"
+                },
+                "theassemblybase": {
+                    "gid": "8320237697606788619",
+                    "size": "3853792280",
+                    "download": "3752355920"
+                }
+            },
+            "decryptionkey": "a5ed5b17b39d6904234a4d2b7e7bef6bdcee3c28a2b776334f9175ff27122713"
+        },
+        "558880": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "558880",
+            "manifests": {
+                "public": {
+                    "gid": "5038431751740504054",
+                    "size": "114289521",
+                    "download": "81337504"
+                }
+            },
+            "decryptionkey": "9331d5fada3d612ca84c6a4d6e05ffdfe4c40bafcea9b4a6346463aeb05e3b49"
+        },
+        "560240": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3252636711155929647",
+                    "size": "624654",
+                    "download": "476064"
+                }
+            },
+            "dlcappid": "560240",
+            "decryptionkey": "32a7dfee1a2858766da301cde5c9b742024366f899c9a1ef3a0fd92017f7c608"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1779475",
+                "timeupdated": "1495524849"
+            },
+            "theassemblybase": {
+                "buildid": "1224296",
+                "timeupdated": "1468575180"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
