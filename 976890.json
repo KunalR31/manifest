@@ -1,0 +1,89 @@
+{
+    "appid": "976890",
+    "type": "Game",
+    "name": "Hidden Deep",
+    "schinese_name": "Hidden Deep 幽闭深渊",
+    "isfreeapp": "0",
+    "change_number": "28100445",
+    "update_time": "2025-03-24 08:13:08",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "976891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3672969895460789572",
+                    "size": "1468957971",
+                    "download": "1360975136"
+                },
+                "legacy-public": {
+                    "gid": "2904953256307857779",
+                    "size": "1458210938",
+                    "download": "1350553136"
+                },
+                "experimental-public": {
+                    "gid": "1505113900411494425",
+                    "size": "1534186974",
+                    "download": "1425356576"
+                }
+            },
+            "decryptionkey": "49094bb5630971acb88990f53e33a49560b3f354cd99790ba7f978c86457bbbc"
+        },
+        "1670550": {
+            "dlcappid": "1670550",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3011372649278130353",
+                    "size": "47356689",
+                    "download": "43397136"
+                },
+                "legacy-public": {
+                    "gid": "3011372649278130353",
+                    "size": "47356689",
+                    "download": "43397136"
+                },
+                "experimental-public": {
+                    "gid": "3011372649278130353",
+                    "size": "47356689",
+                    "download": "43397136"
+                }
+            },
+            "decryptionkey": "800b9e049bb1f65fd22b1263a6dd390cadedc9e091ea64fbc8e2437d1200bbac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14174691",
+                "timeupdated": "1714066476"
+            },
+            "legacy-public": {
+                "buildid": "11633655",
+                "description": "latest stable version for optional rollback",
+                "timeupdated": "1701712230"
+            },
+            "experimental-public": {
+                "buildid": "17069174",
+                "description": "unstable builds and previews",
+                "timeupdated": "1737403608"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
