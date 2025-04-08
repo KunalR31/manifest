@@ -1,0 +1,81 @@
+{
+    "appid": "1071870",
+    "type": "Game",
+    "name": "Biped",
+    "schinese_name": "只只大冒险",
+    "isfreeapp": "0",
+    "change_number": "28344197",
+    "update_time": "2025-04-07 19:02:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "hasdepotsindlc": "0",
+        "1071871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7542808206490832843",
+                    "size": "4554910897",
+                    "download": "1583991712"
+                },
+                "betterping": {
+                    "gid": "1704305488791824478",
+                    "size": "6543141075",
+                    "download": "3001617200"
+                }
+            },
+            "decryptionkey": "d6f3b571a1143307c6948afc03f2d3da402871af1602410cf9e270d993eeb303"
+        },
+        "1071872": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7868028777678480055",
+                    "size": "6321003892",
+                    "download": "2789597504"
+                },
+                "betterping": {
+                    "gid": "7868028777678480055",
+                    "size": "6321003892",
+                    "download": "2789597504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1071870",
+        "branches": {
+            "public": {
+                "buildid": "18008604",
+                "timeupdated": "1744023732"
+            },
+            "betterping": {
+                "buildid": "4909209",
+                "description": "Online COOP without public Matchmaking and Level Editor",
+                "timeupdated": "1646409139"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a510c15874cb4b269f734e0de29dd82c6fd8dde10954097cccf5c6540706bcf9"
+    }
+}
