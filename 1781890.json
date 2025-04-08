@@ -1,0 +1,51 @@
+{
+    "appid": "1781890",
+    "type": "Game",
+    "name": "The Coma 2B: Catacomb",
+    "schinese_name": "昏迷 2B：地下墓穴",
+    "isfreeapp": "0",
+    "change_number": "28216384",
+    "update_time": "2025-03-31 00:50:53",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,koreana",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1781891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1431304341364264280",
+                    "size": "3548244557",
+                    "download": "1309099792"
+                },
+                "hardcore_mode": {
+                    "gid": "8948217115838616625",
+                    "size": "3463031899",
+                    "download": "1305719152"
+                }
+            },
+            "decryptionkey": "7695a89bfd4e0d3f27fb4028c30100e4cfda9fdd21241199a99b368961309df1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17302813",
+                "timeupdated": "1739202333"
+            },
+            "hardcore_mode": {
+                "buildid": "16248979",
+                "description": "Hardcore Mode",
+                "timeupdated": "1730707774"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
