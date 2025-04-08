@@ -1,0 +1,84 @@
+{
+    "appid": "1227456",
+    "type": "DLC",
+    "name": "NeoCD",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731449",
+    "update_time": "2025-03-01 17:11:30",
+    "depot": {
+        "1227456": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227456"
+            },
+            "dlcappid": "1227456",
+            "manifests": {
+                "public": {
+                    "gid": "2896294583885920352",
+                    "size": "2270367",
+                    "download": "685984"
+                },
+                "nightly": {
+                    "gid": "2787410754165252230",
+                    "size": "2270367",
+                    "download": "685968"
+                }
+            },
+            "decryptionkey": "72e3737e9a6370b793d4d2959f2a9e220b9bc75e706b9ded34ca65784fde7d4e"
+        },
+        "1789980": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227456"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3351401781254965577",
+                    "size": "1485767",
+                    "download": "500448"
+                },
+                "nightly": {
+                    "gid": "3351401781254965577",
+                    "size": "1485767",
+                    "download": "500448"
+                }
+            },
+            "dlcappid": "1227456",
+            "decryptionkey": ""
+        },
+        "1789981": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227456"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2468785256669952807",
+                    "size": "3464663",
+                    "download": "1032704"
+                },
+                "nightly": {
+                    "gid": "2468785256669952807",
+                    "size": "3464663",
+                    "download": "1032704"
+                }
+            },
+            "dlcappid": "1227456",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911361",
+                "timeupdated": "1736093830"
+            },
+            "nightly": {
+                "buildid": "17557824",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820286"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
