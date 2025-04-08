@@ -1,0 +1,58 @@
+{
+    "appid": "392040",
+    "type": "Game",
+    "name": "War Blade",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 11:27:41",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "schinese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "392041": {
+            "manifests": {
+                "public": {
+                    "gid": "2759535924541938596",
+                    "size": "5713491670",
+                    "download": "2431413072"
+                },
+                "testfordlc": {
+                    "gid": "1818334688527883193",
+                    "size": "5064340210",
+                    "download": "2147160224"
+                }
+            },
+            "decryptionkey": "606caa3c4dd52f52d6315d13e6ece6bb656c26ef1b38b30fa06e57987db7773c"
+        },
+        "1015590": {
+            "dlcappid": "1015590",
+            "config": {
+                "optionaldlc": "1015590"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4445224",
+                "timeupdated": "1575119497"
+            },
+            "local": {
+                "buildid": "3161091",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1538041517"
+            },
+            "testfordlc": {
+                "buildid": "4043063",
+                "timeupdated": "1564385295"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
