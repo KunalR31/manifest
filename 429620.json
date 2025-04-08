@@ -1,0 +1,101 @@
+{
+    "appid": "429620",
+    "type": "Game",
+    "name": "Dungeon Rushers",
+    "schinese_name": "地城进击者",
+    "isfreeapp": "0",
+    "change_number": "27177825",
+    "update_time": "2025-01-27 12:26:56",
+    "depot": {
+        "baselanguages": "",
+        "workshopdepot": "429620",
+        "429622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "12444298044855925",
+                    "size": "322016765",
+                    "download": "91927024"
+                },
+                "endlessdungeon_debug": {
+                    "gid": "470923232109769220",
+                    "size": "322016765",
+                    "download": "91928176"
+                },
+                "test": {
+                    "gid": "12444298044855925",
+                    "size": "322016765",
+                    "download": "91927024"
+                }
+            },
+            "decryptionkey": "567d8ae99541b775b7bb5baf878753648ac15e729d13d5e8a1e2dc884ad7b416"
+        },
+        "429621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7560416166923458469",
+                    "size": "310318100",
+                    "download": "89272144"
+                },
+                "endlessdungeon_debug": {
+                    "gid": "4924358415413235271",
+                    "size": "310318100",
+                    "download": "89271744"
+                },
+                "test": {
+                    "gid": "7560416166923458469",
+                    "size": "310318100",
+                    "download": "89272144"
+                }
+            },
+            "decryptionkey": "35d8e8fe56ef15284d32543fe6d810c0dd2188bccfd596d606a90ffd2218a1d9"
+        },
+        "429623": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "888069726160885787",
+                    "size": "321797959",
+                    "download": "91638624"
+                },
+                "endlessdungeon_debug": {
+                    "gid": "60631548788044043",
+                    "size": "321797959",
+                    "download": "91638752"
+                },
+                "test": {
+                    "gid": "888069726160885787",
+                    "size": "321797959",
+                    "download": "91638624"
+                }
+            },
+            "decryptionkey": "75f2e840304cc06c333540b6e1eb3909a773a08a722c2f3a727ebbfa5d4f6674"
+        },
+        "429624": {},
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "3003466",
+                "timeupdated": "1536938241"
+            },
+            "endlessdungeon_debug": {
+                "buildid": "2996220",
+                "timeupdated": "1533129846"
+            },
+            "test": {
+                "buildid": "3003466",
+                "description": "only for testing",
+                "timeupdated": "1533306420"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "49f4f75f32e68171b0f31be84d135e27e334f5757f5a1cbdd462c2ff2e6552c5"
+    }
+}
