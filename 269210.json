@@ -1,0 +1,70 @@
+{
+    "appid": "269210",
+    "type": "Game",
+    "name": "Hero Siege",
+    "schinese_name": "攻城英雄",
+    "isfreeapp": "0",
+    "change_number": "28292657",
+    "update_time": "2025-04-04 00:10:49",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269213": {
+            "manifests": {
+                "public": {
+                    "gid": "1691208140207238565",
+                    "size": "2833877687",
+                    "download": "1313985952"
+                },
+                "herosiege1": {
+                    "gid": "3283961443098212989",
+                    "size": "3591683675",
+                    "download": "882563344"
+                }
+            },
+            "decryptionkey": "650c7455955440db5870deb3bbd0f004860db55b91d08669722add8b9bd1cdcc"
+        },
+        "269211": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1852031075682113934",
+                    "size": "3000281051",
+                    "download": "1395996240"
+                },
+                "herosiege1": {
+                    "gid": "7623323863527142409",
+                    "size": "3575935730",
+                    "download": "872933056"
+                }
+            },
+            "decryptionkey": "17c86e12a62175327e05b395fc5fb45ea6447ac445c5bea0b99e733b48520551"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17971002",
+                "timeupdated": "1743688403"
+            },
+            "herosiege1": {
+                "buildid": "10881969",
+                "description": "Hero Siege 5.9.6",
+                "timeupdated": "1698859553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
