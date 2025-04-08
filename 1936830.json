@@ -1,0 +1,109 @@
+{
+    "appid": "1936830",
+    "type": "Tool",
+    "name": "nanos world™ Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28310139",
+    "update_time": "2025-04-04 22:08:02",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1936831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6138571576839298664",
+                    "size": "30234101",
+                    "download": "7121856"
+                },
+                "bleeding-edge": {
+                    "gid": "6184863730231159599",
+                    "size": "30255093",
+                    "download": "7127632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1936832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2016580984243417860",
+                    "size": "35156980",
+                    "download": "8452224"
+                },
+                "bleeding-edge": {
+                    "gid": "6269470164691422482",
+                    "size": "35659292",
+                    "download": "8539552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1936830",
+        "branches": {
+            "public": {
+                "buildid": "17827085",
+                "timeupdated": "1742744343"
+            },
+            "bleeding-edge": {
+                "buildid": "17986059",
+                "description": "Constant and unstable updates",
+                "timeupdated": "1743775677"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
