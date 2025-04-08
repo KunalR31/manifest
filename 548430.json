@@ -1,0 +1,57 @@
+{
+    "appid": "548430",
+    "type": "Game",
+    "name": "Deep Rock Galactic",
+    "schinese_name": "深岩银河",
+    "isfreeapp": "0",
+    "change_number": "28338431",
+    "update_time": "2025-04-07 10:39:19",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "548431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5384538231234591937",
+                    "size": "3669441500",
+                    "download": "3332717648"
+                },
+                "drg_legacy": {
+                    "gid": "7513045820411102447",
+                    "size": "4700503447",
+                    "download": "4217871008"
+                }
+            },
+            "decryptionkey": "73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17601020",
+                "timeupdated": "1741683869"
+            },
+            "drg_legacy": {
+                "buildid": "17690485",
+                "description": "DRG + 2018 Legacy Edition",
+                "timeupdated": "1741772244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
