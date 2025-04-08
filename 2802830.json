@@ -1,0 +1,75 @@
+{
+    "appid": "2802830",
+    "type": "Demo",
+    "name": "School 666 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25925644",
+    "update_time": "2024-10-28 14:00:38",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2802831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1838945947841162819",
+                    "size": "7028722182",
+                    "download": "5080710784"
+                },
+                "testing": {
+                    "gid": "1838945947841162819",
+                    "size": "7028722182",
+                    "download": "5080710784"
+                },
+                "testing2": {
+                    "gid": "691562329898600906",
+                    "size": "7020900757",
+                    "download": "5072884736"
+                },
+                "testing3": {
+                    "gid": "2492633203998161823",
+                    "size": "7028724230",
+                    "download": "5080730688"
+                }
+            },
+            "decryptionkey": "020c8754586ca86d76c189ce80b42a77dde00de89e3a589c95d847573ef76300"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15993794",
+                "timeupdated": "1728560182"
+            },
+            "testing": {
+                "buildid": "15993794",
+                "description": "developer testing",
+                "timeupdated": "1728559942"
+            },
+            "testing2": {
+                "buildid": "15968639",
+                "description": "developer testing",
+                "timeupdated": "1728399532"
+            },
+            "testing3": {
+                "buildid": "15969021",
+                "description": "developer testing",
+                "timeupdated": "1728401656"
+            }
+        }
+    }
+}
