@@ -1,0 +1,53 @@
+{
+    "appid": "1857090",
+    "type": "Game",
+    "name": "Norland",
+    "schinese_name": "诺兰德 Norland",
+    "isfreeapp": "0",
+    "change_number": "28325332",
+    "update_time": "2025-04-06 01:11:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1857091": {
+            "manifests": {
+                "public": {
+                    "gid": "2513649209168629682",
+                    "size": "996896951",
+                    "download": "776536592"
+                },
+                "unstable": {
+                    "gid": "1998758435239297988",
+                    "size": "1010020593",
+                    "download": "788091216"
+                }
+            },
+            "decryptionkey": "370d177702e1721868b4db49904b523b83825e329df24930490ba7b3a7da7131"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17854435",
+                "timeupdated": "1742918998"
+            },
+            "unstable": {
+                "buildid": "17957611",
+                "description": "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!",
+                "timeupdated": "1743614024"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
