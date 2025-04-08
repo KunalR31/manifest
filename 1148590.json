@@ -1,0 +1,57 @@
+{
+    "appid": "1148590",
+    "type": "Game",
+    "name": "DOOM 64",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27280315",
+    "update_time": "2025-02-03 05:13:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1148592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4603289903974203863",
+                    "size": "10405152",
+                    "download": "3268560"
+                }
+            },
+            "decryptionkey": "bc4c97f55279905b9b59959067e5103d47a0efd4464607c1b659fe7ed2790d24"
+        },
+        "1148591": {
+            "manifests": {
+                "public": {
+                    "gid": "1585039031650632684",
+                    "size": "88178662",
+                    "download": "79430496"
+                }
+            },
+            "decryptionkey": "81e323e091fc79632b94020332d7f5f4c5767b99fbf257ed30d61716370b01bc"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "8972373",
+                "timeupdated": "1657637787"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
