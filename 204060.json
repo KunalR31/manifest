@@ -1,0 +1,110 @@
+{
+    "appid": "204060",
+    "type": "Game",
+    "name": "Superbrothers: Sword & Sworcery EP",
+    "schinese_name": "超级兄弟：剑与巫术",
+    "isfreeapp": "0",
+    "change_number": "27166094",
+    "update_time": "2025-01-26 03:25:46",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,japanese",
+        "204063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8942441531808655223",
+                    "size": "398595254",
+                    "download": "374100288"
+                },
+                "legacy": {
+                    "gid": "379700500602128275",
+                    "size": "339658886",
+                    "download": "324270048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "204062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5707097963766657588",
+                    "size": "411722271",
+                    "download": "376274688"
+                },
+                "legacy": {
+                    "gid": "7344817282070114295",
+                    "size": "337981223",
+                    "download": "328577616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "204061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6955229180046063978",
+                    "size": "391283115",
+                    "download": "371766208"
+                },
+                "legacy": {
+                    "gid": "6786398776298092278",
+                    "size": "344291442",
+                    "download": "328275040"
+                }
+            },
+            "decryptionkey": "c4bc7c933d0d28debb9f2d69c3208fce9ef6934cd8d8ea1d738ebeb889b632c9"
+        },
+        "204064": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3209792174573882883",
+                    "size": "392442895",
+                    "download": "371124336"
+                }
+            },
+            "decryptionkey": "053cfc91518035a3ffb0a17d1e9aa23330af779321f2919b0e1f6c1befab6da0"
+        },
+        "204065": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6753255366689848269",
+                    "size": "399227919",
+                    "download": "374110256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12830881",
+                "timeupdated": "1701290172"
+            },
+            "legacy": {
+                "buildid": "1229996",
+                "description": "2016 Legacy Build",
+                "timeupdated": "1698031669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
