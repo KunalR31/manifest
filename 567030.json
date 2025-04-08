@@ -1,0 +1,96 @@
+{
+    "appid": "567030",
+    "type": "Game",
+    "name": "Under Leaves",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24721409",
+    "update_time": "2024-08-09 22:34:39",
+    "depot": {
+        "567031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4859415531611332301",
+                    "size": "174505336",
+                    "download": "72832144"
+                },
+                "beta": {
+                    "gid": "7604585089612849539",
+                    "size": "181395837",
+                    "download": "74380704"
+                },
+                "legacy": {
+                    "gid": "1471892714579851438",
+                    "size": "274152684",
+                    "download": "83257440"
+                }
+            },
+            "decryptionkey": "e117def2f15e011af114fc6f874da7239f050aa2af301c75c07d871b167fd564"
+        },
+        "567032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8877512068079597933",
+                    "size": "293985981",
+                    "download": "88944800"
+                },
+                "beta": {
+                    "gid": "8877512068079597933",
+                    "size": "293985981",
+                    "download": "88944800"
+                },
+                "legacy": {
+                    "gid": "844932501687662016",
+                    "size": "323316402",
+                    "download": "98017744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "567033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "926611633681134003",
+                    "size": "286634470",
+                    "download": "86731040"
+                },
+                "beta": {
+                    "gid": "926611633681134003",
+                    "size": "286634470",
+                    "download": "86731040"
+                },
+                "legacy": {
+                    "gid": "3104083672808835516",
+                    "size": "286708069",
+                    "download": "86598640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4832884",
+                "timeupdated": "1585475066"
+            },
+            "beta": {
+                "buildid": "5760681",
+                "timeupdated": "1604056457"
+            },
+            "legacy": {
+                "buildid": "2446089",
+                "description": "latest build before last update",
+                "timeupdated": "1541073157"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
