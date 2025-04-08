@@ -1,0 +1,77 @@
+{
+    "appid": "284830",
+    "type": "Game",
+    "name": "Clockwork Tales: Of Glass and Ink",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25511185",
+    "update_time": "2024-10-03 17:00:07",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "284831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2031809819724386605",
+                    "size": "863462582",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2570199736788709352",
+                    "size": "863852186",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e2010ca387faef0694f88f7a80c01c26191041161d41abb38777e55c4ae5ae85"
+        },
+        "284832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2943420155058479897",
+                    "size": "916806470",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3129644459103246586",
+                    "size": "918197830",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "284833": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4280168265467363214",
+                    "size": "912309700",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1140802287396072170",
+                    "size": "913028884",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "241817"
+            },
+            "beta": {
+                "buildid": "247477",
+                "description": "Public Beta"
+            }
+        }
+    }
+}
