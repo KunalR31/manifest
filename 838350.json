@@ -1,0 +1,122 @@
+{
+    "appid": "838350",
+    "type": "Game",
+    "name": "太吾绘卷 The Scroll Of Taiwu",
+    "schinese_name": "太吾绘卷 ",
+    "isfreeapp": "0",
+    "change_number": "28286727",
+    "update_time": "2025-04-03 18:40:34",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "838351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9111731626440817268",
+                    "size": "3782044815",
+                    "download": "3013833952"
+                },
+                "frame-test": {
+                    "gid": "6687659281010261726",
+                    "size": "3920897875",
+                    "download": "3141460880"
+                },
+                "event-test": {
+                    "gid": "3388792448033242027",
+                    "size": "3592215401",
+                    "download": "2870420048"
+                },
+                "taiwu": {
+                    "gid": "2877948725981120064",
+                    "size": "1019814704",
+                    "download": "267279840"
+                },
+                "test": {
+                    "gid": "9111731626440817268",
+                    "size": "3782044815",
+                    "download": "3013833952"
+                }
+            },
+            "decryptionkey": "7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8"
+        },
+        "946970": {
+            "dlcappid": "946970",
+            "manifests": {
+                "public": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "frame-test": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "event-test": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "taiwu": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "test": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                }
+            },
+            "decryptionkey": "6eb479723fd905892e55add18fe531a67b7e3c42595302faa5685e47fd7603c3"
+        },
+        "2172691": {
+            "dlcappid": "2172690",
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "workshopdepot": "838350",
+        "branches": {
+            "public": {
+                "buildid": "17968080",
+                "timeupdated": "1743676830"
+            },
+            "frame-test": {
+                "buildid": "13865514",
+                "description": "框架测试分支",
+                "timeupdated": "1711605870"
+            },
+            "event-test": {
+                "buildid": "17289743",
+                "description": "事件编辑器分支",
+                "timeupdated": "1739010270"
+            },
+            "taiwu": {
+                "buildid": "15087254",
+                "description": "《太吾绘卷》纪念版",
+                "timeupdated": "1721638999"
+            },
+            "test": {
+                "buildid": "17968080",
+                "description": "测试分支",
+                "timeupdated": "1743676783"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
