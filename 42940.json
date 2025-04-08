@@ -1,0 +1,63 @@
+{
+    "appid": "42940",
+    "type": "Game",
+    "name": "Elven Legacy: Siege",
+    "schinese_name": "精灵遗产：围攻",
+    "isfreeapp": "0",
+    "change_number": "27933721",
+    "update_time": "2025-03-13 21:23:41",
+    "depot": {
+        "overridescddb": "1",
+        "42942": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1590138277198331011",
+                    "size": "1",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7414e5e07770368f0bd9669df971eca47d27a57702adc2bd1cec88debcee386b"
+        },
+        "25851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "25850",
+            "sharedinstall": "2"
+        },
+        "42941": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1996161355832937425",
+                    "size": "776721724",
+                    "download": "426794800"
+                }
+            },
+            "decryptionkey": "1ef8fc434e45fa3b2f3694ebad87e616dc47b96b44d684657e7fa3fd2b978484"
+        },
+        "25852": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "depotfromapp": "25850",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15238105",
+                "timeupdated": "1722868267"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
