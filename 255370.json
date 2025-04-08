@@ -1,0 +1,52 @@
+{
+    "appid": "255370",
+    "type": "Game",
+    "name": "KickBeat Steam Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25666947",
+    "update_time": "2024-10-11 23:59:42",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "255371": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1543156344912954960",
+                    "size": "1232102333",
+                    "download": "0"
+                },
+                "lbandy": {
+                    "gid": "6265893156668341271",
+                    "size": "1232095845",
+                    "download": "1119507344"
+                },
+                "zen_test": {
+                    "gid": "441913999612266218",
+                    "size": "1232263417",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "29daa62cb0831ac0d112ad4dcf7a64cca7cb40e5fdcadf05597f9940361d9c06"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "174212"
+            },
+            "lbandy": {
+                "buildid": "833740"
+            },
+            "zen_test": {
+                "buildid": "170150"
+            }
+        }
+    }
+}
