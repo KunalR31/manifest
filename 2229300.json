@@ -1,0 +1,58 @@
+{
+    "appid": "2229300",
+    "type": "Game",
+    "name": "Iragon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28082154",
+    "update_time": "2025-03-22 08:15:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2229301": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8783829749346670395",
+                    "size": "13524239758",
+                    "download": "12750287888"
+                }
+            },
+            "decryptionkey": "47abf4ca02fe0aa137624c117749b86fc078781d4cc158df0440c68cf064d107"
+        },
+        "2229302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2538488506787471512",
+                    "size": "14450629402",
+                    "download": "13920906416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13751252",
+                "timeupdated": "1710500640"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
