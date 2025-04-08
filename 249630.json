@@ -1,0 +1,150 @@
+{
+    "appid": "249630",
+    "type": "Game",
+    "name": "Delver",
+    "schinese_name": "地牢探索者",
+    "isfreeapp": "0",
+    "change_number": "27160406",
+    "update_time": "2025-01-25 12:26:34",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "249630",
+        "249631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6680730644186394716",
+                    "size": "236888200",
+                    "download": "108179472"
+                },
+                "alpha": {
+                    "gid": "7919581925707734830",
+                    "size": "38463144",
+                    "download": "0"
+                },
+                "next": {
+                    "gid": "6680730644186394716",
+                    "size": "236888200",
+                    "download": "108179472"
+                },
+                "v1.04": {
+                    "gid": "3558890469342861593",
+                    "size": "235581535",
+                    "download": "104668496"
+                }
+            },
+            "decryptionkey": "d7d1c1b5031e28402d165b7463fb8b0c536833a1399c1c952ca0d7a11a86ada0"
+        },
+        "249632": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4223610947791596591",
+                    "size": "489405987",
+                    "download": "233791472"
+                },
+                "alpha": {
+                    "gid": "6262410193068530582",
+                    "size": "343827",
+                    "download": "0"
+                },
+                "next": {
+                    "gid": "4223610947791596591",
+                    "size": "489405987",
+                    "download": "233791472"
+                },
+                "v1.04": {
+                    "gid": "4083507393525312370",
+                    "size": "488099322",
+                    "download": "230280496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "249633": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5590742085084855222",
+                    "size": "248107465",
+                    "download": "109967648"
+                },
+                "alpha": {
+                    "gid": "8178981612047351524",
+                    "size": "63803782",
+                    "download": "0"
+                },
+                "next": {
+                    "gid": "5590742085084855222",
+                    "size": "248107465",
+                    "download": "109967648"
+                },
+                "v1.04": {
+                    "gid": "3908438021024575367",
+                    "size": "246800800",
+                    "download": "109230656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "249634": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3163639334474236520",
+                    "size": "231355392",
+                    "download": "106992048"
+                },
+                "next": {
+                    "gid": "3163639334474236520",
+                    "size": "231355392",
+                    "download": "106992048"
+                },
+                "v1.04": {
+                    "gid": "4446623834563361313",
+                    "size": "230048727",
+                    "download": "104758336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7583356",
+                "timeupdated": "1634927503"
+            },
+            "alpha": {
+                "buildid": "4862291",
+                "description": "Alpha Release",
+                "timeupdated": "1586119533"
+            },
+            "next": {
+                "buildid": "7583356",
+                "description": "Test branch",
+                "timeupdated": "1634923530"
+            },
+            "v1.04": {
+                "buildid": "5849924",
+                "description": "v1.04 Release",
+                "timeupdated": "1605736314"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ad2bfbf226d7a896d30e932eaee08d5a4ef3fe3e9cad366d422c2dc0f6c672da"
+    }
+}
