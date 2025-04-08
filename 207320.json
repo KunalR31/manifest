@@ -1,0 +1,73 @@
+{
+    "appid": "207320",
+    "type": "Game",
+    "name": "Ys: The Oath in Felghana",
+    "schinese_name": "伊苏：菲尔盖娜之誓约",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-16 22:08:44",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "207321": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8280061726252529755",
+                    "size": "1822775610",
+                    "download": "1688723968"
+                },
+                "2015-12-08": {
+                    "gid": "1478377511188434536",
+                    "size": "1312271754",
+                    "download": "1245940256"
+                },
+                "2017-11-01": {
+                    "gid": "1003249672355971996",
+                    "size": "1327912497",
+                    "download": "1229183168"
+                },
+                "2018-04-12": {
+                    "gid": "691635595061596399",
+                    "size": "1327914033",
+                    "download": "1229183200"
+                }
+            },
+            "decryptionkey": "debd8d5675f7e8478017cd8809ea239b5257f2b2b04ddbe4c732910bd6d7f096"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "4766666",
+                "timeupdated": "1583939794"
+            },
+            "2015-12-08": {
+                "buildid": "890730",
+                "description": "December 8th, 2015 version",
+                "timeupdated": "1580566347"
+            },
+            "2017-11-01": {
+                "buildid": "2249175",
+                "description": "November 1st, 2017 version",
+                "timeupdated": "1580566297"
+            },
+            "2018-04-12": {
+                "buildid": "2683381",
+                "description": "April 12th, 2018 version",
+                "timeupdated": "1580566266"
+            }
+        }
+    }
+}
