@@ -1,0 +1,89 @@
+{
+    "appid": "22140",
+    "type": "Game",
+    "name": "Penumbra: Requiem",
+    "schinese_name": "半影：安魂曲",
+    "isfreeapp": "0",
+    "change_number": "26329543",
+    "update_time": "2024-12-05 01:09:12",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "22124": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "22120",
+            "sharedinstall": "2"
+        },
+        "22142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1131806381774624711",
+                    "size": "389768714",
+                    "download": "68212688712"
+                }
+            },
+            "decryptionkey": "56d90961a291d48d53a8df912240f5704a78e36f9c7597b28bb4c17c25c423a0"
+        },
+        "22121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "22120",
+            "sharedinstall": "2"
+        },
+        "22141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7852474613245949135",
+                    "size": "107",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5a273040e1bf4df9111903817afe1f3f9fda0d513111455216028a243ed6d773"
+        },
+        "22125": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "22120",
+            "sharedinstall": "2"
+        },
+        "22143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4178871024686600062",
+                    "size": "356858557",
+                    "download": "69401821335"
+                }
+            },
+            "decryptionkey": "1ef0ef4b5b26bf94631d68d7634f80ab771a4d1ee3b5e85ceaa05a9c1720a4eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "436499"
+            }
+        }
+    }
+}
