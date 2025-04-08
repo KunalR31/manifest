@@ -1,0 +1,94 @@
+{
+    "appid": "799640",
+    "type": "Game",
+    "name": "Dungeon Munchies",
+    "schinese_name": "餐癮地城",
+    "isfreeapp": "0",
+    "change_number": "27801125",
+    "update_time": "2025-03-06 03:11:19",
+    "depot": {
+        "baselanguages": "tchinese",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "799640",
+        "799641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "544172193488406074",
+                    "size": "2556680098",
+                    "download": "728093792"
+                },
+                "openbeta": {
+                    "gid": "5740538190079345488",
+                    "size": "2336843717",
+                    "download": "495358624"
+                }
+            },
+            "decryptionkey": "7170d2682fbc0a2a4ce11b8da18314e79358a14fce34a6e277060dfaf96595f2"
+        },
+        "799642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1714743076324512692",
+                    "size": "2583414341",
+                    "download": "736931104"
+                },
+                "openbeta": {
+                    "gid": "6855895812800716037",
+                    "size": "2453757094",
+                    "download": "514169472"
+                }
+            },
+            "decryptionkey": "e72f22ea8419781c9583b49be2fda6a72ef8356eee885ad7320b267b98d63bf5"
+        },
+        "799643": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "57272738926185759",
+                    "size": "2545419626",
+                    "download": "725830080"
+                },
+                "openbeta": {
+                    "gid": "7408131112823527608",
+                    "size": "2322790221",
+                    "download": "494355936"
+                }
+            },
+            "decryptionkey": "d70f422e7fcba45f627d6fd8c5e71baa0234e23739e343a59b23fc3d8a6e12c6"
+        },
+        "3185730": {
+            "dlcappid": "3185730",
+            "manifests": {
+                "public": {
+                    "gid": "9110642349592185451",
+                    "size": "75232877",
+                    "download": "76152224"
+                }
+            },
+            "decryptionkey": "ebffda2eb35e60c49f5a8d42ca8519e6860fcf913ec3e4a8a7eb52df9b80c752"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16746834",
+                "timeupdated": "1734199234"
+            },
+            "openbeta": {
+                "buildid": "9486118",
+                "description": "some unstable things",
+                "timeupdated": "1663404831"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
