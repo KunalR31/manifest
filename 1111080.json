@@ -1,0 +1,69 @@
+{
+    "appid": "1111080",
+    "type": "Game",
+    "name": "Ghost Feed",
+    "schinese_name": "吃香",
+    "isfreeapp": "0",
+    "change_number": "27222577",
+    "update_time": "2025-01-30 02:17:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "1111081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5187045191428938874",
+                    "size": "1238504585",
+                    "download": "1158088368"
+                },
+                "local": {
+                    "gid": "6049612115118207928",
+                    "size": "1029267125",
+                    "download": "845006704"
+                },
+                "test0322": {
+                    "gid": "6049612115118207928",
+                    "size": "1029267125",
+                    "download": "845006704"
+                }
+            },
+            "decryptionkey": "c030be04ac111ae1dc499561e96c0d30fb8fdf070c21a19f789c0c9c4dcf6f26"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "12769301",
+                "timeupdated": "1700645752"
+            },
+            "local": {
+                "buildid": "10828625",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1679490932"
+            },
+            "test0322": {
+                "buildid": "10828625",
+                "description": "FOR TEST",
+                "lcsrequired": "1",
+                "timeupdated": "1679489102"
+            }
+        }
+    }
+}
