@@ -1,0 +1,105 @@
+{
+    "appid": "223350",
+    "type": "Tool",
+    "name": "DayZ Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28287800",
+    "update_time": "2025-04-03 19:49:01",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "223351": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4436483433882577595",
+                    "size": "3600456886",
+                    "download": "1265594352"
+                },
+                "experimental_public": {
+                    "gid": "6851238236280575555",
+                    "size": "1857037019",
+                    "download": "702440208"
+                }
+            },
+            "decryptionkey": "313fce1b92870aeae709cf0dc905b4017f2d838199ee73085ace74dcf812dfb6"
+        },
+        "223352": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6018071656496415359",
+                    "size": "61449976",
+                    "download": "17889888"
+                }
+            },
+            "decryptionkey": "0e8d4d681fedd8b8693222327d7b5f58ff56cf714bfdd59a3d654f0ac39a525c"
+        },
+        "223353": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3613479209209184848",
+                    "size": "42242544",
+                    "download": "13225552"
+                },
+                "experimental_public": {
+                    "gid": "6169702869082609638",
+                    "size": "32900600",
+                    "download": "10542720"
+                }
+            },
+            "decryptionkey": "a54f79b99eb82d48dbc223eab2c92454fb191a97853713b56c6e8b77d69a9065"
+        },
+        "223354": {
+            "manifests": {
+                "public": {
+                    "gid": "2135192983990935313",
+                    "size": "303048384",
+                    "download": "11658208"
+                }
+            },
+            "decryptionkey": "0004afb451c4e4c2917c895c240f57e8b422d71b3ada06d0c780b97e8e3de7e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17883218",
+                "timeupdated": "1743680938"
+            },
+            "experimental_public": {
+                "buildid": "3889697",
+                "description": "Unstable testing version",
+                "timeupdated": "1559730582"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
