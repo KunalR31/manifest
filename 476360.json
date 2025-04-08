@@ -1,0 +1,69 @@
+{
+    "appid": "476360",
+    "type": "Game",
+    "name": "Strike Vector EX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27220568",
+    "update_time": "2025-01-30 00:12:14",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "476361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5534245986530945113",
+                    "size": "5014831352",
+                    "download": "4622987280"
+                },
+                "developpers": {
+                    "gid": "5534245986530945113",
+                    "size": "5014831352",
+                    "download": "4622987280"
+                },
+                "experimental": {
+                    "gid": "817165526822810263",
+                    "size": "5001734165",
+                    "download": "4608798544"
+                }
+            },
+            "decryptionkey": "18f6fcfa750c7c44cad118d9a5666ce0c487f0be839e92761633bca1c885fb5c"
+        },
+        "476362": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2514976",
+                "timeupdated": "1518277330"
+            },
+            "developpers": {
+                "buildid": "2514976",
+                "timeupdated": "1518276652"
+            },
+            "experimental": {
+                "buildid": "2069239",
+                "timeupdated": "1503691801"
+            }
+        }
+    }
+}
