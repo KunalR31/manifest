@@ -1,0 +1,167 @@
+{
+    "appid": "230820",
+    "type": "Game",
+    "name": "The Night of the Rabbit",
+    "schinese_name": "兔子之夜",
+    "isfreeapp": "0",
+    "change_number": "28233377",
+    "update_time": "2025-04-01 01:49:27",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian",
+        "markdlcdepots": "0",
+        "230822": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7327917578490428674",
+                    "size": "179386194",
+                    "download": "56044432"
+                },
+                "local": {
+                    "gid": "2562166614761034621",
+                    "size": "21447678",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cf0b7fe703907bce38d39b13583190eced09940af529e215d2c2790fa5287a3e"
+        },
+        "230821": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4343367195252801588",
+                    "size": "3195755991",
+                    "download": "3173486704"
+                },
+                "local": {
+                    "gid": "7913393334493220733",
+                    "size": "6227797335",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b88f47712d3bfa382d7fb16dfe2a9a046e17aa5ce3579b14a35919b3db4fcb56"
+        },
+        "230828": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "651983693808926020",
+                    "size": "57370874",
+                    "download": "19617040"
+                },
+                "local": {
+                    "gid": "3012313531901674461",
+                    "size": "29304214",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "637e5c0d534c5c244f9c5061a07576f81d543b98664de3d66538c2cb6637e9ce"
+        },
+        "230827": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2926895442192701892",
+                    "size": "3195755991",
+                    "download": "3173491808"
+                },
+                "local": {
+                    "gid": "6816399264594779306",
+                    "size": "6227797335",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "69a409b9264c670834385235c0e7040697b63b53fbd77477cff18f4522b185e8"
+        },
+        "230830": {
+            "manifests": {
+                "public": {
+                    "gid": "8836828118052220802",
+                    "size": "2404765606",
+                    "download": "2146829232"
+                },
+                "local": {
+                    "gid": "2995341109096764429",
+                    "size": "2331639581",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "230830",
+            "decryptionkey": "34d14c7e0804921a687104c1e384fa29c550ecc1bd47e9367cc8e1bc1d6b491b"
+        },
+        "230823": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7146913131750677170",
+                    "size": "97657560",
+                    "download": "30190288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "230824": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2894509205247066359",
+                    "size": "3195755991",
+                    "download": "3175147168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17502479",
+                "timeupdated": "1740500857"
+            },
+            "local": {
+                "buildid": "65684",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
