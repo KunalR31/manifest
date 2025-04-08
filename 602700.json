@@ -1,0 +1,171 @@
+{
+    "appid": "602700",
+    "type": "Game",
+    "name": "Chippy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27005282",
+    "update_time": "2025-01-15 18:14:05",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "602700",
+        "602701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2986824565107946112",
+                    "size": "692486233",
+                    "download": "276761536"
+                },
+                "legacy": {
+                    "gid": "3691733133981995635",
+                    "size": "750983613",
+                    "download": "196834448"
+                },
+                "legacy-v56": {
+                    "gid": "5256005685831111069",
+                    "size": "723902680",
+                    "download": "189835792"
+                },
+                "no-rendertextures": {
+                    "gid": "1276602229963882690",
+                    "size": "935660068",
+                    "download": "297637424"
+                },
+                "redux-workshop": {
+                    "gid": "7232543260635785636",
+                    "size": "490306861",
+                    "download": "158960928"
+                },
+                "debug": {
+                    "gid": "3634966494681692198",
+                    "size": "908087335",
+                    "download": "296187328"
+                }
+            },
+            "decryptionkey": "8e9da79462da88439f077656b90c11bc078de5ef9437be8cdc1f77090c2428c6"
+        },
+        "602702": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1597671451732407788",
+                    "size": "681586268",
+                    "download": "273441264"
+                },
+                "legacy": {
+                    "gid": "1958049211329030861",
+                    "size": "738118589",
+                    "download": "192721936"
+                },
+                "legacy-v56": {
+                    "gid": "558392322835912032",
+                    "size": "716570668",
+                    "download": "187559152"
+                },
+                "no-rendertextures": {
+                    "gid": "1837188308290723030",
+                    "size": "941693402",
+                    "download": "294354496"
+                },
+                "redux-workshop": {
+                    "gid": "943512599531880409",
+                    "size": "472622980",
+                    "download": "153657408"
+                },
+                "debug": {
+                    "gid": "3011723507071019521",
+                    "size": "913506387",
+                    "download": "292893520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "602704": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4241977917615397919",
+                    "size": "741020634",
+                    "download": "278127456"
+                },
+                "legacy": {
+                    "gid": "8009624615302096938",
+                    "size": "779641433",
+                    "download": "207474720"
+                },
+                "legacy-v56": {
+                    "gid": "5530499473670040245",
+                    "size": "758133200",
+                    "download": "202249232"
+                },
+                "no-rendertextures": {
+                    "gid": "4231254926349001258",
+                    "size": "921091162",
+                    "download": "299786800"
+                },
+                "redux-workshop": {
+                    "gid": "5159444018627853271",
+                    "size": "506151963",
+                    "download": "160283600"
+                },
+                "debug": {
+                    "gid": "72575781434737117",
+                    "size": "877986643",
+                    "download": "295064560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12223833",
+                "timeupdated": "1695118060"
+            },
+            "legacy": {
+                "buildid": "5001262",
+                "description": "Archived replays from before the Redux Update",
+                "timeupdated": "1648046746"
+            },
+            "legacy-v56": {
+                "buildid": "4332716",
+                "description": "Legacy replay support",
+                "timeupdated": "1572296117"
+            },
+            "no-rendertextures": {
+                "buildid": "9150099",
+                "description": "Test build to support older GPUs",
+                "timeupdated": "1658248175"
+            },
+            "redux-workshop": {
+                "buildid": "5874901",
+                "description": "Test workshop support in redux",
+                "timeupdated": "1606227439"
+            },
+            "debug": {
+                "buildid": "15886696",
+                "description": "Development builds with extra diagnostics",
+                "timeupdated": "1734214216"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "14d54c66fcd7444c9b73c2edf16beab748238f32ee51e042bc88ea3f3a4814c6"
+    }
+}
