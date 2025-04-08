@@ -1,0 +1,59 @@
+{
+    "appid": "358300",
+    "type": "Game",
+    "name": "Major Stryker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27028025",
+    "update_time": "2025-01-17 00:07:47",
+    "depot": {
+        "358301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4234364669001166710",
+                    "size": "32811938",
+                    "download": "11596496"
+                }
+            },
+            "decryptionkey": "1bbb7824fa227b3fcd6d2c39df1cd1e493c7365d5cc0486a56120bf15761aaf9"
+        },
+        "358302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1951672371918033842",
+                    "size": "10818473",
+                    "download": "2786480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "358303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4648468625388612600",
+                    "size": "12834430",
+                    "download": "3688640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "358282": {
+            "depotfromapp": "358280",
+            "sharedinstall": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "606131"
+            }
+        }
+    }
+}
