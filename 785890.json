@@ -1,0 +1,68 @@
+{
+    "appid": "785890",
+    "type": "Game",
+    "name": "Hexologic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28069240",
+    "update_time": "2025-03-21 18:10:56",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "785890",
+        "785891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3719778854459656144",
+                    "size": "467934258",
+                    "download": "170109072"
+                }
+            },
+            "decryptionkey": "d710717cb096ec7c3e0176712a73752e192045587df4f50522ee45f4197488c3"
+        },
+        "785892": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8979049556615238931",
+                    "size": "582576402",
+                    "download": "202157504"
+                }
+            },
+            "decryptionkey": "8f058d74f981f23b26796967565f80362abb231f7c9d4d7cb231752d7fb731f0"
+        },
+        "785893": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3661755935049501305",
+                    "size": "436963434",
+                    "download": "94075104"
+                }
+            },
+            "decryptionkey": "bb9ffd5dc1d72221740acd8d0b50ddce34da931589ec30e5ed7dcb109a44d131"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8457631",
+                "timeupdated": "1648548355"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
