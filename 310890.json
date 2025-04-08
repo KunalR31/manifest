@@ -1,0 +1,76 @@
+{
+    "appid": "310890",
+    "type": "Game",
+    "name": "Breach & Clear: Deadline Rebirth (2016)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27163675",
+    "update_time": "2025-01-25 21:25:02",
+    "depot": {
+        "310891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4148300946245112560",
+                    "size": "2298619979",
+                    "download": "859895840"
+                },
+                "dev-builds": {
+                    "gid": "899595685985869254",
+                    "size": "3140654425",
+                    "download": "1207098608"
+                }
+            },
+            "decryptionkey": "5e1be8779b5110a9705ce29a234efaec21f19a8345ce316ef851629238ef5762"
+        },
+        "310892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6739308467630632473",
+                    "size": "2336383697",
+                    "download": "872773776"
+                },
+                "dev-builds": {
+                    "gid": "2671509206953792803",
+                    "size": "3197298362",
+                    "download": "1210488272"
+                }
+            },
+            "decryptionkey": "7b13874b6ab3886ad3959ce3cca629fc3414ea13ce2037a0982c9c3d5a5917ff"
+        },
+        "310893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7719541236226593297",
+                    "size": "2305684473",
+                    "download": "862820512"
+                },
+                "dev-builds": {
+                    "gid": "3901822687244111257",
+                    "size": "3234045515",
+                    "download": "1206355616"
+                }
+            },
+            "decryptionkey": "be6ce9c92a10f5827635c0837807d2ed093e2c2802678428ac2d83849e082aea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1468090",
+                "timeupdated": "1479504891"
+            },
+            "dev-builds": {
+                "buildid": "848696",
+                "description": "Grants access to the most up-to-date build for each platform. These builds are not guaranteed to be stable and may totally destroy a save file."
+            }
+        },
+        "privatebranches": "1"
+    }
+}
