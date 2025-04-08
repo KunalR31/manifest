@@ -1,0 +1,66 @@
+{
+    "appid": "1115450",
+    "type": "Game",
+    "name": "Bastide",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28216014",
+    "update_time": "2025-03-30 23:56:58",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1115451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "698437282566470949",
+                    "size": "5022888995",
+                    "download": "4674609696"
+                },
+                "ue4version": {
+                    "gid": "2817252914686316573",
+                    "size": "3746236421",
+                    "download": "3282977536"
+                },
+                "bugtest": {
+                    "gid": "7702154353024683211",
+                    "size": "3374006098",
+                    "download": "3093984512"
+                }
+            },
+            "decryptionkey": "9ed13205abec3ce6b09f0a8580f12411e3adc5ef7b0b65f544df81ad31bbb769"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "17839492",
+                "timeupdated": "1742838480"
+            },
+            "ue4version": {
+                "buildid": "8390465",
+                "description": "To play old saves or due to issues with the new version.",
+                "timeupdated": "1659009672"
+            },
+            "bugtest": {
+                "buildid": "16830377",
+                "description": "For testing specific issues.",
+                "timeupdated": "1735354258"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
