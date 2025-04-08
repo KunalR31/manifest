@@ -1,0 +1,69 @@
+{
+    "appid": "1836160",
+    "type": "Game",
+    "name": "PANELKI",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27099091",
+    "update_time": "2025-01-22 03:04:29",
+    "depot": {
+        "baselanguages": "english,russian,polish",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836161": {
+            "manifests": {
+                "public": {
+                    "gid": "1845249750888095018",
+                    "size": "1895163974",
+                    "download": "1737726320"
+                },
+                "panelki_1.3.0": {
+                    "gid": "8255976754902752752",
+                    "size": "2063048430",
+                    "download": "1966263040"
+                }
+            },
+            "decryptionkey": "88d16d6da589bf58001edd0d7ab5434950ac40e7e3411f0f8666eda42a049096"
+        },
+        "2018100": {
+            "dlcappid": "2018100",
+            "manifests": {
+                "public": {
+                    "gid": "3585088176997537779",
+                    "size": "151866",
+                    "download": "149568"
+                },
+                "panelki_1.3.0": {
+                    "gid": "3585088176997537779",
+                    "size": "151866",
+                    "download": "149568"
+                }
+            },
+            "decryptionkey": "79d0b98e8d0db4b420b5721021dff5b627fa95e888a05d880869b145e93f9b0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16552722",
+                "timeupdated": "1732730040"
+            },
+            "panelki_1.3.0": {
+                "buildid": "10307993",
+                "description": "Previous version of PANELKI",
+                "timeupdated": "1728419593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
