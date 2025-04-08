@@ -1,0 +1,94 @@
+{
+    "appid": "532750",
+    "type": "Game",
+    "name": "Dwarrows",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26493680",
+    "update_time": "2024-12-05 12:46:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "532751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4732996327168591993",
+                    "size": "2208907461",
+                    "download": "620067728"
+                },
+                "legacy_prerelease_v1_beta25": {
+                    "gid": "1150341025923415140",
+                    "size": "2067401693",
+                    "download": "577266304"
+                }
+            },
+            "decryptionkey": "e75a332ab10143335aa9b8a65cc909591386c52bb7675810092ca898e41d22b6"
+        },
+        "532752": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5648552440658818772",
+                    "size": "2565299675",
+                    "download": "769330736"
+                },
+                "legacy_prerelease_v1_beta25": {
+                    "gid": "6708903506578533863",
+                    "size": "3061970874",
+                    "download": "813870384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "532753": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5734438746082184094",
+                    "size": "2521762029",
+                    "download": "693031072"
+                },
+                "legacy_prerelease_v1_beta25": {
+                    "gid": "2651306315822345713",
+                    "size": "2707743657",
+                    "download": "698379040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6686422",
+                "timeupdated": "1620869926"
+            },
+            "legacy_prerelease_v1_beta25": {
+                "buildid": "4151675",
+                "timeupdated": "1578558577"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
