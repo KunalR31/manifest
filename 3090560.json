@@ -1,0 +1,52 @@
+{
+    "appid": "3090560",
+    "type": "DLC",
+    "name": "超级星探高清DLC",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26536323",
+    "update_time": "2024-12-07 11:56:03",
+    "depot": {
+        "3090560": {
+            "dlcappid": "3090560",
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "3090560"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "721645060628789187",
+                    "size": "98728111912",
+                    "download": "92841560432"
+                },
+                "public_test": {
+                    "gid": "721645060628789187",
+                    "size": "98728111912",
+                    "download": "92841560432"
+                }
+            },
+            "decryptionkey": "e3ce86414dcb6d0ee7e9fdc4fe4887ef9c871aa81d415ac30a409857f97f2829"
+        },
+        "3090561": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "3090560"
+            },
+            "manifests": {},
+            "dlcappid": "3090560"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15181665",
+                "timeupdated": "1722252859"
+            },
+            "public_test": {
+                "buildid": "15181665",
+                "description": "player public test",
+                "timeupdated": "1722222137"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
