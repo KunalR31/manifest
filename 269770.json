@@ -1,0 +1,137 @@
+{
+    "appid": "269770",
+    "type": "Game",
+    "name": "Secrets of Grindea",
+    "schinese_name": "格兰蒂亚秘闻",
+    "isfreeapp": "0",
+    "change_number": "28070216",
+    "update_time": "2025-03-21 19:13:07",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "269770",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269771": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "160206709621892555",
+                    "size": "770582579",
+                    "download": "598427696"
+                },
+                "v0.610": {
+                    "gid": "1328453593764709558",
+                    "size": "304720891",
+                    "download": "250310096"
+                },
+                "v0.650": {
+                    "gid": "7825177444931455180",
+                    "size": "328503821",
+                    "download": "269662288"
+                },
+                "v0.700": {
+                    "gid": "2753378632463407225",
+                    "size": "409286505",
+                    "download": "330415280"
+                },
+                "v0.710": {
+                    "gid": "4095845210909968002",
+                    "size": "405704496",
+                    "download": "326384656"
+                },
+                "v0.730": {
+                    "gid": "5884131199838202549",
+                    "size": "412812331",
+                    "download": "331020592"
+                },
+                "v0.800": {
+                    "gid": "7128493584690760626",
+                    "size": "459168464",
+                    "download": "368583984"
+                },
+                "v0.890": {
+                    "gid": "3765235012217024297",
+                    "size": "545010407",
+                    "download": "431595120"
+                },
+                "v0.920": {
+                    "gid": "5691809168108777451",
+                    "size": "567157753",
+                    "download": "449193168"
+                },
+                "frontline": {
+                    "gid": "160206709621892555",
+                    "size": "770582579",
+                    "download": "598427696"
+                }
+            },
+            "decryptionkey": "2c09668a8bd8fdf1e30cb0fb1b6183b05366c8564274d48b00f3b944a0205977"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15391509",
+                "timeupdated": "1723799257"
+            },
+            "v0.610": {
+                "buildid": "875001",
+                "description": "Legacy Version",
+                "timeupdated": "1459449409"
+            },
+            "v0.650": {
+                "buildid": "1130063",
+                "description": "Legacy Version",
+                "timeupdated": "1493478761"
+            },
+            "v0.700": {
+                "buildid": "1809781",
+                "description": "Legacy Version",
+                "timeupdated": "1498563347"
+            },
+            "v0.710": {
+                "buildid": "1924767",
+                "description": "Legacy Version",
+                "timeupdated": "1508927776"
+            },
+            "v0.730": {
+                "buildid": "2255123",
+                "description": "Legacy Version",
+                "timeupdated": "1527852954"
+            },
+            "v0.800": {
+                "buildid": "3424845",
+                "description": "Legacy Version",
+                "timeupdated": "1545587125"
+            },
+            "v0.890": {
+                "buildid": "5306862",
+                "description": "The previous Stable",
+                "timeupdated": "1622629179"
+            },
+            "v0.920": {
+                "buildid": "6814816",
+                "description": "The previous Stable",
+                "timeupdated": "1708613909"
+            },
+            "frontline": {
+                "buildid": "15391509",
+                "description": "Newest features, may be unstable",
+                "timeupdated": "1723793307"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
