@@ -1,0 +1,76 @@
+{
+    "appid": "252030",
+    "type": "Game",
+    "name": "Valdis Story: Abyssal City",
+    "schinese_name": "瓦尔迪斯传说：深渊之城",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 10:43:28",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252031": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8804124830284567035",
+                    "size": "448377529",
+                    "download": "408652256"
+                },
+                "igpu_version": {
+                    "gid": "3648218386476976282",
+                    "size": "411474350",
+                    "download": "0"
+                },
+                "update_beta": {
+                    "gid": "8804124830284567035",
+                    "size": "448377529",
+                    "download": "408652256"
+                }
+            },
+            "decryptionkey": "68a69eae1e2b5e510836415db3917d386db459464f57625387d2220b44f340f9"
+        },
+        "252032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2580769776694130807",
+                    "size": "450729470",
+                    "download": "407456784"
+                },
+                "update_beta": {
+                    "gid": "2580769776694130807",
+                    "size": "450729470",
+                    "download": "407456784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "722041"
+            },
+            "igpu_version": {
+                "buildid": "150787",
+                "description": "Test Version for devices with Integrated GPU"
+            },
+            "update_beta": {
+                "buildid": "722041",
+                "description": "v1.0.0.25"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
