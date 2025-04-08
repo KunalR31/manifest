@@ -1,0 +1,51 @@
+{
+    "appid": "286660",
+    "type": "Game",
+    "name": "Avoid Sensory Overload",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27140349",
+    "update_time": "2025-01-24 08:23:38",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "286661": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8496417263080027175",
+                    "size": "240008308",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1a671158f7e8ec720176464b38545d22edf12052908186fb120c191a70b143d7"
+        },
+        "286662": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "286663": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "301342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
