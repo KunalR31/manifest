@@ -1,0 +1,106 @@
+{
+    "appid": "582920",
+    "type": "Game",
+    "name": "From Shadows",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28290482",
+    "update_time": "2025-04-03 22:16:16",
+    "depot": {
+        "baselanguages": "english,russian,polish",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "582924": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "37011836588742362",
+                    "size": "1702925483",
+                    "download": "236705936"
+                },
+                "testowaniebranchy": {
+                    "gid": "37011836588742362",
+                    "size": "1702925483",
+                    "download": "236705936"
+                }
+            },
+            "decryptionkey": "62786a4ba78ed4ccf0492b0df393305d530d159fe9bab9e7766163ef5442f512"
+        },
+        "582922": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5539859483008338241",
+                    "size": "1714124096",
+                    "download": "229863248"
+                },
+                "testowaniebranchy": {
+                    "gid": "5539859483008338241",
+                    "size": "1714124096",
+                    "download": "229863248"
+                }
+            },
+            "decryptionkey": "04804ae8fff76e54fc442d12d2d922cb6d302ca0528d34d149f0ef13285dbcc8"
+        },
+        "582923": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2131203320799864142",
+                    "size": "1742451998",
+                    "download": "238633680"
+                },
+                "testowaniebranchy": {
+                    "gid": "2131203320799864142",
+                    "size": "1742451998",
+                    "download": "238633680"
+                }
+            },
+            "decryptionkey": "46a25420abdba4669a6ec5696022b884475664a147e3fd7dc88800498b70c0d8"
+        },
+        "805860": {
+            "dlcappid": "805860",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {}
+        },
+        "805861": {
+            "dlcappid": "805860",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "2064049",
+                "timeupdated": "1504094597"
+            },
+            "testowaniebranchy": {
+                "buildid": "2064049",
+                "description": "testowaniebranchy",
+                "timeupdated": "1639495192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
