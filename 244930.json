@@ -1,0 +1,87 @@
+{
+    "appid": "244930",
+    "type": "Game",
+    "name": "SNOW",
+    "schinese_name": "极限滑雪",
+    "isfreeapp": "0",
+    "change_number": "27107574",
+    "update_time": "2025-01-22 15:26:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "244930",
+        "hasdepotsindlc": "1",
+        "244932": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8252072277213176985",
+                    "size": "5687931359",
+                    "download": "5740430640"
+                }
+            },
+            "decryptionkey": "c2b7ba04b844b1b17e43e54b12e41fe26dbb58e5395efa4c00f331c19d6ee960"
+        },
+        "244931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6633547932201161198",
+                    "size": "101981770",
+                    "download": "28093952"
+                }
+            },
+            "decryptionkey": "68a04c41820256641aab2e2ece89e9fe85ed5f29e8b74bbc8f08184c129d98d8"
+        },
+        "244934": {
+            "config": {
+                "language": "english"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3177227709443963649",
+                    "size": "2130141",
+                    "download": "2159600"
+                }
+            },
+            "decryptionkey": "9119fb228785f766c6b25164f6be06426452e82b8f4ce42f8f3d9efa32728747"
+        },
+        "244935": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4068944397068568551",
+                    "size": "3955626609",
+                    "download": "1174570464"
+                }
+            },
+            "decryptionkey": "07c1aee91ec03ceb4db622bcd90243ae899b141a3075296a40a82f1bb497d3a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6140131",
+                "timeupdated": "1611680675"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4bc5d19d8fd89848421ce60b8d8d7ae20d648ab8b57064cfcfa865114c10183b"
+    }
+}
