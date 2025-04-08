@@ -1,0 +1,72 @@
+{
+    "appid": "287100",
+    "type": "Game",
+    "name": "Chaos Domain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26236063",
+    "update_time": "2024-11-18 04:59:01",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "287101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4701211510016350116",
+                    "size": "1494583950",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2195896222773426573",
+                    "size": "3295",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7225559f382dbb35d8fbc5c09f1ed43464814b8f94b37a0094c84fafcfcd8153"
+        },
+        "298690": {
+            "manifests": {
+                "public": {
+                    "gid": "5110032504758494796",
+                    "size": "64518144",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2639364081815561981",
+                    "size": "3295",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "298690",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "293451"
+            },
+            "local": {
+                "buildid": "249660",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
