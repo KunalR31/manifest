@@ -1,0 +1,80 @@
+{
+    "appid": "2147950",
+    "type": "Game",
+    "name": "4D Golf",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26934929",
+    "update_time": "2025-01-10 12:08:53",
+    "depot": {
+        "2147951": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6007596817015187582",
+                    "size": "1133617669",
+                    "download": "167480032"
+                },
+                "beta": {
+                    "gid": "6007596817015187582",
+                    "size": "1133617669",
+                    "download": "167480032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2147952": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3277942535432226922",
+                    "size": "1101686358",
+                    "download": "162566880"
+                },
+                "beta": {
+                    "gid": "3277942535432226922",
+                    "size": "1101686358",
+                    "download": "162566880"
+                }
+            },
+            "decryptionkey": "645c684d240b17e2c544d67be198b29df89b3c76ef49ec5633b3b08462ae1578"
+        },
+        "2147953": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1082510335987126974",
+                    "size": "1134795599",
+                    "download": "169915104"
+                },
+                "beta": {
+                    "gid": "1082510335987126974",
+                    "size": "1134795599",
+                    "download": "169915104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2147950",
+        "branches": {
+            "public": {
+                "buildid": "15796678",
+                "timeupdated": "1727194993"
+            },
+            "beta": {
+                "buildid": "15796678",
+                "description": "Latest changes, may have bugs.",
+                "timeupdated": "1727105917"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
