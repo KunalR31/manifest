@@ -1,0 +1,81 @@
+{
+    "appid": "232770",
+    "type": "Game",
+    "name": "POSTAL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28004125",
+    "update_time": "2025-03-18 08:21:16",
+    "depot": {
+        "overridescddb": "1",
+        "232771": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4856268982824038014",
+                    "size": "494163692",
+                    "download": "268779200"
+                },
+                "opensource": {
+                    "gid": "4856268982824038014",
+                    "size": "494163692",
+                    "download": "268779200"
+                }
+            },
+            "decryptionkey": "0b3f5b747a013904638183986855f8b765d1b10511e01b47ab925bfde5e8e53f"
+        },
+        "232772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7418282084983807069",
+                    "size": "495090550",
+                    "download": "263035792"
+                },
+                "opensource": {
+                    "gid": "7418282084983807069",
+                    "size": "495090550",
+                    "download": "263035792"
+                }
+            },
+            "decryptionkey": "b5903d85c4944c3fabf3e8dde5605f844dd40e486ef7e470469b8aed1e70ded2"
+        },
+        "232773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1739770070415342406",
+                    "size": "492203548",
+                    "download": "262674944"
+                },
+                "opensource": {
+                    "gid": "1739770070415342406",
+                    "size": "492203548",
+                    "download": "262674944"
+                }
+            },
+            "decryptionkey": "45dc820b369b0449f1be5fe2eae2ba13e602422a26d9f2809a0c0dea00000ebb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2320223",
+                "timeupdated": "1511821755"
+            },
+            "opensource": {
+                "buildid": "2320223",
+                "description": "[POTENTIALLY UNSTABLE] Latest open source contributions.",
+                "timeupdated": "1511820025"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
