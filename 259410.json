@@ -1,0 +1,89 @@
+{
+    "appid": "259410",
+    "type": "Game",
+    "name": "Sneaky Sneaky",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 21:11:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "259411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6825453072329393605",
+                    "size": "330922143",
+                    "download": "47258848480"
+                },
+                "dev": {
+                    "gid": "6825453072329393605",
+                    "size": "330922143",
+                    "download": "47258848480"
+                }
+            },
+            "decryptionkey": "5ad81cc406e28fbc5d018f9088e599bec7ba63d2746f6d8fdfab7b319ab91062"
+        },
+        "259412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1111443451063943591",
+                    "size": "347753059",
+                    "download": "3080007032"
+                },
+                "dev": {
+                    "gid": "1111443451063943591",
+                    "size": "347753059",
+                    "download": "3080007032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "333320": {
+            "manifests": {
+                "public": {
+                    "gid": "1970269820726812828",
+                    "size": "28256100",
+                    "download": "1097571288"
+                },
+                "dev": {
+                    "gid": "1970269820726812828",
+                    "size": "28256100",
+                    "download": "1097571288"
+                }
+            },
+            "dlcappid": "333320",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "454925"
+            },
+            "dev": {
+                "buildid": "454925",
+                "description": "Dev branch for automated builds"
+            }
+        }
+    }
+}
