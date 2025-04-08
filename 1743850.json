@@ -1,0 +1,63 @@
+{
+    "appid": "1743850",
+    "type": "Game",
+    "name": "HYPER DEMON",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28164678",
+    "update_time": "2025-03-27 15:15:15",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1743851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6721235343416524107",
+                    "size": "316919257",
+                    "download": "275138800"
+                },
+                "test": {
+                    "gid": "6721235343416524107",
+                    "size": "316919257",
+                    "download": "275138800"
+                }
+            },
+            "decryptionkey": "4542812225d88ed246fc6f5b269158a5e15d6d9f75b57361e0185944175a9fa3"
+        },
+        "1743859": {
+            "manifests": {
+                "public": {
+                    "gid": "7997716907046878545",
+                    "size": "33178189",
+                    "download": "25478240"
+                },
+                "test": {
+                    "gid": "7997716907046878545",
+                    "size": "33178189",
+                    "download": "25478240"
+                }
+            },
+            "decryptionkey": "56a8a0709b1877c6628f1aac9841bf088da9a8dad317dc8d6521de3558bcec2f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15765018",
+                "timeupdated": "1726799564"
+            },
+            "test": {
+                "buildid": "15765018",
+                "description": "vs test",
+                "timeupdated": "1726799360"
+            }
+        }
+    }
+}
