@@ -1,0 +1,181 @@
+{
+    "appid": "384740",
+    "type": "Game",
+    "name": "CAT Interstellar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28094605",
+    "update_time": "2025-03-23 17:18:28",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "384741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "68296013487170446",
+                    "size": "4705049834",
+                    "download": "1488885184"
+                },
+                "_ue5": {
+                    "gid": "68296013487170446",
+                    "size": "4705049834",
+                    "download": "1488885184"
+                },
+                "beta": {
+                    "gid": "68296013487170446",
+                    "size": "4705049834",
+                    "download": "1488885184"
+                },
+                "vr_alpha": {
+                    "gid": "2452041819744930202",
+                    "size": "3870668577",
+                    "download": "1255209312"
+                }
+            },
+            "decryptionkey": "fcdaaa96684f722e080cdccf5fab40da94da7b253e0ae3a946e2b6e829d1c044"
+        },
+        "384743": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7107830394213366114",
+                    "size": "2369384178",
+                    "download": "2053557760"
+                },
+                "_ue5": {
+                    "gid": "8329704108167739347",
+                    "size": "5384070653",
+                    "download": "5025070272"
+                },
+                "beta": {
+                    "gid": "7107830394213366114",
+                    "size": "2369384178",
+                    "download": "2053557760"
+                },
+                "vr_alpha": {
+                    "gid": "8803621095629280659",
+                    "size": "4251144913",
+                    "download": "1387010896"
+                }
+            },
+            "decryptionkey": "3aba5e3d2ac30559d3bfae19e7c7daf352e56daeb41f3fc58301f578ccc3c903"
+        },
+        "384742": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2608326973590079303",
+                    "size": "2379459656",
+                    "download": "1997816512"
+                },
+                "_ue5": {
+                    "gid": "4719732731144578948",
+                    "size": "6616697619",
+                    "download": "2245818400"
+                },
+                "beta": {
+                    "gid": "2608326973590079303",
+                    "size": "2379459656",
+                    "download": "1997816512"
+                },
+                "vr_alpha": {
+                    "gid": "4753817742778476178",
+                    "size": "5404448236",
+                    "download": "1835045792"
+                }
+            },
+            "decryptionkey": "5e70abf03da78c662c8bd877db6e57cda04e306e6642c509d162ce641bb944c2"
+        },
+        "509460": {
+            "dlcappid": "509460",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "656772094056828391",
+                    "size": "4251144913",
+                    "download": "1390015504"
+                },
+                "_ue5": {
+                    "gid": "656772094056828391",
+                    "size": "4251144913",
+                    "download": "1390015504"
+                },
+                "beta": {
+                    "gid": "656772094056828391",
+                    "size": "4251144913",
+                    "download": "1390015504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "693760": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2044457797857238775",
+                    "size": "140593150",
+                    "download": "77826000"
+                },
+                "_ue5": {
+                    "gid": "2044457797857238775",
+                    "size": "140593150",
+                    "download": "77826000"
+                },
+                "beta": {
+                    "gid": "2044457797857238775",
+                    "size": "140593150",
+                    "download": "77826000"
+                },
+                "vr_alpha": {
+                    "gid": "2422616902821985523",
+                    "size": "123969556",
+                    "download": "64948528"
+                }
+            },
+            "dlcappid": "693760",
+            "decryptionkey": "ef5e0a08d2502c389417f72c174b559be5979b6291d7c230be7f3230fc477046"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9561906",
+                "timeupdated": "1663769055"
+            },
+            "_ue5": {
+                "buildid": "8151251",
+                "description": "UE5 branch",
+                "timeupdated": "1644074065"
+            },
+            "beta": {
+                "buildid": "9561906",
+                "description": "Beta Branch",
+                "timeupdated": "1663769070"
+            },
+            "vr_alpha": {
+                "buildid": "2116119",
+                "description": "VR Testing",
+                "timeupdated": "1505324987"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
