@@ -1,0 +1,104 @@
+{
+    "appid": "231040",
+    "type": "Game",
+    "name": "Beatbuddy: Tale of the Guardians",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27152681",
+    "update_time": "2025-01-25 00:26:56",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,portuguese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "231041": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7097825905007871539",
+                    "size": "1088448165",
+                    "download": "366183982238"
+                }
+            },
+            "decryptionkey": "002507fabe6dd491a08e9afe1bd4ab9da5aa60cec42c02ac0f96bc56436680fb"
+        },
+        "231042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1988175206585714745",
+                    "size": "1133256309",
+                    "download": "2309614686386"
+                }
+            },
+            "decryptionkey": "ee556e6c20c8215c50e1ac1f3f6d32af91cf10dcb657fcd84c1cf850fca67264"
+        },
+        "231043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7278126884087355578",
+                    "size": "1095090328",
+                    "download": "264417476477"
+                }
+            },
+            "decryptionkey": "852faf34f7626358f8f1ca0774a47ab00f338b1110f6c22309b3856cd64e24f1"
+        },
+        "231044": {
+            "dlcappid": "257310",
+            "manifests": {
+                "public": {
+                    "gid": "3030508500522356718",
+                    "size": "120078728",
+                    "download": "102124928"
+                }
+            },
+            "decryptionkey": "6822a181d573f220bebe6807d683d0d5b609f70850fa8264f93ba083cae964d1"
+        },
+        "231045": {
+            "manifests": {
+                "public": {
+                    "gid": "4962444289612547878",
+                    "size": "541994024",
+                    "download": "315028976"
+                }
+            },
+            "decryptionkey": "892ca08369ac5760a8cce0399adaa658af79cb8b88e908e21498ca0f7c519465"
+        },
+        "231046": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2795617537858650054",
+                    "size": "1208740753",
+                    "download": "345219104"
+                }
+            },
+            "decryptionkey": "353bb38f3ee476e15ab794af73574ccd65e2ac1addb024671c0448dd8c82bf2f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2368799",
+                "timeupdated": "1513328939"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
