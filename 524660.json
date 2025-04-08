@@ -1,0 +1,108 @@
+{
+    "appid": "524660",
+    "type": "Application",
+    "name": "RutonyChat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28296499",
+    "update_time": "2025-04-04 04:34:29",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,tchinese,russian",
+        "workshopdepot": "524660",
+        "hasdepotsindlc": "1",
+        "524661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2554909080422896953",
+                    "size": "434976734",
+                    "download": "187814096"
+                },
+                "1may": {
+                    "gid": "5974454579324152735",
+                    "size": "469281894",
+                    "download": "203646960"
+                },
+                "test": {
+                    "gid": "8013351129716317291",
+                    "size": "1481137816",
+                    "download": "649215984"
+                },
+                "test_prev": {
+                    "gid": "3875927871833275109",
+                    "size": "520547073",
+                    "download": "216325536"
+                }
+            },
+            "decryptionkey": "667216d1e037ad6011ef1b1a2cd8dc91df816ab8a544df61f5c9f367e2be95fe"
+        },
+        "649390": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "649390",
+            "manifests": {
+                "public": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "1may": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "test": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "test_prev": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                }
+            },
+            "decryptionkey": "7b2dd837de7ec7b4d3b39054626ad925b23f5c9699e12052ef1189b416e92c8e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13906889",
+                "timeupdated": "1711887492"
+            },
+            "1may": {
+                "buildid": "11130396",
+                "description": "Last version with Win7 support",
+                "timeupdated": "1694702141"
+            },
+            "test": {
+                "buildid": "17975548",
+                "description": "Public test branch",
+                "timeupdated": "1743712412"
+            },
+            "test_prev": {
+                "buildid": "16245778",
+                "description": "Previous test version",
+                "timeupdated": "1739557831"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
