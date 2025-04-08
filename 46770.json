@@ -1,0 +1,77 @@
+{
+    "appid": "46770",
+    "type": "Game",
+    "name": "Making History II: The War of the World",
+    "schinese_name": "创造历史2：世界大战",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 14:11:21",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "46773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3365031581976360676",
+                    "size": "907051562",
+                    "download": "238315920"
+                }
+            },
+            "decryptionkey": "d5e47b7dfa73378478da20ccc8465aa6ec9a01cdbb22b7467f8ad654a12769f5"
+        },
+        "46771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1710839981920425396",
+                    "size": "988770596",
+                    "download": "270984640"
+                }
+            },
+            "decryptionkey": "2fad12a24d1ec91d22267852c5ac103a375cec429f9507e9d4b5dc43d2cff637"
+        },
+        "46772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9177813679304383070",
+                    "size": "1061445452",
+                    "download": "293143904"
+                }
+            },
+            "decryptionkey": "1bcd34f2acbda59310b3dbf6e53dd2a8b66f2e08649de0e0270a3dca96c973cd"
+        },
+        "workshopdepot": "46770",
+        "branches": {
+            "public": {
+                "buildid": "1944033",
+                "timeupdated": "1499446177"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "01d5c406f9856e30ace688eb6210990c57829cf41327446b36b665fd79565942"
+    }
+}
