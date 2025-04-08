@@ -1,0 +1,113 @@
+{
+    "appid": "506500",
+    "type": "Game",
+    "name": "Party Panic",
+    "schinese_name": "反斗大派对",
+    "isfreeapp": "0",
+    "change_number": "26803469",
+    "update_time": "2024-12-28 17:52:02",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,japanese",
+        "506501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6456087669737852170",
+                    "size": "1322432902",
+                    "download": "390942912"
+                },
+                "secret": {
+                    "gid": "368157706952610083",
+                    "size": "1322432262",
+                    "download": "390942304"
+                }
+            },
+            "decryptionkey": "6c197ad5536932fb846af84f61628468e1899f61489161cc6176e71666f47cb4"
+        },
+        "506502": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1902730832271558252",
+                    "size": "1316640518",
+                    "download": "389028176"
+                },
+                "secret": {
+                    "gid": "8194352924704118430",
+                    "size": "1316640006",
+                    "download": "389027968"
+                }
+            },
+            "decryptionkey": "6ae70a302e21c470207653704add19f938df5e5bfd22a7846027f68520ef1e7f"
+        },
+        "506503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8119106953488324712",
+                    "size": "1336818266",
+                    "download": "398906736"
+                },
+                "secret": {
+                    "gid": "2338191215152919443",
+                    "size": "1336817747",
+                    "download": "398906928"
+                }
+            },
+            "decryptionkey": "987fd365e8c382455a502887c096e6704f2baff0af459bf0b7151516fa9f1074"
+        },
+        "506504": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "703317357585580745",
+                    "size": "1388517657",
+                    "download": "420359328"
+                },
+                "secret": {
+                    "gid": "5478193009394692910",
+                    "size": "1388517273",
+                    "download": "420359664"
+                }
+            },
+            "decryptionkey": "2d1ef57b551f00e6b7c70c4339b1c82922809bc9cded593e6ad8757427c38a8b"
+        },
+        "696030": {
+            "manifests": {
+                "public": {
+                    "gid": "6858866673680014268",
+                    "size": "300739558",
+                    "download": "202547824"
+                },
+                "secret": {
+                    "gid": "6858866673680014268",
+                    "size": "300739558",
+                    "download": "202547824"
+                }
+            },
+            "dlcappid": "696030",
+            "decryptionkey": "b483176fac0cb1d507f8ba8ae810e6324eeb2d91ad9cd39395267bfa447817fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5814162",
+                "timeupdated": "1605095059"
+            },
+            "secret": {
+                "buildid": "5690459",
+                "description": "super secret stuff",
+                "timeupdated": "1603046500"
+            }
+        }
+    }
+}
