@@ -1,0 +1,71 @@
+{
+    "appid": "272040",
+    "type": "Game",
+    "name": "KAMI",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25763154",
+    "update_time": "2024-10-17 16:43:40",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "272041": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6869307445582119673",
+                    "size": "81078597",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7666117148657618217",
+                    "size": "81078567",
+                    "download": "0"
+                },
+                "beta2": {
+                    "gid": "7666117148657618217",
+                    "size": "81078567",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "029b941583dbf6ae6d37ca657216b42b5e1a8cec8b6952f9c2684706406e3582"
+        },
+        "272042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4598397286131050508",
+                    "size": "96977870",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4507920390968708959",
+                    "size": "96959322",
+                    "download": "0"
+                },
+                "beta2": {
+                    "gid": "6557410030942026770",
+                    "size": "96973396",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "199913"
+            },
+            "beta": {
+                "buildid": "205787"
+            },
+            "beta2": {
+                "buildid": "205841"
+            }
+        }
+    }
+}
