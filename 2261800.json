@@ -1,0 +1,61 @@
+{
+    "appid": "2261800",
+    "type": "Tool",
+    "name": "SCP: Labrat Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26456868",
+    "update_time": "2024-12-05 09:57:59",
+    "depot": {
+        "2261801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "365158480203414205",
+                    "size": "2315904986",
+                    "download": "1722502352"
+                },
+                "breach-beta": {
+                    "gid": "8970783982612472148",
+                    "size": "2609817154",
+                    "download": "1934024352"
+                }
+            },
+            "decryptionkey": "817f71b2ca36bd9d692794ac0f5aa5e9894e2a136cee4129c5ba67bcad932b7c"
+        },
+        "2261802": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5895513102273489919",
+                    "size": "2254913516",
+                    "download": "1687538800"
+                },
+                "breach-beta": {
+                    "gid": "5550074590936414148",
+                    "size": "2467261564",
+                    "download": "1854726144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12046757",
+                "timeupdated": "1693433327"
+            },
+            "breach-beta": {
+                "buildid": "11763346",
+                "description": " Beta for breach multiplayer mode",
+                "timeupdated": "1690004119"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
