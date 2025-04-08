@@ -1,0 +1,73 @@
+{
+    "appid": "250070",
+    "type": "Game",
+    "name": "TorqueL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 10:10:16",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250071": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4811904794413456884",
+                    "size": "406124305",
+                    "download": "138513408"
+                }
+            },
+            "decryptionkey": "517460780c338aafd8eb6341aa22fd48750f7604f9c3bfd31e86da65b1be4b84"
+        },
+        "250072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1079145129629863064",
+                    "size": "440976861",
+                    "download": "144944864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "250073": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3376236919763239979",
+                    "size": "413377131",
+                    "download": "138998608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "903809"
+            }
+        }
+    }
+}
