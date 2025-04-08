@@ -1,0 +1,63 @@
+{
+    "appid": "3065470",
+    "type": "Demo",
+    "name": "KLETKA Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27274280",
+    "update_time": "2025-02-02 12:18:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3065471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1625540025441686279",
+                    "size": "1232261076",
+                    "download": "876682816"
+                }
+            },
+            "decryptionkey": "e1bf7ddfb698fba3c5dba73168097d394187da77fe0f9a9b44cf79ed78b42906"
+        },
+        "3065472": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5910193467053959208",
+                    "size": "3003067418",
+                    "download": "1002289936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "3065470",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "16370173",
+                "timeupdated": "1731357916"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3d0cae089429f61fe54a596d130f943950c8d716a989056e1b76a32fb9e11d3f"
+    }
+}
