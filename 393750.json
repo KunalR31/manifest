@@ -1,0 +1,63 @@
+{
+    "appid": "393750",
+    "type": "Game",
+    "name": "P·O·L·L·E·N",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 06:14:55",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,finnish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "393751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4084803175095466009",
+                    "size": "8537539579",
+                    "download": "2837104752"
+                },
+                "test": {
+                    "gid": "8106583348372646698",
+                    "size": "7291610036",
+                    "download": "2771484640"
+                }
+            },
+            "decryptionkey": "b75aeffcd37f88b29b67787dfdc9788f794e544e5553eea2ba1ca3664a3137cd"
+        },
+        "393752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "8865885360629885025",
+                    "size": "8538483098",
+                    "download": "2837088576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1754778",
+                "timeupdated": "1492077872"
+            },
+            "test": {
+                "buildid": "1751854",
+                "description": "For testing",
+                "timeupdated": "1491995764"
+            }
+        }
+    }
+}
