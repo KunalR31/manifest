@@ -1,0 +1,153 @@
+{
+    "appid": "242860",
+    "type": "Game",
+    "name": "Verdun",
+    "schinese_name": "凡尔登战役",
+    "isfreeapp": "0",
+    "change_number": "28083509",
+    "update_time": "2025-03-22 11:12:48",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "242865": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1025927188659212271",
+                    "size": "2229306839",
+                    "download": "1519912240"
+                },
+                "opentesting": {
+                    "gid": "7842759961099712576",
+                    "size": "2229717039",
+                    "download": "1520004864"
+                }
+            },
+            "decryptionkey": "2433b5b1705fea4c3b2ae8da1a58d02e96ee4c1139a99ade8abaa208548919a4"
+        },
+        "242864": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5611449861189975879",
+                    "size": "2255362820",
+                    "download": "1526426624"
+                },
+                "opentesting": {
+                    "gid": "7318102653382912154",
+                    "size": "2255691372",
+                    "download": "1526513328"
+                }
+            },
+            "decryptionkey": "79aaf5a49662def1bd78635305a019574a88a36b73848bf24a1006660af3d11b"
+        },
+        "242862": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "783920121999251094",
+                    "size": "2219324002",
+                    "download": "1518496528"
+                },
+                "opentesting": {
+                    "gid": "3933821141819026232",
+                    "size": "2219472834",
+                    "download": "1518520432"
+                }
+            },
+            "decryptionkey": "32493f099e4630cef4e58c575e9302d1b4a7244b95daaf6071c2374e90f1252d"
+        },
+        "242863": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2764337762327928586",
+                    "size": "2225084972",
+                    "download": "1518706832"
+                },
+                "opentesting": {
+                    "gid": "1134181906750497296",
+                    "size": "2225233804",
+                    "download": "1518732880"
+                }
+            },
+            "decryptionkey": "6d09b107eff398052d8fa3d8eab0a49589f76b365235bc8d1dddb13e1824176a"
+        },
+        "987070": {
+            "dlcappid": "987070",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7307236088776550583",
+                    "size": "249832864",
+                    "download": "248908688"
+                },
+                "opentesting": {
+                    "gid": "7307236088776550583",
+                    "size": "249832864",
+                    "download": "248908688"
+                }
+            },
+            "decryptionkey": "6a0fbf9ab1b574a31dc0ce5fa29c80486a7fefbf931545a375d550a0a3729e7c"
+        },
+        "242869": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6758720324821461309",
+                    "size": "6382907765",
+                    "download": "2859303552"
+                },
+                "opentesting": {
+                    "gid": "6134690498721458801",
+                    "size": "6391878403",
+                    "download": "2859871552"
+                }
+            },
+            "decryptionkey": "1a65b012a3ca4c6942ef5002edd237efba12dc92e94c92d6156065388bd34274"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17493091",
+                "timeupdated": "1740472856"
+            },
+            "opentesting": {
+                "buildid": "13517710",
+                "timeupdated": "1709552722"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
