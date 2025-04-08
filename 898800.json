@@ -1,0 +1,68 @@
+{
+    "appid": "898800",
+    "type": "Game",
+    "name": "Constructor Plus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25713227",
+    "update_time": "2024-10-15 01:10:54",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,czech",
+        "898801": {
+            "manifests": {
+                "public": {
+                    "gid": "1326755509104412213",
+                    "size": "8457163435",
+                    "download": "2843825712"
+                },
+                "s3public_beta": {
+                    "gid": "3729302907818725562",
+                    "size": "9336830305",
+                    "download": "3078964032"
+                }
+            },
+            "decryptionkey": "cb8092b4bcbe28d67182c662a64567065b79419ce15b7ed406e0e19871660d81"
+        },
+        "898802": {
+            "manifests": {
+                "public": {
+                    "gid": "5817126844739134723",
+                    "size": "2915984",
+                    "download": "1988400"
+                },
+                "s3public_beta": {
+                    "gid": "2875621364353027378",
+                    "size": "2954896",
+                    "download": "2020416"
+                }
+            },
+            "decryptionkey": "387cd5112fadf4208e5da4a7b253cbe1529c21dd8b912f8b34521fb4ff7a8ae1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3898407",
+                "timeupdated": "1559925685"
+            },
+            "s3public_beta": {
+                "buildid": "4665304",
+                "description": "Beta Branch For Next Patch",
+                "timeupdated": "1581698561"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
