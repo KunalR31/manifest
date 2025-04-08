@@ -1,0 +1,141 @@
+{
+    "appid": "222880",
+    "type": "Game",
+    "name": "Insurgency",
+    "schinese_name": "叛乱",
+    "isfreeapp": "0",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:20",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "222881": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1126888633636088522",
+                    "size": "8940787282",
+                    "download": "4783090224"
+                },
+                "beta": {
+                    "gid": "1126888633636088522",
+                    "size": "8940787282",
+                    "download": "4783090224"
+                }
+            },
+            "decryptionkey": "7f6a345589c40ed3219cf61c8dcab19dc29b21cce2724fbf37d66d35c6bab45a"
+        },
+        "222882": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8952076168263683470",
+                    "size": "178550311",
+                    "download": "66729472"
+                },
+                "beta": {
+                    "gid": "8952076168263683470",
+                    "size": "178550311",
+                    "download": "66729472"
+                }
+            },
+            "decryptionkey": "03b23b12e29cdb5298dbc3ae75f93457430f514da5007568ea9bb5b7858cd18d"
+        },
+        "222883": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6866083906643020698",
+                    "size": "147759146",
+                    "download": "34479648"
+                },
+                "beta": {
+                    "gid": "6866083906643020698",
+                    "size": "147759146",
+                    "download": "34479648"
+                }
+            },
+            "decryptionkey": "f60604541bf6c8d2d9101a76b866496372df0f947c9154734d07824413396a00"
+        },
+        "222884": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4874402851781940787",
+                    "size": "101508589",
+                    "download": "29132112"
+                },
+                "beta": {
+                    "gid": "4874402851781940787",
+                    "size": "101508589",
+                    "download": "29132112"
+                }
+            },
+            "decryptionkey": "442e79eb2ef23374e531f936c0744b20f705852957c3ec7a42bb3378e2950769"
+        },
+        "222890": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2140895414899844075",
+                    "size": "108778000",
+                    "download": "17284048"
+                },
+                "beta": {
+                    "gid": "2140895414899844075",
+                    "size": "108778000",
+                    "download": "17284048"
+                }
+            },
+            "dlcappid": "222890",
+            "decryptionkey": "8341bad422a07ababf09db80b6f14a8b0474be502b5388109bd0d42935a8475e"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,polish,dutch,turkish,brazilian,ukrainian",
+        "workshopdepot": "222880",
+        "branches": {
+            "public": {
+                "buildid": "3125346",
+                "timeupdated": "1537037452"
+            },
+            "beta": {
+                "buildid": "3125346",
+                "description": "Pre-release testing branch",
+                "timeupdated": "1537037169"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3096d210d076f735a18ab11afcd383d349a6533e6a9a911f50851a1138ee7f92"
+    }
+}
