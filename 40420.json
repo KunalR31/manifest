@@ -1,0 +1,97 @@
+{
+    "appid": "40420",
+    "type": "Game",
+    "name": "Tidalis",
+    "schinese_name": "潮汐方块",
+    "isfreeapp": "0",
+    "change_number": "25791361",
+    "update_time": "2024-10-19 02:46:28",
+    "depot": {
+        "overridescddb": "1",
+        "40423": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6013945129120266381",
+                    "size": "124039888",
+                    "download": "29184608"
+                },
+                "oldsystemreqs": {
+                    "gid": "6265953681198467098",
+                    "size": "40373469",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "07ed95b56d6f8797fcdc2983ee681b6abc33d2dfaa4b200f6bcd80705502891f"
+        },
+        "40422": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2575477161148085236",
+                    "size": "53988022",
+                    "download": "13571152"
+                },
+                "oldsystemreqs": {
+                    "gid": "3623277807422952216",
+                    "size": "25659578",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "50c894aeab4fcfba1d135fdb00af32860e54eba450cf82268b0c870480c42c83"
+        },
+        "40421": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "336136574403943072",
+                    "size": "431990617",
+                    "download": "425900816"
+                },
+                "oldsystemreqs": {
+                    "gid": "982488591034326312",
+                    "size": "434995654",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1f2ff5943f9e239b6b7c8a088e3fb5759a9b2eefca97b6c417a0924654f58224"
+        },
+        "40424": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2544914331759987019",
+                    "size": "108414002",
+                    "download": "23897776"
+                }
+            },
+            "decryptionkey": "f14b254958f286e74183451c459b2009cca90a58b2a6d353d2d5ddb64b4cb9cd"
+        },
+        "40425": {
+            "manifests": {
+                "public": {
+                    "gid": "7770163245607256568",
+                    "size": "539",
+                    "download": "480"
+                }
+            },
+            "decryptionkey": "f475cacad2de769ed11542c2424a7af65e80923a4da9dd02459fec3927b15ee3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "485949"
+            },
+            "oldsystemreqs": {
+                "buildid": "55856"
+            }
+        }
+    }
+}
