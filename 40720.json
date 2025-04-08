@@ -1,0 +1,75 @@
+{
+    "appid": "40720",
+    "type": "Game",
+    "name": "Samorost 2",
+    "schinese_name": "银河历险记2",
+    "isfreeapp": "0",
+    "change_number": "28270735",
+    "update_time": "2025-04-02 23:00:11",
+    "depot": {
+        "overridescddb": "1",
+        "40721": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8646705069428310703",
+                    "size": "148991141",
+                    "download": "127817984"
+                },
+                "beta": {
+                    "gid": "4535051130429592070",
+                    "size": "148985000",
+                    "download": "127813600"
+                },
+                "d3d9": {
+                    "gid": "4535051130429592070",
+                    "size": "148985000",
+                    "download": "127813600"
+                }
+            },
+            "decryptionkey": "5e6ae10685f72b207aa759aaccc922f6819441aff68359bc9b4cbfe00614e40a"
+        },
+        "40722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8672652633880742760",
+                    "size": "151522679",
+                    "download": "109255600"
+                },
+                "beta": {
+                    "gid": "8672652633880742760",
+                    "size": "151522679",
+                    "download": "109255600"
+                },
+                "d3d9": {
+                    "gid": "8672652633880742760",
+                    "size": "151522679",
+                    "download": "109255600"
+                }
+            },
+            "decryptionkey": "5123f6357ba059229882c9dc8bcd2394e66f8ebfa1fd3e8fd117b831eb8dab85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10056480",
+                "timeupdated": "1669900111"
+            },
+            "beta": {
+                "buildid": "9958870",
+                "description": "Public beta version",
+                "timeupdated": "1669898179"
+            },
+            "d3d9": {
+                "buildid": "9958870",
+                "description": "Compatibility version",
+                "timeupdated": "1669899241"
+            }
+        }
+    }
+}
