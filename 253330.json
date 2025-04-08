@@ -1,0 +1,80 @@
+{
+    "appid": "253330",
+    "type": "Game",
+    "name": "Neverending Nightmares",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28137268",
+    "update_time": "2025-03-26 04:09:01",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "253331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7131874387441912719",
+                    "size": "403309619",
+                    "download": "386668704"
+                }
+            },
+            "decryptionkey": "9601ec56c0a2b5fefeb9ff0c884d2a1c745f7e6accca54bcfb330df4d0a35ff2"
+        },
+        "253332": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5380775933666346527",
+                    "size": "401574832",
+                    "download": "386145568"
+                }
+            },
+            "decryptionkey": "d7901d00afbaff9977be15edd732a856091572fddad6c3a4e6dec02c88de08e4"
+        },
+        "253333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6131637255606481609",
+                    "size": "403987535",
+                    "download": "386617472"
+                }
+            },
+            "decryptionkey": "83286110ec055a14537854991d121d18a51138334b00ee11a1d82ef6fed196a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7587102",
+                "timeupdated": "1635425518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
