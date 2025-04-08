@@ -1,0 +1,65 @@
+{
+    "appid": "433100",
+    "type": "Game",
+    "name": "The Town of Light",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27119352",
+    "update_time": "2025-01-23 05:26:03",
+    "depot": {
+        "433101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1665384582602330788",
+                    "size": "7464303295",
+                    "download": "3298086848"
+                },
+                "local": {
+                    "gid": "3415482255097486857",
+                    "size": "6353809157",
+                    "download": "2694056048"
+                }
+            },
+            "decryptionkey": "4211efcc1149e6963a9321d71febf71802804be1225d9c6c4091f38951b5d56e"
+        },
+        "433102": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "444040": {
+            "manifests": {
+                "public": {
+                    "gid": "4978162494313341810",
+                    "size": "438581057",
+                    "download": "429048528"
+                },
+                "local": {
+                    "gid": "4978162494313341810",
+                    "size": "438581057",
+                    "download": "429048528"
+                }
+            },
+            "dlcappid": "444040",
+            "decryptionkey": "6c914cf33948d487155baba7fb356f03f473676c92912ef8cbd42dc7ba2fdfa2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7361644",
+                "timeupdated": "1631696238"
+            },
+            "local": {
+                "buildid": "1772203",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1492764668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
