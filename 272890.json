@@ -1,0 +1,65 @@
+{
+    "appid": "272890",
+    "type": "Game",
+    "name": "Vertiginous Golf",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27186530",
+    "update_time": "2025-01-28 00:32:17",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "272891": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3004582431301345271",
+                    "size": "1502740386",
+                    "download": "717816704"
+                }
+            },
+            "decryptionkey": "94aaf892b7a0328deacd53deadef0d00d5246f14f28bbe1dc7e6d020b4af618f"
+        },
+        "272892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "358791266773596400",
+                    "size": "1502954076",
+                    "download": "719223984"
+                }
+            },
+            "decryptionkey": "d3611ad8b9674443d115b3826f34fc0932209486c76eb46d67583d20550f32c0"
+        },
+        "272893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6073710127168740358",
+                    "size": "1499310943",
+                    "download": "720247712"
+                }
+            },
+            "decryptionkey": "2c9641c220cc402c2bee159aa092225d73259428cfe16a27142a86dea58b7c8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "834382"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
