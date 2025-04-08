@@ -1,0 +1,94 @@
+{
+    "appid": "446560",
+    "type": "Game",
+    "name": "Just Dance 2017",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:27",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,danish,dutch,finnish,norwegian,swedish,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "446561": {
+            "manifests": {
+                "public": {
+                    "gid": "931369024063705617",
+                    "size": "16245442819",
+                    "download": "15090391856"
+                },
+                "local": {
+                    "gid": "2429986195706405475",
+                    "size": "16198151016",
+                    "download": "15045108736"
+                },
+                "test": {
+                    "gid": "3389698153843677397",
+                    "size": "16107641340",
+                    "download": "14961319104"
+                }
+            },
+            "decryptionkey": "a3d6565bf3f549c0c1340d58e3ee6a95f234f8ceab87c6bfe7c6e61963fdd677"
+        },
+        "446562": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "1031472416768246930",
+                    "size": "16321212303",
+                    "download": "15141423056"
+                },
+                "test": {
+                    "gid": "7566245285292293142",
+                    "size": "16321199156",
+                    "download": "15141423632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11271629",
+                "timeupdated": "1684748852"
+            },
+            "local": {
+                "buildid": "1484294",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1480323920"
+            },
+            "test": {
+                "buildid": "1364114",
+                "description": "test LCS",
+                "lcsrequired": "1",
+                "timeupdated": "1475137076"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
