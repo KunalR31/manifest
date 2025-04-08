@@ -1,0 +1,77 @@
+{
+    "appid": "1966290",
+    "type": "Game",
+    "name": "Sandwalkers: The Fourteenth Caravan",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-07-08 04:41:03",
+    "depot": {
+        "1966291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4604863882590495018",
+                    "size": "573409500",
+                    "download": "134161104"
+                },
+                "macm1support": {
+                    "gid": "83018428371678813",
+                    "size": "572259568",
+                    "download": "133993776"
+                }
+            },
+            "decryptionkey": "c36cbfc926f2032aeab9b9b267e2155faf7b66d85794ca01903e4e2b108f2a65"
+        },
+        "1966292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6875158710175013820",
+                    "size": "635794334",
+                    "download": "151440784"
+                },
+                "macm1support": {
+                    "gid": "7891468148812974801",
+                    "size": "595468219",
+                    "download": "143893888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1966293": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3663401970148504704",
+                    "size": "617462395",
+                    "download": "138543328"
+                },
+                "macm1support": {
+                    "gid": "3046662182687260345",
+                    "size": "616028435",
+                    "download": "138318512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9901923",
+                "timeupdated": "1668007224"
+            },
+            "macm1support": {
+                "buildid": "9820082",
+                "description": "mac m1 support test",
+                "timeupdated": "1666948938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
