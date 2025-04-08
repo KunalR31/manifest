@@ -1,0 +1,60 @@
+{
+    "appid": "693800",
+    "type": "Game",
+    "name": "Loco Parentis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26911200",
+    "update_time": "2025-01-09 01:14:00",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "693801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2342809477226262469",
+                    "size": "7358020763",
+                    "download": "2088742704"
+                }
+            },
+            "decryptionkey": "b22f41f5951c5b597455390abd591791aae72585c3696e64bd7f5240e89a05ec"
+        },
+        "693802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7589978847598943314",
+                    "size": "2777360439",
+                    "download": "852941296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6359201",
+                "timeupdated": "1615380898"
+            }
+        }
+    }
+}
