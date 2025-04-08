@@ -1,0 +1,78 @@
+{
+    "appid": "1959390",
+    "type": "Game",
+    "name": "Fear the Spotlight",
+    "schinese_name": "惧怕聚光灯",
+    "isfreeapp": "0",
+    "change_number": "27964600",
+    "update_time": "2025-03-15 04:29:35",
+    "depot": {
+        "1959391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3442383455878038585",
+                    "size": "893962865",
+                    "download": "366950592"
+                },
+                "beta": {
+                    "gid": "3442383455878038585",
+                    "size": "893962865",
+                    "download": "366950592"
+                }
+            },
+            "decryptionkey": "cb1b5908d2dd9c0e028317665a30c81d16fae6eaa155dc2202cf51b47784c257"
+        },
+        "1959393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6414668732591147445",
+                    "size": "927600947",
+                    "download": "377359728"
+                },
+                "beta": {
+                    "gid": "6414668732591147445",
+                    "size": "927600947",
+                    "download": "377359728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1959394": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "887812188931195953",
+                    "size": "917958758",
+                    "download": "371926800"
+                },
+                "beta": {
+                    "gid": "887812188931195953",
+                    "size": "917958758",
+                    "download": "371926800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16728918",
+                "timeupdated": "1734128081"
+            },
+            "beta": {
+                "buildid": "16728918",
+                "description": "Early preview of the next patch. May be buggy",
+                "timeupdated": "1734050715"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
