@@ -1,0 +1,83 @@
+{
+    "appid": "586240",
+    "type": "Game",
+    "name": "Soul Searching",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26366173",
+    "update_time": "2024-12-05 04:11:45",
+    "depot": {
+        "baselanguages": "english,turkish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "586241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1433560812032019958",
+                    "size": "389866693",
+                    "download": "258238272"
+                },
+                "beta": {
+                    "gid": "1433560812032019958",
+                    "size": "389866693",
+                    "download": "258238272"
+                }
+            },
+            "decryptionkey": "05a4058569c314e5dfa7b1bb4000c4d495d1f56da23d85cf5fe8c5ebf148a3c0"
+        },
+        "586242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5920520683985227734",
+                    "size": "397480821",
+                    "download": "260848608"
+                },
+                "beta": {
+                    "gid": "5920520683985227734",
+                    "size": "397480821",
+                    "download": "260848608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "586243": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5107848500473883627",
+                    "size": "430636766",
+                    "download": "271287072"
+                },
+                "beta": {
+                    "gid": "5107848500473883627",
+                    "size": "430636766",
+                    "download": "271287072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5000984",
+                "timeupdated": "1588955505"
+            },
+            "beta": {
+                "buildid": "5000984",
+                "timeupdated": "1588953494"
+            }
+        }
+    }
+}
