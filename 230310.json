@@ -1,0 +1,68 @@
+{
+    "appid": "230310",
+    "type": "Game",
+    "name": "Akaneiro: Demon Hunters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 04:37:03",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "230311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5331094132488801056",
+                    "size": "991662016",
+                    "download": "894423760"
+                }
+            },
+            "decryptionkey": "2d6b6ec9f9b28c72692367089891aeb8de5649133fa7036ec856a766a091cb47"
+        },
+        "230312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5314026827600747340",
+                    "size": "995703197",
+                    "download": "896239888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "230313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4584982373145041723",
+                    "size": "1024094268",
+                    "download": "904787936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "887533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
