@@ -1,0 +1,67 @@
+{
+    "appid": "2184350",
+    "type": "Game",
+    "name": "Guild Saga: Vanished Worlds",
+    "schinese_name": "公会传说 遗落的世界",
+    "isfreeapp": "0",
+    "change_number": "28209000",
+    "update_time": "2025-03-30 03:29:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2184351": {
+            "manifests": {
+                "public": {
+                    "gid": "8242424517427191003",
+                    "size": "4985344505",
+                    "download": "488564480"
+                },
+                "local": {
+                    "gid": "6026649543054225792",
+                    "size": "3284124439",
+                    "download": "202630048"
+                },
+                "experimental": {
+                    "gid": "1469211321220454425",
+                    "size": "5321407327",
+                    "download": "515972640"
+                }
+            },
+            "decryptionkey": "2a999e283fd4e1e911dbf0b0af2cb0c12ad487fe85f8d9718b6ecf52971962ba"
+        },
+        "2184352": {
+            "manifests": {
+                "local": {
+                    "gid": "4174086034059294776",
+                    "size": "3283328053",
+                    "download": "198929552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "16300894",
+                "timeupdated": "1730811979"
+            },
+            "local": {
+                "buildid": "10738914",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1678450015"
+            },
+            "experimental": {
+                "buildid": "17625555",
+                "description": "Experimental release",
+                "timeupdated": "1741293775"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
