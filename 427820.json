@@ -1,0 +1,86 @@
+{
+    "appid": "427820",
+    "type": "Game",
+    "name": "Hitman GO: Definitive Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28029399",
+    "update_time": "2025-03-19 17:20:37",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "427821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "616562323558454419",
+                    "size": "1137196545",
+                    "download": "343887536"
+                }
+            },
+            "decryptionkey": "f1e2827dde33dd2caf07c194c102b0fe836eab030e5b0fa6a86fc6698cd1cd78"
+        },
+        "427822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "783057715014036770",
+                    "size": "1151106924",
+                    "download": "336554816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "427823": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7869707191185532712",
+                    "size": "1140736343",
+                    "download": "334182864"
+                }
+            },
+            "decryptionkey": "20d124ba8382c97602812b4c67904e924764eaf9fa4fe641af175b1f44105f95"
+        },
+        "427824": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8730980045907955939",
+                    "size": "1132791233",
+                    "download": "341213728"
+                }
+            },
+            "decryptionkey": "e32cdeafd6f7623df1c5287a0d7d83175e6e2cc67bc28ba96e6774482d87a695"
+        },
+        "branches": {
+            "public": {
+                "buildid": "990335"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
