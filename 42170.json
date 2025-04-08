@@ -1,0 +1,75 @@
+{
+    "appid": "42170",
+    "type": "Game",
+    "name": "Krater",
+    "schinese_name": "末日余痕",
+    "isfreeapp": "0",
+    "change_number": "28091932",
+    "update_time": "2025-03-23 08:12:53",
+    "depot": {
+        "overridescddb": "1",
+        "204731": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6340647582050006766",
+                    "size": "183589127",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6340647582050006766",
+                    "size": "183589127",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "204731",
+            "decryptionkey": ""
+        },
+        "42171": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4815917791475444568",
+                    "size": "4280320899",
+                    "download": "2696657952"
+                },
+                "beta": {
+                    "gid": "4990154440438771337",
+                    "size": "3581170836",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a42ac02c4251035d4bf6ff0fc56db76f1b1a8b5150be8aa440a4783e0c2dfbda"
+        },
+        "42172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8697889714859640047",
+                    "size": "3583933159",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5a707112e3bf721c9ff2558d4082d78f59909833fff30247438de0ffd9d03e90"
+        },
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish,hungarian",
+        "branches": {
+            "public": {
+                "buildid": "3571402",
+                "timeupdated": "1550664914"
+            },
+            "beta": {
+                "buildid": "29359",
+                "description": "Public testing of new content"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
