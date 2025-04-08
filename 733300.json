@@ -1,0 +1,65 @@
+{
+    "appid": "733300",
+    "type": "Game",
+    "name": "My Big Sister",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28174861",
+    "update_time": "2025-03-28 00:54:24",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "733301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3081389398037703156",
+                    "size": "186115835",
+                    "download": "60427616"
+                },
+                "rollback": {
+                    "gid": "6759123189539535916",
+                    "size": "185217985",
+                    "download": "59918816"
+                },
+                "rollback_latest": {
+                    "gid": "7577482362247050298",
+                    "size": "185627104",
+                    "download": "60192192"
+                }
+            },
+            "decryptionkey": "feac505adb2238a631e6a11d31e3c57315f3840cd1f263bdc446932535c513e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3448426",
+                "timeupdated": "1546867682"
+            },
+            "rollback": {
+                "buildid": "3287405",
+                "timeupdated": "1542110037"
+            },
+            "rollback_latest": {
+                "buildid": "3354366",
+                "timeupdated": "1546867708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
