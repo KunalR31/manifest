@@ -1,0 +1,80 @@
+{
+    "appid": "620110",
+    "type": "Tool",
+    "name": "The Archotek Project Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182481",
+    "update_time": "2024-11-14 05:43:45",
+    "depot": {
+        "620111": {},
+        "620112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1478694838181992740",
+                    "size": "4300363441",
+                    "download": "1011035776"
+                },
+                "development": {
+                    "gid": "1478694838181992740",
+                    "size": "4300363441",
+                    "download": "1011035776"
+                },
+                "legacy": {
+                    "gid": "5236715894327647921",
+                    "size": "4300166833",
+                    "download": "1010981472"
+                }
+            },
+            "decryptionkey": "60cf0d241f0b257f9208bd2b4934d12158e5e2e35561204a400734c7c1d408f7"
+        },
+        "620113": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "620114": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8615775121055787031",
+                    "size": "1343427670",
+                    "download": "336291328"
+                },
+                "development": {
+                    "gid": "8615775121055787031",
+                    "size": "1343427670",
+                    "download": "336291328"
+                },
+                "legacy": {
+                    "gid": "8615775121055787031",
+                    "size": "1343427670",
+                    "download": "336291328"
+                }
+            },
+            "decryptionkey": "5bdecdf7c373d3de81aace9a709f7d5447fe503cba84ba764c55159f2db61fea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4768267",
+                "timeupdated": "1583969694"
+            },
+            "development": {
+                "buildid": "4768267",
+                "timeupdated": "1583969685"
+            },
+            "legacy": {
+                "buildid": "4755863",
+                "timeupdated": "1583969673"
+            }
+        }
+    }
+}
