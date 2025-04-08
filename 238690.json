@@ -1,0 +1,45 @@
+{
+    "appid": "238690",
+    "type": "Tool",
+    "name": "Rising Storm Beta Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 06:58:53",
+    "depot": {
+        "238691": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1935636036930935304",
+                    "size": "10261288492",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2939625009422351744",
+                    "size": "15431762947",
+                    "download": "0"
+                },
+                "internalbeta": {
+                    "gid": "7205591244558743304",
+                    "size": "5405810252",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "18fad119bce89cea0a37037fa2214c4c65eb6a91af4da0fc0a0a7538efb3e443"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "220840"
+            },
+            "beta": {
+                "buildid": "172968"
+            },
+            "internalbeta": {
+                "buildid": "72017"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
