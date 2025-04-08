@@ -1,0 +1,49 @@
+{
+    "appid": "282440",
+    "type": "Game",
+    "name": "Quake Live",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28052921",
+    "update_time": "2025-03-20 22:42:09",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "282440",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "282441": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8008275610516452897",
+                    "size": "1129957635",
+                    "download": "1097488976"
+                },
+                "beta": {
+                    "gid": "8008275610516452897",
+                    "size": "1129957635",
+                    "download": "1097488976"
+                }
+            },
+            "decryptionkey": "759d76a5e90c2a665c031af72f07c32a76c020ed868e6d305d740a36d2f93365"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1168251",
+                "timeupdated": "1465312305"
+            },
+            "beta": {
+                "buildid": "1168251",
+                "description": "Staging for updates, may break compatibility!",
+                "timeupdated": "1465312319"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
