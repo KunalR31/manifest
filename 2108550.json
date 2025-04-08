@@ -1,0 +1,101 @@
+{
+    "appid": "2108550",
+    "type": "Application",
+    "name": "Inochi Creator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27124235",
+    "update_time": "2025-01-23 12:27:22",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2108553": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5430654112297468225",
+                    "size": "31407437",
+                    "download": "18649584"
+                },
+                "nightly": {
+                    "gid": "468653622913753549",
+                    "size": "31630559",
+                    "download": "18678768"
+                }
+            },
+            "decryptionkey": "a5e10ddb2785775398d4f448b308325d37d0edf23fc75d9d0a1d4dfa8d5186fd"
+        },
+        "2108554": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1685170793410060506",
+                    "size": "31225893",
+                    "download": "18223248"
+                },
+                "nightly": {
+                    "gid": "2465924032564419665",
+                    "size": "57007831",
+                    "download": "21950000"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2108555": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "204066710846031415",
+                    "size": "82337825",
+                    "download": "24341072"
+                },
+                "nightly": {
+                    "gid": "2523718182933140719",
+                    "size": "83323843",
+                    "download": "24458976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15736355",
+                "timeupdated": "1726663318"
+            },
+            "nightly": {
+                "buildid": "16754286",
+                "description": "Nightly builds",
+                "timeupdated": "1734314684"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
