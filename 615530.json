@@ -1,0 +1,101 @@
+{
+    "appid": "615530",
+    "type": "Game",
+    "name": "Love, Money, Rock'n'Roll",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27790413",
+    "update_time": "2025-03-05 16:10:05",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "615531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1639284927768996125",
+                    "size": "2809124001",
+                    "download": "2483615760"
+                },
+                "beta_chinese": {
+                    "gid": "2761276072154488943",
+                    "size": "2811719604",
+                    "download": "2486662448"
+                }
+            },
+            "decryptionkey": "798a2870c2ddd7da29e898c6f9472b8b5dfcf9bb0799588e2ee149ba756da3f9"
+        },
+        "615532": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7529368853387053414",
+                    "size": "2934070143",
+                    "download": "2518503024"
+                },
+                "beta_chinese": {
+                    "gid": "5782087860985999557",
+                    "size": "2972162451",
+                    "download": "2568806752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "615533": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7675495179002343670",
+                    "size": "3133454450",
+                    "download": "2568528016"
+                },
+                "beta_chinese": {
+                    "gid": "448641325595197865",
+                    "size": "3139628917",
+                    "download": "2582906368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "615534": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1729274472925248836",
+                    "size": "2770668542",
+                    "download": "2491597984"
+                },
+                "beta_chinese": {
+                    "gid": "1729274472925248836",
+                    "size": "2770668542",
+                    "download": "2491597984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "615530",
+        "branches": {
+            "public": {
+                "buildid": "17600842",
+                "timeupdated": "1741162201"
+            },
+            "beta_chinese": {
+                "buildid": "17004794",
+                "description": "Chinese translation",
+                "timeupdated": "1736888086"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
