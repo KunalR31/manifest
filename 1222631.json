@@ -1,0 +1,85 @@
+{
+    "appid": "1222631",
+    "type": "DLC",
+    "name": "bsnes",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731456",
+    "update_time": "2025-03-01 17:12:29",
+    "depot": {
+        "1222631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "1222631"
+            },
+            "dlcappid": "1222631",
+            "manifests": {
+                "public": {
+                    "gid": "1678104718627732303",
+                    "size": "8158027",
+                    "download": "1518432"
+                },
+                "nightly": {
+                    "gid": "390465936106774088",
+                    "size": "8160587",
+                    "download": "1519552"
+                }
+            },
+            "decryptionkey": "ec08b5ddd7e973a1b39a72651f0e23f9fddd19ee8e95c26d57fe8226254d01c7"
+        },
+        "1790160": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222631"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5922252511653680953",
+                    "size": "8146855",
+                    "download": "1300240"
+                },
+                "nightly": {
+                    "gid": "8200839962471305676",
+                    "size": "8146855",
+                    "download": "1300928"
+                }
+            },
+            "dlcappid": "1222631",
+            "decryptionkey": ""
+        },
+        "1790161": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222631"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2058939742826106881",
+                    "size": "19966255",
+                    "download": "2738512"
+                },
+                "nightly": {
+                    "gid": "580306693580714220",
+                    "size": "19966255",
+                    "download": "2742880"
+                }
+            },
+            "dlcappid": "1222631",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911366",
+                "timeupdated": "1736093700"
+            },
+            "nightly": {
+                "buildid": "17557848",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820342"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
