@@ -1,0 +1,139 @@
+{
+    "appid": "673990",
+    "type": "Tool",
+    "name": "IOSoccer Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28322527",
+    "update_time": "2025-04-05 18:07:10",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "673991": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8906627471373164150",
+                    "size": "3626906277",
+                    "download": "1080740112"
+                },
+                "develop": {
+                    "gid": "5369618756681663337",
+                    "size": "3475864877",
+                    "download": "1051991680"
+                },
+                "beta": {
+                    "gid": "8906627471373164150",
+                    "size": "3626906277",
+                    "download": "1080740112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "673992": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7481979057521819551",
+                    "size": "28058256",
+                    "download": "9453008"
+                },
+                "develop": {
+                    "gid": "5886683205840857418",
+                    "size": "28052624",
+                    "download": "9453040"
+                },
+                "beta": {
+                    "gid": "7481979057521819551",
+                    "size": "28058256",
+                    "download": "9453008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "673993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3380866048313894147",
+                    "size": "48617729",
+                    "download": "13098096"
+                },
+                "develop": {
+                    "gid": "2290729284015416158",
+                    "size": "48602171",
+                    "download": "13098336"
+                },
+                "beta": {
+                    "gid": "3380866048313894147",
+                    "size": "48617729",
+                    "download": "13098096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17995076",
+                "timeupdated": "1743847615"
+            },
+            "develop": {
+                "buildid": "9159013",
+                "description": "branch for internal testing of in-development changes",
+                "timeupdated": "1658346046"
+            },
+            "beta": {
+                "buildid": "17995076",
+                "description": "BETA",
+                "timeupdated": "1743847627"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
