@@ -1,0 +1,93 @@
+{
+    "appid": "341500",
+    "type": "Game",
+    "name": "Camera Obscura",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24941662",
+    "update_time": "2024-08-26 20:17:54",
+    "depot": {
+        "workshopdepot": "341500",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "341501": {
+            "manifests": {
+                "public": {
+                    "gid": "3968433613950703823",
+                    "size": "367915142",
+                    "download": "92879440"
+                },
+                "1.05": {
+                    "gid": "7819553800146289430",
+                    "size": "364375094",
+                    "download": "92780032"
+                },
+                "1.06": {
+                    "gid": "5489626470475007904",
+                    "size": "364375094",
+                    "download": "92780096"
+                },
+                "1.07": {
+                    "gid": "6279904171670291059",
+                    "size": "367815932",
+                    "download": "92853616"
+                },
+                "1.08": {
+                    "gid": "8727161009055479234",
+                    "size": "367815941",
+                    "download": "92853568"
+                },
+                "beta": {
+                    "gid": "3968433613950703823",
+                    "size": "367915142",
+                    "download": "92879440"
+                }
+            },
+            "decryptionkey": "521fec7a4ed6db55282686c682ceb88ab13ef2334b8a1895fe2dd07eed6cdb96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2515734",
+                "timeupdated": "1518317250"
+            },
+            "1.05": {
+                "buildid": "1849974",
+                "description": "Old version: 1.05",
+                "timeupdated": "1500136476"
+            },
+            "1.06": {
+                "buildid": "1869569",
+                "description": "Old version: 1.06",
+                "timeupdated": "1500136231"
+            },
+            "1.07": {
+                "buildid": "1963681",
+                "description": "Old version: 1.07",
+                "timeupdated": "1506752883"
+            },
+            "1.08": {
+                "buildid": "2161456",
+                "description": "Old version: 1.08",
+                "timeupdated": "1518317209"
+            },
+            "beta": {
+                "buildid": "2515734",
+                "description": "Unstable release branch",
+                "timeupdated": "1518317175"
+            }
+        },
+        "workshopdepotdecryptionkey": "109352e972634299ad0e9bbc93ca36e9b279e1ff25baf1965587010dc589fb8e"
+    }
+}
