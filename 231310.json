@@ -1,0 +1,68 @@
+{
+    "appid": "231310",
+    "type": "Game",
+    "name": "MirrorMoon EP",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26659848",
+    "update_time": "2024-12-16 19:37:12",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "231311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2733086910102885769",
+                    "size": "127711632",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8ff22352e87d01ad9ce52a62c802b057fc22e68206e35f75c3e359b42728afcb"
+        },
+        "231312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3570083769230904638",
+                    "size": "130617831",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b9224d939ac695bae09653140a9243ae5656ec235a737d4a464a266560ab77b0"
+        },
+        "231313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2309124221243993538",
+                    "size": "135650177",
+                    "download": "84649632"
+                }
+            },
+            "decryptionkey": "104fa11f6c7285cfe8f6637be5c7969076b6b6d3a3282e9bcb8e75f2bdb39268"
+        },
+        "branches": {
+            "public": {
+                "buildid": "616637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
