@@ -1,0 +1,79 @@
+{
+    "appid": "975510",
+    "type": "Game",
+    "name": "Panzer Paladin",
+    "schinese_name": "装甲圣骑士",
+    "isfreeapp": "0",
+    "change_number": "27386698",
+    "update_time": "2025-02-09 19:28:31",
+    "depot": {
+        "workshopdepot": "975510",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "975511": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1730713809953772683",
+                    "size": "165834164",
+                    "download": "115842016"
+                }
+            },
+            "decryptionkey": "ccb177e7fc68693a3ad5229b846d45af16ed4b8bf2a6cb6075da1622e2bcfa8c"
+        },
+        "1379430": {
+            "dlcappid": "1379430",
+            "manifests": {
+                "public": {
+                    "gid": "5256352007635502355",
+                    "size": "56367147",
+                    "download": "54477648"
+                }
+            },
+            "decryptionkey": "621c3b0102dd0554f07d424a55b60e59020c82933274dea324b6c06ad1a8fce5"
+        },
+        "975512": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3229222210529921458",
+                    "size": "34891151",
+                    "download": "9673904"
+                }
+            },
+            "decryptionkey": "c80f31326819d960f857f32443c42bc0b22b8634fe56d533549fbaf8648fe312"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14222699",
+                "timeupdated": "1714489082"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bee88640ccfcc2eb08e1ea7ab90801f739cbc067eae14f30ec9d29554f7ae462"
+    }
+}
