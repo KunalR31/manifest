@@ -1,0 +1,116 @@
+{
+    "appid": "2299510",
+    "type": "Application",
+    "name": "Pixel Composer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28342720",
+    "update_time": "2025-04-07 17:27:39",
+    "depot": {
+        "workshopdepot": "2299510",
+        "2299511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6613727479360426973",
+                    "size": "298637751",
+                    "download": "90591536"
+                },
+                "1.14": {
+                    "gid": "4316908475659697778",
+                    "size": "118352258",
+                    "download": "47811840"
+                },
+                "1.15": {
+                    "gid": "8408753853253345633",
+                    "size": "124046607",
+                    "download": "45757744"
+                },
+                "1.16": {
+                    "gid": "8107542534971766825",
+                    "size": "247806263",
+                    "download": "78391456"
+                },
+                "1.17": {
+                    "gid": "2626205283500214962",
+                    "size": "276651956",
+                    "download": "85357232"
+                },
+                "beta": {
+                    "gid": "9131405699357090275",
+                    "size": "312993423",
+                    "download": "99011248"
+                },
+                "beta-nosteam": {
+                    "gid": "56749065916271036",
+                    "size": "312212858",
+                    "download": "98708768"
+                }
+            },
+            "decryptionkey": "780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397"
+        },
+        "2299512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2526359806784507848",
+                    "size": "429795262",
+                    "download": "117574208"
+                },
+                "1.17": {
+                    "gid": "2526359806784507848",
+                    "size": "429795262",
+                    "download": "117574208"
+                },
+                "beta": {
+                    "gid": "2526359806784507848",
+                    "size": "429795262",
+                    "download": "117574208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16017065",
+                "timeupdated": "1728696443"
+            },
+            "1.14": {
+                "buildid": "11010214",
+                "description": "1.14 stable",
+                "timeupdated": "1702082255"
+            },
+            "1.15": {
+                "buildid": "11947879",
+                "description": "1.15 stable",
+                "timeupdated": "1702082205"
+            },
+            "1.16": {
+                "buildid": "13038644",
+                "description": "1.16 stable",
+                "timeupdated": "1714740046"
+            },
+            "1.17": {
+                "buildid": "15847598",
+                "description": "1.17 stable",
+                "timeupdated": "1727425366"
+            },
+            "beta": {
+                "buildid": "17878052",
+                "description": "more frequent, less stable build",
+                "timeupdated": "1743056145"
+            },
+            "beta-nosteam": {
+                "buildid": "17878204",
+                "description": "beta build without steam workshop, use for debugging",
+                "timeupdated": "1743056132"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a37339e0487db14b2f800279a9ab04b21822b9948e524956c64b63cd725dcfed"
+    }
+}
