@@ -1,0 +1,60 @@
+{
+    "appid": "2745010",
+    "type": "Demo",
+    "name": "MOONSHIRE Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27729419",
+    "update_time": "2025-03-01 11:37:46",
+    "depot": {
+        "2745011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "793215810855173330",
+                    "size": "51994711",
+                    "download": "45165856"
+                },
+                "canary": {
+                    "gid": "793215810855173330",
+                    "size": "51994711",
+                    "download": "45165856"
+                }
+            },
+            "decryptionkey": "ed7a1af925d72ef280197e637b33e073be4dfa914b989f290a48ec54afea1db8"
+        },
+        "2745012": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "166134216334838368",
+                    "size": "68958650",
+                    "download": "50094496"
+                },
+                "canary": {
+                    "gid": "166134216334838368",
+                    "size": "68958650",
+                    "download": "50094496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14820709",
+                "timeupdated": "1719250001"
+            },
+            "canary": {
+                "buildid": "14820709",
+                "description": "Receives latest release early, for extra validation",
+                "timeupdated": "1719250057"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
