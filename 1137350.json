@@ -1,0 +1,63 @@
+{
+    "appid": "1137350",
+    "type": "Game",
+    "name": "Filament",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27172745",
+    "update_time": "2025-01-26 23:27:05",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1137351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2892626067132799683",
+                    "size": "1066220894",
+                    "download": "971796144"
+                }
+            },
+            "decryptionkey": "c70aeca04d007d3764519cb0d44437295e4ef1ab2c14f887b50c96f173e1582f"
+        },
+        "1137352": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3744703290950154351",
+                    "size": "1343865125",
+                    "download": "1191615664"
+                }
+            },
+            "decryptionkey": "4409c601d88587b225e90121898057514caf7eeca250e49e59012b7a40d01735"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5256392",
+                "timeupdated": "1594056721"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
