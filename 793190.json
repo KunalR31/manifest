@@ -1,0 +1,49 @@
+{
+    "appid": "793190",
+    "type": "Application",
+    "name": "Daily OVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26801933",
+    "update_time": "2024-12-28 11:39:05",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "793191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8943177591309881019",
+                    "size": "991905292",
+                    "download": "478765648"
+                },
+                "beta": {
+                    "gid": "7111093097440103168",
+                    "size": "991895020",
+                    "download": "478762288"
+                }
+            },
+            "decryptionkey": "c2685a50d737222449ac70eee76832d9bbe41e13d2345edd6458e50c459826ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4712627",
+                "timeupdated": "1583115967"
+            },
+            "beta": {
+                "buildid": "4554159",
+                "description": "External Testing",
+                "timeupdated": "1578645983"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
