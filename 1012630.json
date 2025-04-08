@@ -1,0 +1,76 @@
+{
+    "appid": "1012630",
+    "type": "Game",
+    "name": "Epido",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26954640",
+    "update_time": "2025-01-11 21:15:29",
+    "depot": {
+        "baselanguages": "english,german,koreana,schinese,tchinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "1012632": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9216870139809741804",
+                    "size": "866233206",
+                    "download": "179881824"
+                },
+                "oldlauncher": {
+                    "gid": "6121285411811311208",
+                    "size": "523947696",
+                    "download": "115020400"
+                }
+            },
+            "decryptionkey": "2c65dd1b3a46417ca665ce9a059e904b603cdcbee79efeccc8d410575e4d1ede"
+        },
+        "1083670": {
+            "dlcappid": "1083670",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6577298452599947459",
+                    "size": "962345",
+                    "download": "956624"
+                },
+                "oldlauncher": {
+                    "gid": "6133808974185043934",
+                    "size": "32855",
+                    "download": "32976"
+                }
+            },
+            "decryptionkey": "c89d60c34ac451e0c7554cd328ea95b58aa72dda3e562cc280694f4e91b95ef0"
+        },
+        "1012631": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5666075937651515686",
+                    "size": "932907030",
+                    "download": "195681088"
+                }
+            },
+            "decryptionkey": "2787f81d1dafc2ce547355d9d53e14a02a7ef4218c5bc45e220d3c25c4849e8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7686709",
+                "timeupdated": "1636516739"
+            },
+            "oldlauncher": {
+                "buildid": "4051498",
+                "description": "Old Launcher",
+                "timeupdated": "1636257146"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
