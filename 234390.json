@@ -1,0 +1,102 @@
+{
+    "appid": "234390",
+    "type": "Game",
+    "name": "Teleglitch: Die More Edition",
+    "schinese_name": "电子脉冲：易死版",
+    "isfreeapp": "0",
+    "change_number": "27136760",
+    "update_time": "2025-01-24 03:25:37",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "234391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6631031053925483532",
+                    "size": "51852207",
+                    "download": "0"
+                },
+                "8.8": {
+                    "gid": "4308566614299091356",
+                    "size": "52981092",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5c65a74fab3656f61118ad27c6fc1838ba8ae3f99c8c8c05a1be70f006c29cec"
+        },
+        "234392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4374850888945894571",
+                    "size": "53959730",
+                    "download": "0"
+                },
+                "8.8": {
+                    "gid": "1232585150477566997",
+                    "size": "55246395",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "20ec9b3ac8176e1e3acb11984d8a85e85e639ac11b43f3fea4849e88f05ffe3b"
+        },
+        "234393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5810718480907192362",
+                    "size": "48708471",
+                    "download": "0"
+                },
+                "8.8": {
+                    "gid": "5182208411955508306",
+                    "size": "49552973",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "625ed7d99ccfe31f8bc98516bb5bb399383e8a1c00971043ac25964c4397f92b"
+        },
+        "240820": {
+            "manifests": {
+                "public": {
+                    "gid": "7665181275625386546",
+                    "size": "55781050",
+                    "download": "0"
+                },
+                "8.8": {
+                    "gid": "7665181275625386546",
+                    "size": "55781050",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "240820",
+            "decryptionkey": "b4c070e5235281ab7a5876189e5a83bcabbc9920982620753d060770481162e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "275872"
+            },
+            "8.8": {
+                "buildid": "133381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
