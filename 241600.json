@@ -1,0 +1,156 @@
+{
+    "appid": "241600",
+    "type": "Game",
+    "name": "Rogue Legacy",
+    "schinese_name": "盗贼遗产",
+    "isfreeapp": "0",
+    "change_number": "28169609",
+    "update_time": "2025-03-27 20:30:28",
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "241601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6851641770807755203",
+                    "size": "577700191",
+                    "download": "323477504"
+                },
+                "linux32": {
+                    "gid": "6851641770807755203",
+                    "size": "577700191",
+                    "download": "323477504"
+                },
+                "v120b": {
+                    "gid": "1655043270252543696",
+                    "size": "287145849",
+                    "download": "0"
+                },
+                "fna-win32": {
+                    "gid": "4124184776534691650",
+                    "size": "346051321",
+                    "download": "156019168"
+                },
+                "sdl3": {
+                    "gid": "6718448414134696770",
+                    "size": "348622268",
+                    "download": "156581776"
+                }
+            },
+            "decryptionkey": "89e4dbdeb969e3449ef7a74b752dce6916234e4e8c433df9581fedbc02f9f9a8"
+        },
+        "241602": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6968800180044413055",
+                    "size": "368446172",
+                    "download": "161344992"
+                },
+                "linux32": {
+                    "gid": "3203850733280431540",
+                    "size": "374879008",
+                    "download": "162828400"
+                },
+                "v120b": {
+                    "gid": "3762321701409457682",
+                    "size": "245682098",
+                    "download": "158404928"
+                },
+                "fna-win32": {
+                    "gid": "6968800180044413055",
+                    "size": "368446172",
+                    "download": "161344992"
+                },
+                "sdl3": {
+                    "gid": "9117155553139108293",
+                    "size": "379359142",
+                    "download": "164712960"
+                }
+            },
+            "decryptionkey": "a802459ed35573315c9056cc418932aed67b70e4f694a42f17ca0688bfe14505"
+        },
+        "241603": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3097435368854532130",
+                    "size": "382687997",
+                    "download": "164669472"
+                },
+                "linux32": {
+                    "gid": "1585810998397911928",
+                    "size": "365215277",
+                    "download": "160643536"
+                },
+                "v120b": {
+                    "gid": "5058592745918802880",
+                    "size": "220114034",
+                    "download": "151206944"
+                },
+                "fna-win32": {
+                    "gid": "3097435368854532130",
+                    "size": "382687997",
+                    "download": "164669472"
+                },
+                "sdl3": {
+                    "gid": "6310820404727107390",
+                    "size": "373153835",
+                    "download": "162720560"
+                }
+            },
+            "decryptionkey": "6d5ece4209088e4feafe00351d28f99e332b1edf7a98c016aba9797b5ba34cba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9456270",
+                "timeupdated": "1662415248"
+            },
+            "linux32": {
+                "buildid": "4825049",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609453463"
+            },
+            "v120b": {
+                "buildid": "1321538",
+                "description": "pre-loc update for those who want to play lament of zors",
+                "timeupdated": "1529776903"
+            },
+            "fna-win32": {
+                "buildid": "9456250",
+                "description": "FNA Windows Build",
+                "timeupdated": "1662415072"
+            },
+            "sdl3": {
+                "buildid": "17081482",
+                "description": "SDL 3.0 Testing, UNSTABLE",
+                "timeupdated": "1737485106"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
