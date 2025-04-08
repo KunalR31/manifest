@@ -1,0 +1,56 @@
+{
+    "appid": "618100",
+    "type": "Game",
+    "name": "Feral Blue",
+    "schinese_name": "野性海洋",
+    "isfreeapp": "0",
+    "change_number": "26749719",
+    "update_time": "2024-12-22 07:52:35",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "618101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "221719177111787063",
+                    "size": "24777644100",
+                    "download": "9546833248"
+                },
+                "openbeta": {
+                    "gid": "221719177111787063",
+                    "size": "24777644100",
+                    "download": "9546833248"
+                }
+            },
+            "decryptionkey": "ac5cc19297e1f5793120af340a9b6ad8ac99c0314df7365170bc4dd4d583f5f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6358964",
+                "timeupdated": "1615383740"
+            },
+            "openbeta": {
+                "buildid": "6358964",
+                "description": "Open beta branch",
+                "timeupdated": "1615383700"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
