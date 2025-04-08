@@ -1,0 +1,60 @@
+{
+    "appid": "242920",
+    "type": "Game",
+    "name": "Banished",
+    "schinese_name": "放逐之城",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:50:01",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "242921": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3040704736299968944",
+                    "size": "182364752",
+                    "download": "108650368"
+                },
+                "beta": {
+                    "gid": "3040704736299968944",
+                    "size": "182364752",
+                    "download": "108650368"
+                },
+                "local": {
+                    "gid": "8059835673245719105",
+                    "size": "187205535",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5af9db507a72f90aaddccef9f67da11317da1c5267370db1149d6d83eca4622f"
+        },
+        "markdlcdepots": "1",
+        "workshopdepot": "242920",
+        "branches": {
+            "public": {
+                "buildid": "2107442",
+                "timeupdated": "1505322193"
+            },
+            "beta": {
+                "buildid": "2107442",
+                "description": "Beta test for version 1.0.7",
+                "timeupdated": "1505322172"
+            },
+            "local": {
+                "buildid": "116045",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "353415bc1a59887515af532066b464cf6c273d970bbc8101ef19e0d0b2c18c0e"
+    }
+}
