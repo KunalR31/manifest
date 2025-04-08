@@ -1,0 +1,77 @@
+{
+    "appid": "2083070",
+    "type": "Demo",
+    "name": "Soulstone Survivors Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26716698",
+    "update_time": "2024-12-20 00:01:31",
+    "depot": {
+        "2083071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2483291101105574679",
+                    "size": "1656490692",
+                    "download": "482376432"
+                },
+                "alpha": {
+                    "gid": "2483291101105574679",
+                    "size": "1656490692",
+                    "download": "482376432"
+                }
+            },
+            "decryptionkey": "986365ab41f85673b7dce860b124cc3f0c1fc87204a9524c62d8f43ed8de53ae"
+        },
+        "2083072": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5466202693870641761",
+                    "size": "1764087373",
+                    "download": "522627760"
+                },
+                "alpha": {
+                    "gid": "5466202693870641761",
+                    "size": "1764087373",
+                    "download": "522627760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2083073": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1958396511690889710",
+                    "size": "1650551769",
+                    "download": "483458768"
+                },
+                "alpha": {
+                    "gid": "1958396511690889710",
+                    "size": "1650551769",
+                    "download": "483458768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16803021",
+                "timeupdated": "1734624081"
+            },
+            "alpha": {
+                "buildid": "16803021",
+                "description": "Public alpha, please send feedback if you find issues!",
+                "timeupdated": "1734624065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
