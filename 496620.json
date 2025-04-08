@@ -1,0 +1,72 @@
+{
+    "appid": "496620",
+    "type": "Game",
+    "name": "Monster Slayers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22684717",
+    "update_time": "2024-05-24 06:48:17",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "496621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3159866978073117167",
+                    "size": "233068029",
+                    "download": "186733456"
+                },
+                "legacy": {
+                    "gid": "1720777778649186781",
+                    "size": "229328298",
+                    "download": "186514048"
+                }
+            },
+            "decryptionkey": "03fc1980a3d1cb6836f06e80f145a5fa0570e9f4fee0fd09ff8f09ec8dbe69e3"
+        },
+        "496622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2822484226385182686",
+                    "size": "232967256",
+                    "download": "187448016"
+                },
+                "legacy": {
+                    "gid": "2822484226385182686",
+                    "size": "232967256",
+                    "download": "187448016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8740282",
+                "timeupdated": "1652546099"
+            },
+            "legacy": {
+                "buildid": "2024778",
+                "description": "Legacy version",
+                "timeupdated": "1609199799"
+            }
+        }
+    }
+}
