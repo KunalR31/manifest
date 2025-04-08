@@ -1,0 +1,90 @@
+{
+    "appid": "232430",
+    "type": "Game",
+    "name": "Gone Home",
+    "schinese_name": "到家",
+    "isfreeapp": "0",
+    "change_number": "27105673",
+    "update_time": "2025-01-22 12:21:32",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "232431": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7071319778870821752",
+                    "size": "3222502159",
+                    "download": "1601515360"
+                }
+            },
+            "decryptionkey": "4185ee73389cf01034a05653ad72dbe10244d522e72d6a4f627c60b4de7f2938"
+        },
+        "232432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5093996636574436223",
+                    "size": "3227191771",
+                    "download": "1603379520"
+                }
+            },
+            "decryptionkey": "62486effedf75478d67cca4b59392633962fc2280c6c55e1c9ae18cceb06f3b6"
+        },
+        "232433": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "380088017179354307",
+                    "size": "3257873520",
+                    "download": "1612375440"
+                }
+            },
+            "decryptionkey": "043f465d1fc1a17418f5ca9bba8d19f41e14cdd516645bfaf0e11d29090977ab"
+        },
+        "232434": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4624106259819886889",
+                    "size": "3216537391",
+                    "download": "1597384768"
+                }
+            },
+            "decryptionkey": "eaf2de6047c9dd128a2c68a2ae0f4c814ad8991c5718f97b7d0a17e4c81b61e7"
+        },
+        "232435": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4845033",
+                "timeupdated": "1585732653"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
