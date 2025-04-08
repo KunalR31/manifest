@@ -1,0 +1,111 @@
+{
+    "appid": "17580",
+    "type": "Game",
+    "name": "Dystopia",
+    "schinese_name": "反乌托邦",
+    "isfreeapp": "1",
+    "change_number": "27153646",
+    "update_time": "2025-01-25 01:26:46",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "17580",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "17581": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                },
+                "nightly": {
+                    "gid": "2651542348671413866",
+                    "size": "4482457720",
+                    "download": "2151020032"
+                },
+                "release_candidate": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                }
+            },
+            "decryptionkey": "06dbb53f43c234945eb426efbe5cfc606cd18fdb4cc34444a17a9b17c077188f"
+        },
+        "17582": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8471557742372207269",
+                    "size": "55093534",
+                    "download": "19533488"
+                },
+                "nightly": {
+                    "gid": "1196891138121151266",
+                    "size": "50450188",
+                    "download": "17300576"
+                },
+                "release_candidate": {
+                    "gid": "8471557742372207269",
+                    "size": "55093534",
+                    "download": "19533488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "17583": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8801705975971600419",
+                    "size": "89881428",
+                    "download": "22467792"
+                },
+                "nightly": {
+                    "gid": "5500314877811231494",
+                    "size": "89074431",
+                    "download": "22194160"
+                },
+                "release_candidate": {
+                    "gid": "8801705975971600419",
+                    "size": "89881428",
+                    "download": "22467792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10309194",
+                "timeupdated": "1673553983"
+            },
+            "nightly": {
+                "buildid": "3996125",
+                "timeupdated": "1563300284"
+            },
+            "release_candidate": {
+                "buildid": "10309194",
+                "timeupdated": "1673546633"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
