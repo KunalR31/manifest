@@ -1,0 +1,93 @@
+{
+    "appid": "642810",
+    "type": "Demo",
+    "name": "AccuRC 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:44:23",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "642811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7589279464870726336",
+                    "size": "2016516632",
+                    "download": "1408790496"
+                },
+                "alpha": {
+                    "gid": "7589279464870726336",
+                    "size": "2016516632",
+                    "download": "1408790496"
+                },
+                "beta": {
+                    "gid": "7589279464870726336",
+                    "size": "2016516632",
+                    "download": "1408790496"
+                }
+            },
+            "decryptionkey": "7292fd6858780403f4fc229f1bacf7d626f62ae00165648e8f854a4c40becf0d"
+        },
+        "642812": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5844250024640475935",
+                    "size": "3324677387",
+                    "download": "2287125072"
+                },
+                "alpha": {
+                    "gid": "5844250024640475935",
+                    "size": "3324677387",
+                    "download": "2287125072"
+                },
+                "beta": {
+                    "gid": "5844250024640475935",
+                    "size": "3324677387",
+                    "download": "2287125072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "642813": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8888410",
+                "timeupdated": "1654613310"
+            },
+            "alpha": {
+                "buildid": "8888410",
+                "timeupdated": "1654613321"
+            },
+            "beta": {
+                "buildid": "8888410",
+                "timeupdated": "1654613330"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
