@@ -1,0 +1,119 @@
+{
+    "appid": "790850",
+    "type": "Game",
+    "name": "Undead Horde",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28242654",
+    "update_time": "2025-04-01 14:50:06",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,finnish,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "790851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "940489266500982556",
+                    "size": "230611426",
+                    "download": "99236544"
+                },
+                "beta": {
+                    "gid": "940489266500982556",
+                    "size": "230611426",
+                    "download": "99236544"
+                },
+                "macos_old": {
+                    "gid": "364556526688471722",
+                    "size": "232867436",
+                    "download": "99035600"
+                }
+            },
+            "decryptionkey": "7041502a9ae043b2e8a9b298a0e5564b07d7add75caa9d59830c3cf38327d3d1"
+        },
+        "790852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7974110683370885450",
+                    "size": "256445825",
+                    "download": "114727312"
+                },
+                "beta": {
+                    "gid": "7974110683370885450",
+                    "size": "256445825",
+                    "download": "114727312"
+                },
+                "macos_old": {
+                    "gid": "1166505374236808138",
+                    "size": "225293675",
+                    "download": "89474384"
+                }
+            },
+            "decryptionkey": "ef13b9805c1b53796aa3156ab8a8b2b29d8ebeebf30fb20bd5f89ad8b87b6953"
+        },
+        "790853": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "299441240339307999",
+                    "size": "241357587",
+                    "download": "100809792"
+                },
+                "beta": {
+                    "gid": "299441240339307999",
+                    "size": "241357587",
+                    "download": "100809792"
+                },
+                "macos_old": {
+                    "gid": "319561659121966984",
+                    "size": "243797516",
+                    "download": "100914160"
+                }
+            },
+            "decryptionkey": "1d1c7843c860fda394a451796c5a960ad88c0c97d6a59eabda8a51e08af547a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11001907",
+                "timeupdated": "1681460100"
+            },
+            "beta": {
+                "buildid": "11001907",
+                "description": "betas",
+                "timeupdated": "1681460086"
+            },
+            "macos_old": {
+                "buildid": "6132811",
+                "description": "Old macOS build",
+                "timeupdated": "1611568926"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
