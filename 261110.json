@@ -1,0 +1,83 @@
+{
+    "appid": "261110",
+    "type": "Game",
+    "name": "Killer is Dead",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27744709",
+    "update_time": "2025-03-03 04:15:23",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261111": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3905575040944217321",
+                    "size": "13446307622",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8927581316041702056",
+                    "size": "13026327006",
+                    "download": "0"
+                },
+                "retail": {
+                    "gid": "702846888015217670",
+                    "size": "13413926739",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ff9740958a5c5a4a40e1bb7c34ebccb7118231fac738cdfb22ad5cfc7daabb3a"
+        },
+        "261112": {
+            "manifests": {
+                "public": {
+                    "gid": "7207128822459363534",
+                    "size": "89202328",
+                    "download": "0"
+                },
+                "retail": {
+                    "gid": "7207128822459363534",
+                    "size": "89202328",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9c67bd4ee7cf816411e75721ce8452d8c584f276cad8cc1fdf5b1988314e3c23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "263198"
+            },
+            "local": {
+                "buildid": "166526",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "retail": {
+                "buildid": "242852"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
