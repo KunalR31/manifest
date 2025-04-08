@@ -1,0 +1,56 @@
+{
+    "appid": "2695940",
+    "type": "Game",
+    "name": "PANICORE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28216588",
+    "update_time": "2025-03-31 01:16:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2695941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2350568169524496516",
+                    "size": "12222871195",
+                    "download": "11895833104"
+                },
+                "beta": {
+                    "gid": "3653433166175913255",
+                    "size": "12335483352",
+                    "download": "11996595008"
+                }
+            },
+            "decryptionkey": "362cab8fdee84b3302e120698fd3affff7563547d750f12594d1e5c5843f2758"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16197324",
+                "timeupdated": "1730034261"
+            },
+            "beta": {
+                "buildid": "17710649",
+                "description": "Testing new stuff",
+                "timeupdated": "1741877756"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
