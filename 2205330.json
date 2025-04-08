@@ -1,0 +1,58 @@
+{
+    "appid": "2205330",
+    "type": "Game",
+    "name": "Scourge Of War - Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28344871",
+    "update_time": "2025-04-07 19:47:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "2205332": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3634261082601292939",
+                    "size": "3671626493",
+                    "download": "847370784"
+                },
+                "beta": {
+                    "gid": "2060173718137063841",
+                    "size": "3671611497",
+                    "download": "847414416"
+                }
+            },
+            "decryptionkey": "53b677bd1c09ce8b076074bd7cb31e530faf10940692714aa754df801443ca69"
+        },
+        "workshopdepot": "2205330",
+        "branches": {
+            "public": {
+                "buildid": "17066634",
+                "timeupdated": "1737387546"
+            },
+            "beta": {
+                "buildid": "18010782",
+                "description": "test version",
+                "timeupdated": "1744026449"
+            }
+        },
+        "workshopdepotdecryptionkey": "6b562f37bd1d06ebcbb6d57f9e659578a0907f9221dc6968cd98cf56ca6a7cbc"
+    }
+}
