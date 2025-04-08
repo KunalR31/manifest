@@ -1,0 +1,77 @@
+{
+    "appid": "367000",
+    "type": "Game",
+    "name": "Fine Sweeper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26963429",
+    "update_time": "2025-01-13 01:10:04",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,turkish",
+        "367002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5784441740183263388",
+                    "size": "74849792",
+                    "download": "61041360"
+                },
+                "beta": {
+                    "gid": "602376240910744394",
+                    "size": "74849920",
+                    "download": "61044192"
+                },
+                "legacy": {
+                    "gid": "8586461469225668851",
+                    "size": "65538300",
+                    "download": "52443632"
+                }
+            },
+            "decryptionkey": "94e0a49fa2edda5e6755b2b279dc837f5c1046ffa75fc1fe374e9f830877fb3b"
+        },
+        "367003": {
+            "manifests": {
+                "public": {
+                    "gid": "1919462609358938145",
+                    "size": "28296597",
+                    "download": "27392304"
+                },
+                "beta": {
+                    "gid": "1919462609358938145",
+                    "size": "28296597",
+                    "download": "27392304"
+                },
+                "legacy": {
+                    "gid": "1919462609358938145",
+                    "size": "28296597",
+                    "download": "27392304"
+                }
+            },
+            "decryptionkey": "367b9c7bf4eaaec6b78e74f177c9e1c841daf8c3dff982393d04de4c455adfc3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2899555",
+                "timeupdated": "1530113721"
+            },
+            "beta": {
+                "buildid": "2893429",
+                "timeupdated": "1529953984"
+            },
+            "legacy": {
+                "buildid": "1249037",
+                "timeupdated": "1484523493"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
