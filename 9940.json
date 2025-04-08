@@ -1,0 +1,117 @@
+{
+    "appid": "9940",
+    "type": "Game",
+    "name": "Blade Kitten",
+    "schinese_name": "利刃猫女",
+    "isfreeapp": "0",
+    "change_number": "28134472",
+    "update_time": "2025-03-26 01:09:06",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "300120": {
+            "manifests": {
+                "public": {
+                    "gid": "482049371388480551",
+                    "size": "339130461",
+                    "download": "274583856"
+                },
+                "openbeta": {
+                    "gid": "482049371388480551",
+                    "size": "339130461",
+                    "download": "274583856"
+                }
+            },
+            "dlcappid": "300120",
+            "decryptionkey": "6f3612f07d3196a1edb58a08d7d7d7d84dbe382e902de0ddb019a7ffdda74244"
+        },
+        "357170": {
+            "manifests": {
+                "public": {
+                    "gid": "8183747273203512977",
+                    "size": "210315449",
+                    "download": "211918448"
+                },
+                "openbeta": {
+                    "gid": "8183747273203512977",
+                    "size": "210315449",
+                    "download": "211918448"
+                }
+            },
+            "dlcappid": "357170",
+            "decryptionkey": "de627c232ebc3c2705bd1ce85b8557e8230a19c7f2944a90b92c13fe22b16162"
+        },
+        "357171": {
+            "manifests": {
+                "public": {
+                    "gid": "1726153133975736291",
+                    "size": "349500503",
+                    "download": "321887568"
+                },
+                "openbeta": {
+                    "gid": "1726153133975736291",
+                    "size": "349500503",
+                    "download": "321887568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "9942": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8730707515903483300",
+                    "size": "4",
+                    "download": "0"
+                },
+                "openbeta": {
+                    "gid": "8730707515903483300",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "9942",
+            "decryptionkey": ""
+        },
+        "9941": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1188027238715780566",
+                    "size": "819041087",
+                    "download": "703985040"
+                },
+                "openbeta": {
+                    "gid": "1188027238715780566",
+                    "size": "819041087",
+                    "download": "703985040"
+                }
+            },
+            "decryptionkey": "eae5f71dc145afd9d2d2b4fde95c96444aa2429888164cb95faf3cdb38360a94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "562968"
+            },
+            "openbeta": {
+                "buildid": "562968",
+                "description": "Open to public beta"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
