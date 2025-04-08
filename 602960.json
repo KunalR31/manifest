@@ -1,0 +1,127 @@
+{
+    "appid": "602960",
+    "type": "Game",
+    "name": "Barotrauma",
+    "schinese_name": "Barotrauma 潜渊症",
+    "isfreeapp": "0",
+    "change_number": "28344772",
+    "update_time": "2025-04-07 19:41:01",
+    "depot": {
+        "workshopdepot": "602960",
+        "hasdepotsindlc": "1",
+        "602961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "788169520410730674",
+                    "size": "1205534987",
+                    "download": "1048126608"
+                },
+                "macos-compatibility": {
+                    "gid": "4532573188645180096",
+                    "size": "875058390",
+                    "download": "748868944"
+                },
+                "unstable": {
+                    "gid": "7539946270016319281",
+                    "size": "1213983229",
+                    "download": "1054025344"
+                }
+            },
+            "decryptionkey": "9548ba939f90ad1341ef0ea0125642dabf42d425fed0a4a5b2ad3d40a88af1d2"
+        },
+        "602962": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8555647230933503029",
+                    "size": "1225468540",
+                    "download": "1051252528"
+                },
+                "macos-compatibility": {
+                    "gid": "8503897916685002902",
+                    "size": "870442187",
+                    "download": "748641200"
+                },
+                "unstable": {
+                    "gid": "2872662464816099896",
+                    "size": "1233467819",
+                    "download": "1057118016"
+                }
+            },
+            "decryptionkey": "aa05725821345dfdedd93eaef1f0f4fb6e399b95cffc47dbabf9134a7eeca1d9"
+        },
+        "602963": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5433108445851599656",
+                    "size": "1214020761",
+                    "download": "1052644224"
+                },
+                "macos-compatibility": {
+                    "gid": "5124255688693021488",
+                    "size": "895346870",
+                    "download": "781608144"
+                },
+                "unstable": {
+                    "gid": "3259523934830072761",
+                    "size": "1222020040",
+                    "download": "1058506160"
+                }
+            },
+            "decryptionkey": "9420d15bdd3429b9391b475f1d1c59499535e408b59dcc0053cfa369cdbb8609"
+        },
+        "1197650": {
+            "config": {
+                "osarch": "64"
+            },
+            "dlcappid": "1197650",
+            "manifests": {
+                "public": {
+                    "gid": "4582887644478638575",
+                    "size": "437541952",
+                    "download": "432726192"
+                },
+                "macos-compatibility": {
+                    "gid": "4582887644478638575",
+                    "size": "437541952",
+                    "download": "432726192"
+                },
+                "unstable": {
+                    "gid": "4582887644478638575",
+                    "size": "437541952",
+                    "download": "432726192"
+                }
+            },
+            "decryptionkey": "179a1e7986e8029892a8442b25794a7e3e6ca59e33a87f8b00233ab4a8fe5ddb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16693477",
+                "timeupdated": "1733915535"
+            },
+            "macos-compatibility": {
+                "buildid": "9659897",
+                "description": "Last build that supported macOS systems older than 10.15.",
+                "timeupdated": "1664982730"
+            },
+            "unstable": {
+                "buildid": "18010700",
+                "description": "Public unstable version",
+                "timeupdated": "1744026054"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "78724f00a8538c7548a770db37d02b6d5872204c12aa66972ddf965bd6b45792"
+    }
+}
