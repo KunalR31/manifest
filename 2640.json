@@ -1,0 +1,111 @@
+{
+    "appid": "2640",
+    "type": "Game",
+    "name": "Call of Duty: United Offensive",
+    "schinese_name": "使命召唤：联合进攻",
+    "isfreeapp": "0",
+    "change_number": "28042656",
+    "update_time": "2025-03-20 08:55:24",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "2641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3417320556416905624",
+                    "size": "810408355",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "36f1541ab1d713a20a676d2a797a0827e02e423ab89565e65791608bc2222da4"
+        },
+        "2621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "2620",
+            "sharedinstall": "2"
+        },
+        "2687": {
+            "config": {
+                "oslist": "macos"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8489547966516424766",
+                    "size": "985423197",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2642": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5930555561332439777",
+                    "size": "126987117",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "04bf9fd8c34331f7f1e3270ce1f5e39aeae22532f11b1d606d316d8380f26472"
+        },
+        "2643": {
+            "config": {
+                "oslist": "windows",
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "251240555274784949",
+                    "size": "137930612",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b09d9e478376212e6d088091efeb0247b6333bec6ffa2704639607c1444773f4"
+        },
+        "2644": {
+            "config": {
+                "oslist": "windows",
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2093258244524288041",
+                    "size": "134141283",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "61f34a50c83de39dba6b02810d0d3a8a562758d56c45fdee47e50db543dfbb3c"
+        },
+        "42621": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "443939036136994768",
+                    "size": "126987117",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1024"
+            }
+        }
+    }
+}
