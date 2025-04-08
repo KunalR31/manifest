@@ -1,0 +1,70 @@
+{
+    "appid": "310700",
+    "type": "Game",
+    "name": "Super Win the Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25588467",
+    "update_time": "2024-10-08 22:51:02",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "310701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8184720581154183538",
+                    "size": "21160262",
+                    "download": "2120912"
+                }
+            },
+            "decryptionkey": "7dad42af40c5c65979c127c77418f8bd3003ff13f9c47ab8f00bc70ad6fea9b0"
+        },
+        "310702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4495550790537535704",
+                    "size": "26727160",
+                    "download": "3496544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "310703": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5886900108771823633",
+                    "size": "22701265",
+                    "download": "2427472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5598721",
+                "timeupdated": "1601093979"
+            }
+        }
+    }
+}
