@@ -1,0 +1,48 @@
+{
+    "appid": "1070820",
+    "type": "Game",
+    "name": "RealFlight 9.5S",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26251944",
+    "update_time": "2024-11-19 06:18:18",
+    "depot": {
+        "1070821": {
+            "manifests": {
+                "public": {
+                    "gid": "2580249827897859467",
+                    "size": "9909170265",
+                    "download": "4022282144"
+                },
+                "dxvk-intel-fix": {
+                    "gid": "9007282648580475273",
+                    "size": "9912737895",
+                    "download": "4023288752"
+                },
+                "publicbeta": {
+                    "gid": "2580249827897859467",
+                    "size": "9909170265",
+                    "download": "4022282144"
+                }
+            },
+            "decryptionkey": "0c7454467333a76c1b97fad30e617269a6ff5dcf83ef5d664d9873b5dbf77d14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9533673",
+                "timeupdated": "1665008480"
+            },
+            "dxvk-intel-fix": {
+                "buildid": "10396195",
+                "description": "Potential fix for Intel iGPU issues (may require latest beta Intel drivers)",
+                "timeupdated": "1674612557"
+            },
+            "publicbeta": {
+                "buildid": "9533673",
+                "description": "Public beta branch",
+                "timeupdated": "1665008465"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
