@@ -1,0 +1,61 @@
+{
+    "appid": "290300",
+    "type": "Game",
+    "name": "Rebel Galaxy",
+    "schinese_name": "勇闯银河系",
+    "isfreeapp": "0",
+    "change_number": "25888712",
+    "update_time": "2024-10-25 11:10:41",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "290301": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7247887223897936159",
+                    "size": "2378856833",
+                    "download": "2304198512"
+                }
+            },
+            "decryptionkey": "8b721bf053bd3d46388293b84eca350884abcfe6cd71b2e909952978386f57c0"
+        },
+        "290302": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6018911434560733632",
+                    "size": "2376584827",
+                    "download": "2300716608"
+                }
+            },
+            "decryptionkey": "dcf79fb675dbbd0d4b7787ca78fd57b946aea706eff3af8fd0a4bc446dbcc7b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1182547",
+                "timeupdated": "1466013320"
+            }
+        }
+    }
+}
