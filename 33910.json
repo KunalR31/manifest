@@ -1,0 +1,67 @@
+{
+    "appid": "33910",
+    "type": "Game",
+    "name": "Arma 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28340778",
+    "update_time": "2025-04-07 15:16:26",
+    "depot": {
+        "overridescddb": "1",
+        "33911": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "665065183021719977",
+                    "size": "11566584",
+                    "download": "4366336"
+                },
+                "beta": {
+                    "gid": "461737605275339216",
+                    "size": "11263112",
+                    "download": "5465584"
+                },
+                "legacy": {
+                    "gid": "461737605275339216",
+                    "size": "11263112",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b4bae85e5006274c8aeb976c8613caa3a06e304eef6e945533b1f266aee8b0dd"
+        },
+        "33901": {
+            "systemdefined": "1",
+            "depotfromapp": "33900",
+            "sharedinstall": "2"
+        },
+        "33912": {
+            "manifests": {
+                "public": {
+                    "gid": "4865777636804643330",
+                    "size": "8923874699",
+                    "download": "7191865472"
+                },
+                "beta": {
+                    "gid": "4865777636804643330",
+                    "size": "8923874699",
+                    "download": "7191865472"
+                }
+            },
+            "decryptionkey": "070c4b56d793fb31c18730b3f3c226a1de3870bdb2306b7c8af21df0ca0dbd43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10796005",
+                "timeupdated": "1679067666"
+            },
+            "beta": {
+                "buildid": "4347743",
+                "timeupdated": "1572609909"
+            },
+            "legacy": {
+                "buildid": "15471"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
