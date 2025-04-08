@@ -1,0 +1,45 @@
+{
+    "appid": "208090",
+    "type": "Game",
+    "name": "Loadout",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:05",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "208091": {
+            "manifests": {
+                "public": {
+                    "gid": "3336994663823820613",
+                    "size": "5751388264",
+                    "download": "2428091712"
+                },
+                "local": {
+                    "gid": "341026115793913078",
+                    "size": "3630193647",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "545c330a843ba47ab2bc4038b86893a410f3a6ecb3c96d5ef768673c86cf6027"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "568364"
+            },
+            "local": {
+                "buildid": "65786",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
