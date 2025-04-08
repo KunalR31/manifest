@@ -1,0 +1,50 @@
+{
+    "appid": "507360",
+    "type": "Game",
+    "name": "The Wizard's Lair",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 10:39:25",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "507361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2206303309814416045",
+                    "size": "4301095",
+                    "download": "1826848"
+                }
+            },
+            "decryptionkey": "518e4a160f967d3626ef9e491f80fc3d7e062e83062954395fa6afe0b1d7c690"
+        },
+        "507362": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4757850000001417233",
+                    "size": "4301095",
+                    "download": "1826848"
+                }
+            },
+            "decryptionkey": "2cd483c412ab1031e6aa9848234a43eb0046680f678f8fe4f67b0dd2757fb49b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2682068",
+                "timeupdated": "1523542639"
+            }
+        }
+    }
+}
