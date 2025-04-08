@@ -1,0 +1,56 @@
+{
+    "appid": "3290710",
+    "type": "Game",
+    "name": "RATSHAKER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28331342",
+    "update_time": "2025-04-06 18:44:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3290711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3906413435997772244",
+                    "size": "1550164073",
+                    "download": "873567744"
+                },
+                "ratshakerlegacy": {
+                    "gid": "8011950323456115208",
+                    "size": "1733110289",
+                    "download": "1330036400"
+                }
+            },
+            "decryptionkey": "37397ac556b50c73f63e87d564ac2d199d4cbfc1bbd0e18c01dc0174009fd33a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18001039",
+                "timeupdated": "1743936283"
+            },
+            "ratshakerlegacy": {
+                "buildid": "17380390",
+                "description": "The last version of Ratshaker prior to the NEW IMPROVED FORMULA UPDATE.",
+                "timeupdated": "1740150613"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
