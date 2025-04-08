@@ -1,0 +1,120 @@
+{
+    "appid": "808100",
+    "type": "Game",
+    "name": "Galimulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26285483",
+    "update_time": "2024-11-21 03:18:39",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "808101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2314339607671645623",
+                    "size": "180077291",
+                    "download": "145989136"
+                },
+                "beta": {
+                    "gid": "6643185710299010651",
+                    "size": "180076776",
+                    "download": "145988144"
+                }
+            },
+            "decryptionkey": "8c1b2da383dc2b0b271ca7d8aa45736df37b6f874c8d72af3b4a1aacf558a087"
+        },
+        "808102": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6304076599660483252",
+                    "size": "181047144",
+                    "download": "143977984"
+                },
+                "beta": {
+                    "gid": "6753129746257111813",
+                    "size": "181046629",
+                    "download": "143979504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "808103": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8650334481768200597",
+                    "size": "3173",
+                    "download": "2080"
+                },
+                "beta": {
+                    "gid": "8650334481768200597",
+                    "size": "3173",
+                    "download": "2080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "808104": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1859450770273172237",
+                    "size": "115998976",
+                    "download": "80593920"
+                },
+                "beta": {
+                    "gid": "5368705702107189842",
+                    "size": "115998450",
+                    "download": "80594384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "808100",
+        "branches": {
+            "public": {
+                "buildid": "12113468",
+                "timeupdated": "1693938218"
+            },
+            "beta": {
+                "buildid": "11986273",
+                "description": "Public Beta",
+                "timeupdated": "1692539295"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "7ac3ee079394decb4dc2f80305635dbbad656b99162e6215cef645cd08d2153f"
+    }
+}
