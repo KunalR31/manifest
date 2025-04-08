@@ -1,0 +1,60 @@
+{
+    "appid": "32310",
+    "type": "Game",
+    "name": "Indiana Jones and the Last Crusade",
+    "schinese_name": "印第安娜琼斯与最后十字军东征 ",
+    "isfreeapp": "0",
+    "change_number": "27901069",
+    "update_time": "2025-03-12 08:03:17",
+    "depot": {
+        "32313": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5968973073375978408",
+                    "size": "5817305",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "32311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1410091949724710807",
+                    "size": "5799808",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7d8a2b2315ed4f85e138c1c83587916e9485724c5c0d48ccb227725f9ebb0da5"
+        },
+        "32312": {
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4161038651862952283",
+                    "size": "4680964",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "19289"
+            }
+        }
+    }
+}
