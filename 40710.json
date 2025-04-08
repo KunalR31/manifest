@@ -1,0 +1,75 @@
+{
+    "appid": "40710",
+    "type": "Demo",
+    "name": "Machinarium Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 12:39:46",
+    "depot": {
+        "overridescddb": "1",
+        "40711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "82203286714051980",
+                    "size": "46360288",
+                    "download": "43008704"
+                },
+                "mac_2021": {
+                    "gid": "82203286714051980",
+                    "size": "46360288",
+                    "download": "43008704"
+                },
+                "pc_2021": {
+                    "gid": "82203286714051980",
+                    "size": "46360288",
+                    "download": "43008704"
+                }
+            },
+            "decryptionkey": "62117092bc783a2776a35f491ab04dd476ca98899993691a90c625e0a8bdc565"
+        },
+        "40712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3752806321309355997",
+                    "size": "51268913",
+                    "download": "48938128"
+                },
+                "mac_2021": {
+                    "gid": "3752806321309355997",
+                    "size": "51268913",
+                    "download": "48938128"
+                },
+                "pc_2021": {
+                    "gid": "3752806321309355997",
+                    "size": "51268913",
+                    "download": "48938128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6787148",
+                "timeupdated": "1622467283"
+            },
+            "mac_2021": {
+                "buildid": "6787148",
+                "description": "New Mac 'Metal render' version",
+                "timeupdated": "1622468567"
+            },
+            "pc_2021": {
+                "buildid": "6787148",
+                "description": "Updated PC version 2021",
+                "timeupdated": "1622468575"
+            }
+        }
+    }
+}
