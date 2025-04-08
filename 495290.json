@@ -1,0 +1,109 @@
+{
+    "appid": "495290",
+    "type": "Game",
+    "name": "AccuRC 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27186542",
+    "update_time": "2025-01-28 00:32:39",
+    "depot": {
+        "workshopdepot": "495290",
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "495291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3586512384221506633",
+                    "size": "12136681213",
+                    "download": "9591628176"
+                },
+                "alpha": {
+                    "gid": "4285577205006214673",
+                    "size": "13207114237",
+                    "download": "10509952464"
+                },
+                "beta": {
+                    "gid": "3586512384221506633",
+                    "size": "12136681213",
+                    "download": "9591628176"
+                }
+            },
+            "decryptionkey": "018315541766bcf30b7d1e2d4f0c07516e22de4bbdfdb4bb91e717014caa849d"
+        },
+        "495292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1334539878232718334",
+                    "size": "13595340791",
+                    "download": "10769341872"
+                },
+                "alpha": {
+                    "gid": "1334539878232718334",
+                    "size": "13595340791",
+                    "download": "10769341872"
+                },
+                "beta": {
+                    "gid": "1334539878232718334",
+                    "size": "13595340791",
+                    "download": "10769341872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "495293": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4473042842627349138",
+                    "size": "12542664288",
+                    "download": "9873846208"
+                },
+                "alpha": {
+                    "gid": "2653212359657818403",
+                    "size": "13336451512",
+                    "download": "10558149024"
+                },
+                "beta": {
+                    "gid": "4473042842627349138",
+                    "size": "12542664288",
+                    "download": "9873846208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8910798",
+                "timeupdated": "1654856596"
+            },
+            "alpha": {
+                "buildid": "8910794",
+                "description": "bleeding edge development",
+                "timeupdated": "1654856576"
+            },
+            "beta": {
+                "buildid": "8910797",
+                "description": "beta testing",
+                "timeupdated": "1654856585"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "af1c14b08ba9991b3a8c85840c1817e865b1a982ad54fbce7be33fce40ceb15d"
+    }
+}
