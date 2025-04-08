@@ -1,0 +1,73 @@
+{
+    "appid": "263860",
+    "type": "Game",
+    "name": "SPACECOM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26225929",
+    "update_time": "2024-11-16 20:26:14",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "263862": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6436082121317592239",
+                    "size": "223716358",
+                    "download": "282916862814"
+                }
+            },
+            "decryptionkey": "dc781305679353870f3ce02ceee73aa5618bcec1ceb2acacdccc42831535e990"
+        },
+        "263861": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "941550460431695803",
+                    "size": "230851078",
+                    "download": "163660745172"
+                }
+            },
+            "decryptionkey": "b67910baba0825aa8f2ca54a7663b2bea4ca53ca9c427333b66e6657fe89607c"
+        },
+        "263865": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3170516286559750919",
+                    "size": "228118235",
+                    "download": "80657424795"
+                }
+            },
+            "decryptionkey": "703ca1671bda30294d0ee795771aaf483b12fcccee3e2b46fa8a42b45eae0b2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "425005"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
