@@ -1,0 +1,98 @@
+{
+    "appid": "368390",
+    "type": "Game",
+    "name": "The Darkside Detective",
+    "schinese_name": "黑暗侦探",
+    "isfreeapp": "0",
+    "change_number": "27124855",
+    "update_time": "2025-01-23 13:27:29",
+    "depot": {
+        "368392": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "736031949218673941",
+                    "size": "1062549662",
+                    "download": "139821936"
+                },
+                "public_debug": {
+                    "gid": "4691824607958799631",
+                    "size": "1151525542",
+                    "download": "205202704"
+                },
+                "public_migration_beta": {
+                    "gid": "7458904268342445895",
+                    "size": "1064551481",
+                    "download": "137171520"
+                }
+            },
+            "decryptionkey": "b9cda5a927b40eba0dea2a06432f32c997de17bdd84bcb28415179a99a0cf3f7"
+        },
+        "368393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2003302996538529464",
+                    "size": "1123966021",
+                    "download": "154346656"
+                },
+                "public_debug": {
+                    "gid": "948575997663943853",
+                    "size": "1214724076",
+                    "download": "212170960"
+                },
+                "public_migration_beta": {
+                    "gid": "8674654014764284443",
+                    "size": "1095149304",
+                    "download": "142816400"
+                }
+            },
+            "decryptionkey": "bee696534b7e2a90b6d4e8c805c372f4a3d98365447934453b541f3fa0bd17d6"
+        },
+        "368394": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3126971206785007103",
+                    "size": "1099823673",
+                    "download": "139450080"
+                },
+                "public_debug": {
+                    "gid": "2089524817394867314",
+                    "size": "1161628727",
+                    "download": "205633824"
+                },
+                "public_migration_beta": {
+                    "gid": "3267940104844895890",
+                    "size": "1070056613",
+                    "download": "137951520"
+                }
+            },
+            "decryptionkey": "5006e2807e01b956664d4558e8166472f04aa91083aff8d39312c1b5fadf892a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15034922",
+                "timeupdated": "1721665443"
+            },
+            "public_debug": {
+                "buildid": "6840568",
+                "description": "A beta branch, a place to do some debugging with the public",
+                "timeupdated": "1623251611"
+            },
+            "public_migration_beta": {
+                "buildid": "12595018",
+                "description": "A beta branch for updated migration regression testing",
+                "timeupdated": "1698934282"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
