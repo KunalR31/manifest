@@ -1,0 +1,56 @@
+{
+    "appid": "578210",
+    "type": "Game",
+    "name": "A-Tech Cybernetic VR",
+    "schinese_name": "A-Tech控制论 VR",
+    "isfreeapp": "0",
+    "change_number": "26285398",
+    "update_time": "2024-11-21 03:12:03",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "578211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4776477096989882590",
+                    "size": "6502501704",
+                    "download": "2601048704"
+                },
+                "publicbeta": {
+                    "gid": "5648708425698979765",
+                    "size": "6060942699",
+                    "download": "2380317472"
+                }
+            },
+            "decryptionkey": "e5ee44a06a9d0182fe1cccbe639a0f47a05652f99dacb3c1e0aef7afc7bf1193"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5514811",
+                "timeupdated": "1599738170"
+            },
+            "publicbeta": {
+                "buildid": "2839561",
+                "description": "Public Beta",
+                "timeupdated": "1528317080"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
