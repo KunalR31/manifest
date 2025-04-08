@@ -1,0 +1,99 @@
+{
+    "appid": "288020",
+    "type": "Game",
+    "name": "Rex Rocket",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26742513",
+    "update_time": "2024-12-21 10:19:36",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "288021": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1091952485886939091",
+                    "size": "359705821",
+                    "download": "85457664"
+                },
+                "linux32": {
+                    "gid": "1091952485886939091",
+                    "size": "359705821",
+                    "download": "85457664"
+                }
+            },
+            "decryptionkey": "7454acf121476dd1c4ffe16b977bfd981c54212d4963be322033720e882ebec9"
+        },
+        "288022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7468342674717275950",
+                    "size": "229054404",
+                    "download": "85622112"
+                },
+                "linux32": {
+                    "gid": "8717147589653022741",
+                    "size": "239184273",
+                    "download": "88129744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "288023": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3798789436535303593",
+                    "size": "241296612",
+                    "download": "88502256"
+                },
+                "linux32": {
+                    "gid": "759352053226784558",
+                    "size": "223502467",
+                    "download": "84063792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029224",
+                "timeupdated": "1609454646"
+            },
+            "linux32": {
+                "buildid": "1025518",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609454639"
+            }
+        }
+    }
+}
