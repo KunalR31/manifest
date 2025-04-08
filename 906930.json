@@ -1,0 +1,57 @@
+{
+    "appid": "906930",
+    "type": "Game",
+    "name": "LEAP",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27495070",
+    "update_time": "2025-02-15 23:12:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "906931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1365022995223525533",
+                    "size": "11833246222",
+                    "download": "11391391792"
+                },
+                "publictesting": {
+                    "gid": "7698207950832442128",
+                    "size": "11833252288",
+                    "download": "11391396496"
+                }
+            },
+            "decryptionkey": "ab09238b5729845db0eb4a090d50090b4f65e9d735be54b5ad0dc9e997fbf886"
+        },
+        "workshopdepot": "906930",
+        "branches": {
+            "public": {
+                "buildid": "11405735",
+                "timeupdated": "1686065655"
+            },
+            "publictesting": {
+                "buildid": "11299114",
+                "description": "publictesting",
+                "timeupdated": "1685020362"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
