@@ -1,0 +1,51 @@
+{
+    "appid": "342350",
+    "type": "Game",
+    "name": "Into The Gloom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27967313",
+    "update_time": "2025-03-15 08:16:37",
+    "depot": {
+        "342351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "749262491376549775",
+                    "size": "400270311",
+                    "download": "84926784"
+                },
+                "beta": {
+                    "gid": "1997911923611478801",
+                    "size": "400290735",
+                    "download": "82776240"
+                },
+                "rollback": {
+                    "gid": "1997911923611478801",
+                    "size": "400290735",
+                    "download": "82776240"
+                }
+            },
+            "decryptionkey": "c5990d4af6ccf7e2fb95805fdcbf18dec9c4dad1365d4c699e6f6708611ca5e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16931491",
+                "timeupdated": "1741997793"
+            },
+            "beta": {
+                "buildid": "13553613",
+                "description": "General Testing Branch",
+                "timeupdated": "1708790272"
+            },
+            "rollback": {
+                "buildid": "13553613",
+                "description": "Last build by Emmanuel",
+                "timeupdated": "1736276574"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
