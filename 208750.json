@@ -1,0 +1,182 @@
+{
+    "appid": "208750",
+    "type": "Game",
+    "name": "Apotheon",
+    "schinese_name": "亚普罗辛",
+    "isfreeapp": "0",
+    "change_number": "26975725",
+    "update_time": "2025-01-14 01:09:54",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "208751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "350056298612665264",
+                    "size": "789839616",
+                    "download": "538827104"
+                },
+                "bigsur": {
+                    "gid": "350056298612665264",
+                    "size": "789839616",
+                    "download": "538827104"
+                },
+                "dev": {
+                    "gid": "350056298612665264",
+                    "size": "789839616",
+                    "download": "538827104"
+                },
+                "lastupdate_fix": {
+                    "gid": "350056298612665264",
+                    "size": "789839616",
+                    "download": "538827104"
+                },
+                "linux32": {
+                    "gid": "350056298612665264",
+                    "size": "789839616",
+                    "download": "538827104"
+                }
+            },
+            "decryptionkey": "b3bc7615081e70a630ac23b14ba909d94c51a585cbaa8e2c540ff12364d906b6"
+        },
+        "208752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3651228988335902316",
+                    "size": "1115968193",
+                    "download": "579527680"
+                },
+                "bigsur": {
+                    "gid": "3651228988335902316",
+                    "size": "1115968193",
+                    "download": "579527680"
+                },
+                "dev": {
+                    "gid": "3651228988335902316",
+                    "size": "1115968193",
+                    "download": "579527680"
+                },
+                "lastupdate_fix": {
+                    "gid": "2758705803731902729",
+                    "size": "1134372275",
+                    "download": "584978464"
+                },
+                "linux32": {
+                    "gid": "5738638694694793746",
+                    "size": "1123627888",
+                    "download": "581373824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "208753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6125106705147623524",
+                    "size": "1128998950",
+                    "download": "582482912"
+                },
+                "bigsur": {
+                    "gid": "5690335761116590698",
+                    "size": "1129084982",
+                    "download": "582517952"
+                },
+                "dev": {
+                    "gid": "6125106705147623524",
+                    "size": "1128998950",
+                    "download": "582482912"
+                },
+                "lastupdate_fix": {
+                    "gid": "4682479594602029735",
+                    "size": "1108735595",
+                    "download": "577423456"
+                },
+                "linux32": {
+                    "gid": "7904704861598267639",
+                    "size": "1113601550",
+                    "download": "578830960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "344730": {
+            "manifests": {
+                "public": {
+                    "gid": "3694731462362325770",
+                    "size": "157202575",
+                    "download": "126226112"
+                },
+                "bigsur": {
+                    "gid": "3694731462362325770",
+                    "size": "157202575",
+                    "download": "126226112"
+                },
+                "dev": {
+                    "gid": "3694731462362325770",
+                    "size": "157202575",
+                    "download": "126226112"
+                },
+                "lastupdate_fix": {
+                    "gid": "3694731462362325770",
+                    "size": "157202575",
+                    "download": "126226112"
+                },
+                "linux32": {
+                    "gid": "3694731462362325770",
+                    "size": "157202575",
+                    "download": "126226112"
+                }
+            },
+            "dlcappid": "344730",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029102",
+                "timeupdated": "1609451552"
+            },
+            "bigsur": {
+                "buildid": "8384078",
+                "description": "macOS SDL Update",
+                "timeupdated": "1647450558"
+            },
+            "dev": {
+                "buildid": "6029102",
+                "timeupdated": "1609451568"
+            },
+            "lastupdate_fix": {
+                "buildid": "1573022",
+                "timeupdated": "1508527739"
+            },
+            "linux32": {
+                "buildid": "4570549",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1582816449"
+            }
+        }
+    }
+}
