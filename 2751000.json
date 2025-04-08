@@ -1,0 +1,64 @@
+{
+    "appid": "2751000",
+    "type": "Game",
+    "name": "Prince of Persia The Lost Crown",
+    "schinese_name": "波斯王子：失落的王冠",
+    "isfreeapp": "0",
+    "change_number": "28326977",
+    "update_time": "2025-04-06 05:10:31",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2751001": {
+            "manifests": {
+                "public": {
+                    "gid": "4409492711677428505",
+                    "size": "30703698213",
+                    "download": "26690474528"
+                },
+                "local": {
+                    "gid": "1349770571767297378",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3570b20701e5a605870438400f373ede72ba4b0d20d00fedabb48ac6a5158136"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17528300",
+                "timeupdated": "1741598729"
+            },
+            "local": {
+                "buildid": "13021167",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1703169388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
