@@ -1,0 +1,215 @@
+{
+    "appid": "294000",
+    "type": "Game",
+    "name": "Knight Squad",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26786098",
+    "update_time": "2024-12-26 14:22:39",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "294001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4638432088701575796",
+                    "size": "449512385",
+                    "download": "146517280"
+                },
+                "alpha_network": {
+                    "gid": "3551658160280517253",
+                    "size": "305449260",
+                    "download": "113299840"
+                },
+                "broken_online": {
+                    "gid": "3857188314192737786",
+                    "size": "415698801",
+                    "download": "139595120"
+                },
+                "linuxtemp": {
+                    "gid": "1936308874462791390",
+                    "size": "410642489",
+                    "download": "138861904"
+                },
+                "old_build": {
+                    "gid": "3247682850198464269",
+                    "size": "423592628",
+                    "download": "144231440"
+                },
+                "pre_controller_change": {
+                    "gid": "6584825000192282870",
+                    "size": "420639228",
+                    "download": "143929728"
+                },
+                "public_test": {
+                    "gid": "8366987825556511740",
+                    "size": "423092244",
+                    "download": "144096384"
+                },
+                "steamlink": {
+                    "gid": "360079470929479021",
+                    "size": "423090628",
+                    "download": "144095984"
+                },
+                "temp_yosemite": {
+                    "gid": "4663199085834694968",
+                    "size": "303202052",
+                    "download": "113952992"
+                }
+            },
+            "decryptionkey": "f34b579b60aa45d613c339f2d659ec698993742674238b4d11522f151382e7cc"
+        },
+        "294002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2776644582655676035",
+                    "size": "434221255",
+                    "download": "145426144"
+                },
+                "alpha_network": {
+                    "gid": "8059855788929741312",
+                    "size": "313876534",
+                    "download": "114796960"
+                },
+                "broken_online": {
+                    "gid": "6752551035279045820",
+                    "size": "422175810",
+                    "download": "141149664"
+                },
+                "linuxtemp": {
+                    "gid": "8147786700090366296",
+                    "size": "421558170",
+                    "download": "140838848"
+                },
+                "old_build": {
+                    "gid": "2776644582655676035",
+                    "size": "434221255",
+                    "download": "145426144"
+                },
+                "pre_controller_change": {
+                    "gid": "1662108680368614048",
+                    "size": "431283147",
+                    "download": "145142576"
+                },
+                "public_test": {
+                    "gid": "6247537415854325146",
+                    "size": "433462659",
+                    "download": "145306656"
+                },
+                "steamlink": {
+                    "gid": "8277416022425524399",
+                    "size": "433461111",
+                    "download": "145306560"
+                },
+                "temp_yosemite": {
+                    "gid": "3421275221303968856",
+                    "size": "307245429",
+                    "download": "114830464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "294003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4174959466337097037",
+                    "size": "456224889",
+                    "download": "153670288"
+                },
+                "alpha_network": {
+                    "gid": "787150205896765452",
+                    "size": "335716078",
+                    "download": "122286160"
+                },
+                "broken_online": {
+                    "gid": "4077476193061721593",
+                    "size": "444496334",
+                    "download": "149519728"
+                },
+                "linuxtemp": {
+                    "gid": "6637918336020159863",
+                    "size": "443878182",
+                    "download": "149208448"
+                },
+                "old_build": {
+                    "gid": "4174959466337097037",
+                    "size": "456224889",
+                    "download": "153670288"
+                },
+                "pre_controller_change": {
+                    "gid": "2509178305995315385",
+                    "size": "453332417",
+                    "download": "153421840"
+                },
+                "public_test": {
+                    "gid": "7583084446226266858",
+                    "size": "455511929",
+                    "download": "153597088"
+                },
+                "steamlink": {
+                    "gid": "1550883036727796252",
+                    "size": "455781058",
+                    "download": "153597632"
+                },
+                "temp_yosemite": {
+                    "gid": "2830713719669034992",
+                    "size": "331844616",
+                    "download": "124902496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6440564",
+                "timeupdated": "1616696755"
+            },
+            "alpha_network": {
+                "buildid": "554786"
+            },
+            "broken_online": {
+                "buildid": "887146"
+            },
+            "linuxtemp": {
+                "buildid": "783830"
+            },
+            "old_build": {
+                "buildid": "1297059",
+                "description": "Old build with input remapping capabilities",
+                "timeupdated": "1623169382"
+            },
+            "pre_controller_change": {
+                "buildid": "1110289",
+                "timeupdated": "1479909856"
+            },
+            "public_test": {
+                "buildid": "1166593",
+                "timeupdated": "1465243195"
+            },
+            "steamlink": {
+                "buildid": "1270731",
+                "timeupdated": "1470834763"
+            },
+            "temp_yosemite": {
+                "buildid": "532813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
