@@ -1,0 +1,140 @@
+{
+    "appid": "422970",
+    "type": "Game",
+    "name": "Devil Daggers",
+    "schinese_name": "恶魔匕首",
+    "isfreeapp": "0",
+    "change_number": "28088646",
+    "update_time": "2025-03-23 00:15:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "422971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6667768860105084395",
+                    "size": "577373337",
+                    "download": "402416352"
+                },
+                "2015": {
+                    "gid": "5561689926930976958",
+                    "size": "340293296",
+                    "download": "218396656"
+                },
+                "dd_v2": {
+                    "gid": "434781775804474289",
+                    "size": "533866280",
+                    "download": "378634528"
+                },
+                "dd_v3": {
+                    "gid": "5003996362103928273",
+                    "size": "565019746",
+                    "download": "393267024"
+                },
+                "dd_v3.1": {
+                    "gid": "527604476026038410",
+                    "size": "578284456",
+                    "download": "402462592"
+                }
+            },
+            "decryptionkey": "36083d198678c08bb5b5d1b3070f1513d1a414090ace3af57a73460e98cf6192"
+        },
+        "422972": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9132224620729642431",
+                    "size": "578237711",
+                    "download": "402273440"
+                },
+                "dd_v2": {
+                    "gid": "1997252825696585240",
+                    "size": "534539861",
+                    "download": "378594416"
+                },
+                "dd_v3": {
+                    "gid": "5775868345596774658",
+                    "size": "566797316",
+                    "download": "393655552"
+                },
+                "dd_v3.1": {
+                    "gid": "7735344552499537463",
+                    "size": "578948554",
+                    "download": "402259104"
+                }
+            },
+            "decryptionkey": "9365742411a97ea94ed90d41dbf6aafdad6b973bc6d63a07841e25842648cd61"
+        },
+        "422973": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8856262507766689586",
+                    "size": "576192100",
+                    "download": "402028096"
+                },
+                "dd_v2": {
+                    "gid": "1955300202460346869",
+                    "size": "566578726",
+                    "download": "393443696"
+                },
+                "dd_v3": {
+                    "gid": "1955300202460346869",
+                    "size": "566578726",
+                    "download": "393443696"
+                },
+                "dd_v3.1": {
+                    "gid": "1158461477592616542",
+                    "size": "576998579",
+                    "download": "402034688"
+                }
+            },
+            "decryptionkey": "09ced00464f3ef3326c7323930ec08e0b564dfbf18a1587c252c02132bd1349a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8561877",
+                "timeupdated": "1649981586"
+            },
+            "2015": {
+                "buildid": "1028428",
+                "timeupdated": "1467747555"
+            },
+            "dd_v2": {
+                "buildid": "5572781",
+                "timeupdated": "1600682351"
+            },
+            "dd_v3": {
+                "buildid": "2685103",
+                "timeupdated": "1614289946"
+            },
+            "dd_v3.1": {
+                "buildid": "7349206",
+                "description": "v3.1",
+                "timeupdated": "1635288493"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
