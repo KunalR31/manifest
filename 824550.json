@@ -1,0 +1,65 @@
+{
+    "appid": "824550",
+    "type": "Game",
+    "name": "SD GUNDAM BATTLE ALLIANCE",
+    "schinese_name": "SD GUNDAM 激斗同盟",
+    "isfreeapp": "0",
+    "change_number": "28256981",
+    "update_time": "2025-04-02 05:49:19",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,brazilian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "824551": {
+            "manifests": {
+                "public": {
+                    "gid": "3110662896725176459",
+                    "size": "26748626432",
+                    "download": "26398963648"
+                },
+                "local": {
+                    "gid": "7638981115335256148",
+                    "size": "33595716648",
+                    "download": "32932444512"
+                }
+            },
+            "decryptionkey": "d7322acca8725452a82e5121292fd903e830f8a91921e30a735b09ec79c9df51"
+        },
+        "1938455": {
+            "dlcappid": "1938455",
+            "manifests": {
+                "public": {
+                    "gid": "6404833567544011845",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11194421",
+                "timeupdated": "1683684000"
+            },
+            "local": {
+                "buildid": "5088180",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1590647321"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
