@@ -1,0 +1,128 @@
+{
+    "appid": "462770",
+    "type": "Game",
+    "name": "Pyre",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27105709",
+    "update_time": "2025-01-22 12:26:46",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "462771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5151914609788138111",
+                    "size": "8176674978",
+                    "download": "6741731472"
+                },
+                "macos-fix": {
+                    "gid": "5151914609788138111",
+                    "size": "8176674978",
+                    "download": "6741731472"
+                }
+            },
+            "decryptionkey": "f9fd650d5d6865e0c938726ea43242c226c05b955f425f9d072cd9ac761ddb7b"
+        },
+        "462772": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7439213925365257857",
+                    "size": "38706658",
+                    "download": "9906752"
+                },
+                "macos-fix": {
+                    "gid": "7439213925365257857",
+                    "size": "38706658",
+                    "download": "9906752"
+                }
+            },
+            "decryptionkey": "54cac65556fc280e4d84d1c0c5840ca6d253325a2f83259ef444b2bf336dac19"
+        },
+        "462773": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7411144863977852131",
+                    "size": "35931106",
+                    "download": "9186960"
+                },
+                "macos-fix": {
+                    "gid": "7411144863977852131",
+                    "size": "35931106",
+                    "download": "9186960"
+                }
+            },
+            "decryptionkey": "0e195dd0e3fb2f1e3079a8672a6ea00a7ed1689f2672f38bb2e8e089bb672015"
+        },
+        "462774": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6226122920413360174",
+                    "size": "8281118383",
+                    "download": "6768427472"
+                },
+                "macos-fix": {
+                    "gid": "8063923237183143012",
+                    "size": "8281951079",
+                    "download": "6768713504"
+                }
+            },
+            "decryptionkey": "ff801db3b0cba4a721597d541b1349548cb37ac4d09c6f3b9d19a22810a74f39"
+        },
+        "462775": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7864442480040796816",
+                    "size": "5851427510",
+                    "download": "4907879840"
+                },
+                "macos-fix": {
+                    "gid": "6031868325818542787",
+                    "size": "5852228203",
+                    "download": "4908498864"
+                }
+            },
+            "decryptionkey": "f4bb7046ed8c45402550e9545c0b86c5fc78087a6001311f0cd2e7b8cfa7b583"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "3905765",
+                "timeupdated": "1560202345"
+            },
+            "macos-fix": {
+                "buildid": "6185959",
+                "description": "Experimental macOS fixes",
+                "timeupdated": "1612401627"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
