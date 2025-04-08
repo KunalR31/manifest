@@ -1,0 +1,54 @@
+{
+    "appid": "266290",
+    "type": "Game",
+    "name": "Helicopter Simulator 2014: Search and Rescue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26339816",
+    "update_time": "2024-12-05 02:21:33",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "266291": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5917040644961680482",
+                    "size": "1773916859",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6671166400510333378",
+                    "size": "1808877053",
+                    "download": "968925872"
+                }
+            },
+            "decryptionkey": "48060c04223b64e860ef1a000ffb9c338e6b7997d637a11b8d430c42ca4ff24a"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "275125"
+            },
+            "local": {
+                "buildid": "662558",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
