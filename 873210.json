@@ -1,0 +1,93 @@
+{
+    "appid": "873210",
+    "type": "Game",
+    "name": "iterform",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26111891",
+    "update_time": "2024-11-09 01:04:10",
+    "depot": {
+        "873211": {
+            "manifests": {
+                "public": {
+                    "gid": "6574043687139342975",
+                    "size": "38941389",
+                    "download": "38138368"
+                },
+                "test": {
+                    "gid": "7375954109943946983",
+                    "size": "38938291",
+                    "download": "38138368"
+                }
+            },
+            "decryptionkey": "1a54f7f9be2923ff644c689a18772ed029cb06ffbb850d01e81a990c0cb61d38"
+        },
+        "873212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8096035476523384232",
+                    "size": "10975635",
+                    "download": "2897712"
+                },
+                "test": {
+                    "gid": "8096035476523384232",
+                    "size": "10975635",
+                    "download": "2897712"
+                }
+            },
+            "decryptionkey": "fa9d0bac8a79a3235c973903623ad63d579be7242f54ac3b80672243b88236d8"
+        },
+        "873213": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6818861781527179762",
+                    "size": "18523504",
+                    "download": "4245136"
+                },
+                "test": {
+                    "gid": "6818861781527179762",
+                    "size": "18523504",
+                    "download": "4245136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "873214": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5970039687040401195",
+                    "size": "19491277",
+                    "download": "4215536"
+                },
+                "test": {
+                    "gid": "5970039687040401195",
+                    "size": "19491277",
+                    "download": "4215536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3290420",
+                "timeupdated": "1541711766"
+            },
+            "test": {
+                "buildid": "3208189",
+                "description": "Testing branch",
+                "timeupdated": "1539365529"
+            }
+        }
+    }
+}
