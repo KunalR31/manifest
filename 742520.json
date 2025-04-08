@@ -1,0 +1,80 @@
+{
+    "appid": "742520",
+    "type": "Game",
+    "name": "Astrologaster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28157758",
+    "update_time": "2025-03-27 05:18:13",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "742521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7600320401078018379",
+                    "size": "716906438",
+                    "download": "485425696"
+                },
+                "beta": {
+                    "gid": "7600320401078018379",
+                    "size": "716906438",
+                    "download": "485425696"
+                },
+                "opengl": {
+                    "gid": "7376308870877836332",
+                    "size": "1544744537",
+                    "download": "610325904"
+                }
+            },
+            "decryptionkey": "de8ec6ebea97be58fb6ab0f1ff916cdfb9af6cae478a0ad28480e9ff27295a49"
+        },
+        "742522": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1431863115292046866",
+                    "size": "531186792",
+                    "download": "514148832"
+                },
+                "beta": {
+                    "gid": "1431863115292046866",
+                    "size": "531186792",
+                    "download": "514148832"
+                },
+                "opengl": {
+                    "gid": "5636374084035866864",
+                    "size": "699017956",
+                    "download": "681034896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5159744",
+                "timeupdated": "1592125135"
+            },
+            "beta": {
+                "buildid": "5159744",
+                "timeupdated": "1592061497"
+            },
+            "opengl": {
+                "buildid": "4262646",
+                "description": "Mac users only",
+                "timeupdated": "1608221890"
+            }
+        }
+    }
+}
