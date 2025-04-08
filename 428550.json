@@ -1,0 +1,65 @@
+{
+    "appid": "428550",
+    "type": "Game",
+    "name": "Momodora: Reverie Under the Moonlight",
+    "schinese_name": "莫莫多拉：月下遐想",
+    "isfreeapp": "0",
+    "change_number": "27106319",
+    "update_time": "2025-01-22 13:26:42",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "428551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8761642318797259163",
+                    "size": "78959032",
+                    "download": "52527600"
+                }
+            },
+            "decryptionkey": "695d68a2c6cff8a9154b23784167cf071fddd46964394d51bb029ef7b2ff9cf3"
+        },
+        "428552": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3617925404351171291",
+                    "size": "83265641",
+                    "download": "52418016"
+                }
+            },
+            "decryptionkey": "c8ddd9fbaf4f0259998ed0e8dd5445a7b4b81b180372f87bdcec0cd33bc1455d"
+        },
+        "428553": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1944010710994472322",
+                    "size": "89772767",
+                    "download": "54382416"
+                }
+            },
+            "decryptionkey": "020e5b0d42ab24a41508a2aaa7ecc6d50377dd1bad22861c502a6b0af5bceb5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7613706",
+                "timeupdated": "1635497121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
