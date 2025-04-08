@@ -1,0 +1,88 @@
+{
+    "appid": "260730",
+    "type": "Game",
+    "name": "Desperados - Wanted Dead or Alive",
+    "schinese_name": "赏金奇兵：西部通缉令",
+    "isfreeapp": "0",
+    "change_number": "27110810",
+    "update_time": "2025-01-22 19:26:39",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian",
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "260731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8883348394163131400",
+                    "size": "1982044634",
+                    "download": "1701421264"
+                },
+                "publicbeta": {
+                    "gid": "8883348394163131400",
+                    "size": "1982044634",
+                    "download": "1701421264"
+                }
+            },
+            "decryptionkey": "6e863d81e4d5b29893100c994036a85a336ab55dc4bac7ade46cd04bc760a881"
+        },
+        "260738": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8956399286214579350",
+                    "size": "1993457075",
+                    "download": "1672795776"
+                },
+                "publicbeta": {
+                    "gid": "8956399286214579350",
+                    "size": "1993457075",
+                    "download": "1672795776"
+                }
+            },
+            "decryptionkey": "7e6c8a43688173444d17e5fc2b767f1761710865b4506bf9db6f8cb60c87fc4a"
+        },
+        "260739": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4628167066855842232",
+                    "size": "1983662690",
+                    "download": "1669246768"
+                },
+                "publicbeta": {
+                    "gid": "4628167066855842232",
+                    "size": "1983662690",
+                    "download": "1669246768"
+                }
+            },
+            "decryptionkey": "49afbafbdedaa17bde2e3430323960006320044fe869a41cbb396234d44dd0d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2959430",
+                "timeupdated": "1532106452"
+            },
+            "publicbeta": {
+                "buildid": "2959430",
+                "timeupdated": "1532010134"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
