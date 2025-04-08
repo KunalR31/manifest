@@ -1,0 +1,179 @@
+{
+    "appid": "262210",
+    "type": "Game",
+    "name": "Last Knight: Rogue Rider Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26423644",
+    "update_time": "2024-12-05 07:51:27",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,polish",
+        "262211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "793908940714969208",
+                    "size": "646509355",
+                    "download": "472885664"
+                },
+                "beta": {
+                    "gid": "2975907057326625314",
+                    "size": "546010556",
+                    "download": "0"
+                },
+                "beta-new": {
+                    "gid": "793908940714969208",
+                    "size": "646509355",
+                    "download": "472885664"
+                },
+                "christmas-event": {
+                    "gid": "1636322293359703656",
+                    "size": "740798760",
+                    "download": "562927792"
+                },
+                "easter-event": {
+                    "gid": "793908940714969208",
+                    "size": "646509355",
+                    "download": "472885664"
+                },
+                "halloween-event": {
+                    "gid": "3002108471311412496",
+                    "size": "637340246",
+                    "download": "463238080"
+                },
+                "installer-test": {
+                    "gid": "7377346759094993479",
+                    "size": "668079583",
+                    "download": "529706656"
+                },
+                "no-events": {
+                    "gid": "1581491808219241180",
+                    "size": "687343862",
+                    "download": "473225616"
+                },
+                "test": {
+                    "gid": "1581491808219241180",
+                    "size": "687343862",
+                    "download": "473225616"
+                }
+            },
+            "decryptionkey": "8050f39bbec5df133b475b9f6eaa0c7c885553310d1edb3f95584e0c90b52599"
+        },
+        "262221": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2370379335630718331",
+                    "size": "507200829",
+                    "download": "370915984"
+                },
+                "beta": {
+                    "gid": "4594953076282082975",
+                    "size": "443978579",
+                    "download": "0"
+                },
+                "beta-new": {
+                    "gid": "2370379335630718331",
+                    "size": "507200829",
+                    "download": "370915984"
+                },
+                "christmas-event": {
+                    "gid": "8065214025498093881",
+                    "size": "507071556",
+                    "download": "370841168"
+                },
+                "easter-event": {
+                    "gid": "2370379335630718331",
+                    "size": "507200829",
+                    "download": "370915984"
+                },
+                "halloween-event": {
+                    "gid": "4093101790823672843",
+                    "size": "507071626",
+                    "download": "370843472"
+                },
+                "installer-test": {
+                    "gid": "3897227716743688997",
+                    "size": "493511376",
+                    "download": "381554416"
+                },
+                "no-events": {
+                    "gid": "7477728232179376939",
+                    "size": "507066867",
+                    "download": "370842544"
+                },
+                "test": {
+                    "gid": "7477728232179376939",
+                    "size": "507066867",
+                    "download": "370842544"
+                }
+            },
+            "decryptionkey": "1196a8c110a03ac82acf13395470ea4aaebf3f3f56f650431cc2b38041323f5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2634599",
+                "timeupdated": "1617446473"
+            },
+            "beta": {
+                "buildid": "253658",
+                "description": "beta branch"
+            },
+            "beta-new": {
+                "buildid": "2634599",
+                "description": "beta-new",
+                "timeupdated": "1586517089"
+            },
+            "christmas-event": {
+                "buildid": "2382774",
+                "timeupdated": "1576948853"
+            },
+            "easter-event": {
+                "buildid": "2634599",
+                "timeupdated": "1586517165"
+            },
+            "halloween-event": {
+                "buildid": "3229864",
+                "timeupdated": "1576949132"
+            },
+            "installer-test": {
+                "buildid": "403521"
+            },
+            "no-events": {
+                "buildid": "2222676",
+                "description": "Just Without Any Events",
+                "timeupdated": "1508776362"
+            },
+            "test": {
+                "buildid": "2222665",
+                "timeupdated": "1508776163"
+            }
+        }
+    }
+}
