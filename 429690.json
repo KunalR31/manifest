@@ -1,0 +1,86 @@
+{
+    "appid": "429690",
+    "type": "Game",
+    "name": "Astro Duel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25588640",
+    "update_time": "2024-10-08 22:54:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "429691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6545860454463382000",
+                    "size": "98803465",
+                    "download": "76171536"
+                },
+                "beta": {
+                    "gid": "7197942469446977961",
+                    "size": "105656296",
+                    "download": "81617792"
+                },
+                "legacy": {
+                    "gid": "4706429465303302667",
+                    "size": "98449920",
+                    "download": "76234368"
+                }
+            },
+            "decryptionkey": "474f09329fb06752e4f9cabbfd6f14b675c1e3e171b3e0256d34322a8ed00d90"
+        },
+        "429692": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5326898086008784260",
+                    "size": "101373725",
+                    "download": "75583984"
+                },
+                "beta": {
+                    "gid": "7861995356531881683",
+                    "size": "101373596",
+                    "download": "75583936"
+                },
+                "legacy": {
+                    "gid": "1328660269406026022",
+                    "size": "106750633",
+                    "download": "76124992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "429693": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12665552",
+                "timeupdated": "1699571551"
+            },
+            "beta": {
+                "buildid": "9134836",
+                "description": "crash test branch",
+                "timeupdated": "1657999505"
+            },
+            "legacy": {
+                "buildid": "3154795",
+                "description": "v2.0.2",
+                "timeupdated": "1658501460"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
