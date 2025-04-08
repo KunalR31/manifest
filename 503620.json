@@ -1,0 +1,68 @@
+{
+    "appid": "503620",
+    "type": "Game",
+    "name": "Fictorum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25656930",
+    "update_time": "2024-10-11 23:35:35",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "503621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5004429361336890744",
+                    "size": "12644735773",
+                    "download": "5526094400"
+                }
+            },
+            "decryptionkey": "a5e969507978752e87f81baea91ccad061058ac114478fdeff067a99e6d936ab"
+        },
+        "503622": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4291580442856080933",
+                    "size": "12892892095",
+                    "download": "5623194784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "503623": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9321368",
+                "timeupdated": "1660620635"
+            }
+        }
+    }
+}
