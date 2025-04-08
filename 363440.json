@@ -1,0 +1,56 @@
+{
+    "appid": "363440",
+    "type": "Game",
+    "name": "Mega Man Legacy Collection",
+    "schinese_name": "洛克人传奇合集",
+    "isfreeapp": "0",
+    "change_number": "27381646",
+    "update_time": "2025-02-09 04:17:24",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "363441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "878962792753487723",
+                    "size": "257045678",
+                    "download": "257221888"
+                },
+                "local": {
+                    "gid": "5608923979772716516",
+                    "size": "22572246",
+                    "download": "16967616"
+                }
+            },
+            "decryptionkey": "1674f0c6f57185bb129f249a00553268a4f726c6908bc4ef60598f5abbc72e95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3438749",
+                "timeupdated": "1546970264"
+            },
+            "local": {
+                "buildid": "742537",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
