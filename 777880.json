@@ -1,0 +1,77 @@
+{
+    "appid": "777880",
+    "type": "Game",
+    "name": "Fluffy Horde",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26299291",
+    "update_time": "2024-11-22 01:38:46",
+    "depot": {
+        "777881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8187937264581391908",
+                    "size": "670845496",
+                    "download": "95285840"
+                },
+                "testbranch": {
+                    "gid": "7904719338870917370",
+                    "size": "679336133",
+                    "download": "97675472"
+                }
+            },
+            "decryptionkey": "65c09de528f5033e9ca462c2667f217f34dad4f383c894c52cb55e23d6f1543b"
+        },
+        "777882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5950301676395104826",
+                    "size": "692664813",
+                    "download": "99916976"
+                },
+                "testbranch": {
+                    "gid": "6177962418459269201",
+                    "size": "682392826",
+                    "download": "98904608"
+                }
+            },
+            "decryptionkey": "52a498ba7c7aa02f429a6a28ad57ac4fac11f1d430c3c4e3216c79cacc73b0c9"
+        },
+        "777884": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3868026940732939681",
+                    "size": "677219527",
+                    "download": "97780400"
+                },
+                "testbranch": {
+                    "gid": "2734159504766176303",
+                    "size": "678022512",
+                    "download": "98369296"
+                }
+            },
+            "decryptionkey": "ebc4a5148cad320d46204820485a2e674ef699611ea1468649e90f6461a06c72"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "3445180",
+                "timeupdated": "1546693820"
+            },
+            "testbranch": {
+                "buildid": "3451534",
+                "description": "Updated unity version",
+                "timeupdated": "1546956605"
+            }
+        }
+    }
+}
