@@ -1,0 +1,62 @@
+{
+    "appid": "279440",
+    "type": "Game",
+    "name": "Joe Dever's Lone Wolf HD Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28196601",
+    "update_time": "2025-03-29 02:14:56",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "279441": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8576121310166814833",
+                    "size": "2909745880",
+                    "download": "1505355872"
+                }
+            },
+            "decryptionkey": "a6b44e8d726d3ce335badf397336d8996593b0bb069e06c5a38559670ce9a537"
+        },
+        "279442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2981567056838376294",
+                    "size": "2893502258",
+                    "download": "1506760576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "279443": {
+            "manifests": {
+                "public": {
+                    "gid": "1762346254668213182",
+                    "size": "212147074",
+                    "download": "208675824"
+                }
+            },
+            "decryptionkey": "a820ac17afeb17871eca7ae69892630cb06d5d61d1babc28a57c3f0e9cbcd96a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "510115"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
