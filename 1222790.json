@@ -1,0 +1,63 @@
+{
+    "appid": "1222790",
+    "type": "Game",
+    "name": "CrossingFrontier",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24132676",
+    "update_time": "2024-06-27 04:25:57",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "1222791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7062516516665759104",
+                    "size": "3247660769",
+                    "download": "2367896032"
+                },
+                "tcp_version": {
+                    "gid": "3849729777818035951",
+                    "size": "3248802097",
+                    "download": "2369020992"
+                }
+            },
+            "decryptionkey": "5230f054fa638da18e5e3852e6a3546745115a8a2980a4005b13cab081a15b6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12105509",
+                "timeupdated": "1693849627"
+            },
+            "tcp_version": {
+                "buildid": "12105501",
+                "description": "will install npcap",
+                "timeupdated": "1693849636"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
