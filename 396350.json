@@ -1,0 +1,131 @@
+{
+    "appid": "396350",
+    "type": "Game",
+    "name": "Bleed 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27850851",
+    "update_time": "2025-03-08 21:11:57",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "396351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9012927504370992078",
+                    "size": "298063898",
+                    "download": "88881008"
+                },
+                "fna-win32": {
+                    "gid": "3749514106202021768",
+                    "size": "302537103",
+                    "download": "89821792"
+                },
+                "linux32": {
+                    "gid": "9012927504370992078",
+                    "size": "298063898",
+                    "download": "88881008"
+                },
+                "netplay-beta": {
+                    "gid": "159471172775649428",
+                    "size": "298008696",
+                    "download": "88877952"
+                }
+            },
+            "decryptionkey": "5d20e71a420fe46e0a179b2c729718eaba9c58d44b0fae6fc1a26de085a349af"
+        },
+        "396352": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8539513893258844019",
+                    "size": "325037092",
+                    "download": "96361104"
+                },
+                "fna-win32": {
+                    "gid": "8539513893258844019",
+                    "size": "325037092",
+                    "download": "96361104"
+                },
+                "linux32": {
+                    "gid": "9187290786195735828",
+                    "size": "353379115",
+                    "download": "104362208"
+                },
+                "netplay-beta": {
+                    "gid": "9187290786195735828",
+                    "size": "353379115",
+                    "download": "104362208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "396353": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6916409118296257291",
+                    "size": "337842597",
+                    "download": "99339136"
+                },
+                "fna-win32": {
+                    "gid": "6916409118296257291",
+                    "size": "337842597",
+                    "download": "99339136"
+                },
+                "linux32": {
+                    "gid": "1655995144497149273",
+                    "size": "322670157",
+                    "download": "95603120"
+                },
+                "netplay-beta": {
+                    "gid": "1655995144497149273",
+                    "size": "322670157",
+                    "download": "95603120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8961933",
+                "timeupdated": "1655517613"
+            },
+            "fna-win32": {
+                "buildid": "8890575",
+                "description": "Use FNA instead of XNA",
+                "timeupdated": "1654636100"
+            },
+            "linux32": {
+                "buildid": "2516564",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609454393"
+            },
+            "netplay-beta": {
+                "buildid": "3254754",
+                "description": "Netplay Beta (PC-Only!)",
+                "timeupdated": "1540742190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
