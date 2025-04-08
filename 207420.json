@@ -1,0 +1,101 @@
+{
+    "appid": "207420",
+    "type": "Game",
+    "name": "Wizorb",
+    "schinese_name": "弹珠游戏",
+    "isfreeapp": "0",
+    "change_number": "27123509",
+    "update_time": "2025-01-23 11:26:09",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "207422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7943840251094107202",
+                    "size": "248291594",
+                    "download": "95878368"
+                },
+                "linux32": {
+                    "gid": "620012054046650317",
+                    "size": "233202662",
+                    "download": "92284528"
+                }
+            },
+            "decryptionkey": "dd9057ddd6f34b763f82d6a7d92dc808ff91f18d9333e318d1bc113e0fb02043"
+        },
+        "207421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8740811049748125664",
+                    "size": "212871800",
+                    "download": "86264320"
+                },
+                "linux32": {
+                    "gid": "8740811049748125664",
+                    "size": "212871800",
+                    "download": "86264320"
+                }
+            },
+            "decryptionkey": "fbdaf8e8360f4ac0ed85daf4bf57a502a62cadf5baf266adb7ff7938d1f7ed08"
+        },
+        "207423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8356219314951875569",
+                    "size": "235457629",
+                    "download": "77878288"
+                },
+                "linux32": {
+                    "gid": "6343831443300435804",
+                    "size": "242387795",
+                    "download": "79471664"
+                }
+            },
+            "decryptionkey": "06222500fd2ef54c28b1d465d5ff70d751ab108565200578cbc547e51237b912"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029284",
+                "timeupdated": "1609456539"
+            },
+            "linux32": {
+                "buildid": "4170219",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609456442"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
