@@ -1,0 +1,76 @@
+{
+    "appid": "437100",
+    "type": "Game",
+    "name": "My Night Job",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28253500",
+    "update_time": "2025-04-02 01:37:46",
+    "depot": {
+        "437101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5731242680489723734",
+                    "size": "552497634",
+                    "download": "116621296"
+                },
+                "mnjbeta": {
+                    "gid": "8960765459648622154",
+                    "size": "552543020",
+                    "download": "116619248"
+                }
+            },
+            "decryptionkey": "3f6ec807031c38fae0c3eb1976a4985fb6f368d3795cea4f9ffdcf584a54b8f1"
+        },
+        "437102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6590720630603469640",
+                    "size": "578254201",
+                    "download": "124212656"
+                },
+                "mnjbeta": {
+                    "gid": "131145122634831047",
+                    "size": "578253977",
+                    "download": "124208064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "437103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6261412698605525298",
+                    "size": "433564889",
+                    "download": "84491504"
+                },
+                "mnjbeta": {
+                    "gid": "6261412698605525298",
+                    "size": "433564889",
+                    "download": "84491504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17124462",
+                "timeupdated": "1737749521"
+            },
+            "mnjbeta": {
+                "buildid": "17122830",
+                "description": "Public test build",
+                "timeupdated": "1737739724"
+            }
+        }
+    }
+}
