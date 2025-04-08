@@ -1,0 +1,71 @@
+{
+    "appid": "244710",
+    "type": "Game",
+    "name": "Shelter 1",
+    "schinese_name": "避难所 1",
+    "isfreeapp": "0",
+    "change_number": "27131364",
+    "update_time": "2025-01-23 21:47:33",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "1",
+        "244711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7438100922102122642",
+                    "size": "559641907",
+                    "download": "258689344"
+                },
+                "updatebranch": {
+                    "gid": "7438100922102122642",
+                    "size": "559641907",
+                    "download": "258689344"
+                }
+            },
+            "decryptionkey": "4d34e59d22fcc85fdd64c9a7d9a4d6c7716f273c004619018120623871f42973"
+        },
+        "244712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3331340191186667019",
+                    "size": "562675566",
+                    "download": "259225840"
+                },
+                "updatebranch": {
+                    "gid": "3331340191186667019",
+                    "size": "562675566",
+                    "download": "259225840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "244713": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "2429448",
+                "timeupdated": "1515680936"
+            },
+            "updatebranch": {
+                "buildid": "2429448",
+                "description": "Shelter beta updates",
+                "timeupdated": "1515680847"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
