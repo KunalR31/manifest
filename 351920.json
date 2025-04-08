@@ -1,0 +1,58 @@
+{
+    "appid": "351920",
+    "type": "Game",
+    "name": "Crazy Machines 3",
+    "schinese_name": "疯狂机器3 - Crazy Machines 3",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:27:05",
+    "depot": {
+        "workshopdepot": "351920",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "351921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6741230604525514871",
+                    "size": "6153516356",
+                    "download": "2216464928"
+                },
+                "local": {
+                    "gid": "8225179918865226762",
+                    "size": "24114850",
+                    "download": "5701344"
+                }
+            },
+            "decryptionkey": "c8385b229fbba084191fbd77a633411271b57ea566762c8232ce9949decab6f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2806019",
+                "timeupdated": "1528820350"
+            },
+            "local": {
+                "buildid": "553792",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4e2f155271cafd9336efdf9c65c448df37543813c420b88e2b86f904fa3bc98d"
+    }
+}
