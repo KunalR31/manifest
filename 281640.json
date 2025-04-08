@@ -1,0 +1,110 @@
+{
+    "appid": "281640",
+    "type": "Game",
+    "name": "The Banner Saga 2",
+    "schinese_name": "旗帜的传说2",
+    "isfreeapp": "0",
+    "change_number": "28194957",
+    "update_time": "2025-03-29 00:38:07",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "281642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2849496889067869211",
+                    "size": "185068684",
+                    "download": "73079664"
+                },
+                "beta": {
+                    "gid": "2849496889067869211",
+                    "size": "185068684",
+                    "download": "73079664"
+                },
+                "localization": {
+                    "gid": "6240684206015044396",
+                    "size": "185148117",
+                    "download": "73168528"
+                }
+            },
+            "decryptionkey": "23f69f71a56c710f95570f23b1c4a413605b356b34bd6368e2072264e20bc39d"
+        },
+        "281643": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6453209846679789386",
+                    "size": "143331728",
+                    "download": "91611664"
+                },
+                "beta": {
+                    "gid": "6453209846679789386",
+                    "size": "143331728",
+                    "download": "91611664"
+                },
+                "localization": {
+                    "gid": "6009921555233337371",
+                    "size": "143412544",
+                    "download": "94688944"
+                }
+            },
+            "decryptionkey": "9cf33c1c8eda8c0b95e8960c0381bd2f0992b813da85d1d5de733bdd4f83bc53"
+        },
+        "281641": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8940571721663272952",
+                    "size": "5334847983",
+                    "download": "5053337344"
+                },
+                "beta": {
+                    "gid": "8940571721663272952",
+                    "size": "5334847983",
+                    "download": "5053337344"
+                },
+                "localization": {
+                    "gid": "4782802206694931909",
+                    "size": "5401852884",
+                    "download": "5109685136"
+                }
+            },
+            "decryptionkey": "7fcd1bb5051f6247f245960af3bd4e5208fc431804cbcf0a3402627c30ee022d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3272559",
+                "timeupdated": "1543515386"
+            },
+            "beta": {
+                "buildid": "3272559",
+                "description": "Banner Saga 2 public beta branch",
+                "timeupdated": "1543280473"
+            },
+            "localization": {
+                "buildid": "3204247",
+                "description": "Public Banner Saga 2 localization review branch",
+                "timeupdated": "1539279603"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
