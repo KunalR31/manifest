@@ -1,0 +1,97 @@
+{
+    "appid": "364200",
+    "type": "Game",
+    "name": "Farabel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23433796",
+    "update_time": "2024-05-26 04:36:27",
+    "depot": {
+        "364201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "504900107256860987",
+                    "size": "364776476",
+                    "download": "104343328"
+                },
+                "beta": {
+                    "gid": "504900107256860987",
+                    "size": "364776476",
+                    "download": "104343328"
+                },
+                "farabel_1_1": {
+                    "gid": "186802664187857467",
+                    "size": "817173045",
+                    "download": "220309568"
+                }
+            },
+            "decryptionkey": "b3837bf48e3605a9fe0c7bffc32685ee4dd66a77f1901c3300076b7751be08b6"
+        },
+        "364202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1545450414511417189",
+                    "size": "386940177",
+                    "download": "113474384"
+                },
+                "beta": {
+                    "gid": "1545450414511417189",
+                    "size": "386940177",
+                    "download": "113474384"
+                },
+                "farabel_1_1": {
+                    "gid": "5914258608741040805",
+                    "size": "862130997",
+                    "download": "232972736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "364203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3905701813027806079",
+                    "size": "430650297",
+                    "download": "131092448"
+                },
+                "beta": {
+                    "gid": "3905701813027806079",
+                    "size": "430650297",
+                    "download": "131092448"
+                },
+                "farabel_1_1": {
+                    "gid": "5655198993762484380",
+                    "size": "853147801",
+                    "download": "231295712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3357557",
+                "timeupdated": "1543669884"
+            },
+            "beta": {
+                "buildid": "3357557",
+                "description": "Public beta branch\t",
+                "timeupdated": "1543666078"
+            },
+            "farabel_1_1": {
+                "buildid": "1825136",
+                "description": "Farabel version 1.1",
+                "timeupdated": "1536149264"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
