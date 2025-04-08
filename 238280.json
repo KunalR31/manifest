@@ -1,0 +1,123 @@
+{
+    "appid": "238280",
+    "type": "Game",
+    "name": "Legend of Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 06:51:56",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "238281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3591808765412086814",
+                    "size": "527233977",
+                    "download": "457938080"
+                },
+                "beta": {
+                    "gid": "505733938555469770",
+                    "size": "298307073",
+                    "download": "184344512"
+                },
+                "internaltesting": {
+                    "gid": "505733938555469770",
+                    "size": "298307073",
+                    "download": "184344512"
+                }
+            },
+            "decryptionkey": "4653e69f87ea275f7d4b5babe260f4ddaf9eb948d249939ca861677d9d53018b"
+        },
+        "238282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4458289430106793865",
+                    "size": "558183044",
+                    "download": "468648976"
+                },
+                "beta": {
+                    "gid": "3098123823058289106",
+                    "size": "304109954",
+                    "download": "187164672"
+                },
+                "internaltesting": {
+                    "gid": "3098123823058289106",
+                    "size": "304109954",
+                    "download": "187164672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "238283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6429515810141467750",
+                    "size": "552190960",
+                    "download": "467561024"
+                },
+                "beta": {
+                    "gid": "4373591370573623670",
+                    "size": "305168302",
+                    "download": "187874096"
+                },
+                "internaltesting": {
+                    "gid": "4373591370573623670",
+                    "size": "305168302",
+                    "download": "187874096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "255240": {
+            "manifests": {
+                "public": {
+                    "gid": "7588282343990953358",
+                    "size": "70588850",
+                    "download": "70207760"
+                },
+                "beta": {
+                    "gid": "7588282343990953358",
+                    "size": "70588850",
+                    "download": "70207760"
+                },
+                "internaltesting": {
+                    "gid": "7588282343990953358",
+                    "size": "70588850",
+                    "download": "70207760"
+                }
+            },
+            "dlcappid": "255240",
+            "decryptionkey": "fff03c0eced1954cc5a86a829af7b2e145f4928678fe927726bfc6d03c10e385"
+        },
+        "branches": {
+            "public": {
+                "buildid": "700724"
+            },
+            "beta": {
+                "buildid": "5574492",
+                "timeupdated": "1600786556"
+            },
+            "internaltesting": {
+                "buildid": "5574492",
+                "timeupdated": "1600705324"
+            }
+        }
+    }
+}
