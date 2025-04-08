@@ -1,0 +1,78 @@
+{
+    "appid": "2659900",
+    "type": "Game",
+    "name": "Sixty Four",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28266720",
+    "update_time": "2025-04-02 19:10:33",
+    "depot": {
+        "2659901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8917734084865351097",
+                    "size": "413680942",
+                    "download": "206097120"
+                },
+                "destabilized": {
+                    "gid": "8917734084865351097",
+                    "size": "413680942",
+                    "download": "206097120"
+                }
+            },
+            "decryptionkey": "948b537e16b1f7f17071329983f2d3d57c5cde71d1a8a34e50dafc71afc03ae7"
+        },
+        "2659902": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "889356196460942532",
+                    "size": "545904106",
+                    "download": "246957728"
+                },
+                "destabilized": {
+                    "gid": "889356196460942532",
+                    "size": "545904106",
+                    "download": "246957728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2659903": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6677622184788109019",
+                    "size": "156186858",
+                    "download": "158226832"
+                },
+                "destabilized": {
+                    "gid": "6677622184788109019",
+                    "size": "156186858",
+                    "download": "158226832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17240262",
+                "timeupdated": "1738686539"
+            },
+            "destabilized": {
+                "buildid": "17240262",
+                "description": "Public testing",
+                "timeupdated": "1738686415"
+            }
+        }
+    }
+}
