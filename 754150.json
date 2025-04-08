@@ -1,0 +1,73 @@
+{
+    "appid": "754150",
+    "type": "Game",
+    "name": "Rolling Line",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28340312",
+    "update_time": "2025-04-07 14:29:42",
+    "depot": {
+        "754151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7357588808386931259",
+                    "size": "1625968268",
+                    "download": "655308448"
+                },
+                "rolling_line_1x": {
+                    "gid": "2580503137338381975",
+                    "size": "407507102",
+                    "download": "99288192"
+                },
+                "rolling_line_3x": {
+                    "gid": "650668020280290525",
+                    "size": "1697704337",
+                    "download": "483626048"
+                },
+                "rolling_line_4x": {
+                    "gid": "2774707292837566864",
+                    "size": "1743627446",
+                    "download": "673907008"
+                },
+                "testing": {
+                    "gid": "8495957854271457460",
+                    "size": "1626140964",
+                    "download": "655358880"
+                }
+            },
+            "decryptionkey": "ad04c94991815777be39a3c6261cdd6935c1c1cebb3a87006759ec3dce5edc7e"
+        },
+        "workshopdepot": "754150",
+        "branches": {
+            "public": {
+                "buildid": "17775220",
+                "timeupdated": "1742357994"
+            },
+            "rolling_line_1x": {
+                "buildid": "14063262",
+                "description": "The day-one initial release (v1.0)",
+                "timeupdated": "1713222993"
+            },
+            "rolling_line_3x": {
+                "buildid": "6915992",
+                "description": "An older version (v3.41) before 4.0 onwards",
+                "timeupdated": "1626320481"
+            },
+            "rolling_line_4x": {
+                "buildid": "10303293",
+                "description": "An older version (v4.25) before 5.0 onwards",
+                "timeupdated": "1675919663"
+            },
+            "testing": {
+                "buildid": "18007449",
+                "description": "Update testing branch",
+                "timeupdated": "1744007377"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
