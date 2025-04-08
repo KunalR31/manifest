@@ -1,0 +1,79 @@
+{
+    "appid": "2053940",
+    "type": "Game",
+    "name": "Idol Hands 2",
+    "schinese_name": "与经纪人恋爱是绝对禁止2",
+    "isfreeapp": "0",
+    "change_number": "26586297",
+    "update_time": "2024-12-11 11:13:17",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2053941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7665637163717703939",
+                    "size": "3006301220",
+                    "download": "2603901648"
+                },
+                "steam_deck_test_version": {
+                    "gid": "7665637163717703939",
+                    "size": "3006301220",
+                    "download": "2603901648"
+                },
+                "steamdeck": {
+                    "gid": "5024268441199424445",
+                    "size": "2966856030",
+                    "download": "2568194688"
+                }
+            },
+            "decryptionkey": "4613e6c044b956137ad48dbe58964a64be2bdfa368111d1874626a327972832e"
+        },
+        "2053942": {
+            "dlcappid": "2302900"
+        },
+        "2053943": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5228362820395939394",
+                    "size": "3029103628",
+                    "download": "2589008768"
+                },
+                "steam_deck_test_version": {
+                    "gid": "3407259957371448009",
+                    "size": "2597653615",
+                    "download": "2488300448"
+                },
+                "steamdeck": {
+                    "gid": "2212070591266641937",
+                    "size": "2810559132",
+                    "download": "2527902976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12165674",
+                "timeupdated": "1694495679"
+            },
+            "steam_deck_test_version": {
+                "buildid": "12011182",
+                "description": "steam deck dev test",
+                "timeupdated": "1692781226"
+            },
+            "steamdeck": {
+                "buildid": "10908185",
+                "description": "only for deck version",
+                "timeupdated": "1680338203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
