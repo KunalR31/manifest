@@ -1,0 +1,141 @@
+{
+    "appid": "233130",
+    "type": "Game",
+    "name": "Shadow Warrior",
+    "schinese_name": "影子武士",
+    "isfreeapp": "0",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:21",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,hungarian,brazilian",
+        "233131": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7524503039981382511",
+                    "size": "14090854078",
+                    "download": "13395544752"
+                },
+                "local": {
+                    "gid": "6116886277091548504",
+                    "size": "7244551397",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e49efbcac7fadc110b71ffb3bd9beda4c26e9fad773b1908421308fcb6acd436"
+        },
+        "233132": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6445195049350112249",
+                    "size": "76445632",
+                    "download": "74863392"
+                },
+                "local": {
+                    "gid": "6445195049350112249",
+                    "size": "76445632",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4097c14b856d417fb04cabb6d3ebc7d150030b99e7e14cd5022c24d9b58d56e9"
+        },
+        "254675": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1019797616527443974",
+                    "size": "6464169430",
+                    "download": "6096609472"
+                }
+            },
+            "decryptionkey": "9ba715d0a7ad237032ebfb8c8d22c82d40e42552d664d8e381dd69fc2dae8067"
+        },
+        "254676": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8136379092540298181",
+                    "size": "6463153496",
+                    "download": "6095542544"
+                }
+            },
+            "decryptionkey": "205d45573cef11347f8acb7411d9ed9e568cf41184e8724cfef2743353d36460"
+        },
+        "254673": {
+            "manifests": {
+                "public": {
+                    "gid": "6941547528264440065",
+                    "size": "473086301",
+                    "download": "454547648"
+                },
+                "local": {
+                    "gid": "6941547528264440065",
+                    "size": "473086301",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "254673",
+            "decryptionkey": "a6d47bd12f8f037384afc892b5610560c78a6ae4c1853cd5b31fab4be4b32a3a"
+        },
+        "254674": {
+            "manifests": {
+                "public": {
+                    "gid": "193857510522357753",
+                    "size": "82995780",
+                    "download": "82582080"
+                },
+                "local": {
+                    "gid": "193857510522357753",
+                    "size": "82995780",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "254674",
+            "decryptionkey": "2f891797235cdd181db04cebe903a75ec5eb840af3f27a01d06107347bd974c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "660323"
+            },
+            "local": {
+                "buildid": "246581",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
