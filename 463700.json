@@ -1,0 +1,53 @@
+{
+    "appid": "463700",
+    "type": "Game",
+    "name": "Super Cloudbuilt ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 21:07:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,dutch,swedish,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "463701": {
+            "manifests": {
+                "public": {
+                    "gid": "9132648639026310107",
+                    "size": "2964011262",
+                    "download": "2655870224"
+                },
+                "publictest": {
+                    "gid": "9132648639026310107",
+                    "size": "2964011262",
+                    "download": "2655870224"
+                }
+            },
+            "decryptionkey": "996317552d733fa91c0e8df5a3591907bd8a2c078bc9cfa9f3281537e374320e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3031115",
+                "timeupdated": "1534254259"
+            },
+            "publictest": {
+                "buildid": "3031115",
+                "description": "Test branch for community testing",
+                "timeupdated": "1534254272"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
