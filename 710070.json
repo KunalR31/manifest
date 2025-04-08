@@ -1,0 +1,52 @@
+{
+    "appid": "710070",
+    "type": "Game",
+    "name": "Helltown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28092309",
+    "update_time": "2025-03-23 09:18:49",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "710071": {
+            "manifests": {
+                "public": {
+                    "gid": "4557097964123741162",
+                    "size": "968161828",
+                    "download": "436025712"
+                },
+                "helltown-2017": {
+                    "gid": "942994673747849749",
+                    "size": "729763832",
+                    "download": "282976720"
+                }
+            },
+            "decryptionkey": "85166207c69b4c71cb6e31a65eddc2a36bf89aa72e6b9f694d7bd8a89bd82f4d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15153448",
+                "timeupdated": "1721929118"
+            },
+            "helltown-2017": {
+                "buildid": "2554376",
+                "description": "2017 build",
+                "timeupdated": "1721752517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
