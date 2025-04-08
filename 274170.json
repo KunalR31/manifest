@@ -1,0 +1,130 @@
+{
+    "appid": "274170",
+    "type": "Game",
+    "name": "Hotline Miami 2: Wrong Number",
+    "schinese_name": "火线迈阿密2：空号",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:50:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "274172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7199041297203663559",
+                    "size": "616372827",
+                    "download": "546947696"
+                },
+                "editor_beta": {
+                    "gid": "2875568635642951712",
+                    "size": "616370486",
+                    "download": "546948016"
+                },
+                "no_editor": {
+                    "gid": "6215080096982036120",
+                    "size": "625513767",
+                    "download": "547186992"
+                }
+            },
+            "decryptionkey": "f948ce6d03348d1d575fafacccfca66afa47bd65418e34665d0b21ff85b5f00d"
+        },
+        "274173": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1421157288583409625",
+                    "size": "642236692",
+                    "download": "553329312"
+                },
+                "editor_beta": {
+                    "gid": "3338757351046957336",
+                    "size": "642232596",
+                    "download": "553333824"
+                },
+                "no_editor": {
+                    "gid": "3624927278555353860",
+                    "size": "646197926",
+                    "download": "551737856"
+                }
+            },
+            "decryptionkey": "679aae395a3a5daa27d209ba716f1cedc31b9547c7220e45e83b5836659c516e"
+        },
+        "274174": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8626824437792969994",
+                    "size": "639698514",
+                    "download": "550144208"
+                },
+                "editor_beta": {
+                    "gid": "929313290394335945",
+                    "size": "644350781",
+                    "download": "553039408"
+                },
+                "no_editor": {
+                    "gid": "955113657236576936",
+                    "size": "646884781",
+                    "download": "550599680"
+                }
+            },
+            "decryptionkey": "d1457cd83d22f30c48dfd29c06349b6485c37bea55a586477ae24e4586aba25f"
+        },
+        "274175": {
+            "dlcappid": "355390",
+            "manifests": {
+                "public": {
+                    "gid": "4640517193330318629",
+                    "size": "330320579",
+                    "download": "326580848"
+                },
+                "editor_beta": {
+                    "gid": "4640517193330318629",
+                    "size": "330320579",
+                    "download": "326580848"
+                },
+                "no_editor": {
+                    "gid": "4640517193330318629",
+                    "size": "330320579",
+                    "download": "326580848"
+                }
+            },
+            "decryptionkey": "466a79aa40bcdf719c80346e55dd7ed30cd4245fa47f82d5c5394affe5adc0ba"
+        },
+        "355390": {
+            "dlcappid": "355390"
+        },
+        "workshopdepot": "274170",
+        "branches": {
+            "public": {
+                "buildid": "2341683",
+                "timeupdated": "1512645049"
+            },
+            "editor_beta": {
+                "buildid": "1279936",
+                "timeupdated": "1471250675"
+            },
+            "no_editor": {
+                "buildid": "965179",
+                "description": "For troubleshooting issues occurring since the editor update.",
+                "timeupdated": "1466586488"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "22bf3115079960ae0586bcda8a1a0f2d0cfdbbd3dc5e5eea0315b6e38bb007f1"
+    }
+}
