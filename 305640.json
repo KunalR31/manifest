@@ -1,0 +1,66 @@
+{
+    "appid": "305640",
+    "type": "Game",
+    "name": "Shattered Planet",
+    "schinese_name": "破碎的地球",
+    "isfreeapp": "0",
+    "change_number": "26569112",
+    "update_time": "2024-12-10 12:10:19",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "305641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3938862808178165210",
+                    "size": "390204265",
+                    "download": "100138752"
+                },
+                "beta": {
+                    "gid": "3938862808178165210",
+                    "size": "390204265",
+                    "download": "100138752"
+                }
+            },
+            "decryptionkey": "52baaf0faf800062be8ff61315a19c76a55c48b181e48bd70d31033583064c20"
+        },
+        "310710": {
+            "dlcappid": "310710"
+        },
+        "305642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4870664505280703501",
+                    "size": "651173199",
+                    "download": "304418240"
+                },
+                "beta": {
+                    "gid": "4870664505280703501",
+                    "size": "651173199",
+                    "download": "304418240"
+                }
+            },
+            "decryptionkey": "de4e8e0f193595e01b800400e56fa62e69a3f3cb33fa992fa950ae7c61da1c4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "556608"
+            },
+            "beta": {
+                "buildid": "556608",
+                "description": "Private Beta"
+            }
+        }
+    }
+}
