@@ -1,0 +1,56 @@
+{
+    "appid": "342190",
+    "type": "Game",
+    "name": "Skyworld",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28009940",
+    "update_time": "2025-03-18 17:13:23",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "342191": {
+            "manifests": {
+                "public": {
+                    "gid": "5592385139104903345",
+                    "size": "4433232529",
+                    "download": "1028824512"
+                },
+                "local": {
+                    "gid": "5805750444940220277",
+                    "size": "1000690491",
+                    "download": "205402352"
+                }
+            },
+            "decryptionkey": "037ffacc8204745dd6fe8909c77fe221b8fc03f29d1ccdba63f431f551ba5c44"
+        },
+        "734500": {
+            "dlcappid": "734500"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4896667",
+                "timeupdated": "1586939562"
+            },
+            "local": {
+                "buildid": "1731732",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1491214452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
