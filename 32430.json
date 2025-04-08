@@ -1,0 +1,91 @@
+{
+    "appid": "32430",
+    "type": "Game",
+    "name": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
+    "schinese_name": "星球大战：原力释放",
+    "isfreeapp": "0",
+    "change_number": "27899459",
+    "update_time": "2025-03-12 05:41:11",
+    "depot": {
+        "32431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7086741752643505745",
+                    "size": "31131585001",
+                    "download": "0"
+                },
+                "macbeta": {
+                    "gid": "7086741752643505745",
+                    "size": "31131585001",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "08e72d82ccbe91f8b72fba69ac16cc191f170115c6a908ac75de67300260fb0f"
+        },
+        "32433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4034928732234361858",
+                    "size": "27476142",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "9146031149583037837",
+                    "size": "27476142",
+                    "download": "0"
+                },
+                "macbeta": {
+                    "gid": "4034928732234361858",
+                    "size": "27476142",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ce3f009e72c14f745a9dd1a491a9e29c663cd811ac634bedd52e58d210f3a678"
+        },
+        "32434": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3832244542025695403",
+                    "size": "24991155063",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5893753085741473380",
+                    "size": "24991155063",
+                    "download": "0"
+                },
+                "macbeta": {
+                    "gid": "3832244542025695403",
+                    "size": "24991155063",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "41c1df521f64b622f4d0e2eedacddb1fe8be41f9da778143b22aa8380704c512"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "6522"
+            },
+            "local": {
+                "buildid": "13452",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "macbeta": {
+                "buildid": "6522"
+            }
+        }
+    }
+}
