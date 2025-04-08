@@ -1,0 +1,61 @@
+{
+    "appid": "22000",
+    "type": "Game",
+    "name": "World of Goo",
+    "schinese_name": "粘粘世界",
+    "isfreeapp": "0",
+    "change_number": "26406122",
+    "update_time": "2024-12-05 06:51:02",
+    "depot": {
+        "overridescddb": "1",
+        "22002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9138995253899297823",
+                    "size": "202291564",
+                    "download": "191399168"
+                }
+            },
+            "decryptionkey": "2c5293d636ad6f4b4aad97c624f1b77ac9f9ddb91ab1d837f70f57ebd58263aa"
+        },
+        "22001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7107102591434863496",
+                    "size": "203377752",
+                    "download": "192149504"
+                }
+            },
+            "decryptionkey": "259e5302914bd25c22a8214fbe7f3d3db7671fe7bfe2427a10ad5077a2e993e0"
+        },
+        "22003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "351943241740107087",
+                    "size": "206306885",
+                    "download": "192687520"
+                }
+            },
+            "decryptionkey": "93c8bbb89845b3eb08ee8528267fddbb1b0d60757135ee53834277d9975dee89"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,polish,dutch",
+        "branches": {
+            "public": {
+                "buildid": "3815293",
+                "timeupdated": "1557614980"
+            }
+        }
+    }
+}
