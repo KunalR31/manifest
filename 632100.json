@@ -1,0 +1,53 @@
+{
+    "appid": "632100",
+    "type": "Game",
+    "name": "The Last Sigil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27279988",
+    "update_time": "2025-02-03 04:31:39",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "632101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5253049608658435537",
+                    "size": "1862814651",
+                    "download": "148355760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "632102": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "633801935457288421",
+                    "size": "1868135867",
+                    "download": "149969136"
+                }
+            },
+            "decryptionkey": "1ed84b3163c560eff668c12ad36341736b4df1f9c4556bfb313a27b7affeb421"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3368296",
+                "timeupdated": "1544007340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
