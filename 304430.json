@@ -1,0 +1,83 @@
+{
+    "appid": "304430",
+    "type": "Game",
+    "name": "INSIDE",
+    "schinese_name": "囚禁",
+    "isfreeapp": "0",
+    "change_number": "28334071",
+    "update_time": "2025-04-07 01:11:18",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "304431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2904632601412719297",
+                    "size": "2354874418",
+                    "download": "1203918064"
+                },
+                "local": {
+                    "gid": "352389097095060297",
+                    "size": "2357283540",
+                    "download": "1204553152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "304432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7346583495260906811",
+                    "size": "2316493716",
+                    "download": "1153341872"
+                }
+            },
+            "decryptionkey": "69afabd5b5e1e1ae7314fc1e2082761fbf63d59c300fb084a8a14883fedaab3c"
+        },
+        "304433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1472845135095052445",
+                    "size": "2271237112",
+                    "download": "1161886864"
+                }
+            },
+            "decryptionkey": "af643fa842538225f1d40cb8a110e90bdd4538e83dc63d5caad477c3360204fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16538646",
+                "timeupdated": "1732628910"
+            },
+            "local": {
+                "buildid": "1330646",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1473683103"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
