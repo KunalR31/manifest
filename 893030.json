@@ -1,0 +1,81 @@
+{
+    "appid": "893030",
+    "type": "Game",
+    "name": "Music Racer",
+    "schinese_name": "音乐竞速",
+    "isfreeapp": "0",
+    "change_number": "24548928",
+    "update_time": "2024-07-29 08:55:58",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "893031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3763911608124920669",
+                    "size": "510354618",
+                    "download": "195866720"
+                },
+                "legacy": {
+                    "gid": "5622367902119084164",
+                    "size": "382333956",
+                    "download": "134840784"
+                }
+            },
+            "decryptionkey": "3e905f2c4fe37332d819d661afbef85cc1c280493e06d6ef8bbab19d0ac47b7c"
+        },
+        "893032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399373968267487681",
+                    "size": "496381686",
+                    "download": "191404640"
+                },
+                "legacy": {
+                    "gid": "1996914546054157363",
+                    "size": "420223347",
+                    "download": "144525904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "893033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "5855274",
+                "timeupdated": "1605815627"
+            },
+            "legacy": {
+                "buildid": "3339977",
+                "timeupdated": "1562164787"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
