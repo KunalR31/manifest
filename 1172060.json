@@ -1,0 +1,75 @@
+{
+    "appid": "1172060",
+    "type": "Game",
+    "name": "Rest In Pieces",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23221397",
+    "update_time": "2024-05-25 12:30:30",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1172061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8533678550020444886",
+                    "size": "4124118642",
+                    "download": "4047808352"
+                }
+            },
+            "decryptionkey": "e82fff907723b4c1b04ea03bd357688f96c73278e37a6636e5771735cd785af3"
+        },
+        "1172062": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3549743354866268127",
+                    "size": "6709524956",
+                    "download": "5956713264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1172063": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7923305667365814112",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5176377",
+                "timeupdated": "1592369097"
+            }
+        }
+    }
+}
