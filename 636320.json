@@ -1,0 +1,78 @@
+{
+    "appid": "636320",
+    "type": "Game",
+    "name": "Depth of Extinction",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22580812",
+    "update_time": "2024-05-26 19:22:32",
+    "depot": {
+        "636321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "766707306359467381",
+                    "size": "463470125",
+                    "download": "127693552"
+                },
+                "beta": {
+                    "gid": "766707306359467381",
+                    "size": "463470125",
+                    "download": "127693552"
+                }
+            },
+            "decryptionkey": "8da5250cf2850b3f9a911ad7ce9c5cb9973fcc8da4d217dad1fa828212b8b879"
+        },
+        "636322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8762872374715894448",
+                    "size": "475638357",
+                    "download": "129936944"
+                },
+                "beta": {
+                    "gid": "8762872374715894448",
+                    "size": "475638357",
+                    "download": "129936944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "636323": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2060953800238189190",
+                    "size": "456987354",
+                    "download": "126412928"
+                },
+                "beta": {
+                    "gid": "2060953800238189190",
+                    "size": "456987354",
+                    "download": "126412928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8917913",
+                "timeupdated": "1655121802"
+            },
+            "beta": {
+                "buildid": "8917913",
+                "description": "Beta testing",
+                "timeupdated": "1654973464"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
