@@ -1,0 +1,66 @@
+{
+    "appid": "564150",
+    "type": "Game",
+    "name": "Rosenkreuzstilette",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27451022",
+    "update_time": "2025-02-13 10:15:44",
+    "depot": {
+        "564151": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6939242838438118098",
+                    "size": "337129149",
+                    "download": "291266128"
+                },
+                "replay_test": {
+                    "gid": "6524782908233238114",
+                    "size": "337133223",
+                    "download": "291270112"
+                }
+            },
+            "decryptionkey": "7669abdb23a3f0107f864cf41acdfe55be196e7673320094e105a8cb87f3edd5"
+        },
+        "564152": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6285334838767172497",
+                    "size": "331655685",
+                    "download": "291371584"
+                },
+                "replay_test": {
+                    "gid": "3940176157778578574",
+                    "size": "331666565",
+                    "download": "291375104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "564153": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2511449",
+                "timeupdated": "1518172296"
+            },
+            "replay_test": {
+                "buildid": "2247700",
+                "description": "replay feature test build",
+                "timeupdated": "1518172309"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
