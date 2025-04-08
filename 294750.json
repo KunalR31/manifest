@@ -1,0 +1,82 @@
+{
+    "appid": "294750",
+    "type": "Game",
+    "name": "Anomaly Defenders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:26:54",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "294751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3135390360928215745",
+                    "size": "8715456",
+                    "download": "105896693"
+                }
+            },
+            "decryptionkey": "f8aa3f3b59ee10898309da3229cabefdbe671b8e03d08f071bc5760383f6bbc7"
+        },
+        "294752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4188762685590576730",
+                    "size": "9285423",
+                    "download": "3456601877"
+                }
+            },
+            "decryptionkey": "d4a90217969673c248c3f1aef8ca2d0ab5c30e222a001ec32d36aa8a52053a8e"
+        },
+        "294753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8851509277257028071",
+                    "size": "13084867",
+                    "download": "4370181"
+                }
+            },
+            "decryptionkey": "a1096a5b529ef36b1915cc2f8c62bbecb8862cd99e4f1b55db5f5fed59615b0b"
+        },
+        "294754": {
+            "manifests": {
+                "public": {
+                    "gid": "5486852492180344863",
+                    "size": "495356450",
+                    "download": "9709336056"
+                }
+            },
+            "decryptionkey": "1637130914a3b190fbd25cad1f1c8359d269f3904f673cb3f5a2081d75f9ca94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "385964"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
