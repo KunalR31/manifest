@@ -1,0 +1,144 @@
+{
+    "appid": "255340",
+    "type": "Game",
+    "name": "Escape Goat 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24944796",
+    "update_time": "2024-08-27 00:17:52",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "255341": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6168351774836885789",
+                    "size": "221521197",
+                    "download": "106996064"
+                },
+                "beta": {
+                    "gid": "5342819858552532702",
+                    "size": "246745465",
+                    "download": "109630272"
+                },
+                "fna-win32": {
+                    "gid": "2885320464217890900",
+                    "size": "223140584",
+                    "download": "107217760"
+                },
+                "linux32": {
+                    "gid": "6168351774836885789",
+                    "size": "221521197",
+                    "download": "106996064"
+                }
+            },
+            "decryptionkey": "c11da4c79a25b6dd281d94fc1a0491aa83a153046b8a8793274dbbe5266e6f57"
+        },
+        "255342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6642426073476432636",
+                    "size": "245851899",
+                    "download": "113855616"
+                },
+                "beta": {
+                    "gid": "2761345366166955787",
+                    "size": "263170741",
+                    "download": "122796864"
+                },
+                "fna-win32": {
+                    "gid": "6642426073476432636",
+                    "size": "245851899",
+                    "download": "113855616"
+                },
+                "linux32": {
+                    "gid": "8994104473411433855",
+                    "size": "268474494",
+                    "download": "120299120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "255343": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2589496015956249847",
+                    "size": "259965727",
+                    "download": "116891520"
+                },
+                "beta": {
+                    "gid": "2117616616759966516",
+                    "size": "238227956",
+                    "download": "112717888"
+                },
+                "fna-win32": {
+                    "gid": "2589496015956249847",
+                    "size": "259965727",
+                    "download": "116891520"
+                },
+                "linux32": {
+                    "gid": "7094130200534259996",
+                    "size": "241999430",
+                    "download": "112408688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "255344": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "950662072882821004",
+                    "size": "4404",
+                    "download": "1488"
+                },
+                "fna-win32": {
+                    "gid": "950662072882821004",
+                    "size": "4404",
+                    "download": "1488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10996569",
+                "timeupdated": "1681405185"
+            },
+            "beta": {
+                "buildid": "597281",
+                "description": "Beta Testing Branch"
+            },
+            "fna-win32": {
+                "buildid": "10996582",
+                "description": "FNA for Windows - Unsupported!",
+                "timeupdated": "1681405225"
+            },
+            "linux32": {
+                "buildid": "1303638",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609452850"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
