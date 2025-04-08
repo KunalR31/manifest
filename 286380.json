@@ -1,0 +1,66 @@
+{
+    "appid": "286380",
+    "type": "Game",
+    "name": "Strata",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 20:20:51",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,koreana,schinese,russian,japanese,dutch",
+        "286381": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5735840727404270071",
+                    "size": "53737667",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d52dc999adc93d2e49031de39610e60b3bf92f8ce0f3274a3ec326e3392d0685"
+        },
+        "286382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3717678357844588176",
+                    "size": "58650938",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5e3d9f07d85d127b88ed92c9226bfe0e1c6da34fdb2e82463daa957a616a404a"
+        },
+        "286383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6721029863076134325",
+                    "size": "60295231",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1d8f6f4925484c3eb21468516119316fe10c9a0617fdf606f43d32702dbec14e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "288218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
