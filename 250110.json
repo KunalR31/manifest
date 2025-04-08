@@ -1,0 +1,105 @@
+{
+    "appid": "250110",
+    "type": "Game",
+    "name": "Assault Android Cactus",
+    "schinese_name": "卡图斯：进击的机器人",
+    "isfreeapp": "0",
+    "change_number": "27280308",
+    "update_time": "2025-02-03 05:11:36",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "727777403035464657",
+                    "size": "1518944248",
+                    "download": "991302960"
+                },
+                "legacy": {
+                    "gid": "2272799399121907744",
+                    "size": "1331768046",
+                    "download": "858936560"
+                }
+            },
+            "decryptionkey": "9ba96c53cbc37b53927a49bf459e952fe343df3ee9e78cc0e022f0834bb82af8"
+        },
+        "250112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9189220540754605908",
+                    "size": "1520020389",
+                    "download": "988287008"
+                },
+                "legacy": {
+                    "gid": "5434613723761831222",
+                    "size": "1374537945",
+                    "download": "869537968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "250113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8745121399730864045",
+                    "size": "1559691437",
+                    "download": "1004560592"
+                },
+                "legacy": {
+                    "gid": "1500126146817160949",
+                    "size": "1361514183",
+                    "download": "866128672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "403990": {
+            "manifests": {
+                "public": {
+                    "gid": "8032892814813557039",
+                    "size": "928664362",
+                    "download": "806075488"
+                },
+                "legacy": {
+                    "gid": "3030885633990432348",
+                    "size": "893837527",
+                    "download": "771040608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3789944",
+                "timeupdated": "1556851536"
+            },
+            "legacy": {
+                "buildid": "1408334",
+                "description": "older version of the game that supports DX9",
+                "timeupdated": "1528084761"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
