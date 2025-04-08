@@ -1,0 +1,66 @@
+{
+    "appid": "287260",
+    "type": "Game",
+    "name": "Toybox Turbos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27962432",
+    "update_time": "2025-03-15 02:03:47",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "287261": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "915567965767997849",
+                    "size": "323735976",
+                    "download": "394122034020"
+                }
+            },
+            "decryptionkey": "1b54b4983e5a4831e808fa1adfb07b5c150523ecb38e46a8d21c397956da7ea8"
+        },
+        "287262": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1177938665134798012",
+                    "size": "8208400",
+                    "download": "7117968"
+                }
+            },
+            "decryptionkey": "9c6978768f801d19730cdaf882f39f022ba00bb152e15461e00e581c0b4e8969"
+        },
+        "287269": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "463776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
