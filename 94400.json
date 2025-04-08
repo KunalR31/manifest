@@ -1,0 +1,125 @@
+{
+    "appid": "94400",
+    "type": "Game",
+    "name": "Nidhogg",
+    "schinese_name": "尼德霍格",
+    "isfreeapp": "0",
+    "change_number": "27301423",
+    "update_time": "2025-02-04 13:16:16",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "94403": {
+            "manifests": {
+                "public": {
+                    "gid": "3792339498980210200",
+                    "size": "31431658",
+                    "download": "27382624"
+                },
+                "before_may_22_2017": {
+                    "gid": "3443411620152068932",
+                    "size": "24707469",
+                    "download": "20714320"
+                },
+                "old_version": {
+                    "gid": "3443411620152068932",
+                    "size": "24707469",
+                    "download": "20714320"
+                },
+                "beta": {
+                    "gid": "8581804271278528821",
+                    "size": "31431669",
+                    "download": "27382688"
+                }
+            },
+            "decryptionkey": "5c321cd798489c4b6667645f8e2d70fc0f7a585e63ed13f37c3f55206636271e"
+        },
+        "94401": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5027024325154483360",
+                    "size": "146481482",
+                    "download": "111956400"
+                },
+                "before_may_22_2017": {
+                    "gid": "5987690994074879382",
+                    "size": "51427250",
+                    "download": "40007584"
+                },
+                "old_version": {
+                    "gid": "3989791165413666730",
+                    "size": "50368433",
+                    "download": "39836592"
+                },
+                "beta": {
+                    "gid": "1087067870856318736",
+                    "size": "146959298",
+                    "download": "112548512"
+                }
+            },
+            "decryptionkey": "5974f0058e882cf21018bdcbfe4661dee1ba31553b03bdc53e4b51e56a8077e7"
+        },
+        "94402": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1217115285712940891",
+                    "size": "54363081",
+                    "download": "40023072"
+                },
+                "before_may_22_2017": {
+                    "gid": "5578829119143916228",
+                    "size": "51952380",
+                    "download": "39353616"
+                },
+                "old_version": {
+                    "gid": "6574219819134751730",
+                    "size": "50994301",
+                    "download": "39265504"
+                },
+                "beta": {
+                    "gid": "7880909645121433776",
+                    "size": "54363092",
+                    "download": "40023136"
+                }
+            },
+            "decryptionkey": "b8d1bf655ed4d7027cb38e669e39249786c23a8e657d6fd547eabd93f5c026d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7341652",
+                "timeupdated": "1631713803"
+            },
+            "before_may_22_2017": {
+                "buildid": "1217543",
+                "timeupdated": "1495479272"
+            },
+            "old_version": {
+                "buildid": "728096",
+                "description": "This is a very old build of the game kept for compatability purposes."
+            },
+            "beta": {
+                "buildid": "17233559",
+                "description": "beta channel (you cannot play non-beta players online)",
+                "timeupdated": "1738646172"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
