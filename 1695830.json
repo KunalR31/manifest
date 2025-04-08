@@ -1,0 +1,65 @@
+{
+    "appid": "1695830",
+    "type": "Game",
+    "name": "Baldur's Gate: Dark Alliance",
+    "schinese_name": "博德之门：黑暗联盟",
+    "isfreeapp": "0",
+    "change_number": "25605623",
+    "update_time": "2024-10-09 04:27:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,latam",
+        "1695831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "416485436300961382",
+                    "size": "4147326172",
+                    "download": "2466220416"
+                }
+            },
+            "decryptionkey": "d1c928327ca3ee9b74a853ef2af83aa2825a74f9af579767ea087b5923114654"
+        },
+        "1695832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7209713130131730277",
+                    "size": "4157904164",
+                    "download": "2470861280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1695833": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5546799118317339112",
+                    "size": "4149407881",
+                    "download": "2469515824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7953766",
+                "timeupdated": "1640853530"
+            }
+        }
+    }
+}
