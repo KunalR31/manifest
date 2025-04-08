@@ -1,0 +1,61 @@
+{
+    "appid": "2075050",
+    "type": "Game",
+    "name": "Boom Slingers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28175374",
+    "update_time": "2025-03-28 01:15:40",
+    "depot": {
+        "2075051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5025196893459578926",
+                    "size": "142611131",
+                    "download": "73184560"
+                },
+                "generalbeta": {
+                    "gid": "1503022633968306803",
+                    "size": "167546268",
+                    "download": "87842736"
+                }
+            },
+            "decryptionkey": "334766d52ddf740f3c0115604b6778126549866caada5689e091da27c22b355a"
+        },
+        "2075052": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "59186174627568721",
+                    "size": "226072523",
+                    "download": "94569248"
+                },
+                "generalbeta": {
+                    "gid": "2833470021065543844",
+                    "size": "229045795",
+                    "download": "101669552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17352480",
+                "timeupdated": "1739785037"
+            },
+            "generalbeta": {
+                "buildid": "11180878",
+                "description": "defaultBetasBranch",
+                "timeupdated": "1683738299"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
