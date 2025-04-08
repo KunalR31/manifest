@@ -1,0 +1,99 @@
+{
+    "appid": "728880",
+    "type": "Game",
+    "name": "Overcooked! 2",
+    "schinese_name": "胡闹厨房2",
+    "isfreeapp": "0",
+    "change_number": "27143458",
+    "update_time": "2025-01-24 13:21:35",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "728881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8562236934291228162",
+                    "size": "8506959127",
+                    "download": "6246167488"
+                },
+                "crossplay_branch": {
+                    "gid": "7406067059037132003",
+                    "size": "8527079999",
+                    "download": "6224246400"
+                },
+                "local": {
+                    "gid": "135893071181778328",
+                    "size": "8178941144",
+                    "download": "6012058144"
+                }
+            },
+            "decryptionkey": "6ab9f32746295a38fc0a75db089afc2394e0ced25ca436201027ed360890e5bc"
+        },
+        "728882": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "433550811082520169",
+                    "size": "8707454190",
+                    "download": "6382912672"
+                },
+                "crossplay_branch": {
+                    "gid": "3720706191510551966",
+                    "size": "16591049914",
+                    "download": "8136194560"
+                },
+                "local": {
+                    "gid": "7107321897681464929",
+                    "size": "8374239595",
+                    "download": "6144094704"
+                }
+            },
+            "decryptionkey": "3693ed13535f104258a7425e20b9e1fae3f30ec4d78a09f0b89cd55350991d51"
+        },
+        "728883": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "604448138896078557",
+                    "size": "8566054841",
+                    "download": "6268870384"
+                },
+                "crossplay_branch": {
+                    "gid": "5162844651251226165",
+                    "size": "8507268116",
+                    "download": "6162277136"
+                },
+                "local": {
+                    "gid": "7975654986717649759",
+                    "size": "8235491326",
+                    "download": "6033025712"
+                }
+            },
+            "decryptionkey": "67ac3a681ded025499180d68f3753ce53f4934976c75af86ab9a6287056dcdae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8950364",
+                "timeupdated": "1685545164"
+            },
+            "crossplay_branch": {
+                "buildid": "9649127",
+                "description": "Branch for crossplay with EGS",
+                "timeupdated": "1685545199"
+            },
+            "local": {
+                "buildid": "5226111",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1593379584"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
