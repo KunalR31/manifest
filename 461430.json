@@ -1,0 +1,65 @@
+{
+    "appid": "461430",
+    "type": "Game",
+    "name": "EmergeNYC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27135063",
+    "update_time": "2025-01-24 01:26:56",
+    "depot": {
+        "baselanguages": "english",
+        "461433": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "461431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6407778734734032164",
+                    "size": "41696854330",
+                    "download": "16295757920"
+                },
+                "stageing_branch": {
+                    "gid": "6407778734734032164",
+                    "size": "41696854330",
+                    "download": "16295757920"
+                }
+            },
+            "decryptionkey": "9b4ad54ce22e325f512115c67645f69910d4b4f65cc00abc20819f589aa0354b"
+        },
+        "461434": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4345398524251238476",
+                    "size": "37157216194",
+                    "download": "12514913936"
+                },
+                "stageing_branch": {
+                    "gid": "2058185188228201519",
+                    "size": "35452384779",
+                    "download": "11924555456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14780696",
+                "timeupdated": "1718883722"
+            },
+            "stageing_branch": {
+                "buildid": "13326996",
+                "description": "Prerelease Testing Branch",
+                "timeupdated": "1706722436"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
