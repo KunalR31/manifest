@@ -1,0 +1,72 @@
+{
+    "appid": "986040",
+    "type": "Game",
+    "name": "The Unliving",
+    "schinese_name": "亡灵法师",
+    "isfreeapp": "0",
+    "change_number": "28123887",
+    "update_time": "2025-03-25 15:00:29",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "986042": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8373828370578591565",
+                    "size": "3492586564",
+                    "download": "647962832"
+                },
+                "public-experimental": {
+                    "gid": "5596989553813164204",
+                    "size": "2883362124",
+                    "download": "562827376"
+                }
+            },
+            "decryptionkey": "c67de580a47c343ce52a782656ae33d0fc08cb7a2d014355459b9a446ad78d85"
+        },
+        "2190670": {
+            "dlcappid": "2190670",
+            "manifests": {
+                "public": {
+                    "gid": "1849422970840594217",
+                    "size": "126201397",
+                    "download": "125632384"
+                },
+                "public-experimental": {
+                    "gid": "1849422970840594217",
+                    "size": "126201397",
+                    "download": "125632384"
+                }
+            },
+            "decryptionkey": "aa82c10efa598099db81847a9a786c481440953d3c68e428a0f82c3920e17c7c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12307583",
+                "timeupdated": "1698339620"
+            },
+            "public-experimental": {
+                "buildid": "10717551",
+                "description": "Public Beta 1st Major Update",
+                "timeupdated": "1678541838"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
