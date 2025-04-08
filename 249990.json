@@ -1,0 +1,97 @@
+{
+    "appid": "249990",
+    "type": "Game",
+    "name": "FORCED",
+    "schinese_name": "强制",
+    "isfreeapp": "0",
+    "change_number": "26529002",
+    "update_time": "2024-12-07 00:09:52",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "249991": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4769336477559708659",
+                    "size": "3576734286",
+                    "download": "1495688112"
+                }
+            },
+            "decryptionkey": "3c2138ce0be4d998706a5e6d6cb6090947e3a473b79c53ef444286749fed70b3"
+        },
+        "249992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6124009371040788476",
+                    "size": "3272847023",
+                    "download": "1450648176"
+                }
+            },
+            "decryptionkey": "2cc9a030d9e8e4f1668ca0b8a2c14ef3fcdb44e992fe3976c6bff3f11e20317e"
+        },
+        "249993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8660821867308699162",
+                    "size": "3290931446",
+                    "download": "1467356992"
+                }
+            },
+            "decryptionkey": "ae87c483080acad49eae5daf132ed3ca4fd76203d36f19dd5ace9c7abf7c39ba"
+        },
+        "260880": {
+            "manifests": {
+                "public": {
+                    "gid": "2723511978345689922",
+                    "size": "224098399",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "260880",
+            "decryptionkey": ""
+        },
+        "292220": {
+            "manifests": {
+                "public": {
+                    "gid": "6624307116653942092",
+                    "size": "174812685",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "292220",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "984488"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
