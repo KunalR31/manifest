@@ -1,0 +1,93 @@
+{
+    "appid": "232790",
+    "type": "Game",
+    "name": "Broken Age",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27865728",
+    "update_time": "2025-03-10 14:01:13",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "232791": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4645005794787638081",
+                    "size": "2254984536",
+                    "download": "2136663808"
+                }
+            },
+            "decryptionkey": "b40039c06ec012db45b47553395a4c38b54f39c0922aaeb8d215bbdc46f1d48a"
+        },
+        "232792": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4178903650025207066",
+                    "size": "2263693304",
+                    "download": "2141458848"
+                }
+            },
+            "decryptionkey": "d48f3d10a7dd7c622eca91784bf60ddfaa79a19be4f72c5c3261594ac36634de"
+        },
+        "232793": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "41464986340181531",
+                    "size": "2292866240",
+                    "download": "2142657824"
+                }
+            },
+            "decryptionkey": "2cd01b01ec1bb225b8e660a5176703a8565526151482fa7ddf61cdcfc34b4e08"
+        },
+        "232794": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "448145529503171302",
+                    "size": "2265287231",
+                    "download": "2140702768"
+                }
+            },
+            "decryptionkey": "38c1fca9bd3eec5f9da49c5faf79bb55ec0ad86fd4c9c7122982b15433ec7420"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5229837",
+                "timeupdated": "1593460940"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
