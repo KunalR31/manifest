@@ -1,0 +1,126 @@
+{
+    "appid": "287840",
+    "type": "Game",
+    "name": "TY the Tasmanian Tiger 4",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25636126",
+    "update_time": "2024-10-11 22:51:40",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "287841": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6073423522511857981",
+                    "size": "1689469322",
+                    "download": "1440248432"
+                },
+                "betatest": {
+                    "gid": "4921581192316149707",
+                    "size": "384304260",
+                    "download": "293991136"
+                },
+                "openbeta": {
+                    "gid": "6073423522511857981",
+                    "size": "1689469322",
+                    "download": "1440248432"
+                },
+                "classic": {
+                    "gid": "3908719285513261941",
+                    "size": "383065968",
+                    "download": "293172192"
+                }
+            },
+            "decryptionkey": "0c7a90dc2ecfcc55461a6f488e189a8164d6ac3edf0dafa9de3533aeb4c9d431"
+        },
+        "400721": {
+            "manifests": {
+                "public": {
+                    "gid": "1201303764244456783",
+                    "size": "913934809",
+                    "download": "842186448"
+                },
+                "betatest": {
+                    "gid": "1201303764244456783",
+                    "size": "913934809",
+                    "download": "842186448"
+                },
+                "openbeta": {
+                    "gid": "1201303764244456783",
+                    "size": "913934809",
+                    "download": "842186448"
+                },
+                "classic": {
+                    "gid": "1201303764244456783",
+                    "size": "913934809",
+                    "download": "842186448"
+                }
+            },
+            "dlcappid": "400721",
+            "decryptionkey": ""
+        },
+        "400720": {
+            "manifests": {
+                "public": {
+                    "gid": "2288601763925229178",
+                    "size": "94201595",
+                    "download": "95373264"
+                },
+                "betatest": {
+                    "gid": "2288601763925229178",
+                    "size": "94201595",
+                    "download": "95373264"
+                },
+                "openbeta": {
+                    "gid": "2288601763925229178",
+                    "size": "94201595",
+                    "download": "95373264"
+                },
+                "classic": {
+                    "gid": "2288601763925229178",
+                    "size": "94201595",
+                    "download": "95373264"
+                }
+            },
+            "dlcappid": "400720",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13297263",
+                "timeupdated": "1718673619"
+            },
+            "betatest": {
+                "buildid": "864333",
+                "description": "Publicly available beta testing of fixes"
+            },
+            "openbeta": {
+                "buildid": "13297263",
+                "description": "New open beta for the Bush Rescue Returns launch",
+                "timeupdated": "1707175487"
+            },
+            "classic": {
+                "buildid": "812413",
+                "description": "The original Steam release",
+                "timeupdated": "1718409912"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
