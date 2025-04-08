@@ -1,0 +1,81 @@
+{
+    "appid": "2148970",
+    "type": "Game",
+    "name": "Skygard Arena",
+    "schinese_name": "天境争锋 Skygard Arena",
+    "isfreeapp": "0",
+    "change_number": "28191695",
+    "update_time": "2025-03-28 21:54:14",
+    "depot": {
+        "baselanguages": "english",
+        "2148974": {
+            "manifests": {}
+        },
+        "2148971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1190129903659596324",
+                    "size": "13968408863",
+                    "download": "2812009664"
+                },
+                "offline_demo": {
+                    "gid": "876708269690010181",
+                    "size": "3762512495",
+                    "download": "875099968"
+                }
+            },
+            "decryptionkey": "ff7f26c2ddbabe592698e6a41a008683b2e3722004ed127abc699b2336ed2eb2"
+        },
+        "2148972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5834534937905306330",
+                    "size": "1886424843",
+                    "download": "423379664"
+                },
+                "offline_demo": {
+                    "gid": "5834534937905306330",
+                    "size": "1886424843",
+                    "download": "423379664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2148973": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1431651604908193162",
+                    "size": "2122952698",
+                    "download": "420564544"
+                },
+                "offline_demo": {
+                    "gid": "1431651604908193162",
+                    "size": "2122952698",
+                    "download": "420564544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17634178",
+                "timeupdated": "1741347186"
+            },
+            "offline_demo": {
+                "buildid": "12927587",
+                "description": "Offline demo",
+                "timeupdated": "1702286302"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
