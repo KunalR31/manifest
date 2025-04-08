@@ -1,0 +1,65 @@
+{
+    "appid": "1812450",
+    "type": "Game",
+    "name": "Bellwright",
+    "schinese_name": "颂钟长鸣",
+    "isfreeapp": "0",
+    "change_number": "28346549",
+    "update_time": "2025-04-07 21:35:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1812451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2620526387081695033",
+                    "size": "17135176930",
+                    "download": "15881794608"
+                },
+                "august_update": {
+                    "gid": "7447371077549308270",
+                    "size": "17938347044",
+                    "download": "15691962880"
+                }
+            },
+            "decryptionkey": "287e622ba6bcbad4ca8384750d7928d394c05c2377042af90f4d9eb474cba91a"
+        },
+        "workshopdepot": "1812450",
+        "branches": {
+            "public": {
+                "buildid": "16835542",
+                "timeupdated": "1734969558"
+            },
+            "august_update": {
+                "buildid": "16516789",
+                "description": "August update",
+                "timeupdated": "1732492841"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
