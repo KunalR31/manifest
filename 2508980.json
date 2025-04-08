@@ -1,0 +1,65 @@
+{
+    "appid": "2508980",
+    "type": "Game",
+    "name": "PATHOGEN X",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28262896",
+    "update_time": "2025-04-02 15:18:51",
+    "depot": {
+        "baselanguages": "english,german,french,tchinese,russian,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2508981": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "chinese": {
+                    "gid": "6081879081811366794",
+                    "size": "15382284432",
+                    "download": "14737766576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2508982": {
+            "manifests": {
+                "public": {
+                    "gid": "2295983940826497742",
+                    "size": "15304233197",
+                    "download": "14737760992"
+                },
+                "chinese": {
+                    "gid": "3616064049501444497",
+                    "size": "15328083994",
+                    "download": "14725726352"
+                }
+            },
+            "decryptionkey": "95a74e7c291260d0c939230773fe28e79b583253e8a3688dd295a129c9e27af6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17170573",
+                "timeupdated": "1738154941"
+            },
+            "chinese": {
+                "buildid": "15925409",
+                "description": "中国语文科",
+                "timeupdated": "1728018663"
+            }
+        }
+    }
+}
