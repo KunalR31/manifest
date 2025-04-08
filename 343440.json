@@ -1,0 +1,85 @@
+{
+    "appid": "343440",
+    "type": "Game",
+    "name": "Crash Drive 2",
+    "schinese_name": "疯狂驾驶2",
+    "isfreeapp": "0",
+    "change_number": "27173196",
+    "update_time": "2025-01-27 00:25:46",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "343441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7648752669795963228",
+                    "size": "446063187",
+                    "download": "114429264"
+                },
+                "osx_10_10_5_workaround": {
+                    "gid": "8955783318098508467",
+                    "size": "307868727",
+                    "download": "80936944"
+                }
+            },
+            "decryptionkey": "d01ffa683e1518cb25963ae63a12662c33ed66eab6caed56345d453de088ed42"
+        },
+        "343442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2059182048756171311",
+                    "size": "433832269",
+                    "download": "113212192"
+                },
+                "osx_10_10_5_workaround": {
+                    "gid": "4076286722375072164",
+                    "size": "325012372",
+                    "download": "86185984"
+                }
+            },
+            "decryptionkey": "ca170a5f2b693ce1877ce7defb292579a52652c266bcbd7accd27bf8ed1aa9d8"
+        },
+        "343443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2521938608550164451",
+                    "size": "447646245",
+                    "download": "116330640"
+                },
+                "osx_10_10_5_workaround": {
+                    "gid": "7658105499636030971",
+                    "size": "358016982",
+                    "download": "97307168"
+                }
+            },
+            "decryptionkey": "ed989af2fb0c4ab2650416b706dd20479988a93fee572c99a86f01e1e6016691"
+        },
+        "baselanguages": "english,german,french,italian,schinese,japanese,dutch,swedish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "6211764",
+                "timeupdated": "1612865877"
+            },
+            "osx_10_10_5_workaround": {
+                "buildid": "3829110",
+                "description": "Steamworks.Net has an issue on OSX 10.10.5 crashing the game right at boot. This branch is from before that issue.",
+                "timeupdated": "1562928536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
