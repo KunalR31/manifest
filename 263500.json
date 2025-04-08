@@ -1,0 +1,89 @@
+{
+    "appid": "263500",
+    "type": "Game",
+    "name": "Dragons and Titans",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27115253",
+    "update_time": "2025-01-23 00:27:44",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,spanish,russian,polish,turkish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "263501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4685775972768527072",
+                    "size": "839089523",
+                    "download": "237312016"
+                },
+                "local": {
+                    "gid": "4669026824184274039",
+                    "size": "803525423",
+                    "download": "222829552"
+                }
+            },
+            "decryptionkey": "e4fe4dd9c0d1ab7b50c8e45307ac02e32a149682339ded9a4634edb21132dbe6"
+        },
+        "263502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6346454066329596973",
+                    "size": "851405994",
+                    "download": "230595984"
+                },
+                "local": {
+                    "gid": "7896927275058333488",
+                    "size": "851395206",
+                    "download": "230594272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "263503": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "174321237109821015",
+                    "size": "858153340",
+                    "download": "237960832"
+                },
+                "local": {
+                    "gid": "398350711263003173",
+                    "size": "824241908",
+                    "download": "223914928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1703641",
+                "timeupdated": "1490050368"
+            },
+            "local": {
+                "buildid": "1703623",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1490049620"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
