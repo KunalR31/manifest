@@ -1,0 +1,69 @@
+{
+    "appid": "234940",
+    "type": "Game",
+    "name": "The 39 Steps",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 19:27:10",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "234941": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8131198965819863058",
+                    "size": "2014230971",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "311dccfd4145514ac409c9f2b550fdeb54889f46eb9f2914b095a15fd2253261"
+        },
+        "234942": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5517827369846383732",
+                    "size": "2017284791",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7f4f85befeed9808d2884ff8b20e72cdefaab0864f895c1b9d35ce597aa30b74"
+        },
+        "234943": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1477950580787582725",
+                    "size": "1987009217",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "eb7b8be23153f8242a84e75f78c6616eeb422903372acdb5f2cd6f781dbb815e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "67338"
+            }
+        }
+    }
+}
