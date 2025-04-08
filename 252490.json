@@ -1,0 +1,140 @@
+{
+    "appid": "252490",
+    "type": "Game",
+    "name": "Rust",
+    "schinese_name": "腐蚀",
+    "isfreeapp": "0",
+    "change_number": "28345233",
+    "update_time": "2025-04-07 20:11:12",
+    "depot": {
+        "depotdeltapatches": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "252490",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252494": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "615606453193500700",
+                    "size": "38814571468",
+                    "download": "21779030864"
+                },
+                "last-last-month": {
+                    "gid": "3494012198436129939",
+                    "size": "38216806465",
+                    "download": "21505442352"
+                },
+                "last-month": {
+                    "gid": "8731850155050174114",
+                    "size": "38598297147",
+                    "download": "21660995296"
+                },
+                "test": {
+                    "gid": "1921781596203362890",
+                    "size": "38820684940",
+                    "download": "21782399936"
+                }
+            },
+            "decryptionkey": "5d5f72c0460cb7598666696c1b2f612f22efb43fb87cf4322e596bfec8a231ec"
+        },
+        "252492": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8519985880651263751",
+                    "size": "6064748497",
+                    "download": "2149496864"
+                },
+                "last-last-month": {
+                    "gid": "8411488567255730197",
+                    "size": "5929588735",
+                    "download": "2077930800"
+                },
+                "last-month": {
+                    "gid": "9057316328144875299",
+                    "size": "6037556573",
+                    "download": "2133489408"
+                },
+                "test": {
+                    "gid": "7563099502599742421",
+                    "size": "6064748116",
+                    "download": "2149503456"
+                }
+            },
+            "decryptionkey": "96b750328197855f4311ba6ad6d86e9051866cc6b9a6c851de55cc41b8ad9a24"
+        },
+        "252495": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1294534917462411088",
+                    "size": "889103148",
+                    "download": "478581168"
+                },
+                "last-last-month": {
+                    "gid": "1916884352598295971",
+                    "size": "960252866",
+                    "download": "494843520"
+                },
+                "last-month": {
+                    "gid": "4762302534028068430",
+                    "size": "889223269",
+                    "download": "478696752"
+                },
+                "test": {
+                    "gid": "7706916319218620970",
+                    "size": "889041451",
+                    "download": "478702176"
+                }
+            },
+            "decryptionkey": "728fcdc1c6af4454f3c86e5bc62a75875af5ba790cc8a2623620e216086e034d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17991321",
+                "timeupdated": "1743806411"
+            },
+            "last-last-month": {
+                "buildid": "17528248",
+                "description": "Last last months patch",
+                "timeupdated": "1743700557"
+            },
+            "last-month": {
+                "buildid": "17901495",
+                "description": "Last months patch",
+                "timeupdated": "1743700586"
+            },
+            "test": {
+                "buildid": "17965322",
+                "description": "GPU skinning test",
+                "timeupdated": "1743700467"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
