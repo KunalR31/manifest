@@ -1,0 +1,69 @@
+{
+    "appid": "263760",
+    "type": "Game",
+    "name": "Turbo Dismount",
+    "schinese_name": "车祸英雄",
+    "isfreeapp": "0",
+    "change_number": "27108209",
+    "update_time": "2025-01-22 16:26:51",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "263761": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "999958597041389778",
+                    "size": "444981779",
+                    "download": "162612464"
+                },
+                "openbeta": {
+                    "gid": "999958597041389778",
+                    "size": "444981779",
+                    "download": "162612464"
+                }
+            },
+            "decryptionkey": "8cc9b0f0af9878476d97c7c7e5c62d5af9ef79e3dd41cace2d398b970ddbb617"
+        },
+        "263762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3386235051477497285",
+                    "size": "446439525",
+                    "download": "165073024"
+                },
+                "openbeta": {
+                    "gid": "3386235051477497285",
+                    "size": "446439525",
+                    "download": "165073024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3161504",
+                "timeupdated": "1538054517"
+            },
+            "openbeta": {
+                "buildid": "3161504",
+                "description": "Public beta",
+                "timeupdated": "1538054505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
