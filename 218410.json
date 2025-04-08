@@ -1,0 +1,205 @@
+{
+    "appid": "218410",
+    "type": "Game",
+    "name": "Defender's Quest: Valley of the Forgotten",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 01:15:38",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "218413": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3128733530205491731",
+                    "size": "690665302",
+                    "download": "504551184"
+                },
+                "last_stable": {
+                    "gid": "3496666779670259503",
+                    "size": "681915666",
+                    "download": "500669216"
+                },
+                "linux32": {
+                    "gid": "4518000812201037762",
+                    "size": "682553725",
+                    "download": "472276512"
+                },
+                "test_cloud": {
+                    "gid": "7504071962807389326",
+                    "size": "564181054",
+                    "download": "458425312"
+                },
+                "test_public": {
+                    "gid": "3128733530205491731",
+                    "size": "690665302",
+                    "download": "504551184"
+                }
+            },
+            "decryptionkey": "f942eb1bc8f5a7bc12a61985631fa242a931f2872b7fc5a430b19d082dd56dbd"
+        },
+        "218412": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2957070478045851384",
+                    "size": "734400937",
+                    "download": "474333312"
+                },
+                "last_stable": {
+                    "gid": "5938702634363561574",
+                    "size": "725345155",
+                    "download": "470475840"
+                },
+                "linux32": {
+                    "gid": "2902446790152314272",
+                    "size": "569852890",
+                    "download": "439822704"
+                },
+                "test_cloud": {
+                    "gid": "8061370099613791281",
+                    "size": "573078840",
+                    "download": "436081792"
+                },
+                "test_public": {
+                    "gid": "2957070478045851384",
+                    "size": "734400937",
+                    "download": "474333312"
+                }
+            },
+            "decryptionkey": "57df9cb9b2222ef39d2e25dbd2a0d9a47b85001740b72d891f6ad7b6ba931d22"
+        },
+        "218411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8515016514636887677",
+                    "size": "650445403",
+                    "download": "469294304"
+                },
+                "last_stable": {
+                    "gid": "782590263815301109",
+                    "size": "643234494",
+                    "download": "465560352"
+                },
+                "linux32": {
+                    "gid": "4249922916931970356",
+                    "size": "548029883",
+                    "download": "434079744"
+                },
+                "test_cloud": {
+                    "gid": "4750498872598005824",
+                    "size": "548615160",
+                    "download": "434126032"
+                },
+                "test_public": {
+                    "gid": "8515016514636887677",
+                    "size": "650445403",
+                    "download": "469294304"
+                }
+            },
+            "decryptionkey": "c721d668945117da974fa08551d0bf94205e42602b4ffb6a1c64c87e784cd268"
+        },
+        "218415": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3375054805839431650",
+                    "size": "445120698",
+                    "download": "323793296"
+                },
+                "last_stable": {
+                    "gid": "3968520045901587120",
+                    "size": "438143026",
+                    "download": "320145840"
+                },
+                "linux32": {
+                    "gid": "1890025818414287470",
+                    "size": "343870872",
+                    "download": "266257488"
+                },
+                "test_cloud": {
+                    "gid": "2499195806549958248",
+                    "size": "344456143",
+                    "download": "266303472"
+                },
+                "test_public": {
+                    "gid": "3375054805839431650",
+                    "size": "445120698",
+                    "download": "323793296"
+                }
+            },
+            "decryptionkey": "563404cdf5a6c8c34976aed9fb7d6a23f0b55870739801c1ae63d696e7e3f06b"
+        },
+        "218414": {
+            "manifests": {
+                "public": {
+                    "gid": "5332168374605769787",
+                    "size": "55476955",
+                    "download": "49445840"
+                },
+                "last_stable": {
+                    "gid": "5332168374605769787",
+                    "size": "55476955",
+                    "download": "49445840"
+                },
+                "linux32": {
+                    "gid": "5332168374605769787",
+                    "size": "55476955",
+                    "download": "49445840"
+                },
+                "test_cloud": {
+                    "gid": "5332168374605769787",
+                    "size": "55476955",
+                    "download": "49445840"
+                },
+                "test_public": {
+                    "gid": "5332168374605769787",
+                    "size": "55476955",
+                    "download": "49445840"
+                }
+            },
+            "decryptionkey": "a5818e75cf7f10bce55aa01a7a3eea7891f082c77f5fd3400a44c54be3e9b779"
+        },
+        "workshopdepot": "218410",
+        "branches": {
+            "public": {
+                "buildid": "2827262",
+                "timeupdated": "1527900002"
+            },
+            "last_stable": {
+                "buildid": "2529293",
+                "description": "Last stable version",
+                "timeupdated": "1527557968"
+            },
+            "linux32": {
+                "buildid": "1474579",
+                "timeupdated": "1480965552"
+            },
+            "test_cloud": {
+                "buildid": "1521763",
+                "description": "Testing steam cloud (no password)",
+                "timeupdated": "1481818759"
+            },
+            "test_public": {
+                "buildid": "2827262",
+                "description": "Public testing branch (no password)",
+                "timeupdated": "1527891671"
+            }
+        },
+        "workshopdepotdecryptionkey": "ae3d9556297037c402a16e614c32390f95de4f449324dc53dfe900a67a29d349"
+    }
+}
