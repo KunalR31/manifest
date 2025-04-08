@@ -1,0 +1,77 @@
+{
+    "appid": "2125130",
+    "type": "Demo",
+    "name": "Havendock Demo",
+    "schinese_name": "海港物语 Havendock Demo",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:14",
+    "depot": {
+        "2125131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2164778717408856373",
+                    "size": "869534693",
+                    "download": "261896816"
+                },
+                "experimental": {
+                    "gid": "8171671295711845561",
+                    "size": "998440787",
+                    "download": "290085488"
+                }
+            },
+            "decryptionkey": "44f68057c06ad71307624b25e17e91faccbba2bc6f3c0624fde794d20542c115"
+        },
+        "2125132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "303473571100150458",
+                    "size": "732073171",
+                    "download": "228430224"
+                },
+                "experimental": {
+                    "gid": "303473571100150458",
+                    "size": "732073171",
+                    "download": "228430224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2125133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5438474783892466491",
+                    "size": "793688292",
+                    "download": "245489088"
+                },
+                "experimental": {
+                    "gid": "5438474783892466491",
+                    "size": "793688292",
+                    "download": "245489088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12533229",
+                "timeupdated": "1698248089"
+            },
+            "experimental": {
+                "buildid": "13810397",
+                "description": "Windows experimental builds",
+                "timeupdated": "1711026546"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
