@@ -1,0 +1,191 @@
+{
+    "appid": "582890",
+    "type": "Game",
+    "name": "Estranged: The Departure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26863676",
+    "update_time": "2025-01-05 05:19:04",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,dutch,finnish,czech,turkish,bulgarian,vietnamese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "582893": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3692481242105603023",
+                    "size": "8501272850",
+                    "download": "3983887696"
+                },
+                "gi-tech-demo": {
+                    "gid": "528261460340387732",
+                    "size": "3175080515",
+                    "download": "1468648208"
+                },
+                "development": {
+                    "gid": "3692481242105603023",
+                    "size": "8501272850",
+                    "download": "3983887696"
+                },
+                "previous": {
+                    "gid": "4590130683215570361",
+                    "size": "8501146552",
+                    "download": "3983858928"
+                },
+                "staging": {
+                    "gid": "3692481242105603023",
+                    "size": "8501272850",
+                    "download": "3983887696"
+                }
+            },
+            "decryptionkey": "391a184ca090a95626d90d2917fd56056cf7a2cf4142bb6d1f1bc2070a286a57"
+        },
+        "582894": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1168995734299520670",
+                    "size": "8467283278",
+                    "download": "3975517376"
+                },
+                "gi-tech-demo": {
+                    "gid": "5487353870901075553",
+                    "size": "8468850288",
+                    "download": "3975563376"
+                },
+                "development": {
+                    "gid": "1168995734299520670",
+                    "size": "8467283278",
+                    "download": "3975517376"
+                },
+                "previous": {
+                    "gid": "5487353870901075553",
+                    "size": "8468850288",
+                    "download": "3975563376"
+                },
+                "staging": {
+                    "gid": "1168995734299520670",
+                    "size": "8467283278",
+                    "download": "3975517376"
+                }
+            },
+            "decryptionkey": "80b197e580c472c225b3fd81c19471168e7e4a3447cbec96d7575a42d8a58efe"
+        },
+        "582892": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4266980965869397158",
+                    "size": "9289255762",
+                    "download": "4576998896"
+                },
+                "gi-tech-demo": {
+                    "gid": "3451830973540849376",
+                    "size": "9289383447",
+                    "download": "4581139424"
+                },
+                "development": {
+                    "gid": "4266980965869397158",
+                    "size": "9289255762",
+                    "download": "4576998896"
+                },
+                "previous": {
+                    "gid": "4266980965869397158",
+                    "size": "9289255762",
+                    "download": "4576998896"
+                },
+                "staging": {
+                    "gid": "4266980965869397158",
+                    "size": "9289255762",
+                    "download": "4576998896"
+                }
+            },
+            "decryptionkey": "9a02eb2e209c7b20840fe471c72808b0a02a57cb5443482e3b4e83c137da66fa"
+        },
+        "582891": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9084716634838870569",
+                    "size": "10226446467",
+                    "download": "4580141936"
+                },
+                "gi-tech-demo": {
+                    "gid": "4994617383747807925",
+                    "size": "10226426511",
+                    "download": "4580257184"
+                },
+                "development": {
+                    "gid": "9084716634838870569",
+                    "size": "10226446467",
+                    "download": "4580141936"
+                },
+                "previous": {
+                    "gid": "2482767198692630754",
+                    "size": "10226323042",
+                    "download": "4580200928"
+                },
+                "staging": {
+                    "gid": "9084716634838870569",
+                    "size": "10226446467",
+                    "download": "4580141936"
+                }
+            },
+            "decryptionkey": "3b2dd3d9b422d91f7d87582fadb2896d90c7449d35cdcfe7985cbe72fe75e3d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16907837",
+                "timeupdated": "1736025540"
+            },
+            "gi-tech-demo": {
+                "buildid": "6781523",
+                "description": "Tech demo with dynamic global illumination",
+                "timeupdated": "1622326745"
+            },
+            "development": {
+                "buildid": "16907837",
+                "description": "Frequent, possibly broken builds",
+                "timeupdated": "1736025371"
+            },
+            "previous": {
+                "buildid": "11972173",
+                "description": "Temporary branch for the previous live build",
+                "timeupdated": "1729119623"
+            },
+            "staging": {
+                "buildid": "16907837",
+                "description": "Infrequent, pre-release builds",
+                "timeupdated": "1736025473"
+            }
+        }
+    }
+}
