@@ -1,0 +1,120 @@
+{
+    "appid": "283000",
+    "type": "Game",
+    "name": "Strategic War in Europe",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28230275",
+    "update_time": "2025-03-31 22:49:57",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "283001": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2134773560611443321",
+                    "size": "250970055",
+                    "download": "41477807667"
+                },
+                "beta": {
+                    "gid": "7252377736192988300",
+                    "size": "247433323",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6ddaafb0209a45b053364e036e6456e89725de20a885570b41f2897d1dffc695"
+        },
+        "283002": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "320582145386478433",
+                    "size": "299471649",
+                    "download": "52783284943"
+                },
+                "beta": {
+                    "gid": "5944592134724434482",
+                    "size": "299473930",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c9f1a566e7f6f2c00d106664b19fb165d4abef425ff89b2fe7e3d4bf1b1d0b18"
+        },
+        "283003": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8821156805508282742",
+                    "size": "288883246",
+                    "download": "55355225513"
+                },
+                "beta": {
+                    "gid": "2673254790325509864",
+                    "size": "288885527",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "062f34ed5146f408310b1fd1e75e4640c03b70aa9843b3b8b0ad5eb8ce5cf97d"
+        },
+        "283004": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2130961972853196821",
+                    "size": "297821858",
+                    "download": "64859746991"
+                },
+                "beta": {
+                    "gid": "2892407467359617499",
+                    "size": "297824124",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6ba5073f6968ddfd7c0339d18d6fb1816867b240da424d88c9ee939570e01460"
+        },
+        "branches": {
+            "public": {
+                "buildid": "368648"
+            },
+            "beta": {
+                "buildid": "276700",
+                "description": "Developer Test Build"
+            }
+        }
+    }
+}
