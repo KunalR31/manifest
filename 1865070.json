@@ -1,0 +1,71 @@
+{
+    "appid": "1865070",
+    "type": "Demo",
+    "name": "THE GREAT CIRCLE Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28318690",
+    "update_time": "2025-04-05 08:10:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1865071": {
+            "manifests": {
+                "public": {
+                    "gid": "2251535714801911956",
+                    "size": "27397625391",
+                    "download": "27084043152"
+                },
+                "2-beta": {
+                    "gid": "3805470917857296744",
+                    "size": "27391511867",
+                    "download": "27078374336"
+                },
+                "beta-2-previous": {
+                    "gid": "2251535714801911956",
+                    "size": "27397625391",
+                    "download": "27084043152"
+                },
+                "july-10-2023": {
+                    "gid": "2617970147771534445",
+                    "size": "17022757382",
+                    "download": "16753505376"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17917078",
+                "timeupdated": "1743532263"
+            },
+            "2-beta": {
+                "buildid": "17929934",
+                "description": "More polished than alpha branch. *Eventually replaces the default demo.",
+                "timeupdated": "1743713603"
+            },
+            "beta-2-previous": {
+                "buildid": "17917078",
+                "description": "Always the previous version of beta-2.",
+                "timeupdated": "1743713780"
+            },
+            "july-10-2023": {
+                "buildid": "11667250",
+                "description": "Previous default demo build",
+                "timeupdated": "1717136679"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
