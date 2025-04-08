@@ -1,0 +1,58 @@
+{
+    "appid": "2996040",
+    "type": "Game",
+    "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+    "schinese_name": "忍者神龟：破碎命运",
+    "isfreeapp": "0",
+    "change_number": "28343497",
+    "update_time": "2025-04-07 18:14:21",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2996041": {
+            "manifests": {
+                "public": {
+                    "gid": "8439375785393323213",
+                    "size": "3899779797",
+                    "download": "1545670464"
+                },
+                "local": {
+                    "gid": "4337140281606553610",
+                    "size": "121485142",
+                    "download": "19934064"
+                }
+            },
+            "decryptionkey": "e93c99408425422103d746643c24b3bc8c717cd5110c9f0b876225db50cc6671"
+        },
+        "3255900": {
+            "dlcappid": "3255900",
+            "manifests": {
+                "public": {
+                    "gid": "4587529972681717957",
+                    "size": "545320540",
+                    "download": "541521232"
+                }
+            },
+            "decryptionkey": "200f77802a15d4f75f7441e2bb4dbbdbd90e6419e42bd8e66715b12bb0452284"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17857915",
+                "timeupdated": "1742978235"
+            },
+            "local": {
+                "buildid": "15018156",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1720814998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
