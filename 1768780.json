@@ -1,0 +1,78 @@
+{
+    "appid": "1768780",
+    "type": "Game",
+    "name": "Of Blades & Tails",
+    "schinese_name": "剑与狐尾 (Of Blades & Tails)",
+    "isfreeapp": "0",
+    "change_number": "28329598",
+    "update_time": "2025-04-06 13:10:50",
+    "depot": {
+        "1768781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7658440459799653961",
+                    "size": "246905888",
+                    "download": "144303696"
+                },
+                "beta": {
+                    "gid": "3538400588907165271",
+                    "size": "220277584",
+                    "download": "137235904"
+                }
+            },
+            "decryptionkey": "758fa92fb93144ae7d6a9fec2854640b0b61b54587f51e3ba603fea5c2057252"
+        },
+        "1768782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3478586200374573116",
+                    "size": "259114549",
+                    "download": "148189824"
+                },
+                "beta": {
+                    "gid": "7775260021673845060",
+                    "size": "232476709",
+                    "download": "141093616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1768783": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "95313977150892574",
+                    "size": "294725197",
+                    "download": "157327648"
+                },
+                "beta": {
+                    "gid": "3681793952288858246",
+                    "size": "268073636",
+                    "download": "150233232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16875176",
+                "timeupdated": "1735655194"
+            },
+            "beta": {
+                "buildid": "13884599",
+                "description": "Public beta builds",
+                "timeupdated": "1711644329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
