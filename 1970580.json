@@ -1,0 +1,80 @@
+{
+    "appid": "1970580",
+    "type": "Game",
+    "name": "Backpack Hero",
+    "schinese_name": "背包英雄 Backpack Hero",
+    "isfreeapp": "0",
+    "change_number": "28098930",
+    "update_time": "2025-03-24 04:13:43",
+    "depot": {
+        "baselanguages": "english",
+        "1970581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3178627114856544901",
+                    "size": "644939191",
+                    "download": "183321008"
+                },
+                "testingbranch": {
+                    "gid": "23782622070238895",
+                    "size": "522070094",
+                    "download": "163985472"
+                }
+            },
+            "decryptionkey": "7bae37e1619e3eaf89e2689a47977fe767293487db2dc87eeea151deb59b4e2a"
+        },
+        "1970582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "176513439720981009",
+                    "size": "1302766470",
+                    "download": "195898864"
+                },
+                "testingbranch": {
+                    "gid": "6003608923849981988",
+                    "size": "556893845",
+                    "download": "173071680"
+                }
+            },
+            "decryptionkey": "47cefda381bf839c765b093c9d27e09a805d90509379e96950ab2b9baf93bfb4"
+        },
+        "1970583": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8957818974901801959",
+                    "size": "646251679",
+                    "download": "180242784"
+                },
+                "testingbranch": {
+                    "gid": "8269286647378329837",
+                    "size": "516889020",
+                    "download": "160576512"
+                }
+            },
+            "decryptionkey": "6218e47340a54721ed75b10918487fc70956b4005f56d5464f48dacf4ad4ef1d"
+        },
+        "workshopdepot": "1970580",
+        "branches": {
+            "public": {
+                "buildid": "15631088",
+                "timeupdated": "1725815169"
+            },
+            "testingbranch": {
+                "buildid": "16788980",
+                "description": "Testing Branch",
+                "timeupdated": "1734711186"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
