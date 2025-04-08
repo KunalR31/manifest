@@ -1,0 +1,100 @@
+{
+    "appid": "451020",
+    "type": "Game",
+    "name": "Battle Chasers: Nightwar",
+    "schinese_name": "战神：夜袭",
+    "isfreeapp": "0",
+    "change_number": "27149869",
+    "update_time": "2025-01-24 21:29:02",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "451021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3906246654008842494",
+                    "size": "4246753113",
+                    "download": "3701226736"
+                },
+                "linuxtest": {
+                    "gid": "4061047884782465969",
+                    "size": "4268905741",
+                    "download": "3706018736"
+                }
+            },
+            "decryptionkey": "711266748319bcc04361997b2fce047f6476e75e9016452ef08604b818b9d94e"
+        },
+        "451022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8535825738722755900",
+                    "size": "4273344933",
+                    "download": "3710507600"
+                },
+                "linuxtest": {
+                    "gid": "5022776184891233675",
+                    "size": "4275145490",
+                    "download": "3712356976"
+                }
+            },
+            "decryptionkey": "dd40503960997bcd261f48990d1b946bf6d91fecf526dac44120c6e6d0eed712"
+        },
+        "451023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2945580420102513375",
+                    "size": "3771694750",
+                    "download": "3232032416"
+                },
+                "linuxtest": {
+                    "gid": "2945580420102513375",
+                    "size": "3771694750",
+                    "download": "3232032416"
+                }
+            },
+            "decryptionkey": "ac2a6d33baaf55766a3f02e879b1f249d3d0c3d3044dc6c1b89d3a0ce0cc0292"
+        },
+        "712630": {
+            "manifests": {
+                "public": {
+                    "gid": "6181523407357965383",
+                    "size": "1314157189",
+                    "download": "1171995968"
+                },
+                "linuxtest": {
+                    "gid": "6181523407357965383",
+                    "size": "1314157189",
+                    "download": "1171995968"
+                }
+            },
+            "dlcappid": "712630",
+            "decryptionkey": "8b882a343771d06b0fad6ac33ecc498d2bf8146109f7f102c7c394a16e8f9a38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3311243",
+                "timeupdated": "1542309530"
+            },
+            "linuxtest": {
+                "buildid": "2490269",
+                "description": "Expect bugs! Check our forums.",
+                "timeupdated": "1517528236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
