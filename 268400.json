@@ -1,0 +1,47 @@
+{
+    "appid": "268400",
+    "type": "Game",
+    "name": "Panzer Corps",
+    "schinese_name": "装甲军团",
+    "isfreeapp": "0",
+    "change_number": "27160706",
+    "update_time": "2025-01-25 13:24:20",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,russian",
+        "268401": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4130000195175692055",
+                    "size": "1593984534",
+                    "download": "1434413184"
+                }
+            },
+            "decryptionkey": "0818ccaebc82c87d762990717d10826685d3f20dafa15ff11e9f79ea4061e557"
+        },
+        "268402": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4305371500766843253",
+                    "size": "1322276150",
+                    "download": "711929408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2002613",
+                "timeupdated": "1502720437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
