@@ -1,0 +1,75 @@
+{
+    "appid": "1876890",
+    "type": "Game",
+    "name": "Wandering Sword",
+    "schinese_name": "逸剑风云决",
+    "isfreeapp": "0",
+    "change_number": "28244904",
+    "update_time": "2025-04-01 17:08:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese,tchinese",
+        "1876891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1244514508926672872",
+                    "size": "4344409487",
+                    "download": "3834058176"
+                },
+                "log_collection": {
+                    "gid": "1995720218433622844",
+                    "size": "4361094735",
+                    "download": "3849680176"
+                },
+                "opentest": {
+                    "gid": "1244514508926672872",
+                    "size": "4344409487",
+                    "download": "3834058176"
+                }
+            },
+            "decryptionkey": "40985dfc0fbcd23c2b692a036c22fad2ad18d03794b58ea33fd079acbfb53c5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16717047",
+                "timeupdated": "1734424506"
+            },
+            "log_collection": {
+                "buildid": "16520902",
+                "description": "采集log文件",
+                "timeupdated": "1732526713"
+            },
+            "opentest": {
+                "buildid": "16717047",
+                "description": "贴图问题修复测试",
+                "timeupdated": "1733982531"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
