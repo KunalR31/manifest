@@ -1,0 +1,86 @@
+{
+    "appid": "2137650",
+    "type": "Demo",
+    "name": "Spectator Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25353502",
+    "update_time": "2024-09-24 00:19:45",
+    "depot": {
+        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2137651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2652172411747671696",
+                    "size": "668045322",
+                    "download": "506353440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2137652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5061699888909939235",
+                    "size": "676429386",
+                    "download": "508976080"
+                }
+            },
+            "decryptionkey": "82441b8f05bb7be981d214d840affb6100ba21680ee7819503584c5d2d9be052"
+        },
+        "2137653": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1736761882487436563",
+                    "size": "509688294",
+                    "download": "377402896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2137654": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4258869646065925516",
+                    "size": "682894701",
+                    "download": "483271744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9928452",
+                "timeupdated": "1668368227"
+            }
+        }
+    }
+}
