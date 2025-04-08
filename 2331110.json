@@ -1,0 +1,68 @@
+{
+    "appid": "2331110",
+    "type": "Game",
+    "name": "风筝",
+    "schinese_name": "风筝",
+    "isfreeapp": "0",
+    "change_number": "26187731",
+    "update_time": "2024-11-14 14:27:03",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,thai,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2331111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6118843235521269278",
+                    "size": "754637506",
+                    "download": "567738880"
+                },
+                "development": {
+                    "gid": "627702139899987986",
+                    "size": "767629018",
+                    "download": "571425088"
+                }
+            },
+            "decryptionkey": "c6ac7165d43ce2aab20dd01d60831a282393e885f2f30ce374508ca9fd24c32c"
+        },
+        "2331112": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3960394343756645298",
+                    "size": "767575220",
+                    "download": "571431984"
+                },
+                "development": {
+                    "gid": "3960394343756645298",
+                    "size": "767575220",
+                    "download": "571431984"
+                }
+            },
+            "decryptionkey": "618af0e6e96eb5f50f4eaee9711b10ebfe089dfc7c57480421d4dd1565635f30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11808398",
+                "timeupdated": "1690520381"
+            },
+            "development": {
+                "buildid": "11808146",
+                "description": "测试分支",
+                "timeupdated": "1690517304"
+            }
+        }
+    }
+}
