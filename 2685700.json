@@ -1,0 +1,56 @@
+{
+    "appid": "2685700",
+    "type": "Demo",
+    "name": "QANGA Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26656631",
+    "update_time": "2024-12-16 15:13:01",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2685701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3410283592529477239",
+                    "size": "28513689548",
+                    "download": "27278983232"
+                },
+                "predemolive": {
+                    "gid": "3410283592529477239",
+                    "size": "28513689548",
+                    "download": "27278983232"
+                }
+            },
+            "decryptionkey": "c56d582d2535b5f0bd9594d791edae979c70f27a110ee31595049e4a8c4b8b72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15941470",
+                "timeupdated": "1728173728"
+            },
+            "predemolive": {
+                "buildid": "15941470",
+                "description": "Test Demo Before Public",
+                "timeupdated": "1728159314"
+            }
+        }
+    }
+}
