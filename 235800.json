@@ -1,0 +1,144 @@
+{
+    "appid": "235800",
+    "type": "Game",
+    "name": "Audiosurf 2",
+    "schinese_name": "音乐战机2",
+    "isfreeapp": "0",
+    "change_number": "27148049",
+    "update_time": "2025-01-24 19:30:34",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "235801": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7698400006071476537",
+                    "size": "887712623",
+                    "download": "412297968"
+                },
+                "before_videosurf": {
+                    "gid": "4922666921614352030",
+                    "size": "584888565",
+                    "download": "188838032"
+                },
+                "beforejune2018_xp": {
+                    "gid": "6793347548584628337",
+                    "size": "892173782",
+                    "download": "340830672"
+                },
+                "bleedingedge": {
+                    "gid": "7698400006071476537",
+                    "size": "887712623",
+                    "download": "412297968"
+                }
+            },
+            "decryptionkey": "2d50d6aa3194baaf82029539e52dcba19be9cd784457740a156748749860ca8c"
+        },
+        "235802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1375446549250057398",
+                    "size": "1151060733",
+                    "download": "475875104"
+                },
+                "before_videosurf": {
+                    "gid": "6229494410206773533",
+                    "size": "684637644",
+                    "download": "220969568"
+                },
+                "beforejune2018_xp": {
+                    "gid": "5978008778252228002",
+                    "size": "1080047377",
+                    "download": "404639328"
+                },
+                "bleedingedge": {
+                    "gid": "1375446549250057398",
+                    "size": "1151060733",
+                    "download": "475875104"
+                }
+            },
+            "decryptionkey": "3a5ff766dc1b47d716f2be150d7cb296a9c1cc74690cbb3b5d7b9044735e4485"
+        },
+        "235803": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1854926782790283432",
+                    "size": "1109339527",
+                    "download": "498578416"
+                },
+                "before_videosurf": {
+                    "gid": "1418921548075658496",
+                    "size": "749492374",
+                    "download": "238688064"
+                },
+                "beforejune2018_xp": {
+                    "gid": "8575882099131847289",
+                    "size": "1093762327",
+                    "download": "416604512"
+                },
+                "bleedingedge": {
+                    "gid": "1854926782790283432",
+                    "size": "1109339527",
+                    "download": "498578416"
+                }
+            },
+            "decryptionkey": "00df363c99c0bb0618d92340f5d43ecf733390ad15c0ddc82c1d9b453e553351"
+        },
+        "0": {
+            "shareddepottype": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8368530",
+                "timeupdated": "1647380053"
+            },
+            "before_videosurf": {
+                "buildid": "856463",
+                "description": "before videosurf",
+                "timeupdated": "1476813486"
+            },
+            "beforejune2018_xp": {
+                "buildid": "1606626",
+                "timeupdated": "1530121335"
+            },
+            "bleedingedge": {
+                "buildid": "8368530",
+                "description": "help test upcoming updates",
+                "timeupdated": "1647279575"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
