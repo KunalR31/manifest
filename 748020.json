@@ -1,0 +1,60 @@
+{
+    "appid": "748020",
+    "type": "Game",
+    "name": "Terracotta",
+    "schinese_name": "兵马俑",
+    "isfreeapp": "0",
+    "change_number": "26844057",
+    "update_time": "2025-01-03 04:33:27",
+    "depot": {
+        "748021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1214599025435956309",
+                    "size": "12072099996",
+                    "download": "990364592"
+                },
+                "beta": {
+                    "gid": "5607942893200759394",
+                    "size": "12077937852",
+                    "download": "990793024"
+                },
+                "content_recording": {
+                    "gid": "3328918719143750099",
+                    "size": "8261784239",
+                    "download": "662722768"
+                },
+                "demo": {
+                    "gid": "559275120845943573",
+                    "size": "3580504667",
+                    "download": "219488736"
+                }
+            },
+            "decryptionkey": "48995a58a33cf885636eb3b4e86125437df0d5810333194c6262436dd5f52fef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10944135",
+                "timeupdated": "1681745326"
+            },
+            "beta": {
+                "buildid": "12544635",
+                "description": "Branch for beta builds",
+                "timeupdated": "1698353270"
+            },
+            "content_recording": {
+                "buildid": "9351308",
+                "description": "branch for recording videos",
+                "timeupdated": "1660948586"
+            },
+            "demo": {
+                "buildid": "8780219",
+                "description": "branch for demo Steam Fest and others",
+                "timeupdated": "1653064711"
+            }
+        }
+    }
+}
