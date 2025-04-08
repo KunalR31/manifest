@@ -1,0 +1,178 @@
+{
+    "appid": "361040",
+    "type": "Game",
+    "name": "Doom & Destiny Advanced",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27339136",
+    "update_time": "2025-02-06 13:25:56",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,italian",
+        "361041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3006306097694393344",
+                    "size": "178492937",
+                    "download": "173512352"
+                },
+                "2.9.6.2_xna": {
+                    "gid": "5370090857658199947",
+                    "size": "178484225",
+                    "download": "173509984"
+                },
+                "opengl": {
+                    "gid": "2694805238076621625",
+                    "size": "472305149",
+                    "download": "239739072"
+                },
+                "previous_stable": {
+                    "gid": "6485720384633064877",
+                    "size": "176018632",
+                    "download": "171303840"
+                },
+                "previous_stable2": {
+                    "gid": "1297126369139589102",
+                    "size": "176027344",
+                    "download": "171307760"
+                },
+                "public_beta": {
+                    "gid": "3006306097694393344",
+                    "size": "178492937",
+                    "download": "173512352"
+                }
+            },
+            "decryptionkey": "1244dbf2052b2e8719f967b40baaef0df4d6efa37d2073ee671c118f92e2e55f"
+        },
+        "361042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                },
+                "2.9.6.2_xna": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                },
+                "opengl": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                },
+                "previous_stable": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                },
+                "previous_stable2": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                },
+                "public_beta": {
+                    "gid": "1157980461743018650",
+                    "size": "76525768",
+                    "download": "20299648"
+                }
+            },
+            "decryptionkey": "cee3c9025620ecccc2276aa2a2b516c8fd74aa9b4835634db892a1fdd55e1914"
+        },
+        "361043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                },
+                "2.9.6.2_xna": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                },
+                "opengl": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                },
+                "previous_stable": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                },
+                "previous_stable2": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                },
+                "public_beta": {
+                    "gid": "4451214421891909769",
+                    "size": "277144211",
+                    "download": "131960032"
+                }
+            },
+            "decryptionkey": "abaed4d122ebdc3b2611d166d433208ac68dbb326961f82161ca076bfdfc094f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10161115",
+                "timeupdated": "1671277540"
+            },
+            "2.9.6.2_xna": {
+                "buildid": "9999198",
+                "description": "2.9.6.2 xna",
+                "timeupdated": "1671277529"
+            },
+            "opengl": {
+                "buildid": "8308498",
+                "description": "This is a build compatible with the steam deck",
+                "timeupdated": "1646322343"
+            },
+            "previous_stable": {
+                "buildid": "8841096",
+                "description": "The previous known working release",
+                "timeupdated": "1664886841"
+            },
+            "previous_stable2": {
+                "buildid": "7500675",
+                "description": "This is the version that previous stable was before.",
+                "timeupdated": "1664886901"
+            },
+            "public_beta": {
+                "buildid": "10161115",
+                "description": "beta channel",
+                "timeupdated": "1671183123"
+            }
+        }
+    }
+}
