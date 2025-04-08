@@ -1,0 +1,70 @@
+{
+    "appid": "240660",
+    "type": "Game",
+    "name": "RainBlood Chronicles: Mirage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26789456",
+    "update_time": "2024-12-26 23:17:53",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "240661": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5848345492375250553",
+                    "size": "1856154612",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "64be1188f26fdae3d7ae14b97826f62c2ee1532a678ed6ba298f982a78aa155a"
+        },
+        "240662": {
+            "config": {
+                "oslist": "linux",
+                "language": "english"
+            }
+        },
+        "240663": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3020915576121513224",
+                    "size": "1950545147",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3593650827642229682",
+                    "size": "1950545147",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "240664": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "140809"
+            },
+            "local": {
+                "buildid": "140573",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
