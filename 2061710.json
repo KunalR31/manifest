@@ -1,0 +1,73 @@
+{
+    "appid": "2061710",
+    "type": "Game",
+    "name": "DO NOT OPEN",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25998177",
+    "update_time": "2024-11-01 07:10:10",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,portuguese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2061712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2541359931095040845",
+                    "size": "11504048663",
+                    "download": "5242678592"
+                },
+                "testing": {
+                    "gid": "2541359931095040845",
+                    "size": "11504048663",
+                    "download": "5242678592"
+                }
+            },
+            "decryptionkey": "88b7174fd55a09804c86c63081383362abf8ff27e3896e5f6ea8129862c803f7"
+        },
+        "2061711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5677416052714040428",
+                    "size": "11533921766",
+                    "download": "5246499744"
+                },
+                "testing": {
+                    "gid": "5677416052714040428",
+                    "size": "11533921766",
+                    "download": "5246499744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10221297",
+                "timeupdated": "1672171654"
+            },
+            "testing": {
+                "buildid": "10221297",
+                "description": "rama creada para testing",
+                "timeupdated": "1672170822"
+            }
+        }
+    }
+}
