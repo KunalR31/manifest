@@ -1,0 +1,70 @@
+{
+    "appid": "881100",
+    "type": "Game",
+    "name": "Noita",
+    "schinese_name": "女巫",
+    "isfreeapp": "0",
+    "change_number": "28134582",
+    "update_time": "2025-03-26 01:15:50",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "881101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1707227655636660075",
+                    "size": "1639174567",
+                    "download": "1390940496"
+                },
+                "update_20240214": {
+                    "gid": "4378454801227783404",
+                    "size": "1449796874",
+                    "download": "1222559424"
+                },
+                "noitabeta": {
+                    "gid": "2174605066575111303",
+                    "size": "1639174573",
+                    "download": "1390939824"
+                },
+                "update_20240812": {
+                    "gid": "7283186044798058701",
+                    "size": "1639152947",
+                    "download": "1390939952"
+                }
+            },
+            "decryptionkey": "c766a099c7245b97c23cf08b9e88e0460813214fde82ce8cc2b80034ec0d1848"
+        },
+        "workshopdepot": "881100",
+        "branches": {
+            "public": {
+                "buildid": "17130612",
+                "timeupdated": "1737816174"
+            },
+            "update_20240214": {
+                "buildid": "13451050",
+                "description": "Older version of Noita (to help with your old save games)",
+                "timeupdated": "1712588301"
+            },
+            "noitabeta": {
+                "buildid": "17129670",
+                "description": "Beta branch",
+                "timeupdated": "1737803043"
+            },
+            "update_20240812": {
+                "buildid": "15345724",
+                "description": "Older version of Noita (to help with old mods)",
+                "timeupdated": "1737840145"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
