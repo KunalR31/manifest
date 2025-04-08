@@ -1,0 +1,73 @@
+{
+    "appid": "732400",
+    "type": "Game",
+    "name": "PlataGO!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27912034",
+    "update_time": "2025-03-12 21:42:25",
+    "depot": {
+        "workshopdepot": "732400",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,ukrainian",
+        "732401": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1200150580674649976",
+                    "size": "480665097",
+                    "download": "124654096"
+                },
+                "linuxbeta": {
+                    "gid": "8219794945358646274",
+                    "size": "391467176",
+                    "download": "94746624"
+                },
+                "platagostem": {
+                    "gid": "1200150580674649976",
+                    "size": "480665097",
+                    "download": "124654096"
+                }
+            },
+            "decryptionkey": "e907074e48204b0b0ab8aebaf379c1c292057234b54b414702943a4ebed4dc4c"
+        },
+        "732402": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "732403": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "linuxbeta": {
+                    "gid": "2013097089877361434",
+                    "size": "448116593",
+                    "download": "128745632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5474361",
+                "timeupdated": "1598630710"
+            },
+            "linuxbeta": {
+                "buildid": "5753993",
+                "timeupdated": "1603963856"
+            },
+            "platagostem": {
+                "buildid": "5474361",
+                "timeupdated": "1598630698"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
