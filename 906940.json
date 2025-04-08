@@ -1,0 +1,132 @@
+{
+    "appid": "906940",
+    "type": "Tool",
+    "name": "LEAP Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182576",
+    "update_time": "2024-11-14 05:47:03",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "906943": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "584032709261880086",
+                    "size": "1231549754",
+                    "download": "937322096"
+                },
+                "psrelease": {
+                    "gid": "4458629049598242343",
+                    "size": "1166647080",
+                    "download": "873131104"
+                },
+                "publictesting": {
+                    "gid": "6276893868853254119",
+                    "size": "1231542812",
+                    "download": "937323792"
+                },
+                "xbrelease": {
+                    "gid": "4458629049598242343",
+                    "size": "1166647080",
+                    "download": "873131104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "906941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5905479775410374425",
+                    "size": "1372898256",
+                    "download": "1048616832"
+                },
+                "psrelease": {
+                    "gid": "5062813203486389318",
+                    "size": "1305591125",
+                    "download": "982222208"
+                },
+                "publictesting": {
+                    "gid": "3914591618568618962",
+                    "size": "1372895507",
+                    "download": "1048612448"
+                },
+                "xbrelease": {
+                    "gid": "5062813203486389318",
+                    "size": "1305591125",
+                    "download": "982222208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11405738",
+                "timeupdated": "1686065646"
+            },
+            "psrelease": {
+                "buildid": "11100189",
+                "description": "Playstation Release Server",
+                "timeupdated": "1682555560"
+            },
+            "publictesting": {
+                "buildid": "11299116",
+                "description": "Public Test",
+                "timeupdated": "1685020379"
+            },
+            "xbrelease": {
+                "buildid": "11100189",
+                "description": "Xbox Release Server",
+                "timeupdated": "1682555570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
