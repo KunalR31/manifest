@@ -1,0 +1,84 @@
+{
+    "appid": "260230",
+    "type": "Game",
+    "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+    "schinese_name": "勇敢的心：世界大战",
+    "isfreeapp": "0",
+    "change_number": "28139924",
+    "update_time": "2025-03-26 08:02:34",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "260231": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4720306033921821350",
+                    "size": "1233865646",
+                    "download": "1111854032"
+                }
+            },
+            "decryptionkey": "6c41bd4691a0b3d82697e2b41689bb5b94b99f6d250f162227b1cd98bd902c4a"
+        },
+        "260232": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3781811066406191622",
+                    "size": "1233865646",
+                    "download": "1114922496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "406181": {
+            "manifests": {
+                "public": {
+                    "gid": "314289967746074236",
+                    "size": "66502828",
+                    "download": "66760192"
+                }
+            },
+            "depotfromapp": "406180",
+            "decryptionkey": ""
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11421684",
+                "timeupdated": "1686230896"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
