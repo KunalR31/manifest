@@ -1,0 +1,99 @@
+{
+    "appid": "244430",
+    "type": "Game",
+    "name": "realMyst: Masterpiece Edition",
+    "schinese_name": "真神秘岛：杰作版",
+    "isfreeapp": "0",
+    "change_number": "28287280",
+    "update_time": "2025-04-03 19:17:40",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "244431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1062779223119839888",
+                    "size": "2796823289",
+                    "download": "1671302016"
+                },
+                "32-bit": {
+                    "gid": "4427869330009777240",
+                    "size": "2692376839",
+                    "download": "1623154304"
+                },
+                "first-release": {
+                    "gid": "8977884705965300748",
+                    "size": "2280948975",
+                    "download": "0"
+                },
+                "previous-version": {
+                    "gid": "3853233095009828956",
+                    "size": "2738108038",
+                    "download": "1604014032"
+                }
+            },
+            "decryptionkey": "7c164feb0e10bd85f50736a587f2efb6f6228ffa33714917bf72664195f050cb"
+        },
+        "244432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1435169458278412456",
+                    "size": "2765854123",
+                    "download": "1670941888"
+                },
+                "32-bit": {
+                    "gid": "4322366189486899017",
+                    "size": "2677032748",
+                    "download": "1626072752"
+                },
+                "first-release": {
+                    "gid": "8601685805319975245",
+                    "size": "2279934228",
+                    "download": "0"
+                },
+                "previous-version": {
+                    "gid": "5454685381374510922",
+                    "size": "2726377937",
+                    "download": "1608975376"
+                }
+            },
+            "decryptionkey": "55dfbf90fef3343b66a7b95c88d7f39b2fcd176cc81310d79e978233e10c5e7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3136950",
+                "timeupdated": "1537391898"
+            },
+            "32-bit": {
+                "buildid": "497088",
+                "description": "32-bit version",
+                "timeupdated": "1524075761"
+            },
+            "first-release": {
+                "buildid": "201217",
+                "description": "First release (after first patch)",
+                "timeupdated": "1537550591"
+            },
+            "previous-version": {
+                "buildid": "2704943",
+                "description": "Previous version",
+                "timeupdated": "1537391827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
