@@ -1,0 +1,67 @@
+{
+    "appid": "570460",
+    "type": "Game",
+    "name": "Laser League: World Arena",
+    "schinese_name": "镭射联盟：全球竞技",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-22 11:06:57",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "570461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2449172043513666050",
+                    "size": "2744230461",
+                    "download": "2658463504"
+                },
+                "local": {
+                    "gid": "8244457196122136707",
+                    "size": "2629464783",
+                    "download": "1086199152"
+                }
+            },
+            "decryptionkey": "2811c0008214d58e6624621a3e32082da84be9cc52f3a47250d3974dae6eae22"
+        },
+        "770480": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "770480"
+        },
+        "workshopdepot": "570460",
+        "branches": {
+            "public": {
+                "buildid": "8970834",
+                "timeupdated": "1655724740"
+            },
+            "local": {
+                "buildid": "1709932",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1490274033"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
