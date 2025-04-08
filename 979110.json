@@ -1,0 +1,209 @@
+{
+    "appid": "979110",
+    "type": "Game",
+    "name": "Space Haven",
+    "schinese_name": "太空避风港",
+    "isfreeapp": "0",
+    "change_number": "28345627",
+    "update_time": "2025-04-07 20:36:44",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "979111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6326976884375197460",
+                    "size": "252317641",
+                    "download": "223043504"
+                },
+                "alpha_15": {
+                    "gid": "8237737273532301748",
+                    "size": "243024171",
+                    "download": "213861824"
+                },
+                "alpha_16": {
+                    "gid": "5385215226168879203",
+                    "size": "244526526",
+                    "download": "215327152"
+                },
+                "alpha_17": {
+                    "gid": "8644859293393581015",
+                    "size": "246793989",
+                    "download": "217573952"
+                },
+                "alpha_18": {
+                    "gid": "7193103543173005714",
+                    "size": "251459410",
+                    "download": "222212784"
+                },
+                "alpha_19": {
+                    "gid": "6326976884375197460",
+                    "size": "252317641",
+                    "download": "223043504"
+                },
+                "experimental": {
+                    "gid": "6326976884375197460",
+                    "size": "252317641",
+                    "download": "223043504"
+                },
+                "unstable_work_in_progress": {
+                    "gid": "7202733096423907653",
+                    "size": "259889919",
+                    "download": "230612656"
+                }
+            },
+            "decryptionkey": "753e99e967ee48a9e571f9b8d087bf5c16b888de6b5d0382dfe0d6377da80033"
+        },
+        "979112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8277048235780417429",
+                    "size": "253550639",
+                    "download": "222389888"
+                },
+                "alpha_15": {
+                    "gid": "2678764949725245465",
+                    "size": "244331251",
+                    "download": "213215984"
+                },
+                "alpha_16": {
+                    "gid": "8865350568426912954",
+                    "size": "245817246",
+                    "download": "214674944"
+                },
+                "alpha_17": {
+                    "gid": "9047447114442820589",
+                    "size": "248084709",
+                    "download": "216921744"
+                },
+                "alpha_18": {
+                    "gid": "7960879638634429902",
+                    "size": "252692408",
+                    "download": "221559168"
+                },
+                "alpha_19": {
+                    "gid": "8277048235780417429",
+                    "size": "253550639",
+                    "download": "222389888"
+                },
+                "experimental": {
+                    "gid": "8277048235780417429",
+                    "size": "253550639",
+                    "download": "222389888"
+                },
+                "unstable_work_in_progress": {
+                    "gid": "7139414168886062750",
+                    "size": "261122917",
+                    "download": "229959040"
+                }
+            },
+            "decryptionkey": "de481d6749d72fd59dfc99a7ea1e9a9fc186a69268d327b5734abdad5d70ec27"
+        },
+        "979113": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9021416048299260427",
+                    "size": "513618262",
+                    "download": "359092112"
+                },
+                "alpha_15": {
+                    "gid": "723233351767190493",
+                    "size": "504398874",
+                    "download": "349918208"
+                },
+                "alpha_16": {
+                    "gid": "3519795625133890591",
+                    "size": "505884869",
+                    "download": "351377168"
+                },
+                "alpha_17": {
+                    "gid": "4687718346643358460",
+                    "size": "508152332",
+                    "download": "353623968"
+                },
+                "alpha_18": {
+                    "gid": "5819504559349742924",
+                    "size": "512760031",
+                    "download": "358261392"
+                },
+                "alpha_19": {
+                    "gid": "9021416048299260427",
+                    "size": "513618262",
+                    "download": "359092112"
+                },
+                "experimental": {
+                    "gid": "9021416048299260427",
+                    "size": "513618262",
+                    "download": "359092112"
+                },
+                "unstable_work_in_progress": {
+                    "gid": "3906848981878494021",
+                    "size": "521190540",
+                    "download": "366661264"
+                }
+            },
+            "decryptionkey": "ea5660cf4ce78ce15573642c1437a35f7f6644c479fa8b9ad9d8fca51d75b85b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14856109",
+                "timeupdated": "1719481856"
+            },
+            "alpha_15": {
+                "buildid": "9014082",
+                "description": "version 0.15.2",
+                "timeupdated": "1669904855"
+            },
+            "alpha_16": {
+                "buildid": "10127512",
+                "description": "version 0.16.0",
+                "timeupdated": "1684920148"
+            },
+            "alpha_17": {
+                "buildid": "11587857",
+                "description": "version 0.17.5",
+                "timeupdated": "1704707751"
+            },
+            "alpha_18": {
+                "buildid": "13601255",
+                "description": "version 0.18.2",
+                "timeupdated": "1716965220"
+            },
+            "alpha_19": {
+                "buildid": "14856109",
+                "description": "version 0.19.0",
+                "timeupdated": "1734350373"
+            },
+            "experimental": {
+                "buildid": "14856109",
+                "timeupdated": "1719481820"
+            },
+            "unstable_work_in_progress": {
+                "buildid": "18011302",
+                "description": "Some assets might be missing. Crashes are expected!",
+                "timeupdated": "1744029399"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
