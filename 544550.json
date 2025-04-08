@@ -1,0 +1,98 @@
+{
+    "appid": "544550",
+    "type": "Game",
+    "name": "Stationeers",
+    "schinese_name": "空间站工程师",
+    "isfreeapp": "0",
+    "change_number": "28338653",
+    "update_time": "2025-04-07 11:06:13",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "544550",
+        "544551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7482982221869664025",
+                    "size": "3776300856",
+                    "download": "1462182752"
+                },
+                "devbranch": {
+                    "gid": "4652771184080619332",
+                    "size": "4836654779",
+                    "download": "2749919440"
+                },
+                "prerocket": {
+                    "gid": "8536413404518125923",
+                    "size": "5024317404",
+                    "download": "2812867792"
+                },
+                "beta": {
+                    "gid": "3935654225291659817",
+                    "size": "7946647591",
+                    "download": "3258331920"
+                },
+                "preterrain": {
+                    "gid": "6273536449893847180",
+                    "size": "3356795001",
+                    "download": "1333538640"
+                },
+                "previous": {
+                    "gid": "6891143923119335227",
+                    "size": "3346226126",
+                    "download": "1362001664"
+                }
+            },
+            "decryptionkey": "d1ac2705285c1f7d74d0a4ef441cc09605d7d0f5bb588fead0f781d2cffea960"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17747366",
+                "timeupdated": "1742197682"
+            },
+            "devbranch": {
+                "buildid": "11423058",
+                "description": "Password protected Test Branch.",
+                "timeupdated": "1686224196"
+            },
+            "prerocket": {
+                "buildid": "12001137",
+                "description": "Pre-rocket refactor update",
+                "timeupdated": "1702360900"
+            },
+            "beta": {
+                "buildid": "18003736",
+                "description": "beta branch",
+                "timeupdated": "1743968875"
+            },
+            "preterrain": {
+                "buildid": "15643425",
+                "description": "Pre-terrain rework update",
+                "timeupdated": "1726440805"
+            },
+            "previous": {
+                "buildid": "16447164",
+                "description": "version before the latest update",
+                "timeupdated": "1733907804"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
