@@ -1,0 +1,92 @@
+{
+    "appid": "228360",
+    "type": "Game",
+    "name": "Full Throttle Remastered",
+    "schinese_name": "极速天龙：重制版",
+    "isfreeapp": "0",
+    "change_number": "28334995",
+    "update_time": "2025-04-07 03:15:10",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5780415567664732664",
+                    "size": "5474973766",
+                    "download": "4624269008"
+                }
+            },
+            "decryptionkey": "c291c092d3c31ecf5a8a79207b1c287cba54eb31fbab3d29e7d29293d3725e78"
+        },
+        "228362": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4257738348412462769",
+                    "size": "5480983922",
+                    "download": "4624202096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "228363": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5184660395550280898",
+                    "size": "5482370636",
+                    "download": "4624382784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "228364": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9165309591737527700",
+                    "size": "5478771010",
+                    "download": "4626304576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5061015",
+                "timeupdated": "1593037773"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
