@@ -1,0 +1,80 @@
+{
+    "appid": "412770",
+    "type": "Game",
+    "name": "Boogeyman",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25903609",
+    "update_time": "2024-10-26 05:11:07",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "412771": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8409200985947308371",
+                    "size": "756966082",
+                    "download": "665755344"
+                },
+                "boogeyman_1_0": {
+                    "gid": "1556599820200595911",
+                    "size": "527196910",
+                    "download": "405547568"
+                }
+            },
+            "decryptionkey": "205a19274e12fe8a6389df01063157eff26908318fc72e0791f62382f726979b"
+        },
+        "412772": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2436162043708462698",
+                    "size": "624049309",
+                    "download": "501403360"
+                },
+                "boogeyman_1_0": {
+                    "gid": "2436162043708462698",
+                    "size": "624049309",
+                    "download": "501403360"
+                }
+            },
+            "decryptionkey": "d48fb2402b36797d5c8628f5bfd1d4c16c8daabbdb708da518e0d37c1ad966a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1453933",
+                "timeupdated": "1478892744"
+            },
+            "boogeyman_1_0": {
+                "buildid": "1436143",
+                "timeupdated": "1478118258"
+            }
+        }
+    }
+}
