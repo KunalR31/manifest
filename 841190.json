@@ -1,0 +1,68 @@
+{
+    "appid": "841190",
+    "type": "Game",
+    "name": "Honey, I Joined a Cult",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27015547",
+    "update_time": "2025-01-16 07:14:26",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "841191": {
+            "manifests": {
+                "public": {
+                    "gid": "4615888625966432352",
+                    "size": "553601120",
+                    "download": "356120960"
+                },
+                "0.3.043_patch1": {
+                    "gid": "6158187778390386835",
+                    "size": "430348787",
+                    "download": "270858400"
+                },
+                "0.4.069_patch2": {
+                    "gid": "3715095183794351907",
+                    "size": "446225995",
+                    "download": "280311536"
+                }
+            },
+            "decryptionkey": "02bb3c1812922d5278fc25587e0d747005229a268087a7eed26c19fdf169e743"
+        },
+        "2192050": {
+            "dlcappid": "2192050",
+            "manifests": {
+                "public": {
+                    "gid": "1436005183094677601",
+                    "size": "83056284",
+                    "download": "83471696"
+                }
+            },
+            "decryptionkey": "8505f6a502cf7d8b626ffd40e9783c86e74fa0d5309554099ff3838155a30817"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15036488",
+                "timeupdated": "1721049359"
+            },
+            "0.3.043_patch1": {
+                "buildid": "7608349",
+                "description": "Branch for save data prior to Update 1",
+                "timeupdated": "1638529752"
+            },
+            "0.4.069_patch2": {
+                "buildid": "8033182",
+                "description": "Branch for save data prior to Update 2",
+                "timeupdated": "1648671847"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
