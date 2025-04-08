@@ -1,0 +1,76 @@
+{
+    "appid": "2640520",
+    "type": "Game",
+    "name": "Cat Warrior",
+    "schinese_name": "吃喵一剑",
+    "isfreeapp": "0",
+    "change_number": "28191026",
+    "update_time": "2025-03-28 21:16:42",
+    "depot": {
+        "2640521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "658624109859078533",
+                    "size": "31113876",
+                    "download": "14799072"
+                },
+                "test": {
+                    "gid": "2868900786144223669",
+                    "size": "31112323",
+                    "download": "14794592"
+                }
+            },
+            "decryptionkey": "bc79330e57e3b0e6daebae93bf24a46ca3715585c58e0d34328385cd32ac5567"
+        },
+        "2640522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1475515765965544097",
+                    "size": "73201042",
+                    "download": "26240320"
+                },
+                "test": {
+                    "gid": "2505039755625846743",
+                    "size": "73064970",
+                    "download": "26177824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2640523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8946942350025027454",
+                    "size": "81494597",
+                    "download": "28076352"
+                },
+                "test": {
+                    "gid": "3884497967755188569",
+                    "size": "81493680",
+                    "download": "28074752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14828840",
+                "timeupdated": "1719304216"
+            },
+            "test": {
+                "buildid": "13588189",
+                "description": "测试分支",
+                "timeupdated": "1709124245"
+            }
+        }
+    }
+}
