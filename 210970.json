@@ -1,0 +1,82 @@
+{
+    "appid": "210970",
+    "type": "Game",
+    "name": "The Witness",
+    "schinese_name": "见证者",
+    "isfreeapp": "0",
+    "change_number": "27541702",
+    "update_time": "2025-02-19 04:17:23",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,hungarian,arabic,brazilian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "210971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8672314139535162042",
+                    "size": "4152670256",
+                    "download": "3607530400"
+                },
+                "future": {
+                    "gid": "8672314139535162042",
+                    "size": "4152670256",
+                    "download": "3607530400"
+                },
+                "macos_old": {
+                    "gid": "8672314139535162042",
+                    "size": "4152670256",
+                    "download": "3607530400"
+                }
+            },
+            "decryptionkey": "2e55c8ba9200080a092bb03dc13648364723b13f154c00a569624e4df1717964"
+        },
+        "210972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "640006414617329475",
+                    "size": "4149306276",
+                    "download": "3590587440"
+                },
+                "future": {
+                    "gid": "6977096928067530714",
+                    "size": "4149883080",
+                    "download": "3590557616"
+                },
+                "macos_old": {
+                    "gid": "756662265307371524",
+                    "size": "4142414073",
+                    "download": "3591005072"
+                }
+            },
+            "decryptionkey": "129582a1d0d8904c8f2c4164360eb6de7d619cd4ab6a9dcc972c6dc18dd2472b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11370412",
+                "timeupdated": "1685646498"
+            },
+            "future": {
+                "buildid": "11266061",
+                "timeupdated": "1684441310"
+            },
+            "macos_old": {
+                "buildid": "3801772",
+                "description": "Version before the 2023 changes",
+                "timeupdated": "1684473509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
