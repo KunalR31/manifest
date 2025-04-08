@@ -1,0 +1,60 @@
+{
+    "appid": "585020",
+    "type": "Game",
+    "name": "Big Bia",
+    "schinese_name": "宇宙大拍扁",
+    "isfreeapp": "0",
+    "change_number": "26707672",
+    "update_time": "2024-12-19 13:22:00",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "workshopdepot": "585020",
+        "hasdepotsindlc": "0",
+        "585021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069652957164955546",
+                    "size": "927492136",
+                    "download": "208906224"
+                },
+                "bigbia_classical": {
+                    "gid": "1383645754379261023",
+                    "size": "701965385",
+                    "download": "204681152"
+                }
+            },
+            "decryptionkey": "23176bfe5faaf7051a59dc1d95f405e25eb00a11a91cab88de200ce32561b322"
+        },
+        "2053810": {
+            "dlcappid": "2053810",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "669543403559561283",
+                    "size": "2051",
+                    "download": "1328"
+                }
+            },
+            "decryptionkey": "3b9ba26372919d8eacb68483d7bd4ca7760e8e239ad1aee280dde0923cea8486"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9415380",
+                "timeupdated": "1661857852"
+            },
+            "bigbia_classical": {
+                "buildid": "7278726",
+                "description": "上古版本",
+                "timeupdated": "1654774162"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3e8a5ab34803e8c0ad3613e9fd61670a4c8b41c4644d7c8ff5ec6e1920b17266"
+    }
+}
