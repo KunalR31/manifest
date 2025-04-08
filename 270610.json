@@ -1,0 +1,66 @@
+{
+    "appid": "270610",
+    "type": "Game",
+    "name": "Mage's Initiation: Reign of the Elements",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26918037",
+    "update_time": "2025-01-09 12:09:30",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "270611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7739078006348105975",
+                    "size": "1307480238",
+                    "download": "803228640"
+                }
+            },
+            "decryptionkey": "87809d05fe9260472f3d6d17e6add72ce8c8f0ee768e0be650239454550b5391"
+        },
+        "270612": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7316880498692437355",
+                    "size": "1332757830",
+                    "download": "808637760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "270613": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4142207634896365271",
+                    "size": "1311549476",
+                    "download": "802219616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3579546",
+                "timeupdated": "1550699089"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
