@@ -1,0 +1,76 @@
+{
+    "appid": "201420",
+    "type": "Game",
+    "name": "Toki Tori 2+",
+    "schinese_name": "小鸡快跑2+",
+    "isfreeapp": "0",
+    "change_number": "27107574",
+    "update_time": "2025-01-22 15:25:56",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,polish,dutch,brazilian,bulgarian",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "201421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3669378127293817350",
+                    "size": "622132687",
+                    "download": "520877216"
+                }
+            },
+            "decryptionkey": "6c01ac49aa83ab040a5e16584a683792ddc45eb9b0b7cd8ec6bbb40f5698b604"
+        },
+        "201422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7240427626966774593",
+                    "size": "631604781",
+                    "download": "513186976"
+                }
+            },
+            "decryptionkey": "a32df11acae46a083a3da987cdbdaa845014396841348d7c387d6a95adc8ce0b"
+        },
+        "201423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8484050616341744552",
+                    "size": "642263796",
+                    "download": "515466848"
+                }
+            },
+            "decryptionkey": "5c738e9360adab338c439d1e8b8f40a5cfa41e811142752bd6be95ea53c34228"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5360257",
+                "timeupdated": "1596297307"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
