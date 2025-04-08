@@ -1,0 +1,62 @@
+{
+    "appid": "513",
+    "type": "Tool",
+    "name": "Left 4 Dead Authoring Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26685919",
+    "update_time": "2024-12-18 08:52:00",
+    "depot": {
+        "overridescddb": "1",
+        "504": {
+            "systemdefined": "1",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "503": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "502": {
+            "systemdefined": "1",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "501": {
+            "systemdefined": "1",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "513": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1546113798549845220",
+                    "size": "276454864",
+                    "download": "58286816"
+                },
+                "beta": {
+                    "gid": "1546113798549845220",
+                    "size": "276454864",
+                    "download": "58286816"
+                }
+            },
+            "decryptionkey": "8c6b159dcd3e292b986cca9da6e7b0e18ee9e1012363be7bfc10372ccf5211ce"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "14697764",
+                "timeupdated": "1718236255"
+            },
+            "beta": {
+                "buildid": "14697764",
+                "timeupdated": "1718235036"
+            }
+        }
+    }
+}
