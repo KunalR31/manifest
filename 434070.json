@@ -1,0 +1,81 @@
+{
+    "appid": "434070",
+    "type": "Game",
+    "name": "Plight of the Zombie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 08:17:54",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "434071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5218708872082485592",
+                    "size": "320434627",
+                    "download": "51516640"
+                },
+                "beta": {
+                    "gid": "8943905611478318002",
+                    "size": "354421963",
+                    "download": "60755280"
+                }
+            },
+            "decryptionkey": "57507cb62ebfb0291586cf45934dbf1510dcc3af7c43171e45d18880a03127ea"
+        },
+        "434072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8528339480247961134",
+                    "size": "330654592",
+                    "download": "54004992"
+                },
+                "beta": {
+                    "gid": "8528339480247961134",
+                    "size": "330654592",
+                    "download": "54004992"
+                }
+            },
+            "decryptionkey": "8463b3afe191dbd68605fd27a23942924fb414a02f03d966d6bc61b618121768"
+        },
+        "434073": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "626688318093392949",
+                    "size": "329296462",
+                    "download": "53647872"
+                },
+                "beta": {
+                    "gid": "626688318093392949",
+                    "size": "329296462",
+                    "download": "53647872"
+                }
+            },
+            "decryptionkey": "8a14c8f644734abb9cb0ec78127bf14af4448969487f7ff6f3339f097b225246"
+        },
+        "branches": {
+            "public": {
+                "buildid": "981899"
+            },
+            "beta": {
+                "buildid": "2883673",
+                "timeupdated": "1529601293"
+            }
+        }
+    }
+}
