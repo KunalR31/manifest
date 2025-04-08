@@ -1,0 +1,64 @@
+{
+    "appid": "312150",
+    "type": "Game",
+    "name": "Wild Warfare",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26355480",
+    "update_time": "2024-12-05 03:35:16",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "312151": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5028406162528788947",
+                    "size": "430747475",
+                    "download": "167348656"
+                },
+                "beta": {
+                    "gid": "5028406162528788947",
+                    "size": "430747475",
+                    "download": "167348656"
+                }
+            },
+            "decryptionkey": "22b9c874ef54a8839ffa8fb1a8f921673781c44a1b64eb855ddb6a0a3c1a0024"
+        },
+        "312152": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6644061231008039855",
+                    "size": "436179503",
+                    "download": "153405968"
+                },
+                "beta": {
+                    "gid": "6644061231008039855",
+                    "size": "436179503",
+                    "download": "153405968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "525050"
+            },
+            "beta": {
+                "buildid": "525050"
+            }
+        }
+    }
+}
