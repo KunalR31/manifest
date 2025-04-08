@@ -1,0 +1,72 @@
+{
+    "appid": "567680",
+    "type": "Game",
+    "name": "The Pasture",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26822817",
+    "update_time": "2024-12-31 11:39:52",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "567681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5178599327659246308",
+                    "size": "1083322736",
+                    "download": "375559712"
+                }
+            },
+            "decryptionkey": "fb014dc2574be359450cb3d2dacacbc6eff9f8b3c6cad4463287aad23bb23b8b"
+        },
+        "567682": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6456593076951530934",
+                    "size": "1224086191",
+                    "download": "425673600"
+                }
+            },
+            "decryptionkey": "e72d8e5565440655410c1faa3cea7ee4ab5f48ebe1e615e5170a8a893e917237"
+        },
+        "567683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "694376317316767547",
+                    "size": "1371577604",
+                    "download": "389891680"
+                }
+            },
+            "decryptionkey": "d86739225a36d0e1b9b45e0534633bc32ca75e6210b48e49b286f25b84c79e64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1600570",
+                "timeupdated": "1485855775"
+            }
+        }
+    }
+}
