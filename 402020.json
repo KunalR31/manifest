@@ -1,0 +1,72 @@
+{
+    "appid": "402020",
+    "type": "Game",
+    "name": "The Park",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27108209",
+    "update_time": "2025-01-22 16:26:59",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "402023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5214124320357050391",
+                    "size": "4867214119",
+                    "download": "4408915632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "402022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8728106607268964275",
+                    "size": "4380987682",
+                    "download": "4169179840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "402021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "857691224104973317",
+                    "size": "2875878083",
+                    "download": "2796214752"
+                }
+            },
+            "decryptionkey": "965b7740342886093003e1806ddb24128695974f0c0b2621e5d6adfc6c458cc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4308694",
+                "timeupdated": "1571734153"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
