@@ -1,0 +1,77 @@
+{
+    "appid": "1077510",
+    "type": "Game",
+    "name": "Breaking Box",
+    "schinese_name": "盒裂变",
+    "isfreeapp": "0",
+    "change_number": "27483611",
+    "update_time": "2025-02-15 00:59:55",
+    "depot": {
+        "workshopdepot": "1077510",
+        "baselanguages": "english,schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1077511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4389673653027371960",
+                    "size": "2756046555",
+                    "download": "1407897840"
+                },
+                "local": {
+                    "gid": "2005399949289018158",
+                    "size": "2758394962",
+                    "download": "1408532240"
+                }
+            },
+            "decryptionkey": "5364d8412f46e4b965cf1d1eae1466693cec55825fba39437ffa9a2d9ad9061a"
+        },
+        "1077512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3987740278989149917",
+                    "size": "2740819721",
+                    "download": "1393702496"
+                },
+                "local": {
+                    "gid": "3987740278989149917",
+                    "size": "2740819721",
+                    "download": "1393702496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12332626",
+                "timeupdated": "1696234357"
+            },
+            "local": {
+                "buildid": "12748014",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1700468657"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9997d656c0cd97f2483101a6afba7b56d0b31cec9289029cf89b432ccdd83989"
+    }
+}
