@@ -1,0 +1,142 @@
+{
+    "appid": "262830",
+    "type": "Game",
+    "name": "Crimsonland",
+    "schinese_name": "血腥大地",
+    "isfreeapp": "0",
+    "change_number": "25569855",
+    "update_time": "2024-10-07 23:07:02",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "262832": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8423493318097968866",
+                    "size": "113698541",
+                    "download": "85788960"
+                },
+                "last_32bit_build": {
+                    "gid": "7662100334033623469",
+                    "size": "112249865",
+                    "download": "88094976"
+                },
+                "macos_old": {
+                    "gid": "7662100334033623469",
+                    "size": "112249865",
+                    "download": "88094976"
+                },
+                "update_beta": {
+                    "gid": "2647462915394722787",
+                    "size": "111388319",
+                    "download": "85851200"
+                }
+            },
+            "decryptionkey": "e287e0e84de7f8ae2989c3e2f5a2d6a320934a51d61d0653fb19d6d9da02efd5"
+        },
+        "262831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5318254292612917484",
+                    "size": "80485167",
+                    "download": "56896384"
+                },
+                "last_32bit_build": {
+                    "gid": "5318254292612917484",
+                    "size": "80485167",
+                    "download": "56896384"
+                },
+                "macos_old": {
+                    "gid": "5318254292612917484",
+                    "size": "80485167",
+                    "download": "56896384"
+                },
+                "update_beta": {
+                    "gid": "5318254292612917484",
+                    "size": "80485167",
+                    "download": "56896384"
+                }
+            },
+            "decryptionkey": "2ee7fcbd0166fc095ee1e68caa1c0681b4ccd9fd21471c2af424209ae8a03e85"
+        },
+        "262833": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8495016242481692177",
+                    "size": "147124250",
+                    "download": "130971232"
+                },
+                "last_32bit_build": {
+                    "gid": "8495016242481692177",
+                    "size": "147124250",
+                    "download": "130971232"
+                },
+                "macos_old": {
+                    "gid": "5868646651128600253",
+                    "size": "129625965",
+                    "download": "115697360"
+                },
+                "update_beta": {
+                    "gid": "8495016242481692177",
+                    "size": "147124250",
+                    "download": "130971232"
+                }
+            },
+            "decryptionkey": "f1afaa12367e2c5cc1d97cc7bf5ca8fb95f36f5c5cb77f3a59df3f326a169769"
+        },
+        "workshopdepot": "262830",
+        "baselanguages": "english,german,schinese,russian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "9959747",
+                "timeupdated": "1669037307"
+            },
+            "last_32bit_build": {
+                "buildid": "6175522",
+                "description": "The last build that works with 32-bit processors. New builds are 64-bit only.",
+                "timeupdated": "1668429135"
+            },
+            "macos_old": {
+                "buildid": "3886718",
+                "description": "Old macOS build",
+                "timeupdated": "1611661899"
+            },
+            "update_beta": {
+                "buildid": "10800890",
+                "description": "New version beta test",
+                "timeupdated": "1679122690"
+            }
+        },
+        "workshopdepotdecryptionkey": "e3dabf178ccd33a9b7158e2a9338467e14eaa49724a7f729da56c0e6d2d85248"
+    }
+}
