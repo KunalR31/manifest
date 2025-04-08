@@ -1,0 +1,47 @@
+{
+    "appid": "227940",
+    "type": "Game",
+    "name": "Heroes & Generals",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:34",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227941": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7132343017114093386",
+                    "size": "5978378071",
+                    "download": "5429505968"
+                },
+                "local": {
+                    "gid": "3627195162089704642",
+                    "size": "715273",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f6d8fa9d552fda55851a00d183cd4587f841c49b093d2cfc59fe9bb1c299d121"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11117035",
+                "timeupdated": "1683019109"
+            },
+            "local": {
+                "buildid": "48575",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
