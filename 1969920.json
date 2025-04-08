@@ -1,0 +1,51 @@
+{
+    "appid": "1969920",
+    "type": "Game",
+    "name": "Tomb Explorer VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27976471",
+    "update_time": "2025-03-16 06:57:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1969921": {
+            "manifests": {
+                "public": {
+                    "gid": "4297979500292763127",
+                    "size": "24822266888",
+                    "download": "24743495584"
+                },
+                "beta": {
+                    "gid": "4297979500292763127",
+                    "size": "24822266888",
+                    "download": "24743495584"
+                }
+            },
+            "decryptionkey": "fab6ed41c008bd0014a16e04b9622d5f4804e37b9c2a3b8039896748665276fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17182720",
+                "timeupdated": "1738463294"
+            },
+            "beta": {
+                "buildid": "17182720",
+                "description": "testing steamvr bindings",
+                "timeupdated": "1738232383"
+            }
+        }
+    }
+}
