@@ -1,0 +1,57 @@
+{
+    "appid": "458830",
+    "type": "Game",
+    "name": "Snooker Nation Championship",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27114230",
+    "update_time": "2025-01-22 23:26:18",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "458831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3729842211242638228",
+                    "size": "1038858193",
+                    "download": "958313648"
+                },
+                "previousrelease": {
+                    "gid": "6236380049450784602",
+                    "size": "1737728507",
+                    "download": "1646589872"
+                }
+            },
+            "decryptionkey": "cc52e65385ceb4906122f108a0cba6d7f61948feed78c64291cf975eba1356d5"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "3818909",
+                "timeupdated": "1560433773"
+            },
+            "previousrelease": {
+                "buildid": "1114199",
+                "description": "Previous Released Version",
+                "timeupdated": "1556895133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
