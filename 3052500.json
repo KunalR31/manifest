@@ -1,0 +1,54 @@
+{
+    "appid": "3052500",
+    "type": "Game",
+    "name": "ColdRidge",
+    "schinese_name": "寒山之外（ColdRidge）",
+    "isfreeapp": "0",
+    "change_number": "28321132",
+    "update_time": "2025-04-05 14:17:09",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3052501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7384623474900550041",
+                    "size": "648107253",
+                    "download": "354311312"
+                }
+            },
+            "decryptionkey": "0d39bf1cd067bc92ba4c2520be5d90aaa6ae9570141f067d008ef3b4ad2422f7"
+        },
+        "3052502": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6159802290172451735",
+                    "size": "645588036",
+                    "download": "353917296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "16526166",
+                "timeupdated": "1732552023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
