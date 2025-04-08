@@ -1,0 +1,58 @@
+{
+    "appid": "3182520",
+    "type": "Demo",
+    "name": "Into the Dead: Our Darkest Days Demo",
+    "schinese_name": "勇闯死人谷：暗黑之日 试玩版",
+    "isfreeapp": "0",
+    "change_number": "27527749",
+    "update_time": "2025-02-18 12:27:25",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,brazilian",
+        "3182521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4768395798858974655",
+                    "size": "4727568068",
+                    "download": "4025343536"
+                },
+                "local": {
+                    "gid": "8855563775104013513",
+                    "size": "4955632201",
+                    "download": "4091415904"
+                }
+            },
+            "decryptionkey": "bbcdd7dd8a1f93e6f822402a8fba707bc89ae3f6fb67b77217c44ddb64541349"
+        },
+        "3182522": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "632724364391133756",
+                    "size": "6146749692",
+                    "download": "4422952432"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17398034",
+                "timeupdated": "1739995280"
+            },
+            "local": {
+                "buildid": "17428540",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1739999451"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
