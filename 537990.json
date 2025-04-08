@@ -1,0 +1,62 @@
+{
+    "appid": "537990",
+    "type": "Game",
+    "name": "Heroine Anthem Zero",
+    "schinese_name": "圣女之歌零",
+    "isfreeapp": "0",
+    "change_number": "26570979",
+    "update_time": "2024-12-10 15:41:02",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "537991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4431156569490841423",
+                    "size": "3719365499",
+                    "download": "1157270624"
+                },
+                "fixredshell": {
+                    "gid": "6897380789450320123",
+                    "size": "3617427720",
+                    "download": "1128957120"
+                }
+            },
+            "decryptionkey": "774ee05d0b1c40c22921b3766f49d1a171db712d92fb35379ce54d1394f4d406"
+        },
+        "537992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2435637599710761397",
+                    "size": "3778760478",
+                    "download": "1179468096"
+                },
+                "fixredshell": {
+                    "gid": "8970975845230085615",
+                    "size": "3662399515",
+                    "download": "1143970032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2914242",
+                "timeupdated": "1530686063"
+            },
+            "fixredshell": {
+                "buildid": "1943474",
+                "timeupdated": "1499423035"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
