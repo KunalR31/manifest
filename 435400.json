@@ -1,0 +1,78 @@
+{
+    "appid": "435400",
+    "type": "Game",
+    "name": "Hidden Folks",
+    "schinese_name": "隐藏的人",
+    "isfreeapp": "0",
+    "change_number": "27111606",
+    "update_time": "2025-01-22 20:26:55",
+    "depot": {
+        "435401": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7450806869216931773",
+                    "size": "321921608",
+                    "download": "80820288"
+                },
+                "bugfixes": {
+                    "gid": "7450806869216931773",
+                    "size": "321921608",
+                    "download": "80820288"
+                }
+            },
+            "decryptionkey": "a7ccbe00ddde51f9a2dc9774ecd5a52ad5eaa51eec7080a2a828ada4069b36c3"
+        },
+        "435402": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3091919743656504470",
+                    "size": "266630239",
+                    "download": "70945456"
+                },
+                "bugfixes": {
+                    "gid": "3091919743656504470",
+                    "size": "266630239",
+                    "download": "70945456"
+                }
+            },
+            "decryptionkey": "fed12eb73cc580086d1a70c6408b0e174084178584e9c751adead9abc5a49f14"
+        },
+        "435403": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2773718167717225906",
+                    "size": "262903229",
+                    "download": "68673264"
+                },
+                "bugfixes": {
+                    "gid": "2773718167717225906",
+                    "size": "262903229",
+                    "download": "68673264"
+                }
+            },
+            "decryptionkey": "e06d345a10ff3ab4531cfba49a8e10881ef1e4922c1489e405297739201ca5d2"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "5129249",
+                "timeupdated": "1591421347"
+            },
+            "bugfixes": {
+                "buildid": "5129249",
+                "description": "See if bugs persist",
+                "timeupdated": "1591421050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
