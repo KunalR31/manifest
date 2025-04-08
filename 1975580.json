@@ -1,0 +1,68 @@
+{
+    "appid": "1975580",
+    "type": "Game",
+    "name": "Wild Woods",
+    "schinese_name": "喵门镖局 - Wild Woods",
+    "isfreeapp": "0",
+    "change_number": "28308612",
+    "update_time": "2025-04-04 20:49:02",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1975581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7752790255092153834",
+                    "size": "1281998276",
+                    "download": "926134560"
+                },
+                "fallback": {
+                    "gid": "2363681021855544769",
+                    "size": "1370539658",
+                    "download": "955330368"
+                }
+            },
+            "decryptionkey": "fec9e2c7c0e862b3d9ba1e206ec959822e7b9df92d97baa5661f3ea091a61b4f"
+        },
+        "3311820": {
+            "dlcappid": "3311820",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7336263642254190389",
+                    "size": "0",
+                    "download": "0"
+                },
+                "fallback": {
+                    "gid": "7336263642254190389",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "be93993211fe89782eb1ad7a4d746318d3477690d6c903de8d5c8a6b75cf1725"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17512793",
+                "timeupdated": "1740671765"
+            },
+            "fallback": {
+                "buildid": "17065919",
+                "description": "If an update causes errors, you can use this branch to revert to the previous version",
+                "timeupdated": "1740669808"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
