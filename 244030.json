@@ -1,0 +1,89 @@
+{
+    "appid": "244030",
+    "type": "Game",
+    "name": "Take On Mars",
+    "schinese_name": "火星探索",
+    "isfreeapp": "0",
+    "change_number": "27144127",
+    "update_time": "2025-01-24 14:24:54",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "244031": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4005295699728819634",
+                    "size": "6835879461",
+                    "download": "5742933408"
+                },
+                "community_translations": {
+                    "gid": "8086505352833008237",
+                    "size": "4195775837",
+                    "download": "3252196048"
+                },
+                "legacy": {
+                    "gid": "3302264983027076110",
+                    "size": "3967878906",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "74ffea748254b02c4d1769e29f57e05c590edbea1430b2d69ba07230ef326893"
+        },
+        "244032": {
+            "manifests": {
+                "public": {
+                    "gid": "2725292454202534287",
+                    "size": "5253144",
+                    "download": "921456"
+                },
+                "community_translations": {
+                    "gid": "2725292454202534287",
+                    "size": "5253144",
+                    "download": "921456"
+                }
+            },
+            "decryptionkey": "a084fe4f40e22aabade51336e4aaef889d52b4021d3441768f70680a4c7ae30f"
+        },
+        "244033": {
+            "manifests": {
+                "public": {
+                    "gid": "1887551400044585651",
+                    "size": "269",
+                    "download": "304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "244030",
+        "branches": {
+            "public": {
+                "buildid": "2273099",
+                "timeupdated": "1510761789"
+            },
+            "community_translations": {
+                "buildid": "682676",
+                "description": "Branch for testing community translations"
+            },
+            "legacy": {
+                "buildid": "300433",
+                "description": "Old build with old save support"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f6076a7201286560a5d7400747a333f103112d6c85dd4338740f172070761b5e"
+    }
+}
