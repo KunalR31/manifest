@@ -1,0 +1,79 @@
+{
+    "appid": "382420",
+    "type": "Game",
+    "name": "E.T. Armies",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 05:36:16",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "382421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4604129479672873436",
+                    "size": "3264891883",
+                    "download": "2736817664"
+                },
+                "local": {
+                    "gid": "4230107734263182263",
+                    "size": "3406513419",
+                    "download": "2875531728"
+                }
+            },
+            "decryptionkey": "48a46f2f4c352046f071e4dc9f05fb679a53c171185a021f13f585b9d6d7eb6c"
+        },
+        "382422": {
+            "manifests": {
+                "public": {
+                    "gid": "524183605843784008",
+                    "size": "113182478",
+                    "download": "95333680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1025570"
+            },
+            "local": {
+                "buildid": "679519",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
