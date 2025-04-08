@@ -1,0 +1,108 @@
+{
+    "appid": "2346410",
+    "type": "Game",
+    "name": "Border Pioneer",
+    "schinese_name": "边境开拓者",
+    "isfreeapp": "0",
+    "change_number": "28307986",
+    "update_time": "2025-04-04 20:10:19",
+    "depot": {
+        "baselanguages": "",
+        "workshopdepot": "2346410",
+        "2346411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5472966203045164052",
+                    "size": "488753801",
+                    "download": "260816432"
+                },
+                "macos-universal-test": {
+                    "gid": "8516521781901950876",
+                    "size": "484212424",
+                    "download": "258693104"
+                },
+                "windows7compatibility": {
+                    "gid": "8686825993308402797",
+                    "size": "435380337",
+                    "download": "248029040"
+                },
+                "windows11test": {
+                    "gid": "1707597401784288178",
+                    "size": "498267430",
+                    "download": "264178848"
+                },
+                "macos-arm64": {
+                    "gid": "1806980543329621642",
+                    "size": "484159278",
+                    "download": "258688064"
+                }
+            },
+            "decryptionkey": "d7c9d01b64ae87808d13677c8bcf87ec9c65923a7145864d396a3f5023069fad"
+        },
+        "2346412": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7870123106126803138",
+                    "size": "469720334",
+                    "download": "255625440"
+                },
+                "macos-universal-test": {
+                    "gid": "3831159385195202037",
+                    "size": "661270262",
+                    "download": "310518464"
+                },
+                "windows7compatibility": {
+                    "gid": "5015957073761543182",
+                    "size": "422241444",
+                    "download": "241380832"
+                },
+                "windows11test": {
+                    "gid": "4678404962682863767",
+                    "size": "656624534",
+                    "download": "307374864"
+                },
+                "macos-arm64": {
+                    "gid": "3628025037913234794",
+                    "size": "465401038",
+                    "download": "247650272"
+                }
+            },
+            "decryptionkey": "ebe8752fee2158c9d8e60668c78b9788c8f6f3ddc530f5cb3df579ead78edd7f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17900350",
+                "timeupdated": "1743176952"
+            },
+            "macos-universal-test": {
+                "buildid": "17900359",
+                "description": "MacOS-universal-TEST",
+                "timeupdated": "1743176902"
+            },
+            "windows7compatibility": {
+                "buildid": "17900361",
+                "description": "WIN7旧版本",
+                "timeupdated": "1743176911"
+            },
+            "windows11test": {
+                "buildid": "17900369",
+                "description": "WIN11测试版",
+                "timeupdated": "1743176932"
+            },
+            "macos-arm64": {
+                "buildid": "17900368",
+                "description": "MacOS-arm64",
+                "timeupdated": "1743176922"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "34b380a379a3fd70bdb1e44b0c68336c9d7e492bde9c2ea5d5c828c48b9b1e7e"
+    }
+}
