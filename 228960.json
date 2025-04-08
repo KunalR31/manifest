@@ -1,0 +1,100 @@
+{
+    "appid": "228960",
+    "type": "Game",
+    "name": "Skulls of the Shogun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27170750",
+    "update_time": "2025-01-26 18:20:02",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228961": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8230862686002551789",
+                    "size": "387219036",
+                    "download": "354268000"
+                },
+                "linux32": {
+                    "gid": "8230862686002551789",
+                    "size": "387219036",
+                    "download": "354268000"
+                }
+            },
+            "decryptionkey": "400ee5291dfc34dc89ada07ef3683417798aa1b4b8a09c6623f46f8d30c14f93"
+        },
+        "228962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1500759631516264869",
+                    "size": "767958741",
+                    "download": "581383264"
+                },
+                "linux32": {
+                    "gid": "3260761225360295218",
+                    "size": "775886178",
+                    "download": "583254624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "228963": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6988946315235443708",
+                    "size": "780429620",
+                    "download": "584314928"
+                },
+                "linux32": {
+                    "gid": "2644636410513944651",
+                    "size": "765394571",
+                    "download": "580738656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10098244",
+                "timeupdated": "1670427171"
+            },
+            "linux32": {
+                "buildid": "4239489",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609453928"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
