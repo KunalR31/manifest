@@ -1,0 +1,84 @@
+{
+    "appid": "272330",
+    "type": "Game",
+    "name": "Shadow Blade: Reload",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26899094",
+    "update_time": "2025-01-08 06:12:04",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "272331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "803046887210967057",
+                    "size": "4487730417",
+                    "download": "1459739824"
+                }
+            },
+            "decryptionkey": "5bef8862a9c22bab9ca56c52fecbdf8bffd9be8515e8add0ce07f31b7d555d30"
+        },
+        "272332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6684012055891066074",
+                    "size": "4180752155",
+                    "download": "1137699296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "272333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "558778245274002359",
+                    "size": "4173223662",
+                    "download": "1127716896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "354270": {
+            "manifests": {
+                "public": {
+                    "gid": "426482349294713598",
+                    "size": "217828910",
+                    "download": "182750528"
+                }
+            },
+            "dlcappid": "354270",
+            "decryptionkey": "909c9ed9b1a33d2ed7adafeede93ec7e9ad92eb654e2ee64249be8717ed9d0e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4729667",
+                "timeupdated": "1582982433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
