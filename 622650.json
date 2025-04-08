@@ -1,0 +1,98 @@
+{
+    "appid": "622650",
+    "type": "Game",
+    "name": "Bendy and the Ink Machine",
+    "schinese_name": "班迪与油印机",
+    "isfreeapp": "0",
+    "change_number": "28116513",
+    "update_time": "2025-03-25 04:14:59",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "622651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3839364653133507972",
+                    "size": "3348017800",
+                    "download": "1049426688"
+                },
+                "release-1.5": {
+                    "gid": "3657537186137230940",
+                    "size": "3355712505",
+                    "download": "1006336656"
+                }
+            },
+            "decryptionkey": "525bb062dc2acf46744d4fbd02044d28bad4f3266fe3c8e42bd6fdd1d2030e97"
+        },
+        "622652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1235752666285185366",
+                    "size": "3349822457",
+                    "download": "1004302656"
+                },
+                "release-1.5": {
+                    "gid": "1235752666285185366",
+                    "size": "3349822457",
+                    "download": "1004302656"
+                }
+            },
+            "decryptionkey": "ff3dc383c775b96130d7be30d5b3a0b9d28a8a761f48663a342206e48f58ff0c"
+        },
+        "622653": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8875080210494677398",
+                    "size": "3555658312",
+                    "download": "1098471104"
+                },
+                "release-1.5": {
+                    "gid": "8875080210494677398",
+                    "size": "3555658312",
+                    "download": "1098471104"
+                }
+            },
+            "decryptionkey": "32f8523448cd804dbdb79f690000a9a39ec66e90f2b4b8db6dee433092a4abf4"
+        },
+        "622654": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "779084498159863616",
+                    "size": "3431045521",
+                    "download": "1041651248"
+                },
+                "release-1.5": {
+                    "gid": "779084498159863616",
+                    "size": "3431045521",
+                    "download": "1041651248"
+                }
+            },
+            "decryptionkey": "b05fea5e1e495e4c071fee38d3d800ab0c2bc123fbfc9609da2bf49f614ac42e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16175655",
+                "timeupdated": "1729833542"
+            },
+            "release-1.5": {
+                "buildid": "3248927",
+                "description": "Original Release of 1.5 PC Mac Linux",
+                "timeupdated": "1722198635"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
