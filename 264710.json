@@ -1,0 +1,86 @@
+{
+    "appid": "264710",
+    "type": "Game",
+    "name": "Subnautica",
+    "schinese_name": "深海迷航",
+    "isfreeapp": "0",
+    "change_number": "27296735",
+    "update_time": "2025-02-04 05:32:32",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "264711": {
+            "systemdefined": "1"
+        },
+        "264712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3638894940716012854",
+                    "size": "7060646067",
+                    "download": "3162724592"
+                },
+                "legacy": {
+                    "gid": "455616957047142657",
+                    "size": "7930209677",
+                    "download": "3350974544"
+                },
+                "experimental": {
+                    "gid": "7514556286074562519",
+                    "size": "7038149320",
+                    "download": "3163094240"
+                }
+            },
+            "decryptionkey": "d764b2a41e9bdbf338f04948309614ea6f8d462073a610940aaf10cbfc35aa85"
+        },
+        "264713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6406809907156750445",
+                    "size": "7046442197",
+                    "download": "3160757184"
+                },
+                "legacy": {
+                    "gid": "1538624857288096496",
+                    "size": "7917719925",
+                    "download": "3344267728"
+                },
+                "experimental": {
+                    "gid": "7807491088269633897",
+                    "size": "7023961732",
+                    "download": "3161055696"
+                }
+            },
+            "decryptionkey": "6da396b527d2b570a039778566cef5c1e94ba486fefa835553a1831e40353dec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10676206",
+                "timeupdated": "1678212158"
+            },
+            "legacy": {
+                "buildid": "7819049",
+                "description": "Public legacy builds",
+                "timeupdated": "1665048644"
+            },
+            "experimental": {
+                "buildid": "14886878",
+                "description": "Automatic daily updates. Lots of bugs!",
+                "timeupdated": "1719757201"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
