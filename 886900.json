@@ -1,0 +1,83 @@
+{
+    "appid": "886900",
+    "type": "Game",
+    "name": "Chef",
+    "schinese_name": "大厨 Chef",
+    "isfreeapp": "0",
+    "change_number": "27002103",
+    "update_time": "2025-01-15 14:14:48",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "886901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2589549608025367789",
+                    "size": "5946268208",
+                    "download": "1909450656"
+                },
+                "1.10": {
+                    "gid": "1870788470011362514",
+                    "size": "5425248205",
+                    "download": "1728818768"
+                },
+                "betapatch": {
+                    "gid": "2162764475649687144",
+                    "size": "5939490230",
+                    "download": "1904971424"
+                },
+                "stable": {
+                    "gid": "5979576183313993311",
+                    "size": "5704509598",
+                    "download": "1807660544"
+                }
+            },
+            "decryptionkey": "0b6fd34defc26d8d74d5460729a95fda85ceb98c8aef21176b1c5f6ed97df757"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14583597",
+                "timeupdated": "1717410187"
+            },
+            "1.10": {
+                "buildid": "7509071",
+                "description": "Old stable branch",
+                "timeupdated": "1650014806"
+            },
+            "betapatch": {
+                "buildid": "11306742",
+                "timeupdated": "1684933188"
+            },
+            "stable": {
+                "buildid": "9273950",
+                "description": "Stable version",
+                "timeupdated": "1684308846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
