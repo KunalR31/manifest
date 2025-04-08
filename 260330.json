@@ -1,0 +1,145 @@
+{
+    "appid": "260330",
+    "type": "Game",
+    "name": "Flockers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28252722",
+    "update_time": "2025-04-02 00:49:58",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "260331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6646864808707847726",
+                    "size": "6211234891",
+                    "download": "3069926099732"
+                },
+                "test_default": {
+                    "gid": "6646864808707847726",
+                    "size": "6211234891",
+                    "download": "3069926099732"
+                }
+            },
+            "decryptionkey": "efd1777e9ebee3cc62df9903d46b384834fe984052b232bc317a6b3e3eac8fe8"
+        },
+        "299370": {
+            "manifests": {
+                "public": {
+                    "gid": "641351185335071066",
+                    "size": "553336630",
+                    "download": "124310714161"
+                },
+                "test_default": {
+                    "gid": "641351185335071066",
+                    "size": "553336630",
+                    "download": "124310714161"
+                }
+            },
+            "dlcappid": "299370",
+            "decryptionkey": ""
+        },
+        "260332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7977220581679826322",
+                    "size": "6774453543",
+                    "download": "3707434564050"
+                },
+                "test_default": {
+                    "gid": "7977220581679826322",
+                    "size": "6774453543",
+                    "download": "3707434564050"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "260333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "153116184505518454",
+                    "size": "6631913539",
+                    "download": "3269026102316"
+                },
+                "test_default": {
+                    "gid": "153116184505518454",
+                    "size": "6631913539",
+                    "download": "3269026102316"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "260334": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1813873287102561360",
+                    "size": "18311440",
+                    "download": "60575583"
+                },
+                "test_default": {
+                    "gid": "1813873287102561360",
+                    "size": "18311440",
+                    "download": "60575583"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "260335": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "149175585497410571",
+                    "size": "15054818",
+                    "download": "881907333"
+                },
+                "test_default": {
+                    "gid": "149175585497410571",
+                    "size": "15054818",
+                    "download": "881907333"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "441292"
+            },
+            "test_default": {
+                "buildid": "441233"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
