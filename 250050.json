@@ -1,0 +1,70 @@
+{
+    "appid": "250050",
+    "type": "Game",
+    "name": "Life Goes On",
+    "schinese_name": "生生不息",
+    "isfreeapp": "0",
+    "change_number": "27143545",
+    "update_time": "2025-01-24 13:28:28",
+    "depot": {
+        "overridescddb": "1",
+        "250051": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4611905621912990897",
+                    "size": "1041006032",
+                    "download": "298236592"
+                },
+                "local": {
+                    "gid": "2402071724443295307",
+                    "size": "332389903",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3d6ebd9af0e8bbd3dc06253dfb4deef826f1998cc6937a16e9e1e086184e4cd2"
+        },
+        "250052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1803971077985757908",
+                    "size": "1083922018",
+                    "download": "307772096"
+                }
+            },
+            "decryptionkey": "7c53c2591c358f27146ce48ee2b2941ba2efa04e81d1d2add16be0ef60ddc5cf"
+        },
+        "250053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3277608353369580985",
+                    "size": "1109495737",
+                    "download": "309436048"
+                }
+            },
+            "decryptionkey": "62be5064a1c635e9e7e26338435f04a5f1e8039020d613662d776242f4c0651a"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "2411426",
+                "timeupdated": "1515046664"
+            },
+            "local": {
+                "buildid": "199663",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
