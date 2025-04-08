@@ -1,0 +1,64 @@
+{
+    "appid": "463980",
+    "type": "Game",
+    "name": "Solitairica",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25655819",
+    "update_time": "2024-10-11 23:33:34",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "463981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4756610065832508410",
+                    "size": "560088992",
+                    "download": "252650864"
+                },
+                "beta": {
+                    "gid": "4756610065832508410",
+                    "size": "560088992",
+                    "download": "252650864"
+                },
+                "lowspec": {
+                    "gid": "4021981738039849068",
+                    "size": "231057348",
+                    "download": "173511696"
+                }
+            },
+            "decryptionkey": "3954e7a9a1ba1fd47cd583b901164192a859ce7dd63360791353b77afc44ab00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6333934",
+                "timeupdated": "1615320879"
+            },
+            "beta": {
+                "buildid": "6333934",
+                "description": "New changes and fixes",
+                "timeupdated": "1614918502"
+            },
+            "lowspec": {
+                "buildid": "5881847",
+                "description": "Old build for those who cannot run the newest version",
+                "timeupdated": "1614883562"
+            }
+        }
+    }
+}
