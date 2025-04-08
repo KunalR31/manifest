@@ -1,0 +1,52 @@
+{
+    "appid": "31280",
+    "type": "Game",
+    "name": "Poker Night at the Inventory",
+    "schinese_name": "怪诞扑克夜",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-31 00:47:46",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "31282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5347193912128709807",
+                    "size": "383447852",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "14c523aebffa358469d9a64519061da5b329ce1621e00ce7c63f1404e85dd6d6"
+        },
+        "31281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5383173937078049497",
+                    "size": "381979956",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b414bf09cabfe31911cdf64204a5568f6f92c0609198169b746b759a547f583b"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "19273"
+            }
+        }
+    }
+}
