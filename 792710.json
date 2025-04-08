@@ -1,0 +1,68 @@
+{
+    "appid": "792710",
+    "type": "Game",
+    "name": "Levelhead",
+    "schinese_name": "崩溃制造",
+    "isfreeapp": "0",
+    "change_number": "27467515",
+    "update_time": "2025-02-14 05:09:18",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "792711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5489247644430468971",
+                    "size": "577193830",
+                    "download": "496167968"
+                },
+                "beta": {
+                    "gid": "670341618968460436",
+                    "size": "577193830",
+                    "download": "496167968"
+                }
+            },
+            "decryptionkey": "b7e78e5bf8315548b49cfb76662927330226c46f2cf89a9099191fa9ff6b7b06"
+        },
+        "792712": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5515212079089920181",
+                    "size": "247381931",
+                    "download": "179281536"
+                },
+                "beta": {
+                    "gid": "5515212079089920181",
+                    "size": "247381931",
+                    "download": "179281536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17357788",
+                "timeupdated": "1739480938"
+            },
+            "beta": {
+                "buildid": "9902348",
+                "description": "Beta - For public testing",
+                "timeupdated": "1668009353"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
