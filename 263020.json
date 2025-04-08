@@ -1,0 +1,77 @@
+{
+    "appid": "263020",
+    "type": "Game",
+    "name": "STARWHAL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 13:49:27",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "263021": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2781022140568307718",
+                    "size": "675183908",
+                    "download": "136455712"
+                }
+            },
+            "decryptionkey": "6db0181ebfd85337eb5b4b91f1b4b8ec04dd8dc41695e8c30e2221b4565f8643"
+        },
+        "263022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3779227514543613065",
+                    "size": "678511672",
+                    "download": "138810016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "356970": {
+            "manifests": {
+                "public": {
+                    "gid": "135403678887249509",
+                    "size": "159449216",
+                    "download": "159685824"
+                }
+            },
+            "dlcappid": "356970",
+            "decryptionkey": ""
+        },
+        "263023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3289353568989290022",
+                    "size": "683736676",
+                    "download": "126865648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "943344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
