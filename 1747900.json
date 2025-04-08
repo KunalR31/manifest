@@ -1,0 +1,62 @@
+{
+    "appid": "1747900",
+    "type": "Game",
+    "name": "Enchanted Blacksmith",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28308090",
+    "update_time": "2025-04-04 20:16:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1747901": {
+            "manifests": {
+                "public": {
+                    "gid": "5463068403891029695",
+                    "size": "1301403995",
+                    "download": "457671792"
+                },
+                "beta": {
+                    "gid": "5463068403891029695",
+                    "size": "1301403995",
+                    "download": "457671792"
+                },
+                "v0.6": {
+                    "gid": "3019840518074636777",
+                    "size": "743114777",
+                    "download": "288712432"
+                }
+            },
+            "decryptionkey": "e480c5808bfe60c0a64a898af95659eabab40c2b8c86cb05fed87747b6d3036b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17384839",
+                "timeupdated": "1741368723"
+            },
+            "beta": {
+                "buildid": "17384839",
+                "description": "Beta branch",
+                "timeupdated": "1739733763"
+            },
+            "v0.6": {
+                "buildid": "13272702",
+                "description": "branch",
+                "timeupdated": "1722457000"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
