@@ -1,0 +1,123 @@
+{
+    "appid": "529840",
+    "type": "Game",
+    "name": "Brawl of Ages",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28311384",
+    "update_time": "2025-04-04 23:16:38",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "529841": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3404847645699076963",
+                    "size": "966883181",
+                    "download": "926855184"
+                },
+                "workshop": {
+                    "gid": "5296025522353332035",
+                    "size": "959979308",
+                    "download": "920704704"
+                }
+            },
+            "decryptionkey": "319a254d45ffcc7c88e1b1bcea4ad7db80790a849cebd78e4c0231b358080ecf"
+        },
+        "529842": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "53676556525964316",
+                    "size": "31008374",
+                    "download": "8954144"
+                },
+                "workshop": {
+                    "gid": "7436955899334355443",
+                    "size": "31008374",
+                    "download": "8953456"
+                }
+            },
+            "decryptionkey": "be21821a56e1de5b06e569b5e7ab5d3a4f3f170dba1674c4d8f4e70f1bf158c1"
+        },
+        "529843": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "529844": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            }
+        },
+        "529845": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8618894014560016490",
+                    "size": "50183635",
+                    "download": "12262272"
+                },
+                "workshop": {
+                    "gid": "771423271190716797",
+                    "size": "50183630",
+                    "download": "12262272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "529846": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4913603633545892548",
+                    "size": "1021995328",
+                    "download": "942555360"
+                },
+                "workshop": {
+                    "gid": "1831277082584191087",
+                    "size": "1015087359",
+                    "download": "936269984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "529840",
+        "branches": {
+            "public": {
+                "buildid": "2148214",
+                "timeupdated": "1506423312"
+            },
+            "workshop": {
+                "buildid": "2110641",
+                "timeupdated": "1505173027"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
