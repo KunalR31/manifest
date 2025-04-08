@@ -1,0 +1,88 @@
+{
+    "appid": "441790",
+    "type": "Game",
+    "name": "Fragmented",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24542537",
+    "update_time": "2024-07-28 11:55:06",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "441791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6579948522732530664",
+                    "size": "7016792363",
+                    "download": "2954855216"
+                },
+                "beta": {
+                    "gid": "6579948522732530664",
+                    "size": "7016792363",
+                    "download": "2954855216"
+                },
+                "server": {
+                    "gid": "6579948522732530664",
+                    "size": "7016792363",
+                    "download": "2954855216"
+                }
+            },
+            "decryptionkey": "2ae04b7404006664ffe32b9c2cdab5d00a0125780a48d6f9d443f030462658df"
+        },
+        "441792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7416347117003782658",
+                    "size": "9304152772",
+                    "download": "3134531632"
+                },
+                "beta": {
+                    "gid": "7416347117003782658",
+                    "size": "9304152772",
+                    "download": "3134531632"
+                },
+                "server": {
+                    "gid": "7416347117003782658",
+                    "size": "9304152772",
+                    "download": "3134531632"
+                }
+            },
+            "decryptionkey": "d720df6d4ff0092c46a9ffef4f56afc2ce062b65815e5e05719d52293cbaa58b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9732214",
+                "timeupdated": "1667141205"
+            },
+            "beta": {
+                "buildid": "9732214",
+                "description": "Private Test Branch",
+                "timeupdated": "1667141180"
+            },
+            "server": {
+                "buildid": "9732214",
+                "timeupdated": "1667141196"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
