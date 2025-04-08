@@ -1,0 +1,84 @@
+{
+    "appid": "241760",
+    "type": "Game",
+    "name": "Kill to Collect",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 02:16:30",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "241761": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6409360736693069203",
+                    "size": "1527294905",
+                    "download": "605157520"
+                }
+            },
+            "decryptionkey": "061d3b0848011a2edd82db31166a2046226602c9bc280b76d24adab522438ec5"
+        },
+        "241762": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8164279568650970808",
+                    "size": "1519027233",
+                    "download": "600295072"
+                }
+            },
+            "decryptionkey": "6f79e01f194a5fcd463b9c67bb789f3e0cb72259d63b609a6add4d228340f963"
+        },
+        "457430": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6443265161765681829",
+                    "size": "118774870",
+                    "download": "118514256"
+                }
+            },
+            "dlcappid": "457430",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1889422",
+                "timeupdated": "1497442678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
