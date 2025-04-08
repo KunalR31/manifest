@@ -1,0 +1,78 @@
+{
+    "appid": "904520",
+    "type": "Game",
+    "name": "Red Embrace: Hollywood",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24693965",
+    "update_time": "2024-08-08 08:23:00",
+    "depot": {
+        "904521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4075148326270905158",
+                    "size": "699353143",
+                    "download": "625989648"
+                },
+                "7.5.3": {
+                    "gid": "2653905612123868175",
+                    "size": "757437895",
+                    "download": "644941808"
+                }
+            },
+            "decryptionkey": "8a17ee0a301639e2f69d537308bacd19be22a74ac146427fae8b5b22bea6f92c"
+        },
+        "904522": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2522718471933792494",
+                    "size": "699353143",
+                    "download": "625989648"
+                },
+                "7.5.3": {
+                    "gid": "2522718471933792494",
+                    "size": "699353143",
+                    "download": "625989648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "904523": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5500154079146278973",
+                    "size": "649010758",
+                    "download": "611477696"
+                },
+                "7.5.3": {
+                    "gid": "5500154079146278973",
+                    "size": "649010758",
+                    "download": "611477696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "4284100",
+                "timeupdated": "1571025537"
+            },
+            "7.5.3": {
+                "buildid": "10642658",
+                "description": "renpy update",
+                "timeupdated": "1677461208"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
