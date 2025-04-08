@@ -1,0 +1,112 @@
+{
+    "appid": "280220",
+    "type": "Game",
+    "name": "Creeper World 3: Arc Eternal",
+    "schinese_name": "藤蔓防御基地3：永恒之弧",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 18:36:29",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280221": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3238142238645543936",
+                    "size": "270393232",
+                    "download": "96874688"
+                },
+                "local": {
+                    "gid": "322678895355061753",
+                    "size": "275186696",
+                    "download": "0"
+                },
+                "prenotarized": {
+                    "gid": "3238142238645543936",
+                    "size": "270393232",
+                    "download": "96874688"
+                },
+                "version208": {
+                    "gid": "6174078260072253268",
+                    "size": "275226109",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fb7df66a56f70ba2b2ede78d3ab0081dd9b61103066c8cacc91c084943b70d0b"
+        },
+        "280222": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2930178775448859239",
+                    "size": "309019024",
+                    "download": "107553632"
+                },
+                "prenotarized": {
+                    "gid": "2930178775448859239",
+                    "size": "309019024",
+                    "download": "107553632"
+                },
+                "version208": {
+                    "gid": "1467892704870259774",
+                    "size": "307713986",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "280223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5604121395266471360",
+                    "size": "311125707",
+                    "download": "108148672"
+                },
+                "prenotarized": {
+                    "gid": "2776677807358135552",
+                    "size": "313166709",
+                    "download": "107909584"
+                },
+                "version208": {
+                    "gid": "1881646861100363466",
+                    "size": "277041200",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4260516",
+                "timeupdated": "1570390206"
+            },
+            "local": {
+                "buildid": "200303",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "prenotarized": {
+                "buildid": "943573",
+                "timeupdated": "1570390000"
+            },
+            "version208": {
+                "buildid": "304910"
+            }
+        }
+    }
+}
