@@ -1,0 +1,48 @@
+{
+    "appid": "2875110",
+    "type": "Demo",
+    "name": "Commander Quest Demo",
+    "schinese_name": "牌兵布阵 Demo (Commander Quest Demo)",
+    "isfreeapp": "0",
+    "change_number": "27954502",
+    "update_time": "2025-03-14 19:05:03",
+    "depot": {
+        "baselanguages": "english,koreana",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2875111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6028140563262628611",
+                    "size": "3051363293",
+                    "download": "2494306752"
+                },
+                "beta": {
+                    "gid": "6028140563262628611",
+                    "size": "3051363293",
+                    "download": "2494306752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17723785",
+                "timeupdated": "1741950300"
+            },
+            "beta": {
+                "buildid": "17723785",
+                "description": "beta testing branch",
+                "timeupdated": "1741949645"
+            }
+        }
+    }
+}
