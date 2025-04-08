@@ -1,0 +1,91 @@
+{
+    "appid": "1382330",
+    "type": "Game",
+    "name": "Persona 5 Strikers",
+    "schinese_name": "女神异闻录5 乱战：魅影攻手",
+    "isfreeapp": "0",
+    "change_number": "26991455",
+    "update_time": "2025-01-14 22:51:23",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1382331": {
+            "manifests": {
+                "public": {
+                    "gid": "541657970914493992",
+                    "size": "23009324777",
+                    "download": "22242769936"
+                }
+            },
+            "decryptionkey": "cb4d47b8650bd74db3b51a92cf07ad418d78b96bd67133d2b4b8b2a3d0ba9538"
+        },
+        "1482080": {
+            "dlcappid": "1482080",
+            "manifests": {
+                "public": {
+                    "gid": "213556939175564631",
+                    "size": "16",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "9bc21e38df537abe2d78ec1c094aa47ba429892dde2f0104efc9fd1bc5bc4ea1"
+        },
+        "1482081": {
+            "dlcappid": "1482081",
+            "manifests": {
+                "public": {
+                    "gid": "180884191516666770",
+                    "size": "16",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "5fccb5605a330f3cf82a4a14924f83ea10e8a1264f86cf3dd89284f3e06abb03"
+        },
+        "1382332": {
+            "dlcappid": "1523810",
+            "manifests": {
+                "public": {
+                    "gid": "2454132547387187838",
+                    "size": "3023312824",
+                    "download": "2917114048"
+                },
+                "local": {
+                    "gid": "8799507865306248995",
+                    "size": "3774734432",
+                    "download": "2899294096"
+                }
+            },
+            "decryptionkey": "2d11674fc11c6ebfab0a1ec662058d2ff40d80e4b968698c2e4fb9c2b5973ae7"
+        },
+        "1382333": {
+            "dlcappid": "1523810"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7471875",
+                "timeupdated": "1633570676"
+            },
+            "local": {
+                "buildid": "6208235",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1612808371"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
