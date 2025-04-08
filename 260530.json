@@ -1,0 +1,75 @@
+{
+    "appid": "260530",
+    "type": "Game",
+    "name": "So Many Me",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 21:16:35",
+    "depot": {
+        "overridescddb": "1",
+        "260531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9171462499799631007",
+                    "size": "760566399",
+                    "download": "37672810936"
+                },
+                "beta": {
+                    "gid": "3914678199847540260",
+                    "size": "764845292",
+                    "download": "16530089999"
+                }
+            },
+            "decryptionkey": "eaa47160177c7c2bc3ba6a8e131defbe161b4c74ce5397f49bb21506ea263b06"
+        },
+        "260532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2083811944312282028",
+                    "size": "802574738",
+                    "download": "59075443122"
+                },
+                "beta": {
+                    "gid": "5140107614148063139",
+                    "size": "806853631",
+                    "download": "16734667741"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "260533": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8662053841279682828",
+                    "size": "816769069",
+                    "download": "45883241034"
+                },
+                "beta": {
+                    "gid": "4664129540422879134",
+                    "size": "821047962",
+                    "download": "26460176982"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "341211"
+            },
+            "beta": {
+                "buildid": "345999"
+            }
+        }
+    }
+}
