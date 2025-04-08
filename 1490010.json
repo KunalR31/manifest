@@ -1,0 +1,92 @@
+{
+    "appid": "1490010",
+    "type": "Game",
+    "name": "Phoenix Squadron",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 20:02:08",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "1",
+        "1490011": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "506878958650565391",
+                    "size": "1734646266",
+                    "download": "1472476096"
+                },
+                "closed-beta": {
+                    "gid": "506878958650565391",
+                    "size": "1734646266",
+                    "download": "1472476096"
+                }
+            },
+            "decryptionkey": "5a194563e095c31038fa80a3ed4a9dd3f1c6f611e90edfa74d8b24823fbbeec6"
+        },
+        "1490014": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8124467094026338279",
+                    "size": "2741389419",
+                    "download": "1467190736"
+                },
+                "closed-beta": {
+                    "gid": "8124467094026338279",
+                    "size": "2741389419",
+                    "download": "1467190736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10484040",
+                "timeupdated": "1675639351"
+            },
+            "closed-beta": {
+                "buildid": "10484040",
+                "description": "Closed beta for testing",
+                "timeupdated": "1675649941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
