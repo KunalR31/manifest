@@ -1,0 +1,60 @@
+{
+    "appid": "957790",
+    "type": "Game",
+    "name": "WAR DUST",
+    "schinese_name": "战争灰尘32 vs 32",
+    "isfreeapp": "0",
+    "change_number": "27291399",
+    "update_time": "2025-02-03 23:38:47",
+    "depot": {
+        "957791": {
+            "manifests": {
+                "public": {
+                    "gid": "5312220902343152184",
+                    "size": "16006829918",
+                    "download": "7320618928"
+                },
+                "legacy": {
+                    "gid": "7415296047189346093",
+                    "size": "7037302227",
+                    "download": "3226234672"
+                },
+                "new_connectionmanager": {
+                    "gid": "1245945571292849031",
+                    "size": "12421805691",
+                    "download": "5592919440"
+                },
+                "beta": {
+                    "gid": "976623722562774982",
+                    "size": "15968773740",
+                    "download": "7295712048"
+                }
+            },
+            "decryptionkey": "74b1afe87a1c65aeda390a1fe9b891137c3b0fc957a0f4359e56e3a0bf587047"
+        },
+        "workshopdepot": "957790",
+        "branches": {
+            "public": {
+                "buildid": "13766925",
+                "timeupdated": "1732837422"
+            },
+            "legacy": {
+                "buildid": "7870885",
+                "description": "old version of WarDust",
+                "timeupdated": "1652619932"
+            },
+            "new_connectionmanager": {
+                "buildid": "9731664",
+                "description": "Attempt to fix please wait bug",
+                "timeupdated": "1666013973"
+            },
+            "beta": {
+                "buildid": "17225125",
+                "description": "current main beta for new WarDust",
+                "timeupdated": "1738597121"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "32308d7d98cc6169f415dba29a830c7cd9ea04f87a18b3b9fc29f8b777d58d60"
+    }
+}
