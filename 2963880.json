@@ -1,0 +1,78 @@
+{
+    "appid": "2963880",
+    "type": "Game",
+    "name": "Murky Divers",
+    "schinese_name": "暗黑潜水员",
+    "isfreeapp": "0",
+    "change_number": "28070222",
+    "update_time": "2025-03-21 19:14:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2963881": {
+            "manifests": {
+                "public": {
+                    "gid": "3095958895935525468",
+                    "size": "2275430012",
+                    "download": "1446945760"
+                },
+                "mod-dev": {
+                    "gid": "45668207403793315",
+                    "size": "3725144355",
+                    "download": "1621756768"
+                },
+                "preview": {
+                    "gid": "3095958895935525468",
+                    "size": "2275430012",
+                    "download": "1446945760"
+                }
+            },
+            "decryptionkey": "c3a31b0c3db48e0ad7f0245194d068209eb66d50106821e8b64ab67d3c29a2fa"
+        },
+        "workshopdepot": "2963880",
+        "branches": {
+            "public": {
+                "buildid": "17452594",
+                "timeupdated": "1740132021"
+            },
+            "mod-dev": {
+                "buildid": "17369329",
+                "description": "Branch for mod dev",
+                "timeupdated": "1739550350"
+            },
+            "preview": {
+                "buildid": "17452594",
+                "description": "A beta branch to access the latest features before they're pushed to the official default one.",
+                "timeupdated": "1740131994"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
