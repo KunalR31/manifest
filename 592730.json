@@ -1,0 +1,74 @@
+{
+    "appid": "592730",
+    "type": "Game",
+    "name": "Aerial Destruction",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28132048",
+    "update_time": "2025-03-25 23:09:16",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "592731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5993093234368293134",
+                    "size": "3326643056",
+                    "download": "2506108592"
+                },
+                "realistic_controls": {
+                    "gid": "8733389742856533517",
+                    "size": "2400894709",
+                    "download": "1835308032"
+                }
+            },
+            "decryptionkey": "c3a735120d051a25d9847eac1125e39868f8cc0fea641c9d83d85afec243331f"
+        },
+        "592732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "666225729548122968",
+                    "size": "2742202786",
+                    "download": "2156108976"
+                }
+            },
+            "decryptionkey": "ee283a26ef79049aafdaaede29439e0dc5e0cbff98211bc0ac0fe1c967acbe24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3401396",
+                "timeupdated": "1544895535"
+            },
+            "realistic_controls": {
+                "buildid": "1646538",
+                "description": "Realistic controls",
+                "timeupdated": "1488243918"
+            }
+        }
+    }
+}
