@@ -1,0 +1,79 @@
+{
+    "appid": "252110",
+    "type": "Game",
+    "name": "Lovers in a Dangerous Spacetime",
+    "schinese_name": "危险时空的恋人",
+    "isfreeapp": "0",
+    "change_number": "27126010",
+    "update_time": "2025-01-23 15:26:43",
+    "depot": {
+        "overridescddb": "1",
+        "252111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5870784807379610956",
+                    "size": "865634823",
+                    "download": "232806560"
+                },
+                "previous": {
+                    "gid": "1277799347087236781",
+                    "size": "865663451",
+                    "download": "232817440"
+                }
+            },
+            "decryptionkey": "3a988540053e6b38bd72cbfe5f3d7f492d1816581219bc21014fe069d240f14d"
+        },
+        "252112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8623166569266574389",
+                    "size": "907769850",
+                    "download": "243102608"
+                },
+                "previous": {
+                    "gid": "7427272982161798031",
+                    "size": "874713721",
+                    "download": "234890128"
+                }
+            },
+            "decryptionkey": "fdc17c96027f667ae98e482b4177d3fefceda4aa26e911955f366f76e77771a9"
+        },
+        "252113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1284426131722096258",
+                    "size": "895409454",
+                    "download": "237277712"
+                },
+                "previous": {
+                    "gid": "1043539484566537179",
+                    "size": "895443718",
+                    "download": "237278816"
+                }
+            },
+            "decryptionkey": "cd3e4de229bc2d15de0044ba3469ea1d09eac3447539a63dd6874f219a6fc3de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2728366",
+                "timeupdated": "1524853582"
+            },
+            "previous": {
+                "buildid": "1323178",
+                "description": "Previous version",
+                "timeupdated": "1524851421"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
