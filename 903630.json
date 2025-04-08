@@ -1,0 +1,79 @@
+{
+    "appid": "903630",
+    "type": "Game",
+    "name": "The Last Cube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25590013",
+    "update_time": "2024-10-08 23:21:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "903631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7571009106352241795",
+                    "size": "1980747286",
+                    "download": "1621348720"
+                },
+                "staging": {
+                    "gid": "7571009106352241795",
+                    "size": "1980747286",
+                    "download": "1621348720"
+                }
+            },
+            "decryptionkey": "c3395379ccd28285b01e4c77e1e8cc26fdd5bdaa6c5ee43951f6e75a201c733b"
+        },
+        "903632": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8012526610644736928",
+                    "size": "2274631690",
+                    "download": "1779389616"
+                },
+                "staging": {
+                    "gid": "8012526610644736928",
+                    "size": "2274631690",
+                    "download": "1779389616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "903633": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "258226334094286320",
+                    "size": "2160834727",
+                    "download": "1683322288"
+                },
+                "staging": {
+                    "gid": "258226334094286320",
+                    "size": "2160834727",
+                    "download": "1683322288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8942670",
+                "timeupdated": "1655309653"
+            },
+            "staging": {
+                "buildid": "8942670",
+                "description": "Test game here first before making build live in default branch.",
+                "timeupdated": "1655307461"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
