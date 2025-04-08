@@ -1,0 +1,55 @@
+{
+    "appid": "415920",
+    "type": "Game",
+    "name": "Voidspire Tactics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27980594",
+    "update_time": "2025-03-16 20:21:01",
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "415921": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1685744843851359233",
+                    "size": "1269307616",
+                    "download": "1111808896"
+                },
+                "testbranch": {
+                    "gid": "1685744843851359233",
+                    "size": "1269307616",
+                    "download": "1111808896"
+                }
+            },
+            "decryptionkey": "dcfd27a129783e86b105535b2a736cb30cb3a88d3bc1d2c951ee6e2203e81fcb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4034559",
+                "timeupdated": "1563834721"
+            },
+            "testbranch": {
+                "buildid": "4034559",
+                "description": "branch for testing",
+                "timeupdated": "1563834591"
+            }
+        }
+    }
+}
