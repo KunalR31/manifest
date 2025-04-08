@@ -1,0 +1,63 @@
+{
+    "appid": "2400590",
+    "type": "Game",
+    "name": "彗星战团",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26601468",
+    "update_time": "2024-12-12 07:15:55",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "2400591": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5367301093060996493",
+                    "size": "6523962092",
+                    "download": "4778075136"
+                }
+            },
+            "decryptionkey": "513d58f3ae64fc29bbb9be9b3f7802cfac9954785d6d4f449f5ad55f104812e4"
+        },
+        "2400592": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3573290134799051965",
+                    "size": "65567903",
+                    "download": "19491376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2804640": {
+            "dlcappid": "2804640",
+            "manifests": {
+                "public": {
+                    "gid": "997661829003967523",
+                    "size": "2621708630",
+                    "download": "1363325920"
+                }
+            },
+            "config": {
+                "optionaldlc": "2804640"
+            },
+            "decryptionkey": "decd3dc88e47ffd175d8d379e7bbc689cdec6a85021b4aea9313a8c3830dd643"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13389196",
+                "timeupdated": "1707288451"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
