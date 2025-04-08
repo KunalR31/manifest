@@ -1,0 +1,61 @@
+{
+    "appid": "583010",
+    "type": "Application",
+    "name": "VoiceAttack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27954843",
+    "update_time": "2025-03-14 19:25:00",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "583011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "724058629444577506",
+                    "size": "46315177",
+                    "download": "18305856"
+                }
+            },
+            "decryptionkey": "4527069accc1cb6aae5f2b3e32203a8061a137783f7aa136db6a9c558dd49410"
+        },
+        "583012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4481729248380269119",
+                    "size": "37382436",
+                    "download": "16399312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17508227",
+                "timeupdated": "1740541442"
+            }
+        }
+    }
+}
