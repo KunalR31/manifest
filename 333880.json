@@ -1,0 +1,68 @@
+{
+    "appid": "333880",
+    "type": "Game",
+    "name": "Braveland Wizard",
+    "schinese_name": "勇士之地：男巫",
+    "isfreeapp": "0",
+    "change_number": "25666176",
+    "update_time": "2024-10-11 23:58:11",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,polish,dutch,brazilian",
+        "333881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6592999415048772282",
+                    "size": "475315315",
+                    "download": "326444896"
+                },
+                "local": {
+                    "gid": "6189184892445370908",
+                    "size": "394093085",
+                    "download": "15025684442"
+                }
+            },
+            "decryptionkey": "beaf0e789f9e1a3b828543adea098443f19d3d6d49420f75a55269cb7885c24f"
+        },
+        "333882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1051617626560875519",
+                    "size": "452464410",
+                    "download": "314085392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "333883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4116121687889403939",
+                    "size": "452277750",
+                    "download": "312724704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11372573",
+                "timeupdated": "1688126939"
+            },
+            "local": {
+                "buildid": "454252",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
