@@ -1,0 +1,114 @@
+{
+    "appid": "63950",
+    "type": "Game",
+    "name": "IL-2 Sturmovik: Cliffs of Dover",
+    "schinese_name": "伊尔2：多佛白崖",
+    "isfreeapp": "0",
+    "change_number": "28334071",
+    "update_time": "2025-04-07 01:11:17",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,czech",
+        "63951": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4539018214033146350",
+                    "size": "5495406680",
+                    "download": "0"
+                },
+                "teamfusionupdate": {
+                    "gid": "1647047773589772913",
+                    "size": "8586197501",
+                    "download": "7734563984"
+                }
+            },
+            "decryptionkey": "d459c20b6275ab01825604fa445a41fbee65715e5e8a91044a075c7dedda79ee"
+        },
+        "63952": {
+            "optional": "1",
+            "systemdefined": "1",
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2067536815415960164",
+                    "size": "87073391",
+                    "download": "0"
+                },
+                "teamfusionupdate": {
+                    "gid": "3514675771642534486",
+                    "size": "59295042",
+                    "download": "58480688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "63954": {
+            "optional": "1",
+            "systemdefined": "1",
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3453096040291826649",
+                    "size": "11985626",
+                    "download": "0"
+                },
+                "teamfusionupdate": {
+                    "gid": "19803859101040995",
+                    "size": "988007",
+                    "download": "600432"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19946",
+                "timeupdated": "1471969758"
+            },
+            "teamfusionupdate": {
+                "buildid": "1715165",
+                "description": "Team Fusion latest patch",
+                "timeupdated": "1490477130"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
