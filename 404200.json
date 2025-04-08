@@ -1,0 +1,110 @@
+{
+    "appid": "404200",
+    "type": "Game",
+    "name": "Wartile",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27953225",
+    "update_time": "2025-03-14 17:50:26",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "404201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9047933954639563246",
+                    "size": "6052603220",
+                    "download": "5758169552"
+                },
+                "beta": {
+                    "gid": "9047933954639563246",
+                    "size": "6052603220",
+                    "download": "5758169552"
+                },
+                "tiltfive": {
+                    "gid": "3264567525614516984",
+                    "size": "6052627812",
+                    "download": "5758164624"
+                }
+            },
+            "decryptionkey": "269e536d3e462095abb876ceec39861b1d56c98b254a82258a2c0e85c4529602"
+        },
+        "651530": {
+            "dlcappid": "651530",
+            "manifests": {
+                "public": {
+                    "gid": "3399243213100638562",
+                    "size": "567797571",
+                    "download": "534797136"
+                },
+                "beta": {
+                    "gid": "3399243213100638562",
+                    "size": "567797571",
+                    "download": "534797136"
+                },
+                "tiltfive": {
+                    "gid": "3399243213100638562",
+                    "size": "567797571",
+                    "download": "534797136"
+                }
+            },
+            "decryptionkey": "d4f457ffd6e471807505b19eda98fca03aa7e360535a61e2bb96267a544142bc"
+        },
+        "2272460": {
+            "dlcappid": "2272460",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "2272460"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3835064977210617122",
+                    "size": "3239054205",
+                    "download": "3090092336"
+                },
+                "tiltfive": {
+                    "gid": "3835064977210617122",
+                    "size": "3239054205",
+                    "download": "3090092336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "10473647",
+                "timeupdated": "1675449599"
+            },
+            "beta": {
+                "buildid": "10470647",
+                "description": "Early testing of upcoming changes",
+                "timeupdated": "1675436316"
+            },
+            "tiltfive": {
+                "buildid": "10444532",
+                "description": "The TiltFive version",
+                "timeupdated": "1675181047"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
