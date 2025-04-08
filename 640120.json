@@ -1,0 +1,68 @@
+{
+    "appid": "640120",
+    "type": "Game",
+    "name": "Youropa",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25589007",
+    "update_time": "2024-10-08 23:01:58",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "640121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2320220434994321239",
+                    "size": "1040509593",
+                    "download": "544409680"
+                },
+                "beta": {
+                    "gid": "2320220434994321239",
+                    "size": "1040509593",
+                    "download": "544409680"
+                },
+                "legacy": {
+                    "gid": "2107234301328993695",
+                    "size": "1186018281",
+                    "download": "565107744"
+                }
+            },
+            "decryptionkey": "b71dcd6ae324547dffb978cdf4df0d3b0cf8b789ee3c39fe37bedaa73667b93b"
+        },
+        "workshopdepot": "640120",
+        "branches": {
+            "public": {
+                "buildid": "10157598",
+                "timeupdated": "1671395771"
+            },
+            "beta": {
+                "buildid": "10157598",
+                "description": "Public Beta Test",
+                "timeupdated": "1671140274"
+            },
+            "legacy": {
+                "buildid": "5946784",
+                "description": "Version 1",
+                "timeupdated": "1666130084"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0e6e7e133c4b2e8756705474a0926a7f5967c3394aab83fc98516901f8eac2a9"
+    }
+}
