@@ -1,0 +1,82 @@
+{
+    "appid": "1802710",
+    "type": "Beta",
+    "name": "Momentum Mod Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28140613",
+    "update_time": "2025-03-26 09:03:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1802711": {
+            "manifests": {
+                "public": {
+                    "gid": "6191793780476827057",
+                    "size": "4214362302",
+                    "download": "2021048736"
+                },
+                "0.10.0-pre": {
+                    "gid": "270430102456644835",
+                    "size": "4244388041",
+                    "download": "2029547008"
+                }
+            },
+            "decryptionkey": "efefa2a23c0112e13a7cd3198cd6120833afacadc276fda80874af59c1af0504"
+        },
+        "1802712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5673798725324903291",
+                    "size": "374101283",
+                    "download": "110663840"
+                },
+                "0.10.0-pre": {
+                    "gid": "6550312960016072951",
+                    "size": "377168675",
+                    "download": "111556144"
+                }
+            },
+            "decryptionkey": "08d634f951ebc26371df13ec1e57280541c63f9818fefe7e4f82784d57a2d830"
+        },
+        "1802713": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4154073843492571727",
+                    "size": "855298180",
+                    "download": "220675088"
+                },
+                "0.10.0-pre": {
+                    "gid": "2523526513931294770",
+                    "size": "856030452",
+                    "download": "220944560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16878426",
+                "timeupdated": "1735606624"
+            },
+            "0.10.0-pre": {
+                "buildid": "17859471",
+                "description": "Prerelease 0.10.0 things",
+                "timeupdated": "1742951028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
