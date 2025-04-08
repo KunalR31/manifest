@@ -1,0 +1,58 @@
+{
+    "appid": "598060",
+    "type": "Game",
+    "name": "Slasher's Keep",
+    "schinese_name": "血屠城堡",
+    "isfreeapp": "0",
+    "change_number": "28326982",
+    "update_time": "2025-04-06 05:10:52",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "598061": {
+            "manifests": {
+                "public": {
+                    "gid": "1342503940018195803",
+                    "size": "2284088228",
+                    "download": "364870592"
+                },
+                "beta": {
+                    "gid": "1342503940018195803",
+                    "size": "2284088228",
+                    "download": "364870592"
+                }
+            },
+            "decryptionkey": "ed396032e1a877167485cdbae547cb6ddb37b672e7026e3577aa08e61f4e10e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10485753",
+                "timeupdated": "1675920119"
+            },
+            "beta": {
+                "buildid": "10485753",
+                "description": "most recent patch test branch",
+                "timeupdated": "1675666515"
+            }
+        }
+    }
+}
