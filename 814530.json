@@ -1,0 +1,88 @@
+{
+    "appid": "814530",
+    "type": "Game",
+    "name": "Death Crown",
+    "schinese_name": "死亡之冠",
+    "isfreeapp": "0",
+    "change_number": "27796789",
+    "update_time": "2025-03-05 22:50:53",
+    "depot": {
+        "baselanguages": "english,german,french,italian,schinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "814531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1160028314263391756",
+                    "size": "489802255",
+                    "download": "180376464"
+                }
+            },
+            "decryptionkey": "76a970e820bd33607a47add3e56d9ebe66a937f4fec79f4184573972ee998457"
+        },
+        "814532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "428466850405315449",
+                    "size": "480358231",
+                    "download": "177436880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "814533": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6001287498905323438",
+                    "size": "489802191",
+                    "download": "180365504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "814539": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "657210030843837235",
+                    "size": "489802255",
+                    "download": "180372752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15046888",
+                "timeupdated": "1721238845"
+            }
+        }
+    }
+}
