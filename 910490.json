@@ -1,0 +1,90 @@
+{
+    "appid": "910490",
+    "type": "Game",
+    "name": "Killsquad",
+    "schinese_name": "杀戮小队",
+    "isfreeapp": "0",
+    "change_number": "25590086",
+    "update_time": "2024-10-08 23:27:40",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "910491": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "419958502853980605",
+                    "size": "9242739893",
+                    "download": "8770428704"
+                },
+                "media": {
+                    "gid": "419958502853980605",
+                    "size": "9242739893",
+                    "download": "8770428704"
+                }
+            },
+            "decryptionkey": "1833c0dfecf11c74dac0a3b2a4f7f95fbae6d609e5272dee51e1768be41c0ca9"
+        },
+        "910492": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "366756186244060730",
+                    "size": "9242739893",
+                    "download": "8781804400"
+                },
+                "media": {
+                    "gid": "366756186244060730",
+                    "size": "9242739893",
+                    "download": "8781804400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "11648683",
+                "timeupdated": "1689678825"
+            },
+            "media": {
+                "buildid": "11648683",
+                "description": "Branch for Media",
+                "timeupdated": "1689678851"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
