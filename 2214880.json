@@ -1,0 +1,87 @@
+{
+    "appid": "2214880",
+    "type": "Game",
+    "name": "Europa",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28161562",
+    "update_time": "2025-03-27 10:15:54",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2214881": {
+            "manifests": {
+                "public": {
+                    "gid": "8576866485694176437",
+                    "size": "10682597672",
+                    "download": "2349403312"
+                },
+                "demo": {
+                    "gid": "7305384519910069983",
+                    "size": "3963328669",
+                    "download": "1131617056"
+                },
+                "demodebug": {
+                    "gid": "6680564697612643730",
+                    "size": "3969919561",
+                    "download": "1131410512"
+                },
+                "testing": {
+                    "gid": "8576866485694176437",
+                    "size": "10682597672",
+                    "download": "2349403312"
+                }
+            },
+            "decryptionkey": "7cc362056d81335dfe4147091ad28d268d931614a2abab6a1b17f4501c6d1432"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16186669",
+                "timeupdated": "1729895856"
+            },
+            "demo": {
+                "buildid": "15525260",
+                "description": "Demo branch for internal testing",
+                "timeupdated": "1724892453"
+            },
+            "demodebug": {
+                "buildid": "14155573",
+                "description": "demo branch debug enabled (slow)",
+                "timeupdated": "1713939436"
+            },
+            "testing": {
+                "buildid": "16186669",
+                "description": "Fresh builds",
+                "timeupdated": "1729895132"
+            }
+        }
+    }
+}
