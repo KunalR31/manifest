@@ -1,0 +1,73 @@
+{
+    "appid": "39120",
+    "type": "Game",
+    "name": "RIFT",
+    "schinese_name": "时空裂痕",
+    "isfreeapp": "1",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:12",
+    "depot": {
+        "overridescddb": "1",
+        "845241": {
+            "manifests": {
+                "public": {
+                    "gid": "7675389946101989167",
+                    "size": "93518494",
+                    "download": "38301232"
+                }
+            },
+            "depotfromapp": "845240",
+            "decryptionkey": "9cbac5fd5355370c3b656df7c5b596aa9bb794cb3cfc2bdc56e9581580a102f2"
+        },
+        "222963": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6481848186927137348",
+                    "size": "316017",
+                    "download": "106944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "39121": {
+            "systemdefined": "1",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1665998403149227648",
+                    "size": "26692973689",
+                    "download": "25244687056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "222964": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "133275793637247369",
+                    "size": "26503134239",
+                    "download": "25082596928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "9025114",
+                "timeupdated": "1656507910"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
