@@ -1,0 +1,107 @@
+{
+    "appid": "321400",
+    "type": "Game",
+    "name": "Supraball",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22581232",
+    "update_time": "2024-05-24 08:49:25",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "321401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9011757822611619073",
+                    "size": "1195265678",
+                    "download": "742297840"
+                },
+                "beta": {
+                    "gid": "9011757822611619073",
+                    "size": "1195265678",
+                    "download": "742297840"
+                },
+                "gameplay-test": {
+                    "gid": "3584075891478469510",
+                    "size": "1153581674",
+                    "download": "710892608"
+                },
+                "server": {
+                    "gid": "7206835189749626088",
+                    "size": "763254397",
+                    "download": "429933632"
+                },
+                "ue4": {
+                    "gid": "5841079007171390421",
+                    "size": "968012082",
+                    "download": "317262352"
+                }
+            },
+            "decryptionkey": "5ddaa6e2d3a6273936be783b3fe4adc297950578ac85308dd7a55c34781dbf61"
+        },
+        "321402": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "ue4": {
+                    "gid": "7392564750693610980",
+                    "size": "535266460",
+                    "download": "90235616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3544512",
+                "timeupdated": "1549641457"
+            },
+            "beta": {
+                "buildid": "3544512",
+                "description": "Testing of new features",
+                "timeupdated": "1549641216"
+            },
+            "gameplay-test": {
+                "buildid": "2372887",
+                "timeupdated": "1513798837"
+            },
+            "server": {
+                "buildid": "1105430",
+                "timeupdated": "1462145732"
+            },
+            "ue4": {
+                "buildid": "650266"
+            }
+        }
+    }
+}
