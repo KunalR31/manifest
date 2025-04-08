@@ -1,0 +1,365 @@
+{
+    "appid": "25000",
+    "type": "Game",
+    "name": "Overgrowth",
+    "schinese_name": "复仇格斗兔",
+    "isfreeapp": "0",
+    "change_number": "27105101",
+    "update_time": "2025-01-22 11:25:22",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "25000",
+        "25003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5367962205282759232",
+                    "size": "21294498971",
+                    "download": "6621086720"
+                },
+                "advance_testing": {
+                    "gid": "1567213349294821380",
+                    "size": "31265365049",
+                    "download": "11019736512"
+                },
+                "internal_testing": {
+                    "gid": "5041416217084319277",
+                    "size": "31453028405",
+                    "download": "11097086432"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "1654961952498501118",
+                    "size": "31265306978",
+                    "download": "11019790256"
+                },
+                "multiplayer": {
+                    "gid": "1302003952044624671",
+                    "size": "31263931089",
+                    "download": "11019707648"
+                },
+                "ouruin": {
+                    "gid": "5541955119309148129",
+                    "size": "35804647367",
+                    "download": "12634310144"
+                },
+                "version_1_3_1": {
+                    "gid": "8466721005670673449",
+                    "size": "20835145503",
+                    "download": "6431071328"
+                },
+                "version_1_4_0": {
+                    "gid": "5367962205282759232",
+                    "size": "21294498971",
+                    "download": "6621086720"
+                }
+            },
+            "decryptionkey": "90252db22434476beb3ec3e8c122a39c7b1eb8125fedfa7891e18e5f26357279"
+        },
+        "25002": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8572447376951838510",
+                    "size": "21253430647",
+                    "download": "6611914480"
+                },
+                "advance_testing": {
+                    "gid": "6975188859554414218",
+                    "size": "31265365049",
+                    "download": "11012874368"
+                },
+                "internal_testing": {
+                    "gid": "4451797007837149403",
+                    "size": "31453028405",
+                    "download": "11090188160"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "9189495293364724446",
+                    "size": "31265306978",
+                    "download": "11012885712"
+                },
+                "multiplayer": {
+                    "gid": "4485519976517338990",
+                    "size": "31263931089",
+                    "download": "11012803104"
+                },
+                "ouruin": {
+                    "gid": "5792933602834217597",
+                    "size": "35804647367",
+                    "download": "12627608672"
+                },
+                "version_1_3_1": {
+                    "gid": "8443470089264524871",
+                    "size": "20794098555",
+                    "download": "6421904976"
+                },
+                "version_1_4_0": {
+                    "gid": "8572447376951838510",
+                    "size": "21253430647",
+                    "download": "6611914480"
+                }
+            },
+            "decryptionkey": "257d7d96a0d09402ce7d74eeb57bee5eae885cb29874989b87eb1759bf664b58"
+        },
+        "25006": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4818519136603890294",
+                    "size": "23854933",
+                    "download": "7165232"
+                },
+                "advance_testing": {
+                    "gid": "4219799921404627254",
+                    "size": "40009970",
+                    "download": "10372464"
+                },
+                "internal_testing": {
+                    "gid": "8251121550506845449",
+                    "size": "31325066",
+                    "download": "7905568"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "7588695093776556454",
+                    "size": "40023282",
+                    "download": "10380768"
+                },
+                "multiplayer": {
+                    "gid": "1243549639282672234",
+                    "size": "41838022",
+                    "download": "10599520"
+                },
+                "ouruin": {
+                    "gid": "8452549535872062649",
+                    "size": "31325066",
+                    "download": "7905520"
+                },
+                "version_1_3_1": {
+                    "gid": "6820768059824713685",
+                    "size": "23837013",
+                    "download": "7161136"
+                },
+                "version_1_4_0": {
+                    "gid": "4818519136603890294",
+                    "size": "23854933",
+                    "download": "7165232"
+                }
+            },
+            "decryptionkey": "0c6341a3b074a2fbb0a091de51910d9177da7c5bae880eb7a0f7211618849830"
+        },
+        "25005": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6893192256816917708",
+                    "size": "28327825",
+                    "download": "8382288"
+                },
+                "advance_testing": {
+                    "gid": "4174429846751618391",
+                    "size": "40009970",
+                    "download": "10372464"
+                },
+                "internal_testing": {
+                    "gid": "4923197312884466133",
+                    "size": "31325066",
+                    "download": "7905568"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "6205531152598541747",
+                    "size": "40023282",
+                    "download": "10380768"
+                },
+                "multiplayer": {
+                    "gid": "7280314710534352881",
+                    "size": "41838022",
+                    "download": "10599520"
+                },
+                "ouruin": {
+                    "gid": "8201024983355739974",
+                    "size": "31325066",
+                    "download": "7905520"
+                },
+                "version_1_3_1": {
+                    "gid": "8718016645112016728",
+                    "size": "28304273",
+                    "download": "8377632"
+                },
+                "version_1_4_0": {
+                    "gid": "6893192256816917708",
+                    "size": "28327825",
+                    "download": "8382288"
+                }
+            },
+            "decryptionkey": "22e8ba83cd687fb2f62bc2420880e547e804042d80248ff0fff902fbee536dd4"
+        },
+        "25004": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2109637481877491154",
+                    "size": "223736763",
+                    "download": "55351968"
+                },
+                "advance_testing": {
+                    "gid": "6485751876588534621",
+                    "size": "352849466",
+                    "download": "93975888"
+                },
+                "internal_testing": {
+                    "gid": "4694553844756152832",
+                    "size": "280449223",
+                    "download": "73804976"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "4171705128927229755",
+                    "size": "354156091",
+                    "download": "94298096"
+                },
+                "multiplayer": {
+                    "gid": "2942530294852757388",
+                    "size": "355718371",
+                    "download": "94496592"
+                },
+                "ouruin": {
+                    "gid": "6602446202435998675",
+                    "size": "280449223",
+                    "download": "73804992"
+                },
+                "version_1_3_1": {
+                    "gid": "673095512370856727",
+                    "size": "223600983",
+                    "download": "55315376"
+                },
+                "version_1_4_0": {
+                    "gid": "2109637481877491154",
+                    "size": "223736763",
+                    "download": "55351968"
+                }
+            },
+            "decryptionkey": "75d522644fabb73355aa7687fb5ee22a7bba4783157c2a58e2f54f75eb23c49f"
+        },
+        "25001": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4106272477922664518",
+                    "size": "193083145",
+                    "download": "55876496"
+                },
+                "advance_testing": {
+                    "gid": "4392521530343918873",
+                    "size": "352849466",
+                    "download": "93975888"
+                },
+                "internal_testing": {
+                    "gid": "1528132961760509264",
+                    "size": "280449223",
+                    "download": "73804976"
+                },
+                "internal_testing_multiplayer": {
+                    "gid": "5189744384760820563",
+                    "size": "354156091",
+                    "download": "94298096"
+                },
+                "multiplayer": {
+                    "gid": "2363210600826349074",
+                    "size": "355718371",
+                    "download": "94496592"
+                },
+                "ouruin": {
+                    "gid": "1460527085490437392",
+                    "size": "280449223",
+                    "download": "73804992"
+                },
+                "version_1_3_1": {
+                    "gid": "2060325042607416160",
+                    "size": "192976617",
+                    "download": "55889792"
+                },
+                "version_1_4_0": {
+                    "gid": "4106272477922664518",
+                    "size": "193083145",
+                    "download": "55876496"
+                }
+            },
+            "decryptionkey": "be3e6307428128521e6482890477186e21b585673dd6ae8a3bc7b259bf178b17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3450449",
+                "timeupdated": "1547007364"
+            },
+            "advance_testing": {
+                "buildid": "8438631",
+                "description": "Release candidate, will be the next alpha.",
+                "timeupdated": "1648728658"
+            },
+            "internal_testing": {
+                "buildid": "13770693",
+                "description": "Current master, very unstable.",
+                "timeupdated": "1710740340"
+            },
+            "internal_testing_multiplayer": {
+                "buildid": "8368000",
+                "description": "Unstable multiplayer testing branch.",
+                "timeupdated": "1647274713"
+            },
+            "multiplayer": {
+                "buildid": "8295349",
+                "description": "Stable multiplayer test branch",
+                "timeupdated": "1646158158"
+            },
+            "ouruin": {
+                "buildid": "14068218",
+                "description": "ouruin testing",
+                "timeupdated": "1713261601"
+            },
+            "version_1_3_1": {
+                "buildid": "2937215",
+                "description": "Previous version",
+                "timeupdated": "1641808869"
+            },
+            "version_1_4_0": {
+                "buildid": "3450449",
+                "description": "Current version",
+                "timeupdated": "1641808975"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "fb2e60e5f73f0d92b7f9d1ab1ab690f8fcd7c9a408f55d83f19ac456ad3e5384"
+    }
+}
