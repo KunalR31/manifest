@@ -1,0 +1,66 @@
+{
+    "appid": "929270",
+    "type": "Application",
+    "name": "ViewTracker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26865523",
+    "update_time": "2025-01-05 12:13:07",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "929271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "121084323962963065",
+                    "size": "235112160",
+                    "download": "74494160"
+                },
+                "beta": {
+                    "gid": "3251908860184609320",
+                    "size": "235174624",
+                    "download": "74516944"
+                }
+            },
+            "decryptionkey": "10047866d38dec7c0f0fef3cfa406c522fae6db1ebda7e00709d2779732f2ecf"
+        },
+        "929272": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8694927375899704252",
+                    "size": "43",
+                    "download": "96"
+                },
+                "beta": {
+                    "gid": "8694927375899704252",
+                    "size": "43",
+                    "download": "96"
+                }
+            },
+            "decryptionkey": "d785d660a2397b8c27b68220950c773081672e45c19608e9093a536b1d89baae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3587951",
+                "timeupdated": "1550905060"
+            },
+            "beta": {
+                "buildid": "3584270",
+                "timeupdated": "1550814265"
+            }
+        }
+    }
+}
