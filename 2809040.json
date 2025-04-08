@@ -1,0 +1,61 @@
+{
+    "appid": "2809040",
+    "type": "Demo",
+    "name": "PANICORE Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23984716",
+    "update_time": "2024-07-16 02:46:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2809041": {
+            "manifests": {
+                "public": {
+                    "gid": "6926564805384269304",
+                    "size": "5320767676",
+                    "download": "5121957264"
+                },
+                "beta": {
+                    "gid": "6926564805384269304",
+                    "size": "5320767676",
+                    "download": "5121957264"
+                },
+                "playtest": {
+                    "gid": "1375848173464777137",
+                    "size": "5711429600",
+                    "download": "5348809888"
+                }
+            },
+            "decryptionkey": "cea8d7784aa9be0c739eea90aa65d5227d4351360a4a961f377fd87e46695636"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13758264",
+                "timeupdated": "1710547504"
+            },
+            "beta": {
+                "buildid": "13758264",
+                "description": "Testing the demo",
+                "timeupdated": "1710545482"
+            },
+            "playtest": {
+                "buildid": "13690791",
+                "description": "to detect problems that cause crashes",
+                "timeupdated": "1709999551"
+            }
+        }
+    }
+}
