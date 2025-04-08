@@ -1,0 +1,118 @@
+{
+    "appid": "654050",
+    "type": "Game",
+    "name": "JYDGE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25960157",
+    "update_time": "2024-10-30 07:05:28",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "654051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1937286264907607936",
+                    "size": "297684748",
+                    "download": "228880272"
+                },
+                "beta": {
+                    "gid": "1937286264907607936",
+                    "size": "297684748",
+                    "download": "228880272"
+                },
+                "macos_old": {
+                    "gid": "1937286264907607936",
+                    "size": "297684748",
+                    "download": "228880272"
+                }
+            },
+            "decryptionkey": "e62d197be9dcdfccba3cd43bc7fdd8e6798e50eee328b3158e75362fd25ad7bb"
+        },
+        "654052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6774698109842591747",
+                    "size": "361369744",
+                    "download": "279899408"
+                },
+                "beta": {
+                    "gid": "6774698109842591747",
+                    "size": "361369744",
+                    "download": "279899408"
+                },
+                "macos_old": {
+                    "gid": "656102809181630505",
+                    "size": "338273376",
+                    "download": "243811808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "654053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7780066816367015671",
+                    "size": "311238667",
+                    "download": "224483888"
+                },
+                "beta": {
+                    "gid": "7780066816367015671",
+                    "size": "311238667",
+                    "download": "224483888"
+                },
+                "macos_old": {
+                    "gid": "7780066816367015671",
+                    "size": "311238667",
+                    "download": "224483888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "6182222",
+                "timeupdated": "1612356638"
+            },
+            "beta": {
+                "buildid": "6182222",
+                "description": "general update beta branch",
+                "timeupdated": "1612355989"
+            },
+            "macos_old": {
+                "buildid": "3741147",
+                "description": "Old macOS build",
+                "timeupdated": "1611818254"
+            }
+        }
+    }
+}
