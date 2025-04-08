@@ -1,0 +1,83 @@
+{
+    "appid": "246070",
+    "type": "Game",
+    "name": "Hack 'n' Slash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27162864",
+    "update_time": "2025-01-25 19:25:09",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "246071": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3146140219770127745",
+                    "size": "657465933",
+                    "download": "4122744451824"
+                }
+            },
+            "decryptionkey": "43352e33659d5e22e696c9674563e6c2195b4c9e3be40a90b567fc3d25e05f44"
+        },
+        "246072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "945398381858759985",
+                    "size": "661440880",
+                    "download": "310273253984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "246073": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1199701039476454740",
+                    "size": "686475185",
+                    "download": "3470546095939"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "296320": {
+            "manifests": {
+                "public": {
+                    "gid": "7043785542571968707",
+                    "size": "115809937",
+                    "download": "116250596956"
+                }
+            },
+            "dlcappid": "296320",
+            "decryptionkey": "fe119b22e9da30d4f86a6da9d8aeb7f3d1f6595b432df52847afe5af1355154e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "391276"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
