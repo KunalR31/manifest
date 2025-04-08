@@ -1,0 +1,81 @@
+{
+    "appid": "277470",
+    "type": "Game",
+    "name": "The Book of Legends",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27018888",
+    "update_time": "2025-01-16 12:54:43",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "277471": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7092267824903142909",
+                    "size": "129148002",
+                    "download": "119898048"
+                },
+                "test": {
+                    "gid": "3641190164669483350",
+                    "size": "129148001",
+                    "download": "120245952"
+                }
+            },
+            "decryptionkey": "507fe37b0976fa89dfa50cb8825fbf5138b1683bd8876aad0425f44e7a51095a"
+        },
+        "366750": {
+            "manifests": {
+                "public": {
+                    "gid": "2408523880411723737",
+                    "size": "22894062",
+                    "download": "19967728"
+                },
+                "test": {
+                    "gid": "7365774618591821358",
+                    "size": "22894062",
+                    "download": "19967728"
+                }
+            },
+            "dlcappid": "366750",
+            "decryptionkey": "5c48714d0b70d8795b1fe324a7ba6513836a08006a955b4cb422b880cf0d44f9"
+        },
+        "372290": {
+            "manifests": {
+                "public": {
+                    "gid": "2121004721801966025",
+                    "size": "78020501",
+                    "download": "74836992"
+                },
+                "test": {
+                    "gid": "2121004721801966025",
+                    "size": "78020501",
+                    "download": "74836992"
+                }
+            },
+            "dlcappid": "372290",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5296695",
+                "timeupdated": "1594909267"
+            },
+            "test": {
+                "buildid": "649687"
+            }
+        }
+    }
+}
