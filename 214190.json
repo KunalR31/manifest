@@ -1,0 +1,77 @@
+{
+    "appid": "214190",
+    "type": "Game",
+    "name": "Minimum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27162864",
+    "update_time": "2025-01-25 19:25:08",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "214191": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9202462642435912636",
+                    "size": "1475718057",
+                    "download": "837428208"
+                },
+                "beta": {
+                    "gid": "9202462642435912636",
+                    "size": "1475718057",
+                    "download": "837428208"
+                },
+                "local": {
+                    "gid": "496957260992092366",
+                    "size": "1197318768",
+                    "download": "672558512"
+                }
+            },
+            "decryptionkey": "272cdca360f43d62d19d587ff195b854d5cffc242c8ceb74a0a9611287a4efaf"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1146926",
+                "timeupdated": "1466792572"
+            },
+            "beta": {
+                "buildid": "1146926",
+                "timeupdated": "1466792559"
+            },
+            "local": {
+                "buildid": "908928",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
