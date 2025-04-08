@@ -1,0 +1,61 @@
+{
+    "appid": "2774580",
+    "type": "Game",
+    "name": "Vikings: Sex and Blood",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28078099",
+    "update_time": "2025-03-22 02:18:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2774581": {
+            "manifests": {
+                "public": {
+                    "gid": "8509635953285652816",
+                    "size": "2928355755",
+                    "download": "1746820576"
+                },
+                "tests": {
+                    "gid": "8509635953285652816",
+                    "size": "2928355755",
+                    "download": "1746820576"
+                },
+                "unreal_version": {
+                    "gid": "891404322588072340",
+                    "size": "6783678131",
+                    "download": "3802854448"
+                }
+            },
+            "decryptionkey": "a95f1a5b0efa0da4a03ca28d6a8bb4e4dd6aa6172b7849bae4fae95bb5ddc5db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17639105",
+                "timeupdated": "1741370503"
+            },
+            "tests": {
+                "buildid": "17639105",
+                "description": "Just pre-release branch.",
+                "timeupdated": "1741370254"
+            },
+            "unreal_version": {
+                "buildid": "16105576",
+                "description": "The old version, built in Unreal Engine",
+                "timeupdated": "1734630781"
+            }
+        }
+    }
+}
