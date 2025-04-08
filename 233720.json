@@ -1,0 +1,103 @@
+{
+    "appid": "233720",
+    "type": "Game",
+    "name": "Surgeon Simulator",
+    "schinese_name": "外科手术模拟",
+    "isfreeapp": "0",
+    "change_number": "27115151",
+    "update_time": "2025-01-23 00:21:33",
+    "depot": {
+        "overridescddb": "1",
+        "233721": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8469634463222804287",
+                    "size": "891944009",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d35dca79d15aceeb962840cc06af9c61dd038f5cf9283e469663fd63ee090a5a"
+        },
+        "233722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3024770143432895355",
+                    "size": "902679404",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "63af86194cc3a9165b47d4344897c1743432d6742191044190b5b204d2b8ccfb"
+        },
+        "233723": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2273141338475583055",
+                    "size": "959734967",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a0811369f5094519a9e049496ad5bd2c1aae633160a78379d4ecd72818a89356"
+        },
+        "317960": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8797057588258470615",
+                    "size": "1557007018",
+                    "download": "754390640"
+                }
+            },
+            "dlcappid": "317960",
+            "decryptionkey": "ccd7ea8b717679799cd07c3fdce7e842480e377d8f9fe60df8b41f7900eabab5"
+        },
+        "317961": {
+            "config": {
+                "oslist": "macos"
+            },
+            "dlcappid": "317960",
+            "manifests": {
+                "public": {
+                    "gid": "5653254213267219564",
+                    "size": "1529137181",
+                    "download": "755570608"
+                }
+            },
+            "decryptionkey": "2b6038ba81cbc0cd78b769403e6822aa29cf3717c0b645c48f41d41dfab893a7"
+        },
+        "317962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "dlcappid": "317960",
+            "manifests": {
+                "public": {
+                    "gid": "7756701100521687015",
+                    "size": "1407317712",
+                    "download": "735353920"
+                }
+            },
+            "decryptionkey": "a5d9976e325380413a3388d77d30a268d8e28b8702e4e370b08f98178ffb4660"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1165866",
+                "timeupdated": "1465485446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
