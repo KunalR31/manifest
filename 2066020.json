@@ -1,0 +1,80 @@
+{
+    "appid": "2066020",
+    "type": "Game",
+    "name": "Soulstone Survivors",
+    "schinese_name": "灵魂石幸存者",
+    "isfreeapp": "0",
+    "change_number": "28344001",
+    "update_time": "2025-04-07 18:48:16",
+    "depot": {
+        "2066021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2326763921630954524",
+                    "size": "2679753885",
+                    "download": "607856656"
+                },
+                "alpha": {
+                    "gid": "2326763921630954524",
+                    "size": "2679753885",
+                    "download": "607856656"
+                }
+            },
+            "decryptionkey": "77548840219e976662662089b95dff8d5aebb105e927a5a9e4ae5a7e1dcc20b3"
+        },
+        "2066022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4595109816518236494",
+                    "size": "2777356129",
+                    "download": "636820896"
+                },
+                "alpha": {
+                    "gid": "4595109816518236494",
+                    "size": "2777356129",
+                    "download": "636820896"
+                }
+            },
+            "decryptionkey": "fbf81679edbc1631bbdab249108645437b827556e0caf38758aef81283945689"
+        },
+        "2066023": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8897071904490425318",
+                    "size": "2682744683",
+                    "download": "612430240"
+                },
+                "alpha": {
+                    "gid": "8897071904490425318",
+                    "size": "2682744683",
+                    "download": "612430240"
+                }
+            },
+            "decryptionkey": "ebf46700a15e9cfe604b9259944a1a232b677b5a294933df6c266cffdad5147f"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "2066020",
+        "branches": {
+            "public": {
+                "buildid": "18009646",
+                "timeupdated": "1744022888"
+            },
+            "alpha": {
+                "buildid": "18009646",
+                "description": "Alpha testing",
+                "timeupdated": "1744022864"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
