@@ -1,0 +1,83 @@
+{
+    "appid": "2239150",
+    "type": "Game",
+    "name": "Thronefall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27740539",
+    "update_time": "2025-03-02 17:23:34",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2239151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8216137706613483638",
+                    "size": "982070677",
+                    "download": "273638208"
+                },
+                "previousversionrollback": {
+                    "gid": "6674993503361461815",
+                    "size": "793134001",
+                    "download": "260578416"
+                },
+                "publicbeta": {
+                    "gid": "8216137706613483638",
+                    "size": "982070677",
+                    "download": "273638208"
+                }
+            },
+            "decryptionkey": "505a16dd8c80b12c26bfa9c7780547cf33fff50602e31744cd4d7e582df2870c"
+        },
+        "2239152": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8847390540014643045",
+                    "size": "1006734432",
+                    "download": "280675552"
+                },
+                "previousversionrollback": {
+                    "gid": "4503241204162199245",
+                    "size": "818066454",
+                    "download": "267724480"
+                },
+                "publicbeta": {
+                    "gid": "8847390540014643045",
+                    "size": "1006734432",
+                    "download": "280675552"
+                }
+            },
+            "decryptionkey": "455a0cb3bb7f77acddf7a891cf8ab8151cb44a5edd2298b022b205cc88fdef63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17216593",
+                "timeupdated": "1738582781"
+            },
+            "previousversionrollback": {
+                "buildid": "16153885",
+                "description": "Roll back to the previous version of Thronefall.",
+                "timeupdated": "1738582668"
+            },
+            "publicbeta": {
+                "buildid": "17216593",
+                "description": "Public beta branch",
+                "timeupdated": "1738515145"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
