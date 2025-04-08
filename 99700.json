@@ -1,0 +1,58 @@
+{
+    "appid": "99700",
+    "type": "Game",
+    "name": "NightSky",
+    "schinese_name": "夜空",
+    "isfreeapp": "0",
+    "change_number": "27105704",
+    "update_time": "2025-01-22 12:25:44",
+    "depot": {
+        "overridescddb": "1",
+        "99701": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "535583875408137941",
+                    "size": "138889749",
+                    "download": "129225664"
+                }
+            },
+            "decryptionkey": "6197ff92f2570c21c6d847702ae0077834c847e959f847a0ff60f53f96d414ca"
+        },
+        "99702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2308247408492099809",
+                    "size": "141498708",
+                    "download": "127909152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "99703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3229052283729083997",
+                    "size": "140836106",
+                    "download": "128843088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "917551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
