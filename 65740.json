@@ -1,0 +1,47 @@
+{
+    "appid": "65740",
+    "type": "Game",
+    "name": "Carrier Command: Gaea Mission",
+    "schinese_name": "航母指挥官：盖亚的使命",
+    "isfreeapp": "0",
+    "change_number": "27202967",
+    "update_time": "2025-01-28 23:34:10",
+    "depot": {
+        "overridescddb": "1",
+        "65741": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3056760075593311069",
+                    "size": "3984879591",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5292624063527389943",
+                    "size": "3977613560",
+                    "download": "0"
+                },
+                "sdk": {
+                    "gid": "3056760075593311069",
+                    "size": "3984879591",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f2ee6b8bee0d04aeba49e7db9a3b15b5abe19fee53a1698c75c6c7b5aac44e7a"
+        },
+        "65742": {},
+        "branches": {
+            "public": {
+                "buildid": "90129"
+            },
+            "beta": {
+                "buildid": "198093",
+                "description": "Beta version of the patch"
+            },
+            "sdk": {
+                "buildid": "90129"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
