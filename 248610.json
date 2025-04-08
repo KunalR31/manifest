@@ -1,0 +1,67 @@
+{
+    "appid": "248610",
+    "type": "Game",
+    "name": "Door Kickers",
+    "schinese_name": "破门而入",
+    "isfreeapp": "0",
+    "change_number": "25047980",
+    "update_time": "2024-09-03 04:26:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "248611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7713648558485587223",
+                    "size": "1134704679",
+                    "download": "444260080"
+                }
+            },
+            "decryptionkey": "0695526bbbb43e62c7531313675df58a53e76d10ae48e062c1de0c5123134e10"
+        },
+        "248612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4594855552649523736",
+                    "size": "1106939678",
+                    "download": "433417472"
+                }
+            },
+            "decryptionkey": "65be3ad26e823055a301a2d7564228bb985023c7a49dd15b2253c3d211c9ad48"
+        },
+        "248613": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6297086307158913727",
+                    "size": "1109462387",
+                    "download": "439785376"
+                }
+            },
+            "decryptionkey": "edc62c1fe8b8bc652157671569bddec3d67bb635b87b9dcb6f6a33090757ea42"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7811943",
+                "timeupdated": "1638400224"
+            }
+        }
+    }
+}
