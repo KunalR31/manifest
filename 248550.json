@@ -1,0 +1,77 @@
+{
+    "appid": "248550",
+    "type": "Game",
+    "name": "Megabyte Punch",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26581709",
+    "update_time": "2024-12-11 04:09:55",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "248551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6103426460454968422",
+                    "size": "217031798",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "6103426460454968422",
+                    "size": "217031798",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2e2a8ee6c615a61be9626f30175f825080c5d174608e0328337b06e1fa6166b0"
+        },
+        "248552": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6462741011506907995",
+                    "size": "225222380",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "6462741011506907995",
+                    "size": "225222380",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "79cdedba29135691cb35e919e4247583a209cc89bc4157495da34717d8963dd4"
+        },
+        "248553": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1701257504078451644",
+                    "size": "237123614",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "1701257504078451644",
+                    "size": "237123614",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2efd740bb05421a1b6851da8c2f10a7f6a01fb08b5439a0026318fc834d58798"
+        },
+        "branches": {
+            "public": {
+                "buildid": "142389"
+            },
+            "testing": {
+                "buildid": "142389",
+                "description": "Testing new builds"
+            }
+        }
+    }
+}
