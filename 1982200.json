@@ -1,0 +1,45 @@
+{
+    "appid": "1982200",
+    "type": "Game",
+    "name": "Neko Night",
+    "schinese_name": "后宫之夜",
+    "isfreeapp": "0",
+    "change_number": "25933243",
+    "update_time": "2024-10-28 23:04:43",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1982202": {
+            "manifests": {
+                "public": {
+                    "gid": "4993790620960941502",
+                    "size": "342411156",
+                    "download": "296368688"
+                },
+                "test": {
+                    "gid": "8350933043117084371",
+                    "size": "347867741",
+                    "download": "297586544"
+                }
+            },
+            "decryptionkey": "8e3e312ac17395855a6f4f0426359b03340473763b6ae5a6effd0e42d04d9fce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11542877",
+                "timeupdated": "1687511010"
+            },
+            "test": {
+                "buildid": "11421855",
+                "description": "test for CN",
+                "timeupdated": "1686214158"
+            }
+        }
+    }
+}
