@@ -1,0 +1,76 @@
+{
+    "appid": "1885690",
+    "type": "Game",
+    "name": "Virtual Circuit Board",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26719627",
+    "update_time": "2024-12-20 03:15:13",
+    "depot": {
+        "1885691": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "756626189575106712",
+                    "size": "48189246",
+                    "download": "14726192"
+                },
+                "beta": {
+                    "gid": "756626189575106712",
+                    "size": "48189246",
+                    "download": "14726192"
+                },
+                "previous": {
+                    "gid": "5895939615692960908",
+                    "size": "48149230",
+                    "download": "14682160"
+                }
+            },
+            "decryptionkey": "269ddf769a77f41edc041817b94e884247def7d6ad7343380ccd1ae1317b9229"
+        },
+        "1885692": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5770531642518915771",
+                    "size": "50327942",
+                    "download": "16324112"
+                },
+                "beta": {
+                    "gid": "5770531642518915771",
+                    "size": "50327942",
+                    "download": "16324112"
+                },
+                "previous": {
+                    "gid": "4165341387670772177",
+                    "size": "50287926",
+                    "download": "16280368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13251452",
+                "timeupdated": "1706033444"
+            },
+            "beta": {
+                "buildid": "13251452",
+                "description": "Public testing branch",
+                "timeupdated": "1706033397"
+            },
+            "previous": {
+                "buildid": "12330786",
+                "description": "Version 1.0",
+                "timeupdated": "1706033369"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
