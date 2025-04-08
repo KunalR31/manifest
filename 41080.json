@@ -1,0 +1,152 @@
+{
+    "appid": "41080",
+    "type": "Tool",
+    "name": "Serious Sam 3 Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:25:46",
+    "depot": {
+        "41079": {
+            "systemdefined": "1",
+            "depotfromapp": "41070",
+            "sharedinstall": "2"
+        },
+        "41075": {
+            "systemdefined": "1",
+            "depotfromapp": "41070",
+            "sharedinstall": "2"
+        },
+        "41076": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "41070",
+            "sharedinstall": "2"
+        },
+        "41077": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "41070",
+            "sharedinstall": "2"
+        },
+        "41078": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "41070",
+            "sharedinstall": "2"
+        },
+        "41081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5839909026259046758",
+                    "size": "22452118",
+                    "download": "7462080"
+                },
+                "legacyosx": {
+                    "gid": "7220882982092040604",
+                    "size": "21557782",
+                    "download": "8057920"
+                },
+                "publicbeta": {
+                    "gid": "5839909026259046758",
+                    "size": "22452118",
+                    "download": "7462080"
+                },
+                "safemode": {
+                    "gid": "7220882982092040604",
+                    "size": "21557782",
+                    "download": "8057920"
+                }
+            },
+            "decryptionkey": "86fc6dd516f4145af2bdceed3ab7c4d3e4c597b7c813dfbda3cc8fa25fd7eaab"
+        },
+        "41082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1517549851102098716",
+                    "size": "20240789",
+                    "download": "5338736"
+                },
+                "legacyosx": {
+                    "gid": "7457740292106101545",
+                    "size": "20035257",
+                    "download": "4999808"
+                },
+                "publicbeta": {
+                    "gid": "1517549851102098716",
+                    "size": "20240789",
+                    "download": "5338736"
+                },
+                "safemode": {
+                    "gid": "7457740292106101545",
+                    "size": "20035257",
+                    "download": "4999808"
+                }
+            },
+            "decryptionkey": "ab803b957861cdbcf4b02bfa1100f3fcdb6f288d66847127e78f266665c296c9"
+        },
+        "41083": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6611202159868083272",
+                    "size": "45174071",
+                    "download": "12104288"
+                },
+                "legacyosx": {
+                    "gid": "5010045415239750343",
+                    "size": "41454505",
+                    "download": "12803792"
+                },
+                "publicbeta": {
+                    "gid": "6611202159868083272",
+                    "size": "45174071",
+                    "download": "12104288"
+                },
+                "safemode": {
+                    "gid": "5010045415239750343",
+                    "size": "41454505",
+                    "download": "12803792"
+                }
+            },
+            "decryptionkey": "9a5c1b881a65469478b34c2e55eefe785872ae2fa8e7de05c8c4ecfc37304e6a"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1094577",
+                "timeupdated": "1462782631"
+            },
+            "legacyosx": {
+                "buildid": "652468",
+                "description": "For Mac OS X 10.5 Leopard and 10.6 Snow Leopard"
+            },
+            "publicbeta": {
+                "buildid": "1094577",
+                "description": "Public testing",
+                "timeupdated": "1461659349"
+            },
+            "safemode": {
+                "buildid": "652468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
