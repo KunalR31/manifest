@@ -1,0 +1,91 @@
+{
+    "appid": "1040900",
+    "type": "Game",
+    "name": "Massive Air Combat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26140528",
+    "update_time": "2024-11-11 21:41:16",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1040901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8569206887147646311",
+                    "size": "2905335556",
+                    "download": "928655072"
+                },
+                "ver1.00-game-with-cutscene": {
+                    "gid": "4215616863882370586",
+                    "size": "3420819283",
+                    "download": "1037329824"
+                },
+                "version1.20": {
+                    "gid": "2678409646887270521",
+                    "size": "2429723224",
+                    "download": "781698048"
+                },
+                "version1.30": {
+                    "gid": "1799557580370699301",
+                    "size": "2574688367",
+                    "download": "854509600"
+                }
+            },
+            "decryptionkey": "c827008ed5ad93b0cd37eca13bcdcfa6eba30fd6f9d40157a1b47c83f8461f2d"
+        },
+        "1040902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "896586235351619284",
+                    "size": "3030331946",
+                    "download": "979120032"
+                },
+                "version1.30": {
+                    "gid": "4956930978157475303",
+                    "size": "2639156576",
+                    "download": "890572864"
+                }
+            },
+            "decryptionkey": "758966833388bc9bb31b5b0c039910d01c322d58eef017f64ab116a9edffa676"
+        },
+        "1040903": {},
+        "branches": {
+            "public": {
+                "buildid": "3808198",
+                "timeupdated": "1557409664"
+            },
+            "ver1.00-game-with-cutscene": {
+                "buildid": "3662057",
+                "timeupdated": "1555015736"
+            },
+            "version1.20": {
+                "buildid": "3700401",
+                "timeupdated": "1554923257"
+            },
+            "version1.30": {
+                "buildid": "3785504",
+                "timeupdated": "1557084526"
+            }
+        }
+    }
+}
