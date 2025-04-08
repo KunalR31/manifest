@@ -1,0 +1,105 @@
+{
+    "appid": "271900",
+    "type": "Game",
+    "name": "Hexcells Plus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 16:15:38",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "271901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7214906323578822247",
+                    "size": "113759640",
+                    "download": "59897632"
+                },
+                "beta": {
+                    "gid": "7214906323578822247",
+                    "size": "113759640",
+                    "download": "59897632"
+                },
+                "rollback": {
+                    "gid": "2141481054680539972",
+                    "size": "49962692",
+                    "download": "22197168"
+                }
+            },
+            "decryptionkey": "e2faaa7a830ebbb3608e49388cc78273b99b9c9e57320e0e6a15900d624d9fa2"
+        },
+        "271902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2382464484684781556",
+                    "size": "164340293",
+                    "download": "73508176"
+                },
+                "beta": {
+                    "gid": "2382464484684781556",
+                    "size": "164340293",
+                    "download": "73508176"
+                },
+                "rollback": {
+                    "gid": "2454706178574032002",
+                    "size": "84880767",
+                    "download": "27581968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "271903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5672848755336949506",
+                    "size": "162891259",
+                    "download": "75024608"
+                },
+                "beta": {
+                    "gid": "5672848755336949506",
+                    "size": "162891259",
+                    "download": "75024608"
+                },
+                "rollback": {
+                    "gid": "4966266708090207643",
+                    "size": "78936071",
+                    "download": "33314704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "5451601",
+                "timeupdated": "1598274094"
+            },
+            "beta": {
+                "buildid": "5451601",
+                "timeupdated": "1598273535"
+            },
+            "rollback": {
+                "buildid": "4366034",
+                "description": "Previous version.",
+                "timeupdated": "1597827835"
+            }
+        }
+    }
+}
