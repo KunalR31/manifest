@@ -1,0 +1,70 @@
+{
+    "appid": "1197620",
+    "type": "Game",
+    "name": "DragonRide VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25593604",
+    "update_time": "2024-10-09 00:36:38",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1197621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2519826122218363192",
+                    "size": "8795591638",
+                    "download": "8271353136"
+                },
+                "betanextversion": {
+                    "gid": "5498774044842175620",
+                    "size": "8593118887",
+                    "download": "8220982192"
+                },
+                "previousversion": {
+                    "gid": "445505859597649761",
+                    "size": "8593291060",
+                    "download": "8224461264"
+                }
+            },
+            "decryptionkey": "f3e321ade73f7974f0f303d41cfb56f1c9634f63f478441fcc38199894091e23"
+        },
+        "1595430": {
+            "dlcappid": "1595430"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "8390598",
+                "timeupdated": "1647529799"
+            },
+            "betanextversion": {
+                "buildid": "12602538",
+                "description": "Latest build for beta testing - may have holes and bugs.",
+                "timeupdated": "1698934461"
+            },
+            "previousversion": {
+                "buildid": "7868229",
+                "description": "The Last Release - if you having an issue",
+                "timeupdated": "1645645363"
+            }
+        }
+    }
+}
