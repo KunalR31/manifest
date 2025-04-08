@@ -1,0 +1,116 @@
+{
+    "appid": "2063420",
+    "type": "Game",
+    "name": "CozyTyper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27722609",
+    "update_time": "2025-03-01 01:46:34",
+    "depot": {
+        "2063421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3942725038877637871",
+                    "size": "318703281",
+                    "download": "187853488"
+                },
+                "updatepreview": {
+                    "gid": "3942725038877637871",
+                    "size": "318703281",
+                    "download": "187853488"
+                },
+                "1.2_lts": {
+                    "gid": "7067593808299419572",
+                    "size": "695856486",
+                    "download": "180131232"
+                },
+                "1.3_mac_fix_only": {
+                    "gid": "5162138966824600203",
+                    "size": "698345977",
+                    "download": "180611472"
+                }
+            },
+            "decryptionkey": "7eaf94e13602c9650f460cc51194ea67da8dcfa91d48255d3cfc3ba717df9e76"
+        },
+        "2063422": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4573710410760157990",
+                    "size": "317830174",
+                    "download": "186387648"
+                },
+                "updatepreview": {
+                    "gid": "4573710410760157990",
+                    "size": "317830174",
+                    "download": "186387648"
+                },
+                "1.2_lts": {
+                    "gid": "1248133604646359119",
+                    "size": "696151054",
+                    "download": "178876096"
+                },
+                "1.3_mac_fix_only": {
+                    "gid": "4321486737380719908",
+                    "size": "695245637",
+                    "download": "178306240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2063423": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "75761189763448453",
+                    "size": "342539650",
+                    "download": "194790256"
+                },
+                "updatepreview": {
+                    "gid": "75761189763448453",
+                    "size": "342539650",
+                    "download": "194790256"
+                },
+                "1.2_lts": {
+                    "gid": "5823706734545775575",
+                    "size": "716280873",
+                    "download": "185756128"
+                },
+                "1.3_mac_fix_only": {
+                    "gid": "6593719320086379018",
+                    "size": "720280002",
+                    "download": "186869408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17368439",
+                "timeupdated": "1740150889"
+            },
+            "updatepreview": {
+                "buildid": "17368439",
+                "description": "This branch will host the updates for bug testing prior to release",
+                "timeupdated": "1739545827"
+            },
+            "1.2_lts": {
+                "buildid": "10786852",
+                "description": "Use this to play 1.2",
+                "timeupdated": "1734793822"
+            },
+            "1.3_mac_fix_only": {
+                "buildid": "15758618",
+                "description": "Only play this if 1.2 is giving you an input issue on mac",
+                "timeupdated": "1734793838"
+            }
+        }
+    }
+}
