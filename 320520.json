@@ -1,0 +1,75 @@
+{
+    "appid": "320520",
+    "type": "Game",
+    "name": "Oscura: Lost Light",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25995475",
+    "update_time": "2024-11-01 03:10:21",
+    "depot": {
+        "320521": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2651566985436756301",
+                    "size": "597023703",
+                    "download": "214391184"
+                },
+                "local": {
+                    "gid": "4824748570188142305",
+                    "size": "596811103",
+                    "download": "215824576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320522": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1330381990921856962",
+                    "size": "590749413",
+                    "download": "212621760"
+                },
+                "local": {
+                    "gid": "2420719994557079321",
+                    "size": "590536933",
+                    "download": "213713664"
+                }
+            },
+            "decryptionkey": "4d4ae9b1adcf9ec770cd0660a8c8b80f5310b101df4c23c39a373c6e5c7c3560"
+        },
+        "320523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5492011654361169345",
+                    "size": "594760495",
+                    "download": "215832288"
+                },
+                "local": {
+                    "gid": "1943117813221057875",
+                    "size": "594547919",
+                    "download": "216972304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "608566"
+            },
+            "local": {
+                "buildid": "511756",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
