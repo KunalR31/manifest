@@ -1,0 +1,78 @@
+{
+    "appid": "669310",
+    "type": "Game",
+    "name": "Brave Path",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 21:26:57",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "669311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6301081380431075504",
+                    "size": "110176502",
+                    "download": "44258912"
+                }
+            },
+            "decryptionkey": "d237a3b892dd41ec98f60b1a5efb42223a2935c5b9ff5eebc7775d40452bd952"
+        },
+        "669312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6007677791047644396",
+                    "size": "110360764",
+                    "download": "43298320"
+                }
+            },
+            "decryptionkey": "2b7893f5f7ac800b3394b9d1f1f8cbee3bbdd187fa4f93a19367aa324d956dac"
+        },
+        "669313": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4821901538611140528",
+                    "size": "120526394",
+                    "download": "46122848"
+                }
+            },
+            "decryptionkey": "9adde7d98076ff7d4179456578975e2a4fd2edafb58c9ad32ebcf98aacdf53bf"
+        },
+        "669314": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8341830267047554178",
+                    "size": "117861444",
+                    "download": "44575504"
+                }
+            },
+            "decryptionkey": "8f3a247d09fa59f59dfc30b443f3ae83af4a2e8ff6cec46881a4efb5f652900e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1952189",
+                "timeupdated": "1499773519"
+            }
+        }
+    }
+}
