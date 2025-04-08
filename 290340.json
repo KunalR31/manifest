@@ -1,0 +1,118 @@
+{
+    "appid": "290340",
+    "type": "Game",
+    "name": "Armello",
+    "schinese_name": "阿门罗",
+    "isfreeapp": "0",
+    "change_number": "27105101",
+    "update_time": "2025-01-22 11:25:59",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "290343": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7327272348430464012",
+                    "size": "2398266162",
+                    "download": "901575968"
+                }
+            },
+            "decryptionkey": "72647fe1a4d05d3b53998b02b9ab1bd8aa70e602eca5abf0027a4bdf56b2d5f5"
+        },
+        "290342": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2137196331846110203",
+                    "size": "2409894093",
+                    "download": "914971536"
+                }
+            },
+            "decryptionkey": "aa9bbcf81c1c9a2894a0add20da0004fb55bd5eba24248eea1404ee1fb0d8e5c"
+        },
+        "290346": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1851675539283727340",
+                    "size": "1579784678",
+                    "download": "1137525392"
+                }
+            },
+            "decryptionkey": "7b3f1459a666d7ddede8455a93ceb4fff5d256de45c725eb2bbf08e4244628b3"
+        },
+        "290345": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3726043958249178108",
+                    "size": "2430016183",
+                    "download": "920678992"
+                }
+            },
+            "decryptionkey": "146349c137a78d57c3054fde301f08848b0d6e040b656e3dc7d27285a07bb585"
+        },
+        "290341": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1998375574523292459",
+                    "size": "1547224706",
+                    "download": "1152853296"
+                }
+            },
+            "decryptionkey": "a1e7a0b11d26c74b6c24b9f9a55de12fe9530baa54fbf19dd618987f7e3bd603"
+        },
+        "290344": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5437122656265313177",
+                    "size": "1503963518",
+                    "download": "1123762848"
+                }
+            },
+            "decryptionkey": "d6f4e3183139b1b418569f25c23e3f95cf91d2ec8630eb0f400c86955f8d106f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10109492",
+                "timeupdated": "1671142405"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
