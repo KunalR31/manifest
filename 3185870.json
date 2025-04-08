@@ -1,0 +1,73 @@
+{
+    "appid": "3185870",
+    "type": "Demo",
+    "name": "Water Maid Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26922849",
+    "update_time": "2025-01-09 19:31:00",
+    "depot": {
+        "3185871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5988642176305223480",
+                    "size": "728208992",
+                    "download": "379744560"
+                },
+                "demos": {
+                    "gid": "3261177219611859847",
+                    "size": "714693664",
+                    "download": "366192128"
+                },
+                "testbuilds": {
+                    "gid": "3898930693163199400",
+                    "size": "699924816",
+                    "download": "364646080"
+                }
+            },
+            "decryptionkey": "9cf2080decb38cbe704f66200b8b583a151c1e323e3baaaa01c6c947d81369d3"
+        },
+        "3185872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1378574886989650609",
+                    "size": "710859009",
+                    "download": "373787424"
+                },
+                "demos": {
+                    "gid": "1378574886989650609",
+                    "size": "710859009",
+                    "download": "373787424"
+                },
+                "testbuilds": {
+                    "gid": "8528512636075605634",
+                    "size": "684152000",
+                    "download": "358940288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16633270",
+                "timeupdated": "1736422202"
+            },
+            "demos": {
+                "buildid": "16828778",
+                "description": "Host Demos here",
+                "timeupdated": "1734871162"
+            },
+            "testbuilds": {
+                "buildid": "15710985",
+                "description": "Testing",
+                "timeupdated": "1726458583"
+            }
+        }
+    }
+}
