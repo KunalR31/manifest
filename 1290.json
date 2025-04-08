@@ -1,0 +1,72 @@
+{
+    "appid": "1290",
+    "type": "Tool",
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28095028",
+    "update_time": "2025-03-23 18:42:39",
+    "depot": {
+        "overridescddb": "1",
+        "1281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                },
+                "italy-playtest": {
+                    "gid": "8342936862534756095",
+                    "size": "10979085637",
+                    "download": "3134928496"
+                }
+            },
+            "depotfromapp": "1280",
+            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
+        },
+        "1291": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5803402660365387711",
+                    "size": "2066093291",
+                    "download": "904388384"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "3431600298929727963",
+                    "size": "794647",
+                    "download": "254192"
+                },
+                "italy-playtest": {
+                    "gid": "5182343606092298216",
+                    "size": "2562743899",
+                    "download": "1104720672"
+                }
+            },
+            "decryptionkey": "7c4a5055dd1b27cad7360b9172a473af3a4c0c8f8b12ce9b0070b8e66936d6ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16273989",
+                "timeupdated": "1730544898"
+            },
+            "legacy-v6.0.0": {
+                "buildid": "1026294",
+                "description": "v6.0.0",
+                "timeupdated": "1677240195"
+            },
+            "italy-playtest": {
+                "buildid": "17825825",
+                "description": "Public branch for Italy playtest",
+                "timeupdated": "1742726551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
