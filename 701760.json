@@ -1,0 +1,87 @@
+{
+    "appid": "701760",
+    "type": "Game",
+    "name": "L.S.S",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25663197",
+    "update_time": "2024-10-11 23:51:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "701760",
+        "701761": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "634105591977900815",
+                    "size": "1856519216",
+                    "download": "607228976"
+                },
+                "testing": {
+                    "gid": "868001145474908349",
+                    "size": "2654409707",
+                    "download": "838337216"
+                }
+            },
+            "decryptionkey": "6b9161d664274500704a86129fbe2761528f434b1c502e2177566b421db16de1"
+        },
+        "701762": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            }
+        },
+        "800950": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "800950",
+            "manifests": {
+                "public": {
+                    "gid": "4883883127770886033",
+                    "size": "754301438",
+                    "download": "461541888"
+                }
+            },
+            "decryptionkey": "903d757122de4a7c5423d49d59ffab2d6709229ca5667c6ebdbb8951b03d1afa"
+        },
+        "701763": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8565397872877697821",
+                    "size": "2422393876",
+                    "download": "817143296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5102997",
+                "timeupdated": "1590974912"
+            },
+            "testing": {
+                "buildid": "2683348",
+                "description": "Play early versions before they go to live",
+                "timeupdated": "1523570249"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
