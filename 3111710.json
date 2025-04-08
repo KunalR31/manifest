@@ -1,0 +1,62 @@
+{
+    "appid": "3111710",
+    "type": "Game",
+    "name": "动物农场",
+    "schinese_name": "动物农场",
+    "isfreeapp": "0",
+    "change_number": "28148319",
+    "update_time": "2025-03-26 19:25:22",
+    "depot": {
+        "baselanguages": "english,french,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "3111712": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5724706169455892073",
+                    "size": "172278140",
+                    "download": "51420192"
+                },
+                "test_version": {
+                    "gid": "5724706169455892073",
+                    "size": "172278140",
+                    "download": "51420192"
+                }
+            },
+            "decryptionkey": "cb399e2b2359bd26fae16a31ee5bc0bb5c7867273342efac49c506409dc88181"
+        },
+        "3111713": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7520131783768606356",
+                    "size": "190742016",
+                    "download": "58401328"
+                },
+                "test_version": {
+                    "gid": "1300853643844027101",
+                    "size": "189342526",
+                    "download": "58048352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17722277",
+                "timeupdated": "1741942694"
+            },
+            "test_version": {
+                "buildid": "17721737",
+                "description": "for beta test",
+                "timeupdated": "1741939872"
+            }
+        }
+    }
+}
