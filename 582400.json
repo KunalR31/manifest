@@ -1,0 +1,96 @@
+{
+    "appid": "582400",
+    "type": "Tool",
+    "name": "Alien Swarm: Reactive Drop Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28337986",
+    "update_time": "2025-04-07 09:54:02",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "582401": {
+            "manifests": {
+                "public": {
+                    "gid": "563621876600320884",
+                    "size": "2737108702",
+                    "download": "673400944"
+                },
+                "releasecandidate": {
+                    "gid": "2384031859959333272",
+                    "size": "2738949664",
+                    "download": "673675808"
+                },
+                "beta": {
+                    "gid": "6271131140907776038",
+                    "size": "2739163680",
+                    "download": "673721264"
+                }
+            },
+            "decryptionkey": "e8b47259be06a7ed76a9551ac6d424e292e4a5804f365602a07b3e91c34b5d6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16830239",
+                "timeupdated": "1735685953"
+            },
+            "releasecandidate": {
+                "buildid": "18005728",
+                "description": "The next release, early.",
+                "timeupdated": "1743990838"
+            },
+            "beta": {
+                "buildid": "18005535",
+                "description": " Latest changes. Probably broken.",
+                "timeupdated": "1743988773"
+            }
+        }
+    }
+}
