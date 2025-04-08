@@ -1,0 +1,58 @@
+{
+    "appid": "239350",
+    "type": "Game",
+    "name": "Spelunky",
+    "schinese_name": "洞穴探险",
+    "isfreeapp": "0",
+    "change_number": "28151917",
+    "update_time": "2025-03-26 23:09:00",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "239351": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2622961810503583299",
+                    "size": "193507203",
+                    "download": "168314960"
+                },
+                "version1_4": {
+                    "gid": "3433023849712471361",
+                    "size": "174211991",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c73f8430e3445bc22b8394a97dedbad3103ee137ea5da92fbd98915fec8957ec"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "7446143",
+                "timeupdated": "1632925340"
+            },
+            "version1_4": {
+                "buildid": "218314",
+                "description": "version1_4",
+                "timeupdated": "1632924569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
