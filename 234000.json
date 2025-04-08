@@ -1,0 +1,67 @@
+{
+    "appid": "234000",
+    "type": "Game",
+    "name": "Superfrog HD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27898425",
+    "update_time": "2025-03-12 04:20:45",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "234001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9135488513349941254",
+                    "size": "74500412",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "129383c3e79ec8b06b4b06ec4abb760049f07f588d6eac8bd859c5a3f25f9150"
+        },
+        "234002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4385304055815824128",
+                    "size": "74087606",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "976cd29e9a055ede5862cf9dea2394184b634d6bd882c116c4da3a794e05128c"
+        },
+        "234003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3098009521695129213",
+                    "size": "88648131",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "17e5a65589e428d372fed0cb73c5e5a7199afe8c6d9e10e995726570b6ca51b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "104513"
+            }
+        }
+    }
+}
