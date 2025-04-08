@@ -1,0 +1,70 @@
+{
+    "appid": "243040",
+    "type": "Game",
+    "name": "Startopia",
+    "schinese_name": "模拟星城",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 08:12:21",
+    "depot": {
+        "overridescddb": "1",
+        "243041": {
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3696855512980811143",
+                    "size": "593885512",
+                    "download": "409605152"
+                },
+                "beta": {
+                    "gid": "3696855512980811143",
+                    "size": "593885512",
+                    "download": "409605152"
+                },
+                "beta_debug": {
+                    "gid": "3696855512980811143",
+                    "size": "593885512",
+                    "download": "409605152"
+                }
+            },
+            "decryptionkey": "3563a2e3354f81cf2284d6a2b7520aa90966f2da79ddff2b413ce7898128f728"
+        },
+        "243042": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "618045617970852973",
+                    "size": "595000086",
+                    "download": "366321328"
+                },
+                "beta_debug": {
+                    "gid": "1650405023404418983",
+                    "size": "595059501",
+                    "download": "366337376"
+                }
+            },
+            "decryptionkey": "6ea1a3ebfbf10ea62e79e683958895c0349fcd94cef912edbc663b359f1bc35b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6307568",
+                "timeupdated": "1614533334"
+            },
+            "beta": {
+                "buildid": "6672773",
+                "description": "Startopia 1.01.1-b3",
+                "timeupdated": "1620600315"
+            },
+            "beta_debug": {
+                "buildid": "8569185",
+                "description": "Startopia 1.01.1-b3 (Logging Enabled)",
+                "timeupdated": "1650116083"
+            }
+        }
+    }
+}
