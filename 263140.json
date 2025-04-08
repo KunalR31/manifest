@@ -1,0 +1,53 @@
+{
+    "appid": "263140",
+    "type": "Game",
+    "name": "Postmortem: one must die (Extended Cut)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27239311",
+    "update_time": "2025-01-31 01:16:43",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "263141": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1496425469344595932",
+                    "size": "33362159",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "12e9fdc996791f0a33b9684e2716da97c36659b5c34c1b5e68cfef6f5ca861ba"
+        },
+        "263142": {
+            "manifests": {
+                "public": {
+                    "gid": "1701392903639598765",
+                    "size": "8977414",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a336c897c9d44ae2c407711167ed500610de4e3fb694c0fd959a9ffb7c3c343a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "148345"
+            }
+        }
+    }
+}
