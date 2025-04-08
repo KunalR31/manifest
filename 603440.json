@@ -1,0 +1,74 @@
+{
+    "appid": "603440",
+    "type": "Demo",
+    "name": "Empires of the Undergrowth Demo",
+    "schinese_name": "试用版地下蚁国 Empires of the Undergrowth Demo",
+    "isfreeapp": "0",
+    "change_number": "24236704",
+    "update_time": "2024-07-16 02:44:18",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "603441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4054464038117943486",
+                    "size": "3529365872",
+                    "download": "3407204480"
+                }
+            },
+            "decryptionkey": "b6941044a2a40ea4bd3949014291127d295ceecd18a1532acf8f62a344ed74e9"
+        },
+        "603442": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7947362991401764771",
+                    "size": "3460953157",
+                    "download": "3368273456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "603443": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5206736598663353308",
+                    "size": "3683534145",
+                    "download": "3386404304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10001945",
+                "timeupdated": "1669222451"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
