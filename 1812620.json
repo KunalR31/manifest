@@ -1,0 +1,63 @@
+{
+    "appid": "1812620",
+    "type": "Application",
+    "name": "DSX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28331993",
+    "update_time": "2025-04-06 20:14:20",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1812620",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1812621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2023660974729136216",
+                    "size": "394408373",
+                    "download": "136630400"
+                },
+                "dsx_v3.1_beta": {
+                    "gid": "4875794725996027228",
+                    "size": "384177601",
+                    "download": "120095888"
+                },
+                "dsx_2.5.0": {
+                    "gid": "4756084215369874936",
+                    "size": "45157473",
+                    "download": "23540240"
+                }
+            },
+            "decryptionkey": "b16191edf34d9d15597769ae5e091678e720af03f27763b92088c6eace30e1d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17334488",
+                "timeupdated": "1739355094"
+            },
+            "dsx_v3.1_beta": {
+                "buildid": "18001549",
+                "description": "v3.1 Beta",
+                "timeupdated": "1743941649"
+            },
+            "dsx_2.5.0": {
+                "buildid": "13063683",
+                "description": "DSX v2.5.0",
+                "timeupdated": "1729893678"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
