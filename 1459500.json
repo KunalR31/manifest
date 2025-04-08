@@ -1,0 +1,66 @@
+{
+    "appid": "1459500",
+    "type": "Game",
+    "name": "Atlas Architect",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25600027",
+    "update_time": "2024-10-09 02:44:51",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1459501": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5496545432038848087",
+                    "size": "2550153910",
+                    "download": "660446720"
+                },
+                "beta": {
+                    "gid": "5496545432038848087",
+                    "size": "2550153910",
+                    "download": "660446720"
+                },
+                "stable": {
+                    "gid": "8243104883933147910",
+                    "size": "2540059614",
+                    "download": "660229888"
+                }
+            },
+            "decryptionkey": "0f7203c5e061336cf091fb53688cfd6b9852453c72d41287ff7a0902640b6c45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6733886",
+                "timeupdated": "1621545102"
+            },
+            "beta": {
+                "buildid": "6733886",
+                "description": "This is a beta branch to test out new features that will come",
+                "timeupdated": "1621545083"
+            },
+            "stable": {
+                "buildid": "6598319",
+                "description": "The previous version in case you need to go back a version",
+                "timeupdated": "1619961680"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
