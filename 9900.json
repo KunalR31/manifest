@@ -1,0 +1,46 @@
+{
+    "appid": "9900",
+    "type": "Game",
+    "name": "Star Trek Online",
+    "schinese_name": "星际迷航OL",
+    "isfreeapp": "1",
+    "change_number": "28160032",
+    "update_time": "2025-03-27 08:26:21",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1829726630299308803",
+                    "size": "102931551",
+                    "download": "100658080"
+                }
+            },
+            "depotfromapp": "228980"
+        },
+        "9901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3342023251743344554",
+                    "size": "442829325",
+                    "download": "101075040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11833678",
+                "timeupdated": "1690851184"
+            }
+        }
+    }
+}
