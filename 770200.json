@@ -1,0 +1,108 @@
+{
+    "appid": "770200",
+    "type": "Game",
+    "name": "Squally",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27392664",
+    "update_time": "2025-02-10 09:25:58",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "770201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "845123214001451313",
+                    "size": "1188459886",
+                    "download": "587384336"
+                },
+                "alpha": {
+                    "gid": "8545132381935697591",
+                    "size": "1357081265",
+                    "download": "614848032"
+                }
+            },
+            "decryptionkey": "1de349259456666c2f49c174976d08a7afe3a0ff94cb59c83ccfaa9c2e31c0a3"
+        },
+        "770202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3148878166592404065",
+                    "size": "856246378",
+                    "download": "545763040"
+                },
+                "alpha": {
+                    "gid": "5049793544721883286",
+                    "size": "884638525",
+                    "download": "547456560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "770203": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1942669362886111078",
+                    "size": "890409576",
+                    "download": "544646672"
+                },
+                "alpha": {
+                    "gid": "8079162512654872647",
+                    "size": "890413851",
+                    "download": "544677904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11779168",
+                "timeupdated": "1690257469"
+            },
+            "alpha": {
+                "buildid": "11808316",
+                "description": "The alpha Squally release",
+                "timeupdated": "1690520480"
+            }
+        }
+    }
+}
