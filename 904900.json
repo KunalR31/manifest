@@ -1,0 +1,65 @@
+{
+    "appid": "904900",
+    "type": "Game",
+    "name": "Pinup Ball",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25590022",
+    "update_time": "2024-10-08 23:22:02",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "904901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4696200561018640025",
+                    "size": "498510320",
+                    "download": "138495936"
+                }
+            },
+            "decryptionkey": "094d67b2e5dc7b5d5627e467a92000bd29327c7a6f432631f56019cc74dff657"
+        },
+        "904902": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3914926332330000032",
+                    "size": "509365713",
+                    "download": "141244144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "904903": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6967669463063460942",
+                    "size": "545774328",
+                    "download": "152202240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "5200249",
+                "timeupdated": "1592880959"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
