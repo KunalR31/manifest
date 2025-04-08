@@ -1,0 +1,97 @@
+{
+    "appid": "287390",
+    "type": "Game",
+    "name": "Metro: Last Light Redux",
+    "schinese_name": "地铁：最后的曙光 重制版",
+    "isfreeapp": "0",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:36",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "287391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5751786806703515364",
+                    "size": "9855985703",
+                    "download": "7862756960"
+                }
+            },
+            "decryptionkey": "b83248490dbb4df7788d5976584e6829597922e10fb4a9ab537e4da04c52b61b"
+        },
+        "287392": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2801661353323416159",
+                    "size": "57370606",
+                    "download": "23534592"
+                }
+            },
+            "decryptionkey": "b31b8b47d359f387ffb0f435de1b127ab2a3dfcfd16304b1d18efff394f3c7f5"
+        },
+        "287393": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5149438900906501530",
+                    "size": "9904073554",
+                    "download": "7885960976"
+                }
+            },
+            "decryptionkey": "fa5c1730f37f191734c73125f261a1f4d6055af0c97b73aad96a19d5f6d33beb"
+        },
+        "287394": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5510399873816608986",
+                    "size": "9903116699",
+                    "download": "7556713808"
+                }
+            },
+            "decryptionkey": "1c30d69b4f3d6c0c219d09fd9c9cdce42c3802d44cd76490d2be50dab0e45c9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3790649",
+                "timeupdated": "1558008045"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
