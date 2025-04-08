@@ -1,0 +1,80 @@
+{
+    "appid": "412680",
+    "type": "Tool",
+    "name": "The Isle Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28311651",
+    "update_time": "2025-04-04 23:31:25",
+    "depot": {
+        "412681": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2602016430604302144",
+                    "size": "2324743012",
+                    "download": "593198128"
+                },
+                "promotional": {
+                    "gid": "8450962309860220137",
+                    "size": "2304778154",
+                    "download": "568756976"
+                },
+                "spiro0.11.59.04": {
+                    "gid": "6019984741479392759",
+                    "size": "1677359313",
+                    "download": "1048626048"
+                },
+                "evrima": {
+                    "gid": "4205458443572850853",
+                    "size": "942346386",
+                    "download": "750615152"
+                }
+            },
+            "decryptionkey": "abe3e8ff4ed46a384307cbe0924d455dd904fbdd808c2f331a3cbb1214d013ee"
+        },
+        "412682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "spiro0.11.59.04": {
+                    "gid": "3175858647194091748",
+                    "size": "3508277151",
+                    "download": "1268531152"
+                },
+                "evrima": {
+                    "gid": "7872785571694865758",
+                    "size": "875725872",
+                    "download": "630253664"
+                }
+            },
+            "decryptionkey": "210e02c213ad49e7612862dc38ed7770405c91b32fee506ee50860dc45fa0ec2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8170223",
+                "timeupdated": "1644385904"
+            },
+            "promotional": {
+                "buildid": "3728268",
+                "description": "Promotional and Marketing Branch",
+                "timeupdated": "1556985533"
+            },
+            "spiro0.11.59.04": {
+                "buildid": "12380465",
+                "description": "evrima spiro branch",
+                "timeupdated": "1699983388"
+            },
+            "evrima": {
+                "buildid": "17964670",
+                "description": "evrima servers",
+                "timeupdated": "1743655887"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
