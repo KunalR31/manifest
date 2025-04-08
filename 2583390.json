@@ -1,0 +1,98 @@
+{
+    "appid": "2583390",
+    "type": "Demo",
+    "name": "BORE BLASTERS Demo",
+    "schinese_name": "《深地爆破采掘》试玩版",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:44",
+    "depot": {
+        "2583391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2518810440251526577",
+                    "size": "509798336",
+                    "download": "454510096"
+                },
+                "experimental": {
+                    "gid": "2518810440251526577",
+                    "size": "509798336",
+                    "download": "454510096"
+                },
+                "gamepad_input_tool": {
+                    "gid": "2103726289112504380",
+                    "size": "9721256",
+                    "download": "3842064"
+                }
+            },
+            "decryptionkey": "a4a93577ec438fdc9331da54fcd4e57256acd6d7e4221963459b1866e90ad8a3"
+        },
+        "2583392": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8774096913577803942",
+                    "size": "507924826",
+                    "download": "453861632"
+                },
+                "experimental": {
+                    "gid": "8774096913577803942",
+                    "size": "507924826",
+                    "download": "453861632"
+                },
+                "gamepad_input_tool": {
+                    "gid": "1884366460899490529",
+                    "size": "28226570",
+                    "download": "7860800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2583393": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8935924527982591921",
+                    "size": "511092908",
+                    "download": "454500384"
+                },
+                "experimental": {
+                    "gid": "8935924527982591921",
+                    "size": "511092908",
+                    "download": "454500384"
+                },
+                "gamepad_input_tool": {
+                    "gid": "7912620658805733075",
+                    "size": "3852643",
+                    "download": "1512032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13831689",
+                "timeupdated": "1711191931"
+            },
+            "experimental": {
+                "buildid": "13831689",
+                "description": "Help test bleeding edge builds. WARNING: Save file at risk",
+                "timeupdated": "1711191916"
+            },
+            "gamepad_input_tool": {
+                "buildid": "13360977",
+                "description": "Utility for mapping input for gamepads not detected by the game",
+                "timeupdated": "1707040585"
+            }
+        }
+    }
+}
