@@ -1,0 +1,100 @@
+{
+    "appid": "289890",
+    "type": "Game",
+    "name": "7,62 High Calibre",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28132103",
+    "update_time": "2025-03-25 23:12:12",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "289891": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4394491019637710366",
+                    "size": "4310664724",
+                    "download": "0"
+                },
+                "community_patch_and_bsm": {
+                    "gid": "3240372821773411287",
+                    "size": "5886880142",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e4318b2557161dc0059c4c9349401a80a7b1b70e4627d1ef1c985aa0a80efdb9"
+        },
+        "289892": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1052264886584732166",
+                    "size": "738839081",
+                    "download": "0"
+                },
+                "community_patch_and_bsm": {
+                    "gid": "8675243599363307847",
+                    "size": "2322174760",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6cbb58b79408d350ccd64e9ff27c5749fc6fc73e05a5670da81b0f61aa0fe7ef"
+        },
+        "289893": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6545668505936924739",
+                    "size": "710405770",
+                    "download": "0"
+                },
+                "community_patch_and_bsm": {
+                    "gid": "2216520765106509878",
+                    "size": "2302177447",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fa497cd424ac79d05b5bf801e66fd071f4a99551862142ecf7ffe52521e2a08a"
+        },
+        "289894": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741485420224750686",
+                    "size": "741342907",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d1a40ef2098c9121f25bcebae9bb039531ce7d7d860a3cc1dc4faf7cad28ba57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "284435"
+            },
+            "community_patch_and_bsm": {
+                "buildid": "254666",
+                "description": "Free bonus: community-made patch and Blue Sun Mod. Enjoy!"
+            }
+        }
+    }
+}
