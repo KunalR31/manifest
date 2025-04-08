@@ -1,0 +1,75 @@
+{
+    "appid": "614950",
+    "type": "Game",
+    "name": "Shootout on Cash Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25946203",
+    "update_time": "2024-10-29 15:32:21",
+    "depot": {
+        "614951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3301923357930252051",
+                    "size": "144440486",
+                    "download": "50097744"
+                },
+                "test": {
+                    "gid": "4275609553676010792",
+                    "size": "144350450",
+                    "download": "50085680"
+                }
+            },
+            "decryptionkey": "5d9e4a324bd315fc5948ce2952a13e4a7db5e5c915bb8b6af0a315c1f1764712"
+        },
+        "614952": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6902324543694275494",
+                    "size": "182879753",
+                    "download": "61472384"
+                },
+                "test": {
+                    "gid": "6902324543694275494",
+                    "size": "182879753",
+                    "download": "61472384"
+                }
+            },
+            "decryptionkey": "31327486da47432cb929692673e6136076ef8c6324d8be4643116e9825ed73ae"
+        },
+        "614953": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8589056714170408994",
+                    "size": "188486309",
+                    "download": "61588032"
+                },
+                "test": {
+                    "gid": "7198169687072026072",
+                    "size": "188396309",
+                    "download": "61576320"
+                }
+            },
+            "decryptionkey": "5e7ae3820f683be48f9147ce697639fa44adf66a6596d13bb2d97f2c4c2631ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2554878",
+                "timeupdated": "1519544499"
+            },
+            "test": {
+                "buildid": "2554866",
+                "timeupdated": "1519543383"
+            }
+        }
+    }
+}
