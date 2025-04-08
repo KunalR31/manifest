@@ -1,0 +1,69 @@
+{
+    "appid": "262000",
+    "type": "Game",
+    "name": "Gabriel Knight - Sins of the Fathers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28045515",
+    "update_time": "2025-03-20 13:54:59",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "262001": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3699047004336691693",
+                    "size": "3044342357",
+                    "download": "1685697248"
+                }
+            },
+            "decryptionkey": "9fa652e00dfac45baad0f955eb4da4a3ea87d1bf12f0fd362dee30d27ada4f2e"
+        },
+        "262002": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1188698234338795369",
+                    "size": "3056712218",
+                    "download": "1689240032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "322090": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1940742625972625767",
+                    "size": "241299145",
+                    "download": "203308384"
+                }
+            },
+            "dlcappid": "322090",
+            "decryptionkey": "bea0ae7217fcbc2843d219d1a03fa7ae2b2c37b1910f5b9bfc30423f87138ae7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2239025",
+                "timeupdated": "1509220121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
