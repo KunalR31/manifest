@@ -1,0 +1,54 @@
+{
+    "appid": "289600",
+    "type": "Game",
+    "name": "Marauder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26371153",
+    "update_time": "2024-12-05 03:38:03",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "289601": {
+            "systemdefined": "1",
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6334747893142573897",
+                    "size": "3920876521",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "886fa9168dd7e4db59e7674992252732e7d55b58094aa7fd95873138d53a2117"
+        },
+        "289602": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7290326661091989072",
+                    "size": "3777710049",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cc99b42910645332fe7ffec69811af3bbbeb7484136e0ef4673e76fac158a716"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "310081"
+            }
+        }
+    }
+}
