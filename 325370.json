@@ -1,0 +1,100 @@
+{
+    "appid": "325370",
+    "type": "Game",
+    "name": "Nova-111",
+    "schinese_name": "诺瓦111",
+    "isfreeapp": "0",
+    "change_number": "27165345",
+    "update_time": "2025-01-26 01:26:18",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "325371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5711668275999505133",
+                    "size": "295146915",
+                    "download": "211587248"
+                },
+                "beta-public": {
+                    "gid": "4516541228758117322",
+                    "size": "299941924",
+                    "download": "213138832"
+                }
+            },
+            "decryptionkey": "5bfa43e89a282837c9442d2c9da98cdb869f5385057bd3e1ae31ec89496a5ded"
+        },
+        "325372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8729403556212714861",
+                    "size": "288422753",
+                    "download": "208677424"
+                },
+                "beta-public": {
+                    "gid": "8729403556212714861",
+                    "size": "288422753",
+                    "download": "208677424"
+                }
+            },
+            "decryptionkey": "ff782ff6728c83e581d17eabbcfceb93d38e2e1db848dcc5e1bbfd845ee03559"
+        },
+        "325373": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3742150662150622809",
+                    "size": "6",
+                    "download": "64"
+                },
+                "beta-public": {
+                    "gid": "3742150662150622809",
+                    "size": "6",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "393400": {
+            "manifests": {
+                "public": {
+                    "gid": "253158611668140053",
+                    "size": "242764165",
+                    "download": "117588752"
+                },
+                "beta-public": {
+                    "gid": "253158611668140053",
+                    "size": "242764165",
+                    "download": "117588752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "325370",
+        "branches": {
+            "public": {
+                "buildid": "758623"
+            },
+            "beta-public": {
+                "buildid": "776057",
+                "description": "Public Beta Branch"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
