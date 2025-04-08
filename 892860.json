@@ -1,0 +1,60 @@
+{
+    "appid": "892860",
+    "type": "Game",
+    "name": "Hot Brass",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28219943",
+    "update_time": "2025-03-31 08:52:05",
+    "depot": {
+        "892861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2721946524128476797",
+                    "size": "1460209486",
+                    "download": "642076240"
+                },
+                "demo": {
+                    "gid": "2918605855963276337",
+                    "size": "883251271",
+                    "download": "390536304"
+                }
+            },
+            "decryptionkey": "ce35461f40680e1e024bd4501e1d9a9dfec479bc611b67b7bdfa85e57c65f69f"
+        },
+        "892862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2809202895514594072",
+                    "size": "1470799592",
+                    "download": "642817888"
+                },
+                "demo": {
+                    "gid": "1087555899456863922",
+                    "size": "887952809",
+                    "download": "392162112"
+                }
+            },
+            "decryptionkey": "5f6a780c5fd1d0eb07ad69784e214b5e8125de8c519ea659cfbb8ed6d42a0b34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7608056",
+                "timeupdated": "1635716484"
+            },
+            "demo": {
+                "buildid": "6164809",
+                "description": "Hot Brass public demo",
+                "timeupdated": "1612072264"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
