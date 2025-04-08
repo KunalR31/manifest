@@ -1,0 +1,62 @@
+{
+    "appid": "292500",
+    "type": "Game",
+    "name": "Kero Blaster",
+    "schinese_name": "青蛙爆破者",
+    "isfreeapp": "0",
+    "change_number": "27142347",
+    "update_time": "2025-01-24 11:23:47",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "292501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7254281291294773894",
+                    "size": "4733948",
+                    "download": "1749120"
+                }
+            },
+            "decryptionkey": "2dc74ac18bd794e8eeb5a2e2742adaa33361f57ebab6eb84dfaa8fb14a840909"
+        },
+        "292502": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2748561577622972836",
+                    "size": "13395695",
+                    "download": "4385920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11311936",
+                "timeupdated": "1688030865"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
