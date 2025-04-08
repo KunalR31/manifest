@@ -1,0 +1,103 @@
+{
+    "appid": "598960",
+    "type": "Game",
+    "name": "Mashinky",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28315384",
+    "update_time": "2025-04-05 03:11:03",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "598960",
+        "baselanguages": "english,german,french,spanish,russian,polish,hungarian,czech,greek,ukrainian",
+        "598961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1349155273170774464",
+                    "size": "2567306285",
+                    "download": "1420923744"
+                },
+                "experimental": {
+                    "gid": "8702399003379077028",
+                    "size": "2763225228",
+                    "download": "1465772400"
+                }
+            },
+            "decryptionkey": "9d88d079e93fef860f02f523d96753834ca8ba9f4d621b9d3f2b0eea5c1636d9"
+        },
+        "598962": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3510988075391601506",
+                    "size": "2881088",
+                    "download": "1102352"
+                },
+                "experimental": {
+                    "gid": "2537418185617596712",
+                    "size": "13540416",
+                    "download": "4409376"
+                }
+            },
+            "decryptionkey": "58a08fd3b80707e9aca19c25a82c68596c32077137f451f8ab0bd4dae5729bb8"
+        },
+        "598963": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "723125779043376741",
+                    "size": "16043072",
+                    "download": "5259744"
+                },
+                "experimental": {
+                    "gid": "4490411499817203930",
+                    "size": "16141888",
+                    "download": "5131344"
+                }
+            },
+            "decryptionkey": "1105caa0d783a873e19369cec68a8effd8b323ad04931bcbff23d71b6ce67077"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16818013",
+                "timeupdated": "1734987977"
+            },
+            "experimental": {
+                "buildid": "17989686",
+                "description": "Public experimental branch",
+                "timeupdated": "1743793859"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
