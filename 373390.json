@@ -1,0 +1,105 @@
+{
+    "appid": "373390",
+    "type": "Game",
+    "name": "Contradiction - the all-video murder mystery adventure",
+    "schinese_name": "矛盾：找出骗子",
+    "isfreeapp": "0",
+    "change_number": "27173967",
+    "update_time": "2025-01-27 02:25:46",
+    "depot": {
+        "baselanguages": "english",
+        "373392": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2788417213224951922",
+                    "size": "2683860352",
+                    "download": "2534268352"
+                },
+                "legacycontradiction": {
+                    "gid": "6052923761551985982",
+                    "size": "2570311125",
+                    "download": "2537539392"
+                },
+                "legacyframework": {
+                    "gid": "891191318473807538",
+                    "size": "2526339029",
+                    "download": "2490627200"
+                },
+                "legacyfrenchtranslation": {
+                    "gid": "3150777328579557942",
+                    "size": "2572400265",
+                    "download": "2535577728"
+                }
+            },
+            "decryptionkey": "47ad9eb0c1b672cbd6282c3b79eb9c84fd85d770ee1a07f63c2048f62e01e343"
+        },
+        "373393": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3853452909600540482",
+                    "size": "2708957670",
+                    "download": "2574603600"
+                },
+                "legacycontradiction": {
+                    "gid": "3853452909600540482",
+                    "size": "2708957670",
+                    "download": "2574603600"
+                },
+                "legacyframework": {
+                    "gid": "3853452909600540482",
+                    "size": "2708957670",
+                    "download": "2574603600"
+                },
+                "legacyfrenchtranslation": {
+                    "gid": "3853452909600540482",
+                    "size": "2708957670",
+                    "download": "2574603600"
+                }
+            },
+            "decryptionkey": "658711e375a311fb077bed869b964cfbf5bf88f1ab124f972f13f971e7cd6a5a"
+        },
+        "373394": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "legacyfrenchtranslation": {
+                    "gid": "640794819847416017",
+                    "size": "2572400265",
+                    "download": "2535577728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6402204",
+                "timeupdated": "1616084779"
+            },
+            "legacycontradiction": {
+                "buildid": "6519863",
+                "description": "Pre-updated version of the game",
+                "timeupdated": "1618050963"
+            },
+            "legacyframework": {
+                "buildid": "6687762",
+                "description": "New version with legacy framework",
+                "timeupdated": "1620818442"
+            },
+            "legacyfrenchtranslation": {
+                "buildid": "6516933",
+                "description": "Original French translation version",
+                "timeupdated": "1617989188"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
