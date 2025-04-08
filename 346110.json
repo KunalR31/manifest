@@ -1,0 +1,796 @@
+{
+    "appid": "346110",
+    "type": "Game",
+    "name": "ARK: Survival Evolved",
+    "schinese_name": "方舟：生存进化",
+    "isfreeapp": "0",
+    "change_number": "28325332",
+    "update_time": "2025-04-06 01:11:27",
+    "depot": {
+        "depotdeltapatches": "1",
+        "workshopdepot": "346110",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,danish,dutch,finnish,swedish,hungarian,czech,turkish,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "346111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7944609839400223881",
+                    "size": "137620726492",
+                    "download": "44481334672"
+                },
+                "linuxnative": {
+                    "gid": "4927865218920367090",
+                    "size": "135233086081",
+                    "download": "42490838944"
+                },
+                "timecapsule": {
+                    "gid": "5259623668775411247",
+                    "size": "18742658083",
+                    "download": "6741439360"
+                }
+            },
+            "decryptionkey": "5edb307972cd5bf1e3081aedc986ef721dfd27cae16d0a976c6b7ea6e8ff2089"
+        },
+        "346113": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8339919800688829995",
+                    "size": "97861863178",
+                    "download": "42016573776"
+                },
+                "linuxnative": {
+                    "gid": "3685325351321781615",
+                    "size": "95708475371",
+                    "download": "40078242960"
+                },
+                "timecapsule": {
+                    "gid": "446998918106248362",
+                    "size": "71355735236",
+                    "download": "32156464320"
+                }
+            },
+            "decryptionkey": "3cde616ad9b9f9def5512691fe0a3ba1dfe8a6d773e68ea3b01f73b5f4f5a6bd"
+        },
+        "473850": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "473850"
+        },
+        "346114": {
+            "dlcappid": "473850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1260533330891460533",
+                    "size": "12154932375",
+                    "download": "1791853344"
+                },
+                "linuxnative": {
+                    "gid": "1260533330891460533",
+                    "size": "12154932375",
+                    "download": "1791853344"
+                },
+                "timecapsule": {
+                    "gid": "2998585728778840258",
+                    "size": "12352490475",
+                    "download": "1828123552"
+                }
+            },
+            "decryptionkey": "d8d49ab98f0f7530c0c2926213c7ac64625712a2efbbc96e6b3f06943741f806"
+        },
+        "346115": {
+            "dlcappid": "473850",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7211460979435225614",
+                    "size": "2811927869",
+                    "download": "820646832"
+                },
+                "linuxnative": {
+                    "gid": "7211460979435225614",
+                    "size": "2811927869",
+                    "download": "820646832"
+                },
+                "timecapsule": {
+                    "gid": "4323918532956746003",
+                    "size": "2823885162",
+                    "download": "833309472"
+                }
+            },
+            "decryptionkey": "32f03ae1bf21e71fbd0361230a6442e2a221bbfced8fdb4fd37b7ab0225cb99c"
+        },
+        "508150": {
+            "dlcappid": "508150"
+        },
+        "346117": {
+            "dlcappid": "508150",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2507825098602328137",
+                    "size": "1904405809",
+                    "download": "844806048"
+                },
+                "linuxnative": {
+                    "gid": "2507825098602328137",
+                    "size": "1904405809",
+                    "download": "844806048"
+                },
+                "timecapsule": {
+                    "gid": "2507825098602328137",
+                    "size": "1904405809",
+                    "download": "844806048"
+                }
+            },
+            "decryptionkey": "5a2bbc7508560b4d6f663c0db1923379ce85a1d08ac9750e64bdb821968e5245"
+        },
+        "346118": {
+            "dlcappid": "508150",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1999006499798962652",
+                    "size": "1711801410",
+                    "download": "820649264"
+                },
+                "linuxnative": {
+                    "gid": "1999006499798962652",
+                    "size": "1711801410",
+                    "download": "820649264"
+                },
+                "timecapsule": {
+                    "gid": "1999006499798962652",
+                    "size": "1711801410",
+                    "download": "820649264"
+                }
+            },
+            "decryptionkey": "8cffc3c5d721b966af7b470e8ed392cb0440ca975c4f28c6b20bbb0ae437d903"
+        },
+        "512540": {
+            "dlcappid": "512540"
+        },
+        "375351": {
+            "dlcappid": "512540",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8265777340034981821",
+                    "size": "9863625959",
+                    "download": "1535336592"
+                },
+                "linuxnative": {
+                    "gid": "4160188572411691388",
+                    "size": "9434912025",
+                    "download": "1481994400"
+                },
+                "timecapsule": {
+                    "gid": "138079691225791821",
+                    "size": "9598546052",
+                    "download": "1508570576"
+                }
+            },
+            "decryptionkey": "80573113a7bf294555b4c8e4e041c69e7a5a69527a4b65d3ce6f47c2382488a7"
+        },
+        "375352": {
+            "dlcappid": "512540",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2239387445239950885",
+                    "size": "1177087271",
+                    "download": "371891696"
+                },
+                "linuxnative": {
+                    "gid": "5149472516830494417",
+                    "size": "1173522299",
+                    "download": "370897424"
+                },
+                "timecapsule": {
+                    "gid": "3830315039086485039",
+                    "size": "1175821416",
+                    "download": "371620016"
+                }
+            },
+            "decryptionkey": "4165ab1d0803718ec4e69bdea9e03cdb00d9be97d60761600f69aa02635a6818"
+        },
+        "642250": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "642250"
+        },
+        "375354": {
+            "dlcappid": "642250",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7952753366101555648",
+                    "size": "27194803285",
+                    "download": "3274884752"
+                },
+                "linuxnative": {
+                    "gid": "7952753366101555648",
+                    "size": "27194803285",
+                    "download": "3274884752"
+                },
+                "timecapsule": {
+                    "gid": "4526004253456827413",
+                    "size": "27558321009",
+                    "download": "3298328720"
+                }
+            },
+            "decryptionkey": "e2fa71e01810bbd554e94713e84efb084e0a99ff78f21fba3c201410f74e9a19"
+        },
+        "375355": {
+            "dlcappid": "642250",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5324252023372007884",
+                    "size": "2953248412",
+                    "download": "903893456"
+                },
+                "linuxnative": {
+                    "gid": "6610133429968352098",
+                    "size": "2953248412",
+                    "download": "903893232"
+                },
+                "timecapsule": {
+                    "gid": "2246207471070358533",
+                    "size": "2974416503",
+                    "download": "918568576"
+                }
+            },
+            "decryptionkey": "538aa57c154732fc995904719ff0ae3ebde300e4f4d6be40ec1241b6abef9c54"
+        },
+        "708770": {
+            "dlcappid": "708770"
+        },
+        "375357": {
+            "dlcappid": "708770",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1447242805278740772",
+                    "size": "18243344563",
+                    "download": "2073485296"
+                },
+                "linuxnative": {
+                    "gid": "8194548528566474780",
+                    "size": "18223279924",
+                    "download": "2067456336"
+                },
+                "timecapsule": {
+                    "gid": "1783123806556586272",
+                    "size": "18868780885",
+                    "download": "2132786160"
+                }
+            },
+            "decryptionkey": "9bc45b9b59f3f32154ee76b47ff8b6015e92d5a6342c444bed3eb210bcd24b60"
+        },
+        "375358": {
+            "dlcappid": "708770",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "426338121519536361",
+                    "size": "1124001660",
+                    "download": "418724016"
+                },
+                "linuxnative": {
+                    "gid": "8559883771610393207",
+                    "size": "1124372581",
+                    "download": "418709104"
+                },
+                "timecapsule": {
+                    "gid": "1055153119649014593",
+                    "size": "1121864325",
+                    "download": "417928464"
+                }
+            },
+            "decryptionkey": "380b1dd0c8d2a98996c20021513e4af8768d5c1c19b0299d428c149ea6419be0"
+        },
+        "887380": {
+            "dlcappid": "887380"
+        },
+        "473851": {
+            "dlcappid": "887380",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2551727096735353757",
+                    "size": "20535917590",
+                    "download": "2578457024"
+                },
+                "linuxnative": {
+                    "gid": "6136275419040480750",
+                    "size": "20549763810",
+                    "download": "2581404240"
+                },
+                "timecapsule": {
+                    "gid": "4739001782451993505",
+                    "size": "21049896289",
+                    "download": "2596805856"
+                }
+            },
+            "decryptionkey": "99fb597107882942ca94e2038215f03f8707d57b059460ec6bde8265bf020733"
+        },
+        "473852": {
+            "dlcappid": "887380",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2616742401864906431",
+                    "size": "1453254176",
+                    "download": "551445632"
+                },
+                "linuxnative": {
+                    "gid": "2930365275441765716",
+                    "size": "1453253480",
+                    "download": "551461104"
+                },
+                "timecapsule": {
+                    "gid": "1736166767814124020",
+                    "size": "1446259286",
+                    "download": "548283248"
+                }
+            },
+            "decryptionkey": "cf96b8769d1734315042b0239dd110a83d831f4da2cfcc6066d52dd26e294069"
+        },
+        "1100810": {
+            "dlcappid": "1100810"
+        },
+        "473854": {
+            "dlcappid": "1100810",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "847717640995143866",
+                    "size": "22322596997",
+                    "download": "3079118448"
+                },
+                "linuxnative": {
+                    "gid": "847717640995143866",
+                    "size": "22322596997",
+                    "download": "3079118448"
+                },
+                "timecapsule": {
+                    "gid": "1317158397200456933",
+                    "size": "22684681169",
+                    "download": "3102421552"
+                }
+            },
+            "decryptionkey": "dac71f84f6dd940b7bfe12e5df2bb98eff8ba622d76c30091c52ecfd60bbf334"
+        },
+        "473855": {
+            "dlcappid": "1100810",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9041462482401519649",
+                    "size": "2576558140",
+                    "download": "1075944960"
+                },
+                "linuxnative": {
+                    "gid": "9041462482401519649",
+                    "size": "2576558140",
+                    "download": "1075944960"
+                },
+                "timecapsule": {
+                    "gid": "813185601888661487",
+                    "size": "2637389939",
+                    "download": "1119151056"
+                }
+            },
+            "decryptionkey": "f4ab0847fc2c5a996d0dd7e62142319b91e057364458f627065a679042de5cf2"
+        },
+        "1113410": {
+            "dlcappid": "1113410"
+        },
+        "473858": {
+            "dlcappid": "1113410",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1929691095877787242",
+                    "size": "6348254490",
+                    "download": "2060161008"
+                },
+                "linuxnative": {
+                    "gid": "1640625368656565390",
+                    "size": "6348253285",
+                    "download": "2060164144"
+                },
+                "timecapsule": {
+                    "gid": "7304893441017520505",
+                    "size": "1865936882",
+                    "download": "646265184"
+                }
+            },
+            "decryptionkey": "41f8a645e812903465d0edae936402edbec301d6e0704cddc3192e6a661dc133"
+        },
+        "473857": {
+            "dlcappid": "1113410",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1054814513659387220",
+                    "size": "64479046064",
+                    "download": "9009126768"
+                },
+                "linuxnative": {
+                    "gid": "1054814513659387220",
+                    "size": "64479046064",
+                    "download": "9009126768"
+                },
+                "timecapsule": {
+                    "gid": "5836176084617888950",
+                    "size": "19022398764",
+                    "download": "3218341424"
+                }
+            },
+            "decryptionkey": "c9bb21644270fd6883bc3f007aa66f625ea3281ad2196900dfbbdf12ceb58ce2"
+        },
+        "1270830": {
+            "dlcappid": "1270830"
+        },
+        "1318685": {
+            "dlcappid": "1270830",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1190462316094665312",
+                    "size": "50711883620",
+                    "download": "5877886656"
+                },
+                "linuxnative": {
+                    "gid": "1190462316094665312",
+                    "size": "50711883620",
+                    "download": "5877886656"
+                }
+            },
+            "decryptionkey": "323f243a7ced4f90628ba9da901ca96302350c23c625153d21425d93df0a62cf"
+        },
+        "1318686": {
+            "dlcappid": "1270830",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2905223544564987419",
+                    "size": "5220066333",
+                    "download": "2119353280"
+                },
+                "linuxnative": {
+                    "gid": "2905223544564987419",
+                    "size": "5220066333",
+                    "download": "2119353280"
+                }
+            },
+            "decryptionkey": "dd79aabbad1a2c16599b9c57ea58081e50c7ebd49a68a445823000c509361a43"
+        },
+        "1691800": {
+            "dlcappid": "1691800"
+        },
+        "1691801": {
+            "dlcappid": "1691800",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3147973472387347535",
+                    "size": "66716657377",
+                    "download": "11854643952"
+                },
+                "linuxnative": {
+                    "gid": "2115331867882480446",
+                    "size": "66724887847",
+                    "download": "11859863568"
+                }
+            },
+            "decryptionkey": "db89fe99710be8d80b85377d37210487dbce8b9bfb8e90767f97e138d3e0206e"
+        },
+        "1691802": {
+            "dlcappid": "1691800",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8855925838913262422",
+                    "size": "9068912997",
+                    "download": "4068742432"
+                },
+                "linuxnative": {
+                    "gid": "4740233835520162315",
+                    "size": "9068856432",
+                    "download": "4068844480"
+                }
+            },
+            "decryptionkey": "c8ad6983cc292e1bacdb1b413aef29dd704430d075258337a58edf62a8d04fd6"
+        },
+        "1887560": {
+            "dlcappid": "1887560"
+        },
+        "1887561": {
+            "dlcappid": "1887560",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "580528532335699271",
+                    "size": "35570486276",
+                    "download": "6352608256"
+                },
+                "linuxnative": {
+                    "gid": "4123397128972779220",
+                    "size": "35570474153",
+                    "download": "6352604240"
+                }
+            },
+            "decryptionkey": "a3f5aa53c16af324c6b57326578ce7a4341c7aef7a14ff52ccfa35cba9fccbc7"
+        },
+        "1887562": {
+            "dlcappid": "1887560",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2849859682584703966",
+                    "size": "6654144035",
+                    "download": "2855775216"
+                },
+                "linuxnative": {
+                    "gid": "8378976840254401642",
+                    "size": "6654128615",
+                    "download": "2855786112"
+                }
+            },
+            "decryptionkey": "9412a47f669490322d818e4b5d4d184fae7b3ac2ee0db526751f9da74ecd8901"
+        },
+        "1318680": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "8060274748931292766",
+                    "size": "97989326146",
+                    "download": "42008643344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "508152": {
+            "dlcappid": "508150",
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "512541": {
+            "dlcappid": "512540",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "3511445840272695131",
+                    "size": "1177087271",
+                    "download": "371864240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "642251": {
+            "dlcappid": "642250",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "5233120494394645986",
+                    "size": "2953248412",
+                    "download": "903814816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "708771": {
+            "dlcappid": "708770",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "6493885717147978831",
+                    "size": "1124001660",
+                    "download": "418735712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "887381": {
+            "dlcappid": "887380",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "1054470338340920835",
+                    "size": "1453254176",
+                    "download": "551822848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1100811": {
+            "dlcappid": "1100810",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "7695993562551442119",
+                    "size": "2576558140",
+                    "download": "1076083264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1113411": {
+            "dlcappid": "1113410",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "2598227911265107161",
+                    "size": "6348254490",
+                    "download": "2060117104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1270831": {
+            "dlcappid": "1270830",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "1641301694859193503",
+                    "size": "5220066333",
+                    "download": "2119029440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1691805": {
+            "dlcappid": "1691800",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "4699391172317574864",
+                    "size": "9068912997",
+                    "download": "4068174336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1887565": {
+            "dlcappid": "1887560",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linuxnative": {
+                    "gid": "8813640760145155438",
+                    "size": "6654144035",
+                    "download": "2855771120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3537070": {
+            "dlcappid": "3537070",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "14785396",
+                "timeupdated": "1718918622"
+            },
+            "linuxnative": {
+                "buildid": "12322256",
+                "description": "Public Native Linux Branch",
+                "timeupdated": "1696033615"
+            },
+            "timecapsule": {
+                "buildid": "5131249",
+                "timeupdated": "1591497104"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e16ff7f08225d9ae3635a98833a1c63acc58b2a104b0b37a9605d494683787be"
+    }
+}
