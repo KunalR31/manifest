@@ -1,0 +1,72 @@
+{
+    "appid": "2540810",
+    "type": "Game",
+    "name": "Nyran Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28272199",
+    "update_time": "2025-04-03 00:19:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2540813": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2943823314081778725",
+                    "size": "1245112183",
+                    "download": "948775680"
+                },
+                "beta": {
+                    "gid": "2943823314081778725",
+                    "size": "1245112183",
+                    "download": "948775680"
+                }
+            },
+            "decryptionkey": "f54464f0864048bf67b60c2dfeb3ed26b20022700777dcfda4afd385431a1180"
+        },
+        "2540817": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8522092360300416723",
+                    "size": "1272146435",
+                    "download": "957394336"
+                },
+                "beta": {
+                    "gid": "8522092360300416723",
+                    "size": "1272146435",
+                    "download": "957394336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13937758",
+                "timeupdated": "1712693912"
+            },
+            "beta": {
+                "buildid": "13937758",
+                "description": "beta releases, may be buggy",
+                "timeupdated": "1712160092"
+            }
+        }
+    }
+}
