@@ -1,0 +1,73 @@
+{
+    "appid": "2162800",
+    "type": "Game",
+    "name": "shapez 2",
+    "schinese_name": "异形工厂2",
+    "isfreeapp": "0",
+    "change_number": "28292292",
+    "update_time": "2025-04-03 23:52:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2162802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "758591728910960223",
+                    "size": "1560879063",
+                    "download": "887141344"
+                }
+            },
+            "decryptionkey": "163ae6ae731b47cb94170aee0ed8a4d4ecc62c6082bc319cc270e20c5eb0f759"
+        },
+        "2162803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "578849432103113503",
+                    "size": "1600378764",
+                    "download": "886951648"
+                }
+            },
+            "decryptionkey": "9b7c2e9a0f8d2a28b522233286436b360fffb4830d45a69a5a0bf35573da8647"
+        },
+        "2162804": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7786025199282239694",
+                    "size": "1581269757",
+                    "download": "891158512"
+                }
+            },
+            "decryptionkey": "aba21c81613972e41bf5e0131f382113d13fbdee073a02f7065cfc4256630232"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16770018",
+                "timeupdated": "1734433658"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
