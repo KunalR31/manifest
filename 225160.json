@@ -1,0 +1,128 @@
+{
+    "appid": "225160",
+    "type": "Game",
+    "name": "Shadow Warrior Classic Redux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28069353",
+    "update_time": "2025-03-21 18:18:20",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "225161": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4370089163666728974",
+                    "size": "555475331",
+                    "download": "244686368"
+                },
+                "sdl1": {
+                    "gid": "2712263007183425571",
+                    "size": "553700734",
+                    "download": "0"
+                },
+                "public-beta": {
+                    "gid": "4370089163666728974",
+                    "size": "555475331",
+                    "download": "244686368"
+                }
+            },
+            "decryptionkey": "6b711e915571ffb0e5fcc0f915629d94fa98bc2cc8464baa055621cf6190417a"
+        },
+        "225164": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6382181640604874650",
+                    "size": "16879954",
+                    "download": "5827232"
+                },
+                "sdl1": {
+                    "gid": "103784938461046790",
+                    "size": "12007505",
+                    "download": "0"
+                },
+                "public-beta": {
+                    "gid": "6382181640604874650",
+                    "size": "16879954",
+                    "download": "5827232"
+                }
+            },
+            "decryptionkey": "48d72880996e43f80c9fc1a640eb148d0ab5fd0eb990ebc011cd7fe521240976"
+        },
+        "225162": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1469159180937875544",
+                    "size": "21468978",
+                    "download": "7355680"
+                },
+                "sdl1": {
+                    "gid": "431732993603923373",
+                    "size": "11516850",
+                    "download": "0"
+                },
+                "public-beta": {
+                    "gid": "1469159180937875544",
+                    "size": "21468978",
+                    "download": "7355680"
+                }
+            },
+            "decryptionkey": "d1b5da837d4adbb976cac6c0aed0e90000094a10e365983bf37f3d2e54d8c7e8"
+        },
+        "225163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7207821163636110280",
+                    "size": "19532498",
+                    "download": "6566768"
+                },
+                "sdl1": {
+                    "gid": "7499209748010872217",
+                    "size": "18547083",
+                    "download": "0"
+                },
+                "public-beta": {
+                    "gid": "7207821163636110280",
+                    "size": "19532498",
+                    "download": "6566768"
+                }
+            },
+            "decryptionkey": "6f92ea51f09e80e21dde00a98baa99167653e899dc0b33bfddf38120fb385320"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "16799383",
+                "timeupdated": "1734942927"
+            },
+            "sdl1": {
+                "buildid": "198569"
+            },
+            "public-beta": {
+                "buildid": "16799383",
+                "description": "Public Beta",
+                "timeupdated": "1734605620"
+            }
+        }
+    }
+}
