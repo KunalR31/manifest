@@ -1,0 +1,84 @@
+{
+    "appid": "2932580",
+    "type": "Demo",
+    "name": "Tiny Glade Demo",
+    "schinese_name": "林间小世界 试玩版",
+    "isfreeapp": "0",
+    "change_number": "26547928",
+    "update_time": "2024-12-09 01:04:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,norwegian,swedish,turkish,brazilian,ukrainian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2932581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1904697687782655932",
+                    "size": "1819579020",
+                    "download": "1035092144"
+                },
+                "old_1_7_17": {
+                    "gid": "2592879467882792266",
+                    "size": "1731583727",
+                    "download": "967914416"
+                },
+                "testing": {
+                    "gid": "1904697687782655932",
+                    "size": "1819579020",
+                    "download": "1035092144"
+                }
+            },
+            "decryptionkey": "5d4a21bda1f215ee733d19845b1766dd05de4159ca093f8954be6f8dc9024c72"
+        },
+        "2932582": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7737408883555743208",
+                    "size": "1914521881",
+                    "download": "1050253264"
+                },
+                "old_1_7_17": {
+                    "gid": "6451332373542634113",
+                    "size": "1825107951",
+                    "download": "962651104"
+                },
+                "testing": {
+                    "gid": "7737408883555743208",
+                    "size": "1914521881",
+                    "download": "1050253264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15786302",
+                "timeupdated": "1727011893"
+            },
+            "old_1_7_17": {
+                "buildid": "15748696",
+                "description": "Previous build",
+                "timeupdated": "1726763884"
+            },
+            "testing": {
+                "buildid": "15786302",
+                "description": "Pre-release testing (unstable)",
+                "timeupdated": "1727009549"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
