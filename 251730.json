@@ -1,0 +1,85 @@
+{
+    "appid": "251730",
+    "type": "Game",
+    "name": "Legend of Grimrock 2",
+    "schinese_name": "魔岩山传说2",
+    "isfreeapp": "0",
+    "change_number": "28099338",
+    "update_time": "2025-03-24 05:17:53",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7590261144661331237",
+                    "size": "1064384504",
+                    "download": "724470720"
+                },
+                "beta": {
+                    "gid": "7590261144661331237",
+                    "size": "1064384504",
+                    "download": "724470720"
+                },
+                "mac_beta2": {
+                    "gid": "7590261144661331237",
+                    "size": "1064384504",
+                    "download": "724470720"
+                }
+            },
+            "decryptionkey": "9eb6976ef8121eb22a66cf7637f46bf150604d67f3b00c507a57396e4df473b8"
+        },
+        "251732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "439241199539704180",
+                    "size": "1067224844",
+                    "download": "645387840"
+                },
+                "beta": {
+                    "gid": "439241199539704180",
+                    "size": "1067224844",
+                    "download": "645387840"
+                },
+                "mac_beta2": {
+                    "gid": "439241199539704180",
+                    "size": "1067224844",
+                    "download": "645387840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "588981"
+            },
+            "beta": {
+                "buildid": "588981"
+            },
+            "mac_beta2": {
+                "buildid": "588981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
