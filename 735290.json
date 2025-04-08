@@ -1,0 +1,184 @@
+{
+    "appid": "735290",
+    "type": "Game",
+    "name": "Genesis Noir",
+    "schinese_name": "黑色起源",
+    "isfreeapp": "0",
+    "change_number": "26353794",
+    "update_time": "2024-12-05 02:41:06",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "735291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7370712175545779758",
+                    "size": "3765815029",
+                    "download": "3504993904"
+                },
+                "beta": {
+                    "gid": "759724674399877213",
+                    "size": "3069460689",
+                    "download": "2823591472"
+                },
+                "collision_fix": {
+                    "gid": "7370712175545779758",
+                    "size": "3765815029",
+                    "download": "3504993904"
+                },
+                "previous": {
+                    "gid": "556459872753310353",
+                    "size": "3354424862",
+                    "download": "3109249312"
+                }
+            },
+            "decryptionkey": "baa69afd24e04db660470ede76abdc4303e56e7817e7ca35ac7139094e832e05"
+        },
+        "735292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8106997911574878736",
+                    "size": "8676022469",
+                    "download": "5173264608"
+                },
+                "beta": {
+                    "gid": "2898332136479010980",
+                    "size": "24916091087",
+                    "download": "4456706208"
+                },
+                "collision_fix": {
+                    "gid": "8106997911574878736",
+                    "size": "8676022469",
+                    "download": "5173264608"
+                },
+                "previous": {
+                    "gid": "3455322791939979052",
+                    "size": "4073199739",
+                    "download": "3515230368"
+                }
+            },
+            "decryptionkey": "f1c6abd8949ad766837ee601e83c8af689ac18c73c5bfb63188933fe6f32d3db"
+        },
+        "1550160": {
+            "dlcappid": "1550160",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4467495797446742241",
+                    "size": "30565285",
+                    "download": "29921152"
+                },
+                "beta": {
+                    "gid": "4467495797446742241",
+                    "size": "30565285",
+                    "download": "29921152"
+                },
+                "collision_fix": {
+                    "gid": "4467495797446742241",
+                    "size": "30565285",
+                    "download": "29921152"
+                },
+                "previous": {
+                    "gid": "4467495797446742241",
+                    "size": "30565285",
+                    "download": "29921152"
+                }
+            },
+            "decryptionkey": "ce0e741a4397f62b34ef62b7515a531070ffb5f171d2849c192105f12343d658"
+        },
+        "1550162": {
+            "dlcappid": "1550160",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7127850671394424838",
+                    "size": "31687134",
+                    "download": "31127888"
+                },
+                "beta": {
+                    "gid": "7127850671394424838",
+                    "size": "31687134",
+                    "download": "31127888"
+                },
+                "collision_fix": {
+                    "gid": "7127850671394424838",
+                    "size": "31687134",
+                    "download": "31127888"
+                },
+                "previous": {
+                    "gid": "7127850671394424838",
+                    "size": "31687134",
+                    "download": "31127888"
+                }
+            },
+            "decryptionkey": "b68f7616983a66702fd169e767934c616c2b8264ccda30d5bf4b6acf5bab85cb"
+        },
+        "1550161": {
+            "dlcappid": "1550161",
+            "manifests": {
+                "public": {
+                    "gid": "691860882968654821",
+                    "size": "70237600",
+                    "download": "67882416"
+                },
+                "collision_fix": {
+                    "gid": "691860882968654821",
+                    "size": "70237600",
+                    "download": "67882416"
+                },
+                "previous": {
+                    "gid": "691860882968654821",
+                    "size": "70237600",
+                    "download": "67882416"
+                }
+            },
+            "decryptionkey": "e41be509896afe0da2c1b4521dbe93488b04e6aa62de3c4fe831c8aed72330b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9109584",
+                "timeupdated": "1657829059"
+            },
+            "beta": {
+                "buildid": "6470284",
+                "description": "Backup",
+                "timeupdated": "1617203950"
+            },
+            "collision_fix": {
+                "buildid": "9109584",
+                "description": "fix for a loading issue in Collision",
+                "timeupdated": "1657670800"
+            },
+            "previous": {
+                "buildid": "6726719",
+                "description": "The previous version of the game",
+                "timeupdated": "1626105645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
