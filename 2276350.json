@@ -1,0 +1,79 @@
+{
+    "appid": "2276350",
+    "type": "Demo",
+    "name": "Beacon Patrol Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27483590",
+    "update_time": "2025-02-15 00:58:38",
+    "depot": {
+        "2276352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8186627512617823125",
+                    "size": "290684307",
+                    "download": "75157664"
+                },
+                "beta": {
+                    "gid": "8186627512617823125",
+                    "size": "290684307",
+                    "download": "75157664"
+                }
+            },
+            "decryptionkey": "9a67aeff48263502ac0f6b7970b0ac72f8df28ece67428c71c17011e4a9f974d"
+        },
+        "2276353": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2718467014091789445",
+                    "size": "287539606",
+                    "download": "74261920"
+                },
+                "beta": {
+                    "gid": "2718467014091789445",
+                    "size": "287539606",
+                    "download": "74261920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2276354": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "251387773913044243",
+                    "size": "360092872",
+                    "download": "90594288"
+                },
+                "beta": {
+                    "gid": "251387773913044243",
+                    "size": "360092872",
+                    "download": "90594288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14187011",
+                "timeupdated": "1714143355"
+            },
+            "beta": {
+                "buildid": "14187011",
+                "description": "Public Beta branch for testing the newest version",
+                "timeupdated": "1714142764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
