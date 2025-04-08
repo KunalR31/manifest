@@ -1,0 +1,81 @@
+{
+    "appid": "283020",
+    "type": "Game",
+    "name": "The Campaign Series: Fall Weiss",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28156096",
+    "update_time": "2025-03-27 03:14:30",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "283021": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2242195932576802153",
+                    "size": "162288682",
+                    "download": "46728744934"
+                }
+            },
+            "decryptionkey": "fdf3df4e6c674d9f6f382b959d81930291ef2f9595800783e71796b6510ba6ba"
+        },
+        "283022": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5171160593746484160",
+                    "size": "171993319",
+                    "download": "33194181470"
+                }
+            },
+            "decryptionkey": "ac01ba755fa32758af2c5d1ae90c21ff68fca6a9b63dc96dc7b8b77dd9e7e1bc"
+        },
+        "283023": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2595653109237729316",
+                    "size": "168279439",
+                    "download": "45868122475"
+                }
+            },
+            "decryptionkey": "3ef499260b788309239afa604abab854e44d45db6cad17fc6e52fa2d7e24249d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "389845"
+            }
+        }
+    }
+}
