@@ -1,0 +1,59 @@
+{
+    "appid": "1960920",
+    "type": "Game",
+    "name": "Zetria",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28212035",
+    "update_time": "2025-03-30 12:15:00",
+    "depot": {
+        "baselanguages": "english",
+        "1960921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9110419762165931394",
+                    "size": "398124255",
+                    "download": "47543328"
+                },
+                "rollback": {
+                    "gid": "5395074246455303423",
+                    "size": "396058523",
+                    "download": "47531568"
+                }
+            },
+            "decryptionkey": "afd1e33b8ce98b26096ece7f3e2ff1016580da2365390a4f92b62509fb746f62"
+        },
+        "1960922": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3239520305385252755",
+                    "size": "421332629",
+                    "download": "54426688"
+                },
+                "rollback": {
+                    "gid": "8191295558101819282",
+                    "size": "419266897",
+                    "download": "54414512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11669751",
+                "timeupdated": "1689031201"
+            },
+            "rollback": {
+                "buildid": "11123636",
+                "description": "Last working build",
+                "timeupdated": "1689031405"
+            }
+        }
+    }
+}
