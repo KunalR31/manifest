@@ -1,0 +1,62 @@
+{
+    "appid": "105100",
+    "type": "Game",
+    "name": "Lume",
+    "schinese_name": "爷爷的灯光",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-31 01:15:37",
+    "depot": {
+        "105102": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "884769484978269456",
+                    "size": "25461629",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e523e7fa4a906170b81c505f6220fc6e8aca30633d499016ad67e7dd0b7cc209"
+        },
+        "105101": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9012833198265922278",
+                    "size": "21695462",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "612bb4be557797e4122841c0f796842b0312257d7678b37d272548572227f174"
+        },
+        "105103": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5213734843856521823",
+                    "size": "31062179",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0eea3b74a55733bf332c22c0e32f63fd07fcf76f7416f8f35bb496e4e44b226c"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "36182"
+            }
+        }
+    }
+}
