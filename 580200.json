@@ -1,0 +1,88 @@
+{
+    "appid": "580200",
+    "type": "Game",
+    "name": "Yonder: The Cloud Catcher Chronicles",
+    "schinese_name": "在远方：追云者编年史",
+    "isfreeapp": "0",
+    "change_number": "27085012",
+    "update_time": "2025-01-21 08:53:16",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "580201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4231599891483391643",
+                    "size": "1388398721",
+                    "download": "616969296"
+                },
+                "beta": {
+                    "gid": "4231599891483391643",
+                    "size": "1388398721",
+                    "download": "616969296"
+                },
+                "legacy1": {
+                    "gid": "6758096474822517380",
+                    "size": "4008774804",
+                    "download": "1845081088"
+                },
+                "legacy2": {
+                    "gid": "2127314924617672694",
+                    "size": "4008793448",
+                    "download": "1845040272"
+                },
+                "legacy3": {
+                    "gid": "4771476728060401715",
+                    "size": "4008895524",
+                    "download": "1845074704"
+                },
+                "legacy5": {
+                    "gid": "7820480570477273414",
+                    "size": "4060509036",
+                    "download": "1844276384"
+                }
+            },
+            "decryptionkey": "6b72bde47a0beff82486aee836dcecc1288acab97fba440e9b5e30225143574e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2825053",
+                "timeupdated": "1527844521"
+            },
+            "beta": {
+                "buildid": "2825053",
+                "description": "beta testing branch",
+                "timeupdated": "1527844511"
+            },
+            "legacy1": {
+                "buildid": "1970783",
+                "description": "Legacy - Update 1",
+                "timeupdated": "1500693924"
+            },
+            "legacy2": {
+                "buildid": "1975487",
+                "description": "Legacy - Update 2",
+                "timeupdated": "1500958106"
+            },
+            "legacy3": {
+                "buildid": "1985175",
+                "description": "Legacy - Update 3",
+                "timeupdated": "1502580991"
+            },
+            "legacy5": {
+                "buildid": "2151059",
+                "description": "Legacy - Update 5",
+                "timeupdated": "1509002161"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
