@@ -1,0 +1,74 @@
+{
+    "appid": "370900",
+    "type": "Demo",
+    "name": "CrossCode Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28164432",
+    "update_time": "2025-03-27 14:55:01",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "370901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5420801438571165150",
+                    "size": "133091107",
+                    "download": "94577040"
+                }
+            }
+        },
+        "370902": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7295400062498669010",
+                    "size": "226527216",
+                    "download": "116126080"
+                }
+            }
+        },
+        "370903": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3291965026718583093",
+                    "size": "216462904",
+                    "download": "115571488"
+                }
+            }
+        },
+        "370904": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5645372482135323196",
+                    "size": "221197938",
+                    "download": "111442208"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1275183",
+                "timeupdated": "1470942169"
+            }
+        }
+    }
+}
