@@ -1,0 +1,89 @@
+{
+    "appid": "1290220",
+    "type": "Game",
+    "name": "Elasto Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25695262",
+    "update_time": "2024-10-14 01:12:25",
+    "depot": {
+        "workshopdepot": "1290220",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1290221": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3575341235082335450",
+                    "size": "20071512",
+                    "download": "6307648"
+                },
+                "beta": {
+                    "gid": "3575341235082335450",
+                    "size": "20071512",
+                    "download": "6307648"
+                }
+            },
+            "decryptionkey": "0f5f4a6e524c6779ae0f36fc7897138152c55ec12ef4cc1947bf177068b4bd2c"
+        },
+        "1290222": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2653238279262776518",
+                    "size": "132138332",
+                    "download": "42820928"
+                },
+                "beta": {
+                    "gid": "2653238279262776518",
+                    "size": "132138332",
+                    "download": "42820928"
+                }
+            },
+            "decryptionkey": "150de84d86370e58f991de7dc98551101d744e5aec69083b45a639753bbb4685"
+        },
+        "1290223": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2391103761179052251",
+                    "size": "6614180",
+                    "download": "2599648"
+                },
+                "beta": {
+                    "gid": "2391103761179052251",
+                    "size": "6614180",
+                    "download": "2599648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12382310",
+                "timeupdated": "1696680178"
+            },
+            "beta": {
+                "buildid": "12382310",
+                "description": "Elasto Mania open beta testing",
+                "timeupdated": "1696679926"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
