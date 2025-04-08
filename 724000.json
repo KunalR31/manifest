@@ -1,0 +1,45 @@
+{
+    "appid": "724000",
+    "type": "Game",
+    "name": "Uragun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27360456",
+    "update_time": "2025-02-07 16:29:15",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "724001": {
+            "manifests": {
+                "public": {
+                    "gid": "3952691164147598013",
+                    "size": "11205296101",
+                    "download": "3031376176"
+                },
+                "legacy": {
+                    "gid": "4300477393563828616",
+                    "size": "7904950602",
+                    "download": "2096395664"
+                }
+            },
+            "decryptionkey": "de3a33fb822f7f87a84a61062b9328d9d1be7293e25035d6dca8859c980491e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12033880",
+                "timeupdated": "1693049240"
+            },
+            "legacy": {
+                "buildid": "8626269",
+                "description": "Original Early Access release without permadeath.",
+                "timeupdated": "1672236186"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
