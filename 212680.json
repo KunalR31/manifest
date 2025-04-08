@@ -1,0 +1,116 @@
+{
+    "appid": "212680",
+    "type": "Game",
+    "name": "FTL: Faster Than Light",
+    "schinese_name": "超越光速",
+    "isfreeapp": "0",
+    "change_number": "28320445",
+    "update_time": "2025-04-05 12:20:32",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "212681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7129506338464639292",
+                    "size": "286586003",
+                    "download": "199501888"
+                },
+                "beta": {
+                    "gid": "7129506338464639292",
+                    "size": "286586003",
+                    "download": "199501888"
+                }
+            },
+            "decryptionkey": "1d2c7c92ca9160c354942c3046435ebbc754d38a3c21c2f381f5811fbcdbd983"
+        },
+        "212682": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7312309456845465813",
+                    "size": "284228511",
+                    "download": "196913392"
+                },
+                "beta": {
+                    "gid": "7312309456845465813",
+                    "size": "284228511",
+                    "download": "196913392"
+                }
+            },
+            "decryptionkey": "a1bee0011fce8ad5500a891dd24de5637061b3d22fc0b52b08ae84c29d68b1cf"
+        },
+        "221001": {
+            "manifests": {
+                "public": {
+                    "gid": "5441929488168425361",
+                    "size": "242028760",
+                    "download": "200204448"
+                },
+                "beta": {
+                    "gid": "5441929488168425361",
+                    "size": "242028760",
+                    "download": "200204448"
+                }
+            },
+            "decryptionkey": "45274bfd49c3b586f89ab2ea236455b4479d781bf2a869c7e1b4add2766c5798"
+        },
+        "221002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3440314484012853994",
+                    "size": "413405254",
+                    "download": "231935664"
+                },
+                "beta": {
+                    "gid": "3440314484012853994",
+                    "size": "413405254",
+                    "download": "231935664"
+                }
+            },
+            "decryptionkey": "14070786d2a9c15a8f02de492517a8d629a7b06858e59a7875d06e8834afdc33"
+        },
+        "221003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3757286283369338501",
+                    "size": "13",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "3757286283369338501",
+                    "size": "13",
+                    "download": "64"
+                }
+            },
+            "dlcappid": "221003",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4710954",
+                "timeupdated": "1582649082"
+            },
+            "beta": {
+                "buildid": "4710954",
+                "description": "Beta Patches",
+                "timeupdated": "1582580114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
