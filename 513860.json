@@ -1,0 +1,88 @@
+{
+    "appid": "513860",
+    "type": "Game",
+    "name": "Elena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25963973",
+    "update_time": "2024-10-30 13:10:46",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "513861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4604676516297474962",
+                    "size": "6092330515",
+                    "download": "1962322432"
+                },
+                "experimental": {
+                    "gid": "2055985482269608585",
+                    "size": "6092332068",
+                    "download": "1962331520"
+                }
+            },
+            "decryptionkey": "a9f809d864a88c18083ce833c7388da7700e11c60534638e7f466189e1b1b13f"
+        },
+        "513862": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8631563418619060904",
+                    "size": "0",
+                    "download": "0"
+                },
+                "experimental": {
+                    "gid": "8631563418619060904",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "513869": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1540624",
+                "timeupdated": "1482714245"
+            },
+            "experimental": {
+                "buildid": "1536580",
+                "description": "Experimental Releases",
+                "timeupdated": "1482421616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
