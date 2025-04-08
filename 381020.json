@@ -1,0 +1,101 @@
+{
+    "appid": "381020",
+    "type": "Game",
+    "name": "Sky Rogue",
+    "schinese_name": "太空流浪者",
+    "isfreeapp": "0",
+    "change_number": "24165274",
+    "update_time": "2024-06-28 23:28:44",
+    "depot": {
+        "workshopdepot": "381020",
+        "381021": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087909618060486181",
+                    "size": "271387442",
+                    "download": "117163728"
+                },
+                "indev": {
+                    "gid": "1947693108132127834",
+                    "size": "271387490",
+                    "download": "117163280"
+                },
+                "legacy": {
+                    "gid": "3867253287876737703",
+                    "size": "270697438",
+                    "download": "116983168"
+                }
+            },
+            "decryptionkey": "aa5c0aab131d242b1aa0933abcd138215a69bf9a3c7609c8de2eb144033f288e"
+        },
+        "381022": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1536839892641543061",
+                    "size": "285619306",
+                    "download": "121021392"
+                },
+                "indev": {
+                    "gid": "2412512416799517726",
+                    "size": "285619362",
+                    "download": "121021232"
+                },
+                "legacy": {
+                    "gid": "1195522950533532892",
+                    "size": "284929310",
+                    "download": "120848944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "381023": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4942981531399044209",
+                    "size": "320513919",
+                    "download": "133178064"
+                },
+                "indev": {
+                    "gid": "3120434932673841403",
+                    "size": "320514479",
+                    "download": "133177312"
+                },
+                "legacy": {
+                    "gid": "4971989496499031297",
+                    "size": "319823915",
+                    "download": "133001376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7448474",
+                "timeupdated": "1633106609"
+            },
+            "indev": {
+                "buildid": "7584391",
+                "description": "Cutting edge in-development version",
+                "timeupdated": "1635180323"
+            },
+            "legacy": {
+                "buildid": "6447074",
+                "description": "Previous stable version",
+                "timeupdated": "1633106597"
+            }
+        },
+        "workshopdepotdecryptionkey": "dfd4be45e59b5406854f6eb8f7fe8c910bb14102fe6c585fd3b02bed855469f5"
+    }
+}
