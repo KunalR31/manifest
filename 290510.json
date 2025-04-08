@@ -1,0 +1,59 @@
+{
+    "appid": "290510",
+    "type": "Game",
+    "name": "GNOG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27208136",
+    "update_time": "2025-01-29 05:32:29",
+    "depot": {
+        "overridescddb": "1",
+        "290512": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "876742011584427743",
+                    "size": "1754161940",
+                    "download": "359783568"
+                }
+            },
+            "decryptionkey": "7615bc9766b333f365a5c30da616a26215120212dcdfaf11135cdb4577965bf2"
+        },
+        "290513": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2672279428581012392",
+                    "size": "1857421605",
+                    "download": "380623952"
+                }
+            },
+            "decryptionkey": "f753f0e3f131d08299c2cce1e1acebe4443516dd0ce7503db74e74489d3c373f"
+        },
+        "290514": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1875148498757176063",
+                    "size": "1784517085",
+                    "download": "371783568"
+                }
+            },
+            "decryptionkey": "3858313d6ae8fa477f336ecb64e988827122f252b31fdc071106723324fa40e2"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4054923",
+                "timeupdated": "1565288933"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
