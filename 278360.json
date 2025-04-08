@@ -1,0 +1,90 @@
+{
+    "appid": "278360",
+    "type": "Game",
+    "name": "A Story About My Uncle",
+    "schinese_name": "叔叔的传说",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:52",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "278361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8314284209762417428",
+                    "size": "1258264110",
+                    "download": "929027136"
+                },
+                "local": {
+                    "gid": "6686385322751194485",
+                    "size": "1260961747",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7bcac22295ba8f08740447ba05be0a05dbb12254a50e4e40bfeba7e565e832a8"
+        },
+        "278362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7137994883443283717",
+                    "size": "1246349269",
+                    "download": "877598816"
+                }
+            },
+            "decryptionkey": "edd1214ea431eee229b3424948951d11fecfbaa496fc751f157fbb905a29fe7c"
+        },
+        "278363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6726738844403256832",
+                    "size": "1274962987",
+                    "download": "888817744"
+                }
+            },
+            "decryptionkey": "a436c64bf784e8c66a3fadfe854b31979889dc2e039e17bd0e457e730984d124"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1822049",
+                "timeupdated": "1494859181"
+            },
+            "local": {
+                "buildid": "265998",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
