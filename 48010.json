@@ -1,0 +1,83 @@
+{
+    "appid": "48010",
+    "type": "Demo",
+    "name": "LIMBO Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:25:50",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,japanese,portuguese",
+        "48013": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2131135680364333779",
+                    "size": "116112741",
+                    "download": "85952688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "48012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3409915434803177711",
+                    "size": "5453312",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0d7037ccb458ec90fee0a299326270e427366f5bd9de18c250da1ffe55561be4"
+        },
+        "48001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "48000",
+            "sharedinstall": "2"
+        },
+        "48014": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2704898629819506288",
+                    "size": "112551137",
+                    "download": "95584256"
+                }
+            },
+            "decryptionkey": "401e05a0806590864465b0c52327cd4134aa4902f52aac8e1945eb3d0bb611a2"
+        },
+        "48015": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7813279057560213899",
+                    "size": "103660194",
+                    "download": "83047296"
+                }
+            },
+            "decryptionkey": "882dc1e7bed1f9a1ffd19008213af7f2f14cd42e62c29c906b1aaac7d1edca3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11105241",
+                "timeupdated": "1682601163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
