@@ -1,0 +1,109 @@
+{
+    "appid": "1348640",
+    "type": "Tool",
+    "name": "Frozen Flame - Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23760255",
+    "update_time": "2024-07-16 02:45:19",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1348643": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7191089602495320945",
+                    "size": "2551873788",
+                    "download": "1633863456"
+                },
+                "candidate": {
+                    "gid": "7191089602495320945",
+                    "size": "2551873788",
+                    "download": "1633863456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1348641": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1468967274093039094",
+                    "size": "2561590085",
+                    "download": "1590922992"
+                },
+                "candidate": {
+                    "gid": "1468967274093039094",
+                    "size": "2561590085",
+                    "download": "1590922992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11289146",
+                "timeupdated": "1684773539"
+            },
+            "candidate": {
+                "buildid": "11289146",
+                "description": "Release Candidate",
+                "timeupdated": "1684773475"
+            }
+        }
+    }
+}
