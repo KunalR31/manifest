@@ -1,0 +1,130 @@
+{
+    "appid": "40800",
+    "type": "Game",
+    "name": "Super Meat Boy",
+    "schinese_name": "超级食肉男孩",
+    "isfreeapp": "0",
+    "change_number": "27296828",
+    "update_time": "2025-02-04 05:38:10",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,russian,spanish,polish",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "0",
+        "202942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5927010178477174585",
+                    "size": "254457283",
+                    "download": "172035408"
+                },
+                "ogversion": {
+                    "gid": "5927010178477174585",
+                    "size": "254457283",
+                    "download": "172035408"
+                }
+            },
+            "decryptionkey": "7456550b7c6035613e2dce4b1e5330096bd2949510d0174327e0456092632dbf"
+        },
+        "202941": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7909665330530849751",
+                    "size": "398108834",
+                    "download": "0"
+                },
+                "ogversion": {
+                    "gid": "7909665330530849751",
+                    "size": "398108834",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "40801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5234313430832523474",
+                    "size": "519187292",
+                    "download": "361892576"
+                },
+                "ogversion": {
+                    "gid": "750186853896852725",
+                    "size": "275480197",
+                    "download": "193444256"
+                }
+            },
+            "decryptionkey": "cdba07a99af206aeb16f77b2fb63ef6d5a7b9323bb7a92e48244fd597013dcca"
+        },
+        "98011": {
+            "dlcappid": "98011",
+            "manifests": {
+                "public": {
+                    "gid": "915545047853675884",
+                    "size": "9401694",
+                    "download": "0"
+                },
+                "ogversion": {
+                    "gid": "915545047853675884",
+                    "size": "9401694",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b54a8be91d6223e22beaa4c5415f00aef71770d682068b7999855d6ba1e543ff"
+        },
+        "40802": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6556596646716197166",
+                    "size": "254039734",
+                    "download": "171903328"
+                },
+                "ogversion": {
+                    "gid": "6556596646716197166",
+                    "size": "254039734",
+                    "download": "171903328"
+                }
+            },
+            "decryptionkey": "64a9ded61e049fd8ab73451c519acf2321c6419b6924603516861486a2df1982"
+        },
+        "969710": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9030929104429239407",
+                    "size": "4405248",
+                    "download": "1374816"
+                }
+            },
+            "dlcappid": "969710",
+            "decryptionkey": "a04242b1f5cb97808ad527ea154a7b29e7d24a133cb943e832ebc57c356aa1a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3241924",
+                "timeupdated": "1540367050"
+            },
+            "ogversion": {
+                "buildid": "3241921",
+                "description": "Original version for Speed Runners",
+                "timeupdated": "1540367020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
