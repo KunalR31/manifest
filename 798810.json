@@ -1,0 +1,61 @@
+{
+    "appid": "798810",
+    "type": "Application",
+    "name": "Natural Locomotion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26646122",
+    "update_time": "2024-12-15 06:39:54",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "798811": {
+            "manifests": {
+                "public": {
+                    "gid": "3157097150577986227",
+                    "size": "215440155",
+                    "download": "106668656"
+                },
+                "old_wmr_driver": {
+                    "gid": "8296006624904186406",
+                    "size": "132373026",
+                    "download": "41336656"
+                }
+            },
+            "decryptionkey": "a96b9d9fdc61844aa84a2009e42960c70ea8537a371fed9650a30f765e535bd4"
+        },
+        "798812": {},
+        "798813": {
+            "manifests": {
+                "public": {
+                    "gid": "4822066055160568423",
+                    "size": "66501518",
+                    "download": "67288864"
+                },
+                "old_wmr_driver": {
+                    "gid": "7654345933724832154",
+                    "size": "136587697",
+                    "download": "136043008"
+                }
+            },
+            "decryptionkey": "4b082b3203af7253974e49cbc57fc223615e6b9fa239ebf6b98fbf5e2a6f6075"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15890947",
+                "timeupdated": "1727797731"
+            },
+            "old_wmr_driver": {
+                "buildid": "5101983",
+                "description": "Very old WMR driver (Use it only if default or legacy are not working with a Windows Mixed Reality Headset)",
+                "timeupdated": "1590936095"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
