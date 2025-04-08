@@ -1,0 +1,78 @@
+{
+    "appid": "1875060",
+    "type": "Game",
+    "name": "Reus 2",
+    "schinese_name": "造物主 2",
+    "isfreeapp": "0",
+    "change_number": "28231350",
+    "update_time": "2025-03-31 23:43:30",
+    "depot": {
+        "baselanguages": "english",
+        "1875061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6538332986719873821",
+                    "size": "3143810169",
+                    "download": "666205072"
+                },
+                "v1.5": {
+                    "gid": "5595917679743044397",
+                    "size": "6353697604",
+                    "download": "962484640"
+                }
+            },
+            "decryptionkey": "a33eb91dbaf0ab42248dfe4e4d11a817ad3f8e033b56465281a752da06245e7d"
+        },
+        "1875062": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5473008796187222016",
+                    "size": "3170415840",
+                    "download": "674398432"
+                },
+                "v1.5": {
+                    "gid": "8131679422765366420",
+                    "size": "6379695471",
+                    "download": "970447504"
+                }
+            },
+            "decryptionkey": "80791d99567e5d3181ef98a4e8b9138fbf99a33d0d67d1d23d44f46cf315d2b2"
+        },
+        "3010540": {
+            "dlcappid": "3010540",
+            "manifests": {
+                "public": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
+                },
+                "v1.5": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
+                }
+            },
+            "decryptionkey": "9cf3cbf9469a572366e3c3977b7a7c802708b3fcad132ac73745639df8e05b6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17794622",
+                "timeupdated": "1742477062"
+            },
+            "v1.5": {
+                "buildid": "17094140",
+                "description": "Fallback to Cataclysm update",
+                "timeupdated": "1741619949"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
