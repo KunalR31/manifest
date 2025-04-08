@@ -1,0 +1,56 @@
+{
+    "appid": "1521970",
+    "type": "Game",
+    "name": "Goblin Stone",
+    "schinese_name": "哥布林之石 / Goblin Stone",
+    "isfreeapp": "0",
+    "change_number": "26720363",
+    "update_time": "2024-12-20 03:52:39",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1521971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "603759753299246919",
+                    "size": "4131882871",
+                    "download": "3249078816"
+                }
+            },
+            "decryptionkey": "90fe110db57320188816b901f99f089da088b50b8d3f53e56cc2658118b8bf9d"
+        },
+        "1521972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "880015298638295562",
+                    "size": "4159143884",
+                    "download": "3257026944"
+                },
+                "local": {
+                    "gid": "5245212763075200711",
+                    "size": "2717793835",
+                    "download": "2044826304"
+                }
+            },
+            "decryptionkey": "92a56bc47de40e387425ee7c24bd9fb27d09ac93c81ce38c7059fed7c94f6446"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14384644",
+                "timeupdated": "1715834396"
+            },
+            "local": {
+                "buildid": "10992489",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1681371806"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
