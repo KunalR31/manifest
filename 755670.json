@@ -1,0 +1,52 @@
+{
+    "appid": "755670",
+    "type": "Game",
+    "name": "Sleep Tight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27862572",
+    "update_time": "2025-03-10 06:50:19",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "755671": {
+            "manifests": {
+                "public": {
+                    "gid": "8433661151191037958",
+                    "size": "1764272680",
+                    "download": "387295648"
+                },
+                "mixer": {
+                    "gid": "8345523167372082062",
+                    "size": "1762488360",
+                    "download": "386888000"
+                }
+            },
+            "decryptionkey": "eeb9e0fd25295fb7be5b9b539db0bb446713dbebbe10901cbaebbb95d54d6a43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2991452",
+                "timeupdated": "1533018666"
+            },
+            "mixer": {
+                "buildid": "2991294",
+                "description": "mixplay integration",
+                "timeupdated": "1533012101"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
