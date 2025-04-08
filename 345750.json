@@ -1,0 +1,77 @@
+{
+    "appid": "345750",
+    "type": "Game",
+    "name": "Idol Hands",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28272177",
+    "update_time": "2025-04-03 00:18:27",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "345751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2071644272948950554",
+                    "size": "628261974",
+                    "download": "186352944"
+                },
+                "ranbeertest": {
+                    "gid": "625918237680163416",
+                    "size": "433770717",
+                    "download": "164362096"
+                }
+            },
+            "decryptionkey": "22386a92fc8a12b3f64f98c77175519cca587a8a94e507e0abc7e393a677de87"
+        },
+        "345752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5044823405881609464",
+                    "size": "649363601",
+                    "download": "196321632"
+                },
+                "ranbeertest": {
+                    "gid": "1267025574473901430",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "985bb6044760c945a628c37bf3c4b00d2b6a29efe4d31a9d70f6d888c33156af"
+        },
+        "345753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7704449712783187798",
+                    "size": "650351146",
+                    "download": "195271776"
+                }
+            },
+            "decryptionkey": "7254ba77ed4ca17467b821e836a8f6d7499655a4c7ff934c604d39aff87d5250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "893310"
+            },
+            "ranbeertest": {
+                "buildid": "704628",
+                "description": "This is for testers to test"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
