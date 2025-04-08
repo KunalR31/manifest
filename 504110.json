@@ -1,0 +1,77 @@
+{
+    "appid": "504110",
+    "type": "Game",
+    "name": "The Longest Five Minutes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26819119",
+    "update_time": "2024-12-31 01:39:53",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "504111": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5607374765634952465",
+                    "size": "553039604",
+                    "download": "182507104"
+                },
+                "beta": {
+                    "gid": "5607374765634952465",
+                    "size": "553039604",
+                    "download": "182507104"
+                }
+            },
+            "decryptionkey": "0230e1608d347d1f57c2ef132d9c525fdac0dd02864dc0228c6decca0741933c"
+        },
+        "756181": {
+            "dlcappid": "756181",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2352170653148520358",
+                    "size": "656296598",
+                    "download": "30469536"
+                },
+                "beta": {
+                    "gid": "2352170653148520358",
+                    "size": "656296598",
+                    "download": "30469536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2543273",
+                "timeupdated": "1519841568"
+            },
+            "beta": {
+                "buildid": "2543273",
+                "timeupdated": "1519236470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
