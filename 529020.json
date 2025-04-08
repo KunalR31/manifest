@@ -1,0 +1,80 @@
+{
+    "appid": "529020",
+    "type": "Game",
+    "name": "Virtual-O",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27206674",
+    "update_time": "2025-01-29 03:34:21",
+    "depot": {
+        "workshopdepot": "529020",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "529021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1793945287026902477",
+                    "size": "7972848069",
+                    "download": "2651385824"
+                },
+                "beta": {
+                    "gid": "7202895519093857957",
+                    "size": "8109369997",
+                    "download": "2654743680"
+                },
+                "legacy": {
+                    "gid": "845800840300357519",
+                    "size": "3589361025",
+                    "download": "1532969696"
+                },
+                "trail_experimental": {
+                    "gid": "7969804749695197312",
+                    "size": "7973013137",
+                    "download": "2651397504"
+                }
+            },
+            "decryptionkey": "a4de7472b7034326a6e3f5790f041e88e4f73736ed7b3d6005ea316cdf1b49b8"
+        },
+        "529022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "529023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "baselanguages": "english,french,polish,norwegian,swedish",
+        "branches": {
+            "public": {
+                "buildid": "3438294",
+                "timeupdated": "1546635843"
+            },
+            "beta": {
+                "buildid": "5155562",
+                "timeupdated": "1591964818"
+            },
+            "legacy": {
+                "buildid": "1601973",
+                "timeupdated": "1510664838"
+            },
+            "trail_experimental": {
+                "buildid": "4906519",
+                "timeupdated": "1587062689"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "670577c012e639c26d4e5f6b96d03db86e9289a58ca0402d77e258d4fab39980"
+    }
+}
