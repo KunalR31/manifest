@@ -1,0 +1,48 @@
+{
+    "appid": "230760",
+    "type": "Game",
+    "name": "DIVO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27205891",
+    "update_time": "2025-01-29 02:33:45",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "230761": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1158282856026551580",
+                    "size": "109837642",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5432b2f5b82c54efe873290b43bc4b77ec1ae633c375f5f3c17ec47a3084cff6"
+        },
+        "230762": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "544155416045854967",
+                    "size": "149358949",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e3ad866db2dd8c9c2b438221100900739ee0646cc457558f4578fa8899f4547d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "93410"
+            }
+        }
+    }
+}
