@@ -1,0 +1,52 @@
+{
+    "appid": "2161470",
+    "type": "Demo",
+    "name": "Wandering Sword Demo",
+    "schinese_name": "逸剑风云决 试玩版",
+    "isfreeapp": "0",
+    "change_number": "23681194",
+    "update_time": "2024-07-16 02:46:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2161471": {
+            "manifests": {
+                "public": {
+                    "gid": "8225909971227961156",
+                    "size": "1928893407",
+                    "download": "1674488768"
+                },
+                "demo_bugfix": {
+                    "gid": "2806624952576147043",
+                    "size": "1928894431",
+                    "download": "1674489536"
+                }
+            },
+            "decryptionkey": "54c4954e0fa515b1d42f2ed52136f32848b0273189cb2751cf67fbb1928d1b8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10515570",
+                "timeupdated": "1676022539"
+            },
+            "demo_bugfix": {
+                "buildid": "10522540",
+                "description": "open to public",
+                "timeupdated": "1676022529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
