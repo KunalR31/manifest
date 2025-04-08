@@ -1,0 +1,66 @@
+{
+    "appid": "684840",
+    "type": "Game",
+    "name": "Days Of Purgatory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25589170",
+    "update_time": "2024-10-08 23:05:17",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "684841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6423300312505880175",
+                    "size": "29160493261",
+                    "download": "10684426112"
+                },
+                "experimental-unstable": {
+                    "gid": "1697641855149163274",
+                    "size": "29160588947",
+                    "download": "10684511040"
+                }
+            },
+            "decryptionkey": "ced6a49f7c34a43ca1d3782fe79e8d8507167dd452c42d6cfee38f9103619dca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8826057",
+                "timeupdated": "1653700624"
+            },
+            "experimental-unstable": {
+                "buildid": "8868786",
+                "description": "Unstable Build",
+                "timeupdated": "1654284725"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
