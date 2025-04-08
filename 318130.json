@@ -1,0 +1,157 @@
+{
+    "appid": "318130",
+    "type": "Game",
+    "name": "Doom & Destiny",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-18 05:14:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,italian,spanish,schinese,russian",
+        "318131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1157740199520421268",
+                    "size": "159412113",
+                    "download": "119258416"
+                },
+                "opengl": {
+                    "gid": "5901426698846605404",
+                    "size": "580500503",
+                    "download": "112417824"
+                },
+                "previous_stable": {
+                    "gid": "4559662407624069427",
+                    "size": "159399651",
+                    "download": "119309552"
+                },
+                "previous_stable_2": {
+                    "gid": "5051261419811085714",
+                    "size": "159392271",
+                    "download": "119251968"
+                },
+                "public_beta": {
+                    "gid": "1157740199520421268",
+                    "size": "159412113",
+                    "download": "119258416"
+                }
+            },
+            "decryptionkey": "0ff6fbe8dd768d0ec0a555b41f6d0016bddb9b954c18143ef0a65cfa5831d736"
+        },
+        "318132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1862963911478811669",
+                    "size": "159327650",
+                    "download": "98424144"
+                },
+                "opengl": {
+                    "gid": "1862963911478811669",
+                    "size": "159327650",
+                    "download": "98424144"
+                },
+                "previous_stable": {
+                    "gid": "1862963911478811669",
+                    "size": "159327650",
+                    "download": "98424144"
+                },
+                "previous_stable_2": {
+                    "gid": "1862963911478811669",
+                    "size": "159327650",
+                    "download": "98424144"
+                },
+                "public_beta": {
+                    "gid": "1862963911478811669",
+                    "size": "159327650",
+                    "download": "98424144"
+                }
+            },
+            "decryptionkey": "7239efe62b39906339340680264b4906a09f962fae431752e74c719bfbe5d22f"
+        },
+        "318133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6315591912415547905",
+                    "size": "178202608",
+                    "download": "88777360"
+                },
+                "opengl": {
+                    "gid": "6315591912415547905",
+                    "size": "178202608",
+                    "download": "88777360"
+                },
+                "previous_stable": {
+                    "gid": "6315591912415547905",
+                    "size": "178202608",
+                    "download": "88777360"
+                },
+                "previous_stable_2": {
+                    "gid": "6315591912415547905",
+                    "size": "178202608",
+                    "download": "88777360"
+                },
+                "public_beta": {
+                    "gid": "6315591912415547905",
+                    "size": "178202608",
+                    "download": "88777360"
+                }
+            },
+            "decryptionkey": "8fe734517bef11c2fbfa8871193bef8cba872f05e15cc8582f9f8d2cb609943b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9998911",
+                "timeupdated": "1669214631"
+            },
+            "opengl": {
+                "buildid": "8895716",
+                "description": "Testing Steam Deck Compatibility",
+                "timeupdated": "1654693032"
+            },
+            "previous_stable": {
+                "buildid": "8895747",
+                "description": "Use this if you are having troubles in the new version",
+                "timeupdated": "1664786044"
+            },
+            "previous_stable_2": {
+                "buildid": "7579715",
+                "timeupdated": "1658826783"
+            },
+            "public_beta": {
+                "buildid": "9998911",
+                "description": "Use this to test the new version",
+                "timeupdated": "1669198751"
+            }
+        }
+    }
+}
