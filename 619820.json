@@ -1,0 +1,81 @@
+{
+    "appid": "619820",
+    "type": "Game",
+    "name": "Heroes of Hammerwatch II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28281421",
+    "update_time": "2025-04-03 12:10:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "619821": {
+            "manifests": {
+                "public": {
+                    "gid": "6663458077541396875",
+                    "size": "252675866",
+                    "download": "215847440"
+                },
+                "net_testing": {
+                    "gid": "6663458077541396875",
+                    "size": "252675866",
+                    "download": "215847440"
+                },
+                "public_testing": {
+                    "gid": "5036989622706335499",
+                    "size": "252675890",
+                    "download": "215847552"
+                }
+            },
+            "decryptionkey": "3266293cec2a56c2754e577f3f533ba7e681e97da2db3fa591f092a028da1872"
+        },
+        "619822": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6054183830930956129",
+                    "size": "39789800",
+                    "download": "13269840"
+                },
+                "net_testing": {
+                    "gid": "6054183830930956129",
+                    "size": "39789800",
+                    "download": "13269840"
+                },
+                "public_testing": {
+                    "gid": "6678128758176562674",
+                    "size": "39785704",
+                    "download": "13272272"
+                }
+            },
+            "decryptionkey": "ee2be5a06add482c4b080f444406417e33dd3a711c9685e84bc6c387dbc02e25"
+        },
+        "workshopdepot": "619820",
+        "branches": {
+            "public": {
+                "buildid": "17876776",
+                "timeupdated": "1743083946"
+            },
+            "net_testing": {
+                "buildid": "17876776",
+                "description": "Public testing of network errors",
+                "timeupdated": "1743083962"
+            },
+            "public_testing": {
+                "buildid": "17903816",
+                "description": "Testing for future patch",
+                "timeupdated": "1743194106"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
