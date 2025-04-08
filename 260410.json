@@ -1,0 +1,54 @@
+{
+    "appid": "260410",
+    "type": "Game",
+    "name": "Get Off My Lawn!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27170750",
+    "update_time": "2025-01-26 18:20:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "260411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6997118277962760025",
+                    "size": "861198057",
+                    "download": "923464688453"
+                }
+            },
+            "decryptionkey": "b804bd964aaaf84990e9f825d655c95d973007993e5fe4c3cd6d68fdd1229256"
+        },
+        "260412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6473993048334527088",
+                    "size": "800417538",
+                    "download": "349463084480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "447201"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
