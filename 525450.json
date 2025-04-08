@@ -1,0 +1,117 @@
+{
+    "appid": "525450",
+    "type": "Game",
+    "name": "King Oddball",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28273137",
+    "update_time": "2025-04-03 01:18:15",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "525451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3694513432494125471",
+                    "size": "77866555",
+                    "download": "34835072"
+                },
+                "macos_old": {
+                    "gid": "3694513432494125471",
+                    "size": "77866555",
+                    "download": "34835072"
+                },
+                "test_branch": {
+                    "gid": "1782262041598627610",
+                    "size": "76067718",
+                    "download": "34600816"
+                }
+            },
+            "decryptionkey": "14743e798affe72cb18797bd5f4b9e0a9578637402a9db2ba8ee9b7e3b9eff2e"
+        },
+        "525452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8152777429277097301",
+                    "size": "99345280",
+                    "download": "90363680"
+                },
+                "macos_old": {
+                    "gid": "8281964587791450265",
+                    "size": "119784165",
+                    "download": "92500800"
+                },
+                "test_branch": {
+                    "gid": "8152777429277097301",
+                    "size": "99345280",
+                    "download": "90363680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "525453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2845372715238182793",
+                    "size": "98627499",
+                    "download": "77993696"
+                },
+                "macos_old": {
+                    "gid": "2845372715238182793",
+                    "size": "98627499",
+                    "download": "77993696"
+                },
+                "test_branch": {
+                    "gid": "2845372715238182793",
+                    "size": "98627499",
+                    "download": "77993696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,schinese,tchinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "6182284",
+                "timeupdated": "1612356703"
+            },
+            "macos_old": {
+                "buildid": "1802248",
+                "description": "Old macOS build",
+                "timeupdated": "1611841266"
+            },
+            "test_branch": {
+                "buildid": "6182217",
+                "timeupdated": "1612355967"
+            }
+        }
+    }
+}
