@@ -1,0 +1,76 @@
+{
+    "appid": "204630",
+    "type": "Game",
+    "name": "Retro City Rampage™ DX",
+    "schinese_name": "荒野老城DX",
+    "isfreeapp": "0",
+    "change_number": "26312877",
+    "update_time": "2024-12-04 23:03:54",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "204631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7629976917538224808",
+                    "size": "15108771",
+                    "download": "11030960"
+                }
+            },
+            "decryptionkey": "7097b669de45c1396ed78238536c2988accc5a85b51f6cc0c2ea9db8f70e1fbf"
+        },
+        "204632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8239889267708869378",
+                    "size": "19866115",
+                    "download": "13148864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "204633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3521630521952653561",
+                    "size": "16502853",
+                    "download": "9854208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "204634": {
+            "manifests": {
+                "public": {
+                    "gid": "2142738135466314851",
+                    "size": "4912375",
+                    "download": "4960528"
+                }
+            },
+            "decryptionkey": "51f6f917f2c8dd2b47040ee55c180d6950cc2eac998954af049d84204e0753c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16497184",
+                "timeupdated": "1732262667"
+            }
+        }
+    }
+}
