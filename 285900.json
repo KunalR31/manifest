@@ -1,0 +1,105 @@
+{
+    "appid": "285900",
+    "type": "Game",
+    "name": "Gang Beasts",
+    "schinese_name": "萌萌小人大乱斗",
+    "isfreeapp": "0",
+    "change_number": "28344291",
+    "update_time": "2025-04-07 19:08:58",
+    "depot": {
+        "overridescddb": "1",
+        "hasdepotsindlc": "1",
+        "285901": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7232511415277304551",
+                    "size": "1241905744",
+                    "download": "892027024"
+                },
+                "1_17": {
+                    "gid": "5308465277356234750",
+                    "size": "1791812560",
+                    "download": "533024864"
+                },
+                "legacy": {
+                    "gid": "8802315084181566278",
+                    "size": "239069995",
+                    "download": "97835104"
+                }
+            },
+            "decryptionkey": "417b624d1798155e5d9bd1fe0e54fb15f6c418fe23caacc03e76866a6ef5d2f6"
+        },
+        "285902": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2524541732585644999",
+                    "size": "1223026741",
+                    "download": "891576496"
+                },
+                "1_17": {
+                    "gid": "8855068541261341888",
+                    "size": "1794732863",
+                    "download": "532695072"
+                },
+                "legacy": {
+                    "gid": "4609358612621644111",
+                    "size": "234251713",
+                    "download": "98492160"
+                }
+            },
+            "decryptionkey": "0c325cb5864b8f034bc692fa8a2741674d1b30c51d51acb91ff331498133435c"
+        },
+        "285903": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "751080414778357312",
+                    "size": "3200300921",
+                    "download": "815850896"
+                },
+                "1_17": {
+                    "gid": "6872617715058765372",
+                    "size": "1880533482",
+                    "download": "562246544"
+                },
+                "legacy": {
+                    "gid": "2500933341564590606",
+                    "size": "232411976",
+                    "download": "98719696"
+                }
+            },
+            "decryptionkey": "47dbec3990eb35d1b9f0e30306b05e5de90de70b1e134a4bbf651ca195de085f"
+        },
+        "415410": {
+            "dlcappid": "415410"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17145253",
+                "timeupdated": "1739367310"
+            },
+            "1_17": {
+                "buildid": "6935027",
+                "description": "Version before the graphics pipeline update",
+                "timeupdated": "1645206449"
+            },
+            "legacy": {
+                "buildid": "481425",
+                "description": "Last Unity 4 build (unsupported)"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
