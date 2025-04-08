@@ -1,0 +1,56 @@
+{
+    "appid": "2845150",
+    "type": "Game",
+    "name": "Seductress",
+    "schinese_name": "魅惑",
+    "isfreeapp": "0",
+    "change_number": "28320409",
+    "update_time": "2025-04-05 12:17:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "2845151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5954069056599098131",
+                    "size": "22663548446",
+                    "download": "21944654128"
+                },
+                "dx11version": {
+                    "gid": "6207967732943202844",
+                    "size": "21749197280",
+                    "download": "21353544816"
+                }
+            },
+            "decryptionkey": "81caa5d3690ec58f975c7e299f1dd030ee4eb2c27792622df54c9e6bf147331a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16090201",
+                "timeupdated": "1729222519"
+            },
+            "dx11version": {
+                "buildid": "16161412",
+                "description": "DX11 version",
+                "timeupdated": "1729753125"
+            }
+        }
+    }
+}
