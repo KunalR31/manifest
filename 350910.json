@@ -1,0 +1,81 @@
+{
+    "appid": "350910",
+    "type": "Game",
+    "name": "Streets of Fury EX",
+    "schinese_name": "狂怒街道",
+    "isfreeapp": "0",
+    "change_number": "28254574",
+    "update_time": "2025-04-02 02:50:16",
+    "depot": {
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "350911": {
+            "manifests": {
+                "public": {
+                    "gid": "2652231295820503383",
+                    "size": "1130343799",
+                    "download": "1086982240"
+                },
+                "new_tech_fna": {
+                    "gid": "8704567132623380493",
+                    "size": "991070964",
+                    "download": "951642576"
+                },
+                "tutarsch23_old_version": {
+                    "gid": "7174468977263704024",
+                    "size": "974191460",
+                    "download": "933473184"
+                },
+                "tutarsch23_old_version_2": {
+                    "gid": "824265501436973443",
+                    "size": "969962276",
+                    "download": "929438016"
+                },
+                "vanilla": {
+                    "gid": "3172531194584660352",
+                    "size": "782864830",
+                    "download": "747457824"
+                }
+            },
+            "decryptionkey": "44f2c6687c3b823d40fec65fb2b8df6088d089cd13df84154435fe170c673386"
+        },
+        "350913": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4851208151895415112",
+                    "size": "234579051",
+                    "download": "223969536"
+                }
+            },
+            "decryptionkey": "165610fc670190772c4f95ca9b081ab6faf96ad01af054b7bcceeede80a4c943"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3061533",
+                "timeupdated": "1535218101"
+            },
+            "new_tech_fna": {
+                "buildid": "999527",
+                "description": "Test de FNA"
+            },
+            "tutarsch23_old_version": {
+                "buildid": "966723"
+            },
+            "tutarsch23_old_version_2": {
+                "buildid": "993191"
+            },
+            "vanilla": {
+                "buildid": "682502"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
