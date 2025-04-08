@@ -1,0 +1,63 @@
+{
+    "appid": "933580",
+    "type": "Demo",
+    "name": "War Blade Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26685919",
+    "update_time": "2024-12-18 08:38:49",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "933582": {
+            "manifests": {
+                "local": {
+                    "gid": "4918306726579612661",
+                    "size": "2932433467",
+                    "download": "1225133760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "933583": {
+            "manifests": {
+                "public": {
+                    "gid": "8562525481687372251",
+                    "size": "5750287738",
+                    "download": "2405182976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "392041": {
+            "manifests": {
+                "public": {
+                    "gid": "2759535924541938596",
+                    "size": "5713491670",
+                    "download": "2431413072"
+                }
+            },
+            "depotfromapp": "392040",
+            "decryptionkey": "606caa3c4dd52f52d6315d13e6ece6bb656c26ef1b38b30fa06e57987db7773c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3883225",
+                "timeupdated": "1559566233"
+            },
+            "local": {
+                "buildid": "3195874",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1539090861"
+            }
+        }
+    }
+}
