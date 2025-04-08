@@ -1,0 +1,65 @@
+{
+    "appid": "576660",
+    "type": "Game",
+    "name": "Snake Party",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27221570",
+    "update_time": "2025-01-30 01:17:41",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "576661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6910697210482637986",
+                    "size": "12025408",
+                    "download": "8984624"
+                },
+                "beta": {
+                    "gid": "6910697210482637986",
+                    "size": "12025408",
+                    "download": "8984624"
+                }
+            },
+            "decryptionkey": "c1fefa3fa6fd8b161413f6cb67514a796ce76984498a83311244980ba56dd13a"
+        },
+        "576662": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "714057263137374604",
+                    "size": "14005760",
+                    "download": "7315952"
+                },
+                "beta": {
+                    "gid": "714057263137374604",
+                    "size": "14005760",
+                    "download": "7315952"
+                }
+            },
+            "decryptionkey": "a858255e31df9a93b3e133098f816b5ee619b9fac68b3322ffea6494909648dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2268538",
+                "timeupdated": "1511731300"
+            },
+            "beta": {
+                "buildid": "2268538",
+                "description": "new versions to test before release",
+                "timeupdated": "1510170953"
+            }
+        }
+    }
+}
