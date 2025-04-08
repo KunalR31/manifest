@@ -1,0 +1,71 @@
+{
+    "appid": "278640",
+    "type": "Game",
+    "name": "Terrian Saga: KR-17",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28330825",
+    "update_time": "2025-04-06 17:16:32",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "278641": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3962867854116096341",
+                    "size": "63338632",
+                    "download": "42908960"
+                }
+            },
+            "decryptionkey": "6dfdd8451b3af111a47e44a1080dc672cc12c2a99c7c541d30b74d9ad38fc7a3"
+        },
+        "278642": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            }
+        },
+        "278643": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7778236015656223077",
+                    "size": "59988841",
+                    "download": "4886329282"
+                }
+            },
+            "decryptionkey": "9a312702df0b305778ec9e6618258e57192e600957557677584c683edc44f2c0"
+        },
+        "278644": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1157467298238226669",
+                    "size": "62061509",
+                    "download": "40556464"
+                }
+            },
+            "decryptionkey": "0fb3acd0457bea80dfe3086a1534383c54917291851d10188f5211ec0ae291f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "704417"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
