@@ -1,0 +1,536 @@
+{
+    "appid": "251570",
+    "type": "Game",
+    "name": "7 Days to Die",
+    "schinese_name": "七日杀",
+    "isfreeapp": "0",
+    "change_number": "28331624",
+    "update_time": "2025-04-06 19:20:43",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "251576": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4801478883247420446",
+                    "size": "20863026469",
+                    "download": "13648365888"
+                },
+                "latest_experimental": {
+                    "gid": "6659681639584219039",
+                    "size": "20863048132",
+                    "download": "13648576304"
+                },
+                "v1.3": {
+                    "gid": "4801478883247420446",
+                    "size": "20863026469",
+                    "download": "13648365888"
+                },
+                "v1.2": {
+                    "gid": "2947185863829858330",
+                    "size": "20807256910",
+                    "download": "13600603872"
+                },
+                "v1.1": {
+                    "gid": "1627451359427759079",
+                    "size": "20759647413",
+                    "download": "13559232336"
+                },
+                "alpha21.2": {
+                    "gid": "2807835339043437499",
+                    "size": "17049978075",
+                    "download": "11734430768"
+                },
+                "alpha20.7": {
+                    "gid": "7186207210366457474",
+                    "size": "14265071181",
+                    "download": "6339147344"
+                },
+                "alpha19.6": {
+                    "gid": "7376710676679235726",
+                    "size": "11381782168",
+                    "download": "5101097920"
+                },
+                "alpha18.4": {
+                    "gid": "1829459294485917329",
+                    "size": "13561394450",
+                    "download": "4853265504"
+                },
+                "alpha17.4": {
+                    "gid": "3575830474138886113",
+                    "size": "7707732110",
+                    "download": "3253534352"
+                },
+                "alpha16.4": {
+                    "gid": "7468628160220339213",
+                    "size": "3904234752",
+                    "download": "1510538288"
+                },
+                "alpha15.2": {
+                    "gid": "1889406064716381912",
+                    "size": "3281433087",
+                    "download": "1259059696"
+                },
+                "alpha14.7": {
+                    "gid": "1890869266944069978",
+                    "size": "3340546863",
+                    "download": "1303613664"
+                },
+                "alpha13.8": {
+                    "gid": "4068792839952772166",
+                    "size": "3226626650",
+                    "download": "1309966672"
+                },
+                "alpha12.5": {
+                    "gid": "4330205761186853781",
+                    "size": "2776203955",
+                    "download": "1091244320"
+                },
+                "alpha11.6": {
+                    "gid": "3531752892536585587",
+                    "size": "2623976401",
+                    "download": "927550960"
+                },
+                "alpha10.4": {
+                    "gid": "5720370525519468123",
+                    "size": "2073606193",
+                    "download": "840292048"
+                },
+                "alpha9.3": {
+                    "gid": "2164521405273223044",
+                    "size": "1969876073",
+                    "download": "729127867941"
+                },
+                "alpha8.8": {
+                    "gid": "2055364469586533071",
+                    "size": "1782385517",
+                    "download": "2136773701888"
+                }
+            },
+            "decryptionkey": "525d3fda8d2195cf5a8bd10c0c158513d9f870f99a036830287c1465c73c6979"
+        },
+        "251577": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8886033880883663276",
+                    "size": "20668779527",
+                    "download": "13556639728"
+                },
+                "latest_experimental": {
+                    "gid": "7902718015786407009",
+                    "size": "20668781024",
+                    "download": "13556228016"
+                },
+                "v1.3": {
+                    "gid": "8886033880883663276",
+                    "size": "20668779527",
+                    "download": "13556639728"
+                },
+                "v1.2": {
+                    "gid": "6486370963116198754",
+                    "size": "20613063791",
+                    "download": "13506817712"
+                },
+                "v1.1": {
+                    "gid": "357974138494374040",
+                    "size": "20555445080",
+                    "download": "13464128528"
+                },
+                "alpha21.2": {
+                    "gid": "460608022932267178",
+                    "size": "16948446125",
+                    "download": "11685616160"
+                },
+                "alpha20.7": {
+                    "gid": "8838421308320817591",
+                    "size": "14194546457",
+                    "download": "6316357776"
+                },
+                "alpha19.6": {
+                    "gid": "6193555151733610046",
+                    "size": "11294652511",
+                    "download": "5070487984"
+                },
+                "alpha18.4": {
+                    "gid": "2041249178457109691",
+                    "size": "13529210229",
+                    "download": "4834945440"
+                },
+                "alpha17.4": {
+                    "gid": "2553460580609535487",
+                    "size": "7499907446",
+                    "download": "3212596320"
+                },
+                "alpha16.4": {
+                    "gid": "5275845840547936568",
+                    "size": "3507137442",
+                    "download": "1453271584"
+                },
+                "alpha15.2": {
+                    "gid": "4961161964691780666",
+                    "size": "2887312573",
+                    "download": "1200947008"
+                },
+                "alpha14.7": {
+                    "gid": "4236744424725316539",
+                    "size": "3219113677",
+                    "download": "1276178816"
+                },
+                "alpha13.8": {
+                    "gid": "6799559988264800843",
+                    "size": "3232575851",
+                    "download": "1297579616"
+                },
+                "alpha12.5": {
+                    "gid": "3048942817565823865",
+                    "size": "2792361496",
+                    "download": "1078219264"
+                },
+                "alpha11.6": {
+                    "gid": "7280524462696517196",
+                    "size": "2521803698",
+                    "download": "910864944"
+                },
+                "alpha10.4": {
+                    "gid": "5358158027016440915",
+                    "size": "2014735923",
+                    "download": "817887376"
+                },
+                "alpha9.3": {
+                    "gid": "2868930281091204310",
+                    "size": "1904421475",
+                    "download": "1492886735718"
+                },
+                "alpha8.8": {
+                    "gid": "9037689028862576995",
+                    "size": "1772260838",
+                    "download": "1552330628214"
+                }
+            },
+            "decryptionkey": "53a3478a67db1f8ed8030e845ec1be174a60cea2448401ffd4dda0c4838cbb84"
+        },
+        "251578": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8088993591271188208",
+                    "size": "20847603286",
+                    "download": "13617252688"
+                },
+                "latest_experimental": {
+                    "gid": "226298050398258359",
+                    "size": "20847640935",
+                    "download": "13617399792"
+                },
+                "v1.3": {
+                    "gid": "8088993591271188208",
+                    "size": "20847603286",
+                    "download": "13617252688"
+                },
+                "v1.2": {
+                    "gid": "3993603102317139363",
+                    "size": "20791942597",
+                    "download": "13568146064"
+                },
+                "v1.1": {
+                    "gid": "355879609854561326",
+                    "size": "20744152308",
+                    "download": "13526794672"
+                },
+                "alpha21.2": {
+                    "gid": "6750169086033110441",
+                    "size": "17068658791",
+                    "download": "11727208736"
+                },
+                "alpha20.7": {
+                    "gid": "5506076165958292580",
+                    "size": "14331682433",
+                    "download": "6340437952"
+                },
+                "alpha19.6": {
+                    "gid": "1562221519351495492",
+                    "size": "11373702223",
+                    "download": "5094853104"
+                },
+                "alpha18.4": {
+                    "gid": "6493176104375076439",
+                    "size": "13609330324",
+                    "download": "4861334528"
+                },
+                "alpha17.4": {
+                    "gid": "391070449553160554",
+                    "size": "7619112609",
+                    "download": "3251848944"
+                },
+                "alpha16.4": {
+                    "gid": "2127709111629063304",
+                    "size": "3587493433",
+                    "download": "1473642192"
+                },
+                "alpha15.2": {
+                    "gid": "423233432939529905",
+                    "size": "2961460149",
+                    "download": "1215300112"
+                },
+                "alpha14.7": {
+                    "gid": "1608684423263739061",
+                    "size": "3276980623",
+                    "download": "1287362496"
+                },
+                "alpha13.8": {
+                    "gid": "6602346654511458574",
+                    "size": "3316321177",
+                    "download": "1308264192"
+                },
+                "alpha12.5": {
+                    "gid": "619384807577778108",
+                    "size": "2819463911",
+                    "download": "1087778800"
+                },
+                "alpha11.6": {
+                    "gid": "2748305938543302157",
+                    "size": "2549134631",
+                    "download": "920216064"
+                },
+                "alpha10.4": {
+                    "gid": "8274183494581638549",
+                    "size": "2076140270",
+                    "download": "837794816"
+                },
+                "alpha9.3": {
+                    "gid": "2581709566082809736",
+                    "size": "1868944088",
+                    "download": "255173431712"
+                },
+                "alpha8.8": {
+                    "gid": "2791697350388990478",
+                    "size": "1739051916",
+                    "download": "1743435618894"
+                }
+            },
+            "decryptionkey": "4550672ef4a498246530208707b36b490dd3bb73c6b54ba6b832dd48db88f71a"
+        },
+        "251571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "latest_experimental": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "v1.3": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "v1.2": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "v1.1": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha21.2": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha20.7": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha19.6": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha18.4": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha17.4": {
+                    "gid": "6853205597260755570",
+                    "size": "7707732110",
+                    "download": "3255233168"
+                },
+                "alpha16.4": {
+                    "gid": "1651451362444695891",
+                    "size": "3904234752",
+                    "download": "1511194576"
+                },
+                "alpha15.2": {
+                    "gid": "1968900544660248931",
+                    "size": "3281433087",
+                    "download": "1254089104"
+                },
+                "alpha14.7": {
+                    "gid": "1306825706427609892",
+                    "size": "3340546863",
+                    "download": "1301055200"
+                },
+                "alpha13.8": {
+                    "gid": "4492847844164197837",
+                    "size": "3221858045",
+                    "download": "1296507984"
+                },
+                "alpha12.5": {
+                    "gid": "7795339712230645639",
+                    "size": "2771461574",
+                    "download": "1062222576"
+                },
+                "alpha11.6": {
+                    "gid": "5030720473170676424",
+                    "size": "2619430611",
+                    "download": "924997872"
+                },
+                "alpha10.4": {
+                    "gid": "5882730563265952113",
+                    "size": "2068981873",
+                    "download": "837937520"
+                },
+                "alpha8.8": {
+                    "gid": "5316387393437744190",
+                    "size": "1165368297",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2787b64cd24c9e42a114df4d2559813dc0f63405faa2f7e41cc77e6c3cc67bd0"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17249470",
+                "timeupdated": "1739383162"
+            },
+            "latest_experimental": {
+                "buildid": "17989995",
+                "description": "Unstable build",
+                "timeupdated": "1743806860"
+            },
+            "v1.3": {
+                "buildid": "17249470",
+                "description": "Version 1.3 Stable",
+                "timeupdated": "1739386231"
+            },
+            "v1.2": {
+                "buildid": "16685836",
+                "description": "Version 1.2 Stable",
+                "timeupdated": "1733939967"
+            },
+            "v1.1": {
+                "buildid": "15812368",
+                "description": "Version 1.1 Stable",
+                "timeupdated": "1727796455"
+            },
+            "alpha21.2": {
+                "buildid": "12966449",
+                "description": "Alpha 21.2 Stable",
+                "timeupdated": "1705617764"
+            },
+            "alpha20.7": {
+                "buildid": "10740005",
+                "description": "Alpha 20.7 Stable",
+                "timeupdated": "1681834113"
+            },
+            "alpha19.6": {
+                "buildid": "7108523",
+                "description": "Alpha 19.6 Stable",
+                "timeupdated": "1640116155"
+            },
+            "alpha18.4": {
+                "buildid": "4714807",
+                "description": "Alpha 18.4 Stable",
+                "timeupdated": "1591274076"
+            },
+            "alpha17.4": {
+                "buildid": "3851784",
+                "description": "Alpha 17.4 Stable",
+                "timeupdated": "1561393270"
+            },
+            "alpha16.4": {
+                "buildid": "2222519",
+                "description": "Alpha 16.4 Stable",
+                "timeupdated": "1509091357"
+            },
+            "alpha15.2": {
+                "buildid": "1642896",
+                "description": "Alpha 15.2 Stable",
+                "timeupdated": "1487759666"
+            },
+            "alpha14.7": {
+                "buildid": "1192732",
+                "description": "Alpha 14.7 Stable",
+                "timeupdated": "1466595415"
+            },
+            "alpha13.8": {
+                "buildid": "963560",
+                "description": "Alpha 13.8 Stable",
+                "timeupdated": "1458644139"
+            },
+            "alpha12.5": {
+                "buildid": "745244",
+                "description": "Alpha 12.5 Stable"
+            },
+            "alpha11.6": {
+                "buildid": "659274",
+                "description": "Alpha 11.6 Stable"
+            },
+            "alpha10.4": {
+                "buildid": "480999",
+                "description": "Alpha 10.4 Stable"
+            },
+            "alpha9.3": {
+                "buildid": "386759",
+                "description": "Alpha 9.3 Stable"
+            },
+            "alpha8.8": {
+                "buildid": "333572",
+                "description": "Alpha 8.8 Stable"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
