@@ -1,0 +1,89 @@
+{
+    "appid": "550340",
+    "type": "Game",
+    "name": "Umineko: Golden Fantasia",
+    "schinese_name": "海猫：黄金梦想曲",
+    "isfreeapp": "0",
+    "change_number": "28318272",
+    "update_time": "2025-04-05 07:25:55",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "550341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                },
+                "community": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                },
+                "testing": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                }
+            },
+            "decryptionkey": "58454efda034f20404cbe031d52f3d53115b30c5abeafc087c614ccecee90e4b"
+        },
+        "550342": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "community": {
+                    "gid": "5180847938277995701",
+                    "size": "2708279271",
+                    "download": "2306586400"
+                },
+                "testing": {
+                    "gid": "3485513777921608817",
+                    "size": "2750991239",
+                    "download": "2310835264"
+                }
+            },
+            "decryptionkey": "ae41825923aa46bf19b0b6e453f64aa72a5a766fe36532aebef46bd6e4ef18c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2615651",
+                "timeupdated": "1521465754"
+            },
+            "community": {
+                "buildid": "15789595",
+                "description": "Community Edition",
+                "timeupdated": "1727054143"
+            },
+            "testing": {
+                "buildid": "17991828",
+                "timeupdated": "1743809150"
+            }
+        }
+    }
+}
