@@ -1,0 +1,90 @@
+{
+    "appid": "209670",
+    "type": "Game",
+    "name": "Cortex Command",
+    "schinese_name": "表层指挥",
+    "isfreeapp": "0",
+    "change_number": "27397124",
+    "update_time": "2025-02-10 17:17:25",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "209671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1344435321594457621",
+                    "size": "99403207",
+                    "download": "55267712"
+                },
+                "ccoss": {
+                    "gid": "3095081404511266308",
+                    "size": "103599429",
+                    "download": "56408592"
+                },
+                "local": {
+                    "gid": "8805554859215361786",
+                    "size": "103599429",
+                    "download": "56408592"
+                }
+            },
+            "decryptionkey": "05870b41f66b3548c520a27504ad74a9b5a5005157556576ebc3266de267fb8b"
+        },
+        "209672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1872517060490567825",
+                    "size": "108482281",
+                    "download": "57140864"
+                },
+                "ccoss": {
+                    "gid": "1872517060490567825",
+                    "size": "108482281",
+                    "download": "57140864"
+                },
+                "local": {
+                    "gid": "9156926213676659744",
+                    "size": "103877977",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6185d2cf8fb7b21b74a7905e7715bf75b9c2548c5f34cf849b75b139cd30a279"
+        },
+        "209673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "1635149",
+                "timeupdated": "1487233921"
+            },
+            "ccoss": {
+                "buildid": "4013670",
+                "description": "Open Source build",
+                "timeupdated": "1563224553"
+            },
+            "local": {
+                "buildid": "4004369",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1562888154"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
