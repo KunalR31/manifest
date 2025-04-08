@@ -1,0 +1,84 @@
+{
+    "appid": "3166830",
+    "type": "Demo",
+    "name": "Elements and Build Demo",
+    "schinese_name": "元素与构筑 Demo",
+    "isfreeapp": "0",
+    "change_number": "26149970",
+    "update_time": "2024-11-12 10:03:13",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3166831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7853021340191122256",
+                    "size": "350461971",
+                    "download": "163897936"
+                },
+                "test": {
+                    "gid": "8211424740129044925",
+                    "size": "347616190",
+                    "download": "161276528"
+                }
+            },
+            "decryptionkey": "fb616a140bc1889a11f10448c65cbabe9624297e84ae4de921656618803f4c30"
+        },
+        "3166832": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "4582821992382134395",
+                    "size": "348678629",
+                    "download": "161995504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16025985",
+                "timeupdated": "1728910668"
+            },
+            "test": {
+                "buildid": "15875959",
+                "description": "测试",
+                "timeupdated": "1727703622"
+            }
+        }
+    }
+}
