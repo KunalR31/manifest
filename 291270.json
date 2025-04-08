@@ -1,0 +1,50 @@
+{
+    "appid": "291270",
+    "type": "Game",
+    "name": "Vitrum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24358074",
+    "update_time": "2024-07-14 23:55:44",
+    "depot": {
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "291271": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1734646078484426905",
+                    "size": "252866111",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "1734646078484426905",
+                    "size": "252866111",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ad5d95c53b36d47af2e819b4539727012adf623f9d11e00e6e95ff6b75e86475"
+        },
+        "branches": {
+            "public": {
+                "buildid": "230125"
+            },
+            "test": {
+                "buildid": "230125"
+            }
+        }
+    }
+}
