@@ -1,0 +1,83 @@
+{
+    "appid": "320140",
+    "type": "Game",
+    "name": "Absolute Drift",
+    "schinese_name": "绝对漂移",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-18 05:48:30",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "320141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5389423999088490459",
+                    "size": "355860084",
+                    "download": "134155808"
+                },
+                "beta": {
+                    "gid": "7453191807186579285",
+                    "size": "356028128",
+                    "download": "134134576"
+                }
+            },
+            "decryptionkey": "cdf0086eeb3d80beb86bd45680d48cb53f555103c2511d7985d903da2f2b0975"
+        },
+        "320142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2688677701709527850",
+                    "size": "376303844",
+                    "download": "138269520"
+                },
+                "beta": {
+                    "gid": "6413870026759130715",
+                    "size": "376259992",
+                    "download": "137971872"
+                }
+            },
+            "decryptionkey": "8977c37b2473d5ef3beb304d652fb9424ef0ba3aa5515b817558016ec173f1de"
+        },
+        "320143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4421506249304054846",
+                    "size": "355483518",
+                    "download": "135329008"
+                },
+                "beta": {
+                    "gid": "4719465554503975699",
+                    "size": "355547975",
+                    "download": "135292128"
+                }
+            },
+            "decryptionkey": "4ea8e2b5cd4868b3de6ecbd36d376981aa9512a01c70c80fdc88a773dac2b2f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7879130",
+                "timeupdated": "1684205854"
+            },
+            "beta": {
+                "buildid": "12448944",
+                "timeupdated": "1697437343"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
