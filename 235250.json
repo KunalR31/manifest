@@ -1,0 +1,66 @@
+{
+    "appid": "235250",
+    "type": "Game",
+    "name": "Super Sanctum TD",
+    "schinese_name": "超级幽闭圣地：塔防版",
+    "isfreeapp": "0",
+    "change_number": "28206582",
+    "update_time": "2025-03-29 22:15:46",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "235251": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2638154239108355204",
+                    "size": "98181935",
+                    "download": "315620751459"
+                },
+                "betabranch": {
+                    "gid": "1729947260596024589",
+                    "size": "98103343",
+                    "download": "89441728"
+                }
+            },
+            "decryptionkey": "bb22795698d724cc67722a4520e63e8de275663a616db758e0433bee41a31597"
+        },
+        "235252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6208448510500832339",
+                    "size": "96288442",
+                    "download": "148750257683"
+                },
+                "betabranch": {
+                    "gid": "8915603459956969976",
+                    "size": "96288448",
+                    "download": "88647680"
+                }
+            },
+            "decryptionkey": "d188ac90d832095aee385dd7a9a68fa68fe6905a451e3b87dc94c974199c88e2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "381328"
+            },
+            "betabranch": {
+                "buildid": "484724"
+            }
+        }
+    }
+}
