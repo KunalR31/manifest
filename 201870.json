@@ -1,0 +1,102 @@
+{
+    "appid": "201870",
+    "type": "Game",
+    "name": "Assassin's Creed Revelations",
+    "schinese_name": "刺客信条：启示录",
+    "isfreeapp": "0",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:02",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,czech",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "201882": {
+            "optional": "1",
+            "systemdefined": "1",
+            "dlcappid": "201882",
+            "manifests": {
+                "public": {
+                    "gid": "7521579372377574937",
+                    "size": "798003189",
+                    "download": "693013936"
+                }
+            },
+            "decryptionkey": "9da8a3de98388a48fca6702689b9b4bbbf67af576b632ee04e08b98f303efdd2"
+        },
+        "201871": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6910264676643594998",
+                    "size": "8084982542",
+                    "download": "6765522384"
+                }
+            },
+            "decryptionkey": "8174e101496f03e7544b945add7c99908e744b0c0b2b7182f69e5c408692f082"
+        },
+        "201872": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2105489577231626183",
+                    "size": "393462120",
+                    "download": "366088048"
+                }
+            },
+            "decryptionkey": "9ef78f51c49e94cee4c9aea09dabfc753646cd124809429590a467b53cd232e5"
+        },
+        "201873": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5532293391770189079",
+                    "size": "1591015",
+                    "download": "1173520"
+                }
+            },
+            "decryptionkey": "e340422eaaff220ae2823c05e9a039d9ba4f8fa68b8e32eff7219def9b6a941a"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13183194",
+                "timeupdated": "1711447250"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
