@@ -1,0 +1,73 @@
+{
+    "appid": "532190",
+    "type": "Game",
+    "name": "Super Blood Hockey",
+    "schinese_name": "热血曲棍球",
+    "isfreeapp": "0",
+    "change_number": "27978626",
+    "update_time": "2025-03-16 13:54:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "532191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4340519687245201031",
+                    "size": "235285951",
+                    "download": "161613248"
+                }
+            },
+            "decryptionkey": "a0689f723c6c3993e48db15ffb4472b57f5bb755291f05eae39f3eab9adf7eac"
+        },
+        "532192": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3867423477185084835",
+                    "size": "322330754",
+                    "download": "182136224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "532193": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5764968780172575008",
+                    "size": "527011664",
+                    "download": "178031376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3438173",
+                "timeupdated": "1553789974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
