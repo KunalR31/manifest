@@ -1,0 +1,60 @@
+{
+    "appid": "278530",
+    "type": "Game",
+    "name": "3 Stars of Destiny",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26967194",
+    "update_time": "2025-01-13 11:30:25",
+    "depot": {
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "278531": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1131335607244976375",
+                    "size": "87136100",
+                    "download": "73970848"
+                },
+                "beta": {
+                    "gid": "1131335607244976375",
+                    "size": "87136100",
+                    "download": "73970848"
+                }
+            },
+            "decryptionkey": "92399f28cf6e6867e5d8aa96ca95e4408f45fb0c3568707acbe454b23646fe50"
+        },
+        "366730": {
+            "manifests": {
+                "public": {
+                    "gid": "665020417134730175",
+                    "size": "15314116",
+                    "download": "14730336"
+                },
+                "beta": {
+                    "gid": "665020417134730175",
+                    "size": "15314116",
+                    "download": "14730336"
+                }
+            },
+            "dlcappid": "366730",
+            "decryptionkey": "6fd742e554ce36031b312bb1ab2508e3788add1fa6bb86b817cf874783a2e55b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "610405"
+            },
+            "beta": {
+                "buildid": "610405",
+                "description": "Beta testing"
+            }
+        }
+    }
+}
