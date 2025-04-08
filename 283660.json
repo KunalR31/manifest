@@ -1,0 +1,95 @@
+{
+    "appid": "283660",
+    "type": "Game",
+    "name": "Rabbit Hole 3D: Steam Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25659199",
+    "update_time": "2024-10-11 23:41:07",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "283661": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5504366875480224397",
+                    "size": "66059058",
+                    "download": "18688240"
+                },
+                "linux": {
+                    "gid": "4197003434782547753",
+                    "size": "35957285",
+                    "download": "0"
+                },
+                "mac": {
+                    "gid": "4197003434782547753",
+                    "size": "35957285",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e68ea3d839f99bf0b298ce3d8c2c7c1c0c5a65041bd912b2cb925878e10e37ae"
+        },
+        "283662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1931612115064377656",
+                    "size": "79140930",
+                    "download": "20826160"
+                },
+                "linux": {
+                    "gid": "3843864079852811138",
+                    "size": "39900879",
+                    "download": "0"
+                },
+                "mac": {
+                    "gid": "3843864079852811138",
+                    "size": "39900879",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dbccfcc2bb67509e833e5db57ce788d89286dc05349667a41917b242b4e4ef99"
+        },
+        "283663": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5321244141144240323",
+                    "size": "100995855",
+                    "download": "29109904"
+                },
+                "linux": {
+                    "gid": "5792526006006135494",
+                    "size": "42477150",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e3890e3fd33ba8a3592d483d49f6dfae4e9644dcd52bf4b6a0e633e62b4f7e63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "800307"
+            },
+            "linux": {
+                "buildid": "219684"
+            },
+            "mac": {
+                "buildid": "219681"
+            }
+        }
+    }
+}
