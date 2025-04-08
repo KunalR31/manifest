@@ -1,0 +1,83 @@
+{
+    "appid": "492340",
+    "type": "Game",
+    "name": "Pixel Cup Soccer 17",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 08:59:05",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "492341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3990338181789888759",
+                    "size": "46175814",
+                    "download": "37625536"
+                },
+                "testing": {
+                    "gid": "3990338181789888759",
+                    "size": "46175814",
+                    "download": "37625536"
+                }
+            },
+            "decryptionkey": "694f10d642f8cb3b9093cac49d2dfdafc583312a4c97e76a646c31036282bd18"
+        },
+        "492342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1481969155461583448",
+                    "size": "50494302",
+                    "download": "38042928"
+                },
+                "testing": {
+                    "gid": "1481969155461583448",
+                    "size": "50494302",
+                    "download": "38042928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "492343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2438856746202596840",
+                    "size": "44171346",
+                    "download": "36777760"
+                },
+                "testing": {
+                    "gid": "2438856746202596840",
+                    "size": "44171346",
+                    "download": "36777760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2479337",
+                "timeupdated": "1522675382"
+            },
+            "testing": {
+                "buildid": "2479337",
+                "description": "Public testing branch",
+                "timeupdated": "1517256823"
+            }
+        }
+    }
+}
