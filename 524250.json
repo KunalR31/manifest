@@ -1,0 +1,87 @@
+{
+    "appid": "524250",
+    "type": "Game",
+    "name": "Dad Quest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25689542",
+    "update_time": "2024-10-13 09:55:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "524251": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2186623028279848661",
+                    "size": "975612883",
+                    "download": "541566256"
+                },
+                "press_preview": {
+                    "gid": "6643426528839018691",
+                    "size": "975613956",
+                    "download": "541566128"
+                },
+                "publicbeta": {
+                    "gid": "6643426528839018691",
+                    "size": "975613956",
+                    "download": "541566128"
+                }
+            },
+            "decryptionkey": "9db4f2ea1301f409072ea35157438782929a89d81cd99bb4f3edc7466c699dd3"
+        },
+        "524252": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "524253": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "5455525",
+                "timeupdated": "1598346351"
+            },
+            "press_preview": {
+                "buildid": "3586418",
+                "timeupdated": "1550857926"
+            },
+            "publicbeta": {
+                "buildid": "3586418",
+                "timeupdated": "1550857915"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
