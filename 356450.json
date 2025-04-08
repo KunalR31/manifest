@@ -1,0 +1,92 @@
+{
+    "appid": "356450",
+    "type": "Game",
+    "name": "Creature Romances: Kokonoe Kokoro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109910",
+    "update_time": "2025-01-22 18:26:12",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "356451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1066293871318276391",
+                    "size": "377056746",
+                    "download": "186060512"
+                },
+                "beta": {
+                    "gid": "5958166194090140040",
+                    "size": "387525579",
+                    "download": "189266016"
+                }
+            },
+            "decryptionkey": "29d6ebce08d1ff99d14f0534fa0bd4f0d40d623fa7b612e15c30187d53b20d26"
+        },
+        "356452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1359885232748452340",
+                    "size": "392426771",
+                    "download": "190167296"
+                },
+                "beta": {
+                    "gid": "1359885232748452340",
+                    "size": "392426771",
+                    "download": "190167296"
+                }
+            },
+            "decryptionkey": "5fc164b8feffd69bc5e22fa1b50b7b8e782a954f7d7b89a8d440edcd8a7cc86e"
+        },
+        "356453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4485839634844714216",
+                    "size": "389110830",
+                    "download": "189716720"
+                },
+                "beta": {
+                    "gid": "4485839634844714216",
+                    "size": "389110830",
+                    "download": "189716720"
+                }
+            },
+            "decryptionkey": "838fff9c4fdf420bf8ab1061a3b7fa136f317d95be2061d6a804af2e3e967651"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7634230",
+                "timeupdated": "1635724819"
+            },
+            "beta": {
+                "buildid": "8162694",
+                "description": "test fullscreen and blank screen fixes",
+                "timeupdated": "1644294474"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
