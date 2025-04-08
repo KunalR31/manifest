@@ -1,0 +1,62 @@
+{
+    "appid": "376680",
+    "type": "Game",
+    "name": "Splendor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28053578",
+    "update_time": "2025-03-20 23:15:44",
+    "depot": {
+        "baselanguages": "english,german,french",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "376681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5387412932147379892",
+                    "size": "109415568",
+                    "download": "97126416"
+                },
+                "beta_testing": {
+                    "gid": "51123619400650279",
+                    "size": "101777433",
+                    "download": "90873312"
+                }
+            },
+            "decryptionkey": "fb3bcc11a5773fd71d8a9fe927f602fad50d0316f58c99973955ce12c9494256"
+        },
+        "797510": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "797510"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7194742",
+                "timeupdated": "1629794110"
+            },
+            "beta_testing": {
+                "buildid": "2959211",
+                "description": "Open Beta",
+                "timeupdated": "1533550163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
