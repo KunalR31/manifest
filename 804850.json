@@ -1,0 +1,113 @@
+{
+    "appid": "804850",
+    "type": "Game",
+    "name": "Pax Nova",
+    "schinese_name": "帕克斯新星",
+    "isfreeapp": "0",
+    "change_number": "25589582",
+    "update_time": "2024-10-08 23:13:26",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "804850",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "804851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7300243963906863574",
+                    "size": "5317011734",
+                    "download": "1800415968"
+                },
+                "fix-text": {
+                    "gid": "8040201502028939767",
+                    "size": "4771981587",
+                    "download": "1623035968"
+                },
+                "public-beta": {
+                    "gid": "7300243963906863574",
+                    "size": "5317011734",
+                    "download": "1800415968"
+                },
+                "save-compatability-build": {
+                    "gid": "9043292825053275363",
+                    "size": "3748968629",
+                    "download": "1102655008"
+                }
+            },
+            "decryptionkey": "8b26d473ded61846b4fabdb04f1e897e919479002c463f186e81a00ae6e5cc71"
+        },
+        "1688990": {
+            "dlcappid": "1688990",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5081208721541629734",
+                    "size": "1472",
+                    "download": "1072"
+                },
+                "public-beta": {
+                    "gid": "5081208721541629734",
+                    "size": "1472",
+                    "download": "1072"
+                }
+            },
+            "decryptionkey": "0d59bd6ee94875d5bb4a1909d2b9fe26134fe1a0c820c7f6ad01b86a501188c1"
+        },
+        "1796420": {
+            "dlcappid": "1796420",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3766412807762026699",
+                    "size": "3072",
+                    "download": "2112"
+                },
+                "public-beta": {
+                    "gid": "3766412807762026699",
+                    "size": "3072",
+                    "download": "2112"
+                }
+            },
+            "decryptionkey": "6d69a88c59b73951cedb6efdc4e9a7daf009a4412251b5a339127ac7ffb343a0"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "8912486",
+                "timeupdated": "1674133621"
+            },
+            "fix-text": {
+                "buildid": "4314081",
+                "description": "Public branch for releasing fixes to selected groups",
+                "timeupdated": "1571812876"
+            },
+            "public-beta": {
+                "buildid": "8912486",
+                "description": "Public beta branch for releasing work in progress builds",
+                "timeupdated": "1674133632"
+            },
+            "save-compatability-build": {
+                "buildid": "4011661",
+                "description": "This build is compatible with older saves, 0.6.05 and older.",
+                "timeupdated": "1565947318"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
