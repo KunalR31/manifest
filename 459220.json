@@ -1,0 +1,52 @@
+{
+    "appid": "459220",
+    "type": "Game",
+    "name": "Halo Wars: Definitive Edition",
+    "schinese_name": "光环战争：终极版",
+    "isfreeapp": "0",
+    "change_number": "27469766",
+    "update_time": "2025-02-14 08:15:17",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "459221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3059092186356678970",
+                    "size": "10077325749",
+                    "download": "9672987744"
+                },
+                "beta": {
+                    "gid": "3059092186356678970",
+                    "size": "10077325749",
+                    "download": "9672987744"
+                }
+            },
+            "decryptionkey": "d5ac4085e8993db07e41ff025f1a60abf083d790e0452af5900fcb82fce8acf0"
+        },
+        "workshopdepot": "459220",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,hungarian,czech",
+        "branches": {
+            "public": {
+                "buildid": "1858145",
+                "timeupdated": "1496697421"
+            },
+            "beta": {
+                "buildid": "1858145",
+                "description": "Public beta branch",
+                "timeupdated": "1496697365"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
