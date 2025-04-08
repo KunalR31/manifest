@@ -1,0 +1,59 @@
+{
+    "appid": "3031920",
+    "type": "Demo",
+    "name": "Happy Zone Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24233524",
+    "update_time": "2024-07-16 02:47:09",
+    "depot": {
+        "3031921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4379058919110887358",
+                    "size": "131167617",
+                    "download": "75297616"
+                },
+                "steamdeck": {
+                    "gid": "4379058919110887358",
+                    "size": "131167617",
+                    "download": "75297616"
+                }
+            },
+            "decryptionkey": "d27a099555e49475ae20e35e6efddb9c8ee39301c8bed17ad1bcf3b7507be282"
+        },
+        "3031922": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "551447034331408832",
+                    "size": "270362850",
+                    "download": "74717280"
+                },
+                "steamdeck": {
+                    "gid": "7955081368942307106",
+                    "size": "270362706",
+                    "download": "74710272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14928677",
+                "timeupdated": "1720080753"
+            },
+            "steamdeck": {
+                "buildid": "14890500",
+                "description": "add from steam deck",
+                "timeupdated": "1719806184"
+            }
+        }
+    }
+}
