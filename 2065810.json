@@ -1,0 +1,67 @@
+{
+    "appid": "2065810",
+    "type": "Game",
+    "name": "Undead Horde 2: Necropolis",
+    "schinese_name": "不死军团2",
+    "isfreeapp": "0",
+    "change_number": "28080345",
+    "update_time": "2025-03-22 05:18:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2065811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1091961114123477719",
+                    "size": "620535907",
+                    "download": "269038384"
+                },
+                "beta": {
+                    "gid": "1091961114123477719",
+                    "size": "620535907",
+                    "download": "269038384"
+                }
+            },
+            "decryptionkey": "42b390769cfc726615c7a86cbe9a5737ac70af4a22c02623cd1ea63c6eba105b"
+        },
+        "2065812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "438497413825026332",
+                    "size": "598818216",
+                    "download": "274132448"
+                },
+                "beta": {
+                    "gid": "438497413825026332",
+                    "size": "598818216",
+                    "download": "274132448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11457021",
+                "timeupdated": "1686721594"
+            },
+            "beta": {
+                "buildid": "11457021",
+                "description": "updates tested here first",
+                "timeupdated": "1686651506"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
