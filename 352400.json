@@ -1,0 +1,193 @@
+{
+    "appid": "352400",
+    "type": "Game",
+    "name": "LEGO® Jurassic World",
+    "schinese_name": "乐高侏罗纪世界",
+    "isfreeapp": "0",
+    "change_number": "28204426",
+    "update_time": "2025-03-29 16:15:02",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "352401": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5281098376453520947",
+                    "size": "15296993444",
+                    "download": "14156516960"
+                }
+            },
+            "decryptionkey": "8f90accf2ae69d17b8af3f20d03010a81298e10cabe5a506afeacf7a96f6464e"
+        },
+        "352402": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "352403": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7498527045054065111",
+                    "size": "15144755042",
+                    "download": "13862610192"
+                },
+                "local": {
+                    "gid": "8961667495693524412",
+                    "size": "12261003222",
+                    "download": "11814111136"
+                }
+            },
+            "decryptionkey": "b3b24883707929a4da82c6b6dc282a57534a47e9f9fc56dd97a0d598950f799b"
+        },
+        "352407": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "352404": {
+            "dlcappid": "367871",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "404176003352629896",
+                    "size": "2080534",
+                    "download": "1505600"
+                },
+                "local": {
+                    "gid": "404176003352629896",
+                    "size": "2080534",
+                    "download": "1505600"
+                }
+            },
+            "decryptionkey": "efd7d38d4a828eee2c55efd6a1608ab3e2c3ee4c25ade7103fb384dbf0fad79b"
+        },
+        "352405": {
+            "dlcappid": "367872",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "525953420557603662",
+                    "size": "2837879",
+                    "download": "2391376"
+                },
+                "local": {
+                    "gid": "525953420557603662",
+                    "size": "2837879",
+                    "download": "2391376"
+                }
+            },
+            "decryptionkey": "cb4dd41fd600de9e5886cfe9a3e325a15868be91d519c98edc160e975535821b"
+        },
+        "352406": {
+            "dlcappid": "367870",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3817573933051015946",
+                    "size": "1789825",
+                    "download": "1405568"
+                },
+                "local": {
+                    "gid": "3817573933051015946",
+                    "size": "1789825",
+                    "download": "1405568"
+                }
+            },
+            "decryptionkey": "8ccd42c2a5fff96b939af993ee839bdd1ddb28f4f8d92fc5aa4e29dac042f3f7"
+        },
+        "367870": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "367870",
+            "manifests": {
+                "public": {
+                    "gid": "2157132881795262590",
+                    "size": "2139414",
+                    "download": "1570352"
+                }
+            },
+            "decryptionkey": "2dbcde1124451c5ceb31876a703e4d8ff4eae855a849c257e61e236005cd609e"
+        },
+        "367871": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "367871",
+            "manifests": {
+                "public": {
+                    "gid": "4026087277824522182",
+                    "size": "2919287",
+                    "download": "2462992"
+                }
+            },
+            "decryptionkey": "be5df76c98427f835656cdde0dea25d59e180145be23095ddc73105019f46efe"
+        },
+        "367872": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "367872",
+            "manifests": {
+                "public": {
+                    "gid": "6022910315582323649",
+                    "size": "1852033",
+                    "download": "1471152"
+                }
+            },
+            "decryptionkey": "6a07538a35eb9272b45a3ad970382c79b139b8cc084baa4cca7918c2ebca3184"
+        },
+        "branches": {
+            "public": {
+                "buildid": "711465"
+            },
+            "local": {
+                "buildid": "872780",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
