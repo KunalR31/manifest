@@ -1,0 +1,74 @@
+{
+    "appid": "546170",
+    "type": "Game",
+    "name": "Gem Forge",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 13:56:40",
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "546171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6631341090728726523",
+                    "size": "24355051",
+                    "download": "20537248"
+                },
+                "comp": {
+                    "gid": "7199382324676496959",
+                    "size": "22930121",
+                    "download": "20087744"
+                },
+                "test": {
+                    "gid": "6631341090728726523",
+                    "size": "24355051",
+                    "download": "20537248"
+                }
+            },
+            "decryptionkey": "8e6cedcf6bafa394a6a23ec007cc27e0ca4d5edf8cc30bd7507e8e0196b80b3b"
+        },
+        "546172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "394748019942577808",
+                    "size": "50454567",
+                    "download": "23419264"
+                },
+                "comp": {
+                    "gid": "6262772534138149566",
+                    "size": "35741838",
+                    "download": "22974064"
+                },
+                "test": {
+                    "gid": "394748019942577808",
+                    "size": "50454567",
+                    "download": "23419264"
+                }
+            },
+            "decryptionkey": "a8c88acc9b4f8183fdd6c6f209c7c9dd7d67bffd7e72b4c2a92cce1646c2d9b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9966530",
+                "timeupdated": "1668773979"
+            },
+            "comp": {
+                "buildid": "4141949",
+                "description": "compatibility build",
+                "timeupdated": "1566895572"
+            },
+            "test": {
+                "buildid": "9966530",
+                "description": "beta testing",
+                "timeupdated": "1668763595"
+            }
+        }
+    }
+}
