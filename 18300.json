@@ -1,0 +1,67 @@
+{
+    "appid": "18300",
+    "type": "Game",
+    "name": "Spectraball",
+    "schinese_name": "光谱球",
+    "isfreeapp": "0",
+    "change_number": "27164929",
+    "update_time": "2025-01-26 00:26:04",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "18301": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2490965323243823968",
+                    "size": "648200328",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd4e8e2824355dddd39a3604e5c9912a8d6e6c551282662358810b76c1c5f007"
+        },
+        "18302": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3941904040761063365",
+                    "size": "669620424",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "28a8f704111fb4dcc41644dc7e05294f98b59105b2235699a63097406f9dd870"
+        },
+        "18303": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3144135049641174720",
+                    "size": "712230190",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f4f2da281428e62241053198e6d157af6a1eedadc77e22563a1470c0de4d1cf7"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "119461"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
