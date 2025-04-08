@@ -1,0 +1,117 @@
+{
+    "appid": "781130",
+    "type": "Game",
+    "name": "Creatura",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28150942",
+    "update_time": "2025-03-26 22:16:07",
+    "depot": {
+        "workshopdepot": "781130",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "781131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4703251589517893254",
+                    "size": "750255403",
+                    "download": "238761984"
+                },
+                "dev_fix": {
+                    "gid": "4903725643254357298",
+                    "size": "750268212",
+                    "download": "238703296"
+                },
+                "nightly": {
+                    "gid": "4703251589517893254",
+                    "size": "750255403",
+                    "download": "238761984"
+                }
+            },
+            "decryptionkey": "1169ffcdf763b6ae746a864b733831db3d32003cff5fb0cc573439fa9ee9cce7"
+        },
+        "781132": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6622131312899441874",
+                    "size": "759683020",
+                    "download": "236646080"
+                },
+                "dev_fix": {
+                    "gid": "6622131312899441874",
+                    "size": "759683020",
+                    "download": "236646080"
+                },
+                "nightly": {
+                    "gid": "6622131312899441874",
+                    "size": "759683020",
+                    "download": "236646080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "781133": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7688612076799046189",
+                    "size": "752599915",
+                    "download": "229623312"
+                },
+                "dev_fix": {
+                    "gid": "127089945019261604",
+                    "size": "752640771",
+                    "download": "229726832"
+                },
+                "nightly": {
+                    "gid": "7688612076799046189",
+                    "size": "752599915",
+                    "download": "229623312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9487453",
+                "timeupdated": "1727172627"
+            },
+            "dev_fix": {
+                "buildid": "10114695",
+                "description": "Development Fixes Test",
+                "timeupdated": "1670593428"
+            },
+            "nightly": {
+                "buildid": "9487453",
+                "timeupdated": "1662755857"
+            }
+        },
+        "workshopdepotdecryptionkey": "efb47ad743aa603e176f6e6322a05584cec68a1b3205607f89112d4ca706d1b5"
+    }
+}
