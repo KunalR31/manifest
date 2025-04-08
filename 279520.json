@@ -1,0 +1,94 @@
+{
+    "appid": "279520",
+    "type": "Game",
+    "name": "Rage Runner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27447330",
+    "update_time": "2025-02-13 05:21:50",
+    "depot": {
+        "overridescddb": "1",
+        "279521": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4418025863174536977",
+                    "size": "485664952",
+                    "download": "476701408"
+                },
+                "beta": {
+                    "gid": "4418025863174536977",
+                    "size": "485664952",
+                    "download": "476701408"
+                },
+                "linux": {
+                    "gid": "4418025863174536977",
+                    "size": "485664952",
+                    "download": "476701408"
+                }
+            },
+            "decryptionkey": "061b79d20450fc7bf19567c8a97668a3500107a8357f05fa9ad5a9390b40a759"
+        },
+        "279522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6707853872162977452",
+                    "size": "483702045",
+                    "download": "475694496"
+                },
+                "beta": {
+                    "gid": "6707853872162977452",
+                    "size": "483702045",
+                    "download": "475694496"
+                },
+                "linux": {
+                    "gid": "6707853872162977452",
+                    "size": "483702045",
+                    "download": "475694496"
+                }
+            },
+            "decryptionkey": "e9f643db7b01fc6995f74721367df535e64a25a910cebd1f488d1f719267009e"
+        },
+        "279523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4183699155860659787",
+                    "size": "486593926",
+                    "download": "481938704"
+                },
+                "beta": {
+                    "gid": "27379815944590623",
+                    "size": "314822698",
+                    "download": "305966352"
+                },
+                "linux": {
+                    "gid": "4183699155860659787",
+                    "size": "486593926",
+                    "download": "481938704"
+                }
+            },
+            "decryptionkey": "f16afb3ca4a866207e3e2b92b6f560da82d1ec7ba79b9445ae267dd957c177df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "482448"
+            },
+            "beta": {
+                "buildid": "479785",
+                "description": "beta branch"
+            },
+            "linux": {
+                "buildid": "482448"
+            }
+        }
+    }
+}
