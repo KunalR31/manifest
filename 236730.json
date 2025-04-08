@@ -1,0 +1,85 @@
+{
+    "appid": "236730",
+    "type": "Game",
+    "name": "Anomaly 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27107574",
+    "update_time": "2025-01-22 15:26:09",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "236731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1384391125629841708",
+                    "size": "959517649",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c32209eafcb06ed627834bfbc91b499f975a62bedceac5f23c2538473726eb3a"
+        },
+        "236732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8781208941378852761",
+                    "size": "963007205",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1ebae66663757bd8e1f5a2185ada5bd648267626f028b7a3fafc382aba3d38eb"
+        },
+        "236733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7281520730800682880",
+                    "size": "960851454",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a7630c4822c5c0fdbe61388b58408ecb7e80841b342061a17384de0aef9e7429"
+        },
+        "236734": {
+            "manifests": {
+                "public": {
+                    "gid": "2123453049879989209",
+                    "size": "1565509163",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ecca2ebbebd0d519dfc3f34879689520c1be0e52cc8486979801062cf4d4f13e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "294185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
