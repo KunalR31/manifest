@@ -1,0 +1,110 @@
+{
+    "appid": "643810",
+    "type": "Game",
+    "name": "Fugl",
+    "schinese_name": "Fugl (鸟)",
+    "isfreeapp": "0",
+    "change_number": "27198896",
+    "update_time": "2025-01-28 18:34:34",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "643810",
+        "643811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3737249070738539289",
+                    "size": "4271004923",
+                    "download": "1285315728"
+                },
+                "experimental": {
+                    "gid": "3737249070738539289",
+                    "size": "4271004923",
+                    "download": "1285315728"
+                }
+            },
+            "decryptionkey": "102c7851856ef11fdaa9bf9eafcfe4f180eead7d16a82f5a9f82aa6e3738649b"
+        },
+        "643812": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3936029801088455080",
+                    "size": "4280581824",
+                    "download": "1292439312"
+                },
+                "experimental": {
+                    "gid": "3936029801088455080",
+                    "size": "4280581824",
+                    "download": "1292439312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "643813": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2035240692348954387",
+                    "size": "4273013188",
+                    "download": "1285781376"
+                },
+                "experimental": {
+                    "gid": "2035240692348954387",
+                    "size": "4273013188",
+                    "download": "1285781376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,danish,dutch,norwegian,swedish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "16518394",
+                "timeupdated": "1732529212"
+            },
+            "experimental": {
+                "buildid": "16518394",
+                "timeupdated": "1732529148"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dc8c9ecc414c10b4411cf19f6102b60d86e582bbc80a5b895cc28e56ed08ce78"
+    }
+}
