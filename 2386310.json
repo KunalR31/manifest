@@ -1,0 +1,60 @@
+{
+    "appid": "2386310",
+    "type": "Game",
+    "name": "Ultros",
+    "schinese_name": "奥特罗斯 Ultros",
+    "isfreeapp": "0",
+    "change_number": "27991674",
+    "update_time": "2025-03-17 18:47:36",
+    "depot": {
+        "2386311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2104740349033212718",
+                    "size": "2751256205",
+                    "download": "2461069104"
+                },
+                "opentest": {
+                    "gid": "8421857791777332162",
+                    "size": "3295815158",
+                    "download": "2876774560"
+                }
+            },
+            "decryptionkey": "af749a581922a0c97f5cd9d034f04d877796b39acf48e7a430aae7f3dd52a852"
+        },
+        "2386312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2371258398139352683",
+                    "size": "2841974828",
+                    "download": "2466264480"
+                },
+                "opentest": {
+                    "gid": "7669901119378146078",
+                    "size": "3352122428",
+                    "download": "2762684656"
+                }
+            },
+            "decryptionkey": "d9c4cf37af7bd810f59dd4ab10b58036676003464de7951a02f4362a9ba6031f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17750063",
+                "timeupdated": "1742208450"
+            },
+            "opentest": {
+                "buildid": "17094015",
+                "description": "Test Branch 2024",
+                "timeupdated": "1737564548"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
