@@ -1,0 +1,54 @@
+{
+    "appid": "911400",
+    "type": "Game",
+    "name": "Assassin's Creed III Remastered",
+    "schinese_name": "刺客信条3 重制版",
+    "isfreeapp": "0",
+    "change_number": "28318676",
+    "update_time": "2025-04-05 08:10:01",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian",
+        "911401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3670596370283469393",
+                    "size": "50632963138",
+                    "download": "32835295872"
+                },
+                "local": {
+                    "gid": "4850654949432560879",
+                    "size": "50709206206",
+                    "download": "32911910640"
+                }
+            },
+            "decryptionkey": "c04740de17320ddf2881d8e88424ccb3850b951c06acdf8de1da26decd287cd9"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11324511",
+                "timeupdated": "1685101199"
+            },
+            "local": {
+                "buildid": "3790550",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1556870381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
