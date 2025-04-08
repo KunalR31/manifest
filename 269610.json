@@ -1,0 +1,62 @@
+{
+    "appid": "269610",
+    "type": "Game",
+    "name": "Arcane Worlds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26933831",
+    "update_time": "2025-01-10 10:18:55",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269611": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5301179296440699101",
+                    "size": "25489321",
+                    "download": "16214352"
+                },
+                "experimental": {
+                    "gid": "8748467800373925569",
+                    "size": "25501741",
+                    "download": "16216048"
+                }
+            },
+            "decryptionkey": "551ce95155831e0dc5ee5cad9bbfef51076cee45c4fa0a7fb801ab61c81eb818"
+        },
+        "269612": {
+            "manifests": {
+                "public": {
+                    "gid": "5318174191869059909",
+                    "size": "124646738",
+                    "download": "16275600"
+                },
+                "experimental": {
+                    "gid": "348506826911289271",
+                    "size": "104130863",
+                    "download": "13446592"
+                }
+            },
+            "decryptionkey": "692346d4fb2d4b262c270870e8f14c9fe59a7424d5b91137c74831de57e33b80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5998724",
+                "timeupdated": "1608575098"
+            },
+            "experimental": {
+                "buildid": "5143929",
+                "description": "For special testing",
+                "timeupdated": "1591768053"
+            }
+        }
+    }
+}
