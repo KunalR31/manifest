@@ -1,0 +1,77 @@
+{
+    "appid": "435100",
+    "type": "Game",
+    "name": "2Dark",
+    "schinese_name": "黑暗迷途",
+    "isfreeapp": "0",
+    "change_number": "25694502",
+    "update_time": "2024-10-13 23:51:04",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "435101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2351296608642397178",
+                    "size": "442219756",
+                    "download": "419571424"
+                },
+                "local": {
+                    "gid": "4083793798069571382",
+                    "size": "415586359",
+                    "download": "393344000"
+                },
+                "press": {
+                    "gid": "6408752350164864406",
+                    "size": "234699642",
+                    "download": "221704704"
+                },
+                "review": {
+                    "gid": "2351296608642397178",
+                    "size": "442219756",
+                    "download": "419571424"
+                }
+            },
+            "decryptionkey": "3f4b20b3c80b9322722f6d5edf4d8d6a871be2ced833bdcfe1c06cc486c52825"
+        },
+        "435102": {
+            "dlcappid": "579740"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1766979",
+                "timeupdated": "1492595354"
+            },
+            "local": {
+                "buildid": "1361812",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1475057051"
+            },
+            "press": {
+                "buildid": "1581325",
+                "timeupdated": "1484921914"
+            },
+            "review": {
+                "buildid": "1766979",
+                "timeupdated": "1492595373"
+            }
+        }
+    }
+}
