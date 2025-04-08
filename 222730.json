@@ -1,0 +1,156 @@
+{
+    "appid": "222730",
+    "type": "Game",
+    "name": "Reus",
+    "schinese_name": "造物主",
+    "isfreeapp": "0",
+    "change_number": "27244652",
+    "update_time": "2025-01-31 09:30:07",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "baselanguages": "english,french,italian,spanish,dutch,brazilian",
+        "markdlcdepots": "1",
+        "222731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1604796787456299289",
+                    "size": "420638020",
+                    "download": "327953776"
+                },
+                "beta": {
+                    "gid": "7255623817302723947",
+                    "size": "426432085",
+                    "download": "330333808"
+                },
+                "fna-version": {
+                    "gid": "7255623817302723947",
+                    "size": "426432085",
+                    "download": "330333808"
+                },
+                "legacy": {
+                    "gid": "146034504559320854",
+                    "size": "370770541",
+                    "download": "357624528"
+                }
+            },
+            "decryptionkey": "9de0116de41593a84ebc02989bf597683118fa7ddee9fd951062fc4e9cf84afd"
+        },
+        "222732": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6017845311170515329",
+                    "size": "482690627",
+                    "download": "348337248"
+                },
+                "beta": {
+                    "gid": "2254311002539168110",
+                    "size": "480039288",
+                    "download": "347327008"
+                },
+                "fna-version": {
+                    "gid": "2254311002539168110",
+                    "size": "480039288",
+                    "download": "347327008"
+                },
+                "legacy": {
+                    "gid": "2525578793353825631",
+                    "size": "382410113",
+                    "download": "330902288"
+                }
+            },
+            "decryptionkey": "65afb8a655cf94625a501cc3378735422280fd475ef07ef04b4db07975199923"
+        },
+        "222733": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5901751147624248075",
+                    "size": "455055646",
+                    "download": "340255696"
+                },
+                "beta": {
+                    "gid": "3376082353103415776",
+                    "size": "453053264",
+                    "download": "339439056"
+                },
+                "fna-version": {
+                    "gid": "3376082353103415776",
+                    "size": "453053264",
+                    "download": "339439056"
+                },
+                "legacy": {
+                    "gid": "9009708351018134682",
+                    "size": "353282848",
+                    "download": "323617296"
+                }
+            },
+            "decryptionkey": "e5cee269761508ad6b749495fd11d0fd272bb82710954aa2d74542a0186fa700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2775669",
+                "timeupdated": "1526395678"
+            },
+            "beta": {
+                "buildid": "2775673",
+                "description": "Protected Beta",
+                "timeupdated": "1526392772"
+            },
+            "fna-version": {
+                "buildid": "2775673",
+                "timeupdated": "1526394846"
+            },
+            "legacy": {
+                "buildid": "1229854",
+                "description": "version 1.4",
+                "timeupdated": "1495381419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
