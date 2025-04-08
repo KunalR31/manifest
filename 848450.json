@@ -1,0 +1,89 @@
+{
+    "appid": "848450",
+    "type": "Game",
+    "name": "Subnautica: Below Zero",
+    "schinese_name": "深海迷航：冰点之下",
+    "isfreeapp": "0",
+    "change_number": "28320369",
+    "update_time": "2025-04-05 12:11:11",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "848451": {},
+        "848452": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3183944276780659315",
+                    "size": "8476962971",
+                    "download": "5086239360"
+                },
+                "legacy": {
+                    "gid": "5858598531166021852",
+                    "size": "8477488845",
+                    "download": "5086432192"
+                },
+                "experimental": {
+                    "gid": "6865983159363083859",
+                    "size": "8477659061",
+                    "download": "5086485280"
+                }
+            },
+            "decryptionkey": "2faf06aaa2ceea761e8a38f7f8f72d4c64e3768d5e94c600e3c671f2eeffa17e"
+        },
+        "848453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4691675320476539755",
+                    "size": "8555052849",
+                    "download": "5097107312"
+                },
+                "legacy": {
+                    "gid": "7704406831107526497",
+                    "size": "8555569958",
+                    "download": "5097309968"
+                },
+                "experimental": {
+                    "gid": "8980192540215406816",
+                    "size": "8555760366",
+                    "download": "5097338208"
+                }
+            },
+            "decryptionkey": "396d4aced9c9e5f7fa7f07f8971b1f0d673438dc324831ebd79a9cce5ae693b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9582387",
+                "timeupdated": "1664921958"
+            },
+            "legacy": {
+                "buildid": "9700925",
+                "description": "For maintaining a stable legacy build",
+                "timeupdated": "1665698882"
+            },
+            "experimental": {
+                "buildid": "14907155",
+                "description": "Automatic daily updates. Lots of bugs!",
+                "timeupdated": "1719927383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
