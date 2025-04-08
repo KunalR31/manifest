@@ -1,0 +1,71 @@
+{
+    "appid": "814680",
+    "type": "Game",
+    "name": "Unbound: Worlds Apart",
+    "schinese_name": "游离于世界之海",
+    "isfreeapp": "0",
+    "change_number": "27004373",
+    "update_time": "2025-01-15 17:14:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "814681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8680219152056741339",
+                    "size": "6773600283",
+                    "download": "1515398176"
+                }
+            },
+            "decryptionkey": "7eb4614e63a0c052f3521b88197155b371d867e9686c51a8a629d63759e02b8d"
+        },
+        "814682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3985811826192439673",
+                    "size": "6794001256",
+                    "download": "1499855696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "814683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3053023527985463698",
+                    "size": "7079862481",
+                    "download": "1590215952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7149651",
+                "timeupdated": "1628537571"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
