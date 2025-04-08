@@ -1,0 +1,49 @@
+{
+    "appid": "2095290",
+    "type": "Game",
+    "name": "Theseus Protocol",
+    "schinese_name": "特修斯协议",
+    "isfreeapp": "0",
+    "change_number": "26755651",
+    "update_time": "2024-12-23 03:22:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2095291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5263743038545443147",
+                    "size": "1254834705",
+                    "download": "942353824"
+                },
+                "beta": {
+                    "gid": "7376795073426178359",
+                    "size": "1254800412",
+                    "download": "942315920"
+                }
+            },
+            "decryptionkey": "943b1dae8fc62582d97297dd318a6bc8cf45a8892fb344706f08ef112629392a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "12013507",
+                "timeupdated": "1692799760"
+            },
+            "beta": {
+                "buildid": "11986669",
+                "description": "Theseus Protocol test",
+                "timeupdated": "1692548548"
+            }
+        }
+    }
+}
