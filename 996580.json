@@ -1,0 +1,69 @@
+{
+    "appid": "996580",
+    "type": "Game",
+    "name": "Spyro™ Reignited Trilogy",
+    "schinese_name": "斯派罗烈焰重燃三合一",
+    "isfreeapp": "0",
+    "change_number": "28170407",
+    "update_time": "2025-03-27 21:15:17",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,polish,danish,dutch,finnish,norwegian,swedish,arabic,brazilian,latam",
+        "996581": {
+            "manifests": {
+                "public": {
+                    "gid": "8223464263088965733",
+                    "size": "58739180",
+                    "download": "40666784"
+                },
+                "local": {
+                    "gid": "445982968394735696",
+                    "size": "58735596",
+                    "download": "40642096"
+                }
+            },
+            "decryptionkey": "43f678f5e86f5f0e6f236ba830580719be039e1185121a7650e3a5733e593865"
+        },
+        "996582": {
+            "manifests": {
+                "public": {
+                    "gid": "6673579705803232637",
+                    "size": "41603544053",
+                    "download": "40706804496"
+                },
+                "local": {
+                    "gid": "1325480597578558878",
+                    "size": "41603519768",
+                    "download": "40663145376"
+                }
+            },
+            "decryptionkey": "6cab8b3208e30fc352684bb5ca8390e5e7e22926b56cf58545f72b528e87a923"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3849171",
+                "timeupdated": "1567530020"
+            },
+            "local": {
+                "buildid": "3827695",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1557964077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
