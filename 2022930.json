@@ -1,0 +1,52 @@
+{
+    "appid": "2022930",
+    "type": "Game",
+    "name": "WARCANA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27057643",
+    "update_time": "2025-01-19 01:53:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2022931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7902420808693168948",
+                    "size": "1874497632",
+                    "download": "655408400"
+                },
+                "local": {
+                    "gid": "1746849772921598233",
+                    "size": "2146189593",
+                    "download": "720664160"
+                }
+            },
+            "decryptionkey": "d229c5081f104f5986426a1ca355121a5c09c23c0e90058b743c86b849a2cb6b"
+        },
+        "workshopdepot": "2022930",
+        "branches": {
+            "public": {
+                "buildid": "16083739",
+                "timeupdated": "1729519117"
+            },
+            "local": {
+                "buildid": "9354151",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1661009542"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e7e750a9703cc42116f56613cf7a34b04264a6450ed42774af765ec408541cdc"
+    }
+}
