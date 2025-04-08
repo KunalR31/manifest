@@ -1,0 +1,127 @@
+{
+    "appid": "809310",
+    "type": "Game",
+    "name": "Sipho",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26798021",
+    "update_time": "2024-12-27 23:40:20",
+    "depot": {
+        "workshopdepot": "809310",
+        "baselanguages": "english,german,french,koreana,schinese,russian,japanese,polish,czech,brazilian,ukrainian,latam",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "809311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5846124011572288679",
+                    "size": "1387487390",
+                    "download": "408769376"
+                },
+                "devtest": {
+                    "gid": "7257981565960832293",
+                    "size": "1429386119",
+                    "download": "413120048"
+                },
+                "staging": {
+                    "gid": "5846124011572288679",
+                    "size": "1387487390",
+                    "download": "408769376"
+                },
+                "version_1.2.0": {
+                    "gid": "4495296736186377991",
+                    "size": "1387471009",
+                    "download": "408770272"
+                }
+            },
+            "decryptionkey": "10f38d47a72b2b67c98ee9a739d6e95eaee54c8de67fc17e7f632b6db426db14"
+        },
+        "809312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4967647904203404340",
+                    "size": "1418382759",
+                    "download": "416509856"
+                },
+                "devtest": {
+                    "gid": "3487360620701163289",
+                    "size": "1459613562",
+                    "download": "420562256"
+                },
+                "staging": {
+                    "gid": "4967647904203404340",
+                    "size": "1418382759",
+                    "download": "416509856"
+                },
+                "version_1.2.0": {
+                    "gid": "3591895574016818041",
+                    "size": "1418349962",
+                    "download": "416511360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "809313": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5695736146252248139",
+                    "size": "1439923499",
+                    "download": "410594688"
+                },
+                "devtest": {
+                    "gid": "4903708807673332482",
+                    "size": "1486756754",
+                    "download": "415569824"
+                },
+                "staging": {
+                    "gid": "5695736146252248139",
+                    "size": "1439923499",
+                    "download": "410594688"
+                },
+                "version_1.2.0": {
+                    "gid": "156590688132239401",
+                    "size": "1444101734",
+                    "download": "410606640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14092244",
+                "timeupdated": "1713463046"
+            },
+            "devtest": {
+                "buildid": "16476801",
+                "description": "All kinds of testing",
+                "timeupdated": "1732130720"
+            },
+            "staging": {
+                "buildid": "14092244",
+                "description": "Testing branch",
+                "timeupdated": "1717337219"
+            },
+            "version_1.2.0": {
+                "buildid": "13071802",
+                "description": "Archived version 1.2.0",
+                "timeupdated": "1713166650"
+            }
+        },
+        "workshopdepotdecryptionkey": "da7bfb3def06ef139188957817f516da43428c4f20a036e9b5fdd5608bc1ba33"
+    }
+}
