@@ -1,0 +1,73 @@
+{
+    "appid": "242130",
+    "type": "Game",
+    "name": "Vector Thrust",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 02:18:52",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "242131": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7412212648861234340",
+                    "size": "3988524648",
+                    "download": "2174007088"
+                },
+                "incubator": {
+                    "gid": "7412212648861234340",
+                    "size": "3988524648",
+                    "download": "2174007088"
+                },
+                "last_build": {
+                    "gid": "7510368010460646251",
+                    "size": "3988522600",
+                    "download": "2174008160"
+                }
+            },
+            "decryptionkey": "b55c3820189dd5bdf8a3f2f2e05a7ee4a96e787fb46584cd54cf249ecd988f4b"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "242130",
+        "branches": {
+            "public": {
+                "buildid": "1274668",
+                "timeupdated": "1470939519"
+            },
+            "incubator": {
+                "buildid": "1274668",
+                "description": "Development branch",
+                "timeupdated": "1470939530"
+            },
+            "last_build": {
+                "buildid": "1240077",
+                "description": "Old Build",
+                "timeupdated": "1470939505"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d52078ccafccac2b82e7be1c6b11bb3aca4b8ee5cc7ebab748f9e5ee2ff24013"
+    }
+}
