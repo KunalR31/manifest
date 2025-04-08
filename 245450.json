@@ -1,0 +1,82 @@
+{
+    "appid": "245450",
+    "type": "Game",
+    "name": "Wizardry 8",
+    "schinese_name": "巫术8",
+    "isfreeapp": "0",
+    "change_number": "28201127",
+    "update_time": "2025-03-29 08:14:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "245451": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5539182428484071203",
+                    "size": "253537494",
+                    "download": "245227968"
+                },
+                "beta": {
+                    "gid": "5539182428484071203",
+                    "size": "253537494",
+                    "download": "245227968"
+                }
+            },
+            "decryptionkey": "a63de9912114334f57ca6393e34220c2d06f246413d4d69b3ec20853a3a65480"
+        },
+        "245452": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "873527915355451572",
+                    "size": "1899547077",
+                    "download": "1400673632"
+                },
+                "beta": {
+                    "gid": "873527915355451572",
+                    "size": "1899547077",
+                    "download": "1400673632"
+                }
+            },
+            "decryptionkey": "cd99a3d294352cfa54190ee3c738abd7a364be7d00a35ba7fe0345d75d088976"
+        },
+        "245453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5092659619238654506",
+                    "size": "2117461613",
+                    "download": "1276528368"
+                },
+                "beta": {
+                    "gid": "5092659619238654506",
+                    "size": "2117461613",
+                    "download": "1276528368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4094152",
+                "timeupdated": "1565470034"
+            },
+            "beta": {
+                "buildid": "4094152",
+                "timeupdated": "1565468848"
+            }
+        }
+    }
+}
