@@ -1,0 +1,188 @@
+{
+    "appid": "244870",
+    "type": "Game",
+    "name": "Electronic Super Joy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27126685",
+    "update_time": "2025-01-23 16:27:23",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "244871": {
+            "manifests": {
+                "public": {
+                    "gid": "1350445942682598097",
+                    "size": "408556287",
+                    "download": "234657696"
+                },
+                "local": {
+                    "gid": "8261658850437768251",
+                    "size": "335738839",
+                    "download": "0"
+                },
+                "old": {
+                    "gid": "5861419808757997715",
+                    "size": "375385722",
+                    "download": "208546592"
+                },
+                "unstable": {
+                    "gid": "1350445942682598097",
+                    "size": "408556287",
+                    "download": "234657696"
+                }
+            },
+            "decryptionkey": "34dac08f93dcbe61683d61c403125088913132f0bafadca66c3844790a1c5ccb"
+        },
+        "244872": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6526664800628422072",
+                    "size": "11958096",
+                    "download": "4188352"
+                },
+                "local": {
+                    "gid": "1490228607241214607",
+                    "size": "11622736",
+                    "download": "0"
+                },
+                "old": {
+                    "gid": "7197959544068852157",
+                    "size": "11944784",
+                    "download": "4180208"
+                },
+                "unstable": {
+                    "gid": "6526664800628422072",
+                    "size": "11958096",
+                    "download": "4188352"
+                }
+            },
+            "decryptionkey": "b8ddf57fd7ba5d35085ad0d6ae7de52c15f311a037b635d401498507f0b8eb84"
+        },
+        "244873": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5734611220971377331",
+                    "size": "24344984",
+                    "download": "6279600"
+                },
+                "local": {
+                    "gid": "8029555949224425887",
+                    "size": "364257978",
+                    "download": "0"
+                },
+                "old": {
+                    "gid": "5975893209996209218",
+                    "size": "24425216",
+                    "download": "6249856"
+                },
+                "unstable": {
+                    "gid": "5734611220971377331",
+                    "size": "24344984",
+                    "download": "6279600"
+                }
+            },
+            "decryptionkey": "8eb46c9fdab8bcc51491805d9a1ba2d45cd3ae50599c582d22a844db7f31c061"
+        },
+        "244874": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "19677270295155674",
+                    "size": "19191842",
+                    "download": "5958688"
+                },
+                "local": {
+                    "gid": "8149751001668195482",
+                    "size": "17219034",
+                    "download": "0"
+                },
+                "old": {
+                    "gid": "6193365351501324101",
+                    "size": "18675334",
+                    "download": "5939824"
+                },
+                "unstable": {
+                    "gid": "19677270295155674",
+                    "size": "19191842",
+                    "download": "5958688"
+                }
+            },
+            "decryptionkey": "e5ef0aa443fd87166e37b48d29fc74b49ce733db9f887147ac9614724d291739"
+        },
+        "271400": {
+            "manifests": {
+                "public": {
+                    "gid": "2831228701060599779",
+                    "size": "177651783",
+                    "download": "176406016"
+                },
+                "local": {
+                    "gid": "2831228701060599779",
+                    "size": "177651783",
+                    "download": "0"
+                },
+                "old": {
+                    "gid": "2831228701060599779",
+                    "size": "177651783",
+                    "download": "176406016"
+                },
+                "unstable": {
+                    "gid": "2831228701060599779",
+                    "size": "177651783",
+                    "download": "176406016"
+                }
+            },
+            "dlcappid": "271400",
+            "decryptionkey": "e269a79ef9d742012d3b7bbb93e32638c2cfd53c80d7082d796d823d64ed9fe9"
+        },
+        "244875": {
+            "manifests": {
+                "public": {
+                    "gid": "6545320944222851268",
+                    "size": "10955372",
+                    "download": "11084000"
+                },
+                "unstable": {
+                    "gid": "6545320944222851268",
+                    "size": "10955372",
+                    "download": "11084000"
+                }
+            },
+            "decryptionkey": "56953e900336a51e529c2670f80511c73f83005ea468e4abecaaa45762716897"
+        },
+        "branches": {
+            "public": {
+                "buildid": "790940"
+            },
+            "local": {
+                "buildid": "163377",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "old": {
+                "buildid": "494170"
+            },
+            "unstable": {
+                "buildid": "790965",
+                "description": "Unstable"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
