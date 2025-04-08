@@ -1,0 +1,76 @@
+{
+    "appid": "1887020",
+    "type": "Game",
+    "name": "Robber Knight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28048502",
+    "update_time": "2025-03-20 17:56:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1887021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7001716283275344915",
+                    "size": "12116714262",
+                    "download": "11744763424"
+                },
+                "version_0.572_no_updates": {
+                    "gid": "3619024760257129052",
+                    "size": "7627371284",
+                    "download": "4037417120"
+                },
+                "version_0.65.0": {
+                    "gid": "2935326921467426461",
+                    "size": "7302309527",
+                    "download": "3835705504"
+                },
+                "version_0.65.b": {
+                    "gid": "3757454504638629462",
+                    "size": "6489718682",
+                    "download": "3415358192"
+                }
+            },
+            "decryptionkey": "aed35018bec8dfba32cbcfbd28652714ae1771399e50c048f0cbb15aaee7119f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16589089",
+                "timeupdated": "1732992780"
+            },
+            "version_0.572_no_updates": {
+                "buildid": "12245885",
+                "description": "Version 0.572 (no updates)",
+                "timeupdated": "1695295589"
+            },
+            "version_0.65.0": {
+                "buildid": "12682942",
+                "description": "Version 0.65.0",
+                "timeupdated": "1700308386"
+            },
+            "version_0.65.b": {
+                "buildid": "12753694",
+                "description": "Version_0.65.b (easy fighting)",
+                "timeupdated": "1706350383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
