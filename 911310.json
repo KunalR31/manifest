@@ -1,0 +1,56 @@
+{
+    "appid": "911310",
+    "type": "Application",
+    "name": "Kz NTools : Fix Your Network",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-05-24 09:17:20",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "911311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3349355089081398658",
+                    "size": "10061858",
+                    "download": "1862304"
+                },
+                "oldver": {
+                    "gid": "7531123561122541672",
+                    "size": "10010146",
+                    "download": "1845456"
+                }
+            },
+            "decryptionkey": "3379c517110ef7d00ef3640f1dabd6f7e4c8ec3af96964e8adb0162e06d2eed3"
+        },
+        "911316": {},
+        "branches": {
+            "public": {
+                "buildid": "5961439",
+                "timeupdated": "1607862632"
+            },
+            "oldver": {
+                "buildid": "3988882",
+                "description": "Old Versions",
+                "timeupdated": "1607953365"
+            }
+        }
+    }
+}
