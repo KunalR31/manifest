@@ -1,0 +1,100 @@
+{
+    "appid": "2251540",
+    "type": "Game",
+    "name": "Ibis AM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28325810",
+    "update_time": "2025-04-06 02:15:30",
+    "depot": {
+        "baselanguages": "english",
+        "2251542": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3156756113512613656",
+                    "size": "673876336",
+                    "download": "259974000"
+                },
+                "beta": {
+                    "gid": "8764156981519769614",
+                    "size": "675894064",
+                    "download": "260224000"
+                },
+                "prerelease": {
+                    "gid": "3156756113512613656",
+                    "size": "673876336",
+                    "download": "259974000"
+                }
+            },
+            "decryptionkey": "8aed629746ea101d5fa1416576900845ee28e96467f29cc9d74e63ad9055b612"
+        },
+        "2251543": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9116798237179570146",
+                    "size": "719232806",
+                    "download": "270996768"
+                },
+                "beta": {
+                    "gid": "7460017299707773495",
+                    "size": "718731332",
+                    "download": "271030000"
+                },
+                "prerelease": {
+                    "gid": "9116798237179570146",
+                    "size": "719232806",
+                    "download": "270996768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2251544": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2495066434719518379",
+                    "size": "681807641",
+                    "download": "261821568"
+                },
+                "beta": {
+                    "gid": "7436797771480863812",
+                    "size": "683430105",
+                    "download": "261987568"
+                },
+                "prerelease": {
+                    "gid": "2495066434719518379",
+                    "size": "681807641",
+                    "download": "261821568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11766018",
+                "timeupdated": "1690064679"
+            },
+            "beta": {
+                "buildid": "11766017",
+                "description": "Beta Channel",
+                "timeupdated": "1690064634"
+            },
+            "prerelease": {
+                "buildid": "11766018",
+                "description": "pre-release branch",
+                "timeupdated": "1690064640"
+            }
+        }
+    }
+}
