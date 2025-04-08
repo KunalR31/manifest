@@ -1,0 +1,67 @@
+{
+    "appid": "893680",
+    "type": "Game",
+    "name": "Project Warlock",
+    "schinese_name": "术士计划",
+    "isfreeapp": "0",
+    "change_number": "28164683",
+    "update_time": "2025-03-27 15:15:55",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "893681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6081672033308222040",
+                    "size": "2168302084",
+                    "download": "662029328"
+                },
+                "beta_portal": {
+                    "gid": "5007640325815600967",
+                    "size": "2184914732",
+                    "download": "658301088"
+                }
+            },
+            "decryptionkey": "f243fe9206b50dc0cfc4f160cb9775e514938279d5015367c4b37a38fa5cd49e"
+        },
+        "989960": {
+            "dlcappid": "989960",
+            "manifests": {
+                "public": {
+                    "gid": "6251424410075613135",
+                    "size": "521195361",
+                    "download": "516545328"
+                },
+                "beta_portal": {
+                    "gid": "6251424410075613135",
+                    "size": "521195361",
+                    "download": "516545328"
+                }
+            },
+            "decryptionkey": "d987f5343a4e971257d7bf2153706bd449de31abb4a127c4c12f7bfb62cf861c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14990117",
+                "timeupdated": "1720701297"
+            },
+            "beta_portal": {
+                "buildid": "6276118",
+                "description": "Voluntary experimental versions testing",
+                "timeupdated": "1639750501"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
