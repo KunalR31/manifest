@@ -1,0 +1,52 @@
+{
+    "appid": "289220",
+    "type": "Game",
+    "name": "BorderZone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 21:08:54",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "289221": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2821365056900010894",
+                    "size": "2245542013",
+                    "download": "16923069247880"
+                }
+            },
+            "decryptionkey": "dd7ad193e527b82b3b462324a48152274a2377bf474bd6ce989362d3573f4cd6"
+        },
+        "289222": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6488463792273350541",
+                    "size": "16904536",
+                    "download": "312514893617"
+                }
+            },
+            "decryptionkey": "8d3838d844e9e007deeaa72f14733f3344ca516d8bb43e543b8c2cd425d5b4a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "377231"
+            }
+        }
+    }
+}
