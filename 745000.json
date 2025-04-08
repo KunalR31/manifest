@@ -1,0 +1,61 @@
+{
+    "appid": "745000",
+    "type": "Game",
+    "name": "Card Crawl",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26612627",
+    "update_time": "2024-12-12 22:40:04",
+    "depot": {
+        "baselanguages": "english,german,spanish,schinese,russian,japanese",
+        "745001": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2180026754358708156",
+                    "size": "138698042",
+                    "download": "51412624"
+                },
+                "beta": {
+                    "gid": "4110694111809264287",
+                    "size": "137898437",
+                    "download": "51258064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "745002": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8144524447824408208",
+                    "size": "141892619",
+                    "download": "51090096"
+                },
+                "beta": {
+                    "gid": "2129560430216223669",
+                    "size": "141093010",
+                    "download": "50934816"
+                }
+            },
+            "decryptionkey": "3b71f613b9c93636ff6070acabebf336054f57a3e969879cdbadb198ca76a098"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9780883",
+                "timeupdated": "1666537878"
+            },
+            "beta": {
+                "buildid": "9492819",
+                "description": "Beta",
+                "timeupdated": "1662882195"
+            }
+        }
+    }
+}
