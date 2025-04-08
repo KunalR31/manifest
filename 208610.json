@@ -1,0 +1,75 @@
+{
+    "appid": "208610",
+    "type": "Game",
+    "name": "Skullgirls ∞Endless Beta∞",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:21:46",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "208611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6901206973402124976",
+                    "size": "4257815956",
+                    "download": "1751541488"
+                }
+            },
+            "decryptionkey": "e0d7a9c0becda59b9deb43cb78f3ca948f03e67794e0c9a05c5bc25b8d176852"
+        },
+        "208612": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4100479742366189306",
+                    "size": "4280014656",
+                    "download": "1616418992"
+                }
+            },
+            "decryptionkey": "35a554a1608410ac0aef6507e9b2725488c910c21f8ef199e05ef96af9dbe959"
+        },
+        "208613": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6107198999049828364",
+                    "size": "4264878273",
+                    "download": "1613286304"
+                }
+            },
+            "decryptionkey": "d52a8e81aa599497669437c3442f87a976aa7558b1f5249e6c813f358edd0d65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1686383",
+                "timeupdated": "1489361702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
