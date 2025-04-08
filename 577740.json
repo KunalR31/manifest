@@ -1,0 +1,62 @@
+{
+    "appid": "577740",
+    "type": "Game",
+    "name": "Winexy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27148954",
+    "update_time": "2025-01-24 20:29:23",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "577741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5827210517153621596",
+                    "size": "2161825907",
+                    "download": "832084640"
+                }
+            },
+            "decryptionkey": "1d19180044ad3d186acf1bd86bdac855223b904dca2235912fd84d0e441bb62b"
+        },
+        "577742": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696505367413016027",
+                    "size": "2095948564",
+                    "download": "865193888"
+                }
+            },
+            "decryptionkey": "365621ae472c7c95bd79c5fa334552a531e7de8e83474d01ba983f794ef12031"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5416937",
+                "timeupdated": "1597502160"
+            }
+        }
+    }
+}
