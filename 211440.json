@@ -1,0 +1,114 @@
+{
+    "appid": "211440",
+    "type": "Game",
+    "name": "Adventures of Shuggy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 18:03:18",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,russian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "211441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1458546208947690996",
+                    "size": "146080904",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "1458546208947690996",
+                    "size": "146080904",
+                    "download": "0"
+                },
+                "oldversion": {
+                    "gid": "4159204016114027910",
+                    "size": "144022068",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "29105c9ad5dcb3f3b147de6cebc6f4ff815bf47b77b85f8c464f8b303acdc379"
+        },
+        "211442": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1075288559654083205",
+                    "size": "99047733",
+                    "download": "73524960"
+                },
+                "linux32": {
+                    "gid": "3384325734218944553",
+                    "size": "106647074",
+                    "download": "75328048"
+                }
+            },
+            "decryptionkey": "ef55cb86af8e033dfb8e1e6794261e08a98b22b5d809ff6d14266eaee319bef8"
+        },
+        "211443": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8616054860446881600",
+                    "size": "111326691",
+                    "download": "76419936"
+                },
+                "linux32": {
+                    "gid": "6462075843725261659",
+                    "size": "96334603",
+                    "download": "72842816"
+                }
+            },
+            "decryptionkey": "efce7fa98a28b53d97a32f29bf1357631d1f80743c96471901015749e332a81d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9994563",
+                "timeupdated": "1669147079"
+            },
+            "linux32": {
+                "buildid": "4179613",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609452542"
+            },
+            "oldversion": {
+                "buildid": "209668"
+            }
+        }
+    }
+}
