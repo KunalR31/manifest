@@ -1,0 +1,194 @@
+{
+    "appid": "405100",
+    "type": "Tool",
+    "name": "Hurtworld Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182377",
+    "update_time": "2024-11-14 05:39:58",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "405101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5310641131136769452",
+                    "size": "293225716",
+                    "download": "190402032"
+                },
+                "devtest": {
+                    "gid": "5310641131136769452",
+                    "size": "293225716",
+                    "download": "190402032"
+                },
+                "legacy": {
+                    "gid": "9185763667898370055",
+                    "size": "956377460",
+                    "download": "516806976"
+                },
+                "oldversion": {
+                    "gid": "7239348504016050697",
+                    "size": "271191452",
+                    "download": "183220368"
+                },
+                "privatetest": {
+                    "gid": "1450506737736586104",
+                    "size": "293236284",
+                    "download": "190404208"
+                },
+                "whagwan": {
+                    "gid": "6186249394656305976",
+                    "size": "184",
+                    "download": "256"
+                }
+            },
+            "decryptionkey": "f30a8ab6ae9d36c1cc8241af349aef1d2522b1b09d05d798715de75e81d00854"
+        },
+        "405102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2901604725532908930",
+                    "size": "364879412",
+                    "download": "211822976"
+                },
+                "devtest": {
+                    "gid": "2901604725532908930",
+                    "size": "364879412",
+                    "download": "211822976"
+                },
+                "legacy": {
+                    "gid": "6925592058745733688",
+                    "size": "998859671",
+                    "download": "528148208"
+                },
+                "oldversion": {
+                    "gid": "7147860276082064604",
+                    "size": "336539540",
+                    "download": "203670768"
+                },
+                "privatetest": {
+                    "gid": "8003283020088688408",
+                    "size": "364889972",
+                    "download": "211826480"
+                },
+                "whagwan": {
+                    "gid": "3544464017689656215",
+                    "size": "316129545",
+                    "download": "197299168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "405103": {
+            "manifests": {
+                "public": {
+                    "gid": "269427624681214512",
+                    "size": "3487640511",
+                    "download": "1035366192"
+                },
+                "devtest": {
+                    "gid": "269427624681214512",
+                    "size": "3487640511",
+                    "download": "1035366192"
+                },
+                "legacy": {
+                    "gid": "8545715084088772803",
+                    "size": "3466784649",
+                    "download": "1100193376"
+                },
+                "oldversion": {
+                    "gid": "4737024751331444294",
+                    "size": "3487500015",
+                    "download": "1035330576"
+                },
+                "privatetest": {
+                    "gid": "8110901894473953885",
+                    "size": "3488704639",
+                    "download": "1035480752"
+                },
+                "whagwan": {
+                    "gid": "1948679995373904297",
+                    "size": "3034052229",
+                    "download": "883849696"
+                }
+            },
+            "decryptionkey": "752c0b1ff5d43089a36dc06ded98cccb6ef4d058f5c02d25f6119a6c19916423"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10796707",
+                "timeupdated": "1679072287"
+            },
+            "devtest": {
+                "buildid": "10796707",
+                "description": "Developer only testing branch",
+                "timeupdated": "1679072306"
+            },
+            "legacy": {
+                "buildid": "3060263",
+                "timeupdated": "1547239764"
+            },
+            "oldversion": {
+                "buildid": "4710832",
+                "timeupdated": "1679068810"
+            },
+            "privatetest": {
+                "buildid": "11512956",
+                "timeupdated": "1687304120"
+            },
+            "whagwan": {
+                "buildid": "3240003",
+                "description": "Test",
+                "timeupdated": "1540316026"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
