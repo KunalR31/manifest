@@ -1,0 +1,83 @@
+{
+    "appid": "924750",
+    "type": "Game",
+    "name": "Harold Halibut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28324947",
+    "update_time": "2025-04-06 00:15:30",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
+        "924751": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2391222278255212662",
+                    "size": "54823717984",
+                    "download": "42993172544"
+                },
+                "local": {
+                    "gid": "7444751533037879471",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "359880727545a3c0e5860966d978f6abd66b895cfa201b4038426894a3f0616f"
+        },
+        "924752": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2260810708881160164",
+                    "size": "60630365634",
+                    "download": "46285933088"
+                },
+                "local": {
+                    "gid": "5568886274996082648",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "924753": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8900455021709605283",
+                    "size": "61895405056",
+                    "download": "45500603040"
+                },
+                "local": {
+                    "gid": "1162721630802363586",
+                    "size": "52607299304",
+                    "download": "40579597776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15694200",
+                "timeupdated": "1729001919"
+            },
+            "local": {
+                "buildid": "9621442",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1664489333"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
