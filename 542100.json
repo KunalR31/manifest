@@ -1,0 +1,53 @@
+{
+    "appid": "542100",
+    "type": "Game",
+    "name": "Train Crisis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27848168",
+    "update_time": "2025-03-08 14:08:19",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,arabic,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "542101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7530184252083717809",
+                    "size": "603124505",
+                    "download": "157964160"
+                }
+            },
+            "decryptionkey": "0c02a3493636d39254ae9a6881b27db001da7012b3b12f4485db79e4c3975fd8"
+        },
+        "542102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7494151367750170505",
+                    "size": "617652624",
+                    "download": "160694128"
+                }
+            },
+            "decryptionkey": "bb8d2369eac3ef509cc6544ef4d0002f48ef9bcbf13dd870c4c549d4c309a33d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3641275",
+                "timeupdated": "1552476535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
