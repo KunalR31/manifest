@@ -1,0 +1,59 @@
+{
+    "appid": "2532550",
+    "type": "Game",
+    "name": "LIZARDS MUST DIE",
+    "schinese_name": "俄罗斯人对蜥蜴人",
+    "isfreeapp": "0",
+    "change_number": "25561308",
+    "update_time": "2024-10-07 11:03:50",
+    "depot": {
+        "baselanguages": "english,russian",
+        "2532551": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6990053239399502126",
+                    "size": "3303274678",
+                    "download": "1361166160"
+                },
+                "macos": {
+                    "gid": "5724063848966271558",
+                    "size": "3199910466",
+                    "download": "1330269904"
+                }
+            },
+            "decryptionkey": "285c70c964acc39de31b246a1527bca7c2eb7b516ea5f5fa1ea9cb263a4eca68"
+        },
+        "2532552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "15003587844040662",
+                    "size": "3293718913",
+                    "download": "1348830144"
+                },
+                "macos": {
+                    "gid": "8420087632761200436",
+                    "size": "5187905222",
+                    "download": "1619561056"
+                }
+            },
+            "decryptionkey": "3656030499db8d645f3c047f5946516c7a1fe6e42ee586cc94081ddac7ae69bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13760170",
+                "timeupdated": "1710564212"
+            },
+            "macos": {
+                "buildid": "13557932",
+                "description": "macOS + Windows",
+                "timeupdated": "1710153517"
+            }
+        }
+    }
+}
