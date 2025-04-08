@@ -1,0 +1,56 @@
+{
+    "appid": "2932950",
+    "type": "Game",
+    "name": "天哪！是心动的感觉！",
+    "schinese_name": "天哪！是心动的感觉！",
+    "isfreeapp": "0",
+    "change_number": "27379509",
+    "update_time": "2025-02-08 23:27:44",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2932952": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "692694132685452073",
+                    "size": "15175689955",
+                    "download": "15084260432"
+                },
+                "old_version": {
+                    "gid": "2812818809096086920",
+                    "size": "15111828902",
+                    "download": "15068125552"
+                }
+            },
+            "decryptionkey": "3d817928d78f5f07145a32a68d1bb00c4ab0c162ec6d53c627b1cfac55757fe0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14832414",
+                "timeupdated": "1719324828"
+            },
+            "old_version": {
+                "buildid": "14590868",
+                "description": "修复声音大小前的版本",
+                "timeupdated": "1719324776"
+            }
+        }
+    }
+}
