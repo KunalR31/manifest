@@ -1,0 +1,94 @@
+{
+    "appid": "22120",
+    "type": "Game",
+    "name": "Penumbra: Black Plague",
+    "schinese_name": "半影：黑色瘟疫",
+    "isfreeapp": "0",
+    "change_number": "26761490",
+    "update_time": "2024-12-23 18:21:43",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "22124": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8577834682388612539",
+                    "size": "1068559446",
+                    "download": "234224906037"
+                }
+            },
+            "decryptionkey": "ee6eba290e92806ea9f806dd36b22c93f65d07f21350f22db61af5d0b9f31428"
+        },
+        "22125": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6751314725889541865",
+                    "size": "1035621927",
+                    "download": "235123425954"
+                }
+            },
+            "decryptionkey": "389c98a1e2b28251d9ac8ae8a9f1843186d31176c5bbcd90bd5670a765b33ff3"
+        },
+        "22121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8512573193629897769",
+                    "size": "1411568928",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4013caf9b7f78fe37ec931fe8098ec53ec7749b9e89e5bdd0b3e365d052d7bf3"
+        },
+        "22122": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591698940128254379",
+                    "size": "2993",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4f5b9ad17c85e63d273799b4b12edccb67037f6a223891c274473cb25baf3177"
+        },
+        "22123": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4522275859371437781",
+                    "size": "2994",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "edd461b992dc609085478c191bbff11d8d2086888459974226df94e6e612f572"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "459397"
+            }
+        }
+    }
+}
