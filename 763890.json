@@ -1,0 +1,82 @@
+{
+    "appid": "763890",
+    "type": "Game",
+    "name": "Wildermyth",
+    "schinese_name": "漫野奇谭",
+    "isfreeapp": "0",
+    "change_number": "28173452",
+    "update_time": "2025-03-27 23:53:02",
+    "depot": {
+        "763891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1090989829458502822",
+                    "size": "2853554246",
+                    "download": "2434074976"
+                },
+                "unstable": {
+                    "gid": "1090989829458502822",
+                    "size": "2853554246",
+                    "download": "2434074976"
+                }
+            },
+            "decryptionkey": "0c2ca1ca16b5513a455b03b6965e9e17a0b9308ecf77a1b37f46a8dcb64eaabf"
+        },
+        "763892": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7433563330648782410",
+                    "size": "2938507390",
+                    "download": "2454155056"
+                },
+                "unstable": {
+                    "gid": "7433563330648782410",
+                    "size": "2938507390",
+                    "download": "2454155056"
+                }
+            },
+            "decryptionkey": "bfebee6eccb3b200771b092dee0312b20fc22fbb500174fdba72be09b6e57b51"
+        },
+        "763893": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5902463533368403730",
+                    "size": "2961202066",
+                    "download": "2459838320"
+                },
+                "unstable": {
+                    "gid": "5902463533368403730",
+                    "size": "2961202066",
+                    "download": "2459838320"
+                }
+            },
+            "decryptionkey": "38eccdc6e2e5f1410a2580906acc55d7299e8b4ee32967596f07ae831beb5a62"
+        },
+        "workshopdepot": "763890",
+        "branches": {
+            "public": {
+                "buildid": "17884327",
+                "timeupdated": "1743090762"
+            },
+            "unstable": {
+                "buildid": "17884327",
+                "description": "Preview the upcoming patch, help us test it",
+                "timeupdated": "1743090775"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
