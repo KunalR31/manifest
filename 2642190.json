@@ -1,0 +1,87 @@
+{
+    "appid": "2642190",
+    "type": "Demo",
+    "name": "shapez 2 Demo",
+    "schinese_name": "异形工厂2 体验版",
+    "isfreeapp": "0",
+    "change_number": "24871390",
+    "update_time": "2024-08-21 06:48:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2642191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6153738029029409791",
+                    "size": "985655002",
+                    "download": "471052272"
+                },
+                "pins": {
+                    "gid": "6116693775926836922",
+                    "size": "985658682",
+                    "download": "471054032"
+                }
+            },
+            "decryptionkey": "f05ad4d82f2f3af218bdfbb477347ac2f0b34bc70e873ae87cdea956d7e610a5"
+        },
+        "2642192": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4562884546067996183",
+                    "size": "1003613481",
+                    "download": "473029744"
+                },
+                "pins": {
+                    "gid": "5085154774170863771",
+                    "size": "1003616030",
+                    "download": "473031968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2642193": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3695672038520853271",
+                    "size": "1024654689",
+                    "download": "470652608"
+                },
+                "pins": {
+                    "gid": "6402151810461957341",
+                    "size": "1024658481",
+                    "download": "470654320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "13140448",
+                "timeupdated": "1704922096"
+            },
+            "pins": {
+                "buildid": "13382965",
+                "description": "New Pin Pusher Content",
+                "timeupdated": "1707236297"
+            }
+        }
+    }
+}
