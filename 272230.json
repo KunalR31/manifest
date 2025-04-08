@@ -1,0 +1,78 @@
+{
+    "appid": "272230",
+    "type": "Game",
+    "name": "Sub Rosa",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27104397",
+    "update_time": "2025-01-22 10:26:31",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "272231": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2393410009430849767",
+                    "size": "150816012",
+                    "download": "46183872"
+                },
+                "alpha25": {
+                    "gid": "679988042233178425",
+                    "size": "34221255",
+                    "download": "13370432"
+                },
+                "beta": {
+                    "gid": "2393410009430849767",
+                    "size": "150816012",
+                    "download": "46183872"
+                },
+                "patchtest": {
+                    "gid": "2393410009430849767",
+                    "size": "150816012",
+                    "download": "46183872"
+                },
+                "prevalpha": {
+                    "gid": "5393051839371753246",
+                    "size": "135705957",
+                    "download": "42147744"
+                }
+            },
+            "decryptionkey": "432150eedff62b50c48602c825e788adb5ef5db96f07d4e2a8fe5699c93b893c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7421437",
+                "timeupdated": "1632522041"
+            },
+            "alpha25": {
+                "buildid": "1798455",
+                "timeupdated": "1513637681"
+            },
+            "beta": {
+                "buildid": "7421437",
+                "description": "Windows only",
+                "timeupdated": "1632522032"
+            },
+            "patchtest": {
+                "buildid": "7421437",
+                "timeupdated": "1632522023"
+            },
+            "prevalpha": {
+                "buildid": "5395456",
+                "description": "Previous Alpha",
+                "timeupdated": "1616719404"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
