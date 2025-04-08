@@ -1,0 +1,202 @@
+{
+    "appid": "227560",
+    "type": "Game",
+    "name": "Scourge: Outbreak",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26534673",
+    "update_time": "2024-12-07 08:09:49",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,hungarian",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227561": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5741810753456216487",
+                    "size": "4300763931",
+                    "download": "7586102060691"
+                },
+                "beta": {
+                    "gid": "1595407113287862093",
+                    "size": "7152221714",
+                    "download": "907548141406"
+                },
+                "beta_bots": {
+                    "gid": "2271845215164859156",
+                    "size": "3710566799",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4898962867373604849",
+                    "size": "4295915636",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d47416319610e94d6a2ccfbb59dd93ef646cb4bef4a70300bbfb459984d40d64"
+        },
+        "227569": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "652942647963490837",
+                    "size": "4366995344",
+                    "download": "6354010162605"
+                },
+                "beta": {
+                    "gid": "204417538846260965",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta_bots": {
+                    "gid": "4873203091069397387",
+                    "size": "3776778473",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "7451965425610198077",
+                    "size": "4362137360",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cc9b8cf61cc5be6c114d8a27b8d4dc51d271c7c9820456064dc03b2b71f37409"
+        },
+        "270650": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8263308232012987290",
+                    "size": "748342718",
+                    "download": "342423300988"
+                },
+                "beta": {
+                    "gid": "5133265546447927470",
+                    "size": "906027539",
+                    "download": "39697809822"
+                },
+                "beta_bots": {
+                    "gid": "4153644040477736016",
+                    "size": "713703087",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1884660542108956263",
+                    "size": "748338362",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "270650",
+            "decryptionkey": "15c957be4ef85de96fce513f51cc541280611ec8216d1c39724143dd75e7b099"
+        },
+        "227563": {
+            "manifests": {
+                "public": {
+                    "gid": "6510205594679343277",
+                    "size": "878596286",
+                    "download": "1322267590902"
+                },
+                "beta": {
+                    "gid": "6510205594679343277",
+                    "size": "878596286",
+                    "download": "54658870664"
+                },
+                "beta_bots": {
+                    "gid": "5984179209431883983",
+                    "size": "594745405",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5984179209431883983",
+                    "size": "594745405",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "227563",
+            "decryptionkey": "ff6e6e9f94b0a7d97ede65d4e14bc57c9ae62ee132014021259dcb1d8d27ac4d"
+        },
+        "227562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8081211845497923571",
+                    "size": "748342718",
+                    "download": "1237311597576"
+                },
+                "beta": {
+                    "gid": "7211726473950440614",
+                    "size": "906027539",
+                    "download": "19941468112"
+                },
+                "beta_bots": {
+                    "gid": "3614706867899759941",
+                    "size": "713703087",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6424559454069237614",
+                    "size": "748338362",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "454e79d13acdc3e7f86d33916304dc28b09fa05279bedb9cb6b1e6dd79addeef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "395838"
+            },
+            "beta": {
+                "buildid": "455671",
+                "description": "beta branch - New Quality Modes"
+            },
+            "beta_bots": {
+                "buildid": "253706",
+                "description": "Bots Beta - Work In Progress"
+            },
+            "local": {
+                "buildid": "291613",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
