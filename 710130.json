@@ -1,0 +1,72 @@
+{
+    "appid": "710130",
+    "type": "Game",
+    "name": "隐龙传：影踪(Hidden Dragon Legend: ShadowTrace)",
+    "schinese_name": "隐龙传",
+    "isfreeapp": "0",
+    "change_number": "26454432",
+    "update_time": "2024-12-05 09:52:00",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "sc_schinese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "710131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495112337277352245",
+                    "size": "4065884775",
+                    "download": "3994793888"
+                }
+            },
+            "decryptionkey": "3439aa851a12a1de3d8829cc5e75f09669955799e9f34f051eeb3ecfefe443c9"
+        },
+        "723440": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "dlcappid": "723440"
+        },
+        "710132": {
+            "config": {
+                "realm": "steamchina",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3929325330271440496",
+                    "size": "4054305606",
+                    "download": "3982294864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6121847",
+                "timeupdated": "1611307716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
