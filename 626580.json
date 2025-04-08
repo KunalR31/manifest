@@ -1,0 +1,46 @@
+{
+    "appid": "626580",
+    "type": "Game",
+    "name": "Spellspire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26655099",
+    "update_time": "2024-12-16 11:38:16",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "626581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7749317611597498667",
+                    "size": "30548486",
+                    "download": "18923984"
+                },
+                "test_branch": {
+                    "gid": "8156411860087058858",
+                    "size": "30570354",
+                    "download": "18940960"
+                }
+            },
+            "decryptionkey": "e12e33069689ad111d8a6c03bf83221b0231389219a33dac63ef1738b3a2637f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1857160",
+                "timeupdated": "1496234522"
+            },
+            "test_branch": {
+                "buildid": "1902270",
+                "timeupdated": "1497952909"
+            }
+        }
+    }
+}
