@@ -1,0 +1,53 @@
+{
+    "appid": "70900",
+    "type": "Game",
+    "name": "Star Ruler",
+    "schinese_name": "星际统治者",
+    "isfreeapp": "0",
+    "change_number": "25267695",
+    "update_time": "2024-09-18 03:40:02",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "70901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7371299357940970613",
+                    "size": "227190059",
+                    "download": "87047436800"
+                },
+                "beta": {
+                    "gid": "7371299357940970613",
+                    "size": "227190059",
+                    "download": "87047436800"
+                }
+            },
+            "decryptionkey": "b03bd196fd7df2a207a5b2a906c365cfb1e179c75e5fe887ca4c93b0e4d1423c"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "409704"
+            },
+            "beta": {
+                "buildid": "409704"
+            }
+        }
+    }
+}
