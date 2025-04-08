@@ -1,0 +1,91 @@
+{
+    "appid": "574180",
+    "type": "Game",
+    "name": "Rem Survival",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28026680",
+    "update_time": "2025-03-19 13:30:00",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "574180",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "574181": {},
+        "574183": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2775706222233838986",
+                    "size": "47931382422",
+                    "download": "43102760912"
+                },
+                "public-test-branch": {
+                    "gid": "2775706222233838986",
+                    "size": "47931382422",
+                    "download": "43102760912"
+                }
+            },
+            "decryptionkey": "cdd2f55806ecb15fd268dd047093038f31b1b3ed4d8f16b5700650b97a026adb"
+        },
+        "574184": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5958657227722553461",
+                    "size": "37894128440",
+                    "download": "37046611504"
+                },
+                "public-test-branch": {
+                    "gid": "5958657227722553461",
+                    "size": "37894128440",
+                    "download": "37046611504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574185": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17766289",
+                "timeupdated": "1742362195"
+            },
+            "public-test-branch": {
+                "buildid": "17766289",
+                "description": "Public testing on upcoming features and updates",
+                "timeupdated": "1742305314"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ebc0d3e498211735c6b311cca170821b0795279b17958c14d994a45e5043f441"
+    }
+}
