@@ -1,0 +1,96 @@
+{
+    "appid": "404540",
+    "type": "Game",
+    "name": "Nex Machina",
+    "schinese_name": "死亡机甲",
+    "isfreeapp": "0",
+    "change_number": "27103768",
+    "update_time": "2025-01-22 09:27:47",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "404541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "291025686234537533",
+                    "size": "940279725",
+                    "download": "857337744"
+                },
+                "patch_test": {
+                    "gid": "291025686234537533",
+                    "size": "940279725",
+                    "download": "857337744"
+                }
+            },
+            "decryptionkey": "ce6e47b279f0be3528a02cd179229ed28ead861f3df624b1cfa38d82c631518b"
+        },
+        "404549": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3581646596501058394",
+                    "size": "14",
+                    "download": "64"
+                },
+                "patch_test": {
+                    "gid": "3581646596501058394",
+                    "size": "14",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2318509",
+                "timeupdated": "1512380288"
+            },
+            "patch_test": {
+                "buildid": "2318509",
+                "description": "Latest patch test",
+                "timeupdated": "1512380328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
