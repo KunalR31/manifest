@@ -1,0 +1,77 @@
+{
+    "appid": "108200",
+    "type": "Game",
+    "name": "Ticket to Ride",
+    "schinese_name": "车票之旅",
+    "isfreeapp": "0",
+    "change_number": "27130158",
+    "update_time": "2025-01-23 20:25:16",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "108203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8678274712405327429",
+                    "size": "427752643",
+                    "download": "294582592"
+                }
+            },
+            "decryptionkey": "a2e0160bed4a1773c7927a4ba368f1df00b9fa4607a82a29358ab87eaded89f2"
+        },
+        "108202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6672202579867857944",
+                    "size": "568938350",
+                    "download": "483225072"
+                }
+            },
+            "decryptionkey": "7ec47a993b5f6452416ff7dd36da26de5b48f9ccb3a37247d4e6d0c13de9c5c1"
+        },
+        "108201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1220217559284810799",
+                    "size": "589007014",
+                    "download": "481761872"
+                }
+            },
+            "decryptionkey": "e9ba76995a9cae9c10c83b8bd5e7c331105af1ddf2e0383fea2d6001ed8ec9d8"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "6841337",
+                "timeupdated": "1624519811"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
