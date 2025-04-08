@@ -1,0 +1,54 @@
+{
+    "appid": "91100",
+    "type": "Game",
+    "name": "SkyDrift",
+    "schinese_name": "空中狂飙",
+    "isfreeapp": "0",
+    "change_number": "25173252",
+    "update_time": "2024-09-11 19:36:18",
+    "depot": {
+        "91104": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4653380604627335529",
+                    "size": "225",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "91104",
+            "decryptionkey": "a15cadf97174a618914e6ca09df8e2030a2963c1f17d05af5163012bec93f497"
+        },
+        "91106": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1048111474050758804",
+                    "size": "218",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "91106",
+            "decryptionkey": "f62a7e143a57e70075a9833d535f6adbf143fda55fe4c5f37fa9671e24e1c470"
+        },
+        "91101": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2027794547244778034",
+                    "size": "504544059",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dc96085db98a104db414bb8344b951927a689c146e05933dbd768b898a810208"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "25460"
+            }
+        }
+    }
+}
