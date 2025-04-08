@@ -1,0 +1,48 @@
+{
+    "appid": "517010",
+    "type": "Game",
+    "name": "Aztecalypse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27142967",
+    "update_time": "2025-01-24 12:24:58",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "517011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4751617265303447890",
+                    "size": "1069200293",
+                    "download": "391783664"
+                },
+                "beta": {
+                    "gid": "6201829200997966749",
+                    "size": "1084405301",
+                    "download": "403491488"
+                }
+            },
+            "decryptionkey": "77fdc6f11d0e3d8681b258e915882bc6e83c1793020b6a4739f63a0b97b26e14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1541212",
+                "timeupdated": "1482776386"
+            },
+            "beta": {
+                "buildid": "2704084",
+                "description": "New versions to test before release",
+                "timeupdated": "1524157637"
+            }
+        }
+    }
+}
