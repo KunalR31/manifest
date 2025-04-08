@@ -1,0 +1,114 @@
+{
+    "appid": "201700",
+    "type": "Game",
+    "name": "DiRT Showdown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-04 05:34:34",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,italian,german,spanish",
+        "201701": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "22099473577416989",
+                    "size": "10289451997",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "22099473577416989",
+                    "size": "10289451997",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9e0a07a36708d15e0345207fd2bf09d2ee1e8acd9bcbc666b8ddfe8348863f63"
+        },
+        "201702": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8376048386630041921",
+                    "size": "57019583",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8376048386630041921",
+                    "size": "57019583",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fea728b1661538c9114df6cb2a3f282fbc9876a376501fe2b6cdbc56298bb068"
+        },
+        "201703": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "8558589676078991022",
+                    "size": "36781552",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "201704": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "46308493786437229",
+                    "size": "66177596",
+                    "download": "28650800"
+                }
+            },
+            "decryptionkey": "976df53732fd5d458263c876228f38e86b21ad364af91efe50953820318c340d"
+        },
+        "201705": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1309796435706055810",
+                    "size": "70531581",
+                    "download": "29302160"
+                }
+            },
+            "decryptionkey": "76ae7924d5cd6006fa916bab701ad301d940eb5892c2305d2f0443fbc27ed1d7"
+        },
+        "201706": {
+            "config": {
+                "oslist": "macos,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3864299564929629997",
+                    "size": "10734732675",
+                    "download": "5347732208"
+                }
+            },
+            "decryptionkey": "a5fbda1c344ff90ffe95c42df0c2a0b6765861fc24248409b72356952f0d6243"
+        },
+        "branches": {
+            "public": {
+                "buildid": "766171"
+            },
+            "local": {
+                "buildid": "24719",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
