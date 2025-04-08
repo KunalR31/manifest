@@ -1,0 +1,109 @@
+{
+    "appid": "252610",
+    "type": "Game",
+    "name": "Death Road to Canada",
+    "schinese_name": "加拿大死亡之路",
+    "isfreeapp": "0",
+    "change_number": "28278854",
+    "update_time": "2025-04-03 08:10:55",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "",
+        "252611": {
+            "systemdefined": "1"
+        },
+        "252612": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "176181298391986165",
+                    "size": "106950940",
+                    "download": "95695760"
+                },
+                "crashfix": {
+                    "gid": "2317760076590159577",
+                    "size": "102958748",
+                    "download": "91966128"
+                },
+                "beta": {
+                    "gid": "176181298391986165",
+                    "size": "106950940",
+                    "download": "95695760"
+                }
+            },
+            "decryptionkey": "76aa4fa712d6147a0abd106932278edbd5c2a1641edb9566f5e3e83b743cfb88"
+        },
+        "252613": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1381132935729067325",
+                    "size": "108429069",
+                    "download": "96189824"
+                },
+                "crashfix": {
+                    "gid": "2658904107634134897",
+                    "size": "101692439",
+                    "download": "90220064"
+                },
+                "beta": {
+                    "gid": "1381132935729067325",
+                    "size": "108429069",
+                    "download": "96189824"
+                }
+            },
+            "decryptionkey": "9c7fd8af97b96e6d3db7e601fb8c4866736cb0863e36df576ffc6ed36bc09f0b"
+        },
+        "252614": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8528472467932689074",
+                    "size": "150283403",
+                    "download": "97682160"
+                },
+                "crashfix": {
+                    "gid": "8334867499731492591",
+                    "size": "174722443",
+                    "download": "93476656"
+                },
+                "beta": {
+                    "gid": "8528472467932689074",
+                    "size": "150283403",
+                    "download": "97682160"
+                }
+            },
+            "decryptionkey": "344be414376a525da01ced64978f86b07c948ef6ed5027eac3e23e4e734c4470"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15078095",
+                "timeupdated": "1721318838"
+            },
+            "crashfix": {
+                "buildid": "2709013",
+                "description": "Fixes a crash, but no cheevos",
+                "timeupdated": "1524278406"
+            },
+            "beta": {
+                "buildid": "15078095",
+                "description": "TESTBRANCH",
+                "timeupdated": "1721318815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
