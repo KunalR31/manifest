@@ -1,0 +1,106 @@
+{
+    "appid": "284460",
+    "type": "Game",
+    "name": "DeadCore",
+    "schinese_name": "死亡核心",
+    "isfreeapp": "0",
+    "change_number": "27536165",
+    "update_time": "2025-02-18 22:39:45",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "284461": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3184595469101695176",
+                    "size": "3851898656",
+                    "download": "1578401808"
+                },
+                "deadcore_1.0": {
+                    "gid": "2671411376957005608",
+                    "size": "3854151329",
+                    "download": "1772005120"
+                },
+                "local": {
+                    "gid": "4568790042276537386",
+                    "size": "969267770",
+                    "download": "676143360"
+                }
+            },
+            "decryptionkey": "45ba782ae82222e55daabe3fabd80037f4edf14c8ee57f7e99d54746122bc17b"
+        },
+        "284462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4644777690704129229",
+                    "size": "3855798854",
+                    "download": "1616309104"
+                },
+                "deadcore_1.0": {
+                    "gid": "7707510075803381595",
+                    "size": "3858018691",
+                    "download": "1634581845029"
+                },
+                "local": {
+                    "gid": "3317726207266976389",
+                    "size": "973557586",
+                    "download": "77654728604"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "284463": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8810631418131657214",
+                    "size": "3852816048",
+                    "download": "1626526032"
+                },
+                "deadcore_1.0": {
+                    "gid": "2220272058200473494",
+                    "size": "3853634419",
+                    "download": "464000627366"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french",
+        "branches": {
+            "public": {
+                "buildid": "639964"
+            },
+            "deadcore_1.0": {
+                "buildid": "401758"
+            },
+            "local": {
+                "buildid": "367575",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
