@@ -1,0 +1,123 @@
+{
+    "appid": "508650",
+    "type": "Game",
+    "name": "Signal Decay",
+    "schinese_name": "拯救世界特别小队",
+    "isfreeapp": "0",
+    "change_number": "25720982",
+    "update_time": "2024-10-15 11:46:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "508652": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "785410382048624336",
+                    "size": "859981121",
+                    "download": "473562992"
+                },
+                "beta": {
+                    "gid": "785410382048624336",
+                    "size": "859981121",
+                    "download": "473562992"
+                },
+                "compare": {
+                    "gid": "9009878449462296520",
+                    "size": "814593129",
+                    "download": "448980400"
+                },
+                "jury": {
+                    "gid": "6235141648625536866",
+                    "size": "804586462",
+                    "download": "441061984"
+                },
+                "stable": {
+                    "gid": "6096004119091595917",
+                    "size": "807014097",
+                    "download": "441119248"
+                }
+            },
+            "decryptionkey": "32b9145886c184bc8f7c60cb5728f95f080561fea299ca71412024ddba430b0c"
+        },
+        "508651": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5950268452390643152",
+                    "size": "873565154",
+                    "download": "476625760"
+                },
+                "beta": {
+                    "gid": "5950268452390643152",
+                    "size": "873565154",
+                    "download": "476625760"
+                },
+                "compare": {
+                    "gid": "1404845994591584381",
+                    "size": "831590621",
+                    "download": "452981232"
+                },
+                "jury": {
+                    "gid": "1971150484588053992",
+                    "size": "821565362",
+                    "download": "445061872"
+                },
+                "stable": {
+                    "gid": "5701349998513869329",
+                    "size": "823992181",
+                    "download": "445119152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6584108",
+                "timeupdated": "1619104946"
+            },
+            "beta": {
+                "buildid": "6584108",
+                "description": "newest features",
+                "timeupdated": "1619104962"
+            },
+            "compare": {
+                "buildid": "5241378",
+                "timeupdated": "1594089461"
+            },
+            "jury": {
+                "buildid": "4723467",
+                "description": "for jury",
+                "timeupdated": "1582830867"
+            },
+            "stable": {
+                "buildid": "4911513",
+                "timeupdated": "1593662450"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
