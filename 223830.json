@@ -1,0 +1,190 @@
+{
+    "appid": "223830",
+    "type": "Game",
+    "name": "Xenonauts",
+    "schinese_name": "异种航员",
+    "isfreeapp": "0",
+    "change_number": "27178999",
+    "update_time": "2025-01-27 15:26:24",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "223831": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2571778493951657023",
+                    "size": "2965995847",
+                    "download": "2563665296"
+                },
+                "community": {
+                    "gid": "476033002971876195",
+                    "size": "2910738461",
+                    "download": "65623944989346"
+                },
+                "compatibility": {
+                    "gid": "4495595213202703635",
+                    "size": "2924532416",
+                    "download": "2504457456"
+                },
+                "experiment": {
+                    "gid": "3550789777527482236",
+                    "size": "2966054307",
+                    "download": "2563603136"
+                },
+                "legacy": {
+                    "gid": "1279593782991431489",
+                    "size": "2715107358",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cf3e98bc903a8cd79c2867ff15d5ff2639f144f05929ed5e8deee8d7bf043828"
+        },
+        "223833": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6578508371997597324",
+                    "size": "2745586993",
+                    "download": "2407221920"
+                },
+                "community": {
+                    "gid": "9112961298842054788",
+                    "size": "3326821402",
+                    "download": "2781449648"
+                },
+                "compatibility": {
+                    "gid": "2228431392109870735",
+                    "size": "2709238257",
+                    "download": "19600680894510"
+                },
+                "experiment": {
+                    "gid": "6578508371997597324",
+                    "size": "2745586993",
+                    "download": "2407221920"
+                },
+                "legacy": {
+                    "gid": "8819118377445148621",
+                    "size": "2945615843",
+                    "download": "2556533632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223835": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5341086061831798490",
+                    "size": "2746623724",
+                    "download": "2409377072"
+                },
+                "community": {
+                    "gid": "1338736390771589046",
+                    "size": "5137097582",
+                    "download": "161935724365"
+                },
+                "compatibility": {
+                    "gid": "6218941276759317225",
+                    "size": "5510240533",
+                    "download": "4969353264"
+                },
+                "experiment": {
+                    "gid": "5341086061831798490",
+                    "size": "2746623724",
+                    "download": "2409377072"
+                },
+                "legacy": {
+                    "gid": "2637538912506232190",
+                    "size": "2803750340",
+                    "download": "2826713552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223837": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2197630807150670993",
+                    "size": "2714585469",
+                    "download": "2349866400"
+                },
+                "community": {
+                    "gid": "2197630807150670993",
+                    "size": "2714585469",
+                    "download": "2349866400"
+                },
+                "compatibility": {
+                    "gid": "2197630807150670993",
+                    "size": "2714585469",
+                    "download": "2349866400"
+                },
+                "experiment": {
+                    "gid": "2197630807150670993",
+                    "size": "2714585469",
+                    "download": "2349866400"
+                },
+                "legacy": {
+                    "gid": "2197630807150670993",
+                    "size": "2714585469",
+                    "download": "2349866400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223849": {},
+        "223836": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "community": {
+                    "gid": "2928967554617078031",
+                    "size": "3250326056",
+                    "download": "2688351088"
+                }
+            },
+            "decryptionkey": "8b8393e331a2065eb4d3939c74ab1b4ec44aad32cf06850c0efacf3183d1a966"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12760814",
+                "timeupdated": "1700574254"
+            },
+            "community": {
+                "buildid": "4987080",
+                "description": "Xenonauts: Community Edition branch",
+                "timeupdated": "1588714966"
+            },
+            "compatibility": {
+                "buildid": "543488",
+                "description": "No tile atlases / sprite archives; slower load times but better performance on low-end machines. Warning: has ~150,000 files."
+            },
+            "experiment": {
+                "buildid": "1007626",
+                "description": "Public test branch; contains latest updates, possibly unstable"
+            },
+            "legacy": {
+                "buildid": "794369",
+                "description": "Contains Xenonauts V1.09"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
