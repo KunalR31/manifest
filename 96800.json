@@ -1,0 +1,38 @@
+{
+    "appid": "96800",
+    "type": "Game",
+    "name": "Nexuiz",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25969515",
+    "update_time": "2024-10-30 20:09:01",
+    "depot": {
+        "96801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9005699074066845177",
+                    "size": "2152015893",
+                    "download": "1877909088"
+                },
+                "local": {
+                    "gid": "1365965798801467394",
+                    "size": "1993329557",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2f387e4c71abb677bb15e0dbb9c482ec7d2a4c212fa7422d5716b7482bf8a6a2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1023975"
+            },
+            "local": {
+                "buildid": "14713",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
