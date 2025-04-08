@@ -1,0 +1,75 @@
+{
+    "appid": "242110",
+    "type": "Game",
+    "name": "Joe Danger 2: The Movie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26652494",
+    "update_time": "2024-12-16 04:38:47",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "242120": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2774625830701046649",
+                    "size": "952267288",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "242120",
+            "decryptionkey": "70b432fc13cb3ec47af8ce1d8d975019176e622096a3ac1416068264f4729f8b"
+        },
+        "242111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7228764265417410515",
+                    "size": "858275478",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c46ff154e673e17af8a00ecc43f2cc22f72732ce66f87392f71488758197aff8"
+        },
+        "242112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2689192400473846041",
+                    "size": "1705486172",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "242113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9186834445516183950",
+                    "size": "1712028107",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "169155"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
