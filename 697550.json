@@ -1,0 +1,61 @@
+{
+    "appid": "697550",
+    "type": "Game",
+    "name": "It Lurks Below",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27198709",
+    "update_time": "2025-01-28 18:20:07",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "697551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9132200633246467672",
+                    "size": "60147100",
+                    "download": "40639664"
+                },
+                "test_center": {
+                    "gid": "4272008555794838787",
+                    "size": "60315064",
+                    "download": "40766672"
+                }
+            },
+            "decryptionkey": "f6aa1307f9795f078290aa9fdfc5d81b2a912f3d9cd18efb7daa90496a588c45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16318973",
+                "timeupdated": "1730925070"
+            },
+            "test_center": {
+                "buildid": "16309131",
+                "description": "testing upcoming patches",
+                "timeupdated": "1730861930"
+            }
+        }
+    }
+}
