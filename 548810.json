@@ -1,0 +1,85 @@
+{
+    "appid": "548810",
+    "type": "Game",
+    "name": "Operation Babel: New Tokyo Legacy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26806805",
+    "update_time": "2024-12-29 05:39:08",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "548811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6107774607866028102",
+                    "size": "5801484072",
+                    "download": "2631251088"
+                },
+                "beta": {
+                    "gid": "3696888001055418658",
+                    "size": "5801485264",
+                    "download": "2631251680"
+                }
+            },
+            "decryptionkey": "192c8090a3cd28c84884eba31cad1dd00306f6db222b8fe003593afdc644aad5"
+        },
+        "548830": {
+            "manifests": {
+                "public": {
+                    "gid": "3495661863210294423",
+                    "size": "412900763",
+                    "download": "396873408"
+                },
+                "beta": {
+                    "gid": "3495661863210294423",
+                    "size": "412900763",
+                    "download": "396873408"
+                }
+            },
+            "dlcappid": "548830",
+            "decryptionkey": "c0b63d072e7f83d194092ce06b967994a4bdc57bcb3f54ca4c60baf4b44ccc6c"
+        },
+        "548831": {
+            "manifests": {
+                "public": {
+                    "gid": "1592388098774092844",
+                    "size": "59140963",
+                    "download": "58730368"
+                },
+                "beta": {
+                    "gid": "1592388098774092844",
+                    "size": "59140963",
+                    "download": "58730368"
+                }
+            },
+            "decryptionkey": "3fd10f9a79bb8d35bd482b7cf94fa1c4ba51709e7a23e9d18713d670450786fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1840091",
+                "timeupdated": "1496167010"
+            },
+            "beta": {
+                "buildid": "1839265",
+                "timeupdated": "1495562970"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
