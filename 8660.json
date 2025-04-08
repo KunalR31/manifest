@@ -1,0 +1,43 @@
+{
+    "appid": "8660",
+    "type": "Game",
+    "name": "GTR Evolution",
+    "schinese_name": "GTR进化",
+    "isfreeapp": "0",
+    "change_number": "27896497",
+    "update_time": "2025-03-12 02:02:10",
+    "depot": {
+        "overridescddb": "1",
+        "8619": {
+            "optional": "1",
+            "systemdefined": "1",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "8661": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6885468624321597492",
+                    "size": "1196524304",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4ba9173a1b1703ea510cebebd44a5615193ce74bdd03cd14683cd69e8dc6d272"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "11258"
+            }
+        }
+    }
+}
