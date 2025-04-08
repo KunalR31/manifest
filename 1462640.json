@@ -1,0 +1,73 @@
+{
+    "appid": "1462640",
+    "type": "Game",
+    "name": "异界大富翁",
+    "schinese_name": "Alien world Millionaire / 异界大富翁",
+    "isfreeapp": "0",
+    "change_number": "25029299",
+    "update_time": "2024-09-02 16:57:31",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1462641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5035253461908501637",
+                    "size": "1000786086",
+                    "download": "878570592"
+                },
+                "0.56": {
+                    "gid": "4559696543841434840",
+                    "size": "987598791",
+                    "download": "876930880"
+                },
+                "develop": {
+                    "gid": "5035253461908501637",
+                    "size": "1000786086",
+                    "download": "878570592"
+                }
+            },
+            "decryptionkey": "77c475d08f67a09d9da32cac186d938774a0a42117ccb348ca7acbb4157e103e"
+        },
+        "1507920": {
+            "dlcappid": "1507920",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13072131",
+                "timeupdated": "1704122591"
+            },
+            "0.56": {
+                "buildid": "10477363",
+                "description": "0.56测试版本",
+                "timeupdated": "1683733153"
+            },
+            "develop": {
+                "buildid": "13072131",
+                "description": "测试",
+                "timeupdated": "1704107979"
+            }
+        }
+    }
+}
