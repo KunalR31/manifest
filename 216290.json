@@ -1,0 +1,89 @@
+{
+    "appid": "216290",
+    "type": "Game",
+    "name": "Gateways",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26252055",
+    "update_time": "2024-11-19 06:37:17",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "216291": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3428613182960051149",
+                    "size": "124259900",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "3428613182960051149",
+                    "size": "124259900",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "59c2e03041d95f6cf8fbb21478536ab0343e05f102f5932adb0a6fecea1edb6d"
+        },
+        "216292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8287828397886031691",
+                    "size": "86233502",
+                    "download": "50187200"
+                },
+                "linux32": {
+                    "gid": "4144801419735962804",
+                    "size": "71197426",
+                    "download": "46611632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "216293": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1404893551277320232",
+                    "size": "72280057",
+                    "download": "46062720"
+                },
+                "linux32": {
+                    "gid": "7118254831557574941",
+                    "size": "79480409",
+                    "download": "47754624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "8643531",
+                "timeupdated": "1651165533"
+            },
+            "linux32": {
+                "buildid": "4196692",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609452172"
+            }
+        }
+    }
+}
