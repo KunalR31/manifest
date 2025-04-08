@@ -1,0 +1,49 @@
+{
+    "appid": "402030",
+    "type": "Game",
+    "name": "Zenohell",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27517917",
+    "update_time": "2025-02-17 23:13:53",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "402031": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4953219711356042532",
+                    "size": "213505623",
+                    "download": "200703456"
+                },
+                "legacy": {
+                    "gid": "3396019880982690217",
+                    "size": "217874445",
+                    "download": "202643088"
+                }
+            },
+            "decryptionkey": "b1959f7fd8f27e247b6e943e3226774959eeea57442ff1a18e15de68fea88074"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16114073",
+                "timeupdated": "1729443482"
+            },
+            "legacy": {
+                "buildid": "10054812",
+                "description": "Last GMS1.4 (32-bit) supported version",
+                "timeupdated": "1723450349"
+            }
+        }
+    }
+}
