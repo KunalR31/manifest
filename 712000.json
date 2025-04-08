@@ -1,0 +1,122 @@
+{
+    "appid": "712000",
+    "type": "Game",
+    "name": "Elder Chaos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26334454",
+    "update_time": "2024-12-05 01:45:51",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "712000",
+        "712001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1202672179195567553",
+                    "size": "2081634577",
+                    "download": "440586576"
+                },
+                "test": {
+                    "gid": "7053542934566418393",
+                    "size": "1917357519",
+                    "download": "319267008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "712003": {},
+        "712002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4877753867551027518",
+                    "size": "2170288000",
+                    "download": "450745008"
+                },
+                "test": {
+                    "gid": "4817703179826212028",
+                    "size": "1924195253",
+                    "download": "320447840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "712004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "3854372851213321753",
+                    "size": "2121049662",
+                    "download": "448549088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "712005": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8891551341719588863",
+                    "size": "2081245393",
+                    "download": "439586160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "712006": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4179305290305224127",
+                    "size": "2092041489",
+                    "download": "442710896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "712007": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7590132210845309389",
+                    "size": "2091652309",
+                    "download": "440958432"
+                }
+            },
+            "decryptionkey": "02a7803fa9f5d7bc88bec6a2394f0482709eca0f0e987c2cde86bc3168e64e32"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2389517",
+                "timeupdated": "1513852836"
+            },
+            "test": {
+                "buildid": "2371281",
+                "timeupdated": "1513330529"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
