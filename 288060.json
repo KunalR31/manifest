@@ -1,0 +1,93 @@
+{
+    "appid": "288060",
+    "type": "Game",
+    "name": "Whispering Willows",
+    "schinese_name": "灵界女孩",
+    "isfreeapp": "0",
+    "change_number": "27115253",
+    "update_time": "2025-01-23 00:27:47",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "288063": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7618970915238754117",
+                    "size": "2187623179",
+                    "download": "626488992"
+                },
+                "dev_branch": {
+                    "gid": "1700659732857683012",
+                    "size": "1931044274",
+                    "download": "476469632"
+                }
+            },
+            "decryptionkey": "1d3278feb4e848b635d3af6a092fd35f0f7cd59d6d2a63d1b58ac2118e2b1fdc"
+        },
+        "288064": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5714189188193498890",
+                    "size": "2168702786",
+                    "download": "621204352"
+                },
+                "dev_branch": {
+                    "gid": "7016595017830590593",
+                    "size": "2056786969",
+                    "download": "513409520"
+                }
+            },
+            "decryptionkey": "1a49f6841eca00fb81a538c95b7bc649e5248290f89eacb0465298ac8ed0d648"
+        },
+        "288065": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6584634687222919663",
+                    "size": "2073091936",
+                    "download": "488400544"
+                },
+                "dev_branch": {
+                    "gid": "2517440019964552944",
+                    "size": "1930015504",
+                    "download": "462662384"
+                }
+            },
+            "decryptionkey": "e7c0dca32930785c3289c4841843351b11459aa520bcfb62a4ce32600686198c"
+        },
+        "288061": {
+            "manifests": {
+                "public": {
+                    "gid": "5057113581120463252",
+                    "size": "1382535299",
+                    "download": "0"
+                },
+                "dev_branch": {
+                    "gid": "5057113581120463252",
+                    "size": "1382535299",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5210915",
+                "timeupdated": "1594421370"
+            },
+            "dev_branch": {
+                "buildid": "938127",
+                "timeupdated": "1555126050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
