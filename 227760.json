@@ -1,0 +1,94 @@
+{
+    "appid": "227760",
+    "type": "Game",
+    "name": "March of the Eagles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27178180",
+    "update_time": "2025-01-27 13:25:51",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227761": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5016133232735835363",
+                    "size": "448647974",
+                    "download": "212825760"
+                },
+                "1.02-no_security_fix": {
+                    "gid": "1639638701594921452",
+                    "size": "448647974",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bdf4349c262683f4d4069ab443d6b4bfbbf3ffb151ac36b107e1399c6b2caced"
+        },
+        "254290": {
+            "manifests": {
+                "public": {
+                    "gid": "2348431385651610690",
+                    "size": "3474845",
+                    "download": "3440816"
+                },
+                "1.02-no_security_fix": {
+                    "gid": "3507497439614280529",
+                    "size": "3474845",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "254290",
+            "decryptionkey": "eabbdc0779e473de9ff33707284158974209d980c74831ccc9f92bdea5b4f75e"
+        },
+        "254291": {
+            "manifests": {
+                "public": {
+                    "gid": "7545313599311050518",
+                    "size": "3492694",
+                    "download": "3458832"
+                },
+                "1.02-no_security_fix": {
+                    "gid": "7545313599311050518",
+                    "size": "3492694",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "254291",
+            "decryptionkey": "b0c8ccfa299c11fae943089c8ebfa5bac1853278cc34d29ce7d04e41ed48aed4"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "4904507",
+                "timeupdated": "1588578568"
+            },
+            "1.02-no_security_fix": {
+                "buildid": "123839",
+                "description": "No LUA security fix. Use at your own risk.",
+                "timeupdated": "1581948828"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
