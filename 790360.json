@@ -1,0 +1,93 @@
+{
+    "appid": "790360",
+    "type": "Game",
+    "name": "WarriOrb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25677132",
+    "update_time": "2024-10-12 05:17:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french,spanish,schinese,tchinese,russian,hungarian,romanian",
+        "790361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "931268922191108799",
+                    "size": "8386618766",
+                    "download": "2812787552"
+                },
+                "testing": {
+                    "gid": "931268922191108799",
+                    "size": "8386618766",
+                    "download": "2812787552"
+                },
+                "testing_linux": {
+                    "gid": "1987883831332410288",
+                    "size": "8596863698",
+                    "download": "2810869968"
+                }
+            },
+            "decryptionkey": "896bf9313d14e3c8873ca98325d468517bcff99185cce4c064995761afdb1ca5"
+        },
+        "790363": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5319854803704428369",
+                    "size": "9521493760",
+                    "download": "3201561168"
+                },
+                "testing": {
+                    "gid": "5319854803704428369",
+                    "size": "9521493760",
+                    "download": "3201561168"
+                },
+                "testing_linux": {
+                    "gid": "2768085596382906188",
+                    "size": "9728650973",
+                    "download": "3199792864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6594490",
+                "timeupdated": "1619266200"
+            },
+            "testing": {
+                "buildid": "6594490",
+                "description": "Stuff is most likely broken",
+                "timeupdated": "1619260666"
+            },
+            "testing_linux": {
+                "buildid": "5248438",
+                "description": "Stuff is most likely broken (but linux only)",
+                "timeupdated": "1595758591"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
