@@ -1,0 +1,72 @@
+{
+    "appid": "1815300",
+    "type": "Demo",
+    "name": "The Wandering Village Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26092993",
+    "update_time": "2024-11-08 00:52:12",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1815302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7789444510975766833",
+                    "size": "1126466344",
+                    "download": "442976448"
+                },
+                "0.1.6": {
+                    "gid": "5735174674598483388",
+                    "size": "728651404",
+                    "download": "268963024"
+                }
+            },
+            "decryptionkey": "4dbb9c70ae4a7ac60788c8b275ec39fe563744a40a5d3df221540d8ce2226cd8"
+        },
+        "1815303": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8774285230913964753",
+                    "size": "1147319847",
+                    "download": "449892384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1815304": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8464956434609672227",
+                    "size": "1168660888",
+                    "download": "443437616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "11902309",
+                "timeupdated": "1691586384"
+            },
+            "0.1.6": {
+                "buildid": "8164307",
+                "description": "Previous version",
+                "timeupdated": "1645192953"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
