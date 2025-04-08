@@ -1,0 +1,59 @@
+{
+    "appid": "517710",
+    "type": "Game",
+    "name": "Redout: Enhanced Edition",
+    "schinese_name": "红视",
+    "isfreeapp": "0",
+    "change_number": "26932457",
+    "update_time": "2025-01-10 08:08:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "517711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8693019661519667711",
+                    "size": "4895251090",
+                    "download": "4481007504"
+                },
+                "local": {
+                    "gid": "9186281095542814377",
+                    "size": "4121317862",
+                    "download": "3611855744"
+                }
+            },
+            "decryptionkey": "3c65968fa84da5dfbace9314360f35d4a1248dac7c04e5b29cb534136bd31025"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "10049559",
+                "timeupdated": "1670947226"
+            },
+            "local": {
+                "buildid": "2283637",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1510678312"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
