@@ -1,0 +1,121 @@
+{
+    "appid": "243200",
+    "type": "Game",
+    "name": "Memoria",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 08:15:00",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,russian,polish",
+        "hasdepotsindlc": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "243201": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8503272663015690729",
+                    "size": "9503400551",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2f8788d52b36a2bac76de95d595eb93e5b2245e26161fc34fe0f8a647fcd4e87"
+        },
+        "243202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4278298678371141490",
+                    "size": "9503400551",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "150750d6fce93f68acbeb4b22d28bcee4695a7b4d46a834329cd3c1508a9b9b7"
+        },
+        "243203": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3092430539277553092",
+                    "size": "21058792",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b8045133b598537f9135915124ba286ccd6bd534adf297996322b77bc964351d"
+        },
+        "243204": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3674902249665920403",
+                    "size": "32285317",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6855001873f71a1e7e31da540f86bd2cb28cba2bc028adfa856681a9f0831476"
+        },
+        "243205": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "243206": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "1456990",
+                "timeupdated": "1479118328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
