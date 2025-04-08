@@ -1,0 +1,75 @@
+{
+    "appid": "991280",
+    "type": "Game",
+    "name": "Air Combat XF",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26893157",
+    "update_time": "2025-01-07 22:12:24",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "991281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5396535828730052786",
+                    "size": "1704125495",
+                    "download": "545550240"
+                },
+                "english-only-version": {
+                    "gid": "5251521071577659073",
+                    "size": "1682196138",
+                    "download": "541948016"
+                },
+                "public-release-ver1.00": {
+                    "gid": "6021488833238387321",
+                    "size": "415132553",
+                    "download": "156786224"
+                }
+            },
+            "decryptionkey": "62759fa41e225b100711ee4379a8f0e55ecf13fa5a667710431c322cb68fe08a"
+        },
+        "991282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9215420145561473438",
+                    "size": "1765411343",
+                    "download": "582995568"
+                }
+            },
+            "decryptionkey": "996f50de04c60ad846a7dba48d051a3ca8a35d968d756be9c264e16559feb62a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3784848",
+                "timeupdated": "1556724449"
+            },
+            "english-only-version": {
+                "buildid": "3657256",
+                "timeupdated": "1553167039"
+            },
+            "public-release-ver1.00": {
+                "buildid": "3355549",
+                "timeupdated": "1550672833"
+            }
+        }
+    }
+}
