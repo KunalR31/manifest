@@ -1,0 +1,50 @@
+{
+    "appid": "1611910",
+    "type": "Game",
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "schinese_name": "战锤40K：混沌之门-恶魔猎人",
+    "isfreeapp": "0",
+    "change_number": "27346985",
+    "update_time": "2025-02-06 23:00:03",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1611911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "635211419555788352",
+                    "size": "19851406201",
+                    "download": "14058306320"
+                },
+                "local": {
+                    "gid": "1173937902098156798",
+                    "size": "46673882806",
+                    "download": "29960476960"
+                }
+            },
+            "decryptionkey": "86237e0895ee119ad5f6adfe0435ea25f199a14eb12f10f69cd84330b6d22720"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17016999",
+                "timeupdated": "1738853999"
+            },
+            "local": {
+                "buildid": "15523374",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1724878303"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
