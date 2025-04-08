@@ -1,0 +1,122 @@
+{
+    "appid": "252450",
+    "type": "Game",
+    "name": "StarDrive 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 10:50:35",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "workshopdepot": "252450",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252451": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8349014742938646795",
+                    "size": "3458089959",
+                    "download": "1481073344"
+                },
+                "test": {
+                    "gid": "2557841146064801135",
+                    "size": "3454682406",
+                    "download": "1543377104"
+                }
+            },
+            "decryptionkey": "71324860ed2b2344dd5f801307d91323beee83c615f2e2840304455056b672d0"
+        },
+        "356980": {
+            "manifests": {
+                "public": {
+                    "gid": "409600180171217899",
+                    "size": "606082243",
+                    "download": "593341136"
+                },
+                "test": {
+                    "gid": "409600180171217899",
+                    "size": "606082243",
+                    "download": "593341136"
+                }
+            },
+            "dlcappid": "356980",
+            "decryptionkey": "c64769a681752424715966d94cc80dcb6ea1a108a0e9977fbffb4b010da61d3a"
+        },
+        "252453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1081568077459563010",
+                    "size": "2956746194",
+                    "download": "1310294128"
+                },
+                "test": {
+                    "gid": "7565942427741786827",
+                    "size": "2621820686",
+                    "download": "1254552864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "252454": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3459976620894601154",
+                    "size": "3297764745",
+                    "download": "1395450368"
+                },
+                "test": {
+                    "gid": "6038016086315445213",
+                    "size": "2624013619",
+                    "download": "1254651312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "445690": {
+            "dlcappid": "445690"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6391667",
+                "timeupdated": "1615935348"
+            },
+            "test": {
+                "buildid": "6154080",
+                "timeupdated": "1611863686"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
