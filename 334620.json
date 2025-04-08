@@ -1,0 +1,74 @@
+{
+    "appid": "334620",
+    "type": "Game",
+    "name": "Soccertron",
+    "schinese_name": "未来足球",
+    "isfreeapp": "0",
+    "change_number": "26893940",
+    "update_time": "2025-01-07 23:11:35",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "334621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1518114498170156932",
+                    "size": "85141680",
+                    "download": "17976496"
+                },
+                "local": {
+                    "gid": "1569491846735541772",
+                    "size": "82992379",
+                    "download": "20185648"
+                }
+            },
+            "decryptionkey": "2962bfebf46c1b5dd73e476ee141217ed62be95b05ef87f3ab00ba5f338e0245"
+        },
+        "334622": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3215807287982633211",
+                    "size": "123128069",
+                    "download": "29223744"
+                }
+            },
+            "decryptionkey": "89fd1db76908dbf4bea3ba3558ff0e3816166e015fec26a4fb4f05fa0b266527"
+        },
+        "334623": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5627014132083275926",
+                    "size": "98338468",
+                    "download": "20522448"
+                }
+            },
+            "decryptionkey": "e87ed858459610b41e36d03277fafb71a1a8f460b116ea115a3a16c2187624cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1066838",
+                "timeupdated": "1460322619"
+            },
+            "local": {
+                "buildid": "546236",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
