@@ -1,0 +1,77 @@
+{
+    "appid": "2370310",
+    "type": "Game",
+    "name": "Mountaincore",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27031728",
+    "update_time": "2025-01-17 04:53:53",
+    "depot": {
+        "2370311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3483219399514914945",
+                    "size": "961063818",
+                    "download": "494959584"
+                },
+                "testing": {
+                    "gid": "5260616335856111309",
+                    "size": "961059553",
+                    "download": "494956144"
+                }
+            },
+            "decryptionkey": "02f5114ea61fcffb147027d58604b0e0b5f0b13642c08041994a98e280999c9f"
+        },
+        "2370312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8248953021799896122",
+                    "size": "893799529",
+                    "download": "475313440"
+                },
+                "testing": {
+                    "gid": "5276731781751876470",
+                    "size": "893795264",
+                    "download": "475310016"
+                }
+            },
+            "decryptionkey": "759010ccee10bf4b8b02635f4841b9a642296ad1bb3b1f4b43d2b4a766c0b85a"
+        },
+        "2370313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3419089302473263781",
+                    "size": "903029464",
+                    "download": "478634464"
+                },
+                "testing": {
+                    "gid": "2406305129799776134",
+                    "size": "903025199",
+                    "download": "478631040"
+                }
+            },
+            "decryptionkey": "a11a02f15a594b5fb813d211569e4cf190379b793fe4023c29330012c470ccda"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11451770",
+                "timeupdated": "1686597307"
+            },
+            "testing": {
+                "buildid": "11344983",
+                "description": "Early early access to the next patch",
+                "timeupdated": "1685396419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
