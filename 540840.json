@@ -1,0 +1,99 @@
+{
+    "appid": "540840",
+    "type": "Game",
+    "name": "Lara Croft GO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501179",
+    "update_time": "2025-02-16 16:16:21",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "540841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8375869623883692092",
+                    "size": "1155127869",
+                    "download": "388352528"
+                }
+            },
+            "decryptionkey": "4a195a2527afd1e8fd4486c21867ba9d9796bda372bc3aca5f0d7055ac7d6b66"
+        },
+        "540842": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7082246585771498446",
+                    "size": "1160991801",
+                    "download": "389620272"
+                }
+            },
+            "decryptionkey": "89f3e7b920e89204093b6cc21169ad2a46d93b58c1f852fb6db3f44de82d60ff"
+        },
+        "540843": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7029620802675689000",
+                    "size": "1201792940",
+                    "download": "401133280"
+                }
+            },
+            "decryptionkey": "b09c27773d90e037636e5e17310316d7f465fe7316d6aab3c05aee0d9de6d008"
+        },
+        "540844": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "540845": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2596411109165098836",
+                    "size": "1192178584",
+                    "download": "399466928"
+                }
+            },
+            "decryptionkey": "877151bd59de7ce401fa464f5f2677183532da4c9203a0735b088ed1040da5a6"
+        },
+        "540846": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3540501",
+                "timeupdated": "1549552165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
