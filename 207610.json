@@ -1,0 +1,65 @@
+{
+    "appid": "207610",
+    "type": "Game",
+    "name": "The Walking Dead",
+    "schinese_name": "行尸走肉：第一季",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:04",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "markdlcdepots": "0",
+        "207612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6947000048211592901",
+                    "size": "3926890107",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "18ba8046e6052aab5dee0995041da6f7baf4a2968f335691ee89dcbf4b666fc5"
+        },
+        "207611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5142651071651553335",
+                    "size": "3809843441",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2504e31b160035dedf8690255102320b7bc9b2e4ae50fec1ad94f4d77b273e28"
+        },
+        "207620": {
+            "dlcappid": "207620",
+            "manifests": {
+                "public": {
+                    "gid": "8240832419403238073",
+                    "size": "783240089",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b09a45186c9d017b6b6aa6c5841327bf027bfc952eb31ef3f442c68a8d83e6f0"
+        },
+        "207613": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "244978"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
