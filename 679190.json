@@ -1,0 +1,70 @@
+{
+    "appid": "679190",
+    "type": "Game",
+    "name": "The Hunting God",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28047558",
+    "update_time": "2025-03-20 16:55:29",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "679191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1354460795595188824",
+                    "size": "7036921437",
+                    "download": "2649204496"
+                },
+                "localui": {
+                    "gid": "1270477641372348536",
+                    "size": "6582579839",
+                    "download": "2584036336"
+                },
+                "test": {
+                    "gid": "1354460795595188824",
+                    "size": "7036921437",
+                    "download": "2649204496"
+                }
+            },
+            "decryptionkey": "211bb92c8bf0f0d22954beb092e6f6fcbf287f5999fe4bc06b2e15d345d899f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11092726",
+                "timeupdated": "1682494414"
+            },
+            "localui": {
+                "buildid": "2889049",
+                "timeupdated": "1532994124"
+            },
+            "test": {
+                "buildid": "11092726",
+                "timeupdated": "1682492166"
+            }
+        }
+    }
+}
