@@ -1,0 +1,52 @@
+{
+    "appid": "2193490",
+    "type": "Game",
+    "name": "First Cut: Samurai Duel",
+    "schinese_name": "第一幕：武士决斗",
+    "isfreeapp": "0",
+    "change_number": "28257774",
+    "update_time": "2025-04-02 07:11:16",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2193491": {
+            "manifests": {
+                "public": {
+                    "gid": "7984669434692252901",
+                    "size": "186003864",
+                    "download": "169483936"
+                },
+                "previousbuild": {
+                    "gid": "779753445540675177",
+                    "size": "185663896",
+                    "download": "169422848"
+                }
+            },
+            "decryptionkey": "d2a64f44381142fbdbd0a3d5d2b1535f9656eadbdced14c19c1ae048a153ae63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15016749",
+                "timeupdated": "1720805902"
+            },
+            "previousbuild": {
+                "buildid": "13877983",
+                "description": "Rollback if required",
+                "timeupdated": "1712973932"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
