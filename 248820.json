@@ -1,0 +1,70 @@
+{
+    "appid": "248820",
+    "type": "Game",
+    "name": "Risk of Rain (2013)",
+    "schinese_name": "雨中冒险",
+    "isfreeapp": "0",
+    "change_number": "28199657",
+    "update_time": "2025-03-29 06:01:28",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "248821": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8499105520623049664",
+                    "size": "96189607",
+                    "download": "73518528"
+                }
+            },
+            "decryptionkey": "72d5d8df910ce6f6e6e6a596fc4f04cc58dd007c69073c2abeb90ee924256358"
+        },
+        "248822": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6437592229245052795",
+                    "size": "97160286",
+                    "download": "72875904"
+                }
+            },
+            "decryptionkey": "b9750cd0187cd9b7c69a241ec5848b480dc0024f2febbd46f24f98067b96dca4"
+        },
+        "248823": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "445537806937154416",
+                    "size": "102261717",
+                    "download": "73573376"
+                }
+            },
+            "decryptionkey": "b3a2f8cd3d338603abb3a298a0efa4c70ed23957f8bfd4a52e3afde7fd721188"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1134831",
+                "timeupdated": "1463611569"
+            }
+        }
+    }
+}
