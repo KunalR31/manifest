@@ -1,0 +1,70 @@
+{
+    "appid": "388620",
+    "type": "Game",
+    "name": "DungeonUp",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25451707",
+    "update_time": "2024-09-30 11:01:55",
+    "depot": {
+        "workshopdepot": "388620",
+        "baselanguages": "english,tchinese",
+        "388621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3070653110670814595",
+                    "size": "68001686",
+                    "download": "49719072"
+                },
+                "local": {
+                    "gid": "9121757096755913123",
+                    "size": "86291987",
+                    "download": "56875248"
+                }
+            },
+            "decryptionkey": "3674eec2515a55146571b46e5948401893110f5c692c46db92739e909d06affe"
+        },
+        "388622": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "local": {
+                    "gid": "855196762070322884",
+                    "size": "49150870",
+                    "download": "19588944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "388623": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5488946710224641430",
+                    "size": "100737198",
+                    "download": "59287104"
+                }
+            },
+            "decryptionkey": "fd06be32b9607d2b356de2f098fa7a1970c5dee0e2d0f4ac8fee80c2b0eda703"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1901642",
+                "timeupdated": "1497927528"
+            },
+            "local": {
+                "buildid": "712092",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c448b75b506b936b7226b4b98e31724508530e56790ae9120edbac25c07aee3a"
+    }
+}
