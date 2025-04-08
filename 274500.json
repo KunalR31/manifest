@@ -1,0 +1,140 @@
+{
+    "appid": "274500",
+    "type": "Game",
+    "name": "Brigador: Up-Armored Edition",
+    "schinese_name": "叛击士 装甲强化版",
+    "isfreeapp": "0",
+    "change_number": "27208702",
+    "update_time": "2025-01-29 06:20:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "null": {
+            "depotfromapp": "468280"
+        },
+        "274501": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7074970293599648472",
+                    "size": "1061403973",
+                    "download": "505929984"
+                },
+                "32b_nosupport": {
+                    "gid": "8287389812712898161",
+                    "size": "987660134",
+                    "download": "492478192"
+                },
+                "previous": {
+                    "gid": "2026655711087519906",
+                    "size": "893486872",
+                    "download": "475296688"
+                }
+            },
+            "decryptionkey": "7b83c828626c56eae0a221af5776403e1aaf430d813950d2f79113aef56e870a"
+        },
+        "274502": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7108471176398810354",
+                    "size": "1077023666",
+                    "download": "516895264"
+                },
+                "32b_nosupport": {
+                    "gid": "655854142858773935",
+                    "size": "1000673174",
+                    "download": "500547984"
+                },
+                "previous": {
+                    "gid": "8040128715176983891",
+                    "size": "906364960",
+                    "download": "478210016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "274503": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7882677246633817318",
+                    "size": "1063768890",
+                    "download": "508389632"
+                },
+                "32b_nosupport": {
+                    "gid": "3590380191993186349",
+                    "size": "991904118",
+                    "download": "493200064"
+                },
+                "previous": {
+                    "gid": "3653842264302115810",
+                    "size": "897614400",
+                    "download": "475853792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "468270": {
+            "dlcappid": "468270",
+            "manifests": {
+                "public": {
+                    "gid": "8912760490182109991",
+                    "size": "450351776",
+                    "download": "413887712"
+                },
+                "32b_nosupport": {
+                    "gid": "2343034138430420978",
+                    "size": "463973117",
+                    "download": "427436960"
+                }
+            },
+            "config": {
+                "optionaldlc": "468270"
+            },
+            "decryptionkey": "d9e24f9713c4ba9798345c93da5be416116037bc99dedf4c20135f8d2d11d862"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9047028",
+                "timeupdated": "1656705529"
+            },
+            "32b_nosupport": {
+                "buildid": "5902381",
+                "description": "Unsupported 32-bit branch for legacy installs",
+                "timeupdated": "1623243795"
+            },
+            "previous": {
+                "buildid": "2871356",
+                "timeupdated": "1529334184"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
