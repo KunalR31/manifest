@@ -1,0 +1,97 @@
+{
+    "appid": "603850",
+    "type": "Game",
+    "name": "Age of History II",
+    "schinese_name": "文明时代2",
+    "isfreeapp": "0",
+    "change_number": "27446428",
+    "update_time": "2025-02-13 04:15:53",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "603850",
+        "baselanguages": "english",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "603851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2823950669612815600",
+                    "size": "459884012",
+                    "download": "278390528"
+                },
+                "test": {
+                    "gid": "6633739823665067430",
+                    "size": "358140326",
+                    "download": "197751152"
+                },
+                "victories": {
+                    "gid": "4979201365067320861",
+                    "size": "358140435",
+                    "download": "197751408"
+                }
+            },
+            "decryptionkey": "03e3821f3ac71152e806701403e0c9252f4839c75291b5b3a585aacd9e962080"
+        },
+        "603852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4901373421410482285",
+                    "size": "362759517",
+                    "download": "210110592"
+                },
+                "test": {
+                    "gid": "1978611689965844981",
+                    "size": "341656358",
+                    "download": "194090480"
+                },
+                "victories": {
+                    "gid": "7401563603351928387",
+                    "size": "341656467",
+                    "download": "194090704"
+                }
+            },
+            "decryptionkey": "25d7f7c9f3765d54ef8c92a699fe990ee5a27de93489240ee9f20d80a84c6ebe"
+        },
+        "603853": {
+            "config": {
+                "oslist": "macos,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3901882567425026533",
+                    "size": "167715996",
+                    "download": "140953936"
+                }
+            },
+            "decryptionkey": "ed5f7d8ff33e68853445666e40b2b2e17085a515184b7438c527ccf46340effc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13639729",
+                "timeupdated": "1709599168"
+            },
+            "test": {
+                "buildid": "3329562",
+                "timeupdated": "1542847429"
+            },
+            "victories": {
+                "buildid": "3330490",
+                "timeupdated": "1542876249"
+            }
+        },
+        "workshopdepotdecryptionkey": "6ac925a6a8c26162e907bd1ca86830b899a47214c19569a4be236215fc4a5fce"
+    }
+}
