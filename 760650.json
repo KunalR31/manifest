@@ -1,0 +1,63 @@
+{
+    "appid": "760650",
+    "type": "Game",
+    "name": "Hammerting",
+    "schinese_name": "百炼成钢",
+    "isfreeapp": "0",
+    "change_number": "26811982",
+    "update_time": "2024-12-30 03:39:00",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "760651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "16893124704603490",
+                    "size": "5843223212",
+                    "download": "1206719200"
+                },
+                "experimental": {
+                    "gid": "5007210986042414323",
+                    "size": "7739482319",
+                    "download": "1316381024"
+                }
+            },
+            "decryptionkey": "40d4391e50b9bdb0dd4e73e6c064866642f9b208d44fdd63f6003d8c0b43feee"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "8272469",
+                "timeupdated": "1646661509"
+            },
+            "experimental": {
+                "buildid": "8272652",
+                "description": "Public experimental branch",
+                "timeupdated": "1645770862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
