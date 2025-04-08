@@ -1,0 +1,88 @@
+{
+    "appid": "858210",
+    "type": "Game",
+    "name": "Nova Drift",
+    "schinese_name": "新星漂移 Nova Drift",
+    "isfreeapp": "0",
+    "change_number": "28342415",
+    "update_time": "2025-04-07 17:10:23",
+    "depot": {
+        "858211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2761314355057447122",
+                    "size": "826013583",
+                    "download": "361748080"
+                },
+                "legacy_syzygy": {
+                    "gid": "5279583769096817935",
+                    "size": "323977670",
+                    "download": "255008064"
+                },
+                "legacyosx": {
+                    "gid": "5304541821136198299",
+                    "size": "217493390",
+                    "download": "165879664"
+                },
+                "beta": {
+                    "gid": "2761314355057447122",
+                    "size": "826013583",
+                    "download": "361748080"
+                }
+            },
+            "decryptionkey": "58e0679d07528daeb35c94909da808aae291b0fe82ed12acb7a36e5184996211"
+        },
+        "858212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4050547023606903970",
+                    "size": "863893149",
+                    "download": "371476240"
+                },
+                "legacy_syzygy": {
+                    "gid": "7267479229058318140",
+                    "size": "333392048",
+                    "download": "253031664"
+                },
+                "legacyosx": {
+                    "gid": "1076532687523827581",
+                    "size": "403054859",
+                    "download": "319492480"
+                },
+                "beta": {
+                    "gid": "8428479081292305350",
+                    "size": "863893258",
+                    "download": "371473520"
+                }
+            },
+            "decryptionkey": "c43ede038eccd94404e47d5f61330fd8797267aff1a17b9df3f1e9ee475f31c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17186480",
+                "timeupdated": "1738251353"
+            },
+            "legacy_syzygy": {
+                "buildid": "6568309",
+                "description": "Legacy version: Syzygy",
+                "timeupdated": "1642438817"
+            },
+            "legacyosx": {
+                "buildid": "8179462",
+                "timeupdated": "1644493857"
+            },
+            "beta": {
+                "buildid": "17096096",
+                "description": "Open beta testing",
+                "timeupdated": "1737576833"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
