@@ -1,0 +1,65 @@
+{
+    "appid": "1844610",
+    "type": "Application",
+    "name": "Reality Mixer - Mixed Reality for VR headsets",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27000468",
+    "update_time": "2025-01-15 11:17:01",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1844611": {
+            "manifests": {
+                "public": {
+                    "gid": "3608380586299849501",
+                    "size": "9634978",
+                    "download": "5837536"
+                },
+                "beta": {
+                    "gid": "3608380586299849501",
+                    "size": "9634978",
+                    "download": "5837536"
+                },
+                "previous_beta": {
+                    "gid": "9109491744515321002",
+                    "size": "9481890",
+                    "download": "5733568"
+                },
+                "previous_version": {
+                    "gid": "5614721313667993439",
+                    "size": "9476770",
+                    "download": "5731664"
+                }
+            },
+            "decryptionkey": "f8a82f8e958ca27a79edc0e1e1395a044b98b82639951902177389e8371173d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15464612",
+                "timeupdated": "1724363266"
+            },
+            "beta": {
+                "buildid": "15464612",
+                "description": "v.1.3.1.0 - Fixed Camera Support",
+                "timeupdated": "1724361138"
+            },
+            "previous_beta": {
+                "buildid": "15098506",
+                "description": "v.1.2.1.0 - RGB24 Support for External (USB) Cameras",
+                "timeupdated": "1724361092"
+            },
+            "previous_version": {
+                "buildid": "14876614",
+                "description": "v.1.2.0.3 - UI for External (USB) Camera Setup + bug fixes",
+                "timeupdated": "1724363144"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
