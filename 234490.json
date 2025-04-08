@@ -1,0 +1,66 @@
+{
+    "appid": "234490",
+    "type": "Game",
+    "name": "Rush Bros",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27128394",
+    "update_time": "2025-01-23 18:27:32",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "234491": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5535757095230777331",
+                    "size": "796523336",
+                    "download": "0"
+                },
+                "publictesting": {
+                    "gid": "5296073840898628230",
+                    "size": "790583034",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "67ef30da8c21f5a92e069619b56a2f5c623a3a05abb809464e9f7d036ab02176"
+        },
+        "234492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1873703288273777135",
+                    "size": "800231282",
+                    "download": "0"
+                },
+                "publictesting": {
+                    "gid": "5879068956064251087",
+                    "size": "794291001",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bef796ac564668a5104b70ef369aba721561c2fcc55f1d063315b87724db5131"
+        },
+        "branches": {
+            "public": {
+                "buildid": "306009"
+            },
+            "publictesting": {
+                "buildid": "92881"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
