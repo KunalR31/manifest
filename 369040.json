@@ -1,0 +1,70 @@
+{
+    "appid": "369040",
+    "type": "Game",
+    "name": "Yargis - Space Melee",
+    "schinese_name": "雅吉斯：太空乱斗",
+    "isfreeapp": "0",
+    "change_number": "26942624",
+    "update_time": "2025-01-10 22:14:48",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "369040",
+        "369041": {
+            "manifests": {
+                "public": {
+                    "gid": "7551604662022571069",
+                    "size": "395227746",
+                    "download": "238942448"
+                },
+                "beta": {
+                    "gid": "7551604662022571069",
+                    "size": "395227746",
+                    "download": "238942448"
+                }
+            },
+            "decryptionkey": "9d63bb93862c59e25aad00f14aa7406894f46f417e7386092cfab368337ceef0"
+        },
+        "383611": {
+            "dlcappid": "383610",
+            "manifests": {
+                "public": {
+                    "gid": "1897032435682483683",
+                    "size": "98079223",
+                    "download": "83711520"
+                },
+                "beta": {
+                    "gid": "1897032435682483683",
+                    "size": "98079223",
+                    "download": "83711520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2836228",
+                "timeupdated": "1528227280"
+            },
+            "beta": {
+                "buildid": "2836228",
+                "description": "beta test version",
+                "timeupdated": "1528226177"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
