@@ -1,0 +1,99 @@
+{
+    "appid": "2005210",
+    "type": "Game",
+    "name": "Void Scrappers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27970283",
+    "update_time": "2025-03-15 15:23:06",
+    "depot": {
+        "2005211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4022719263836417648",
+                    "size": "177426496",
+                    "download": "166950480"
+                },
+                "gamepad_input_tool": {
+                    "gid": "1974318916033572361",
+                    "size": "7506932",
+                    "download": "2201136"
+                },
+                "experimental": {
+                    "gid": "4022719263836417648",
+                    "size": "177426496",
+                    "download": "166950480"
+                }
+            },
+            "decryptionkey": "4956919eb84cc06a63abccaf682d62d1df63f29a6d7061344d154e3a30734e8e"
+        },
+        "2005212": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3177181415209558784",
+                    "size": "175524858",
+                    "download": "166347664"
+                },
+                "gamepad_input_tool": {
+                    "gid": "6682547907211416912",
+                    "size": "4032676",
+                    "download": "1576512"
+                },
+                "experimental": {
+                    "gid": "3177181415209558784",
+                    "size": "175524858",
+                    "download": "166347664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2005213": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1955236587603489988",
+                    "size": "178816153",
+                    "download": "166999360"
+                },
+                "gamepad_input_tool": {
+                    "gid": "711123741876194080",
+                    "size": "34861",
+                    "download": "27440"
+                },
+                "experimental": {
+                    "gid": "1955236587603489988",
+                    "size": "178816153",
+                    "download": "166999360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15517481",
+                "timeupdated": "1724842597"
+            },
+            "gamepad_input_tool": {
+                "buildid": "12590723",
+                "description": "Utility for mapping input for gamepads not detected by the game",
+                "timeupdated": "1698831755"
+            },
+            "experimental": {
+                "buildid": "15517481",
+                "description": "warning - save file at risk. opt in to help test unstable builds.",
+                "timeupdated": "1724842495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
