@@ -1,0 +1,78 @@
+{
+    "appid": "2909250",
+    "type": "Game",
+    "name": "Extreme Climbing",
+    "schinese_name": "极限攀登",
+    "isfreeapp": "0",
+    "change_number": "28089644",
+    "update_time": "2025-03-23 02:19:32",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "hasdepotsindlc": "1",
+        "2909251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2660474822839194314",
+                    "size": "5281604960",
+                    "download": "2383475360"
+                },
+                "new_linux": {
+                    "gid": "2083168406188765715",
+                    "size": "7014397195",
+                    "download": "3120151632"
+                },
+                "new_mac": {
+                    "gid": "2083168406188765715",
+                    "size": "7014397195",
+                    "download": "3120151632"
+                }
+            },
+            "decryptionkey": "f883f5f06088a50f05f065d462cce2d5242df1136bb5fe63cc597cbd9541f2a7"
+        },
+        "2909252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "new_mac": {
+                    "gid": "2063628638341698875",
+                    "size": "5391790949",
+                    "download": "2433106080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2909253": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "new_linux": {
+                    "gid": "7063137368290221900",
+                    "size": "5436320544",
+                    "download": "2472294016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15349923",
+                "timeupdated": "1723521100"
+            },
+            "new_linux": {
+                "buildid": "15350195",
+                "description": "linux",
+                "timeupdated": "1723521133"
+            },
+            "new_mac": {
+                "buildid": "15350192",
+                "description": "mac",
+                "timeupdated": "1723521121"
+            }
+        }
+    }
+}
