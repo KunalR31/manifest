@@ -1,0 +1,80 @@
+{
+    "appid": "590380",
+    "type": "Game",
+    "name": "Into the Breach",
+    "schinese_name": "陷阵之志",
+    "isfreeapp": "0",
+    "change_number": "28214902",
+    "update_time": "2025-03-30 21:15:04",
+    "depot": {
+        "590381": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8335438558621014449",
+                    "size": "550774114",
+                    "download": "434494272"
+                },
+                "beta": {
+                    "gid": "8335438558621014449",
+                    "size": "550774114",
+                    "download": "434494272"
+                }
+            },
+            "decryptionkey": "0f473a094a1ad7c93b49ad57618ea958e903510c26e39db8fd1bdfb0b29a9061"
+        },
+        "590382": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2336337887533649473",
+                    "size": "558921392",
+                    "download": "439843888"
+                },
+                "beta": {
+                    "gid": "2336337887533649473",
+                    "size": "558921392",
+                    "download": "439843888"
+                }
+            },
+            "decryptionkey": "d7fbb3e761e4323321c053d368f5c1b99722fcb1f608182fdc9a0a962bccae39"
+        },
+        "590383": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1925453831885543258",
+                    "size": "556020226",
+                    "download": "436568048"
+                },
+                "beta": {
+                    "gid": "1925453831885543258",
+                    "size": "556020226",
+                    "download": "436568048"
+                }
+            },
+            "decryptionkey": "d5a2478194548ef6050a0df0ebcdda38e0ec71f36498f865075f50e1694fe011"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13725832",
+                "timeupdated": "1710332880"
+            },
+            "beta": {
+                "buildid": "13725832",
+                "description": "Testing for unverified fixes",
+                "timeupdated": "1710332909"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
