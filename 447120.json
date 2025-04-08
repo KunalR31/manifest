@@ -1,0 +1,113 @@
+{
+    "appid": "447120",
+    "type": "Game",
+    "name": "Where the Water Tastes Like Wine",
+    "schinese_name": "彼处水如酒",
+    "isfreeapp": "0",
+    "change_number": "28207578",
+    "update_time": "2025-03-30 00:15:57",
+    "depot": {
+        "447121": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8015491796057764324",
+                    "size": "6824801836",
+                    "download": "2068549408"
+                },
+                "linuxtest": {
+                    "gid": "8015491796057764324",
+                    "size": "6824801836",
+                    "download": "2068549408"
+                }
+            },
+            "decryptionkey": "a5c0422e798f36f2dda111d61c0b73846a2dc834bbc43470a38d281e7dfece42"
+        },
+        "447122": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2593056683426934418",
+                    "size": "6820497322",
+                    "download": "2066623760"
+                },
+                "linuxtest": {
+                    "gid": "2593056683426934418",
+                    "size": "6820497322",
+                    "download": "2066623760"
+                }
+            },
+            "decryptionkey": "f2dfb614498a43c3c160db2121a3d475fd6be1c70f50164cee409ab38f7d8772"
+        },
+        "447123": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3332541722177891763",
+                    "size": "6833442746",
+                    "download": "2069056480"
+                },
+                "linuxtest": {
+                    "gid": "3332541722177891763",
+                    "size": "6833442746",
+                    "download": "2069056480"
+                }
+            },
+            "decryptionkey": "8ff73f6041f234789ae5fa0927cdded1f23431b350fdd5e9853ecf522b966a4e"
+        },
+        "447124": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4157084582265130054",
+                    "size": "6826217013",
+                    "download": "2068658176"
+                },
+                "linuxtest": {
+                    "gid": "4157084582265130054",
+                    "size": "6826217013",
+                    "download": "2068658176"
+                }
+            },
+            "decryptionkey": "1b93775f04092674a35f412b42045941f26e8ec5f28a1e3dcd84ce3f75e9395b"
+        },
+        "798430": {
+            "manifests": {
+                "public": {
+                    "gid": "8378589517507055919",
+                    "size": "1559796725",
+                    "download": "1565768864"
+                },
+                "linuxtest": {
+                    "gid": "8378589517507055919",
+                    "size": "1559796725",
+                    "download": "1565768864"
+                }
+            },
+            "dlcappid": "798430",
+            "decryptionkey": "4252661ba14796d86ab1321d4f9778a658451ff6d6de54df38a98c6df1e29b55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7357520",
+                "timeupdated": "1632238233"
+            },
+            "linuxtest": {
+                "buildid": "7357520",
+                "description": "For testing linux video playback",
+                "timeupdated": "1631743941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
