@@ -1,0 +1,85 @@
+{
+    "appid": "877080",
+    "type": "Game",
+    "name": "Seeds of Resilience",
+    "schinese_name": "复苏之种",
+    "isfreeapp": "0",
+    "change_number": "26961380",
+    "update_time": "2025-01-12 19:15:45",
+    "depot": {
+        "baselanguages": "english,french",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "877081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2141881112317134325",
+                    "size": "234864945",
+                    "download": "72370816"
+                },
+                "test": {
+                    "gid": "2141881112317134325",
+                    "size": "234864945",
+                    "download": "72370816"
+                }
+            },
+            "decryptionkey": "8073e5d53f6efdf77e8b6ccfc1bcec2559122b09e232bfcc6a85f4694e887a66"
+        },
+        "877082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2055095871932391285",
+                    "size": "246176547",
+                    "download": "75368160"
+                },
+                "test": {
+                    "gid": "2055095871932391285",
+                    "size": "246176547",
+                    "download": "75368160"
+                }
+            },
+            "decryptionkey": "366969774d389cdc5638e723b97d4fdeade18b58c9d91d602ab228956b2385d0"
+        },
+        "877083": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7126665087789767012",
+                    "size": "259105360",
+                    "download": "76134576"
+                },
+                "test": {
+                    "gid": "7126665087789767012",
+                    "size": "259105360",
+                    "download": "76134576"
+                }
+            },
+            "decryptionkey": "a0432a72287231abb70d5a46f7072b9d3605ce47e7ab62c54dc523118a2897f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4399934",
+                "timeupdated": "1574070865"
+            },
+            "test": {
+                "buildid": "4399934",
+                "description": "Public test branch",
+                "timeupdated": "1574070857"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
