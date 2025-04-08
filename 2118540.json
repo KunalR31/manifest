@@ -1,0 +1,57 @@
+{
+    "appid": "2118540",
+    "type": "Game",
+    "name": "My Big Sister: Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28174872",
+    "update_time": "2025-03-28 00:54:59",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2118541": {
+            "manifests": {
+                "public": {
+                    "gid": "4556488665416661391",
+                    "size": "310966942",
+                    "download": "199976544"
+                },
+                "rollbackver0.1": {
+                    "gid": "367551586283483329",
+                    "size": "311255305",
+                    "download": "199977504"
+                },
+                "rollbackver0.2": {
+                    "gid": "6004798398287123007",
+                    "size": "312790233",
+                    "download": "199995520"
+                }
+            },
+            "decryptionkey": "baa6c26c3a875d8b8cc4ce5950fc574f4c2a8d2a8b168971dadac0e14f5a8957"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11950485",
+                "timeupdated": "1692147515"
+            },
+            "rollbackver0.1": {
+                "buildid": "11553363",
+                "description": "For those who have corrupted save files",
+                "timeupdated": "1691475439"
+            },
+            "rollbackver0.2": {
+                "buildid": "10599560",
+                "description": "For those who have corrupted save files",
+                "timeupdated": "1687750772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
