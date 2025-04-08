@@ -1,0 +1,86 @@
+{
+    "appid": "266150",
+    "type": "Game",
+    "name": "Lost Saga North America",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 14:40:31",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "266151": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5937033442518339746",
+                    "size": "1715086113",
+                    "download": "1688336560"
+                },
+                "local": {
+                    "gid": "234768086360215702",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "27c4cad7971aab1dc9d93ed486134353a60f5ec0acf6cc08175b5ccae5d51626"
+        },
+        "266155": {
+            "manifests": {
+                "public": {
+                    "gid": "7567089080055043045",
+                    "size": "1782784",
+                    "download": "65276584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "266160": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "322510": {
+            "dlcappid": "322510"
+        },
+        "330230": {
+            "dlcappid": "330230"
+        },
+        "330240": {
+            "dlcappid": "330240"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3726528",
+                "timeupdated": "1554924746"
+            },
+            "local": {
+                "buildid": "3038912",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1534445606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
