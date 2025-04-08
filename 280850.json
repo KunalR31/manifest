@@ -1,0 +1,59 @@
+{
+    "appid": "280850",
+    "type": "Game",
+    "name": "Dollhouse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28212582",
+    "update_time": "2025-03-30 14:15:18",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280851": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8326410436467449242",
+                    "size": "3176250651",
+                    "download": "2163005008"
+                }
+            },
+            "decryptionkey": "e6081b4df407313f1e0e49050f6874c51857e4aa39d8c0804390efec030ad36c"
+        },
+        "280852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1985213566393153644",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "280853": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7855879",
+                "timeupdated": "1639398116"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
