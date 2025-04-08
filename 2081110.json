@@ -1,0 +1,62 @@
+{
+    "appid": "2081110",
+    "type": "Demo",
+    "name": "Undecember Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-07-16 02:46:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2081111": {
+            "manifests": {
+                "public": {
+                    "gid": "6423642598372279601",
+                    "size": "7364124158",
+                    "download": "6793097776"
+                },
+                "beta": {
+                    "gid": "9012924961796480980",
+                    "size": "9912890815",
+                    "download": "8808995056"
+                },
+                "setting_test": {
+                    "gid": "7383896387619859721",
+                    "size": "8494228996",
+                    "download": "7514721440"
+                }
+            },
+            "decryptionkey": "71651a8d9f493afb7a7e74b1ef9e918f0fb68b4615614685a53f97dc657ed0ec"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,thai,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "9620255",
+                "timeupdated": "1664476653"
+            },
+            "beta": {
+                "buildid": "10707804",
+                "description": "for qa",
+                "timeupdated": "1678174876"
+            },
+            "setting_test": {
+                "buildid": "10652936",
+                "description": "test",
+                "timeupdated": "1677566873"
+            }
+        }
+    }
+}
