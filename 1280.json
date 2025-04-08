@@ -1,0 +1,96 @@
+{
+    "appid": "1280",
+    "type": "Game",
+    "name": "Darkest Hour: Europe '44-'45",
+    "schinese_name": "红色管弦乐队：至暗之时",
+    "isfreeapp": "1",
+    "change_number": "28095025",
+    "update_time": "2025-03-23 18:42:25",
+    "depot": {
+        "1202": {
+            "systemdefined": "1",
+            "depotfromapp": "1200",
+            "sharedinstall": "2"
+        },
+        "1201": {
+            "systemdefined": "1",
+            "depotfromapp": "1200",
+            "sharedinstall": "2"
+        },
+        "1282": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5986524486820877251",
+                    "size": "2070867843",
+                    "download": "909294080"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "6043955557276725025",
+                    "size": "839188951",
+                    "download": "379969744"
+                },
+                "italy-playtest": {
+                    "gid": "7145477015282017025",
+                    "size": "2567518451",
+                    "download": "1109560272"
+                },
+                "public-playtest": {
+                    "gid": "7145477015282017025",
+                    "size": "2567518451",
+                    "download": "1109560272"
+                }
+            }
+        },
+        "1281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                },
+                "italy-playtest": {
+                    "gid": "8342936862534756095",
+                    "size": "10979085637",
+                    "download": "3134928496"
+                },
+                "public-playtest": {
+                    "gid": "3054325805750765783",
+                    "size": "10991411891",
+                    "download": "3136375408"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "workshopdepot": "0",
+        "baselanguages": "english,german,french,italian",
+        "branches": {
+            "public": {
+                "buildid": "16273988",
+                "timeupdated": "1730544878"
+            },
+            "legacy-v6.0.0": {
+                "buildid": "1026292",
+                "description": "v6.0.0",
+                "timeupdated": "1677240308"
+            },
+            "italy-playtest": {
+                "buildid": "17825824",
+                "description": "Public branch for Italy playtest",
+                "timeupdated": "1742726540"
+            },
+            "public-playtest": {
+                "buildid": "17653922",
+                "description": "Public playtesting branch",
+                "timeupdated": "1741543795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
