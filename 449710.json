@@ -1,0 +1,107 @@
+{
+    "appid": "449710",
+    "type": "Game",
+    "name": "REDCON",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28301815",
+    "update_time": "2025-04-04 12:16:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "449711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6425088331799911913",
+                    "size": "57815828",
+                    "download": "54903872"
+                },
+                "beta": {
+                    "gid": "6425088331799911913",
+                    "size": "57815828",
+                    "download": "54903872"
+                },
+                "legacy": {
+                    "gid": "4126166075439240195",
+                    "size": "35626000",
+                    "download": "30199840"
+                }
+            },
+            "decryptionkey": "90c0df3a9f04c92ec0f2e0554134eb5ae610ccd3c5c37cb928bd046765ba776d"
+        },
+        "449712": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3111160833608034418",
+                    "size": "37383879",
+                    "download": "30385760"
+                },
+                "beta": {
+                    "gid": "3111160833608034418",
+                    "size": "37383879",
+                    "download": "30385760"
+                },
+                "legacy": {
+                    "gid": "3111160833608034418",
+                    "size": "37383879",
+                    "download": "30385760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "449713": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2737809434873998481",
+                    "size": "38132985",
+                    "download": "31869184"
+                },
+                "beta": {
+                    "gid": "2737809434873998481",
+                    "size": "38132985",
+                    "download": "31869184"
+                },
+                "legacy": {
+                    "gid": "3240468789014706172",
+                    "size": "38171790",
+                    "download": "31881632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,czech,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16964662",
+                "timeupdated": "1736514415"
+            },
+            "beta": {
+                "buildid": "16964662",
+                "description": "Beta Testing",
+                "timeupdated": "1736514209"
+            },
+            "legacy": {
+                "buildid": "1166462",
+                "description": "Legacy Version",
+                "timeupdated": "1728641483"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
