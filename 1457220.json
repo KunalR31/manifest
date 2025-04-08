@@ -1,0 +1,81 @@
+{
+    "appid": "1457220",
+    "type": "Game",
+    "name": "Robin Morningwood Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28246833",
+    "update_time": "2025-04-01 19:11:41",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "1457221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6641968667754584971",
+                    "size": "1647901042",
+                    "download": "1079945776"
+                },
+                "applesilicon": {
+                    "gid": "351711212010568039",
+                    "size": "1625294015",
+                    "download": "1077347088"
+                }
+            },
+            "decryptionkey": "6730819419c6bf211da64a417e7f82280a4f0320def923709f13220f3026e682"
+        },
+        "1457222": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "922905752186127665",
+                    "size": "1633586961",
+                    "download": "1068422384"
+                },
+                "applesilicon": {
+                    "gid": "4704782320109049835",
+                    "size": "1610595528",
+                    "download": "1066860608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1457223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6716166833842924471",
+                    "size": "2517371769",
+                    "download": "1714423328"
+                },
+                "applesilicon": {
+                    "gid": "3482985747723657930",
+                    "size": "2548236875",
+                    "download": "1400777744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17938428",
+                "timeupdated": "1743505896"
+            },
+            "applesilicon": {
+                "buildid": "17885118",
+                "description": "Used for mac using Apple Silicon processors",
+                "timeupdated": "1743090316"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
