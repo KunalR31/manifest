@@ -1,0 +1,59 @@
+{
+    "appid": "1980180",
+    "type": "Demo",
+    "name": "Zetria Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27143852",
+    "update_time": "2025-01-24 14:00:05",
+    "depot": {
+        "baselanguages": "english",
+        "1980181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3343355992423169388",
+                    "size": "229719106",
+                    "download": "37391936"
+                },
+                "rollback-demo": {
+                    "gid": "2150535863865928161",
+                    "size": "229703882",
+                    "download": "37389088"
+                }
+            },
+            "decryptionkey": "7087f0d27f2810d7b8627eb88d622d37945f52871eb7bacef45e3376374a3af2"
+        },
+        "1980182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5276407719122792653",
+                    "size": "235838016",
+                    "download": "42823696"
+                },
+                "rollback-demo": {
+                    "gid": "7056154090268648339",
+                    "size": "235822792",
+                    "download": "42820576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8932009",
+                "timeupdated": "1655192016"
+            },
+            "rollback-demo": {
+                "buildid": "8884775",
+                "description": "last build",
+                "timeupdated": "1655192026"
+            }
+        }
+    }
+}
