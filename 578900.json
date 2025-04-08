@@ -1,0 +1,101 @@
+{
+    "appid": "578900",
+    "type": "Game",
+    "name": "Demonheart",
+    "schinese_name": "恶魔之心",
+    "isfreeapp": "0",
+    "change_number": "28270930",
+    "update_time": "2025-04-02 23:10:22",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,italian,russian,portuguese",
+        "578902": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7708349439727195950",
+                    "size": "792463329",
+                    "download": "678023520"
+                },
+                "v165": {
+                    "gid": "7708349439727195950",
+                    "size": "792463329",
+                    "download": "678023520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "578904": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5407388747532281572",
+                    "size": "893827623",
+                    "download": "702826544"
+                },
+                "v165": {
+                    "gid": "137214648630077755",
+                    "size": "1148433039",
+                    "download": "688046288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "578905": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "234362683970550949",
+                    "size": "834783670",
+                    "download": "632695232"
+                },
+                "v165": {
+                    "gid": "4397835527737197939",
+                    "size": "850257326",
+                    "download": "684568576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "578906": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4819152390536988509",
+                    "size": "829084599",
+                    "download": "636529904"
+                },
+                "v165": {
+                    "gid": "3066087423762620655",
+                    "size": "792463329",
+                    "download": "678023520"
+                }
+            },
+            "decryptionkey": "1309b4194862761d06cc00f229340087fecbdfec6088844b039bed43dd3834e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13307210",
+                "timeupdated": "1706573136"
+            },
+            "v165": {
+                "buildid": "11078618",
+                "description": "Old builds, before version 2.00 - Use this if newer versions don't work for you.",
+                "timeupdated": "1682356270"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
