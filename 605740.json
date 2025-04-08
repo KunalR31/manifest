@@ -1,0 +1,74 @@
+{
+    "appid": "605740",
+    "type": "Game",
+    "name": "Flashing Lights",
+    "schinese_name": "Flashing Lights - 警情，消防，急救",
+    "isfreeapp": "0",
+    "change_number": "28270798",
+    "update_time": "2025-04-02 23:03:29",
+    "depot": {
+        "605741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5214400357242048212",
+                    "size": "3433892712",
+                    "download": "1745117136"
+                },
+                "old_map": {
+                    "gid": "8772036907362442765",
+                    "size": "7562183346",
+                    "download": "2276267856"
+                },
+                "unstable_test_branch": {
+                    "gid": "5214400357242048212",
+                    "size": "3433892712",
+                    "download": "1745117136"
+                }
+            },
+            "decryptionkey": "95d3d0ace153500ff96a04353c87950fc4420523d33bd980470ba1bcc5513ec2"
+        },
+        "605742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6771666833600227190",
+                    "size": "3437427097",
+                    "download": "1744904128"
+                },
+                "old_map": {
+                    "gid": "3370068569719073531",
+                    "size": "7575607984",
+                    "download": "2281591728"
+                },
+                "unstable_test_branch": {
+                    "gid": "6771666833600227190",
+                    "size": "3437427097",
+                    "download": "1744904128"
+                }
+            },
+            "decryptionkey": "a8211cb137d2735d7ff465f3f245198f857855a1e31a0ed5d1cbd54f4e795989"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17796437",
+                "timeupdated": "1742914280"
+            },
+            "old_map": {
+                "buildid": "7095580",
+                "description": "Branch which has the old map",
+                "timeupdated": "1637672687"
+            },
+            "unstable_test_branch": {
+                "buildid": "17796437",
+                "description": "for unstable test builds",
+                "timeupdated": "1742489212"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
