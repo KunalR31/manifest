@@ -1,0 +1,63 @@
+{
+    "appid": "948740",
+    "type": "Game",
+    "name": "AI: The Somnium Files",
+    "schinese_name": "AI：梦境档案",
+    "isfreeapp": "0",
+    "change_number": "28004121",
+    "update_time": "2025-03-18 08:20:36",
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "948741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7909470820466611915",
+                    "size": "11587615786",
+                    "download": "10049134416"
+                }
+            },
+            "decryptionkey": "0209b9ec8a19f2f8db542209ad860ba1c936873eece3d2d62c23ff71213eee90"
+        },
+        "1109030": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7079455549081927336",
+                    "size": "378476114",
+                    "download": "346790416"
+                }
+            },
+            "dlcappid": "1109030",
+            "decryptionkey": "b7aef045c7984a51f6a45ee0a570115afb1a2d186ef639b567412cf26297f716"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4031380",
+                "timeupdated": "1563761265"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
