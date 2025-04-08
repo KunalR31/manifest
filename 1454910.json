@@ -1,0 +1,107 @@
+{
+    "appid": "1454910",
+    "type": "Application",
+    "name": "Substance 3D Designer 2021",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26553307",
+    "update_time": "2024-12-09 15:14:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1454911": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1637976365014952304",
+                    "size": "1898160167",
+                    "download": "541198528"
+                },
+                "previous_2021.1.2": {
+                    "gid": "372629968378127596",
+                    "size": "1339591608",
+                    "download": "422497472"
+                },
+                "previous_2021.2.2": {
+                    "gid": "3392832609124341547",
+                    "size": "1901962796",
+                    "download": "544849360"
+                }
+            },
+            "decryptionkey": "523e01239196ef9bfeac665c5b79ec87ca2e1f000e4348e7bbff2d335ad64f79"
+        },
+        "1454912": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3490624301861732539",
+                    "size": "1885847078",
+                    "download": "531448928"
+                },
+                "previous_2021.1.2": {
+                    "gid": "4374896328330353985",
+                    "size": "1301414413",
+                    "download": "410547472"
+                },
+                "previous_2021.2.2": {
+                    "gid": "7755100398953721939",
+                    "size": "1876462205",
+                    "download": "531926160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1454913": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1057402635714974841",
+                    "size": "1986156843",
+                    "download": "558081568"
+                },
+                "previous_2021.1.2": {
+                    "gid": "7481232942518292599",
+                    "size": "1404690294",
+                    "download": "434370096"
+                },
+                "previous_2021.2.2": {
+                    "gid": "7007616096432891958",
+                    "size": "1987589221",
+                    "download": "559131744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8055318",
+                "timeupdated": "1643710195"
+            },
+            "previous_2021.1.2": {
+                "buildid": "6392242",
+                "description": "Reverts to the previous version of Substance 3D Designer",
+                "timeupdated": "1624635695"
+            },
+            "previous_2021.2.2": {
+                "buildid": "7374379",
+                "description": "Reverts to the previous version of Substance 3D Designer",
+                "timeupdated": "1641810878"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
