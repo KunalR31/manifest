@@ -1,0 +1,57 @@
+{
+    "appid": "209120",
+    "type": "Game",
+    "name": "Street Fighter X Tekken",
+    "schinese_name": "街头霸王X铁拳",
+    "isfreeapp": "0",
+    "change_number": "27133035",
+    "update_time": "2025-01-23 23:25:50",
+    "depot": {
+        "209122": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7964058802342521888",
+                    "size": "91921",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1617596673320915254",
+                    "size": "90506",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "183cc3173c5be7b4d01e77957a10b812250a9c40722c05b807f5487c9570bc01"
+        },
+        "209121": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3361013771048793733",
+                    "size": "6441651491",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5146897757495862557",
+                    "size": "6431802323",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0638bdee8eeb485748b2dbf5d588ccaa81c4b28aebfb0bf1ed90f09ac6d4908d"
+        },
+        "overridescddb": "1",
+        "baselanguages": "japanese,english,french,italian,german,spanish,koreana,russian,polish,portuguese,czech",
+        "branches": {
+            "public": {
+                "buildid": "60833"
+            },
+            "local": {
+                "buildid": "15308",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
