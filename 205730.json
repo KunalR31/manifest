@@ -1,0 +1,76 @@
+{
+    "appid": "205730",
+    "type": "Game",
+    "name": "Insanely Twisted Shadow Planet",
+    "schinese_name": "疯狂扭曲的暗影星球",
+    "isfreeapp": "0",
+    "change_number": "28181086",
+    "update_time": "2025-03-28 08:13:23",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "205731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8718611151396475610",
+                    "size": "2221403643",
+                    "download": "1671783270046"
+                }
+            },
+            "decryptionkey": "27c2d822d03edf37865a1a6af3e37ff4a5a712b45ec29f93157c38e9a07daf8a"
+        },
+        "205732": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7197112111590121305",
+                    "size": "2249629551",
+                    "download": "2562714675257"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "205733": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5556859425217509201",
+                    "size": "2266845381",
+                    "download": "2024961244883"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "205734": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "433415"
+            }
+        }
+    }
+}
