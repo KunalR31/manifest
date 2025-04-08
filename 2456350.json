@@ -1,0 +1,52 @@
+{
+    "appid": "2456350",
+    "type": "Game",
+    "name": "The Scourge | Tai Ương",
+    "schinese_name": "灾殃The Scourge",
+    "isfreeapp": "0",
+    "change_number": "28204572",
+    "update_time": "2025-03-29 16:37:44",
+    "depot": {
+        "2456351": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3716107547149492447",
+                    "size": "9065464669",
+                    "download": "5417510016"
+                },
+                "khoai-only": {
+                    "gid": "3716107547149492447",
+                    "size": "9065464669",
+                    "download": "5417510016"
+                },
+                "no-warmup": {
+                    "gid": "4386670902190074434",
+                    "size": "9035927591",
+                    "download": "5387401952"
+                }
+            },
+            "decryptionkey": "5ccb2b5564af5a9512d72b2c4a917f78210a4b3ef66a81992a9cde71fa378a56"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17907746",
+                "timeupdated": "1743237458"
+            },
+            "khoai-only": {
+                "buildid": "17907746",
+                "description": "Don't touch it",
+                "timeupdated": "1743229143"
+            },
+            "no-warmup": {
+                "buildid": "16190679",
+                "description": "Skip shader warmup fix launch game",
+                "timeupdated": "1729937689"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
