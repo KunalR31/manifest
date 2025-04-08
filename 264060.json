@@ -1,0 +1,61 @@
+{
+    "appid": "264060",
+    "type": "Game",
+    "name": "Full Bore",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26491635",
+    "update_time": "2024-12-05 01:21:34",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "264061": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8800888945899846251",
+                    "size": "156799699",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2427511e3e1ebb63a1c046ea832f55fd697502f7e257bab4ae667f4e32c60f96"
+        },
+        "264062": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1042429072770405626",
+                    "size": "159844773",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "274805"
+            }
+        }
+    }
+}
