@@ -1,0 +1,75 @@
+{
+    "appid": "783120",
+    "type": "Game",
+    "name": "Hello Lady!",
+    "schinese_name": "淑女同萌！",
+    "isfreeapp": "0",
+    "change_number": "27002737",
+    "update_time": "2025-01-15 15:15:10",
+    "depot": {
+        "baselanguages": "schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "783121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4870234481811997977",
+                    "size": "3149734114",
+                    "download": "2954162176"
+                }
+            },
+            "decryptionkey": "726e460738e68454f6761bcc92e53fc2b3eb817587c08e31e4f968fb6b2cc271"
+        },
+        "783122": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5250918229196343326",
+                    "size": "311764512",
+                    "download": "310465408"
+                }
+            },
+            "decryptionkey": "f8f2637b3fabc346861888a678509b167649e523f9214a5dc632b749cfa3cecb"
+        },
+        "783123": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7385635173582659309",
+                    "size": "336781288",
+                    "download": "333790816"
+                }
+            },
+            "decryptionkey": "094e79dab538761e8b6588bf3b2dbf9679ad95eae1d9d5082eec1a0ed834687e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3024210",
+                "timeupdated": "1556487211"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
