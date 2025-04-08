@@ -1,0 +1,88 @@
+{
+    "appid": "498500",
+    "type": "Game",
+    "name": "I Am The Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26596047",
+    "update_time": "2024-12-12 00:07:23",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "498501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "936342853600978267",
+                    "size": "360061831",
+                    "download": "96087456"
+                },
+                "local": {
+                    "gid": "23761715749038842",
+                    "size": "186604001",
+                    "download": "70068384"
+                },
+                "rus_beta": {
+                    "gid": "6920434006931959376",
+                    "size": "360030886",
+                    "download": "96085936"
+                }
+            },
+            "decryptionkey": "58c3a75a5f7d6789dfd75cd014a89cceaf022f3d1b79ed5ca6c756a84d6c699b"
+        },
+        "498502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4892083771951459518",
+                    "size": "354523602",
+                    "download": "93577792"
+                },
+                "rus_beta": {
+                    "gid": "8514663545669445415",
+                    "size": "354492121",
+                    "download": "93575136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "498503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1548462254066287003",
+                    "size": "365902530",
+                    "download": "96487984"
+                },
+                "rus_beta": {
+                    "gid": "251533999013766641",
+                    "size": "365871581",
+                    "download": "96484128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2305982",
+                "timeupdated": "1511319305"
+            },
+            "local": {
+                "buildid": "1510482",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1481348506"
+            },
+            "rus_beta": {
+                "buildid": "2183134",
+                "timeupdated": "1507544234"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
