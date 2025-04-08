@@ -1,0 +1,80 @@
+{
+    "appid": "326470",
+    "type": "Game",
+    "name": "Space Warp",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27081988",
+    "update_time": "2025-01-21 03:52:41",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "326471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "564896276839292277",
+                    "size": "65948740",
+                    "download": "62800720"
+                },
+                "beta": {
+                    "gid": "564896276839292277",
+                    "size": "65948740",
+                    "download": "62800720"
+                },
+                "local": {
+                    "gid": "9103066613035929398",
+                    "size": "62875041",
+                    "download": "61231808"
+                }
+            },
+            "decryptionkey": "f07e47b5f362fa321db57aa282c53168b8dd6dc4724f6555ead78240ac58f303"
+        },
+        "326472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3149867544493098221",
+                    "size": "70158497",
+                    "download": "64904176"
+                },
+                "beta": {
+                    "gid": "3149867544493098221",
+                    "size": "70158497",
+                    "download": "64904176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "452476"
+            },
+            "beta": {
+                "buildid": "452476",
+                "description": "Latest Hotfixes"
+            },
+            "local": {
+                "buildid": "419007",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
