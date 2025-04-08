@@ -1,0 +1,168 @@
+{
+    "appid": "248310",
+    "type": "Game",
+    "name": "Freedom Planet",
+    "schinese_name": "自由星球",
+    "isfreeapp": "0",
+    "change_number": "25657729",
+    "update_time": "2024-10-11 23:37:31",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "248311": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6444498973894058520",
+                    "size": "365333920",
+                    "download": "327005088"
+                },
+                "1.20.2": {
+                    "gid": "4355445424143176837",
+                    "size": "322516514",
+                    "download": "317717408"
+                },
+                "1.20.4": {
+                    "gid": "6662491050245043011",
+                    "size": "344068190",
+                    "download": "310304192"
+                },
+                "1.21.5": {
+                    "gid": "6516202733407470172",
+                    "size": "350882521",
+                    "download": "326415088"
+                },
+                "beta": {
+                    "gid": "2371397057702687286",
+                    "size": "340774850",
+                    "download": "336156096"
+                }
+            },
+            "decryptionkey": "676450a8c66959e587ba4808925c90ec02e095b30320716bd11034aab94f146c"
+        },
+        "248313": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4612675519341929155",
+                    "size": "390477486",
+                    "download": "329568320"
+                },
+                "1.20.4": {
+                    "gid": "5852175476079249623",
+                    "size": "365358642",
+                    "download": "312565216"
+                },
+                "1.21.5": {
+                    "gid": "8077988428342707059",
+                    "size": "381777227",
+                    "download": "329862112"
+                },
+                "beta": {
+                    "gid": "5852175476079249623",
+                    "size": "365358642",
+                    "download": "312565216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "248312": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3534019604702128632",
+                    "size": "412782699",
+                    "download": "336395328"
+                },
+                "1.20.4": {
+                    "gid": "3932277453091708891",
+                    "size": "412820578",
+                    "download": "322686800"
+                },
+                "1.21.5": {
+                    "gid": "898757058428446419",
+                    "size": "410277218",
+                    "download": "338951312"
+                },
+                "beta": {
+                    "gid": "3932277453091708891",
+                    "size": "412820578",
+                    "download": "322686800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "316560": {
+            "manifests": {
+                "public": {
+                    "gid": "3715661087146031304",
+                    "size": "441020837",
+                    "download": "427354464"
+                },
+                "1.20.2": {
+                    "gid": "3715661087146031304",
+                    "size": "441020837",
+                    "download": "427354464"
+                },
+                "1.20.4": {
+                    "gid": "3715661087146031304",
+                    "size": "441020837",
+                    "download": "427354464"
+                },
+                "1.21.5": {
+                    "gid": "3715661087146031304",
+                    "size": "441020837",
+                    "download": "427354464"
+                },
+                "beta": {
+                    "gid": "3715661087146031304",
+                    "size": "441020837",
+                    "download": "427354464"
+                }
+            },
+            "dlcappid": "316560",
+            "decryptionkey": "3d55381188ba9e4ce1fa1aa3ea958ef01f665e52939fee876914182f83db42c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3078878",
+                "timeupdated": "1535650945"
+            },
+            "1.20.2": {
+                "buildid": "520326",
+                "description": "Older PC version of Freedom Planet"
+            },
+            "1.20.4": {
+                "buildid": "727579",
+                "description": "Right before the Milla Adventure update"
+            },
+            "1.21.5": {
+                "buildid": "1927647",
+                "description": "Release candidate for PS4 fixes/tweaks",
+                "timeupdated": "1498809296"
+            },
+            "beta": {
+                "buildid": "918017",
+                "description": "For testing new builds"
+            }
+        }
+    }
+}
