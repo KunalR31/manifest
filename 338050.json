@@ -1,0 +1,76 @@
+{
+    "appid": "338050",
+    "type": "Game",
+    "name": "Anoxemia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25590026",
+    "update_time": "2024-10-08 23:22:14",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "338051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1553768645611113387",
+                    "size": "3887507678",
+                    "download": "463589504"
+                },
+                "developerstestbranch": {
+                    "gid": "1553768645611113387",
+                    "size": "3887507678",
+                    "download": "463589504"
+                }
+            },
+            "decryptionkey": "16a61a2e03890fab175924f58661703236c4ceacc84d14b14be1af7a44ce862b"
+        },
+        "338052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "210851103664501280",
+                    "size": "3892510820",
+                    "download": "464659808"
+                },
+                "developerstestbranch": {
+                    "gid": "210851103664501280",
+                    "size": "3892510820",
+                    "download": "464659808"
+                }
+            },
+            "decryptionkey": "3a0044dc6ec467d77c1e90e79a696bf6e97c47eb503480e1ae5c9a28da58a800"
+        },
+        "338053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "489173902346179374",
+                    "size": "3896150495",
+                    "download": "465217152"
+                },
+                "developerstestbranch": {
+                    "gid": "489173902346179374",
+                    "size": "3896150495",
+                    "download": "465217152"
+                }
+            },
+            "decryptionkey": "3a120e783a02b62e565a4cbd9a28065eebd46e5b7d288402b6f0cccebaf97a6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "781141"
+            },
+            "developerstestbranch": {
+                "buildid": "781045",
+                "description": "Testing"
+            }
+        }
+    }
+}
