@@ -1,0 +1,107 @@
+{
+    "appid": "550320",
+    "type": "Game",
+    "name": "art of rally",
+    "schinese_name": "拉力赛艺术",
+    "isfreeapp": "0",
+    "change_number": "27955516",
+    "update_time": "2025-03-14 20:04:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,brazilian,latam",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "550321": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8197696282432093844",
+                    "size": "7402936636",
+                    "download": "2221520432"
+                },
+                "beta-beta": {
+                    "gid": "1465406733367756421",
+                    "size": "7394446132",
+                    "download": "2214721552"
+                }
+            },
+            "decryptionkey": "1adbb6079be99d7bbfa2bb6b8c2c7e446527b5fe5d4595c60bc1827778184715"
+        },
+        "550322": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6939463898595741384",
+                    "size": "7438345899",
+                    "download": "2224819808"
+                },
+                "beta-beta": {
+                    "gid": "6699381422558937571",
+                    "size": "7429854890",
+                    "download": "2217972176"
+                }
+            },
+            "decryptionkey": "b717a52a646b68cc50f02c06b3b4a5a2d0105de315d2bc614e98f88d1e6ca85d"
+        },
+        "550323": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7263183872078182055",
+                    "size": "7357405127",
+                    "download": "2212099392"
+                },
+                "beta-beta": {
+                    "gid": "3269654264583279121",
+                    "size": "7348914559",
+                    "download": "2205199792"
+                }
+            },
+            "decryptionkey": "37c2957c38798570700f82893fb8769997be89f6c03368e95d70f2029c97033f"
+        },
+        "1421640": {
+            "dlcappid": "1421640",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6190583343336093589",
+                    "size": "198828706",
+                    "download": "194909248"
+                },
+                "beta-beta": {
+                    "gid": "6061233131771681664",
+                    "size": "254492394",
+                    "download": "250614448"
+                }
+            },
+            "decryptionkey": "05b2b8e62573a1dfbccc75328d6fa8c5cb53f5fe9b11ba227f1425a5ee6d2a2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17584229",
+                "timeupdated": "1741084127"
+            },
+            "beta-beta": {
+                "buildid": "16032491",
+                "timeupdated": "1728888381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
