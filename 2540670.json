@@ -1,0 +1,53 @@
+{
+    "appid": "2540670",
+    "type": "Game",
+    "name": "Terralysia",
+    "schinese_name": "秘境守卫军",
+    "isfreeapp": "0",
+    "change_number": "28322605",
+    "update_time": "2025-04-05 18:17:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2540671": {
+            "manifests": {
+                "public": {
+                    "gid": "3407534451420114750",
+                    "size": "1825636829",
+                    "download": "1482862464"
+                },
+                "test": {
+                    "gid": "3407534451420114750",
+                    "size": "1825636829",
+                    "download": "1482862464"
+                }
+            },
+            "decryptionkey": "031e60823ba4813030e082fc4ddcfbf56d0d9854e8b8276740a5b2f00988bff2"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17121722",
+                "timeupdated": "1737734009"
+            },
+            "test": {
+                "buildid": "17121722",
+                "description": "Public Test Branch",
+                "timeupdated": "1737734168"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
