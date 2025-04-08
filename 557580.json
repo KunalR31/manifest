@@ -1,0 +1,74 @@
+{
+    "appid": "557580",
+    "type": "Game",
+    "name": "Ancient Guardian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27720442",
+    "update_time": "2025-02-28 23:47:03",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "557581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5132870605092109133",
+                    "size": "1532066506",
+                    "download": "610071632"
+                }
+            },
+            "decryptionkey": "9035e2da6d67f15d6d6768fc9ffb37540a48ccd623011997f724b283b0f416ef"
+        },
+        "557582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3155545109172396997",
+                    "size": "1524770798",
+                    "download": "607726144"
+                }
+            },
+            "decryptionkey": "85a4f56164a59aca965a76e9e03a31f0879421a640b0a934e26fbaa3617f68d8"
+        },
+        "557583": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "557584": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5735836510850788405",
+                    "size": "1571461246",
+                    "download": "609433232"
+                }
+            },
+            "decryptionkey": "1abe66b8f14dc25ef8df0a8eae7a11cf65f45cf285ac2bc19b8f62ad87da3ffb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6266898",
+                "timeupdated": "1613766390"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
