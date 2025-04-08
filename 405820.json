@@ -1,0 +1,121 @@
+{
+    "appid": "405820",
+    "type": "Game",
+    "name": "Turok",
+    "schinese_name": "恐龙猎人",
+    "isfreeapp": "0",
+    "change_number": "28343699",
+    "update_time": "2025-04-07 18:27:02",
+    "depot": {
+        "workshopdepot": "405820",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "405821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2784263431339822377",
+                    "size": "394779349",
+                    "download": "348316208"
+                },
+                "beta": {
+                    "gid": "5216852851384912422",
+                    "size": "394961447",
+                    "download": "348288048"
+                },
+                "kex3": {
+                    "gid": "1213146553431068036",
+                    "size": "345864056",
+                    "download": "309284896"
+                }
+            },
+            "decryptionkey": "de91936b56f62ac1d0024bb432568e28865b657cfe6eacd1626430f516b01cbb"
+        },
+        "405822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
+                },
+                "beta": {
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
+                },
+                "kex3": {
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
+                }
+            },
+            "decryptionkey": "eb7606a23f80255909a0b05a3c8f71932b097c7bfe3c05b77b2ec32bd6476498"
+        },
+        "405823": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
+                },
+                "beta": {
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
+                },
+                "kex3": {
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
+                }
+            },
+            "decryptionkey": "d980041d22de4be97b20d31396109720c6f3f445f3bdd457629c09847e2aee6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17552826",
+                "timeupdated": "1740775891"
+            },
+            "beta": {
+                "buildid": "17937894",
+                "description": "Public Beta",
+                "timeupdated": "1743526252"
+            },
+            "kex3": {
+                "buildid": "17730046",
+                "description": "Legacy Release",
+                "timeupdated": "1741978604"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
