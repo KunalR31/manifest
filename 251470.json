@@ -1,0 +1,119 @@
+{
+    "appid": "251470",
+    "type": "Game",
+    "name": "TowerFall Ascension",
+    "schinese_name": "倒塔：升天",
+    "isfreeapp": "0",
+    "change_number": "25980692",
+    "update_time": "2024-10-31 08:07:35",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251471": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "978005738558790517",
+                    "size": "305663599",
+                    "download": "244265344"
+                },
+                "linux32": {
+                    "gid": "978005738558790517",
+                    "size": "305663599",
+                    "download": "244265344"
+                }
+            },
+            "decryptionkey": "d0f40bbe2a311a5daf79c576307113a685b556e563ee89409ccdb0be66feac55"
+        },
+        "251472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3832107080953249571",
+                    "size": "331796062",
+                    "download": "251277712"
+                },
+                "linux32": {
+                    "gid": "7969672877805369066",
+                    "size": "343743508",
+                    "download": "258001840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "251473": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5296868744381090951",
+                    "size": "345335938",
+                    "download": "254258432"
+                },
+                "linux32": {
+                    "gid": "8083435925791278094",
+                    "size": "327919417",
+                    "download": "251255824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "337840": {
+            "manifests": {
+                "public": {
+                    "gid": "1845747980164010748",
+                    "size": "49114340",
+                    "download": "32626496"
+                },
+                "linux32": {
+                    "gid": "1845747980164010748",
+                    "size": "49114340",
+                    "download": "32626496"
+                }
+            },
+            "dlcappid": "337840",
+            "decryptionkey": "19c292db638ea335b03ec9fca1e7e69140e28b76c4e960976840e744fc6d3953"
+        },
+        "workshopdepot": "251470",
+        "branches": {
+            "public": {
+                "buildid": "6032486",
+                "timeupdated": "1609604845"
+            },
+            "linux32": {
+                "buildid": "2813507",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609454024"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "1a99112d4d8fc6d39bc2e2e352948d66a7835b338bdc80ea7108ff2e0b23f58c"
+    }
+}
