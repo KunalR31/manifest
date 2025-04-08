@@ -1,0 +1,72 @@
+{
+    "appid": "770390",
+    "type": "Game",
+    "name": "Draugen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26511969",
+    "update_time": "2024-12-06 01:08:11",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "770391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5434647265578506966",
+                    "size": "11731592807",
+                    "download": "4176280912"
+                },
+                "beta": {
+                    "gid": "5434647265578506966",
+                    "size": "11731592807",
+                    "download": "4176280912"
+                }
+            },
+            "decryptionkey": "f757a757608e43c5623283f1fdc1f6950a3f38c8bb607fb8795915cda80c2076"
+        },
+        "1080001": {
+            "manifests": {
+                "public": {
+                    "gid": "6714098557356148277",
+                    "size": "53217805",
+                    "download": "53305600"
+                },
+                "beta": {
+                    "gid": "6714098557356148277",
+                    "size": "53217805",
+                    "download": "53305600"
+                }
+            },
+            "dlcappid": "1080001",
+            "decryptionkey": "3dc2a304dc206f97202b481dd6cfbbba88979a4ad58c1659f96cf4c6b991640c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3917808",
+                "timeupdated": "1560511432"
+            },
+            "beta": {
+                "buildid": "3917808",
+                "description": "Beta builds",
+                "timeupdated": "1560511391"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
