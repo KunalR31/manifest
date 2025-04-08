@@ -1,0 +1,66 @@
+{
+    "appid": "271820",
+    "type": "Game",
+    "name": "Card City Nights",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25663118",
+    "update_time": "2024-10-11 23:50:30",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "271821": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1145107549187370494",
+                    "size": "245682168",
+                    "download": "119809616"
+                }
+            },
+            "decryptionkey": "ce54df2723a63b0ba01eebd5ac5eb30f7ed86d31f13a9d72f42cb66196d02f56"
+        },
+        "271822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1047118859850035524",
+                    "size": "267832170",
+                    "download": "127530032"
+                }
+            },
+            "decryptionkey": "eb906dcfb3b3a8d226e3d34910c39164b86d2a264d2d5f5216873dbcb901bd51"
+        },
+        "271823": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7249205330283693914",
+                    "size": "252798965",
+                    "download": "121862816"
+                }
+            },
+            "decryptionkey": "03e4e1918dcdab942615d574403557b4d8952e59c243325fda98950535d39ddc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "977152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
