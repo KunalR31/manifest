@@ -1,0 +1,62 @@
+{
+    "appid": "1268110",
+    "type": "Game",
+    "name": "ISEKAI QUEST",
+    "schinese_name": "异世界大勇者",
+    "isfreeapp": "0",
+    "change_number": "26920990",
+    "update_time": "2025-01-09 17:15:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1268111": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3392759967980698998",
+                    "size": "2406510243",
+                    "download": "269599600"
+                },
+                "mono": {
+                    "gid": "494104035857898879",
+                    "size": "2388010312",
+                    "download": "266668640"
+                }
+            },
+            "decryptionkey": "2cc27adba9ed2e1ae7f47091e6f5d5cdfdcc1bcaa71aa027041b7e78d6ee3d4c"
+        },
+        "1268112": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6700457626188640419",
+                    "size": "2414217149",
+                    "download": "270144656"
+                },
+                "mono": {
+                    "gid": "772961049386297731",
+                    "size": "2392762574",
+                    "download": "267635872"
+                }
+            },
+            "decryptionkey": "4e27331c8fbb57aba781b4b4acad469843082e0bd4a58d870c1bf703f0455a62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12641583",
+                "timeupdated": "1699372644"
+            },
+            "mono": {
+                "buildid": "12640842",
+                "description": "mono build branch",
+                "timeupdated": "1699367438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
