@@ -1,0 +1,98 @@
+{
+    "appid": "954080",
+    "type": "Game",
+    "name": "Memorrha",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26870331",
+    "update_time": "2025-01-06 05:12:50",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,turkish,arabic,brazilian,latam",
+        "954081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5407220210351925139",
+                    "size": "969130430",
+                    "download": "492863104"
+                },
+                "update1.5": {
+                    "gid": "7380153971988844417",
+                    "size": "1935248157",
+                    "download": "436388944"
+                }
+            },
+            "decryptionkey": "bb2da30808161a089a3b962c05ecf102b6d775ff449e910f2f17d77d983c631a"
+        },
+        "954082": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9109662266396458335",
+                    "size": "961439166",
+                    "download": "490398240"
+                },
+                "update1.5": {
+                    "gid": "5899029890429190005",
+                    "size": "1929487645",
+                    "download": "434113904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "954083": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1312215311110542975",
+                    "size": "964376622",
+                    "download": "492037168"
+                },
+                "update1.5": {
+                    "gid": "8433595657968293180",
+                    "size": "1954286673",
+                    "download": "444483952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "954084": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7845019021111657220",
+                    "size": "1024464409",
+                    "download": "501606192"
+                },
+                "update1.5": {
+                    "gid": "3848940174560106686",
+                    "size": "5050398102",
+                    "download": "811522112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11136296",
+                "timeupdated": "1683021430"
+            },
+            "update1.5": {
+                "buildid": "7671993",
+                "description": "Update for the old savegames",
+                "timeupdated": "1674231148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
