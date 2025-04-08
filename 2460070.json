@@ -1,0 +1,72 @@
+{
+    "appid": "2460070",
+    "type": "Game",
+    "name": "Half-Demon Shinobi",
+    "schinese_name": "半妖忍少女",
+    "isfreeapp": "0",
+    "change_number": "28078099",
+    "update_time": "2025-03-22 02:18:38",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2460071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7979384062751592402",
+                    "size": "4142945202",
+                    "download": "3503944896"
+                },
+                "el_donw_version": {
+                    "gid": "2569994090886434108",
+                    "size": "4124613567",
+                    "download": "3498502464"
+                },
+                "test": {
+                    "gid": "1818072307090685877",
+                    "size": "4142945128",
+                    "download": "3503944912"
+                },
+                "test_battleani": {
+                    "gid": "4194311685943303218",
+                    "size": "4142945247",
+                    "download": "3503944896"
+                },
+                "use_ia32": {
+                    "gid": "6554589438640570702",
+                    "size": "4114082876",
+                    "download": "3498989072"
+                }
+            },
+            "decryptionkey": "93a04e611c871594f0084a3866fb12bdebd033ac2cdecc94d596b9020313d7f3"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "16835480",
+                "timeupdated": "1734960407"
+            },
+            "el_donw_version": {
+                "buildid": "16836120",
+                "description": "降低版本測試",
+                "timeupdated": "1734967962"
+            },
+            "test": {
+                "buildid": "16833150",
+                "description": "test",
+                "timeupdated": "1734938300"
+            },
+            "test_battleani": {
+                "buildid": "16887487",
+                "description": "test battle ani",
+                "timeupdated": "1735760869"
+            },
+            "use_ia32": {
+                "buildid": "16828963",
+                "description": "test ia32 disable gpu",
+                "timeupdated": "1734874819"
+            }
+        }
+    }
+}
