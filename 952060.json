@@ -1,0 +1,120 @@
+{
+    "appid": "952060",
+    "type": "Game",
+    "name": "Resident Evil 3",
+    "schinese_name": "生化危机3：重制版",
+    "isfreeapp": "0",
+    "change_number": "28214907",
+    "update_time": "2025-03-30 21:15:38",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "952061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "685544654781343042",
+                    "size": "25253000979",
+                    "download": "21721106928"
+                },
+                "dx11_non-rt": {
+                    "gid": "8227126564196732721",
+                    "size": "23864450716",
+                    "download": "20193083488"
+                }
+            },
+            "decryptionkey": "59cd6a454139aeaf999cc3dde8aeb2e0c4dd0e1264c9d87bf0a7e702d892e68a"
+        },
+        "952062": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8863028453226553691",
+                    "size": "24854070365",
+                    "download": "21666828800"
+                },
+                "dx11_non-rt": {
+                    "gid": "4250078460962883141",
+                    "size": "23470760805",
+                    "download": "20126740608"
+                }
+            },
+            "decryptionkey": "fdfbc9447d8302b8a7b325ec2bccaa81e77cef9d8289ead20348a702cce53e40"
+        },
+        "952063": {
+            "dlcappid": "1158730",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7504296696893507629",
+                    "size": "680936443",
+                    "download": "565900192"
+                },
+                "dx11_non-rt": {
+                    "gid": "7143474949560168717",
+                    "size": "641453251",
+                    "download": "507105168"
+                }
+            },
+            "decryptionkey": "e5e87afc561b9663966c6f3fb6a9de1dac7466dfb32db183fbcfbeb5f011257b"
+        },
+        "952064": {
+            "dlcappid": "1348140",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4916965303803227400",
+                    "size": "11404",
+                    "download": "10800"
+                },
+                "dx11_non-rt": {
+                    "gid": "6360920135194527885",
+                    "size": "9924",
+                    "download": "9296"
+                }
+            },
+            "decryptionkey": "438a8c22458963cec5059bec6e195c24b9988cf2c2d2a33298db12146597812c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11960962",
+                "timeupdated": "1695603649"
+            },
+            "dx11_non-rt": {
+                "buildid": "11047294",
+                "timeupdated": "1682584022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
