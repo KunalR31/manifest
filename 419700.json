@@ -1,0 +1,86 @@
+{
+    "appid": "419700",
+    "type": "Game",
+    "name": "AT SUNDOWN: Shots in the Dark",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27273683",
+    "update_time": "2025-02-02 10:17:28",
+    "depot": {
+        "baselanguages": "",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "419702": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1852183330075345583",
+                    "size": "1594173959",
+                    "download": "329715024"
+                },
+                "beta": {
+                    "gid": "1852183330075345583",
+                    "size": "1594173959",
+                    "download": "329715024"
+                }
+            },
+            "decryptionkey": "9cc623ced3ce8bf92329388ce92fe93654c52f7e4dff518ca1ccd09309f3cba4"
+        },
+        "419703": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7969462268422822076",
+                    "size": "1610653777",
+                    "download": "335977312"
+                },
+                "beta": {
+                    "gid": "7969462268422822076",
+                    "size": "1610653777",
+                    "download": "335977312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "419704": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7569637146144577992",
+                    "size": "1609685724",
+                    "download": "338480992"
+                },
+                "beta": {
+                    "gid": "7569637146144577992",
+                    "size": "1609685724",
+                    "download": "338480992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17193384",
+                "timeupdated": "1738462643"
+            },
+            "beta": {
+                "buildid": "17193384",
+                "description": "beta testing",
+                "timeupdated": "1738292666"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
