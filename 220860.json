@@ -1,0 +1,61 @@
+{
+    "appid": "220860",
+    "type": "Game",
+    "name": "McPixel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26389588",
+    "update_time": "2024-12-05 05:30:15",
+    "depot": {
+        "220861": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6106813163484315399",
+                    "size": "67537199",
+                    "download": "0"
+                },
+                "test-o-sterone": {
+                    "gid": "6106813163484315399",
+                    "size": "67537199",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "33aed2a681580b6c703a513e13d1a71b6fe41678fbb37c7329467fb29c181162"
+        },
+        "220862": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3607737117313597235",
+                    "size": "72794060",
+                    "download": "0"
+                },
+                "test-o-sterone": {
+                    "gid": "3607737117313597235",
+                    "size": "72794060",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "98ed185dd78a88b71f3d60d3b9fd85f81527633f56bdb9f0f5478695e3a272ab"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "92993"
+            },
+            "test-o-sterone": {
+                "buildid": "92993"
+            }
+        }
+    }
+}
