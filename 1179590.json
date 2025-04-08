@@ -1,0 +1,64 @@
+{
+    "appid": "1179590",
+    "type": "Demo",
+    "name": "Kaku Ancient Seal Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24027094",
+    "update_time": "2024-07-16 02:45:06",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1179591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2948602474738976862",
+                    "size": "10541596994",
+                    "download": "10058656704"
+                }
+            },
+            "decryptionkey": "e00cb15e78e568d2904680ee9a2a2e726048fe8a00250c9290ce8de41ffbc1bb"
+        },
+        "1179592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5285305158969755202",
+                    "size": "10541586754",
+                    "download": "10051240352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14762716",
+                "timeupdated": "1718764793"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
