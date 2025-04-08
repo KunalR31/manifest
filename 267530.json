@@ -1,0 +1,70 @@
+{
+    "appid": "267530",
+    "type": "Game",
+    "name": "The LEGO® Movie - Videogame",
+    "schinese_name": "乐高大电影",
+    "isfreeapp": "0",
+    "change_number": "27137445",
+    "update_time": "2025-01-24 04:25:37",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "267531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3340067884690970620",
+                    "size": "8181961947",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0b297c5aeb6e1e9201043c2ff63592f5ecd8a96380ae7e9141ca51a5eca54441"
+        },
+        "267532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3883093548583649056",
+                    "size": "8081176147",
+                    "download": "1427348766552"
+                },
+                "local": {
+                    "gid": "7050358389723651596",
+                    "size": "528051761",
+                    "download": "1040210856"
+                }
+            },
+            "decryptionkey": "f29f049e71654ffeb9ccf535381e0d483f0a1e995b78c53faf30aafafbf39c79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "394342"
+            },
+            "local": {
+                "buildid": "406558",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
