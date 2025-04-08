@@ -1,0 +1,82 @@
+{
+    "appid": "389850",
+    "type": "Game",
+    "name": "Legacy of Dorn: Herald of Oblivion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 11:10:23",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "389851": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "470352478675082156",
+                    "size": "412656415",
+                    "download": "128941664"
+                },
+                "beta": {
+                    "gid": "470352478675082156",
+                    "size": "412656415",
+                    "download": "128941664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "389852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "32266715136870304",
+                    "size": "388246536",
+                    "download": "120898832"
+                },
+                "beta": {
+                    "gid": "32266715136870304",
+                    "size": "388246536",
+                    "download": "120898832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "389853": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "644274866689704496",
+                    "size": "384514105",
+                    "download": "120275792"
+                },
+                "beta": {
+                    "gid": "644274866689704496",
+                    "size": "384514105",
+                    "download": "120275792"
+                }
+            },
+            "decryptionkey": "eefd5e23aefcfbab554a5f4b0532cd1cc447b18a7a68d71a8436303fa51568b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1976911",
+                "timeupdated": "1500613780"
+            },
+            "beta": {
+                "buildid": "1976911",
+                "timeupdated": "1500611399"
+            }
+        }
+    }
+}
