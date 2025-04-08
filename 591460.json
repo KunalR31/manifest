@@ -1,0 +1,57 @@
+{
+    "appid": "591460",
+    "type": "Game",
+    "name": "Parkasaurus",
+    "schinese_name": "恐龙乐园",
+    "isfreeapp": "0",
+    "change_number": "27014867",
+    "update_time": "2025-01-16 06:14:23",
+    "depot": {
+        "workshopdepot": "591460",
+        "591461": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4407419122187998362",
+                    "size": "2744168129",
+                    "download": "343241248"
+                },
+                "ptr_build": {
+                    "gid": "6846002335374611597",
+                    "size": "2741066281",
+                    "download": "342376416"
+                }
+            },
+            "decryptionkey": "fecec5a1bb11beaed5f93f92404793b769fa5913d436ad4a3da8a7868a52a271"
+        },
+        "591462": {
+            "config": {
+                "realm": "steamchina",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7922292456972073123",
+                    "size": "2442210598",
+                    "download": "307744416"
+                }
+            },
+            "decryptionkey": "cc70030d3dc4a120b24fbe251e9f825e0aa849652486a71cde751495677accd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14392464",
+                "timeupdated": "1716936499"
+            },
+            "ptr_build": {
+                "buildid": "11615857",
+                "timeupdated": "1688402123"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8327035f2fa594f225888a418daed391a3c2a818dc9a532272b1d28efc6f7fa9"
+    }
+}
