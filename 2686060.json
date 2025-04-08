@@ -1,0 +1,80 @@
+{
+    "appid": "2686060",
+    "type": "Game",
+    "name": "Candle Daemon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26412260",
+    "update_time": "2024-12-05 07:12:41",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2686061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2754513571209637681",
+                    "size": "3964145241",
+                    "download": "3572989856"
+                }
+            },
+            "decryptionkey": "75ea1017a69f0d99128ce3c1ec39af8d5115a62867cb9c2997212627a15b7689"
+        },
+        "2834270": {
+            "dlcappid": "2834270",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "712668596237218680",
+                    "size": "3704589141",
+                    "download": "3479947424"
+                }
+            },
+            "decryptionkey": "0b2f1eeddf2b4306a56650fade4b4db29d2919daef769e5205cc7af1cdaa4986"
+        },
+        "2686062": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2363293469076066470",
+                    "size": "4164146227",
+                    "download": "3596729792"
+                }
+            },
+            "decryptionkey": "109931317c729356e77e10b7cae7e7588cd013fba58e123da89d3248b3518c73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15081697",
+                "timeupdated": "1721344595"
+            }
+        }
+    }
+}
