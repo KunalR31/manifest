@@ -1,0 +1,40 @@
+{
+    "appid": "212480",
+    "type": "Game",
+    "name": "Sonic & All-Stars Racing Transformed Collection",
+    "schinese_name": "索尼克全明星赛车：变形",
+    "isfreeapp": "0",
+    "change_number": "27114216",
+    "update_time": "2025-01-22 23:25:28",
+    "depot": {
+        "212481": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "440925618788613811",
+                    "size": "7688584411",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1111317724331786029",
+                    "size": "7211760716",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b8ac8993c7efb0a17d52f8b140c8d7be8d0332c6ec92c026c7d43ac5319fd071"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "169048"
+            },
+            "local": {
+                "buildid": "35065",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
