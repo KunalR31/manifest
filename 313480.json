@@ -1,0 +1,81 @@
+{
+    "appid": "313480",
+    "type": "Game",
+    "name": "Blitzkrieg Anthology",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28120969",
+    "update_time": "2025-03-25 10:18:12",
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "313481": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6138950786934825086",
+                    "size": "4841231979",
+                    "download": "2041053696"
+                },
+                "local": {
+                    "gid": "7975950432101375141",
+                    "size": "4826829988",
+                    "download": "1187821529943"
+                }
+            },
+            "decryptionkey": "fa22448830197efb76e505a074a62d398bfbe99413da8acb2a393f8370f0b83c"
+        },
+        "313482": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5253902432902419552",
+                    "size": "4854925607",
+                    "download": "2047752544"
+                },
+                "local": {
+                    "gid": "7213015201103433615",
+                    "size": "4840522184",
+                    "download": "1318546336514"
+                }
+            },
+            "decryptionkey": "6c288ecb90c5a0c8c2201640924899aaa233368254d867312b018cec302d5918"
+        },
+        "313483": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7720743453562762830",
+                    "size": "9242400152",
+                    "download": "3976863072"
+                },
+                "local": {
+                    "gid": "3966938438599752794",
+                    "size": "9206791193",
+                    "download": "21975650624769"
+                }
+            },
+            "decryptionkey": "85693680a39ffa11c5aa88e6073504617ab57c96258ebfdf68cae953ef2096d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2969225",
+                "timeupdated": "1532695794"
+            },
+            "local": {
+                "buildid": "350338",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
