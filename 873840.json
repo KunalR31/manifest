@@ -1,0 +1,76 @@
+{
+    "appid": "873840",
+    "type": "Game",
+    "name": "Truck and Logistics Simulator",
+    "schinese_name": "卡车物流模拟器",
+    "isfreeapp": "0",
+    "change_number": "28009966",
+    "update_time": "2025-03-18 17:16:45",
+    "depot": {
+        "873841": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "82000782646201457",
+                    "size": "1801457793",
+                    "download": "846409568"
+                },
+                "32bit": {
+                    "gid": "7936467484318083147",
+                    "size": "2066381445",
+                    "download": "1072594704"
+                },
+                "nintendo-switch-crossplay": {
+                    "gid": "4894454557726637369",
+                    "size": "2133573364",
+                    "download": "1093064896"
+                }
+            },
+            "decryptionkey": "30b2c3f522af72ce2cd442603a860f70c745e193edd37f4fc12c502862dd162e"
+        },
+        "873842": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "363446099620416809",
+                    "size": "2362799229",
+                    "download": "1163036720"
+                },
+                "32bit": {
+                    "gid": "363446099620416809",
+                    "size": "2362799229",
+                    "download": "1163036720"
+                },
+                "nintendo-switch-crossplay": {
+                    "gid": "363446099620416809",
+                    "size": "2362799229",
+                    "download": "1163036720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15048534",
+                "timeupdated": "1721131250"
+            },
+            "32bit": {
+                "buildid": "6563901",
+                "description": "Version that works on 32 bit windows installations",
+                "timeupdated": "1618833118"
+            },
+            "nintendo-switch-crossplay": {
+                "buildid": "8474819",
+                "description": "Old version of the game that is compatible with Nintendo Switch cross play",
+                "timeupdated": "1740690217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
