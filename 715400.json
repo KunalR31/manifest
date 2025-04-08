@@ -1,0 +1,58 @@
+{
+    "appid": "715400",
+    "type": "Game",
+    "name": "Frozen Flame",
+    "schinese_name": "冰封之焰",
+    "isfreeapp": "0",
+    "change_number": "27894655",
+    "update_time": "2025-03-12 00:20:43",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "715401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4887297279369329683",
+                    "size": "12216097750",
+                    "download": "7276244528"
+                },
+                "alpha": {
+                    "gid": "9072573624335538522",
+                    "size": "12208755070",
+                    "download": "7194750976"
+                }
+            },
+            "decryptionkey": "137ac76cbbb80df9e88bf9287ca2973bd41e26ac5793c5d2aaffd8290b899438"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11289150",
+                "timeupdated": "1684773567"
+            },
+            "alpha": {
+                "buildid": "14114362",
+                "description": "Alpha Version (unstable)",
+                "timeupdated": "1713558904"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
