@@ -1,0 +1,75 @@
+{
+    "appid": "408000",
+    "type": "Game",
+    "name": "Cinderella Escape! R12",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26859748",
+    "update_time": "2025-01-04 16:05:59",
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "408001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9065012763561518687",
+                    "size": "270624530",
+                    "download": "68849056"
+                },
+                "testing": {
+                    "gid": "9065012763561518687",
+                    "size": "270624530",
+                    "download": "68849056"
+                }
+            },
+            "decryptionkey": "cfa93944a8017d08f01a9363b240b8022209d53bfb9fc83a635a47234d6c2163"
+        },
+        "408002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7376902762798346581",
+                    "size": "308241412",
+                    "download": "75350912"
+                },
+                "testing": {
+                    "gid": "7376902762798346581",
+                    "size": "308241412",
+                    "download": "75350912"
+                }
+            },
+            "decryptionkey": "ec494e35e3f70a1cc33aa36ac27c4275982cc6d59a6218714a25f6cb3cf63ce7"
+        },
+        "425500": {
+            "manifests": {
+                "public": {
+                    "gid": "8816966772256856993",
+                    "size": "15428739",
+                    "download": "12798624"
+                },
+                "testing": {
+                    "gid": "8816966772256856993",
+                    "size": "15428739",
+                    "download": "12798624"
+                }
+            },
+            "dlcappid": "425500",
+            "decryptionkey": "580815185038edaddeb5243170e26a95ae3ed83b60e4138e55866c8dc32b66be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3253169",
+                "timeupdated": "1540666609"
+            },
+            "testing": {
+                "buildid": "3253169",
+                "timeupdated": "1540653737"
+            }
+        }
+    }
+}
