@@ -1,0 +1,64 @@
+{
+    "appid": "293520",
+    "type": "Game",
+    "name": "Carnivores: Dinosaur Hunter Reborn",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27458690",
+    "update_time": "2025-02-13 20:15:31",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "293521": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1019983725065875710",
+                    "size": "769283965",
+                    "download": "333486896"
+                },
+                "local": {
+                    "gid": "8954959612906382106",
+                    "size": "766850335",
+                    "download": "333303616"
+                },
+                "test": {
+                    "gid": "5623351432695762245",
+                    "size": "774203344",
+                    "download": "335115184"
+                }
+            },
+            "decryptionkey": "a9c628e41963792f4531685616b694e2298bcbf220ea887acf723a47bd444997"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "3519271",
+                "timeupdated": "1548939782"
+            },
+            "local": {
+                "buildid": "679475",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "test": {
+                "buildid": "3375738",
+                "description": "Test latest version",
+                "timeupdated": "1544185227"
+            }
+        }
+    }
+}
