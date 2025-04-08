@@ -1,0 +1,61 @@
+{
+    "appid": "620080",
+    "type": "Game",
+    "name": "A Clockwork Ley-Line: The Borderline of Dusk",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28092624",
+    "update_time": "2025-03-23 10:18:26",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "620081": {
+            "manifests": {
+                "public": {
+                    "gid": "5347830232692217429",
+                    "size": "2017540527",
+                    "download": "1338458144"
+                },
+                "beta": {
+                    "gid": "5837960313903412982",
+                    "size": "2017533465",
+                    "download": "1338456816"
+                },
+                "previous": {
+                    "gid": "7159783254918668561",
+                    "size": "1961645728",
+                    "download": "1311271088"
+                }
+            },
+            "decryptionkey": "2185db318e37c3d71fd2d67b2463454bd11994981eb62ad468fa41683d7b2b78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10986258",
+                "timeupdated": "1681754826"
+            },
+            "beta": {
+                "buildid": "11216754",
+                "description": "build with fixes",
+                "timeupdated": "1684129910"
+            },
+            "previous": {
+                "buildid": "3651665",
+                "timeupdated": "1681754816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
