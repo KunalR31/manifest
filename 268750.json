@@ -1,0 +1,77 @@
+{
+    "appid": "268750",
+    "type": "Game",
+    "name": "Magicite",
+    "schinese_name": "魔力遗迹",
+    "isfreeapp": "0",
+    "change_number": "26414600",
+    "update_time": "2024-12-05 07:20:24",
+    "depot": {
+        "overridescddb": "1",
+        "268751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5908306246876234228",
+                    "size": "520374254",
+                    "download": "303921712"
+                },
+                "beta": {
+                    "gid": "8314471762426353501",
+                    "size": "421627932",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f4253e929a24e9070dc0c62d8187c393cc46066be4d85b9f69d9fcbf358e8ed6"
+        },
+        "268752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2168706182749095841",
+                    "size": "536615669",
+                    "download": "303324112"
+                },
+                "beta": {
+                    "gid": "12945346989075361",
+                    "size": "454947543",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f835697e556701451e089396c4377894108f84e5904b1da8b8a20c8f02f7fa93"
+        },
+        "268753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3179981852413123474",
+                    "size": "536492877",
+                    "download": "313924912"
+                },
+                "beta": {
+                    "gid": "2166314982817156209",
+                    "size": "450851493",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5b802d0c6184afb3a6b06cf03a9382c59fe28f5f37e132a6dffd5f0c38e7ede8"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1311161",
+                "timeupdated": "1472677437"
+            },
+            "beta": {
+                "buildid": "208395"
+            }
+        }
+    }
+}
