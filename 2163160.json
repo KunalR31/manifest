@@ -1,0 +1,60 @@
+{
+    "appid": "2163160",
+    "type": "Game",
+    "name": "OVRLRD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28002576",
+    "update_time": "2025-03-18 05:55:45",
+    "depot": {
+        "2163161": {
+            "manifests": {
+                "public": {
+                    "gid": "2355350804931886259",
+                    "size": "3669860938",
+                    "download": "1034544208"
+                },
+                "old-version": {
+                    "gid": "3979658505952782803",
+                    "size": "3556119801",
+                    "download": "959991296"
+                },
+                "public-testing": {
+                    "gid": "7742964754118339734",
+                    "size": "3670679638",
+                    "download": "1034805056"
+                },
+                "very-old-version": {
+                    "gid": "3379153061006338530",
+                    "size": "2939893074",
+                    "download": "883328736"
+                }
+            },
+            "decryptionkey": "edecdcddaaec4d0901db9c1eac3078a5c004e0a0b561547441ff542a1109d861"
+        },
+        "workshopdepot": "2163160",
+        "branches": {
+            "public": {
+                "buildid": "17083787",
+                "timeupdated": "1741924247"
+            },
+            "old-version": {
+                "buildid": "16441499",
+                "description": "The previous version of OVRLRD, in case of issues.",
+                "timeupdated": "1736833912"
+            },
+            "public-testing": {
+                "buildid": "17415549",
+                "description": "For trying out experimental features.",
+                "timeupdated": "1739928572"
+            },
+            "very-old-version": {
+                "buildid": "15642113",
+                "description": "A very old version of OVRLRD, for fun.",
+                "timeupdated": "1729813753"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
