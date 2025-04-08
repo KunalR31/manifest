@@ -1,0 +1,121 @@
+{
+    "appid": "949480",
+    "type": "Game",
+    "name": "BROK the InvestiGator",
+    "schinese_name": "BROK the InvestiGator 鳄鱼侦探布罗格",
+    "isfreeapp": "0",
+    "change_number": "28330789",
+    "update_time": "2025-04-06 17:10:42",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "949481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2016998396044216404",
+                    "size": "2433768168",
+                    "download": "2148234288"
+                },
+                "32bit": {
+                    "gid": "8888103650104402991",
+                    "size": "1974695950",
+                    "download": "1853309408"
+                },
+                "kortest": {
+                    "gid": "2016998396044216404",
+                    "size": "2433768168",
+                    "download": "2148234288"
+                },
+                "macpositionalaudio": {
+                    "gid": "2016998396044216404",
+                    "size": "2433768168",
+                    "download": "2148234288"
+                }
+            },
+            "decryptionkey": "c39417b905a3de13b679da5a9d9e17c0bc2d9f84be09b97b985642f060312b2f"
+        },
+        "949482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3831364087535529778",
+                    "size": "2397620219",
+                    "download": "2094330752"
+                },
+                "kortest": {
+                    "gid": "3831364087535529778",
+                    "size": "2397620219",
+                    "download": "2094330752"
+                },
+                "macpositionalaudio": {
+                    "gid": "2860113478367254039",
+                    "size": "2342828425",
+                    "download": "2035503216"
+                }
+            },
+            "decryptionkey": "e0afc3e55d920946a3e03aaec6880686fc856608774b3d761b5a9af8aaee721d"
+        },
+        "2156870": {
+            "dlcappid": "2156870",
+            "manifests": {
+                "public": {
+                    "gid": "7528961184936029067",
+                    "size": "466887269",
+                    "download": "377050160"
+                },
+                "kortest": {
+                    "gid": "7528961184936029067",
+                    "size": "466887269",
+                    "download": "377050160"
+                },
+                "macpositionalaudio": {
+                    "gid": "7528961184936029067",
+                    "size": "466887269",
+                    "download": "377050160"
+                }
+            },
+            "decryptionkey": "6ccd08e03b96507a6d90ee0e3aedcbd494f56c46eeb8246dfe759d741c45b356"
+        },
+        "2931330": {
+            "dlcappid": "2931330",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "workshopdepot": "949480",
+        "branches": {
+            "public": {
+                "buildid": "17211792",
+                "timeupdated": "1738510533"
+            },
+            "32bit": {
+                "buildid": "9514517",
+                "description": "Last 32 bit compatible version for BROK",
+                "timeupdated": "1663192740"
+            },
+            "kortest": {
+                "buildid": "17211792",
+                "description": "Tests for Korean language",
+                "timeupdated": "1738440393"
+            },
+            "macpositionalaudio": {
+                "buildid": "17190235",
+                "description": "For Mac users who want positional audio",
+                "timeupdated": "1738333560"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
