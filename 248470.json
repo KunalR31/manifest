@@ -1,0 +1,69 @@
+{
+    "appid": "248470",
+    "type": "Game",
+    "name": "Doorways: Prelude",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28216871",
+    "update_time": "2025-03-31 01:50:27",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "248471": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7454937963397372069",
+                    "size": "1542582413",
+                    "download": "1239267472"
+                }
+            },
+            "decryptionkey": "e38e692f21a18e454003b85f16d27ac1bc011b9311387a7e0264500fa137835e"
+        },
+        "248472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8413423920017333760",
+                    "size": "1544291086",
+                    "download": "1237049296"
+                }
+            },
+            "decryptionkey": "732fffb75f492623cee787e16761e1b907e07b122508b14c7d53a44f613c9f18"
+        },
+        "248473": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3166249696156751133",
+                    "size": "1547444391",
+                    "download": "1242965968"
+                }
+            },
+            "decryptionkey": "84d4e3f47bcd46ab3814bbc0d9ad4f4b5e7820561b5d10e641d288612aa235cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3751154",
+                "timeupdated": "1555612682"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
