@@ -1,0 +1,61 @@
+{
+    "appid": "1045110",
+    "type": "Game",
+    "name": "Space Ops VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-27 13:15:48",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1045111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2857850468992343934",
+                    "size": "4964607716",
+                    "download": "4741308352"
+                },
+                "wmr-headset": {
+                    "gid": "8548602903720994812",
+                    "size": "4982760452",
+                    "download": "4745946960"
+                }
+            },
+            "decryptionkey": "4c8609b761fcfcf98ea22c3676f7342de062319490aee74ab5e6462ec249f9a0"
+        },
+        "1045112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4558654",
+                "timeupdated": "1578669364"
+            },
+            "wmr-headset": {
+                "buildid": "4558725",
+                "timeupdated": "1578669346"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
