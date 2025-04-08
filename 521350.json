@@ -1,0 +1,66 @@
+{
+    "appid": "521350",
+    "type": "Game",
+    "name": "Use Your Words",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26765359",
+    "update_time": "2024-12-24 02:15:04",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "521351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3736413792101947272",
+                    "size": "1053900335",
+                    "download": "657028640"
+                },
+                "beta": {
+                    "gid": "1598644345045618736",
+                    "size": "858671104",
+                    "download": "477271216"
+                }
+            },
+            "decryptionkey": "709e2cc4806c76e7257f2cc2fbf012f4242b798c35378af6f33c269ce15462f7"
+        },
+        "521352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "221034150468592256",
+                    "size": "1061106157",
+                    "download": "659857728"
+                },
+                "beta": {
+                    "gid": "522170337472788804",
+                    "size": "1084735014",
+                    "download": "666422576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5117646",
+                "timeupdated": "1591231632"
+            },
+            "beta": {
+                "buildid": "1919958",
+                "description": "Public beta branch",
+                "timeupdated": "1498578920"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
