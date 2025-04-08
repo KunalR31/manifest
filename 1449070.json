@@ -1,0 +1,80 @@
+{
+    "appid": "1449070",
+    "type": "Game",
+    "name": "Journey to the West",
+    "schinese_name": "神州志西游",
+    "isfreeapp": "0",
+    "change_number": "26900828",
+    "update_time": "2025-01-08 09:19:49",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "workshopdepot": "1449070",
+        "hasdepotsindlc": "1",
+        "1449071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "107873436939748593",
+                    "size": "4513193853",
+                    "download": "1369045728"
+                },
+                "beforedlc": {
+                    "gid": "2106438506737860111",
+                    "size": "4188377025",
+                    "download": "1307071312"
+                },
+                "pre-release": {
+                    "gid": "2462084619409580326",
+                    "size": "4513193965",
+                    "download": "1369038752"
+                }
+            },
+            "decryptionkey": "c456f9618b01e443fe6335403be2cb31891a949eac078764eb206fa5e6a63d79"
+        },
+        "1449072": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5030952112315768942",
+                    "size": "4536383612",
+                    "download": "1375964928"
+                },
+                "beforedlc": {
+                    "gid": "2155934647540943066",
+                    "size": "4211566704",
+                    "download": "1314046992"
+                },
+                "pre-release": {
+                    "gid": "5030952112315768942",
+                    "size": "4536383612",
+                    "download": "1375964928"
+                }
+            },
+            "decryptionkey": "a3a3caafc30e9b4840ed6d499e3ab0f099d613b6b6ae491dd2c36897daada0fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15920730",
+                "timeupdated": "1727984448"
+            },
+            "beforedlc": {
+                "sc_schinese": "无DLC版本（支持旧存档）",
+                "buildid": "13456603",
+                "description": "无DLC版本（支持旧存档）",
+                "timeupdated": "1709401015"
+            },
+            "pre-release": {
+                "buildid": "17477294",
+                "description": "正式版提前测试分支",
+                "timeupdated": "1740356287"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "417b4547231bb2f2dfcffa280f9851cd9bc7a43ff79be9504f8d7abb5d36f338"
+    }
+}
