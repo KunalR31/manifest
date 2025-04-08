@@ -1,0 +1,67 @@
+{
+    "appid": "908050",
+    "type": "Game",
+    "name": "Summer Catchers",
+    "schinese_name": "夏日追逐者",
+    "isfreeapp": "0",
+    "change_number": "25536954",
+    "update_time": "2024-10-05 00:16:48",
+    "depot": {
+        "baselanguages": "english,french,tchinese,russian,ukrainian",
+        "hasdepotsindlc": "1",
+        "908051": {
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "908052": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8095799940047661937",
+                    "size": "548588788",
+                    "download": "233370416"
+                }
+            },
+            "decryptionkey": "33a7696069e754864600d514103f8c02c3bb9828973fd4e3dd1604dfdd057e74"
+        },
+        "908053": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "358870297892408047",
+                    "size": "549610800",
+                    "download": "233036080"
+                }
+            },
+            "decryptionkey": "f1cd6c93e239a702e72ddee769a001e05f006eb36ba64b728960d5981207d61e"
+        },
+        "908054": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1721342557767662",
+                    "size": "690924848",
+                    "download": "238076752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7330297",
+                "timeupdated": "1631181029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
