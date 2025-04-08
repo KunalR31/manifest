@@ -1,0 +1,104 @@
+{
+    "appid": "38600",
+    "type": "Game",
+    "name": "Faerie Solitaire",
+    "schinese_name": "仙女纸牌",
+    "isfreeapp": "0",
+    "change_number": "26963429",
+    "update_time": "2025-01-13 01:10:01",
+    "depot": {
+        "38601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3344640987348346327",
+                    "size": "98239429",
+                    "download": "97327984"
+                },
+                "2010archive": {
+                    "gid": "8429516435343047217",
+                    "size": "96079150",
+                    "download": "95477872"
+                },
+                "2018_beta": {
+                    "gid": "3344640987348346327",
+                    "size": "98239429",
+                    "download": "97327984"
+                },
+                "linux_and_patch": {
+                    "gid": "2153285534636963921",
+                    "size": "103081520",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f107203e6b238b8e24ac407e0e6ee40525c92996387a500ba0e2351ebbcabb0d"
+        },
+        "38602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1878776058056352520",
+                    "size": "114320882",
+                    "download": "0"
+                },
+                "2010archive": {
+                    "gid": "1878776058056352520",
+                    "size": "114320882",
+                    "download": "0"
+                },
+                "2018_beta": {
+                    "gid": "1878776058056352520",
+                    "size": "114320882",
+                    "download": "0"
+                },
+                "linux_and_patch": {
+                    "gid": "3568705145924232043",
+                    "size": "115818566",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5912011febd37fbe11661b99f89be17dcfd62f0b434c4724d39c6facf1536acb"
+        },
+        "38603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "linux_and_patch": {
+                    "gid": "4951799987874604950",
+                    "size": "113609976",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3651078",
+                "timeupdated": "1552682284"
+            },
+            "2010archive": {
+                "buildid": "3651093",
+                "description": "Old Classic Archive",
+                "timeupdated": "1552682373"
+            },
+            "2018_beta": {
+                "buildid": "3651078",
+                "description": "egg drop rates",
+                "timeupdated": "1552681888"
+            },
+            "linux_and_patch": {
+                "buildid": "42689",
+                "description": "New patch + Linux version"
+            }
+        }
+    }
+}
