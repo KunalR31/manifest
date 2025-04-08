@@ -1,0 +1,44 @@
+{
+    "appid": "277430",
+    "type": "Game",
+    "name": "Halo: Spartan Assault",
+    "schinese_name": "光环：斯巴达突袭",
+    "isfreeapp": "0",
+    "change_number": "27141012",
+    "update_time": "2025-01-24 09:20:05",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "277431": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5461666377333096314",
+                    "size": "2400800636",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd9a9ecb04ca6ba10edca1d45e65a83e082284ec233a32148f175616283f4545"
+        },
+        "branches": {
+            "public": {
+                "buildid": "230128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
