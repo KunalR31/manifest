@@ -1,0 +1,67 @@
+{
+    "appid": "252310",
+    "type": "Game",
+    "name": "Syder Arcade",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27126010",
+    "update_time": "2025-01-23 15:26:44",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,italian,spanish",
+        "252311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8606043072749282601",
+                    "size": "841561390",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3fe631aceb14a01252e869985164cf5d81ccb84f4e3db210648154c5bf1dc58c"
+        },
+        "252314": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "252312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6367073272875906547",
+                    "size": "842487181",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "252313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4078928340548687130",
+                    "size": "858034153",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "231167"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
