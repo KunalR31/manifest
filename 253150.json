@@ -1,0 +1,158 @@
+{
+    "appid": "253150",
+    "type": "Game",
+    "name": "Halfway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109055",
+    "update_time": "2025-01-22 17:24:39",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "253151": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2054655058113348936",
+                    "size": "264666297",
+                    "download": "181178672"
+                },
+                "1.2.7": {
+                    "gid": "4941558098015305954",
+                    "size": "265260674",
+                    "download": "184297440"
+                },
+                "free-cursor": {
+                    "gid": "2623003743901230501",
+                    "size": "265261493",
+                    "download": "184301392"
+                },
+                "test": {
+                    "gid": "2054655058113348936",
+                    "size": "264666297",
+                    "download": "181178672"
+                }
+            },
+            "decryptionkey": "d0581e243c602ab3d8839886f6985926ae17d3f04b6d714bc2b928339994db72"
+        },
+        "253152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7486992941536397541",
+                    "size": "275259811",
+                    "download": "186214384"
+                },
+                "1.2.7": {
+                    "gid": "6516180332795440902",
+                    "size": "275116265",
+                    "download": "189137424"
+                },
+                "free-cursor": {
+                    "gid": "4881467575680463478",
+                    "size": "275117084",
+                    "download": "189132688"
+                },
+                "test": {
+                    "gid": "7486992941536397541",
+                    "size": "275259811",
+                    "download": "186214384"
+                }
+            },
+            "decryptionkey": "9a504fd8fba7ed049fa98b591136e1b52c221ea6182d14eca8262b4e691ff132"
+        },
+        "253153": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953923163101763360",
+                    "size": "278298135",
+                    "download": "186574928"
+                },
+                "1.2.7": {
+                    "gid": "3218222469122638712",
+                    "size": "278749408",
+                    "download": "189676000"
+                },
+                "free-cursor": {
+                    "gid": "2733014789305804636",
+                    "size": "278750227",
+                    "download": "189677712"
+                },
+                "test": {
+                    "gid": "7953923163101763360",
+                    "size": "278298135",
+                    "download": "186574928"
+                }
+            },
+            "decryptionkey": "eaf5e337be86298362252e6b16dc1fb86db4a4009e18bc0f866cad6b1a71b046"
+        },
+        "253154": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6328378722838445335",
+                    "size": "275705738",
+                    "download": "184841856"
+                },
+                "1.2.7": {
+                    "gid": "4547272641859684152",
+                    "size": "276132867",
+                    "download": "187948016"
+                },
+                "free-cursor": {
+                    "gid": "7217677005113798528",
+                    "size": "276133686",
+                    "download": "187948448"
+                },
+                "test": {
+                    "gid": "6328378722838445335",
+                    "size": "275705738",
+                    "download": "184841856"
+                }
+            },
+            "decryptionkey": "4b1eebeb9a305c8219de73e1de67a4ca4feecfb72089c07ad163cf5e2c3f76da"
+        },
+        "workshopdepot": "253150",
+        "branches": {
+            "public": {
+                "buildid": "8365772",
+                "timeupdated": "1647336315"
+            },
+            "1.2.7": {
+                "buildid": "749880",
+                "description": "Win 10 / Intel HD 3000",
+                "timeupdated": "1499069960"
+            },
+            "free-cursor": {
+                "buildid": "883931",
+                "description": "Disables mouse cursor locked-in to game window.",
+                "timeupdated": "1467966891"
+            },
+            "test": {
+                "buildid": "8365772",
+                "description": "Public test version",
+                "timeupdated": "1647336300"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4d3410d1d323cdc50856da4ee0c02d8ff21eeaed060b9f4cc2be5182fcabecef"
+    }
+}
