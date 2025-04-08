@@ -1,0 +1,87 @@
+{
+    "appid": "985260",
+    "type": "Game",
+    "name": "The Morrigan",
+    "schinese_name": "幻影之神",
+    "isfreeapp": "0",
+    "change_number": "25590511",
+    "update_time": "2024-10-08 23:36:00",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "985261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8114649909516918682",
+                    "size": "10366612473",
+                    "download": "3110435888"
+                },
+                "devbranch": {
+                    "gid": "8114649909516918682",
+                    "size": "10366612473",
+                    "download": "3110435888"
+                },
+                "livsupport": {
+                    "gid": "7135296059114151839",
+                    "size": "10367563746",
+                    "download": "3110688256"
+                },
+                "rollback": {
+                    "gid": "8438128159269718048",
+                    "size": "10273729695",
+                    "download": "3063408784"
+                }
+            },
+            "decryptionkey": "cf8f0b3d5e3195c337ed4bc3f3792f041bda531865db26fca76dafb420149f81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6224711",
+                "timeupdated": "1613647150"
+            },
+            "devbranch": {
+                "buildid": "6224711",
+                "timeupdated": "1613050422"
+            },
+            "livsupport": {
+                "buildid": "6687935",
+                "description": "For Liv support",
+                "timeupdated": "1620820442"
+            },
+            "rollback": {
+                "buildid": "5579509",
+                "timeupdated": "1613647122"
+            }
+        }
+    }
+}
