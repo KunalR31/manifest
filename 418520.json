@@ -1,0 +1,73 @@
+{
+    "appid": "418520",
+    "type": "Game",
+    "name": "SculptrVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27038487",
+    "update_time": "2025-01-17 15:52:48",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "418521": {
+            "manifests": {
+                "public": {
+                    "gid": "4535522211094693231",
+                    "size": "393477312",
+                    "download": "305531168"
+                },
+                "laststable": {
+                    "gid": "6231685884793322914",
+                    "size": "380229355",
+                    "download": "299554752"
+                },
+                "liv-mr": {
+                    "gid": "2735973560460608341",
+                    "size": "380962221",
+                    "download": "300355760"
+                },
+                "oculus-cross-play": {
+                    "gid": "6961562713041823571",
+                    "size": "393353496",
+                    "download": "305441856"
+                },
+                "oldcubey": {
+                    "gid": "8664646832068208546",
+                    "size": "255500167",
+                    "download": "175640848"
+                }
+            },
+            "decryptionkey": "daaa02d6bcb1151deea0596124e5e5f982809bf3181904df53b15a035b8e2155"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5045073",
+                "timeupdated": "1589825800"
+            },
+            "laststable": {
+                "buildid": "4516798",
+                "description": "SculptrVR on 4.23 was pretty good. Try this if you have problems on the default branch.",
+                "timeupdated": "1579045953"
+            },
+            "liv-mr": {
+                "buildid": "4433424",
+                "timeupdated": "1601323888"
+            },
+            "oculus-cross-play": {
+                "buildid": "5044982",
+                "description": "Play on Oculus servers if you own on both platforms",
+                "timeupdated": "1589825782"
+            },
+            "oldcubey": {
+                "buildid": "1846623",
+                "description": "The old version of SculptrVR with cubey tools",
+                "timeupdated": "1523053541"
+            }
+        }
+    }
+}
