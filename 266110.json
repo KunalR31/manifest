@@ -1,0 +1,66 @@
+{
+    "appid": "266110",
+    "type": "Game",
+    "name": "Tower of Guns",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27121416",
+    "update_time": "2025-01-23 08:27:11",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "266111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8520786916927263037",
+                    "size": "714755434",
+                    "download": "474267392"
+                }
+            },
+            "decryptionkey": "afa0c91967d7305b8105f8e77207c58d6e2bd1ebf12562840e9611f44c5687ed"
+        },
+        "266112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1976912640007023364",
+                    "size": "659580420",
+                    "download": "434248960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "266113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4623102995945299910",
+                    "size": "964014035",
+                    "download": "517552128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "869857"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
