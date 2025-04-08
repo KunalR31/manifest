@@ -1,0 +1,72 @@
+{
+    "appid": "824720",
+    "type": "Game",
+    "name": "Pure Rock Crawling",
+    "schinese_name": "岩地越野",
+    "isfreeapp": "0",
+    "change_number": "28330827",
+    "update_time": "2025-04-06 17:16:50",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "824721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2814703557832926152",
+                    "size": "6300278007",
+                    "download": "6119326368"
+                },
+                "multiplayer-beta": {
+                    "gid": "7403151369406066527",
+                    "size": "9894437723",
+                    "download": "9690769648"
+                },
+                "win7_build": {
+                    "gid": "6162210607404195347",
+                    "size": "5952300525",
+                    "download": "2265767600"
+                }
+            },
+            "decryptionkey": "b929a31f1b7a0e70ec088bc7360d67c7db44033a0a2748df2b03d66001b04521"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16975281",
+                "timeupdated": "1736617563"
+            },
+            "multiplayer-beta": {
+                "buildid": "13067714",
+                "description": "multiplayer",
+                "timeupdated": "1710544939"
+            },
+            "win7_build": {
+                "buildid": "6926363",
+                "description": "LowLevelFatalError [File:Unknown][Line: 258] workaround",
+                "timeupdated": "1661939766"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
