@@ -1,0 +1,105 @@
+{
+    "appid": "265590",
+    "type": "Game",
+    "name": "The Red Solstice",
+    "schinese_name": "红色至日",
+    "isfreeapp": "0",
+    "change_number": "26658344",
+    "update_time": "2024-12-16 17:37:01",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265591": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1405621230020396428",
+                    "size": "2977751621",
+                    "download": "1132932944"
+                },
+                "testers": {
+                    "gid": "1405621230020396428",
+                    "size": "2977751621",
+                    "download": "1132932944"
+                },
+                "tournament": {
+                    "gid": "6590483926563924371",
+                    "size": "2977751606",
+                    "download": "1132932768"
+                }
+            },
+            "decryptionkey": "1683eb111ecf5633b4ba15a15110e57e9c4479b174b584a2cda72aa82f9ecd7b"
+        },
+        "403910": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8037605636314367585",
+                    "size": "74881148",
+                    "download": "61286496"
+                },
+                "testers": {
+                    "gid": "8037605636314367585",
+                    "size": "74881148",
+                    "download": "61286496"
+                },
+                "tournament": {
+                    "gid": "8037605636314367585",
+                    "size": "74881148",
+                    "download": "61286496"
+                }
+            },
+            "dlcappid": "403910",
+            "decryptionkey": "046893a8e72f119be064a63da9e8488930592380947a7c5ad6a3780c24a01f00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4278674",
+                "timeupdated": "1571052044"
+            },
+            "testers": {
+                "buildid": "4278674",
+                "timeupdated": "1570796027"
+            },
+            "tournament": {
+                "buildid": "3427259",
+                "description": "The red solstice tournament version",
+                "timeupdated": "1569332241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
