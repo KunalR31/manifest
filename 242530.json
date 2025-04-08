@@ -1,0 +1,82 @@
+{
+    "appid": "242530",
+    "type": "Game",
+    "name": "The Chaos Engine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27266935",
+    "update_time": "2025-02-01 17:11:29",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "242531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1137428140681213415",
+                    "size": "240377083",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3d579563b031a89f92d31d16780bd49d72605c064d585ed8366dc195181c6942"
+        },
+        "242532": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6549059871543407436",
+                    "size": "240894799",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "242533": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6522159391210089659",
+                    "size": "283050388",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "118702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
