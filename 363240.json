@@ -1,0 +1,64 @@
+{
+    "appid": "363240",
+    "type": "Game",
+    "name": "Caveman Craig",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27977774",
+    "update_time": "2025-03-16 10:56:58",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "363241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4555272828197605779",
+                    "size": "94954496",
+                    "download": "96025504"
+                },
+                "local": {
+                    "gid": "7724458926076317461",
+                    "size": "94954496",
+                    "download": "96025504"
+                }
+            },
+            "decryptionkey": "ba82bab471f08dbfb84aac35e86b0832da9c5f515e7267715daeacc743b05624"
+        },
+        "363242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4373070216551263627",
+                    "size": "111519396",
+                    "download": "94755216"
+                },
+                "local": {
+                    "gid": "2708942069660818371",
+                    "size": "111519396",
+                    "download": "94755216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1017511"
+            },
+            "local": {
+                "buildid": "1017478",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
