@@ -1,0 +1,75 @@
+{
+    "appid": "2017600",
+    "type": "Game",
+    "name": "Ghost Doll",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25612158",
+    "update_time": "2024-10-10 19:29:23",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2017601": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "837885088202409407",
+                    "size": "560580902",
+                    "download": "372450656"
+                }
+            },
+            "decryptionkey": "f86b68be26402a168dc62a6659ace24e2fd5a24bc590fd049f3d6bf3e9175548"
+        },
+        "2017602": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6477742740331850213",
+                    "size": "559778434",
+                    "download": "372428224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2017603": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5811631467026481222",
+                    "size": "559465414",
+                    "download": "372113936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10885201",
+                "timeupdated": "1680109391"
+            }
+        }
+    }
+}
