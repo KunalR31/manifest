@@ -1,0 +1,81 @@
+{
+    "appid": "952290",
+    "type": "Game",
+    "name": "Zueirama",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26358529",
+    "update_time": "2024-12-05 03:46:52",
+    "depot": {
+        "baselanguages": "english,portuguese,brazilian",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "952291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6879398451224769127",
+                    "size": "302494521",
+                    "download": "224053200"
+                }
+            },
+            "decryptionkey": "050fd2730780f8941aea3bb502e0bd6c5f696a0e8d9e33225d8fdae033be879e"
+        },
+        "952292": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7802739052077750639",
+                    "size": "346423042",
+                    "download": "226260912"
+                }
+            },
+            "decryptionkey": "7b091fcbb0e467ed4cd6db3aec56fb5c338c4d018b634f09fcf9438cbabf101c"
+        },
+        "952293": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8962087707573082507",
+                    "size": "320966529",
+                    "download": "225895696"
+                }
+            },
+            "decryptionkey": "397dd95d085d1c423482d6ecc6f93af7fa5f2233c34684be6b4a2f29707acd81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7199603",
+                "timeupdated": "1629159945"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
