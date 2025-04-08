@@ -1,0 +1,47 @@
+{
+    "appid": "254150",
+    "type": "Demo",
+    "name": "Unholy Heights Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 11:19:23",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,japanese",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "254151": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3433003559819294264",
+                    "size": "44985996",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "352743d35ea506abcb76b2cad22474899e8aed9a61df86147d087fd8048aafdc"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "120755"
+            }
+        }
+    }
+}
