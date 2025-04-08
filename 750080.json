@@ -1,0 +1,73 @@
+{
+    "appid": "750080",
+    "type": "Game",
+    "name": "Dead Climb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25589388",
+    "update_time": "2024-10-08 23:09:47",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "750081": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3050781187269233456",
+                    "size": "5391260954",
+                    "download": "2499086768"
+                },
+                "test": {
+                    "gid": "3050781187269233456",
+                    "size": "5391260954",
+                    "download": "2499086768"
+                }
+            },
+            "decryptionkey": "9c5b61c3e0a63d84aede5a28623e9fb3edf0bb0f0d780a21d81312626346349d"
+        },
+        "750082": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1458229558683980181",
+                    "size": "2205029",
+                    "download": "1613248"
+                },
+                "test": {
+                    "gid": "3125257197818670791",
+                    "size": "2141029",
+                    "download": "1594544"
+                }
+            },
+            "decryptionkey": "61b29043388f0c73ab54b8cc39651c8812736b27b3aaf8f016335350fcef3457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4515040",
+                "timeupdated": "1576840509"
+            },
+            "test": {
+                "buildid": "4458804",
+                "timeupdated": "1575473223"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
