@@ -1,0 +1,40 @@
+{
+    "appid": "73210",
+    "type": "Game",
+    "name": "Sengoku",
+    "schinese_name": "战国时代",
+    "isfreeapp": "0",
+    "change_number": "28326620",
+    "update_time": "2025-04-06 04:15:28",
+    "depot": {
+        "73211": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2983158909545757196",
+                    "size": "688176360",
+                    "download": "370377088"
+                },
+                "1.4-no_security_fix": {
+                    "gid": "2708613927868265588",
+                    "size": "688176360",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c2c6464cb015fa7e332eb4e3cad4b4ae809a5a9f6838cbf1c09474934a56ece0"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "4904519",
+                "timeupdated": "1588578598"
+            },
+            "1.4-no_security_fix": {
+                "buildid": "8659",
+                "description": "No LUA security fix. Use at your own risk.",
+                "timeupdated": "1581948687"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
