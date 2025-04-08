@@ -1,0 +1,61 @@
+{
+    "appid": "977920",
+    "type": "Game",
+    "name": "BALSA Model Flight Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26519453",
+    "update_time": "2024-12-06 11:16:39",
+    "depot": {
+        "baselanguages": "english",
+        "977921": {
+            "manifests": {
+                "public": {
+                    "gid": "1508871752953957920",
+                    "size": "6925080452",
+                    "download": "2303014160"
+                },
+                "devbuild": {
+                    "gid": "1945463196141649022",
+                    "size": "6948107936",
+                    "download": "2320056432"
+                },
+                "incoming": {
+                    "gid": "1508871752953957920",
+                    "size": "6925080452",
+                    "download": "2303014160"
+                },
+                "rollback": {
+                    "gid": "945314202059145679",
+                    "size": "6888300110",
+                    "download": "2296816688"
+                }
+            },
+            "decryptionkey": "01a65f42a2de9cf169d04a6511a864e427cab59faa9e6c9f9493563482434cd1"
+        },
+        "workshopdepot": "977920",
+        "branches": {
+            "public": {
+                "buildid": "8189148",
+                "timeupdated": "1644948960"
+            },
+            "devbuild": {
+                "buildid": "8189159",
+                "description": "Same as the default branch, but as a development build. Useful for modders and debugger enthusiasts.",
+                "timeupdated": "1644948444"
+            },
+            "incoming": {
+                "buildid": "8189148",
+                "description": "A future build that isn't released yet. Warning: Time travel may introduce bugs.",
+                "timeupdated": "1644610033"
+            },
+            "rollback": {
+                "buildid": "7619650",
+                "description": "The previous build, if you have issues or are feeling nostalgic.",
+                "timeupdated": "1637705406"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ecc856de49b19422395165220f1c9934316ae56ae95c56c91ae4cdd671135988"
+    }
+}
