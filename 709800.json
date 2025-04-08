@@ -1,0 +1,60 @@
+{
+    "appid": "709800",
+    "type": "Game",
+    "name": "Hardcore ZBoy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28233407",
+    "update_time": "2025-04-01 01:53:44",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "709801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "444657577910751089",
+                    "size": "470098705",
+                    "download": "204362304"
+                }
+            },
+            "decryptionkey": "9e07cde01c907c97e127f9330532f523125c8ed9dd96d7b1362ecd2f1081ca90"
+        },
+        "709802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9218130227161418199",
+                    "size": "440349238",
+                    "download": "184512112"
+                }
+            },
+            "decryptionkey": "4f6447bf732082f8538cff52a3bce90fed514fe67fc47484934321d63a77c681"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2121065",
+                "timeupdated": "1505463952"
+            }
+        }
+    }
+}
