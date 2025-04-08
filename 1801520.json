@@ -1,0 +1,62 @@
+{
+    "appid": "1801520",
+    "type": "Game",
+    "name": "Zombieville USA 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28329406",
+    "update_time": "2025-04-06 12:30:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1801521": {
+            "manifests": {
+                "public": {
+                    "gid": "4976194514490593181",
+                    "size": "2180810463",
+                    "download": "1975165200"
+                },
+                "backuptest": {
+                    "gid": "4976194514490593181",
+                    "size": "2180810463",
+                    "download": "1975165200"
+                },
+                "openbeta": {
+                    "gid": "7569699998857805444",
+                    "size": "2820220960",
+                    "download": "2163930960"
+                }
+            },
+            "decryptionkey": "08b70f9e9b1b0671385a0f0b82e648b65d38566858a4dfad56d957ac4710e441"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17888343",
+                "timeupdated": "1743107633"
+            },
+            "backuptest": {
+                "buildid": "17888343",
+                "description": "1.07 Test",
+                "timeupdated": "1743105628"
+            },
+            "openbeta": {
+                "buildid": "17861886",
+                "description": "Debug",
+                "timeupdated": "1742964107"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
