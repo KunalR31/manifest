@@ -1,0 +1,140 @@
+{
+    "appid": "92800",
+    "type": "Game",
+    "name": "SpaceChem",
+    "schinese_name": "太空化学",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 01:51:46",
+    "depot": {
+        "overridescddb": "1",
+        "92801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6705344395015867009",
+                    "size": "284293676",
+                    "download": "94306384"
+                },
+                "community-edition": {
+                    "gid": "8136199689996033227",
+                    "size": "284436505",
+                    "download": "94369472"
+                },
+                "crash-reporter": {
+                    "gid": "1885523486061224114",
+                    "size": "284294188",
+                    "download": "94307408"
+                },
+                "hardware-cursor": {
+                    "gid": "6305501485645104871",
+                    "size": "284293676",
+                    "download": "94306704"
+                },
+                "v1015": {
+                    "gid": "2080174146228549993",
+                    "size": "292630336",
+                    "download": "94954128"
+                }
+            },
+            "decryptionkey": "1cc139ebf3cba92ca879518d5a2af63e02894026327ea1b7b48e85f9ba88ba64"
+        },
+        "92802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4072245452469035066",
+                    "size": "305755046",
+                    "download": "100399584"
+                },
+                "community-edition": {
+                    "gid": "785686148331016003",
+                    "size": "305897875",
+                    "download": "100462672"
+                },
+                "crash-reporter": {
+                    "gid": "6987775339041744124",
+                    "size": "305755558",
+                    "download": "100400608"
+                },
+                "hardware-cursor": {
+                    "gid": "1522711891254973717",
+                    "size": "305755046",
+                    "download": "100399904"
+                },
+                "v1015": {
+                    "gid": "7015881111190733079",
+                    "size": "319834141",
+                    "download": "101429312"
+                }
+            },
+            "decryptionkey": "cfc110280df847bfd1071f7b9952cc957d14d5529305971b00b536b14d74ac94"
+        },
+        "92804": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6451263791585779898",
+                    "size": "306849016",
+                    "download": "100657840"
+                },
+                "community-edition": {
+                    "gid": "1783412528025058913",
+                    "size": "306991845",
+                    "download": "100720928"
+                },
+                "crash-reporter": {
+                    "gid": "5877722729965034043",
+                    "size": "306849528",
+                    "download": "100658864"
+                },
+                "hardware-cursor": {
+                    "gid": "8969228953535071770",
+                    "size": "306849016",
+                    "download": "100658160"
+                },
+                "v1015": {
+                    "gid": "1197135349142513034",
+                    "size": "305026359",
+                    "download": "99415216"
+                }
+            },
+            "decryptionkey": "08af463d2c79e9a879b8d1c541993389fd1a1dde76e596030d12519cce58873e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5484159",
+                "timeupdated": "1598900155"
+            },
+            "community-edition": {
+                "buildid": "7523119",
+                "description": "SpaceChem Community Edition",
+                "timeupdated": "1634091389"
+            },
+            "crash-reporter": {
+                "buildid": "13307988",
+                "description": "Additional crash reporting",
+                "timeupdated": "1706579618"
+            },
+            "hardware-cursor": {
+                "buildid": "11861587",
+                "description": "Hardware mouse cursor",
+                "timeupdated": "1691097923"
+            },
+            "v1015": {
+                "buildid": "4728335",
+                "description": "SpaceChem v1015 (old version)",
+                "timeupdated": "1594854238"
+            }
+        }
+    }
+}
