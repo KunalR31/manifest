@@ -1,0 +1,55 @@
+{
+    "appid": "11280",
+    "type": "Game",
+    "name": "Penguins Arena: Sedna's World",
+    "schinese_name": "企鹅竞技场：塞德纳的世界",
+    "isfreeapp": "0",
+    "change_number": "26778403",
+    "update_time": "2024-12-25 12:52:26",
+    "depot": {
+        "overridescddb": "1",
+        "11281": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1248790397008700529",
+                    "size": "43146554",
+                    "download": "23964416"
+                },
+                "steam-achievements": {
+                    "gid": "9162873329292094684",
+                    "size": "40770037",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "840ab5ef0536f5ddfaccfdd3f8b15de3dd84c68afd0d0797dbca6855d7b9fd29"
+        },
+        "11282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4373801028000638550",
+                    "size": "47557778",
+                    "download": "24006928"
+                }
+            },
+            "decryptionkey": "e8647808fef5398482efe7e0fd2871e33f5e9516e615d0bb7c5a880cf6ce96e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1391918",
+                "timeupdated": "1476436610"
+            },
+            "steam-achievements": {
+                "buildid": "52151",
+                "description": "Steam achievements"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
