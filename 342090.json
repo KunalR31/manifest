@@ -1,0 +1,73 @@
+{
+    "appid": "342090",
+    "type": "Game",
+    "name": "The Clans - Saga of the Twins",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27428875",
+    "update_time": "2025-02-12 06:42:54",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "342091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7014083862296951269",
+                    "size": "1138689346",
+                    "download": "549674560"
+                },
+                "novoices": {
+                    "gid": "3998178687906283617",
+                    "size": "315738291",
+                    "download": "299184720"
+                }
+            },
+            "decryptionkey": "b47bb59972e77fcf14b4eb956f6457798ff9bfc2a4ca9ace08e1c6f1ebc1699f"
+        },
+        "344200": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7840564111278487322",
+                    "size": "298540327",
+                    "download": "296074688"
+                },
+                "novoices": {
+                    "gid": "7840564111278487322",
+                    "size": "298540327",
+                    "download": "296074688"
+                }
+            },
+            "dlcappid": "344200",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14571800",
+                "timeupdated": "1717254996"
+            },
+            "novoices": {
+                "buildid": "14571323",
+                "description": "Old Version without Voices",
+                "timeupdated": "1717249389"
+            }
+        }
+    }
+}
