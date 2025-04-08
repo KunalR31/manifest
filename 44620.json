@@ -1,0 +1,43 @@
+{
+    "appid": "44620",
+    "type": "Game",
+    "name": "STCC II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28096738",
+    "update_time": "2025-03-23 23:18:48",
+    "depot": {
+        "overridescddb": "1",
+        "8619": {
+            "optional": "1",
+            "systemdefined": "1",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "44621": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2570063709327338452",
+                    "size": "2276242052",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8212c0f16cd849f0152173eae1832cfa93ceee8135c99ad293a204ba7f9ee034"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "106911"
+            }
+        }
+    }
+}
