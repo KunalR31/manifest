@@ -1,0 +1,100 @@
+{
+    "appid": "2545720",
+    "type": "Demo",
+    "name": "Manufactur’ inc. Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27731408",
+    "update_time": "2025-03-01 17:06:37",
+    "depot": {
+        "baselanguages": "english,french",
+        "2545722": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2393081270680207964",
+                    "size": "8901622",
+                    "download": "4671424"
+                },
+                "development": {
+                    "gid": "6530507453311426426",
+                    "size": "8912374",
+                    "download": "4675856"
+                },
+                "unstable": {
+                    "gid": "2393081270680207964",
+                    "size": "8901622",
+                    "download": "4671424"
+                }
+            },
+            "decryptionkey": "9827e3920cfd7f553811cc3f9b52e5f8035dd05aa76bbe2fe1bffe370aeae164"
+        },
+        "2545724": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "46080869903164151",
+                    "size": "11222880",
+                    "download": "5063168"
+                },
+                "development": {
+                    "gid": "5789200978937441293",
+                    "size": "11215456",
+                    "download": "5065232"
+                },
+                "unstable": {
+                    "gid": "46080869903164151",
+                    "size": "11222880",
+                    "download": "5063168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2545725": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4125596300842921484",
+                    "size": "284585087",
+                    "download": "76204816"
+                },
+                "development": {
+                    "gid": "6803360840371752019",
+                    "size": "284594847",
+                    "download": "76210064"
+                },
+                "unstable": {
+                    "gid": "4125596300842921484",
+                    "size": "284585087",
+                    "download": "76204816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17230478",
+                "timeupdated": "1738691811"
+            },
+            "development": {
+                "buildid": "17557791",
+                "description": "Public test Beta (alternative server)",
+                "timeupdated": "1740819993"
+            },
+            "unstable": {
+                "buildid": "17230478",
+                "description": "Next version of the client (main server)",
+                "timeupdated": "1738623670"
+            }
+        }
+    }
+}
