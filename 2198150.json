@@ -1,0 +1,99 @@
+{
+    "appid": "2198150",
+    "type": "Game",
+    "name": "Tiny Glade",
+    "schinese_name": "林间小世界",
+    "isfreeapp": "0",
+    "change_number": "28318689",
+    "update_time": "2025-04-05 08:10:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,norwegian,swedish,turkish,brazilian,ukrainian",
+        "2198151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2693167547300432593",
+                    "size": "2475009914",
+                    "download": "1330588656"
+                },
+                "beta-1_13_0": {
+                    "gid": "8842829929210206983",
+                    "size": "2475927859",
+                    "download": "1330880448"
+                },
+                "old-1_12_1": {
+                    "gid": "6911844144586561210",
+                    "size": "2448474897",
+                    "download": "1340232224"
+                },
+                "testing": {
+                    "gid": "2693167547300432593",
+                    "size": "2475009914",
+                    "download": "1330588656"
+                }
+            },
+            "decryptionkey": "a64cc2160b07e8fd86f1a2f001987b46e6760e59b3e0ac07915743a4eb695bac"
+        },
+        "2198152": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3114081683394066473",
+                    "size": "2562496652",
+                    "download": "1335272640"
+                },
+                "beta-1_13_0": {
+                    "gid": "5893050644304887348",
+                    "size": "2564803064",
+                    "download": "1335590224"
+                },
+                "old-1_12_1": {
+                    "gid": "4260473591285961254",
+                    "size": "2536197400",
+                    "download": "1344904880"
+                },
+                "testing": {
+                    "gid": "3114081683394066473",
+                    "size": "2562496652",
+                    "download": "1335272640"
+                }
+            },
+            "decryptionkey": "ef668181df894c351bdd06264513360aebd32539049befc1f36deae429957b8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17954093",
+                "timeupdated": "1743596316"
+            },
+            "beta-1_13_0": {
+                "buildid": "17646389",
+                "description": "2x terrain height + QoL",
+                "timeupdated": "1741435527"
+            },
+            "old-1_12_1": {
+                "buildid": "17499064",
+                "description": "Previous build",
+                "timeupdated": "1741446586"
+            },
+            "testing": {
+                "buildid": "17954093",
+                "description": "Pre-release testing (unstable)",
+                "timeupdated": "1743595062"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
