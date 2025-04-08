@@ -1,0 +1,93 @@
+{
+    "appid": "3103700",
+    "type": "Demo",
+    "name": "Guardians Of Restoration Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25719405",
+    "update_time": "2024-10-15 09:26:26",
+    "depot": {
+        "baselanguages": "english,koreana,japanese",
+        "3103701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "635707562010480691",
+                    "size": "537818914",
+                    "download": "194266576"
+                },
+                "macos": {
+                    "gid": "5555398057182604600",
+                    "size": "487362442",
+                    "download": "188242032"
+                },
+                "steamos": {
+                    "gid": "5555398057182604600",
+                    "size": "487362442",
+                    "download": "188242032"
+                }
+            },
+            "decryptionkey": "36c1fefeb6d82dc90ed9ef555d0bebc756b524b5c1b5c0f949fd814573b8436b"
+        },
+        "3103702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2300079028505221177",
+                    "size": "539994096",
+                    "download": "194429888"
+                },
+                "macos": {
+                    "gid": "7678989866500855835",
+                    "size": "488604248",
+                    "download": "187645424"
+                },
+                "steamos": {
+                    "gid": "7678989866500855835",
+                    "size": "488604248",
+                    "download": "187645424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3103703": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4483412517552351576",
+                    "size": "563156276",
+                    "download": "202519904"
+                },
+                "macos": {
+                    "gid": "8015087638669288086",
+                    "size": "518378493",
+                    "download": "196782704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15990125",
+                "timeupdated": "1728539350"
+            },
+            "macos": {
+                "buildid": "15395203",
+                "description": "Macos",
+                "timeupdated": "1723813533"
+            },
+            "steamos": {
+                "buildid": "15250808",
+                "description": "steamos",
+                "timeupdated": "1722695981"
+            }
+        }
+    }
+}
