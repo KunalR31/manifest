@@ -1,0 +1,105 @@
+{
+    "appid": "610370",
+    "type": "Game",
+    "name": "Desperados III",
+    "schinese_name": "赏金奇兵3",
+    "isfreeapp": "0",
+    "change_number": "27746975",
+    "update_time": "2025-03-03 09:22:15",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "610371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1026796419896246112",
+                    "size": "23456104368",
+                    "download": "10045713072"
+                }
+            },
+            "decryptionkey": "07ee906f4ffc80a33d0c85b228a548d123a15087f533124e99cdb2d4bf592244"
+        },
+        "610372": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6454656903798300902",
+                    "size": "23648146598",
+                    "download": "10123898432"
+                }
+            },
+            "decryptionkey": "707d1e1d896ccb3f7825e35f073c6f342b2ae65ca0dd30b54c91a9278df1e8f7"
+        },
+        "610373": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1716129747829083633",
+                    "size": "24356522876",
+                    "download": "10936273552"
+                }
+            },
+            "decryptionkey": "cbc2eebaa57ba2cd878b76226b674b97fb81791e87488065194dbfd71e7cf8a4"
+        },
+        "1308850": {
+            "dlcappid": "1308850",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7278237865980967493",
+                    "size": "128281086",
+                    "download": "71306464"
+                }
+            },
+            "decryptionkey": "6374288be9cd9c83ac406578ce4643c62bf3ef25904a6589d0aa3f2fa1b747fa"
+        },
+        "610374": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6435867264939876538",
+                    "size": "602631",
+                    "download": "503328"
+                }
+            },
+            "decryptionkey": "de941b1d1cd2c1e306d599027d54ad78d2c122d7373960b4fb88cb8ff956b6fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6101019",
+                "timeupdated": "1611010190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
