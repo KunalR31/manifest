@@ -1,0 +1,67 @@
+{
+    "appid": "219890",
+    "type": "Game",
+    "name": "Antichamber",
+    "schinese_name": "环绕走廊",
+    "isfreeapp": "0",
+    "change_number": "27234370",
+    "update_time": "2025-01-30 20:12:25",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "219891": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1947404557169381197",
+                    "size": "631890994",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1947404557169381197",
+                    "size": "631890994",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c78b9505bee137068ced28e19dfa00e0109ca0968ff479852a0e7f78b1c785f5"
+        },
+        "219892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8642718211971098228",
+                    "size": "482710564",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "219893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1098988246616812101",
+                    "size": "696062137",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "296940"
+            },
+            "beta": {
+                "buildid": "47878"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
