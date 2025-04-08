@@ -1,0 +1,58 @@
+{
+    "appid": "2300340",
+    "type": "Game",
+    "name": "Night Stones",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27846130",
+    "update_time": "2025-03-08 09:09:12",
+    "depot": {
+        "2300341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7641620237205286115",
+                    "size": "2057574135",
+                    "download": "489676064"
+                },
+                "local": {
+                    "gid": "47428532606641474",
+                    "size": "485076430",
+                    "download": "143983040"
+                }
+            },
+            "decryptionkey": "890323f3c9e10ce2e65df7c63c941136cb8910c9cfb992b4ac2a7d87541da56d"
+        },
+        "2300343": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "971506223749772659",
+                    "size": "2057301417",
+                    "download": "484949952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16660946",
+                "timeupdated": "1733513713"
+            },
+            "local": {
+                "buildid": "11050953",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1682003021"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
