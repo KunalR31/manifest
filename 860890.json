@@ -1,0 +1,121 @@
+{
+    "appid": "860890",
+    "type": "Game",
+    "name": "Factory Town",
+    "schinese_name": "工业小镇",
+    "isfreeapp": "0",
+    "change_number": "28249092",
+    "update_time": "2025-04-01 21:24:40",
+    "depot": {
+        "860891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6096378447342621888",
+                    "size": "359765795",
+                    "download": "184221472"
+                },
+                "beta": {
+                    "gid": "9017734031404728140",
+                    "size": "359767219",
+                    "download": "184223296"
+                },
+                "experimental": {
+                    "gid": "8676332599352318592",
+                    "size": "360515163",
+                    "download": "184637472"
+                },
+                "legacy-beta180": {
+                    "gid": "422344505049568465",
+                    "size": "279118880",
+                    "download": "133521424"
+                },
+                "legacy-beta187": {
+                    "gid": "836037260994774969",
+                    "size": "279554567",
+                    "download": "133550176"
+                },
+                "legacy-beta199": {
+                    "gid": "8204162146670522312",
+                    "size": "306145411",
+                    "download": "140415040"
+                }
+            },
+            "decryptionkey": "9142a0e86a8b973c9d887ccf6e038c5e77a482fe359542e9326e13365ed43c06"
+        },
+        "860892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7042352031130474518",
+                    "size": "357586463",
+                    "download": "183223120"
+                },
+                "beta": {
+                    "gid": "3391139822906926872",
+                    "size": "357585463",
+                    "download": "183223296"
+                },
+                "experimental": {
+                    "gid": "2517399262228277756",
+                    "size": "358348365",
+                    "download": "183671520"
+                },
+                "legacy-beta180": {
+                    "gid": "3165634558817150866",
+                    "size": "283108949",
+                    "download": "134974144"
+                },
+                "legacy-beta187": {
+                    "gid": "5064786561828717396",
+                    "size": "283551104",
+                    "download": "134993600"
+                },
+                "legacy-beta199": {
+                    "gid": "8726118269060282934",
+                    "size": "303476922",
+                    "download": "140579904"
+                }
+            },
+            "decryptionkey": "b390a5e8fdd3806a130738f79c9f0a89801c1b23bb079ae53d2095331ac7b99d"
+        },
+        "workshopdepot": "860890",
+        "branches": {
+            "public": {
+                "buildid": "17853044",
+                "timeupdated": "1742913153"
+            },
+            "beta": {
+                "buildid": "17940093",
+                "description": "Public testing branch",
+                "timeupdated": "1743513876"
+            },
+            "experimental": {
+                "buildid": "15064813",
+                "description": "Experimental features, likely buggy and unstable!",
+                "timeupdated": "1721234136"
+            },
+            "legacy-beta180": {
+                "buildid": "5950354",
+                "description": "Archive of version .180",
+                "timeupdated": "1611677274"
+            },
+            "legacy-beta187": {
+                "buildid": "6432502",
+                "description": "Archive of version .187",
+                "timeupdated": "1619440849"
+            },
+            "legacy-beta199": {
+                "buildid": "7300133",
+                "description": "Archive version of .199",
+                "timeupdated": "1632658078"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
