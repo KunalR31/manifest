@@ -1,0 +1,77 @@
+{
+    "appid": "346470",
+    "type": "Game",
+    "name": "Tennis Elbow 2013",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25004273",
+    "update_time": "2024-08-30 11:31:08",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese,polish,dutch,hungarian",
+        "346471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4073073621335903077",
+                    "size": "106637096",
+                    "download": "52659312"
+                },
+                "beta": {
+                    "gid": "1133092062316951002",
+                    "size": "103072040",
+                    "download": "51597104"
+                }
+            },
+            "decryptionkey": "434fbfc437670313405bd744eb11d5907961d2e7f3b7f425177401d584d94587"
+        },
+        "346472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4402530713437968383",
+                    "size": "102590302",
+                    "download": "41951024"
+                },
+                "beta": {
+                    "gid": "1527777095742171855",
+                    "size": "94437595",
+                    "download": "40536640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "346473": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "220418922936474735",
+                    "size": "103747958",
+                    "download": "44627760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7928209",
+                "timeupdated": "1640191668"
+            },
+            "beta": {
+                "buildid": "644741"
+            }
+        }
+    }
+}
