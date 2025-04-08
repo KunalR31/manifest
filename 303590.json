@@ -1,0 +1,138 @@
+{
+    "appid": "303590",
+    "type": "Game",
+    "name": "Hidden in Plain Sight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-18 01:09:51",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "303591": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3117148356529483207",
+                    "size": "32317581",
+                    "download": "30338512"
+                },
+                "beta": {
+                    "gid": "8212157051835339257",
+                    "size": "51992081",
+                    "download": "38597232"
+                },
+                "linux32": {
+                    "gid": "5482473448472941534",
+                    "size": "32323197",
+                    "download": "30340096"
+                },
+                "godot": {
+                    "gid": "4529655142130007448",
+                    "size": "93535480",
+                    "download": "51971904"
+                }
+            },
+            "decryptionkey": "19530ed04a2ad099f939a504963db28646dec201cf6ec8f28e5eece84d09705a"
+        },
+        "303592": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2721613643731375499",
+                    "size": "53927945",
+                    "download": "32904160"
+                },
+                "beta": {
+                    "gid": "1726241455167464081",
+                    "size": "81031891",
+                    "download": "40454752"
+                },
+                "linux32": {
+                    "gid": "1726241455167464081",
+                    "size": "81031891",
+                    "download": "40454752"
+                },
+                "godot": {
+                    "gid": "2721613643731375499",
+                    "size": "53927945",
+                    "download": "32904160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "303593": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2037163765108734729",
+                    "size": "66928555",
+                    "download": "35941568"
+                },
+                "beta": {
+                    "gid": "3995649542601511772",
+                    "size": "48851367",
+                    "download": "31377680"
+                },
+                "linux32": {
+                    "gid": "3995649542601511772",
+                    "size": "48851367",
+                    "download": "31377680"
+                },
+                "godot": {
+                    "gid": "2037163765108734729",
+                    "size": "66928555",
+                    "download": "35941568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10044244",
+                "timeupdated": "1669780547"
+            },
+            "beta": {
+                "buildid": "7667449",
+                "description": "Online multiplayer beta",
+                "timeupdated": "1636166390"
+            },
+            "linux32": {
+                "buildid": "3145598",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609455207"
+            },
+            "godot": {
+                "buildid": "14948037",
+                "description": "Godot online multiplayer",
+                "timeupdated": "1720219087"
+            }
+        }
+    }
+}
