@@ -1,0 +1,67 @@
+{
+    "appid": "104020",
+    "type": "Game",
+    "name": "Storm in a Teacup",
+    "schinese_name": "茶杯风波",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 04:43:09",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "104022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "531307830196583693",
+                    "size": "35561885",
+                    "download": "24011584"
+                }
+            },
+            "decryptionkey": "b3b3bd9368ee0e018e68f29043ce78179a5f9b5f0c675a916e068147fd74ec22"
+        },
+        "104021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2958008979270537420",
+                    "size": "32498434",
+                    "download": "22675344"
+                }
+            },
+            "decryptionkey": "d5590b6865e6837a18cc977975853c5dbee6299c96e36aff2ffe22758ad6ca47"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "816270"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
