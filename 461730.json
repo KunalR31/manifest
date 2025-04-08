@@ -1,0 +1,97 @@
+{
+    "appid": "461730",
+    "type": "Game",
+    "name": "Blaite",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28208040",
+    "update_time": "2025-03-30 01:15:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "0",
+        "461731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2362875177469037028",
+                    "size": "210150572",
+                    "download": "118009600"
+                }
+            },
+            "decryptionkey": "b47df4946b855953f8481a621c56904ca9106391a181be63a62551924c3af490"
+        },
+        "461732": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7216552358086460282",
+                    "size": "181717809",
+                    "download": "111290656"
+                }
+            },
+            "decryptionkey": "165945e65305c71b290d0c8b01b01b12a6c3401ff7c8bdc79cc16480e92cc74c"
+        },
+        "461733": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2263686433888744530",
+                    "size": "198600850",
+                    "download": "94344512"
+                }
+            },
+            "decryptionkey": "4ca2b9da6a9bed9efaae8879b2ae53cd3fadb6d6d98612f219b6111cacfe3592"
+        },
+        "461734": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3572179088594783120",
+                    "size": "198383946",
+                    "download": "95035904"
+                }
+            },
+            "decryptionkey": "63f57685091b5be4daf784d7208f0779e4dc6f69baf9e2dc9c3ac4670885078d"
+        },
+        "461735": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6331047379628952872",
+                    "size": "266288439",
+                    "download": "122344784"
+                }
+            },
+            "decryptionkey": "654924215f349644b7ee939a0a8eb9ad71e9762f5dfc2fbbcd3406492b09d705"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1587807",
+                "timeupdated": "1494280192"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
