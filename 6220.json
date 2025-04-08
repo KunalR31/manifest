@@ -1,0 +1,89 @@
+{
+    "appid": "6220",
+    "type": "Game",
+    "name": "FlatOut",
+    "schinese_name": "横冲直撞",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:17",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "6220",
+        "6221": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4268496012060040575",
+                    "size": "1318835893",
+                    "download": "1176295376"
+                },
+                "build_251753": {
+                    "gid": "1530761080936765413",
+                    "size": "1152003596",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a318ddc4bf8c63e6ecfa46d878c21d04dabfa80ba8ba9eb838d7f9a13bedf6f6"
+        },
+        "6222": {
+            "optional": "1",
+            "systemdefined": "1",
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4728793898042953458",
+                    "size": "27152",
+                    "download": "10112"
+                },
+                "build_251753": {
+                    "gid": "8135584494956141637",
+                    "size": "43269741",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f947d5e1a74a04269860461fe20a5e5f9a326bd27c92186976ae617703e2f68c"
+        },
+        "6224": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1256226837096535818",
+                    "size": "1477955",
+                    "download": "1084496"
+                }
+            },
+            "decryptionkey": "33544b074b5f6f40acbf2f733e97fa5e3a88e4a6c81a7564a071ebb4344e06df"
+        },
+        "6223": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1585437359972959859",
+                    "size": "14743243",
+                    "download": "13800832"
+                }
+            },
+            "decryptionkey": "c5bb8fc46acfd0ad00cd1c77cbc8d8bc35d443dbb46cd8dcebef0299952cc2ae"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,czech",
+        "branches": {
+            "public": {
+                "buildid": "15136767",
+                "timeupdated": "1721823011"
+            },
+            "build_251753": {
+                "buildid": "251753",
+                "description": "Build 251753 - 2014",
+                "timeupdated": "1721463565"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e3ba8e75f3d7e0bebb3061525acfd4b7ab1d630c306492edd8bda80b42475ad9"
+    }
+}
