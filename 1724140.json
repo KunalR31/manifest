@@ -1,0 +1,99 @@
+{
+    "appid": "1724140",
+    "type": "Game",
+    "name": "Craftomation 101",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27720093",
+    "update_time": "2025-02-28 23:27:42",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "1724141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6768203385845284413",
+                    "size": "225949615",
+                    "download": "198748864"
+                },
+                "old_saves": {
+                    "gid": "469267124739862505",
+                    "size": "225200790",
+                    "download": "198112208"
+                },
+                "unstable": {
+                    "gid": "6768203385845284413",
+                    "size": "225949615",
+                    "download": "198748864"
+                }
+            },
+            "decryptionkey": "1e4e8afa0f3ccdd424ab57c22d719aaef9f15414e01e2b0bd5978a1d375daf7a"
+        },
+        "1724142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1937541573887282131",
+                    "size": "233649566",
+                    "download": "200931312"
+                },
+                "old_saves": {
+                    "gid": "2014600298766439493",
+                    "size": "232900492",
+                    "download": "200309744"
+                },
+                "unstable": {
+                    "gid": "1937541573887282131",
+                    "size": "233649566",
+                    "download": "200931312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1724143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6900482194030068706",
+                    "size": "224187745",
+                    "download": "198024816"
+                },
+                "old_saves": {
+                    "gid": "6481891857120212428",
+                    "size": "223438856",
+                    "download": "197406000"
+                },
+                "unstable": {
+                    "gid": "6900482194030068706",
+                    "size": "224187745",
+                    "download": "198024816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16848438",
+                "timeupdated": "1735122875"
+            },
+            "old_saves": {
+                "buildid": "16567367",
+                "description": "branch with old version, working with saves before 0.86 version",
+                "timeupdated": "1732803581"
+            },
+            "unstable": {
+                "buildid": "16848438",
+                "description": "Unstable build",
+                "timeupdated": "1735122133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
