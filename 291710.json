@@ -1,0 +1,77 @@
+{
+    "appid": "291710",
+    "type": "Game",
+    "name": "The Lost Crown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27135985",
+    "update_time": "2025-01-24 02:25:58",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "291711": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2332624962452460588",
+                    "size": "1341228252",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e331c7401bb87c458cced65a98a823c434c739da43bbc3bdf3b57b8337d8fbdf"
+        },
+        "291712": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4181459062553123434",
+                    "size": "1494723031",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "291713": {
+            "dlcappid": "414010",
+            "manifests": {
+                "public": {
+                    "gid": "5825404557089379356",
+                    "size": "123285002",
+                    "download": "108716080"
+                }
+            },
+            "decryptionkey": "a367206263e3f7c4aab37fe8380475352f6bb80b8ee3977eb33b46a7ef9316c5"
+        },
+        "414010": {
+            "manifests": {
+                "public": {
+                    "gid": "5488250695731512216",
+                    "size": "123285002",
+                    "download": "108716080"
+                }
+            },
+            "dlcappid": "414010",
+            "decryptionkey": "5426e1f9c810198902b715386d3f8d3e273a7d65261fb986705845836f13031d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "829716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
