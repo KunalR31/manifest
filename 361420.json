@@ -1,0 +1,66 @@
+{
+    "appid": "361420",
+    "type": "Game",
+    "name": "ASTRONEER",
+    "schinese_name": "异星探险家",
+    "isfreeapp": "0",
+    "change_number": "28340096",
+    "update_time": "2025-04-07 14:07:03",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "361422": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5007636700454023326",
+                    "size": "3051845816",
+                    "download": "2925284928"
+                },
+                "astro_1_14_dx10": {
+                    "gid": "3708448730461505702",
+                    "size": "2585683957",
+                    "download": "2481810704"
+                },
+                "exo_flight_test": {
+                    "gid": "5965459726938079152",
+                    "size": "2248108289",
+                    "download": "2146422336"
+                }
+            },
+            "decryptionkey": "471756d013ea0594ce2fe60fa33915663d90cf64b086b5b992b85f5fc73d5283"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17343179",
+                "timeupdated": "1740600745"
+            },
+            "astro_1_14_dx10": {
+                "buildid": "5429613",
+                "description": "DX10 Compatible Version, Locked at Update 14",
+                "timeupdated": "1604081572"
+            },
+            "exo_flight_test": {
+                "buildid": "3940127",
+                "description": "CAUTION: Pre-Release Test Build",
+                "timeupdated": "1561141746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
