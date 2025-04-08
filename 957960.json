@@ -1,0 +1,71 @@
+{
+    "appid": "957960",
+    "type": "Game",
+    "name": "Inkulinati",
+    "schinese_name": "Inkulinati 神笔谈兵",
+    "isfreeapp": "0",
+    "change_number": "27305804",
+    "update_time": "2025-02-04 19:31:30",
+    "depot": {
+        "baselanguages": "english,polish",
+        "hasdepotsindlc": "0",
+        "957961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7701967773958391412",
+                    "size": "3994552164",
+                    "download": "1161339952"
+                },
+                "local": {
+                    "gid": "3314667528420503380",
+                    "size": "3757757862",
+                    "download": "1042145904"
+                }
+            },
+            "decryptionkey": "0e6ccded358e7330b1e2573ebdd3da24b2ff69380da51090e97faafe1b3684ae"
+        },
+        "957962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6878505277572839015",
+                    "size": "4003712660",
+                    "download": "1165092016"
+                }
+            },
+            "decryptionkey": "761b2a202e2ce7b6095bbedc33209611ae05da6e6a7cd807a23e19e672b76cab"
+        },
+        "2208540": {
+            "dlcappid": "2208540"
+        },
+        "2223510": {
+            "dlcappid": "2223510",
+            "manifests": {
+                "public": {
+                    "gid": "8986030487607636828",
+                    "size": "140582548",
+                    "download": "137307328"
+                }
+            },
+            "decryptionkey": "325342862eafdb53827450d169a3ecb3c074776ce3e4d09701bcf902176d8a48"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13858385",
+                "timeupdated": "1712843974"
+            },
+            "local": {
+                "buildid": "9325162",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1660662735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
