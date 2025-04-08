@@ -1,0 +1,80 @@
+{
+    "appid": "318020",
+    "type": "Game",
+    "name": "Act of Aggression",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27105101",
+    "update_time": "2025-01-22 11:26:10",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "318021": {
+            "manifests": {
+                "public": {
+                    "gid": "4504918995888238200",
+                    "size": "17689215147",
+                    "download": "10061836192"
+                },
+                "v515": {
+                    "gid": "1383954538034310302",
+                    "size": "10745651297",
+                    "download": "9515093952"
+                }
+            },
+            "decryptionkey": "7ab6dd8f67baf01fb48b29ac386cd3f4b22475129d3b66fbf64be0db43a3a268"
+        },
+        "318022": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1164046445169203307",
+                    "size": "2016922816",
+                    "download": "528509376"
+                },
+                "v515": {
+                    "gid": "5185226308138761694",
+                    "size": "193798631",
+                    "download": "46751216"
+                }
+            },
+            "decryptionkey": "ca5d707ad774b637e77e40e61a2fc760e706784a1dc15c773c71d99f756dca65"
+        },
+        "318023": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "318024": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese,czech",
+        "branches": {
+            "public": {
+                "buildid": "4170236",
+                "timeupdated": "1567762503"
+            },
+            "v515": {
+                "buildid": "760637",
+                "description": "Old save compatibility"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
