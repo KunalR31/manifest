@@ -1,0 +1,72 @@
+{
+    "appid": "240970",
+    "type": "Game",
+    "name": "Half Minute Hero: The Second Coming",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23998833",
+    "update_time": "2024-06-17 17:46:32",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "240971": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1434130485469082868",
+                    "size": "696052456",
+                    "download": "16181932000"
+                },
+                "local": {
+                    "gid": "683102536212784278",
+                    "size": "696048072",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "78b8e8897679952e2ed1314a9ff465f02ecf60cd33bdb5e3ca9ffe465eceb3d8"
+        },
+        "283750": {
+            "manifests": {
+                "public": {
+                    "gid": "3882827083235074315",
+                    "size": "4734970",
+                    "download": "173419344"
+                },
+                "local": {
+                    "gid": "3882827083235074315",
+                    "size": "4734970",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "283750",
+            "decryptionkey": "80433f58c824080423826ae81a4899e4c120286927fc9097727f838185fcb9eb"
+        },
+        "240980": {
+            "manifests": {
+                "public": {
+                    "gid": "1910256177394167836",
+                    "size": "214965216",
+                    "download": "6143999616"
+                }
+            },
+            "decryptionkey": "74c9201776b7694f64f166c87947270e659d1e23485fc2ac350f6be82add9ffc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "381930"
+            },
+            "local": {
+                "buildid": "229362",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
