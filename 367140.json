@@ -1,0 +1,83 @@
+{
+    "appid": "367140",
+    "type": "Game",
+    "name": "Wish Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25231170",
+    "update_time": "2024-09-15 16:07:16",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "367141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2166190988700108681",
+                    "size": "83915677",
+                    "download": "60528064"
+                },
+                "beta": {
+                    "gid": "2166190988700108681",
+                    "size": "83915677",
+                    "download": "60528064"
+                },
+                "legacy": {
+                    "gid": "3704053481929405507",
+                    "size": "84574879",
+                    "download": "60606848"
+                }
+            },
+            "decryptionkey": "26c017139f5ac45f729cb84483d4a3efe3482bc9d4fb33e11aab545218609cfb"
+        },
+        "367142": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6022479808272307337",
+                    "size": "106309085",
+                    "download": "67066416"
+                },
+                "beta": {
+                    "gid": "6022479808272307337",
+                    "size": "106309085",
+                    "download": "67066416"
+                }
+            },
+            "decryptionkey": "d221f77c1e577f12ae7c62b14a4d8b0be4710a5652738a2e969fa0e3cb58edd0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10474106",
+                "timeupdated": "1675456212"
+            },
+            "beta": {
+                "buildid": "10474106",
+                "description": "For testing the latest build before it goes live.",
+                "timeupdated": "1675456188"
+            },
+            "legacy": {
+                "buildid": "1444448",
+                "description": "Version 2.2.0.",
+                "timeupdated": "1674758340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
