@@ -1,0 +1,101 @@
+{
+    "appid": "239800",
+    "type": "Game",
+    "name": "Bleed",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27850849",
+    "update_time": "2025-03-08 21:11:01",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "239801": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1243561928853160754",
+                    "size": "146451283",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "1243561928853160754",
+                    "size": "146451283",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ed30703ba9e1d8d2991de0897581d7c321b4342a4fd7b1dbe777b9ca1f446f75"
+        },
+        "239802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1338660493300423366",
+                    "size": "92628346",
+                    "download": "47167120"
+                },
+                "linux32": {
+                    "gid": "6582407039663342432",
+                    "size": "76038304",
+                    "download": "42961488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "239803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7586064337957146762",
+                    "size": "80531700",
+                    "download": "44267440"
+                },
+                "linux32": {
+                    "gid": "3140063099675207594",
+                    "size": "101978209",
+                    "download": "50291776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6029207",
+                "timeupdated": "1609454306"
+            },
+            "linux32": {
+                "buildid": "1112117",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609454300"
+            }
+        }
+    }
+}
