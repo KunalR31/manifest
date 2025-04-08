@@ -1,0 +1,65 @@
+{
+    "appid": "267060",
+    "type": "Game",
+    "name": "Gravity Badgers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 14:54:54",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "267061": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4022276831082087288",
+                    "size": "726742288",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1db269864ce8916548ef2f3e81f250fa421ad48f57ea7618df02c56312fcccb8"
+        },
+        "267062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3171791340877966019",
+                    "size": "748586479",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "68e7900151fbda88a6a7d9c1f965b3f259c638556f595577b843e597cc92b535"
+        },
+        "267063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4378155401380895338",
+                    "size": "734993255",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8b8db6a910bb435eb37c407cf770c6d33391991d2029a6c8ce3a31f9d5bd07cb"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "150384"
+            }
+        }
+    }
+}
