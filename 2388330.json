@@ -1,0 +1,80 @@
+{
+    "appid": "2388330",
+    "type": "DLC",
+    "name": "RetroArch - VirtualXT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28283804",
+    "update_time": "2025-04-03 15:46:38",
+    "depot": {
+        "2388330": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2388330",
+            "manifests": {
+                "public": {
+                    "gid": "524343485868664949",
+                    "size": "483690",
+                    "download": "210864"
+                },
+                "nightly": {
+                    "gid": "288291437828742827",
+                    "size": "483693",
+                    "download": "210704"
+                }
+            },
+            "decryptionkey": "172bc8e776350bacaf3d73428ec13ea181d1dca391752e2e7f1013a744e1fecf"
+        },
+        "2388331": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7891060122812939110",
+                    "size": "474818",
+                    "download": "192320"
+                },
+                "nightly": {
+                    "gid": "3420232124036987093",
+                    "size": "474821",
+                    "download": "192320"
+                }
+            },
+            "dlcappid": "2388330",
+            "decryptionkey": "2812d45b291aa7a72564113300eb2d950137846bfe609bb5ab7a2f38d88abb6c"
+        },
+        "2388332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8986930167842329616",
+                    "size": "990514",
+                    "download": "271264"
+                },
+                "nightly": {
+                    "gid": "9205176255989120221",
+                    "size": "990517",
+                    "download": "271264"
+                }
+            },
+            "dlcappid": "2388330",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911315",
+                "timeupdated": "1736093730"
+            },
+            "nightly": {
+                "buildid": "17966272",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1743666389"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
