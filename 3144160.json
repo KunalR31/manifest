@@ -1,0 +1,57 @@
+{
+    "appid": "3144160",
+    "type": "Game",
+    "name": "Return To The Village",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28107292",
+    "update_time": "2025-03-24 19:19:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3144161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7269241850549186706",
+                    "size": "1258457676",
+                    "download": "367249056"
+                },
+                "alpha": {
+                    "gid": "3575903050261042754",
+                    "size": "1451967555",
+                    "download": "446483696"
+                }
+            },
+            "decryptionkey": "e1781e8f8616bb78b0efe22ef2d4105d7893c2903783addcd3835b31110f46f2"
+        },
+        "workshopdepot": "3144160",
+        "branches": {
+            "public": {
+                "buildid": "15715886",
+                "timeupdated": "1726496130"
+            },
+            "alpha": {
+                "buildid": "16887541",
+                "description": "Alpha testing",
+                "timeupdated": "1735761772"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
