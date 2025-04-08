@@ -1,0 +1,80 @@
+{
+    "appid": "1618540",
+    "type": "Game",
+    "name": "Ghost Exorcism INC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25603935",
+    "update_time": "2024-10-09 03:57:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1618541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4133193080472462811",
+                    "size": "19643939942",
+                    "download": "14041158032"
+                },
+                "ghost-exorcism-inc-legacy-2021": {
+                    "gid": "2448793479731472508",
+                    "size": "8303483469",
+                    "download": "3530637376"
+                },
+                "public-test": {
+                    "gid": "4133193080472462811",
+                    "size": "19643939942",
+                    "download": "14041158032"
+                }
+            },
+            "decryptionkey": "bd23a464581d71234d60a9a93530b20637584ea6db55bf465f45c5a2869abac7"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "13880564",
+                "timeupdated": "1711619742"
+            },
+            "ghost-exorcism-inc-legacy-2021": {
+                "buildid": "8250670",
+                "description": "The original version of Ghost Exorcism INC, before the 2.0 overhaul update.",
+                "timeupdated": "1663919350"
+            },
+            "public-test": {
+                "buildid": "13880564",
+                "description": "Public Test Build",
+                "timeupdated": "1711619697"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
