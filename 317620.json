@@ -1,0 +1,75 @@
+{
+    "appid": "317620",
+    "type": "Game",
+    "name": "Space Hulk Ascension",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-18 05:05:57",
+    "depot": {
+        "317621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5555343510617752963",
+                    "size": "17881406000",
+                    "download": "4153838880"
+                },
+                "public_test": {
+                    "gid": "5555343510617752963",
+                    "size": "17881406000",
+                    "download": "4153838880"
+                }
+            },
+            "decryptionkey": "9e8f85b5198c26753388f8d7143d064a474b1dd5819cf321e058909fed8b8184"
+        },
+        "317622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2878974164807974288",
+                    "size": "17878691603",
+                    "download": "4152286528"
+                },
+                "public_test": {
+                    "gid": "2878974164807974288",
+                    "size": "17878691603",
+                    "download": "4152286528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "317623": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3108992160128896019",
+                    "size": "17875005772",
+                    "download": "4150607072"
+                },
+                "public_test": {
+                    "gid": "3108992160128896019",
+                    "size": "17875005772",
+                    "download": "4150607072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1011392"
+            },
+            "public_test": {
+                "buildid": "1011392",
+                "description": "Public test builds"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
