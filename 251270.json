@@ -1,0 +1,70 @@
+{
+    "appid": "251270",
+    "type": "Game",
+    "name": "Corpse Party",
+    "schinese_name": "尸体派对",
+    "isfreeapp": "0",
+    "change_number": "27731562",
+    "update_time": "2025-03-01 17:22:17",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251271": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4496399377229590460",
+                    "size": "933825928",
+                    "download": "735673904"
+                }
+            },
+            "decryptionkey": "665a364527f3f0ab2a5cbf967946df827610400239c9ce3da5565093078bb606"
+        },
+        "251272": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8694273456372500890",
+                    "size": "4387548",
+                    "download": "1325248"
+                }
+            },
+            "decryptionkey": "7bec28fea0361d7b1b81dab4ecf3bc0afce747c6276b276b1d5b0bbcf846bed3"
+        },
+        "251273": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "665249224512627082",
+                    "size": "265823252",
+                    "download": "92271056"
+                }
+            },
+            "decryptionkey": "d9148b0fc990c89869262f3794ae48409f356382252dbc4b1803a688effcfacc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2379839",
+                "timeupdated": "1513643893"
+            }
+        }
+    }
+}
