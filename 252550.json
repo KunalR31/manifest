@@ -1,0 +1,135 @@
+{
+    "appid": "252550",
+    "type": "Game",
+    "name": "Qbeh-1: The Atlas Cube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26807123",
+    "update_time": "2024-12-29 06:52:51",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "252550",
+        "hasdepotsindlc": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "252553": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2684836263106808186",
+                    "size": "3033337231",
+                    "download": "804433744"
+                },
+                "1.1.3a": {
+                    "gid": "900928810283209428",
+                    "size": "2998158838",
+                    "download": "204879560880"
+                },
+                "rift_beta": {
+                    "gid": "3881936601998303979",
+                    "size": "2999412482",
+                    "download": "162542778968"
+                }
+            },
+            "decryptionkey": "ac364a5278ef4d9965b49d0e2386f76fa530b6ab0387a3a31c207b755a4b779d"
+        },
+        "252552": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "651343262028025236",
+                    "size": "3021506446",
+                    "download": "248644601069"
+                },
+                "1.1.3a": {
+                    "gid": "651343262028025236",
+                    "size": "3021506446",
+                    "download": "248644601069"
+                },
+                "rift_beta": {
+                    "gid": "651343262028025236",
+                    "size": "3021506446",
+                    "download": "108147778263"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "252554": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7104645968652087868",
+                    "size": "3085143170",
+                    "download": "813961696"
+                },
+                "1.1.3a": {
+                    "gid": "4661310923909834645",
+                    "size": "2992177585",
+                    "download": "143244642243"
+                },
+                "rift_beta": {
+                    "gid": "4026836803966127757",
+                    "size": "3050872315",
+                    "download": "189386567215"
+                }
+            },
+            "decryptionkey": "e32fc0b648362e6ae1bad556f3e18aeebfbfaf50388860be7bc3aadc68cbe461"
+        },
+        "252555": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "344211": {
+            "dlcappid": "344210",
+            "manifests": {
+                "public": {
+                    "gid": "8629010914341608556",
+                    "size": "239117392",
+                    "download": "236374176"
+                },
+                "1.1.3a": {
+                    "gid": "6422438731826333754",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "344210": {
+            "dlcappid": "344210"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1856921",
+                "timeupdated": "1496319517"
+            },
+            "1.1.3a": {
+                "buildid": "781801"
+            },
+            "rift_beta": {
+                "buildid": "366421",
+                "description": "Oculus Rift 0.4.2"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "7dbe17edc196c7b8d5bb09ef9d44dd73b2b949cdc7fb9b56ab0dbe0859a38584"
+    }
+}
