@@ -1,0 +1,77 @@
+{
+    "appid": "331810",
+    "type": "Game",
+    "name": "Lost Region",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 03:43:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "331811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4841650749262768644",
+                    "size": "40221548490",
+                    "download": "15283678560"
+                },
+                "public-test": {
+                    "gid": "896498250822357669",
+                    "size": "46589676195",
+                    "download": "16914964656"
+                }
+            },
+            "decryptionkey": "9a2dabb15be3b857f2e66a1ebe8ed08f8977f938d5b391f0e81092b64f1070b9"
+        },
+        "331812": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "331813": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5929570",
+                "timeupdated": "1607386138"
+            },
+            "public-test": {
+                "buildid": "7791219",
+                "description": "Public Test Branch",
+                "timeupdated": "1638131532"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
