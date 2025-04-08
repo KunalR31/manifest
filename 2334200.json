@@ -1,0 +1,75 @@
+{
+    "appid": "2334200",
+    "type": "Tool",
+    "name": "The Front Linux Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27037995",
+    "update_time": "2025-01-17 15:04:36",
+    "depot": {
+        "baselanguages": "english",
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "2334201": {
+            "config": {
+                "language": "english",
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2280801278843499243",
+                    "size": "2988393741",
+                    "download": "2732874256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17437276",
+                "timeupdated": "1740121457"
+            }
+        }
+    }
+}
