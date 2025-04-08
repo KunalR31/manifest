@@ -1,0 +1,81 @@
+{
+    "appid": "228300",
+    "type": "Game",
+    "name": "Remember Me",
+    "schinese_name": "勿忘我",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:36",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,brazilian",
+        "markdlcdepots": "0",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1599610853829935986",
+                    "size": "7222119302",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6710664793520884399",
+                    "size": "7221991832",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7c4a97797cc41611893bd11617023023d54800e431ba6482ac9386da35ab6602"
+        },
+        "229004": {},
+        "237800": {
+            "manifests": {
+                "public": {
+                    "gid": "2957887674319594306",
+                    "size": "224312",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "237800",
+            "decryptionkey": "ede5043264b54c2cd36d6d1ea2076ad74843779c3c1a4ab4dcf7048595fea44e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "80891"
+            },
+            "local": {
+                "buildid": "98801",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
