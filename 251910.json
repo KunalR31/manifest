@@ -1,0 +1,83 @@
+{
+    "appid": "251910",
+    "type": "Game",
+    "name": "Solar Flux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 10:41:26",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3668952083921659203",
+                    "size": "167255457",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "685849861697353810",
+                    "size": "167875131",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "84c8279a16af4af4cb9e98ee30c366b777fe5b50a58187365a124b5d2dd38133"
+        },
+        "251912": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2630259363782648277",
+                    "size": "219498278",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "509c989c6edafb10a3de3274d2b0ee13459dbc0826a02041e0809b6da847aea5"
+        },
+        "251913": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2083509880220739680",
+                    "size": "173899932",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f11462dc16ef31794f1af3f787485715fa334a34b10346f4bfe2e1d636bf76ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "168080"
+            },
+            "local": {
+                "buildid": "117084",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
