@@ -1,0 +1,65 @@
+{
+    "appid": "2011900",
+    "type": "Game",
+    "name": "Zero Wing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27391468",
+    "update_time": "2025-02-10 06:27:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2011901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5899531807788862839",
+                    "size": "3100681",
+                    "download": "2472848"
+                }
+            },
+            "decryptionkey": "525e96f6aaa771df607fd5cbfdd485ff94bfe695b2b548386921de41c1ca27d9"
+        },
+        "2011902": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6111200666016789651",
+                    "size": "5025174",
+                    "download": "1876688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2011903": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1273476773868645350",
+                    "size": "3602224",
+                    "download": "1568192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14082564",
+                "timeupdated": "1713356884"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
