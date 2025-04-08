@@ -1,0 +1,60 @@
+{
+    "appid": "3186100",
+    "type": "Demo",
+    "name": "Reflex Unit : Strike Ops Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26440659",
+    "update_time": "2024-12-05 09:03:19",
+    "depot": {
+        "3186101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3507577048240352910",
+                    "size": "1586259784",
+                    "download": "1096641472"
+                },
+                "online_coop": {
+                    "gid": "7932757910484848675",
+                    "size": "1586259784",
+                    "download": "1096641072"
+                }
+            },
+            "decryptionkey": "3904a5c55213ca36d4ec23d54c9d32815ef7c433dd0ce306aa30c135a2c8341d"
+        },
+        "3186102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8605066068782590809",
+                    "size": "1507797869",
+                    "download": "1058179408"
+                },
+                "online_coop": {
+                    "gid": "4485193429131341683",
+                    "size": "1507797869",
+                    "download": "1058179936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16197768",
+                "timeupdated": "1730040318"
+            },
+            "online_coop": {
+                "buildid": "16197828",
+                "description": "Beta version for online coop mode",
+                "timeupdated": "1730041113"
+            }
+        }
+    }
+}
