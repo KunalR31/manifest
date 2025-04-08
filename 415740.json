@@ -1,0 +1,99 @@
+{
+    "appid": "415740",
+    "type": "Game",
+    "name": "OmniBus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27110810",
+    "update_time": "2025-01-22 19:26:56",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "415741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1125323275182563024",
+                    "size": "168284581",
+                    "download": "66222960"
+                },
+                "controltest": {
+                    "gid": "1377626383987558174",
+                    "size": "168271085",
+                    "download": "66228576"
+                }
+            },
+            "decryptionkey": "cdfa04cc42e7ed60ad241d54edf53068a898934c8022a8aa610aa79090bfa55c"
+        },
+        "415742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1232294012338352874",
+                    "size": "193960105",
+                    "download": "73273712"
+                },
+                "controltest": {
+                    "gid": "3876714282620241414",
+                    "size": "193946609",
+                    "download": "73270976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "415743": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6593034233310636982",
+                    "size": "196367427",
+                    "download": "74778880"
+                },
+                "controltest": {
+                    "gid": "6447044830260906489",
+                    "size": "196353931",
+                    "download": "74775744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "415744": {
+            "manifests": {
+                "public": {
+                    "gid": "8098054300510317482",
+                    "size": "42459152",
+                    "download": "39692752"
+                },
+                "controltest": {
+                    "gid": "8098054300510317482",
+                    "size": "42459152",
+                    "download": "39692752"
+                }
+            },
+            "decryptionkey": "f29293fe67bd46ce4f62f2d4e2feae295a91e1f2c0b868126c79775ee2e5eb48"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1191550",
+                "timeupdated": "1466613018"
+            },
+            "controltest": {
+                "buildid": "1168896",
+                "timeupdated": "1465331661"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
