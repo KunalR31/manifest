@@ -1,0 +1,123 @@
+{
+    "appid": "505330",
+    "type": "Game",
+    "name": "Apocalipsis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23692818",
+    "update_time": "2024-05-26 03:13:30",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "505331": {
+            "manifests": {
+                "public": {
+                    "gid": "6695299851720289751",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7070261765599479271",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "9170193675244018410",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "54f38b36afe49fa81bb071378374cbfe1d97c50b7727080ef88f77caf44fd033"
+        },
+        "505332": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2797121493803434879",
+                    "size": "3935444678",
+                    "download": "985950912"
+                },
+                "beta": {
+                    "gid": "7433809873130937039",
+                    "size": "3606112085",
+                    "download": "822591120"
+                },
+                "local": {
+                    "gid": "1481423388009651317",
+                    "size": "3465495181",
+                    "download": "821192656"
+                }
+            },
+            "decryptionkey": "01a289d5834eefb1479b8aa1706902563045c1f7f1216b6929a629f52936b476"
+        },
+        "505333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1325109306892046156",
+                    "size": "4084391126",
+                    "download": "991936288"
+                },
+                "beta": {
+                    "gid": "2519840933919254953",
+                    "size": "3486471162",
+                    "download": "817760160"
+                },
+                "local": {
+                    "gid": "5423084927855063796",
+                    "size": "3480067998",
+                    "download": "817379216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "813500": {
+            "dlcappid": "813500",
+            "manifests": {
+                "public": {
+                    "gid": "6650998372482002497",
+                    "size": "378978171",
+                    "download": "351687824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "921870": {
+            "dlcappid": "921870"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3121751",
+                "timeupdated": "1536931636"
+            },
+            "beta": {
+                "buildid": "2557355",
+                "description": "beta branch",
+                "timeupdated": "1519656048"
+            },
+            "local": {
+                "buildid": "2521636",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1518523012"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
