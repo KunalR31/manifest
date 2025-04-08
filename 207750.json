@@ -1,0 +1,113 @@
+{
+    "appid": "207750",
+    "type": "Game",
+    "name": "Symphony",
+    "schinese_name": "自由交响",
+    "isfreeapp": "0",
+    "change_number": "22585260",
+    "update_time": "2024-05-31 01:26:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "207751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2397687909826622683",
+                    "size": "424717953",
+                    "download": "315074816"
+                },
+                "beta_loggin_f": {
+                    "gid": "3709517590768531476",
+                    "size": "424716417",
+                    "download": "315073552"
+                },
+                "p_test": {
+                    "gid": "1813648556947799402",
+                    "size": "370919996",
+                    "download": "302745696"
+                }
+            },
+            "decryptionkey": "002f2eb9a72e805b68f82a48e55e95f306f624f44584456ca08d9463ab924d83"
+        },
+        "207752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2419917772778050953",
+                    "size": "490106382",
+                    "download": "277495392"
+                },
+                "beta_loggin_f": {
+                    "gid": "2419917772778050953",
+                    "size": "490106382",
+                    "download": "277495392"
+                },
+                "p_test": {
+                    "gid": "229507559843302617",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "207753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6744107067409347205",
+                    "size": "415093368",
+                    "download": "277918576"
+                },
+                "beta_loggin_f": {
+                    "gid": "6744107067409347205",
+                    "size": "415093368",
+                    "download": "277918576"
+                },
+                "p_test": {
+                    "gid": "1646996725991420924",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1377797",
+                "timeupdated": "1475764420"
+            },
+            "beta_loggin_f": {
+                "buildid": "1374271",
+                "description": "Build with logging enabled (and potentially other experimental features!)",
+                "timeupdated": "1475630669"
+            },
+            "p_test": {
+                "buildid": "10834552",
+                "description": "Private Testing",
+                "timeupdated": "1679538783"
+            }
+        }
+    }
+}
