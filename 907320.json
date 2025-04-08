@@ -1,0 +1,56 @@
+{
+    "appid": "907320",
+    "type": "Game",
+    "name": "Three Kingdoms: Legends of Heroes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-05-27 09:32:44",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "907321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8265794364350187165",
+                    "size": "355293130",
+                    "download": "258720912"
+                }
+            },
+            "decryptionkey": "7bf2208acd3d8e13f777182e31deec5a5b6006301ee7337930896e079047399e"
+        },
+        "978080": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "978080"
+            },
+            "dlcappid": "978080",
+            "manifests": {
+                "public": {
+                    "gid": "5906569315513806527",
+                    "size": "338621721",
+                    "download": "251671520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "907322": {
+            "dlcappid": "978080",
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "978080"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4310611",
+                "timeupdated": "1571726665"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
