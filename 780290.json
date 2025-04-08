@@ -1,0 +1,97 @@
+{
+    "appid": "780290",
+    "type": "Game",
+    "name": "Gloomhaven",
+    "schinese_name": "幽港迷城",
+    "isfreeapp": "0",
+    "change_number": "28228608",
+    "update_time": "2025-03-31 21:15:30",
+    "depot": {
+        "workshopdepot": "780290",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "780291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6663914335315734976",
+                    "size": "17802702647",
+                    "download": "14369269344"
+                },
+                "beta_march2024": {
+                    "gid": "6663914335315734976",
+                    "size": "17802702647",
+                    "download": "14369269344"
+                },
+                "v28009": {
+                    "gid": "451972726176739735",
+                    "size": "14021630988",
+                    "download": "9337701328"
+                }
+            },
+            "decryptionkey": "556d7497acead556deb456600974b551adc59260250f1973267ad37ae195d1a5"
+        },
+        "780292": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "780293": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3109774499374742858",
+                    "size": "17821249305",
+                    "download": "14356009776"
+                },
+                "beta_march2024": {
+                    "gid": "3109774499374742858",
+                    "size": "17821249305",
+                    "download": "14356009776"
+                },
+                "v28009": {
+                    "gid": "8823267377484675412",
+                    "size": "13993051856",
+                    "download": "9328030992"
+                }
+            },
+            "decryptionkey": "12f6ead505a8cbecc6ad3d247b35354e6c1e559719461616ca1411cf624f2e65"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "13715519",
+                "timeupdated": "1712740649"
+            },
+            "beta_march2024": {
+                "buildid": "13715519",
+                "description": "beta version for community testing",
+                "timeupdated": "1710927169"
+            },
+            "v28009": {
+                "buildid": "9540540",
+                "description": "v28009 - Pre-crossplay branch",
+                "timeupdated": "1695127764"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a17ff0bc9bd5a6022982623bae0ff2c4cc160e88802ad3e1cb3acc8c2a9fee16"
+    }
+}
