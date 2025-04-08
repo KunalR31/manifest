@@ -1,0 +1,64 @@
+{
+    "appid": "223870",
+    "type": "Game",
+    "name": "Ys II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27398323",
+    "update_time": "2025-02-10 18:26:02",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "223871": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3168772438733616105",
+                    "size": "1435813619",
+                    "download": "1322108928"
+                },
+                "2018-05-30": {
+                    "gid": "3466032119280706423",
+                    "size": "1437424939",
+                    "download": "1322193952"
+                },
+                "2020-08-10": {
+                    "gid": "2609633212447310565",
+                    "size": "1437428011",
+                    "download": "1322194352"
+                }
+            },
+            "decryptionkey": "fef5279a8964683ac2065842cd49f61543b1d27368b72c3bb570608bbdcd3c1e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "7966315",
+                "timeupdated": "1641249626"
+            },
+            "2018-05-30": {
+                "buildid": "2820945",
+                "description": "May 30th, 2018 version",
+                "timeupdated": "1597050982"
+            },
+            "2020-08-10": {
+                "buildid": "5392161",
+                "description": "August 10th, 2020 version",
+                "timeupdated": "1641249334"
+            }
+        }
+    }
+}
