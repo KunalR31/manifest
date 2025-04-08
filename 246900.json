@@ -1,0 +1,129 @@
+{
+    "appid": "246900",
+    "type": "Game",
+    "name": "Viscera Cleanup Detail",
+    "schinese_name": "内脏清洁工",
+    "isfreeapp": "0",
+    "change_number": "27734897",
+    "update_time": "2025-03-02 01:22:52",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "246900",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "246901": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7395860322218314333",
+                    "size": "4359193969",
+                    "download": "3008613088"
+                },
+                "local": {
+                    "gid": "3898294715577898092",
+                    "size": "5727120772",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d2ee8c17262a1b1f88c3f44fdc38593575d39f48778f840d5aba990f33690dcb"
+        },
+        "246902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5556939200676138839",
+                    "size": "3218087954",
+                    "download": "2648731024"
+                }
+            },
+            "decryptionkey": "4a9745e9f6a784242eabb42020119de6c7070b45a616d307d055f35f8ef42b90"
+        },
+        "413160": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "413160",
+            "manifests": {
+                "public": {
+                    "gid": "1602724265478451695",
+                    "size": "425309901",
+                    "download": "283926688"
+                }
+            },
+            "decryptionkey": "7050a5a62a7f6956b16ba2f97473d16f44150078a150425115d95309f0d961f2"
+        },
+        "413161": {
+            "dlcappid": "413160",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8273550113017253736",
+                    "size": "22717415",
+                    "download": "17512960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "982110": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "982110",
+            "manifests": {
+                "public": {
+                    "gid": "334312016363805832",
+                    "size": "574041647",
+                    "download": "366900816"
+                }
+            },
+            "decryptionkey": "82940d420adbbbe4fe82ee291da4c99e1e67ebd4dbf18ac31f12f0184b404382"
+        },
+        "982111": {
+            "dlcappid": "982110",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741593886305120790",
+                    "size": "24283359",
+                    "download": "18654656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6199993",
+                "timeupdated": "1612613605"
+            },
+            "local": {
+                "buildid": "117184",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4aeafb2a63f287d4beeb539dcf3d70f19a02aa1465c01fbd91387cbf000375fd"
+    }
+}
