@@ -1,0 +1,63 @@
+{
+    "appid": "202270",
+    "type": "Game",
+    "name": "Leviathan: Warships",
+    "schinese_name": "海上巨兽：战舰",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-04 05:43:16",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "202271": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5333283457124468480",
+                    "size": "708179835",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "90772e2664092cd495b590dea7c089de95cade98062d724d35a522d30d0b065c"
+        },
+        "202272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7879360640761652201",
+                    "size": "687518117",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "236310": {
+            "dlcappid": "236310"
+        },
+        "branches": {
+            "public": {
+                "buildid": "110952"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
