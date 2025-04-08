@@ -1,0 +1,61 @@
+{
+    "appid": "731040",
+    "type": "Game",
+    "name": "The Invincible",
+    "schinese_name": "无敌号",
+    "isfreeapp": "0",
+    "change_number": "28334067",
+    "update_time": "2025-04-07 01:10:48",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "731041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5191937033135664440",
+                    "size": "41624468117",
+                    "download": "16081902576"
+                }
+            },
+            "decryptionkey": "82179143c4f409cdc0851cf2530e75f827cc5ce893e9eb95859146139ecf7f01"
+        },
+        "2622920": {
+            "dlcappid": "2622920",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4948431889033453377",
+                    "size": "215592215",
+                    "download": "126285520"
+                }
+            },
+            "decryptionkey": "14917a90d1ac4fc46a4819fac3edaa31e63643f67fa7e33af624d7893a36e89a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16999700",
+                "timeupdated": "1737385030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
