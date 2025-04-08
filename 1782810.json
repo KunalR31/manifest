@@ -1,0 +1,75 @@
+{
+    "appid": "1782810",
+    "type": "Game",
+    "name": "Software Company",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27972532",
+    "update_time": "2025-03-15 21:24:21",
+    "depot": {
+        "baselanguages": "english,german",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1782812": {
+            "manifests": {
+                "public": {
+                    "gid": "6741806973409318481",
+                    "size": "3495561213",
+                    "download": "1818796096"
+                },
+                "testing-environment": {
+                    "gid": "6741806973409318481",
+                    "size": "3495561213",
+                    "download": "1818796096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1782813": {
+            "manifests": {
+                "public": {
+                    "gid": "2661126277185492582",
+                    "size": "3517005446",
+                    "download": "1823906128"
+                },
+                "testing-environment": {
+                    "gid": "2661126277185492582",
+                    "size": "3517005446",
+                    "download": "1823906128"
+                }
+            },
+            "decryptionkey": "a7ae17631548bfd6d1fffd2ac5465ca83db14cfd14b557ecb5d12ddc9997e230"
+        },
+        "1782811": {
+            "manifests": {
+                "public": {
+                    "gid": "2269882205026188274",
+                    "size": "3591136992",
+                    "download": "1840692672"
+                },
+                "testing-environment": {
+                    "gid": "4582718189252219416",
+                    "size": "3524292197",
+                    "download": "1826078112"
+                }
+            },
+            "decryptionkey": "b3ca99829645034b61c3e8be0cdf80bcc59983372a34b3567899cc21c562ba19"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11595424",
+                "timeupdated": "1688106124"
+            },
+            "testing-environment": {
+                "buildid": "11070914",
+                "description": "for testing and bug-tracking",
+                "timeupdated": "1682260280"
+            }
+        }
+    }
+}
