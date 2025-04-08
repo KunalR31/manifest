@@ -1,0 +1,90 @@
+{
+    "appid": "2164310",
+    "type": "Game",
+    "name": "Escape From Lavender Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28116513",
+    "update_time": "2025-03-25 04:15:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2164311": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4004992443643896260",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4004992443643896260",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b8e2d93043198b095f32ee6a60fcac8d6ac1e2a01de48a927adc36ea279cd7ac"
+        },
+        "2164312": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "932785357790941921",
+                    "size": "2179217047",
+                    "download": "866269840"
+                },
+                "beta": {
+                    "gid": "932785357790941921",
+                    "size": "2179217047",
+                    "download": "866269840"
+                }
+            },
+            "decryptionkey": "78913506cd63f080ce97b84e26a5b325885df177870d9f43d48deaecafa0b6f8"
+        },
+        "2164313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7046186301072319877",
+                    "size": "2122923660",
+                    "download": "793238112"
+                },
+                "beta": {
+                    "gid": "7046186301072319877",
+                    "size": "2122923660",
+                    "download": "793238112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15473587",
+                "timeupdated": "1725817956"
+            },
+            "beta": {
+                "buildid": "15473587",
+                "description": "to test builds of the game before going on default branch",
+                "timeupdated": "1724424851"
+            }
+        }
+    }
+}
