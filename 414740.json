@@ -1,0 +1,62 @@
+{
+    "appid": "414740",
+    "type": "Game",
+    "name": "RAID: World War II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28208115",
+    "update_time": "2025-03-30 01:26:37",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "414741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "975292413104057411",
+                    "size": "12290895293",
+                    "download": "11224605296"
+                }
+            },
+            "decryptionkey": "ff8f400443edb658fefc39c3014ae7265c3fb432677ae79e767f11c98afbef6c"
+        },
+        "707081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "707080",
+            "manifests": {
+                "public": {
+                    "gid": "3048988680620135682",
+                    "size": "203581353",
+                    "download": "199114752"
+                }
+            },
+            "decryptionkey": "f50e65e650663e1e56a87ae26e05a1d7d59d477a85329af1711ec3317c6707c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17745448",
+                "timeupdated": "1742411545"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
