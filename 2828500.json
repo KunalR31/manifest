@@ -1,0 +1,84 @@
+{
+    "appid": "2828500",
+    "type": "Application",
+    "name": "The Jackbox Megapicker",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28329597",
+    "update_time": "2025-04-06 13:10:31",
+    "depot": {
+        "baselanguages": "english",
+        "2828507": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2649282659226573301",
+                    "size": "333337326",
+                    "download": "108892496"
+                },
+                "beta": {
+                    "gid": "521830851390515149",
+                    "size": "344878302",
+                    "download": "110525696"
+                }
+            }
+        },
+        "2828503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "51229142785151259",
+                    "size": "499826602",
+                    "download": "157069744"
+                },
+                "beta": {
+                    "gid": "3770478293477869876",
+                    "size": "512076519",
+                    "download": "159070864"
+                }
+            }
+        },
+        "2828504": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5738210687486113366",
+                    "size": "333903322",
+                    "download": "103412992"
+                },
+                "beta": {
+                    "gid": "5845320631364469975",
+                    "size": "345444331",
+                    "download": "104980032"
+                }
+            }
+        },
+        "2828508": {
+            "manifests": {
+                "public": {
+                    "gid": "5145691608909662874",
+                    "size": "2021",
+                    "download": "848"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16476862",
+                "timeupdated": "1732131164"
+            },
+            "beta": {
+                "buildid": "16764936",
+                "description": "A branch for allowing public testing of in-progress features",
+                "timeupdated": "1734389920"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
