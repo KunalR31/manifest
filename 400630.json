@@ -1,0 +1,168 @@
+{
+    "appid": "400630",
+    "type": "Game",
+    "name": "Wuppo - Definitive Edition",
+    "schinese_name": "Wuppo巫姆",
+    "isfreeapp": "0",
+    "change_number": "28187887",
+    "update_time": "2025-03-28 18:01:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "400631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6813783885819333021",
+                    "size": "1068484415",
+                    "download": "986616192"
+                },
+                "classic": {
+                    "gid": "6820172880839728707",
+                    "size": "552017431",
+                    "download": "435701968"
+                },
+                "beta": {
+                    "gid": "6813783885819333021",
+                    "size": "1068484415",
+                    "download": "986616192"
+                },
+                "revert": {
+                    "gid": "7849425464653094702",
+                    "size": "1060627752",
+                    "download": "977792048"
+                }
+            },
+            "decryptionkey": "2cc748e997524001018f71812a352a56eb88ebef11152dc8a5314db7fabe9caa"
+        },
+        "527020": {
+            "dlcappid": "527020",
+            "manifests": {
+                "public": {
+                    "gid": "5281358629624137735",
+                    "size": "596063096",
+                    "download": "563914224"
+                },
+                "classic": {
+                    "gid": "7532314770585007973",
+                    "size": "536895877",
+                    "download": "513124096"
+                },
+                "beta": {
+                    "gid": "5281358629624137735",
+                    "size": "596063096",
+                    "download": "563914224"
+                },
+                "revert": {
+                    "gid": "5281358629624137735",
+                    "size": "596063096",
+                    "download": "563914224"
+                }
+            },
+            "decryptionkey": "8f3eecb3a733a28d7c837e66cf1add7500ce34dd1b5dea6bcd7a953e117b2535"
+        },
+        "527021": {
+            "dlcappid": "527021",
+            "manifests": {
+                "public": {
+                    "gid": "4750121261931026516",
+                    "size": "203124892",
+                    "download": "199063760"
+                },
+                "classic": {
+                    "gid": "4750121261931026516",
+                    "size": "203124892",
+                    "download": "199063760"
+                },
+                "beta": {
+                    "gid": "4750121261931026516",
+                    "size": "203124892",
+                    "download": "199063760"
+                },
+                "revert": {
+                    "gid": "4750121261931026516",
+                    "size": "203124892",
+                    "download": "199063760"
+                }
+            },
+            "decryptionkey": "7eddd175701d7ca6516a707f2d8aac27edba181fa15d3961ebc689b7c3020713"
+        },
+        "527022": {
+            "dlcappid": "527022",
+            "manifests": {
+                "public": {
+                    "gid": "7257687811074518651",
+                    "size": "25",
+                    "download": "80"
+                },
+                "classic": {
+                    "gid": "2608969522624357332",
+                    "size": "25",
+                    "download": "80"
+                },
+                "beta": {
+                    "gid": "7257687811074518651",
+                    "size": "25",
+                    "download": "80"
+                },
+                "revert": {
+                    "gid": "2608969522624357332",
+                    "size": "25",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "618db311666d98b8119c5fea811246ea0f8819bfbdaabc215b8d99dd5dfd7583"
+        },
+        "400632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2735234126411514084",
+                    "size": "458764268",
+                    "download": "391836384"
+                },
+                "beta": {
+                    "gid": "2735234126411514084",
+                    "size": "458764268",
+                    "download": "391836384"
+                },
+                "revert": {
+                    "gid": "2735234126411514084",
+                    "size": "458764268",
+                    "download": "391836384"
+                }
+            },
+            "decryptionkey": "53551a2304e87b9a0b5e326056df25c38557a1f7984dafd0d3b2a442e3cc48ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17204181",
+                "timeupdated": "1738355627"
+            },
+            "classic": {
+                "buildid": "3302867",
+                "timeupdated": "1566913672"
+            },
+            "beta": {
+                "buildid": "17204181",
+                "description": "Beta testing",
+                "timeupdated": "1738355370"
+            },
+            "revert": {
+                "buildid": "13558865",
+                "description": "Revert to the previous version of the game",
+                "timeupdated": "1738139470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
