@@ -1,0 +1,73 @@
+{
+    "appid": "251410",
+    "type": "Game",
+    "name": "Dark Matter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27763247",
+    "update_time": "2025-03-04 07:12:16",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "251411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "348517869443261381",
+                    "size": "1102909091",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f537189b945d51b932decffe50a0679421b79d5b9cbf01e7d11b205ad018eb3e"
+        },
+        "251412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1493128741518762230",
+                    "size": "1119550571",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "81a4262a6c6a680ee5f54b8ad577a808eae3acd37fcb87a41a3d2b8284923385"
+        },
+        "251413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6519888732572269157",
+                    "size": "1126609570",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3558a0eaa99d3f02cba9af5fa20c46f036553b0c3491280fcd3f145922054674"
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "136069"
+            }
+        }
+    }
+}
