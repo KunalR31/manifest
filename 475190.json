@@ -1,0 +1,77 @@
+{
+    "appid": "475190",
+    "type": "Game",
+    "name": "Scanner Sombre",
+    "schinese_name": "幽暗扫描",
+    "isfreeapp": "0",
+    "change_number": "28037045",
+    "update_time": "2025-03-20 01:20:53",
+    "depot": {
+        "475191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9005822012803358118",
+                    "size": "4450573752",
+                    "download": "1648122592"
+                },
+                "beta": {
+                    "gid": "234863080201828868",
+                    "size": "4458980513",
+                    "download": "1649584560"
+                }
+            },
+            "decryptionkey": "94c188d9a814e7ec92ad8471b98d0359e89f13b5c942f29d5ff2f400bab30a2a"
+        },
+        "475192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6226416126782250272",
+                    "size": "3141743655",
+                    "download": "1195671600"
+                },
+                "beta": {
+                    "gid": "6226416126782250272",
+                    "size": "3141743655",
+                    "download": "1195671600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "475193": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4447063335634024223",
+                    "size": "3122814456",
+                    "download": "1190494272"
+                },
+                "beta": {
+                    "gid": "4447063335634024223",
+                    "size": "3122814456",
+                    "download": "1190494272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15729413",
+                "timeupdated": "1726650094"
+            },
+            "beta": {
+                "buildid": "15729852",
+                "description": "Public beta testing branch",
+                "timeupdated": "1726650873"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
