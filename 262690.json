@@ -1,0 +1,121 @@
+{
+    "appid": "262690",
+    "type": "Game",
+    "name": "Little Racers STREET",
+    "schinese_name": "街头小车手",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 13:43:52",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "262691": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7936879963863729016",
+                    "size": "72724266",
+                    "download": "67740896"
+                },
+                "beta": {
+                    "gid": "7936879963863729016",
+                    "size": "72724266",
+                    "download": "67740896"
+                },
+                "windows_fna": {
+                    "gid": "6405553939957138966",
+                    "size": "94984834",
+                    "download": "85913168"
+                }
+            },
+            "decryptionkey": "b9e718382b6f41d96f3f58b7bd96a0ffa24c3e1ea81256aaa43a6c13d1def766"
+        },
+        "262692": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1839548474501521367",
+                    "size": "120203857",
+                    "download": "93600944"
+                },
+                "beta": {
+                    "gid": "1839548474501521367",
+                    "size": "120203857",
+                    "download": "93600944"
+                },
+                "windows_fna": {
+                    "gid": "1839548474501521367",
+                    "size": "120203857",
+                    "download": "93600944"
+                }
+            },
+            "decryptionkey": "9fe0c9612aa526ba9d64741e925578ac84db1470e4eab23f2f0297de04589f1e"
+        },
+        "262693": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495159810955369500",
+                    "size": "120999841",
+                    "download": "93485552"
+                },
+                "beta": {
+                    "gid": "495159810955369500",
+                    "size": "120999841",
+                    "download": "93485552"
+                },
+                "windows_fna": {
+                    "gid": "495159810955369500",
+                    "size": "120999841",
+                    "download": "93485552"
+                }
+            },
+            "decryptionkey": "391a6096201b18c03eb68c9499342a9690b47330a3af058583b255b9fd188146"
+        },
+        "baselanguages": "english,spanish",
+        "branches": {
+            "public": {
+                "buildid": "4659189",
+                "timeupdated": "1581328120"
+            },
+            "beta": {
+                "buildid": "4659189",
+                "description": "Beta branch",
+                "timeupdated": "1581328147"
+            },
+            "windows_fna": {
+                "buildid": "5421122",
+                "description": "Alternative Framework (OpenGL)",
+                "timeupdated": "1597655008"
+            }
+        }
+    }
+}
