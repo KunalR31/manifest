@@ -1,0 +1,74 @@
+{
+    "appid": "487000",
+    "type": "Game",
+    "name": "Quest Hunter",
+    "schinese_name": "使命猎人",
+    "isfreeapp": "0",
+    "change_number": "26628923",
+    "update_time": "2024-12-13 20:08:33",
+    "depot": {
+        "baselanguages": "english,german,french,schinese,russian",
+        "hasdepotsindlc": "1",
+        "487001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5683325663292744297",
+                    "size": "1958284786",
+                    "download": "493459200"
+                }
+            },
+            "decryptionkey": "0eee28a68c6c5f37cb8218918c26c2c9b1ee45d7f7cccb0ece2ad58ff0def28b"
+        },
+        "487002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "580521001199846288",
+                    "size": "1984352856",
+                    "download": "502191216"
+                }
+            },
+            "decryptionkey": "5f769e7594723b0a94f9e7d0c141cc1a01d978e81cb21dd34191245a2d6c9a1b"
+        },
+        "487003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7928726223841838642",
+                    "size": "2001561632",
+                    "download": "493572464"
+                }
+            },
+            "decryptionkey": "5d05dddbfa8504e7e8e98f8b0e6106b3661206c9f23975ed18c77e5be700bd23"
+        },
+        "487004": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6578316811674138180",
+                    "size": "1949968882",
+                    "download": "490837136"
+                }
+            },
+            "decryptionkey": "fa46c2be4bce6763f4f57605440f9e085eee24fb24246a62b1651d838a8d89f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10453862",
+                "timeupdated": "1675269837"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
