@@ -1,0 +1,61 @@
+{
+    "appid": "699330",
+    "type": "Game",
+    "name": "The Iron Oath",
+    "schinese_name": "钢铁誓言",
+    "isfreeapp": "0",
+    "change_number": "27422964",
+    "update_time": "2025-02-11 23:49:52",
+    "depot": {
+        "workshopdepot": "699330",
+        "699331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1622296370997845999",
+                    "size": "1759613778",
+                    "download": "513217200"
+                },
+                "public_test": {
+                    "gid": "8745746481154587055",
+                    "size": "1754531126",
+                    "download": "509968704"
+                }
+            },
+            "decryptionkey": "9e4bfde164a398fbe9012226452ab1d79eccc1dc1625697a31144f3b39a3d7b2"
+        },
+        "699332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6977649823977325096",
+                    "size": "1761920950",
+                    "download": "512554768"
+                },
+                "public_test": {
+                    "gid": "3039488411458562984",
+                    "size": "1756805500",
+                    "download": "509255968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16795259",
+                "timeupdated": "1734618061"
+            },
+            "public_test": {
+                "buildid": "13015199",
+                "description": "Public test branch (saves specific to this branch)",
+                "timeupdated": "1703115787"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
