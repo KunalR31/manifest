@@ -1,0 +1,108 @@
+{
+    "appid": "1383150",
+    "type": "Game",
+    "name": "Final Factory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28339131",
+    "update_time": "2025-04-07 11:59:27",
+    "depot": {
+        "1383152": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1507262351224120076",
+                    "size": "2257277674",
+                    "download": "883951360"
+                },
+                "debug": {
+                    "gid": "8336797480408354531",
+                    "size": "2223110286",
+                    "download": "862037536"
+                },
+                "development": {
+                    "gid": "5836665633267953508",
+                    "size": "2426077705",
+                    "download": "920698384"
+                },
+                "development-previous": {
+                    "gid": "8068207081335749743",
+                    "size": "2425990103",
+                    "download": "920705344"
+                },
+                "rollback": {
+                    "gid": "8420909507157436867",
+                    "size": "2257269609",
+                    "download": "883967952"
+                }
+            },
+            "decryptionkey": "6708f3e07b4b0e6df5877fb83db230b393c9277caa4bcc55422d6b018495f82c"
+        },
+        "1383151": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2204750153355702541",
+                    "size": "2294329880",
+                    "download": "922227712"
+                },
+                "debug": {
+                    "gid": "7382966079923750401",
+                    "size": "2141900218",
+                    "download": "866863120"
+                },
+                "development": {
+                    "gid": "1582698379990524685",
+                    "size": "2466486068",
+                    "download": "959366752"
+                },
+                "development-previous": {
+                    "gid": "8333699774904153434",
+                    "size": "2466352360",
+                    "download": "959366816"
+                },
+                "rollback": {
+                    "gid": "8679208446885154387",
+                    "size": "2294326288",
+                    "download": "922211520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1383150",
+        "branches": {
+            "public": {
+                "buildid": "16868397",
+                "timeupdated": "1735486585"
+            },
+            "debug": {
+                "buildid": "14295224",
+                "description": "Debug build for more logging",
+                "timeupdated": "1715115911"
+            },
+            "development": {
+                "buildid": "18006569",
+                "description": "For playtesting the latest changes",
+                "timeupdated": "1743998364"
+            },
+            "development-previous": {
+                "buildid": "17999333",
+                "description": "Development branch, 1 release back",
+                "timeupdated": "1743968605"
+            },
+            "rollback": {
+                "buildid": "16344620",
+                "description": "Contains the previous working version of the game",
+                "timeupdated": "1735486642"
+            }
+        },
+        "workshopdepotdecryptionkey": "4ae2fccfff3569526a47e15f261c28d1e78d4abcd302c10164fdf19f2ea8e79f"
+    }
+}
