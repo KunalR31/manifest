@@ -1,0 +1,59 @@
+{
+    "appid": "2003780",
+    "type": "Demo",
+    "name": "Celestial Project Demo",
+    "schinese_name": "天体计划 试玩版",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:07",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2003781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6299000356204389233",
+                    "size": "197809716",
+                    "download": "129123552"
+                },
+                "release-candidate": {
+                    "gid": "3160215583705977981",
+                    "size": "186518344",
+                    "download": "118877888"
+                }
+            },
+            "decryptionkey": "8d8847421f27b8e79adc4e3caf895070c986234ebca59c75842b3014a5da85ee"
+        },
+        "2003782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4863796048880066857",
+                    "size": "227503697",
+                    "download": "138673712"
+                },
+                "release-candidate": {
+                    "gid": "8797126487579513895",
+                    "size": "232715079",
+                    "download": "130459840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12475649",
+                "timeupdated": "1697659532"
+            },
+            "release-candidate": {
+                "buildid": "8980037",
+                "description": "RC branch",
+                "timeupdated": "1655829276"
+            }
+        }
+    }
+}
