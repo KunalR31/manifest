@@ -1,0 +1,137 @@
+{
+    "appid": "233860",
+    "type": "Game",
+    "name": "Kenshi",
+    "schinese_name": "剑士",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:47",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233861": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5962268813919641662",
+                    "size": "12317638705",
+                    "download": "6159237328"
+                },
+                "1.0.55": {
+                    "gid": "5472331217060105720",
+                    "size": "12321237463",
+                    "download": "6161352608"
+                },
+                "experimental": {
+                    "gid": "23683797942789127",
+                    "size": "12317639124",
+                    "download": "6159237456"
+                },
+                "old_version_966": {
+                    "gid": "5574548965337628027",
+                    "size": "10976530277",
+                    "download": "5530283296"
+                },
+                "older_version_69": {
+                    "gid": "4163032994186453846",
+                    "size": "3424552049",
+                    "download": "0"
+                },
+                "oldland": {
+                    "gid": "6159432201035085314",
+                    "size": "4213909307",
+                    "download": "2311249744"
+                }
+            },
+            "decryptionkey": "38568de2647a34cb59498e6eb270d8a8e4a9f6de3761eb6c087de081f8c47273"
+        },
+        "468550": {
+            "manifests": {
+                "public": {
+                    "gid": "989505602589646683",
+                    "size": "859952553",
+                    "download": "717488128"
+                },
+                "1.0.55": {
+                    "gid": "989505602589646683",
+                    "size": "859952553",
+                    "download": "717488128"
+                },
+                "experimental": {
+                    "gid": "989505602589646683",
+                    "size": "859952553",
+                    "download": "717488128"
+                },
+                "old_version_966": {
+                    "gid": "989505602589646683",
+                    "size": "859952553",
+                    "download": "717488128"
+                },
+                "oldland": {
+                    "gid": "8699114863411379300",
+                    "size": "349236479",
+                    "download": "343066496"
+                }
+            },
+            "dlcappid": "468550",
+            "decryptionkey": "c908f9631d5bdcb41bb85c108c4e64f4cb3f51ff42c5555fe5471ec6ba9b43dd"
+        },
+        "workshopdepot": "233860",
+        "branches": {
+            "public": {
+                "buildid": "13871665",
+                "timeupdated": "1711990072"
+            },
+            "1.0.55": {
+                "buildid": "8118971",
+                "description": "previous stable version",
+                "timeupdated": "1679573082"
+            },
+            "experimental": {
+                "buildid": "13923771",
+                "description": "Very latest Kenshi updates, prone to crashes and bugs.",
+                "timeupdated": "1712068552"
+            },
+            "old_version_966": {
+                "buildid": "2205984",
+                "description": "an older version 0.97.6",
+                "timeupdated": "1525188278"
+            },
+            "older_version_69": {
+                "buildid": "306546",
+                "description": "an older but stable version (0.69)"
+            },
+            "oldland": {
+                "buildid": "1111885",
+                "description": "Old stable version 0.74, 32-bit support",
+                "timeupdated": "1462482602"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e82fe4a117edac4ddeda231d5e0c962001d3be84eb50bd5d4bbeec2a00068217"
+    }
+}
