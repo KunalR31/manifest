@@ -1,0 +1,76 @@
+{
+    "appid": "986130",
+    "type": "Game",
+    "name": "Shadows of Doubt",
+    "schinese_name": "Shadows of Doubt - 凶影疑云",
+    "isfreeapp": "0",
+    "change_number": "28346541",
+    "update_time": "2025-04-07 21:34:53",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese",
+        "hasdepotsindlc": "1",
+        "986131": {
+            "manifests": {
+                "public": {
+                    "gid": "8579371375243553492",
+                    "size": "1401734303",
+                    "download": "561374768"
+                },
+                "experimental": {
+                    "gid": "8579371375243553492",
+                    "size": "1401734303",
+                    "download": "561374768"
+                },
+                "legacypublic": {
+                    "gid": "791094652490595966",
+                    "size": "1610965525",
+                    "download": "691334304"
+                },
+                "mono": {
+                    "gid": "7011115848380614268",
+                    "size": "1349677823",
+                    "download": "549573552"
+                }
+            },
+            "decryptionkey": "dc54e19011f6a1e01179024b4bc2924a39fea01c682a31bd460075bb7882ab34"
+        },
+        "3229880": {
+            "dlcappid": "3229880",
+            "manifests": {
+                "public": {
+                    "gid": "1787066928091052239",
+                    "size": "44799140",
+                    "download": "22610208"
+                },
+                "experimental": {
+                    "gid": "1787066928091052239",
+                    "size": "44799140",
+                    "download": "22610208"
+                }
+            },
+            "decryptionkey": "e15b606fff7e6421b843b4c26b2127e49b7e36af9c5e94f0367a5698b77a636a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17063837",
+                "timeupdated": "1737456805"
+            },
+            "experimental": {
+                "buildid": "17063837",
+                "description": "For testing the latest public builds",
+                "timeupdated": "1737372114"
+            },
+            "legacypublic": {
+                "buildid": "14314304",
+                "description": "For older builds of the game",
+                "timeupdated": "1721308051"
+            },
+            "mono": {
+                "buildid": "15915245",
+                "description": "A branch of the game that is built with the mono backend",
+                "timeupdated": "1727954773"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
