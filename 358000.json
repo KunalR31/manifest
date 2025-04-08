@@ -1,0 +1,69 @@
+{
+    "appid": "358000",
+    "type": "Game",
+    "name": "The Curse of Nordic Cove",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27958145",
+    "update_time": "2025-03-14 22:22:22",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "358001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1063564984503506275",
+                    "size": "1875222973",
+                    "download": "1182740368"
+                }
+            },
+            "decryptionkey": "b19bc9e1c06853f3f5fd6e56be4b9ffe4ccd8b7d8dc2aa013d7225e12785c180"
+        },
+        "358002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7166740015293786569",
+                    "size": "1874174624",
+                    "download": "1178870784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "358003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8197728740334713185",
+                    "size": "1881519477",
+                    "download": "1185285696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "574568"
+            }
+        }
+    }
+}
