@@ -1,0 +1,211 @@
+{
+    "appid": "227060",
+    "type": "Game",
+    "name": "Hegemony Rome: The Rise of Caesar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27827472",
+    "update_time": "2025-03-07 10:32:19",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227061": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6723671365701117496",
+                    "size": "2506333919",
+                    "download": "1261720592"
+                },
+                "update_testing": {
+                    "gid": "6723671365701117496",
+                    "size": "2506333919",
+                    "download": "1261720592"
+                }
+            },
+            "decryptionkey": "f4ddd53f7acfb693c9136018eab50eb7b88605b5f7dced8a1d15b10f835a8ec3"
+        },
+        "227062": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9146793767834180443",
+                    "size": "730364823",
+                    "download": "726563056"
+                },
+                "update_testing": {
+                    "gid": "9146793767834180443",
+                    "size": "730364823",
+                    "download": "726563056"
+                }
+            },
+            "decryptionkey": "7c6fcdc8becb9758cf98cdc491d393182ebcc314d8a383183946591e9876d72a"
+        },
+        "227063": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4023988081228878171",
+                    "size": "805165942",
+                    "download": "801571536"
+                },
+                "update_testing": {
+                    "gid": "4023988081228878171",
+                    "size": "805165942",
+                    "download": "801571536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "227064": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5079651169900335783",
+                    "size": "729571396",
+                    "download": "726321184"
+                },
+                "update_testing": {
+                    "gid": "5079651169900335783",
+                    "size": "729571396",
+                    "download": "726321184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "227065": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5339856263655900704",
+                    "size": "729563059",
+                    "download": "726321184"
+                },
+                "update_testing": {
+                    "gid": "5339856263655900704",
+                    "size": "729563059",
+                    "download": "726321184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "227066": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8117007921210553625",
+                    "size": "729781364",
+                    "download": "726335744"
+                },
+                "update_testing": {
+                    "gid": "8117007921210553625",
+                    "size": "729781364",
+                    "download": "726335744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "227067": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4424724428226337080",
+                    "size": "729617711",
+                    "download": "726328352"
+                },
+                "update_testing": {
+                    "gid": "4424724428226337080",
+                    "size": "729617711",
+                    "download": "726328352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "308170": {
+            "manifests": {
+                "public": {
+                    "gid": "5999543285431370205",
+                    "size": "14023526",
+                    "download": "7503536"
+                },
+                "update_testing": {
+                    "gid": "5999543285431370205",
+                    "size": "14023526",
+                    "download": "7503536"
+                }
+            },
+            "dlcappid": "308170",
+            "decryptionkey": "f78a9aec8c76368675eab3fb3c28115bca795cf047a9b79e5ce6a8a6445e3033"
+        },
+        "308171": {
+            "manifests": {
+                "public": {
+                    "gid": "3997610659356043861",
+                    "size": "59937736",
+                    "download": "21552048"
+                },
+                "update_testing": {
+                    "gid": "3997610659356043861",
+                    "size": "59937736",
+                    "download": "21552048"
+                }
+            },
+            "dlcappid": "308171",
+            "decryptionkey": ""
+        },
+        "308172": {
+            "manifests": {
+                "public": {
+                    "gid": "2261555280294575836",
+                    "size": "90790594",
+                    "download": "34555504"
+                },
+                "update_testing": {
+                    "gid": "2261555280294575836",
+                    "size": "90790594",
+                    "download": "34555504"
+                }
+            },
+            "dlcappid": "308172",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1201780",
+                "timeupdated": "1510350078"
+            },
+            "update_testing": {
+                "buildid": "1201780",
+                "description": "Update Testing Branch",
+                "timeupdated": "1467235690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
