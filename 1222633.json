@@ -1,0 +1,84 @@
+{
+    "appid": "1222633",
+    "type": "DLC",
+    "name": "Flycast",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731526",
+    "update_time": "2025-03-01 17:18:08",
+    "depot": {
+        "1222633": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1222633"
+            },
+            "dlcappid": "1222633",
+            "manifests": {
+                "public": {
+                    "gid": "4522855024317729335",
+                    "size": "19143644",
+                    "download": "4605408"
+                },
+                "nightly": {
+                    "gid": "5278168403550361983",
+                    "size": "20444",
+                    "download": "7664"
+                }
+            },
+            "decryptionkey": "d022b689d6cb6319ead684f218f909d6afa81747ac8fc50b7b082c5e463e5197"
+        },
+        "1790150": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222633"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1014750539126364625",
+                    "size": "35827596",
+                    "download": "4535440"
+                },
+                "nightly": {
+                    "gid": "724794078622416039",
+                    "size": "20444",
+                    "download": "7664"
+                }
+            },
+            "dlcappid": "1222633",
+            "decryptionkey": ""
+        },
+        "1790151": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222633"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7567823716786878122",
+                    "size": "48966116",
+                    "download": "7328048"
+                },
+                "nightly": {
+                    "gid": "408851958215984926",
+                    "size": "20444",
+                    "download": "7664"
+                }
+            },
+            "dlcappid": "1222633",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911399",
+                "timeupdated": "1736093718"
+            },
+            "nightly": {
+                "buildid": "17557901",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820684"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
