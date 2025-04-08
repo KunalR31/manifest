@@ -1,0 +1,63 @@
+{
+    "appid": "278570",
+    "type": "Game",
+    "name": "Labyrinthine Dreams",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25720600",
+    "update_time": "2024-10-15 11:11:54",
+    "depot": {
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "278571": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6851072240801068605",
+                    "size": "79149123",
+                    "download": "70123216"
+                },
+                "beta": {
+                    "gid": "6851072240801068605",
+                    "size": "79149123",
+                    "download": "70123216"
+                }
+            },
+            "decryptionkey": "efe1c3911d9c05ebed87f66a1774c18b8d003ee6d4df83e0a938f7b38c1ca639"
+        },
+        "372140": {
+            "manifests": {
+                "public": {
+                    "gid": "3430070183897435355",
+                    "size": "41059602",
+                    "download": "40255088"
+                },
+                "beta": {
+                    "gid": "3430070183897435355",
+                    "size": "41059602",
+                    "download": "40255088"
+                }
+            },
+            "decryptionkey": "45dbd8c13201b02b6fab4a1f7c2bec47b2dcf38ebbd1e8b65e3c203ec355e274"
+        },
+        "branches": {
+            "public": {
+                "buildid": "661466"
+            },
+            "beta": {
+                "buildid": "661466",
+                "description": "Public beta branch"
+            }
+        }
+    }
+}
