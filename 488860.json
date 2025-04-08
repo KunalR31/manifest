@@ -1,0 +1,82 @@
+{
+    "appid": "488860",
+    "type": "Game",
+    "name": "MADNESS: Project Nexus",
+    "schinese_name": "狂暴之徒：联合计划",
+    "isfreeapp": "0",
+    "change_number": "28332387",
+    "update_time": "2025-04-06 21:10:46",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "488861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7396554013065789570",
+                    "size": "5693745481",
+                    "download": "2163751904"
+                },
+                "releasebeta": {
+                    "gid": "8547138237624827550",
+                    "size": "5696365549",
+                    "download": "2163874576"
+                }
+            },
+            "decryptionkey": "d63cfdd3553f33bbd71bd9c5430eb5c4b09085a05e602d8ee428f1fef3399b75"
+        },
+        "488862": {
+            "config": {
+                "oslist": "macos",
+                "language": "vietnamese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7463424499279771874",
+                    "size": "0",
+                    "download": "0"
+                },
+                "releasebeta": {
+                    "gid": "7463424499279771874",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "488863": {
+            "config": {
+                "oslist": "linux",
+                "language": "vietnamese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4751841892303076864",
+                    "size": "0",
+                    "download": "0"
+                },
+                "releasebeta": {
+                    "gid": "4751841892303076864",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "488860",
+        "branches": {
+            "public": {
+                "buildid": "16817038",
+                "timeupdated": "1734716220"
+            },
+            "releasebeta": {
+                "buildid": "17974558",
+                "description": "For testing features before going live.",
+                "timeupdated": "1743706437"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "36db8461d3401fb9aedfcb7f6379d5b85ecdd915b0fe59599d997d0b1b0b4560"
+    }
+}
