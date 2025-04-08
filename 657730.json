@@ -1,0 +1,92 @@
+{
+    "appid": "657730",
+    "type": "Game",
+    "name": "Wolflord - Werewolf Online",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26963552",
+    "update_time": "2025-01-13 01:30:22",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "657730",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "657731": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6248645117932023775",
+                    "size": "1492887527",
+                    "download": "792153792"
+                },
+                "experimental": {
+                    "gid": "6248645117932023775",
+                    "size": "1492887527",
+                    "download": "792153792"
+                },
+                "stable": {
+                    "gid": "6248645117932023775",
+                    "size": "1492887527",
+                    "download": "792153792"
+                }
+            },
+            "decryptionkey": "9937a36f594e7b27b1492a500ade0e677bdf37de26887f3e210937fd9f6ab097"
+        },
+        "657732": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2174977270414952708",
+                    "size": "1480479245",
+                    "download": "772607728"
+                },
+                "experimental": {
+                    "gid": "2174977270414952708",
+                    "size": "1480479245",
+                    "download": "772607728"
+                },
+                "stable": {
+                    "gid": "2174977270414952708",
+                    "size": "1480479245",
+                    "download": "772607728"
+                }
+            },
+            "decryptionkey": "f903f26bb35add2f5afa59c9204e8ce155bdb225cd9ccd6a5711250b1369e244"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10155230",
+                "timeupdated": "1671118641"
+            },
+            "experimental": {
+                "buildid": "10155230",
+                "description": "Side builds and experimental stuff.",
+                "timeupdated": "1671118203"
+            },
+            "stable": {
+                "buildid": "10155230",
+                "description": "Branch only updated on important stability milestones.",
+                "timeupdated": "1671118651"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
