@@ -1,0 +1,81 @@
+{
+    "appid": "224540",
+    "type": "Game",
+    "name": "Ace of Spades",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27107574",
+    "update_time": "2025-01-22 15:26:03",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,turkish,brazilian",
+        "markdlcdepots": "1",
+        "224541": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8974728994024586076",
+                    "size": "482897461",
+                    "download": "283892192"
+                },
+                "community": {
+                    "gid": "6428755451593955118",
+                    "size": "467770134",
+                    "download": "5197057480692"
+                }
+            },
+            "decryptionkey": "704fd586612359f2e5aa3c8f21ed07fd527c800ddd627e6a8e6e94041e8eceb5"
+        },
+        "224542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4111393382856979426",
+                    "size": "651405440",
+                    "download": "407959216"
+                },
+                "community": {
+                    "gid": "3583262379324591142",
+                    "size": "627589256",
+                    "download": "4063855474078"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "224543": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "853011614685503803",
+                    "size": "1939456",
+                    "download": "73999301"
+                },
+                "community": {
+                    "gid": "853011614685503803",
+                    "size": "1939456",
+                    "download": "73999301"
+                }
+            },
+            "decryptionkey": "8c3f55ba38d3c0b00c0bd07d014fa756589575bb0c8d8aff7810d39370544387"
+        },
+        "branches": {
+            "public": {
+                "buildid": "889629"
+            },
+            "community": {
+                "buildid": "374373",
+                "description": "Pre-Release Preview"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
