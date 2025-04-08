@@ -1,0 +1,65 @@
+{
+    "appid": "409450",
+    "type": "Game",
+    "name": "The Fall of the Dungeon Guardians",
+    "schinese_name": "地牢守护者的陨落",
+    "isfreeapp": "0",
+    "change_number": "27497219",
+    "update_time": "2025-02-16 04:16:26",
+    "depot": {
+        "workshopdepot": "409450",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "409451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3434985329724624836",
+                    "size": "724788981",
+                    "download": "436019328"
+                }
+            },
+            "decryptionkey": "f1e6237fc3bd2fcfe2a05b418602e131a8d156d96d2155c6c93882af3b5072b9"
+        },
+        "409453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2292882361433615715",
+                    "size": "771373493",
+                    "download": "438055392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "409452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2335863261920056399",
+                    "size": "768223849",
+                    "download": "437861568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5391830",
+                "timeupdated": "1597043418"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
