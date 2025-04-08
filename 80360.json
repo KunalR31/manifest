@@ -1,0 +1,73 @@
+{
+    "appid": "80360",
+    "type": "Game",
+    "name": "Blackwell Deception",
+    "schinese_name": "布莱克韦尔之谜：欺骗",
+    "isfreeapp": "0",
+    "change_number": "28223432",
+    "update_time": "2025-03-31 15:16:51",
+    "depot": {
+        "overridescddb": "1",
+        "80361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "514724239382237975",
+                    "size": "533600803",
+                    "download": "334068080"
+                }
+            },
+            "decryptionkey": "db0b8ca6e0d934118674c0febdd6bf5bd9e268285e9779a41a8f6a70463d77e3"
+        },
+        "80362": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8249700774923279341",
+                    "size": "600367730",
+                    "download": "342378624"
+                }
+            },
+            "decryptionkey": "07494fccb25aadce24eebb29e42b8e014c38b62ac2293f723b3dc4f38933e629"
+        },
+        "80363": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7092794278425786515",
+                    "size": "535558582",
+                    "download": "326620208"
+                }
+            },
+            "decryptionkey": "b4d0c88c95e72c22c09751958329268d58e0667ec6c11a1a8900bc22b23642c9"
+        },
+        "2058290": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "638204308049915219",
+                    "size": "601334066",
+                    "download": "342561360"
+                }
+            },
+            "decryptionkey": "0993d93602e1aad492173713b8f4f888d358d785dbda6f80878acfe71218eca7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15831831",
+                "timeupdated": "1727325739"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
