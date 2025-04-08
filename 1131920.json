@@ -1,0 +1,47 @@
+{
+    "appid": "1131920",
+    "type": "Game",
+    "name": "LABYRINTH OF TOUHOU - GENSOKYO AND THE HEAVEN-PIERCING TREE",
+    "schinese_name": "东方的迷宫 幻想乡和通天的大树",
+    "isfreeapp": "0",
+    "change_number": "26925923",
+    "update_time": "2025-01-09 23:16:24",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1131921": {
+            "manifests": {
+                "public": {
+                    "gid": "8260071031838376400",
+                    "size": "1264785887",
+                    "download": "1246697456"
+                },
+                "local": {
+                    "gid": "7440279125694679511",
+                    "size": "1140481968",
+                    "download": "1131061872"
+                }
+            },
+            "decryptionkey": "113fec35ed7ecf818a476aaaf4595f4ba4d1e2ca3dd8a51037ff10cfdfafd93d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9715171",
+                "timeupdated": "1665677928"
+            },
+            "local": {
+                "buildid": "6919490",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1625750329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
