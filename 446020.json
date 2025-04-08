@@ -1,0 +1,68 @@
+{
+    "appid": "446020",
+    "type": "Game",
+    "name": "Jalopy",
+    "schinese_name": "老爷车",
+    "isfreeapp": "0",
+    "change_number": "27109064",
+    "update_time": "2025-01-22 17:25:04",
+    "depot": {
+        "446021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8092343146574350209",
+                    "size": "917441893",
+                    "download": "234456016"
+                },
+                "bootfixtest": {
+                    "gid": "3555195854535540877",
+                    "size": "917440629",
+                    "download": "234161088"
+                },
+                "frameratetest": {
+                    "gid": "7681872642882449456",
+                    "size": "923063389",
+                    "download": "235399856"
+                },
+                "original_jalopy": {
+                    "gid": "7728156669883225657",
+                    "size": "885637729",
+                    "download": "222217776"
+                },
+                "public_beta": {
+                    "gid": "8092343146574350209",
+                    "size": "917441893",
+                    "download": "234456016"
+                }
+            },
+            "decryptionkey": "7d7864f97436c7cc540c6df4feae0ebc216d4f2238b2f6f8b416b911971a37f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3960062",
+                "timeupdated": "1561653629"
+            },
+            "bootfixtest": {
+                "buildid": "3889762",
+                "timeupdated": "1559904541"
+            },
+            "frameratetest": {
+                "buildid": "3812145",
+                "timeupdated": "1557498276"
+            },
+            "original_jalopy": {
+                "buildid": "3760563",
+                "timeupdated": "1556011087"
+            },
+            "public_beta": {
+                "buildid": "3960062",
+                "description": "public beta branch",
+                "timeupdated": "1561629534"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
