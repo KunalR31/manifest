@@ -1,0 +1,53 @@
+{
+    "appid": "709440",
+    "type": "Game",
+    "name": "Override",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-23 05:46:22",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "709441": {
+            "manifests": {
+                "public": {
+                    "gid": "2722819827274436567",
+                    "size": "8374146010",
+                    "download": "6683282352"
+                },
+                "local": {
+                    "gid": "2771655422507657237",
+                    "size": "4670157006",
+                    "download": "4589439216"
+                }
+            },
+            "decryptionkey": "977342e99393747c53048c5e402dc2bc90f6792f9abc917341fd0677ad75ed5c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3715465",
+                "timeupdated": "1555078416"
+            },
+            "local": {
+                "buildid": "3132506",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1537276844"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
