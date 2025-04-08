@@ -1,0 +1,77 @@
+{
+    "appid": "2209680",
+    "type": "Game",
+    "name": "Beach Invasion 1944",
+    "schinese_name": "海滩入侵 1944",
+    "isfreeapp": "0",
+    "change_number": "27991080",
+    "update_time": "2025-03-17 18:07:46",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,portuguese,turkish,arabic,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2209681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1769926464304551356",
+                    "size": "1393350392",
+                    "download": "1288243072"
+                },
+                "holidaydlc": {
+                    "gid": "5542512293727111261",
+                    "size": "1376873790",
+                    "download": "1254343072"
+                }
+            },
+            "decryptionkey": "8c3817a1fc90744498d552b6abfe7879c98fe0c824a7087f57fd9c8aef9386d5"
+        },
+        "2255060": {
+            "dlcappid": "2255060",
+            "manifests": {
+                "public": {
+                    "gid": "1194631775928576037",
+                    "size": "1376873790",
+                    "download": "1255093904"
+                },
+                "holidaydlc": {
+                    "gid": "1194631775928576037",
+                    "size": "1376873790",
+                    "download": "1255093904"
+                }
+            },
+            "config": {
+                "optionaldlc": "2255060"
+            },
+            "decryptionkey": "e7ac77d0e9491bcd58e2e150d07226da949dee1eabe5f0cf4343e8d1f078650a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17710833",
+                "timeupdated": "1741878652"
+            },
+            "holidaydlc": {
+                "buildid": "10190510",
+                "description": "Holiday DLC",
+                "timeupdated": "1671610093"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
