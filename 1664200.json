@@ -1,0 +1,146 @@
+{
+    "appid": "1664200",
+    "type": "Game",
+    "name": "Duelists of Eden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28236756",
+    "update_time": "2025-04-01 05:51:48",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1664201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "552790725518283061",
+                    "size": "535701805",
+                    "download": "272869680"
+                },
+                "multi-keyboard": {
+                    "gid": "7572701459277840373",
+                    "size": "534718452",
+                    "download": "271916288"
+                },
+                "previous-build": {
+                    "gid": "5600305198729160725",
+                    "size": "534884200",
+                    "download": "272050848"
+                },
+                "public-beta": {
+                    "gid": "4895657014056361555",
+                    "size": "534884493",
+                    "download": "272049296"
+                },
+                "tournament": {
+                    "gid": "2930075534550615505",
+                    "size": "533124740",
+                    "download": "253317296"
+                }
+            },
+            "decryptionkey": "7434874be8446c990f6cd305ad2632218a35fdc9f3325eee46f962875f7554ed"
+        },
+        "1664202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6668012573609083213",
+                    "size": "563773033",
+                    "download": "280291952"
+                },
+                "multi-keyboard": {
+                    "gid": "8269222959452729511",
+                    "size": "549176069",
+                    "download": "255485344"
+                },
+                "previous-build": {
+                    "gid": "3221281398626242992",
+                    "size": "562961318",
+                    "download": "279479152"
+                },
+                "public-beta": {
+                    "gid": "6311952292155711418",
+                    "size": "562957756",
+                    "download": "279479520"
+                },
+                "tournament": {
+                    "gid": "1119782164681603182",
+                    "size": "561197721",
+                    "download": "260737424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1664203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7386791963149658152",
+                    "size": "576132344",
+                    "download": "272039408"
+                },
+                "multi-keyboard": {
+                    "gid": "3976201654486641188",
+                    "size": "561523514",
+                    "download": "247228416"
+                },
+                "previous-build": {
+                    "gid": "1993435926384833031",
+                    "size": "575315448",
+                    "download": "271225520"
+                },
+                "public-beta": {
+                    "gid": "7307068594382165472",
+                    "size": "575315457",
+                    "download": "271224400"
+                },
+                "tournament": {
+                    "gid": "9068722317427514534",
+                    "size": "573522288",
+                    "download": "252460816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17930820",
+                "timeupdated": "1743457736"
+            },
+            "multi-keyboard": {
+                "buildid": "15960660",
+                "description": "Enables multi-keyboard support for windows, at the expense of some controller support",
+                "timeupdated": "1728348795"
+            },
+            "previous-build": {
+                "buildid": "17837864",
+                "description": "previous build for watching old replays",
+                "timeupdated": "1743457140"
+            },
+            "public-beta": {
+                "buildid": "17698113",
+                "description": "Public beta",
+                "timeupdated": "1741807818"
+            },
+            "tournament": {
+                "buildid": "14991281",
+                "description": "last tournament build",
+                "timeupdated": "1722269387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
