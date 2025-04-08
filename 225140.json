@@ -1,0 +1,120 @@
+{
+    "appid": "225140",
+    "type": "Game",
+    "name": "Duke Nukem 3D: Megaton Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27208873",
+    "update_time": "2025-01-29 06:34:08",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "225144": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8075503020927235924",
+                    "size": "10697932",
+                    "download": "4221136"
+                },
+                "public_beta": {
+                    "gid": "8075503020927235924",
+                    "size": "10697932",
+                    "download": "4221136"
+                },
+                "sdl1": {
+                    "gid": "571116802053272450",
+                    "size": "10473877",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "225142": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2598555936160334948",
+                    "size": "20747996",
+                    "download": "7775328"
+                },
+                "public_beta": {
+                    "gid": "2598555936160334948",
+                    "size": "20747996",
+                    "download": "7775328"
+                },
+                "sdl1": {
+                    "gid": "1447237379114267804",
+                    "size": "11065768",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f58baddf6a358472c92f6c806e9736239ad8b214e7b64c20454595064cb00921"
+        },
+        "225143": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3004698743779213760",
+                    "size": "17695606",
+                    "download": "5402272"
+                },
+                "public_beta": {
+                    "gid": "3004698743779213760",
+                    "size": "17695606",
+                    "download": "5402272"
+                },
+                "sdl1": {
+                    "gid": "7940664270652540584",
+                    "size": "16944450",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "225141": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6597707372479951704",
+                    "size": "430371195",
+                    "download": "296501264"
+                },
+                "public_beta": {
+                    "gid": "6597707372479951704",
+                    "size": "430371195",
+                    "download": "296501264"
+                },
+                "sdl1": {
+                    "gid": "8137925093270097180",
+                    "size": "429390987",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1112b5af31976bbbf3df341493aae529e646710f435ccba991d55b7fa8ba9f48"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "610450"
+            },
+            "public_beta": {
+                "buildid": "610450",
+                "description": "Public Beta"
+            },
+            "sdl1": {
+                "buildid": "216533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
