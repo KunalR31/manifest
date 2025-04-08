@@ -1,0 +1,40 @@
+{
+    "appid": "253750",
+    "type": "Game",
+    "name": "Ikaruga",
+    "schinese_name": "斑鸠",
+    "isfreeapp": "0",
+    "change_number": "26825068",
+    "update_time": "2024-12-31 18:53:01",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,japanese",
+        "markdlcdepots": "1",
+        "253751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8032373942993339070",
+                    "size": "422488784",
+                    "download": "22497460490"
+                }
+            },
+            "decryptionkey": "894f2ed777db6a237327e7ae2c93c533899146228276db2d5b5f35f52f601c77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "354142"
+            }
+        }
+    }
+}
