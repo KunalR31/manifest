@@ -1,0 +1,59 @@
+{
+    "appid": "27030",
+    "type": "Demo",
+    "name": "The Graveyard Trial",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 09:12:10",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "27032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6219873679730712337",
+                    "size": "118392088",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "27031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5386074297928395125",
+                    "size": "48819125",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "48125f42735138a476e81f01b55d4bbd56dd6edca31e6a0ece2f09ed0be3cdc3"
+        },
+        "27033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2763584210061715454",
+                    "size": "93030329",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "194985"
+            }
+        }
+    }
+}
