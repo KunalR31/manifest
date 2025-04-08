@@ -1,0 +1,73 @@
+{
+    "appid": "251630",
+    "type": "Game",
+    "name": "The Impossible Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:50:17",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3272610604656771255",
+                    "size": "22423292",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "956b5a3533d992b0498d88a08036d56fdf0bba6767ba56700f1692d1e660183f"
+        },
+        "251632": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5727764536764371538",
+                    "size": "19031365",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "251633": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8073393640879219905",
+                    "size": "22676741",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "277832"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
