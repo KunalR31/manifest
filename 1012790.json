@@ -1,0 +1,81 @@
+{
+    "appid": "1012790",
+    "type": "Game",
+    "name": "Into the Radius VR",
+    "schinese_name": "死亡半径VR",
+    "isfreeapp": "0",
+    "change_number": "27188427",
+    "update_time": "2025-01-28 02:20:45",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1012791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8334610664114747949",
+                    "size": "14944439391",
+                    "download": "14645669728"
+                },
+                "itr_1.0": {
+                    "gid": "6167948486827036059",
+                    "size": "8874091680",
+                    "download": "8647053184"
+                },
+                "itr_1.0_steamvr": {
+                    "gid": "8694228405059891981",
+                    "size": "8869380792",
+                    "download": "8645712128"
+                }
+            },
+            "decryptionkey": "569bd7c4d66094271837ea69868e6d849a17ad1d1190f5761f748639ed643f1f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "12525739",
+                "timeupdated": "1698673440"
+            },
+            "itr_1.0": {
+                "buildid": "6693976",
+                "description": "Old game version",
+                "timeupdated": "1635938443"
+            },
+            "itr_1.0_steamvr": {
+                "buildid": "6693968",
+                "description": "Old game version for Oculus HMD users who still want to use SteamVR",
+                "timeupdated": "1635938464"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
