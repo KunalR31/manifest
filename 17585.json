@@ -1,0 +1,94 @@
+{
+    "appid": "17585",
+    "type": "Tool",
+    "name": "Dystopia Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27153646",
+    "update_time": "2025-01-25 01:26:47",
+    "depot": {
+        "overridescddb": "1",
+        "17581": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                },
+                "nightly": {
+                    "gid": "2651542348671413866",
+                    "size": "4482457720",
+                    "download": "2151020032"
+                },
+                "release_candidate": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                }
+            },
+            "depotfromapp": "17580",
+            "decryptionkey": "06dbb53f43c234945eb426efbe5cfc606cd18fdb4cc34444a17a9b17c077188f"
+        },
+        "806640": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2311467001087771267",
+                    "size": "19698880",
+                    "download": "7069088"
+                },
+                "nightly": {
+                    "gid": "3909158193478232378",
+                    "size": "21595840",
+                    "download": "7655392"
+                },
+                "release_candidate": {
+                    "gid": "2311467001087771267",
+                    "size": "19698880",
+                    "download": "7069088"
+                }
+            },
+            "decryptionkey": "620c97e3292800765ceb9c1b98f434232ffd4961f20e9ab380ef23469b559624"
+        },
+        "806641": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2070697226601717144",
+                    "size": "64233295",
+                    "download": "16828976"
+                },
+                "nightly": {
+                    "gid": "5528420613736394602",
+                    "size": "62077673",
+                    "download": "16432080"
+                },
+                "release_candidate": {
+                    "gid": "2070697226601717144",
+                    "size": "64233295",
+                    "download": "16828976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10309671",
+                "timeupdated": "1673553989"
+            },
+            "nightly": {
+                "buildid": "3996161",
+                "timeupdated": "1562698219"
+            },
+            "release_candidate": {
+                "buildid": "10309671",
+                "timeupdated": "1673551050"
+            }
+        }
+    }
+}
