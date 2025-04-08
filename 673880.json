@@ -1,0 +1,168 @@
+{
+    "appid": "673880",
+    "type": "Game",
+    "name": "Warhammer 40,000: Mechanicus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28318688",
+    "update_time": "2025-04-05 08:11:11",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese",
+        "673881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5379973793714468656",
+                    "size": "11122785613",
+                    "download": "4088245440"
+                },
+                "mechanicus-classic": {
+                    "gid": "6531565914471886537",
+                    "size": "7918384402",
+                    "download": "3046750608"
+                },
+                "patch-1.4.4": {
+                    "gid": "1546834182861461046",
+                    "size": "11084715941",
+                    "download": "4076417040"
+                },
+                "pre-balance": {
+                    "gid": "6402199908885248904",
+                    "size": "7776977156",
+                    "download": "2935581840"
+                }
+            },
+            "decryptionkey": "89aa31906085f80bb20d0b8a7d7602c459e28a8c8ece4e7e35807bc1fbcce0c6"
+        },
+        "673882": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7836673844933143764",
+                    "size": "11204974697",
+                    "download": "4125166816"
+                },
+                "mechanicus-classic": {
+                    "gid": "1236562325644023331",
+                    "size": "7986754022",
+                    "download": "3087611424"
+                },
+                "patch-1.4.4": {
+                    "gid": "4608823312393275808",
+                    "size": "11189135964",
+                    "download": "4120632192"
+                }
+            },
+            "decryptionkey": "8a5bc773a4bc2c41903a62167095b0a2fa58a1decbab21fd9b4cb454a8a643c1"
+        },
+        "673883": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7619088346165053586",
+                    "size": "11213504356",
+                    "download": "4165201056"
+                },
+                "mechanicus-classic": {
+                    "gid": "3959059929989013650",
+                    "size": "8055420330",
+                    "download": "3129570352"
+                },
+                "patch-1.4.4": {
+                    "gid": "1543900441023280603",
+                    "size": "11197813448",
+                    "download": "4160741504"
+                }
+            },
+            "decryptionkey": "36b62d7360247e887804c18a311c3808a02ce98cb1383ba935d5fef598f5ff38"
+        },
+        "673884": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1670265505789495519",
+                    "size": "11213504356",
+                    "download": "4166797072"
+                }
+            },
+            "decryptionkey": "7c43b876a4e6e6b313ed07e8d934aafdeddd2b8d6f7282260bffa017a0c26895"
+        },
+        "916250": {
+            "dlcappid": "916250",
+            "manifests": {
+                "public": {
+                    "gid": "7037591095437838104",
+                    "size": "419421748",
+                    "download": "411826016"
+                },
+                "mechanicus-classic": {
+                    "gid": "6155245903707401311",
+                    "size": "206608321",
+                    "download": "198264544"
+                },
+                "patch-1.4.4": {
+                    "gid": "6155245903707401311",
+                    "size": "206608321",
+                    "download": "198264544"
+                },
+                "pre-balance": {
+                    "gid": "6155245903707401311",
+                    "size": "206608321",
+                    "download": "198264544"
+                }
+            },
+            "decryptionkey": "c7f31588fd8cbdb0eeed1c684e2144817a03e391d91848d4c1c1da5f85c8baca"
+        },
+        "1104970": {
+            "dlcappid": "1104970",
+            "manifests": {
+                "public": {
+                    "gid": "7936612781338624741",
+                    "size": "150402833",
+                    "download": "143694672"
+                },
+                "patch-1.4.4": {
+                    "gid": "3967893197499835219",
+                    "size": "64443111",
+                    "download": "56961184"
+                }
+            },
+            "decryptionkey": "2ddf38791f7b66a2f00994369228e6dc42682e4f5f87c68e7b3e954b015b00d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14431362",
+                "timeupdated": "1716482460"
+            },
+            "mechanicus-classic": {
+                "buildid": "3633936",
+                "description": "1.1.4 - pre-Augment Update",
+                "timeupdated": "1556288140"
+            },
+            "patch-1.4.4": {
+                "buildid": "5069046",
+                "description": "Patch 1.4.4",
+                "timeupdated": "1623162867"
+            },
+            "pre-balance": {
+                "buildid": "3351759",
+                "description": "build 1.0.7 (out of date)",
+                "timeupdated": "1545134701"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
