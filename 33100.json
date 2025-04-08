@@ -1,0 +1,72 @@
+{
+    "appid": "33100",
+    "type": "Game",
+    "name": "Alien Shooter",
+    "schinese_name": "孤胆枪手",
+    "isfreeapp": "0",
+    "change_number": "26745573",
+    "update_time": "2024-12-21 19:52:31",
+    "depot": {
+        "overridescddb": "1",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "33101": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5538627587903293780",
+                    "size": "104387439",
+                    "download": "49580864"
+                }
+            },
+            "decryptionkey": "dc30c4b2dfaf640760955db6fe89e6158899eac75984230e00438e0281289ddc"
+        },
+        "33102": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "980647524892341928",
+                    "size": "1258036",
+                    "download": "508432"
+                }
+            },
+            "decryptionkey": "2435cd6120cfae76a693acbda50d9f884b532f8fa08c3656c9e730305448654c"
+        },
+        "837860": {
+            "dlcappid": "837860",
+            "manifests": {
+                "public": {
+                    "gid": "470741300532583059",
+                    "size": "1466122",
+                    "download": "268208"
+                }
+            },
+            "decryptionkey": "c27d8ab36db093d5c7cabeb2d52f3f36d2ffc9c9de4eb67b76d1747b982ff6b5"
+        },
+        "837861": {
+            "dlcappid": "837861",
+            "manifests": {
+                "public": {
+                    "gid": "6005276603683516008",
+                    "size": "2355866",
+                    "download": "359856"
+                }
+            },
+            "decryptionkey": "018722e1451687a8579dc3e28e3906c1415d479661a0665c656c8077461c4b64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3863653",
+                "timeupdated": "1559023919"
+            }
+        }
+    }
+}
