@@ -1,0 +1,81 @@
+{
+    "appid": "243780",
+    "type": "Game",
+    "name": "PixelJunk™ Monsters Ultimate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 08:24:36",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "243781": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4088810281258099147",
+                    "size": "609878176",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6578785260496536358",
+                    "size": "609315893",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b6dd4fe79f524b77456cb212f9b9ed5586f260f1d5eef5174b0cc182559456d3"
+        },
+        "243782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2347640884082284831",
+                    "size": "637343938",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "545702294471653241",
+                    "size": "637343938",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d639698436db619a18ca3710b192079a733f5f635e40a28cd4d14ea3a7353b9a"
+        },
+        "243783": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3298021877272378769",
+                    "size": "628958688",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4282337744972821241",
+                    "size": "628958688",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4a2a93a00467b396612f19bf654d5ad7ff215b513b175c9eff748e8eaab51f01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "120922"
+            },
+            "local": {
+                "buildid": "120898",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
