@@ -1,0 +1,83 @@
+{
+    "appid": "2155180",
+    "type": "Game",
+    "name": "Pioneers of Pagonia",
+    "schinese_name": "帕格尼物语",
+    "isfreeapp": "0",
+    "change_number": "28346282",
+    "update_time": "2025-04-07 21:17:51",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2155181": {
+            "manifests": {
+                "public": {
+                    "gid": "8016077528820131918",
+                    "size": "2820172461",
+                    "download": "2507646720"
+                },
+                "beta": {
+                    "gid": "5938334771324711361",
+                    "size": "2828158442",
+                    "download": "2514652064"
+                }
+            },
+            "decryptionkey": "d38873bac59e2a12948771b27a94623a3ece822844d75202b42361f61b5b1504"
+        },
+        "2721120": {
+            "dlcappid": "2721120",
+            "manifests": {
+                "public": {
+                    "gid": "8175367800528324967",
+                    "size": "139844859",
+                    "download": "140917728"
+                },
+                "beta": {
+                    "gid": "8175367800528324967",
+                    "size": "139844859",
+                    "download": "140917728"
+                }
+            },
+            "config": {
+                "optionaldlc": "2721120"
+            },
+            "decryptionkey": "669357bce75468df0e5d7d4e09d2444ab6dacbc04427ed6fe88482429c099289"
+        },
+        "3322960": {
+            "dlcappid": "3322960",
+            "manifests": {
+                "public": {
+                    "gid": "5444449259044279535",
+                    "size": "159380428",
+                    "download": "146240944"
+                },
+                "beta": {
+                    "gid": "5444449259044279535",
+                    "size": "159380428",
+                    "download": "146240944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17395888",
+                "timeupdated": "1739888694"
+            },
+            "beta": {
+                "buildid": "17954232",
+                "description": "Beta branch where upcoming game updates can be tested before they are released",
+                "timeupdated": "1743600464"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
