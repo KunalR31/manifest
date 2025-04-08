@@ -1,0 +1,63 @@
+{
+    "appid": "321560",
+    "type": "Game",
+    "name": "The Sun and Moon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23119243",
+    "update_time": "2024-05-24 08:49:25",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "321561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3170189019151397973",
+                    "size": "36323840",
+                    "download": "36668192"
+                },
+                "beta": {
+                    "gid": "7844577716278306004",
+                    "size": "36323840",
+                    "download": "36669104"
+                }
+            },
+            "decryptionkey": "dc88be00784d300fe7a25a54dac9dd8fbaf1f4f8308804712ba53aff51b860cd"
+        },
+        "321562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9133358506304074717",
+                    "size": "43936565",
+                    "download": "35155040"
+                },
+                "beta": {
+                    "gid": "9133358506304074717",
+                    "size": "43936565",
+                    "download": "35155040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "451551"
+            },
+            "beta": {
+                "buildid": "448631",
+                "description": "Public beta branch"
+            }
+        }
+    }
+}
