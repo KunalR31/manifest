@@ -1,0 +1,155 @@
+{
+    "appid": "321800",
+    "type": "Game",
+    "name": "Icewind Dale: Enhanced Edition",
+    "schinese_name": "冰风谷：增强版",
+    "isfreeapp": "0",
+    "change_number": "28297048",
+    "update_time": "2025-04-04 05:15:13",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "321801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "832663207511002845",
+                    "size": "8455480",
+                    "download": "3491968"
+                },
+                "iwd_beta": {
+                    "gid": "4429123679226489174",
+                    "size": "6032576",
+                    "download": "2325760"
+                },
+                "iwdee_2.5": {
+                    "gid": "5590584211629339695",
+                    "size": "6041792",
+                    "download": "2330752"
+                },
+                "road_to_2.6": {
+                    "gid": "832663207511002845",
+                    "size": "8455480",
+                    "download": "3491968"
+                }
+            },
+            "decryptionkey": "aa12c4f8ab98cd0f230f4375b31411021824636e988f778bf14d3dc9bc25904c"
+        },
+        "321802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3656891030536385056",
+                    "size": "17452647",
+                    "download": "9035920"
+                },
+                "iwd_beta": {
+                    "gid": "7432957552698446983",
+                    "size": "19451676",
+                    "download": "6584288"
+                },
+                "iwdee_2.5": {
+                    "gid": "1548511309376970677",
+                    "size": "19471292",
+                    "download": "6591216"
+                },
+                "road_to_2.6": {
+                    "gid": "3656891030536385056",
+                    "size": "17452647",
+                    "download": "9035920"
+                }
+            },
+            "decryptionkey": "0a78898beac6eca60fbf49396d38c0ff69206fa7dcd45d0880090d45c1fd70d9"
+        },
+        "321803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7609322919157987762",
+                    "size": "13392570",
+                    "download": "4137600"
+                },
+                "iwd_beta": {
+                    "gid": "7390781727328237534",
+                    "size": "24324161",
+                    "download": "7310288"
+                },
+                "iwdee_2.5": {
+                    "gid": "7350548697958699855",
+                    "size": "24377377",
+                    "download": "7325616"
+                },
+                "road_to_2.6": {
+                    "gid": "7609322919157987762",
+                    "size": "13392570",
+                    "download": "4137600"
+                }
+            },
+            "decryptionkey": "a1242b10ef45d7a28d786eaccc93d5952a51ee1a651cdb451536ba9e6d223494"
+        },
+        "321804": {
+            "manifests": {
+                "public": {
+                    "gid": "501017557767525057",
+                    "size": "2969890499",
+                    "download": "2621038640"
+                },
+                "iwd_beta": {
+                    "gid": "6586213725162028311",
+                    "size": "2898545110",
+                    "download": "2575606800"
+                },
+                "iwdee_2.5": {
+                    "gid": "8996047986229664490",
+                    "size": "2922097611",
+                    "download": "2595646624"
+                },
+                "road_to_2.6": {
+                    "gid": "501017557767525057",
+                    "size": "2969890499",
+                    "download": "2621038640"
+                }
+            },
+            "decryptionkey": "3d7d1faef16bced2e60febeb7a6364549ff8383cef13f8dc82e78a00c97e9830"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6660113",
+                "timeupdated": "1621353649"
+            },
+            "iwd_beta": {
+                "buildid": "2736942",
+                "timeupdated": "1525196149"
+            },
+            "iwdee_2.5": {
+                "buildid": "3039408",
+                "description": "IWD EE 2.5",
+                "timeupdated": "1618850302"
+            },
+            "road_to_2.6": {
+                "buildid": "6660113",
+                "description": "The Road to 2.6",
+                "timeupdated": "1620673993"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
