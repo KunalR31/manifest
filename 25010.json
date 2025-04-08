@@ -1,0 +1,142 @@
+{
+    "appid": "25010",
+    "type": "Game",
+    "name": "Lugaru HD ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109055",
+    "update_time": "2025-01-22 17:24:24",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "25012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "494634952534601205",
+                    "size": "40996407",
+                    "download": "0"
+                },
+                "oss_lugaru": {
+                    "gid": "3256302932018888344",
+                    "size": "49128480",
+                    "download": "35784256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "25011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1269473158996637339",
+                    "size": "36984927",
+                    "download": "0"
+                },
+                "oss_lugaru": {
+                    "gid": "5719663944443471249",
+                    "size": "41888907",
+                    "download": "35596656"
+                }
+            },
+            "decryptionkey": "7d38fc1e616565f2b9491d8dd9fc2c9e240004f052eab55d402f94a13cdfc4a2"
+        },
+        "25014": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3781900873965742588",
+                    "size": "36721253",
+                    "download": "0"
+                },
+                "oss_lugaru": {
+                    "gid": "4897695460766271530",
+                    "size": "37981875",
+                    "download": "34579072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "25020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "oss_lugaru": {
+                    "gid": "338741740666126154",
+                    "size": "41888907",
+                    "download": "35579440"
+                }
+            },
+            "decryptionkey": "b0814a62ea9acc6ee223ca395a2dbdfa2cf56ef5c4f0c20d4c3368f312bd6fa6"
+        },
+        "25030": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "oss_lugaru": {
+                    "gid": "6625831124248541445",
+                    "size": "37981875",
+                    "download": "34554848"
+                }
+            },
+            "decryptionkey": "7976723c649375d84fdbe440da04d57610f29f028c9e85b678c112cea6a5269b"
+        },
+        "25031": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "oss_lugaru": {
+                    "gid": "8548586125411034664",
+                    "size": "38038650",
+                    "download": "34617888"
+                }
+            },
+            "decryptionkey": "e8e1dc14b6f6ecc2ce9796030b64dc61acacee1ff363a590dfbdd37547298bb0"
+        },
+        "25041": {
+            "config": {
+                "osarch": "64",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "oss_lugaru": {
+                    "gid": "4666761794621000251",
+                    "size": "49128480",
+                    "download": "35746608"
+                }
+            },
+            "decryptionkey": "5e359aa685042340846d9739ffdd54ff71b680456eec714dd80acc61ccaaad88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "75988"
+            },
+            "oss_lugaru": {
+                "buildid": "1565249",
+                "timeupdated": "1485202015"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
