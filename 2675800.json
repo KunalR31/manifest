@@ -1,0 +1,50 @@
+{
+    "appid": "2675800",
+    "type": "Application",
+    "name": "JustScroll",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26778008",
+    "update_time": "2024-12-25 11:21:26",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2675801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7876273924509321619",
+                    "size": "3381841",
+                    "download": "751648"
+                },
+                "beta": {
+                    "gid": "7876273924509321619",
+                    "size": "3381841",
+                    "download": "751648"
+                }
+            },
+            "decryptionkey": "46c4930afe0267d2f21f36612561081aa3a5fd5c406ccfff907edc1db0c10f03"
+        },
+        "baselanguages": "english,spanish,tchinese,russian,japanese,bulgarian",
+        "branches": {
+            "public": {
+                "buildid": "14386227",
+                "timeupdated": "1715846322"
+            },
+            "beta": {
+                "buildid": "14386227",
+                "description": "Used for testing changes.",
+                "timeupdated": "1715846294"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
