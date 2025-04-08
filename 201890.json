@@ -1,0 +1,48 @@
+{
+    "appid": "201890",
+    "type": "Tool",
+    "name": "Nuclear Dawn Authoring Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27119347",
+    "update_time": "2025-01-23 05:25:31",
+    "depot": {
+        "201891": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3710433621364001997",
+                    "size": "71223342",
+                    "download": "16986368"
+                }
+            },
+            "decryptionkey": "a788953ef6c6a4333c9294c42fb3e1bf7f0ecad72d5a5e385621fbe2ab2188d9"
+        },
+        "17711": {
+            "systemdefined": "1",
+            "depotfromapp": "17710",
+            "sharedinstall": "2"
+        },
+        "17715": {
+            "systemdefined": "1",
+            "depotfromapp": "17710",
+            "sharedinstall": "2"
+        },
+        "17712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "depotfromapp": "17710",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3212412",
+                "timeupdated": "1539564148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
