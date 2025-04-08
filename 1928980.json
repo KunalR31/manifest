@@ -1,0 +1,63 @@
+{
+    "appid": "1928980",
+    "type": "Game",
+    "name": "Nightingale",
+    "schinese_name": "夜莺传说",
+    "isfreeapp": "0",
+    "change_number": "28158001",
+    "update_time": "2025-03-27 05:39:13",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1928981": {
+            "manifests": {
+                "public": {
+                    "gid": "3730637838450396969",
+                    "size": "58464952714",
+                    "download": "57311866240"
+                },
+                "nightingale-0.3.2": {
+                    "gid": "2657529975709839503",
+                    "size": "53789597174",
+                    "download": "52323012096"
+                },
+                "public-test-realm": {
+                    "gid": "5021493842118486017",
+                    "size": "58457897609",
+                    "download": "57304503536"
+                }
+            },
+            "decryptionkey": "9e9e27b584625ef587f734aed79c2eb91a692a977394c7b37b2198d5fb40122c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17721186",
+                "timeupdated": "1741967549"
+            },
+            "nightingale-0.3.2": {
+                "buildid": "14837574",
+                "description": "Use this branch to access the pre-0.5 (Realms Rebuilt) version of Nightingale including characters and estates exported via our website.",
+                "timeupdated": "1724963313"
+            },
+            "public-test-realm": {
+                "buildid": "17642886",
+                "description": "Test branch for upcoming releases",
+                "timeupdated": "1741395328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
