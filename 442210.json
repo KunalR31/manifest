@@ -1,0 +1,95 @@
+{
+    "appid": "442210",
+    "type": "Game",
+    "name": "Switchcars",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26927295",
+    "update_time": "2025-01-10 00:50:02",
+    "depot": {
+        "442211": {
+            "manifests": {
+                "public": {
+                    "gid": "4027387774032179120",
+                    "size": "0",
+                    "download": "0"
+                },
+                "remote-play": {
+                    "gid": "4027387774032179120",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "99904e33291b1add2c471adb1de24c2efcc994d36a56f09c66247e3d1d20efc6"
+        },
+        "442212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "296190796718447005",
+                    "size": "130510038",
+                    "download": "64543680"
+                },
+                "remote-play": {
+                    "gid": "296190796718447005",
+                    "size": "130510038",
+                    "download": "64543680"
+                }
+            },
+            "decryptionkey": "94a0ec16a0e5fc0767dfda8f778d6f65713c8a6e6805c4d94ef4287523bb79fd"
+        },
+        "442213": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8665612679625360440",
+                    "size": "69225366",
+                    "download": "47013056"
+                },
+                "remote-play": {
+                    "gid": "8665612679625360440",
+                    "size": "69225366",
+                    "download": "47013056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "442214": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6157216492115348257",
+                    "size": "64838486",
+                    "download": "46711024"
+                },
+                "remote-play": {
+                    "gid": "6157216492115348257",
+                    "size": "64838486",
+                    "download": "46711024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "442210",
+        "branches": {
+            "public": {
+                "buildid": "6629929",
+                "timeupdated": "1619801749"
+            },
+            "remote-play": {
+                "buildid": "6629929",
+                "description": "Enables Remote Play (game is still singleplayer though)",
+                "timeupdated": "1619941209"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
