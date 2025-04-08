@@ -1,0 +1,108 @@
+{
+    "appid": "311010",
+    "type": "Game",
+    "name": "The Way",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109910",
+    "update_time": "2025-01-22 18:26:06",
+    "depot": {
+        "311011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6541236403640860027",
+                    "size": "442624673",
+                    "download": "330386608"
+                },
+                "debug": {
+                    "gid": "5007951006953047877",
+                    "size": "419533020",
+                    "download": "342795456"
+                }
+            },
+            "decryptionkey": "5ec3c7d89698de94e7da2ecc86c1eb663586ef7ac77a1a107e7b7ba70d239b85"
+        },
+        "311014": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4168610331875972990",
+                    "size": "443216057",
+                    "download": "349545952"
+                },
+                "debug": {
+                    "gid": "6500157013684700939",
+                    "size": "442233835",
+                    "download": "348091776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "311012": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7151353546249005038",
+                    "size": "442676129",
+                    "download": "347707776"
+                },
+                "debug": {
+                    "gid": "4925090617644629912",
+                    "size": "441656591",
+                    "download": "346115424"
+                }
+            },
+            "decryptionkey": "7fddfe50204737e423b58e0dcbd36d83db16b0d9c7806fe6a6a3218ecf2605b2"
+        },
+        "311013": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5388679043430739741",
+                    "size": "419341101",
+                    "download": "338644992"
+                },
+                "debug": {
+                    "gid": "118621451220367487",
+                    "size": "417330312",
+                    "download": "336524736"
+                }
+            },
+            "decryptionkey": "23a7f1a34ae59e13734845b3ea671e54f4b0af26ca041f97a1e9bfbbf3913d58"
+        },
+        "363640": {
+            "manifests": {
+                "public": {
+                    "gid": "3606828443531406653",
+                    "size": "832639662",
+                    "download": "835954560"
+                }
+            },
+            "dlcappid": "363640",
+            "decryptionkey": "6024a3adf5e56a84f6b0eb3fb80d7edf65aeb0e52ad1560ff02d2d2eb9f41bfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1784629",
+                "timeupdated": "1493289356"
+            },
+            "debug": {
+                "buildid": "1141550",
+                "description": "Test build with prototype fixes",
+                "timeupdated": "1464022860"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
