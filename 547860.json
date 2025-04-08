@@ -1,0 +1,61 @@
+{
+    "appid": "547860",
+    "type": "Game",
+    "name": "Rend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-24 09:02:02",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "547861": {
+            "manifests": {
+                "public": {
+                    "gid": "24407634523301596",
+                    "size": "17380803483",
+                    "download": "4667313248"
+                },
+                "previous": {
+                    "gid": "2846095253642513817",
+                    "size": "17458996974",
+                    "download": "4870454464"
+                },
+                "publictest": {
+                    "gid": "6769823732331261933",
+                    "size": "17387926383",
+                    "download": "4669726880"
+                }
+            },
+            "decryptionkey": "c95cc478cc1d698be25c0c7d924c22440c2a8009d7b8914527bbadba8607c60a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3699678",
+                "timeupdated": "1554230002"
+            },
+            "previous": {
+                "buildid": "3509492",
+                "timeupdated": "1548976031"
+            },
+            "publictest": {
+                "buildid": "3615338",
+                "description": "Test pre-release builds",
+                "timeupdated": "1551734089"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
