@@ -1,0 +1,78 @@
+{
+    "appid": "263420",
+    "type": "Game",
+    "name": "Probably Archery",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 13:56:13",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "263421": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4071265477160681497",
+                    "size": "752469478",
+                    "download": "221508320"
+                },
+                "local": {
+                    "gid": "2384114774705680905",
+                    "size": "752469478",
+                    "download": "221508320"
+                }
+            },
+            "decryptionkey": "cad605676adff0807de1caff96d6d8545f228f88ab756ae6bc512b1cc686df90"
+        },
+        "263422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8562270411145017735",
+                    "size": "758697596",
+                    "download": "224295072"
+                },
+                "local": {
+                    "gid": "3411078548652109705",
+                    "size": "731985682",
+                    "download": "222885216"
+                }
+            },
+            "decryptionkey": "939c76dc7fa850c6aa2ac704c70106163151afad637617cd0588a0a08b42cf39"
+        },
+        "263423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1728697814228350111",
+                    "size": "734057177",
+                    "download": "217748736"
+                },
+                "local": {
+                    "gid": "353795228334320627",
+                    "size": "772115811",
+                    "download": "228792576"
+                }
+            },
+            "decryptionkey": "46f6efb2d9902aa54ea516fe71ddc94f732c0d97bc1c0d6aaa57a1fdb4d3540b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "686972"
+            },
+            "local": {
+                "buildid": "686958",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
