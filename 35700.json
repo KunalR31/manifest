@@ -1,0 +1,85 @@
+{
+    "appid": "35700",
+    "type": "Game",
+    "name": "Trine",
+    "schinese_name": "三位一体",
+    "isfreeapp": "0",
+    "change_number": "27114216",
+    "update_time": "2025-01-22 23:25:23",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "35702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2950437708248876037",
+                    "size": "2269079553",
+                    "download": "1788487408"
+                },
+                "test": {
+                    "gid": "2950437708248876037",
+                    "size": "2269079553",
+                    "download": "1788487408"
+                }
+            },
+            "decryptionkey": "472b5f2018faae2040c349639cd95a387ad8808789aac2f3c759d9eb891c5dd1"
+        },
+        "35701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5439984613117528306",
+                    "size": "4271881517",
+                    "download": "3468720960"
+                },
+                "test": {
+                    "gid": "5439984613117528306",
+                    "size": "4271881517",
+                    "download": "3468720960"
+                }
+            },
+            "decryptionkey": "8821fc91224a9fd6adfbc8e249800fcc1fe09da0c3027de2135b4586d2d0597b"
+        },
+        "35703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8655608350251686727",
+                    "size": "1480164843",
+                    "download": "1203767376"
+                },
+                "test": {
+                    "gid": "8655608350251686727",
+                    "size": "1480164843",
+                    "download": "1203767376"
+                }
+            },
+            "decryptionkey": "3c7b6fbb8261fb8d74c03cb0de74cae206704c8a2ebc9a75ebcdfb1dcb41f965"
+        },
+        "branches": {
+            "public": {
+                "buildid": "758802"
+            },
+            "test": {
+                "buildid": "758802",
+                "description": "Current patch public test"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
