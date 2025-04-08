@@ -1,0 +1,102 @@
+{
+    "appid": "465760",
+    "type": "Game",
+    "name": "Scrap Garden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27108209",
+    "update_time": "2025-01-22 16:27:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "465761": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "808697969402493331",
+                    "size": "1743600890",
+                    "download": "798877424"
+                },
+                "experimental": {
+                    "gid": "1380124934376818852",
+                    "size": "0",
+                    "download": "0"
+                },
+                "stable": {
+                    "gid": "5922769272046529464",
+                    "size": "1747262242",
+                    "download": "798977248"
+                }
+            },
+            "decryptionkey": "0cfaf139749f0d69df406ade472d553711859ec2479fe1609d198c729472a058"
+        },
+        "465762": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6882348177388336119",
+                    "size": "1767025038",
+                    "download": "805951344"
+                },
+                "experimental": {
+                    "gid": "1433653651366633306",
+                    "size": "1748868781",
+                    "download": "800321152"
+                },
+                "stable": {
+                    "gid": "1447146894876630310",
+                    "size": "1770959870",
+                    "download": "806175552"
+                }
+            },
+            "decryptionkey": "6ed7edc2b210ba38ad158391608520609dd46a0be01ef848e3d16a48b12c9b65"
+        },
+        "465763": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2036795238813595131",
+                    "size": "1755226763",
+                    "download": "798564048"
+                },
+                "experimental": {
+                    "gid": "4049033665726107606",
+                    "size": "0",
+                    "download": "0"
+                },
+                "stable": {
+                    "gid": "7544884070799960326",
+                    "size": "1759236631",
+                    "download": "797795968"
+                }
+            },
+            "decryptionkey": "9135c0ec6403daf549e94f2638ca4c8b40e55afbd573e5a9450b0ed192084196"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1789836",
+                "timeupdated": "1601126161"
+            },
+            "experimental": {
+                "buildid": "2953449",
+                "timeupdated": "1531901672"
+            },
+            "stable": {
+                "buildid": "1733856",
+                "timeupdated": "1491322553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
