@@ -1,0 +1,75 @@
+{
+    "appid": "2081080",
+    "type": "Game",
+    "name": "Capes",
+    "schinese_name": "神奇英侠 Capes",
+    "isfreeapp": "0",
+    "change_number": "27769654",
+    "update_time": "2025-03-04 16:13:21",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2081082": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "923150757771285340",
+                    "size": "2944735870",
+                    "download": "2285194336"
+                }
+            },
+            "decryptionkey": "1df105e1632e8d7e1c2fd4604d3608934ae33cd7df6589b0c97972d4d761ea3c"
+        },
+        "2081083": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4690303593594037924",
+                    "size": "3028710938",
+                    "download": "2246826912"
+                }
+            },
+            "decryptionkey": "561bcf6a0392b2ff69dabb7adca4d32a2ec823dea81248a6db9272891f847274"
+        },
+        "2081081": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3864308012223923284",
+                    "size": "3016363956",
+                    "download": "2537210336"
+                }
+            },
+            "decryptionkey": "3c7002768413bc02aacc1891d990d3c6fa273759aa14046e79354d7b85019d03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15300409",
+                "timeupdated": "1724079634"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
