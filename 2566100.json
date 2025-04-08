@@ -1,0 +1,83 @@
+{
+    "appid": "2566100",
+    "type": "Demo",
+    "name": "Scree Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:46:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2566101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8175655424651641902",
+                    "size": "50614700",
+                    "download": "47276800"
+                },
+                "alpha": {
+                    "gid": "2343450834719876582",
+                    "size": "50614700",
+                    "download": "47276496"
+                }
+            },
+            "decryptionkey": "e5b975c371adc082eebb530cc7e7ca3675342ce77630c3fbf910a2e44796f8e6"
+        },
+        "2566102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "664293394801843971",
+                    "size": "58670629",
+                    "download": "49678528"
+                },
+                "alpha": {
+                    "gid": "664293394801843971",
+                    "size": "58670629",
+                    "download": "49678528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2566103": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3350011040597568565",
+                    "size": "53371620",
+                    "download": "47682288"
+                },
+                "alpha": {
+                    "gid": "3350011040597568565",
+                    "size": "53371620",
+                    "download": "47682288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12278091",
+                "timeupdated": "1695672355"
+            },
+            "alpha": {
+                "buildid": "12298199",
+                "description": "Latest broken version",
+                "timeupdated": "1695830814"
+            }
+        }
+    }
+}
