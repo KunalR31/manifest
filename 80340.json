@@ -1,0 +1,73 @@
+{
+    "appid": "80340",
+    "type": "Game",
+    "name": "Blackwell Unbound",
+    "schinese_name": "布莱克威尔之谜",
+    "isfreeapp": "0",
+    "change_number": "28223747",
+    "update_time": "2025-03-31 15:42:07",
+    "depot": {
+        "overridescddb": "1",
+        "80341": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2292866475548600357",
+                    "size": "203336105",
+                    "download": "164719728"
+                }
+            },
+            "decryptionkey": "64f171f47951a667883d1ae0b739e2db4ad25dd666e093e168fa6097cb5be900"
+        },
+        "80342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "362724177430152676",
+                    "size": "270173690",
+                    "download": "181832128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "80343": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1463144835810938234",
+                    "size": "211155453",
+                    "download": "167908944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2022100": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3388152180349710322",
+                    "size": "271150994",
+                    "download": "180163760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17611886",
+                "timeupdated": "1741221055"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
