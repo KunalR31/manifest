@@ -1,0 +1,159 @@
+{
+    "appid": "400180",
+    "type": "Game",
+    "name": "Okhlos: Omega",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27194777",
+    "update_time": "2025-01-28 12:34:04",
+    "depot": {
+        "400181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8797657679652855208",
+                    "size": "756748161",
+                    "download": "423300816"
+                },
+                "enginemigration": {
+                    "gid": "1166427269387353164",
+                    "size": "670404193",
+                    "download": "413127776"
+                },
+                "linuxtest": {
+                    "gid": "1909101596817095938",
+                    "size": "698025678",
+                    "download": "417078304"
+                }
+            },
+            "decryptionkey": "adaedf67deb487d3d2341b2d226e0a94e5b37cf0bf70c62fadac31a3e0688c90"
+        },
+        "400182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8577985233923017311",
+                    "size": "776860713",
+                    "download": "428272240"
+                },
+                "enginemigration": {
+                    "gid": "2333653342786773965",
+                    "size": "675308702",
+                    "download": "415135136"
+                },
+                "linuxtest": {
+                    "gid": "8972132066851184156",
+                    "size": "717904119",
+                    "download": "421891712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "400183": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4546460724092869163",
+                    "size": "792934250",
+                    "download": "433980176"
+                },
+                "enginemigration": {
+                    "gid": "6481201843956078105",
+                    "size": "693632977",
+                    "download": "421446512"
+                },
+                "linuxtest": {
+                    "gid": "6315776426986552819",
+                    "size": "734417176",
+                    "download": "427755648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "509032": {
+            "dlcappid": "509032",
+            "manifests": {
+                "public": {
+                    "gid": "6993828256353289897",
+                    "size": "890984797",
+                    "download": "180402240"
+                },
+                "enginemigration": {
+                    "gid": "6993828256353289897",
+                    "size": "890984797",
+                    "download": "180402240"
+                },
+                "linuxtest": {
+                    "gid": "6993828256353289897",
+                    "size": "890984797",
+                    "download": "180402240"
+                }
+            },
+            "decryptionkey": "d1a2ca37f07d848a2897f31043de349b0d760ea71a0d2ff859e80f2e4b2e0918"
+        },
+        "509031": {
+            "manifests": {
+                "public": {
+                    "gid": "4228387889230249256",
+                    "size": "3453579",
+                    "download": "3068688"
+                },
+                "enginemigration": {
+                    "gid": "4228387889230249256",
+                    "size": "3453579",
+                    "download": "3068688"
+                },
+                "linuxtest": {
+                    "gid": "4228387889230249256",
+                    "size": "3453579",
+                    "download": "3068688"
+                }
+            },
+            "dlcappid": "509031",
+            "decryptionkey": "0531c7ee4707ee6d03c15a7f03f5bd0f6367b9bad9e5b67aee4024935d9d46d4"
+        },
+        "509030": {
+            "manifests": {
+                "public": {
+                    "gid": "7401725338163309860",
+                    "size": "563438883",
+                    "download": "569641696"
+                },
+                "enginemigration": {
+                    "gid": "7401725338163309860",
+                    "size": "563438883",
+                    "download": "569641696"
+                },
+                "linuxtest": {
+                    "gid": "7401725338163309860",
+                    "size": "563438883",
+                    "download": "569641696"
+                }
+            },
+            "dlcappid": "509030",
+            "decryptionkey": "0b090adb0e6d397b6a1b6bff55fd903ce312abfba4661fe2fd645dac030fe4ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5422364",
+                "timeupdated": "1597673336"
+            },
+            "enginemigration": {
+                "buildid": "1367422",
+                "description": "Temporary branch to test the changes during the engine migration",
+                "timeupdated": "1475251901"
+            },
+            "linuxtest": {
+                "buildid": "1541401",
+                "timeupdated": "1482801170"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
