@@ -1,0 +1,188 @@
+{
+    "appid": "236370",
+    "type": "Game",
+    "name": "Interstellar Marines",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109910",
+    "update_time": "2025-01-22 18:26:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "236371": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2276209939383910293",
+                    "size": "5570354555",
+                    "download": "1793773072"
+                },
+                "local": {
+                    "gid": "3144433939742405245",
+                    "size": "4493870982",
+                    "download": "1503722544"
+                },
+                "spearhead-testing": {
+                    "gid": "2276209939383910293",
+                    "size": "5570354555",
+                    "download": "1793773072"
+                }
+            },
+            "decryptionkey": "16c8cc64a5e231a035289e9f4fded0f188a6d36e7179feef5bc703ce7f357769"
+        },
+        "236372": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4734413633620054684",
+                    "size": "5537833160",
+                    "download": "1776740000"
+                },
+                "local": {
+                    "gid": "7562992396204272969",
+                    "size": "4459187266",
+                    "download": "1499952976"
+                },
+                "spearhead-testing": {
+                    "gid": "4734413633620054684",
+                    "size": "5537833160",
+                    "download": "1776740000"
+                }
+            },
+            "decryptionkey": "0fbc656f0fd5261048915ece29f844039a1c2662d5ad87ab7313ee53e1ca3c62"
+        },
+        "242520": {
+            "dlcappid": "242520",
+            "manifests": {
+                "public": {
+                    "gid": "5712797815053436416",
+                    "size": "452469357",
+                    "download": "366879312"
+                },
+                "local": {
+                    "gid": "5712797815053436416",
+                    "size": "452469357",
+                    "download": "366879312"
+                },
+                "spearhead-testing": {
+                    "gid": "5712797815053436416",
+                    "size": "452469357",
+                    "download": "366879312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "236373": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8220541772303697591",
+                    "size": "5533562489",
+                    "download": "1782056400"
+                },
+                "local": {
+                    "gid": "5825135743271551186",
+                    "size": "4492389927",
+                    "download": "1503896624"
+                },
+                "spearhead-testing": {
+                    "gid": "8220541772303697591",
+                    "size": "5533562489",
+                    "download": "1782056400"
+                }
+            },
+            "decryptionkey": "62e73fda0e12e380f72de85c60118b4ad7757e7a6d90757bddedaa3324d18644"
+        },
+        "236374": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3357919615236078919",
+                    "size": "5543515736",
+                    "download": "1771019520"
+                },
+                "spearhead-testing": {
+                    "gid": "3357919615236078919",
+                    "size": "5543515736",
+                    "download": "1771019520"
+                }
+            },
+            "decryptionkey": "7cdfcf83ee47b06cfbfc5d77eae29535025903a2dfaed00d57497d55fa6478b0"
+        },
+        "236375": {
+            "config": {
+                "osarch": "64",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8101265619099628024",
+                    "size": "5573741072",
+                    "download": "1786232656"
+                },
+                "spearhead-testing": {
+                    "gid": "8101265619099628024",
+                    "size": "5573741072",
+                    "download": "1786232656"
+                }
+            },
+            "decryptionkey": "941fa224447d9f3061cc5221c8d20275c8d4489904cf059840af017a80e86f2f"
+        },
+        "236376": {
+            "config": {
+                "osarch": "64",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6833251352069014461",
+                    "size": "5532850172",
+                    "download": "1775628416"
+                },
+                "spearhead-testing": {
+                    "gid": "6833251352069014461",
+                    "size": "5532850172",
+                    "download": "1775628416"
+                }
+            },
+            "decryptionkey": "eca3ac02b240282b2ee70a729f409938f35bbd8266cb09b86c4795c44a46d35e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4518787",
+                "timeupdated": "1576955615"
+            },
+            "local": {
+                "buildid": "919639",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "spearhead-testing": {
+                "buildid": "4518787",
+                "timeupdated": "1576955637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
