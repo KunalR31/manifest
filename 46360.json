@@ -1,0 +1,125 @@
+{
+    "appid": "46360",
+    "type": "Game",
+    "name": "Theatre of War 2: Kursk 1943 ",
+    "schinese_name": "战场2：库尔斯克1943",
+    "isfreeapp": "0",
+    "change_number": "26008216",
+    "update_time": "2024-11-01 23:08:39",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "46361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4841502637087935679",
+                    "size": "1528631333",
+                    "download": "1366418704"
+                }
+            },
+            "decryptionkey": "f2d9148dd15422493606515abb619c202f8003b6a16558074414de240b07daf9"
+        },
+        "46363": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2559125443954666993",
+                    "size": "206495597",
+                    "download": "177754016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "46365": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2575764144800927056",
+                    "size": "858881",
+                    "download": "237856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "46362": {
+            "optional": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9094131146919014878",
+                    "size": "880613064",
+                    "download": "817339776"
+                }
+            },
+            "dlcappid": "46362",
+            "decryptionkey": "12a939067ae917ca301ad4e6b315f57293841e48d1da53ac70e06b60a139002d"
+        },
+        "46364": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "dlcappid": "46362",
+            "manifests": {
+                "public": {
+                    "gid": "263856436362907031",
+                    "size": "34943266",
+                    "download": "25182688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "46366": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "dlcappid": "46362",
+            "manifests": {
+                "public": {
+                    "gid": "2161067607082626533",
+                    "size": "685778",
+                    "download": "183776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "622825"
+            }
+        }
+    }
+}
