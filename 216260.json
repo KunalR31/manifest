@@ -1,0 +1,64 @@
+{
+    "appid": "216260",
+    "type": "Game",
+    "name": "Don Bradman Cricket 14",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27260937",
+    "update_time": "2025-02-01 04:33:48",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "216261": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "785411795042587513",
+                    "size": "1991376299",
+                    "download": "1715844512"
+                },
+                "local": {
+                    "gid": "1195197531159712563",
+                    "size": "2077287918",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7afc06c18d29b2796fd79333c6df86ce919c2b44a8d1da57aa9fb437446e87fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "770693"
+            },
+            "local": {
+                "buildid": "14095",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
