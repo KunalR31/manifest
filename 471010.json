@@ -1,0 +1,87 @@
+{
+    "appid": "471010",
+    "type": "Game",
+    "name": "Seven: Enhanced Edition",
+    "schinese_name": "七: 增强版",
+    "isfreeapp": "0",
+    "change_number": "27113265",
+    "update_time": "2025-01-22 22:26:18",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "471011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6902048654657636042",
+                    "size": "4054148459",
+                    "download": "3782640912"
+                }
+            },
+            "decryptionkey": "2412501f3787f672ed8df8818683aaa4bdca862ae9fc1d273003b2d6f158621a"
+        },
+        "471012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "744872",
+            "manifests": {
+                "public": {
+                    "gid": "7367469256399864258",
+                    "size": "1178",
+                    "download": "832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "471014": {
+            "dlcappid": "744871",
+            "manifests": {
+                "public": {
+                    "gid": "5906045234379325189",
+                    "size": "241155147",
+                    "download": "236178672"
+                }
+            },
+            "decryptionkey": "b2bb436adc3c8998ba6c2e8faf0b5d62d50d437c00017250fcc839993f7d8a82"
+        },
+        "471015": {
+            "dlcappid": "744871",
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8036610317343774893",
+                    "size": "225516634",
+                    "download": "220721040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,polish",
+        "branches": {
+            "public": {
+                "buildid": "12353830",
+                "timeupdated": "1696957203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
