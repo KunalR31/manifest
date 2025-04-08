@@ -1,0 +1,77 @@
+{
+    "appid": "858710",
+    "type": "Game",
+    "name": "Gravity Circuit",
+    "schinese_name": "重力回路",
+    "isfreeapp": "0",
+    "change_number": "26999254",
+    "update_time": "2025-01-15 09:17:48",
+    "depot": {
+        "858711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "223395720885920949",
+                    "size": "326231379",
+                    "download": "321449216"
+                },
+                "linux-appdir": {
+                    "gid": "223395720885920949",
+                    "size": "326231379",
+                    "download": "321449216"
+                }
+            },
+            "decryptionkey": "6dbdcba5ecd774a6c4df7638c0f2baa8ecbbe9a888ab4725d55a1b7293c77372"
+        },
+        "858712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "986792502208725842",
+                    "size": "339963413",
+                    "download": "324591600"
+                },
+                "linux-appdir": {
+                    "gid": "986792502208725842",
+                    "size": "339963413",
+                    "download": "324591600"
+                }
+            },
+            "decryptionkey": "70c88a235658930327b215f07b5ab29ed7ad02ad3b666d8c222bdfb7d9cb12a0"
+        },
+        "858713": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1723600510387146033",
+                    "size": "317436046",
+                    "download": "320291584"
+                },
+                "linux-appdir": {
+                    "gid": "6861099415974587911",
+                    "size": "326928475",
+                    "download": "318468000"
+                }
+            },
+            "decryptionkey": "d8e5e7ac7dd3923f3024f04c98cba52f7b6b47a1a2c271247cbe664cd672c559"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15650081",
+                "timeupdated": "1725979660"
+            },
+            "linux-appdir": {
+                "buildid": "16144093",
+                "description": "AppDir branch. Try this if default branch doesn't work on linux.",
+                "timeupdated": "1729795825"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
