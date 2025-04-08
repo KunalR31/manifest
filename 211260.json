@@ -1,0 +1,105 @@
+{
+    "appid": "211260",
+    "type": "Game",
+    "name": "They Bleed Pixels",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-16 23:14:39",
+    "depot": {
+        "overridescddb": "1",
+        "211261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7936227278933799138",
+                    "size": "359314698",
+                    "download": "322590800"
+                },
+                "linux32": {
+                    "gid": "7522945435347848964",
+                    "size": "280081099",
+                    "download": "244863760"
+                },
+                "xnaversion": {
+                    "gid": "472276650960356979",
+                    "size": "339534204",
+                    "download": "0"
+                },
+                "windpi": {
+                    "gid": "566235651311814957",
+                    "size": "359320421",
+                    "download": "322592672"
+                }
+            },
+            "decryptionkey": "541e58f830b39e10a2904b71e580e6c33a2b56c8cd197c91aadb9d50a0ab5942"
+        },
+        "211263": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3661602501727292460",
+                    "size": "360559918",
+                    "download": "322870464"
+                },
+                "linux32": {
+                    "gid": "4412577946161431075",
+                    "size": "280902746",
+                    "download": "239996016"
+                },
+                "windpi": {
+                    "gid": "7164902211038482227",
+                    "size": "360698038",
+                    "download": "322914912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "211264": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6872066790627334818",
+                    "size": "359994678",
+                    "download": "322671648"
+                },
+                "linux32": {
+                    "gid": "7403344077350121037",
+                    "size": "284809228",
+                    "download": "241253712"
+                },
+                "windpi": {
+                    "gid": "6872066790627334818",
+                    "size": "359994678",
+                    "download": "322671648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5712695",
+                "timeupdated": "1603382882"
+            },
+            "linux32": {
+                "buildid": "1020325",
+                "description": "32-bit Linux (unsupported!)",
+                "timeupdated": "1603309873"
+            },
+            "xnaversion": {
+                "buildid": "27459"
+            },
+            "windpi": {
+                "buildid": "14315911",
+                "description": "Windows DPI Awareness Testing",
+                "timeupdated": "1715262801"
+            }
+        }
+    }
+}
