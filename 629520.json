@@ -1,0 +1,61 @@
+{
+    "appid": "629520",
+    "type": "Application",
+    "name": "Soundpad",
+    "schinese_name": "语音工具",
+    "isfreeapp": "0",
+    "change_number": "28328339",
+    "update_time": "2025-04-06 09:10:14",
+    "depot": {
+        "baselanguages": "",
+        "629521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7342330603713847775",
+                    "size": "17109372",
+                    "download": "5707120"
+                },
+                "3.4.1": {
+                    "gid": "4519935662256761195",
+                    "size": "15710212",
+                    "download": "5035104"
+                }
+            },
+            "decryptionkey": "40df4fcb0748caf1d77bff732f597eebb26b3a36539b1646d149f54eb676807f"
+        },
+        "629522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4968508765236736475",
+                    "size": "15935868",
+                    "download": "5273232"
+                },
+                "3.4.1": {
+                    "gid": "7805643622397552072",
+                    "size": "15199236",
+                    "download": "4698240"
+                }
+            },
+            "decryptionkey": "832c15ab1f9cffda454f899b8d69ce24ae020d79dadfcaf97cb9b4494698b4cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15541452",
+                "timeupdated": "1725005185"
+            },
+            "3.4.1": {
+                "buildid": "6650831",
+                "description": "last stable pre v4.0.0",
+                "timeupdated": "1714055648"
+            }
+        }
+    }
+}
