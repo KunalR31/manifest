@@ -1,0 +1,81 @@
+{
+    "appid": "2010120",
+    "type": "DLC",
+    "name": "TGB Dual",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731473",
+    "update_time": "2025-03-01 17:13:47",
+    "depot": {
+        "2010120": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2010120",
+            "manifests": {
+                "public": {
+                    "gid": "3570468985392380163",
+                    "size": "257848",
+                    "download": "93904"
+                },
+                "nightly": {
+                    "gid": "6329481290516002694",
+                    "size": "257848",
+                    "download": "93904"
+                }
+            },
+            "decryptionkey": "63b26c9bb8ffad65701bffe8fbdc07f16d4f5499b9468a467f81c3b1cee767fc"
+        },
+        "2010122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8094057447804532182",
+                    "size": "137749",
+                    "download": "44560"
+                },
+                "nightly": {
+                    "gid": "8094057447804532182",
+                    "size": "137749",
+                    "download": "44560"
+                }
+            },
+            "dlcappid": "2010120",
+            "decryptionkey": "607b100be088cf8d03afe9e2157dbfc34a8f983b7c326c35a9e705a8892410ed"
+        },
+        "2010123": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7030060969008283883",
+                    "size": "278893",
+                    "download": "67520"
+                },
+                "nightly": {
+                    "gid": "7030060969008283883",
+                    "size": "278893",
+                    "download": "67520"
+                }
+            },
+            "dlcappid": "2010120",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911373",
+                "timeupdated": "1736093803"
+            },
+            "nightly": {
+                "buildid": "17557859",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820422"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
