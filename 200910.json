@@ -1,0 +1,79 @@
+{
+    "appid": "200910",
+    "type": "Game",
+    "name": "Before the Echo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27137445",
+    "update_time": "2025-01-24 04:25:31",
+    "depot": {
+        "overridescddb": "1",
+        "200911": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7278078270785826029",
+                    "size": "342244430",
+                    "download": "286203312"
+                },
+                "linux32": {
+                    "gid": "7278078270785826029",
+                    "size": "342244430",
+                    "download": "286203312"
+                }
+            },
+            "decryptionkey": "c8dee7bdf21c4d51c7924831c71e6a971429f5036c3190ab8d1c4f97283565de"
+        },
+        "200912": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6417954085282353108",
+                    "size": "310566597",
+                    "download": "228746032"
+                },
+                "linux32": {
+                    "gid": "6369521368663122307",
+                    "size": "323173724",
+                    "download": "231919792"
+                }
+            },
+            "decryptionkey": "070ba2c40e5c1b5729e86c654b8bcbb2df7d72f6704d995de94d91a548c574d7"
+        },
+        "200913": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8775340936432278938",
+                    "size": "323642270",
+                    "download": "231958272"
+                },
+                "linux32": {
+                    "gid": "8695402648532255625",
+                    "size": "306729100",
+                    "download": "227637120"
+                }
+            },
+            "decryptionkey": "7f6e141ef99eb7830c18ce6e5817ac3ee125648435a989f466d80f60b385c6e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6032512",
+                "timeupdated": "1609606103"
+            },
+            "linux32": {
+                "buildid": "821538",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609454836"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
