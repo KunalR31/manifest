@@ -1,0 +1,58 @@
+{
+    "appid": "556640",
+    "type": "Game",
+    "name": "Gladius",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26964113",
+    "update_time": "2025-01-13 03:01:16",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "556641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6787864463921220028",
+                    "size": "9039444075",
+                    "download": "3475813696"
+                },
+                "alpha": {
+                    "gid": "9182283231358984605",
+                    "size": "7909116070",
+                    "download": "3058142656"
+                },
+                "beta": {
+                    "gid": "6787864463921220028",
+                    "size": "9039444075",
+                    "download": "3475813696"
+                }
+            },
+            "decryptionkey": "039ccae2122280fff2da563de8b26a4813688868e4354ab5aa8b7139bfbbf74a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11655805",
+                "timeupdated": "1688812810"
+            },
+            "alpha": {
+                "buildid": "12186518",
+                "description": "Work in progress",
+                "timeupdated": "1694683271"
+            },
+            "beta": {
+                "buildid": "11655805",
+                "description": "Beta testing",
+                "timeupdated": "1688812800"
+            }
+        }
+    }
+}
