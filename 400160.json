@@ -1,0 +1,66 @@
+{
+    "appid": "400160",
+    "type": "Game",
+    "name": "Concrete Jungle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28218443",
+    "update_time": "2025-03-31 05:14:36",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "400161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4311486907808161561",
+                    "size": "406000951",
+                    "download": "399008592"
+                },
+                "native": {
+                    "gid": "4311486907808161561",
+                    "size": "406000951",
+                    "download": "399008592"
+                }
+            },
+            "decryptionkey": "0ef1811dfd9564ac27cd0f1371c54a1f28e3d5ba5fbdefb0dd845c663fdbf516"
+        },
+        "400162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1894401229651843958",
+                    "size": "417791690",
+                    "download": "398228304"
+                },
+                "native": {
+                    "gid": "1894401229651843958",
+                    "size": "417791690",
+                    "download": "398228304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3331054",
+                "timeupdated": "1542888170"
+            },
+            "native": {
+                "buildid": "3331054",
+                "description": "OSX native version only",
+                "timeupdated": "1542888159"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
