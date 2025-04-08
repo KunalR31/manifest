@@ -1,0 +1,74 @@
+{
+    "appid": "628200",
+    "type": "Game",
+    "name": "The Invisible Hand",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26226301",
+    "update_time": "2024-11-16 21:34:04",
+    "depot": {
+        "628201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "820709647104464900",
+                    "size": "3545996184",
+                    "download": "836208256"
+                },
+                "linux-beta": {
+                    "gid": "6260729833305557753",
+                    "size": "2508075363",
+                    "download": "764944112"
+                },
+                "unity-upgrade-test": {
+                    "gid": "3929353896814869305",
+                    "size": "3545898411",
+                    "download": "836232832"
+                }
+            },
+            "decryptionkey": "498ff898bc4ef4e331b9cf9ec856d26616f7eb633711a3a6e016baf6a3764873"
+        },
+        "628202": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1690324533468972977",
+                    "size": "2539256007",
+                    "download": "786659232"
+                },
+                "linux-beta": {
+                    "gid": "7281600334996924202",
+                    "size": "2539257671",
+                    "download": "786496192"
+                },
+                "unity-upgrade-test": {
+                    "gid": "7281600334996924202",
+                    "size": "2539257671",
+                    "download": "786496192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14718050",
+                "timeupdated": "1718376386"
+            },
+            "linux-beta": {
+                "buildid": "6704977",
+                "description": "Linux beta build",
+                "timeupdated": "1621083844"
+            },
+            "unity-upgrade-test": {
+                "buildid": "8137433",
+                "description": "For players to test if unity upgrade fixes crash",
+                "timeupdated": "1643881124"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
