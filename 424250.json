@@ -1,0 +1,122 @@
+{
+    "appid": "424250",
+    "type": "Game",
+    "name": "Balrum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538797",
+    "update_time": "2025-02-19 01:13:24",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "424251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2442377558485550251",
+                    "size": "254212856",
+                    "download": "160989744"
+                },
+                "beta": {
+                    "gid": "1784840986122770939",
+                    "size": "254215594",
+                    "download": "160992608"
+                },
+                "legacy": {
+                    "gid": "6401397833903053335",
+                    "size": "209549840",
+                    "download": "141331920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "424252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1286623776767438004",
+                    "size": "278703142",
+                    "download": "167592080"
+                },
+                "beta": {
+                    "gid": "6077905811347322216",
+                    "size": "278705880",
+                    "download": "167594944"
+                },
+                "legacy": {
+                    "gid": "602433700606179101",
+                    "size": "256400901",
+                    "download": "133045520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "424253": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7215738592510591765",
+                    "size": "293476916",
+                    "download": "172496448"
+                },
+                "beta": {
+                    "gid": "4764862530935012250",
+                    "size": "293479654",
+                    "download": "172499312"
+                },
+                "legacy": {
+                    "gid": "424806772777189356",
+                    "size": "259434473",
+                    "download": "133847232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "424254": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "813032790140233090",
+                    "size": "273567852",
+                    "download": "165676176"
+                },
+                "beta": {
+                    "gid": "6259576614749792013",
+                    "size": "273570590",
+                    "download": "165679040"
+                }
+            },
+            "decryptionkey": "be4920578599fbc4a7a7ecfa636b6bb4a82c789c041d80d3351b089cdd6309f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10664955",
+                "timeupdated": "1677675898"
+            },
+            "beta": {
+                "buildid": "10994261",
+                "timeupdated": "1681387230"
+            },
+            "legacy": {
+                "buildid": "2144774",
+                "timeupdated": "1523276324"
+            }
+        }
+    }
+}
