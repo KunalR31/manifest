@@ -1,0 +1,73 @@
+{
+    "appid": "1655680",
+    "type": "Demo",
+    "name": "TOEM Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26627328",
+    "update_time": "2024-12-13 18:18:43",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1655681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "288698160775038745",
+                    "size": "375148101",
+                    "download": "224399808"
+                }
+            },
+            "decryptionkey": "cde54f191688c7fb02370d2580c2f563c720df22c043d4a9cfcfbebcc560023f"
+        },
+        "1655682": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069889728352296236",
+                    "size": "386002239",
+                    "download": "225352128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1655683": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2388792501596436971",
+                    "size": "386764593",
+                    "download": "223919408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11867787",
+                "timeupdated": "1691155706"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
