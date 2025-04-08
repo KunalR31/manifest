@@ -1,0 +1,74 @@
+{
+    "appid": "80310",
+    "type": "Game",
+    "name": "Gemini Rue",
+    "schinese_name": "双子座行动",
+    "isfreeapp": "0",
+    "change_number": "28178324",
+    "update_time": "2025-03-28 04:34:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "80311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "101087114224521363",
+                    "size": "284218216",
+                    "download": "243825712"
+                }
+            },
+            "decryptionkey": "4a81d67d9a92e78d13638d071c5e73e2389bcf9257b7d8a0ed3a19b0fc77c16d"
+        },
+        "80312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5327681545929061842",
+                    "size": "286413425",
+                    "download": "241584608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "80313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7248483874701406496",
+                    "size": "348887218",
+                    "download": "260138144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "80314": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "157428367067918932",
+                    "size": "352177937",
+                    "download": "257038912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16898052",
+                "timeupdated": "1735895354"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
