@@ -1,0 +1,88 @@
+{
+    "appid": "2109850",
+    "type": "Game",
+    "name": "Barbershop Simulator VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27455340",
+    "update_time": "2025-02-13 16:47:47",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2109852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4952812801033576178",
+                    "size": "4196648645",
+                    "download": "692476096"
+                },
+                "beta": {
+                    "gid": "4293692846499574392",
+                    "size": "2040720886",
+                    "download": "577045584"
+                },
+                "dx12": {
+                    "gid": "1080949651627736432",
+                    "size": "4180186525",
+                    "download": "683931248"
+                },
+                "previous": {
+                    "gid": "4293692846499574392",
+                    "size": "2040720886",
+                    "download": "577045584"
+                },
+                "test-pico": {
+                    "gid": "3049471785589869804",
+                    "size": "4659770638",
+                    "download": "732267248"
+                },
+                "vulkan": {
+                    "gid": "8903306818436871380",
+                    "size": "4194204325",
+                    "download": "690857648"
+                }
+            },
+            "decryptionkey": "d2f741d7399c233806473b9e2c35e12cd853a668aefee3096fc9329f62261211"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13152415",
+                "timeupdated": "1705024791"
+            },
+            "beta": {
+                "buildid": "9829958",
+                "description": "beta",
+                "timeupdated": "1696037847"
+            },
+            "dx12": {
+                "buildid": "12326061",
+                "description": "dx12",
+                "timeupdated": "1696101806"
+            },
+            "previous": {
+                "buildid": "9829958",
+                "description": "previous",
+                "timeupdated": "1696356232"
+            },
+            "test-pico": {
+                "buildid": "12367129",
+                "description": "test-pico",
+                "timeupdated": "1696529214"
+            },
+            "vulkan": {
+                "buildid": "12326265",
+                "description": "vulkan",
+                "timeupdated": "1696104566"
+            }
+        }
+    }
+}
