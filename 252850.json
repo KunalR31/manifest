@@ -1,0 +1,78 @@
+{
+    "appid": "252850",
+    "type": "Game",
+    "name": "Streamline",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25269390",
+    "update_time": "2024-09-18 07:17:12",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252852": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1782840557915308339",
+                    "size": "5913481636",
+                    "download": "1354719760"
+                },
+                "test": {
+                    "gid": "6325053622885362988",
+                    "size": "6092493203",
+                    "download": "1400922544"
+                }
+            },
+            "decryptionkey": "d14b84eddbb08d1a2d56431f795adbe9cce0a5e283683a4f506a953acddbc4a4"
+        },
+        "529200": {
+            "manifests": {
+                "public": {
+                    "gid": "403374147599559206",
+                    "size": "609570974",
+                    "download": "533527872"
+                },
+                "test": {
+                    "gid": "403374147599559206",
+                    "size": "609570974",
+                    "download": "533527872"
+                }
+            },
+            "dlcappid": "529200",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1705176",
+                "timeupdated": "1490111013"
+            },
+            "test": {
+                "buildid": "1703400",
+                "timeupdated": "1490042232"
+            }
+        }
+    }
+}
