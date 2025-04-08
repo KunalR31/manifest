@@ -1,0 +1,78 @@
+{
+    "appid": "432470",
+    "type": "Game",
+    "name": "Magdalena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26633211",
+    "update_time": "2024-12-14 00:42:17",
+    "depot": {
+        "baselanguages": "english,russian",
+        "null": {
+            "depotfromapp": "456120"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "432471": {
+            "manifests": {
+                "public": {
+                    "gid": "7383183059693247688",
+                    "size": "4763713274",
+                    "download": "4489274288"
+                },
+                "ue5build": {
+                    "gid": "7383183059693247688",
+                    "size": "4763713274",
+                    "download": "4489274288"
+                }
+            },
+            "decryptionkey": "6579a5645bbf5179b0a034ec17b14b7b143eab8f894f6297ae124db000265e64"
+        },
+        "456120": {
+            "manifests": {
+                "public": {
+                    "gid": "8715788419846399832",
+                    "size": "21959439",
+                    "download": "21809680"
+                },
+                "ue5build": {
+                    "gid": "8715788419846399832",
+                    "size": "21959439",
+                    "download": "21809680"
+                }
+            },
+            "dlcappid": "456120",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12210015",
+                "timeupdated": "1694959996"
+            },
+            "ue5build": {
+                "buildid": "12210015",
+                "description": "Unreal Engine 5 Build",
+                "timeupdated": "1694959987"
+            }
+        }
+    }
+}
