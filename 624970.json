@@ -1,0 +1,78 @@
+{
+    "appid": "624970",
+    "type": "Game",
+    "name": "Battlezone: Combat Commander",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28336541",
+    "update_time": "2025-04-07 06:47:26",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "624971": {
+            "manifests": {
+                "public": {
+                    "gid": "1759517984703170862",
+                    "size": "7871923349",
+                    "download": "3197411616"
+                },
+                "beta-patch": {
+                    "gid": "1759517984703170862",
+                    "size": "7871923349",
+                    "download": "3197411616"
+                },
+                "community": {
+                    "gid": "4553585187115871899",
+                    "size": "7807784082",
+                    "download": "3199598304"
+                }
+            },
+            "decryptionkey": "8336cd937fbd3f08a9a9eabf7951b60ee81abebc93f3452805523d8afa1f91f6"
+        },
+        "workshopdepot": "624970",
+        "branches": {
+            "public": {
+                "buildid": "3807009",
+                "timeupdated": "1559138340"
+            },
+            "beta-patch": {
+                "buildid": "3807009",
+                "description": "Open beta patch",
+                "timeupdated": "1558090047"
+            },
+            "community": {
+                "buildid": "16438617",
+                "description": "Open Beta: Builds approved for community testing",
+                "timeupdated": "1736637106"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "50d5c0ad01575dc4bad7dcb6cd5591a51935e6a2d32af9ce57de9b13c7574033"
+    }
+}
