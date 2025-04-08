@@ -1,0 +1,66 @@
+{
+    "appid": "269630",
+    "type": "Game",
+    "name": "A Mass of Dead",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28241995",
+    "update_time": "2025-04-01 13:50:58",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,koreana,russian,ukrainian",
+        "269632": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5674053136945369248",
+                    "size": "475891137",
+                    "download": "208857824"
+                }
+            },
+            "decryptionkey": "73b6f16fe74e1747b38e97ac6312d4e946c7abe521e0b5243e48298743b9e764"
+        },
+        "269633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1564362188182810935",
+                    "size": "482604445",
+                    "download": "211512368"
+                }
+            },
+            "decryptionkey": "a9aa863d7302029a98cb7a664d356fa02862d7504cfa275e60bf8ce09b5d6eae"
+        },
+        "269631": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7568111261969741861",
+                    "size": "481971542",
+                    "download": "212735920"
+                }
+            },
+            "decryptionkey": "ea332a5ee9b1152f952024bb01a7821a94ccb81975be396fb4d2884f0337c158"
+        },
+        "branches": {
+            "public": {
+                "buildid": "936362"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
