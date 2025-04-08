@@ -1,0 +1,82 @@
+{
+    "appid": "258160",
+    "type": "Game",
+    "name": "Rise of Incarnates",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19661327",
+    "update_time": "2024-05-24 10:24:07",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "258161": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4419574268431013216",
+                    "size": "298161995",
+                    "download": "208664480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "258162": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4474598343419661288",
+                    "size": "298161995",
+                    "download": "208650032"
+                }
+            },
+            "decryptionkey": "21d030eeb276fac64442965f6ee12d0448cdadf9c25f2f9460cfce371155e011"
+        },
+        "258163": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5362982424166556588",
+                    "size": "200896",
+                    "download": "87632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "899292"
+            }
+        }
+    }
+}
