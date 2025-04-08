@@ -1,0 +1,74 @@
+{
+    "appid": "698870",
+    "type": "Game",
+    "name": "Metaverse Keeper",
+    "schinese_name": "元能失控 Metaverse Keeper",
+    "isfreeapp": "0",
+    "change_number": "27074000",
+    "update_time": "2025-01-20 18:53:06",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese,russian,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "698871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2290562277033708194",
+                    "size": "2526897093",
+                    "download": "345710960"
+                },
+                "beta": {
+                    "gid": "7908971528600100742",
+                    "size": "1941804723",
+                    "download": "300921136"
+                }
+            },
+            "decryptionkey": "55180049c19ad19107f35d910516ca0bfc8a9873cacf97e1d95a60de33e09e6b"
+        },
+        "698872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7934067424438692987",
+                    "size": "2511640789",
+                    "download": "342244608"
+                },
+                "beta": {
+                    "gid": "4905121372753616741",
+                    "size": "1921435953",
+                    "download": "295756768"
+                }
+            },
+            "decryptionkey": "d3975219821b39d8c061ec4033ef6a4c61738a5652f1400cdfb4e5c41fd7fb7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7019263",
+                "timeupdated": "1627023257"
+            },
+            "beta": {
+                "buildid": "5185113",
+                "timeupdated": "1592528339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
