@@ -1,0 +1,81 @@
+{
+    "appid": "897930",
+    "type": "Game",
+    "name": "Demonheart: Hunters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28210143",
+    "update_time": "2025-03-30 06:15:39",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "897931": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7396440992270376682",
+                    "size": "551244590",
+                    "download": "423186672"
+                },
+                "v135": {
+                    "gid": "4127283612838265439",
+                    "size": "529747870",
+                    "download": "401975808"
+                }
+            },
+            "decryptionkey": "42f5055bb59c33a4d699e19f4f95367c949bc7e969d957a7ceae778cdcd666a6"
+        },
+        "897932": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6556369319135625200",
+                    "size": "812319777",
+                    "download": "499007328"
+                },
+                "v135": {
+                    "gid": "5585772999676082215",
+                    "size": "790912966",
+                    "download": "477878496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "897933": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6736713216982140793",
+                    "size": "686183134",
+                    "download": "451374512"
+                },
+                "v135": {
+                    "gid": "3434507935400320046",
+                    "size": "664697054",
+                    "download": "430163856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13306069",
+                "timeupdated": "1706562968"
+            },
+            "v135": {
+                "buildid": "11496608",
+                "description": "Use this if update v2.00 broke your save",
+                "timeupdated": "1705710380"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
