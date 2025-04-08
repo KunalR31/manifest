@@ -1,0 +1,138 @@
+{
+    "appid": "22500",
+    "type": "Game",
+    "name": "Spectromancer",
+    "schinese_name": "魔幻卡牌",
+    "isfreeapp": "0",
+    "change_number": "28118552",
+    "update_time": "2025-03-25 06:51:33",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,schinese,russian,brazilian",
+        "22501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "905068500080488142",
+                    "size": "53439507",
+                    "download": "31312896"
+                },
+                "spectrogop": {
+                    "gid": "905068500080488142",
+                    "size": "53439507",
+                    "download": "31312896"
+                }
+            },
+            "decryptionkey": "01f37b80b805c724aa23ae4aed5da740870cd5ac7343ba89522639ce057db1ae"
+        },
+        "22502": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3729096952608132880",
+                    "size": "3352266",
+                    "download": "1691376"
+                },
+                "spectrogop": {
+                    "gid": "3729096952608132880",
+                    "size": "3352266",
+                    "download": "1691376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "22521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6202382916935725644",
+                    "size": "9208123",
+                    "download": "6656144"
+                },
+                "spectrogop": {
+                    "gid": "2847556370001983081",
+                    "size": "9010531",
+                    "download": "5623392"
+                }
+            },
+            "dlcappid": "22521",
+            "decryptionkey": "eebdbd9c86375bd79e062f0ed87021f5fcea14e87ec9722e29ac022311b501af"
+        },
+        "22503": {
+            "config": {
+                "language": "russian"
+            },
+            "dlcappid": "22521",
+            "manifests": {
+                "public": {
+                    "gid": "698935902119380694",
+                    "size": "3550468",
+                    "download": "1442064"
+                },
+                "spectrogop": {
+                    "gid": "8331132095479619006",
+                    "size": "3550384",
+                    "download": "1450208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "22504": {
+            "config": {
+                "language": "schinese"
+            },
+            "dlcappid": "22521",
+            "manifests": {
+                "public": {
+                    "gid": "2597082164831238287",
+                    "size": "39112008",
+                    "download": "24498560"
+                },
+                "spectrogop": {
+                    "gid": "5075555192844867465",
+                    "size": "37221192",
+                    "download": "23765728"
+                }
+            },
+            "decryptionkey": "2ff099460d6813d085e0269cfb70219c11c9d0c506e75eaf767a3e155e57db08"
+        },
+        "22505": {
+            "dlcappid": "22521",
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7441367777741751678",
+                    "size": "4980721",
+                    "download": "1843296"
+                },
+                "spectrogop": {
+                    "gid": "7441367777741751678",
+                    "size": "4980721",
+                    "download": "1843296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9361253",
+                "timeupdated": "1661170248"
+            },
+            "spectrogop": {
+                "buildid": "6283161",
+                "description": "ver 1.31",
+                "timeupdated": "1614161969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
