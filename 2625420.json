@@ -1,0 +1,56 @@
+{
+    "appid": "2625420",
+    "type": "Game",
+    "name": "Drive Beyond Horizons",
+    "schinese_name": "驾驶地平线",
+    "isfreeapp": "0",
+    "change_number": "28346289",
+    "update_time": "2025-04-07 21:18:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2625421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3593538727459793123",
+                    "size": "7962157108",
+                    "download": "7713894560"
+                },
+                "oldsavesystem": {
+                    "gid": "8262611096300714803",
+                    "size": "7877360889",
+                    "download": "7628405344"
+                }
+            },
+            "decryptionkey": "e6632a8ac0813239fe1784858878c1dc48c48075d55d2b4045f529ba7ba3a01c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18003096",
+                "timeupdated": "1743961871"
+            },
+            "oldsavesystem": {
+                "buildid": "17907260",
+                "description": "Branch for old save system",
+                "timeupdated": "1743223065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
