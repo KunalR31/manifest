@@ -1,0 +1,48 @@
+{
+    "appid": "1006120",
+    "type": "Game",
+    "name": "Tetsumo Party",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27728393",
+    "update_time": "2025-03-01 09:22:47",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1006121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1218191187505437847",
+                    "size": "305999999",
+                    "download": "56087216"
+                },
+                "beta": {
+                    "gid": "4963913869070187384",
+                    "size": "305999999",
+                    "download": "56087200"
+                }
+            },
+            "decryptionkey": "dc30331dc5f92e0567e14bcba4b40010b7ef50e889e3e46f43ad7265e8a08f90"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "4065785",
+                "timeupdated": "1564667765"
+            },
+            "beta": {
+                "buildid": "4087150",
+                "description": "Automatic beta builds",
+                "timeupdated": "1565275241"
+            }
+        }
+    }
+}
