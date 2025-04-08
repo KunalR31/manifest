@@ -1,0 +1,88 @@
+{
+    "appid": "431930",
+    "type": "Game",
+    "name": "Kabounce",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26256535",
+    "update_time": "2024-11-19 14:23:13",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "431931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1676972921826863634",
+                    "size": "2997306460",
+                    "download": "881061904"
+                },
+                "local": {
+                    "gid": "3888865830654491640",
+                    "size": "2164428803",
+                    "download": "366429696"
+                }
+            },
+            "decryptionkey": "2d2249ea5f9361411f66a933a519637942f5529e2a3b56a67767b0ef658c2b00"
+        },
+        "431932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6835211348409183572",
+                    "size": "2964466865",
+                    "download": "855990624"
+                }
+            },
+            "decryptionkey": "ba1b073de87859ec00ac819508332215feb5274efa7fc0ea59f8536d62343c64"
+        },
+        "866320": {
+            "manifests": {
+                "public": {
+                    "gid": "985159723497214847",
+                    "size": "98975733",
+                    "download": "98855008"
+                }
+            },
+            "dlcappid": "866320",
+            "decryptionkey": "4962a8dbf94b973cf5720e28441d425b11132e236d8da68217ed2b4e9ba2e3ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5736891",
+                "timeupdated": "1603716959"
+            },
+            "local": {
+                "buildid": "1023437",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
