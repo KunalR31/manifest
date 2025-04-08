@@ -1,0 +1,116 @@
+{
+    "appid": "361990",
+    "type": "Game",
+    "name": "Lakeview Cabin Collection",
+    "schinese_name": "湖边小屋",
+    "isfreeapp": "0",
+    "change_number": "27111598",
+    "update_time": "2025-01-22 20:26:35",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "361991": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "126612989678083890",
+                    "size": "746870465",
+                    "download": "293911040"
+                },
+                "controllerfix": {
+                    "gid": "804540903669988061",
+                    "size": "726453155",
+                    "download": "283786144"
+                },
+                "controllerfixb": {
+                    "gid": "8531568196235575295",
+                    "size": "726453159",
+                    "download": "283756448"
+                },
+                "noachievements": {
+                    "gid": "4394587279278147399",
+                    "size": "725445991",
+                    "download": "283726976"
+                },
+                "opengl": {
+                    "gid": "8367021776692239075",
+                    "size": "725495587",
+                    "download": "283736720"
+                }
+            },
+            "decryptionkey": "73801ba5a46dc0095d6b2f5e8dbda30b7834de4b0dc3b72ab57653bf9a93a5f2"
+        },
+        "361993": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2446513474361823314",
+                    "size": "756316179",
+                    "download": "295724608"
+                },
+                "controllerfix": {
+                    "gid": "3224620110460565749",
+                    "size": "768270267",
+                    "download": "295880080"
+                },
+                "controllerfixb": {
+                    "gid": "3224620110460565749",
+                    "size": "768270267",
+                    "download": "295880080"
+                },
+                "noachievements": {
+                    "gid": "5836012158480111117",
+                    "size": "768221151",
+                    "download": "295879152"
+                },
+                "opengl": {
+                    "gid": "25690203678034950",
+                    "size": "768270279",
+                    "download": "295851744"
+                }
+            },
+            "decryptionkey": "79b6cc38925c02806302d71c4fe8e02ea50595bc4da277d983d67078dfaffd36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2415026",
+                "timeupdated": "1515154597"
+            },
+            "controllerfix": {
+                "buildid": "1832977",
+                "timeupdated": "1495258196"
+            },
+            "controllerfixb": {
+                "buildid": "1835129",
+                "timeupdated": "1495258226"
+            },
+            "noachievements": {
+                "buildid": "1304170",
+                "timeupdated": "1472372627"
+            },
+            "opengl": {
+                "buildid": "1805591",
+                "timeupdated": "1494228736"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
