@@ -1,0 +1,98 @@
+{
+    "appid": "6020",
+    "type": "Game",
+    "name": "STAR WARS™ Jedi Knight: Jedi Academy™",
+    "schinese_name": "星球大战：绝地武士3",
+    "isfreeapp": "0",
+    "change_number": "28181091",
+    "update_time": "2025-03-28 08:14:49",
+    "depot": {
+        "6021": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6927902281353816404",
+                    "size": "1332353423",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f745c993a0ccded106e85f47a80a9dcb6fc588690e20dae76393f0057283bfaf"
+        },
+        "6022": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2790077089176024383",
+                    "size": "14030",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e0dc495e2d14fa6fa01a58714aba151ce54c4582778595803a77ea12e6ebf17b"
+        },
+        "6023": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7901891665523225948",
+                    "size": "14028",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d1647205dc8aa9a6774166d73614227dd4f66f121a06411b9717bb4d9986f388"
+        },
+        "6024": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5094143811248357121",
+                    "size": "14030",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "99bd3178dd1429b7d93f4ce31d5a8e6bd5c51eaea8f056782ecda437b9a5f246"
+        },
+        "6025": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5454027630159677174",
+                    "size": "1246131289",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5454027630159677174",
+                    "size": "1246131289",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "443ca25b7f604ad880e44bf1f8fec552bdfefdddd4f0ce7f39a428445cda9a36"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "131484"
+            },
+            "local": {
+                "buildid": "126452",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
