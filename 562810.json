@@ -1,0 +1,85 @@
+{
+    "appid": "562810",
+    "type": "Game",
+    "name": "Monopoly Plus",
+    "schinese_name": "强手棋：加强版",
+    "isfreeapp": "0",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:32",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "562811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2891848507418208928",
+                    "size": "1492312896",
+                    "download": "950325424"
+                },
+                "local": {
+                    "gid": "8909771572342597545",
+                    "size": "1568464502",
+                    "download": "1026851664"
+                },
+                "security": {
+                    "gid": "9034184135983333669",
+                    "size": "1290420984",
+                    "download": "1097428608"
+                }
+            },
+            "decryptionkey": "2167d0c08caf4089421eb05ba77a5ec0c869f51a58cc0090827aed949dafb59c"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10831049",
+                "timeupdated": "1679505276"
+            },
+            "local": {
+                "buildid": "3539876",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1549539536"
+            },
+            "security": {
+                "buildid": "1736601",
+                "lcsrequired": "1",
+                "timeupdated": "1491455284"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
