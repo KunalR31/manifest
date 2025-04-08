@@ -1,0 +1,85 @@
+{
+    "appid": "296050",
+    "type": "Game",
+    "name": "Battlepaths",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28144807",
+    "update_time": "2025-03-26 15:45:52",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "296051": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3879079947112031312",
+                    "size": "224514664",
+                    "download": "47591648"
+                },
+                "v173": {
+                    "gid": "8809610585534822033",
+                    "size": "269033134",
+                    "download": "115254608"
+                }
+            },
+            "decryptionkey": "0605bff36d42b0d64a6dce6c53ea1e845805150b0e07ce3906411e2a960e2e1f"
+        },
+        "296052": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1601101408038246026",
+                    "size": "182117484",
+                    "download": "56400992"
+                },
+                "v173": {
+                    "gid": "8011321144869161117",
+                    "size": "308286041",
+                    "download": "147689056"
+                }
+            },
+            "decryptionkey": "0697c31ea1cdc3c6bab51b791c90431232032e8526933c4d275b7a37d56bcf35"
+        },
+        "322480": {
+            "manifests": {
+                "public": {
+                    "gid": "5328668709648359064",
+                    "size": "32923385",
+                    "download": "32297216"
+                },
+                "v173": {
+                    "gid": "5328668709648359064",
+                    "size": "32923385",
+                    "download": "32297216"
+                }
+            },
+            "dlcappid": "322480",
+            "decryptionkey": "f86b646daa57a2ed679ea46bf1d5546196cbd53e70e44978d633cab8bd4498da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1805600",
+                "timeupdated": "1494171869"
+            },
+            "v173": {
+                "buildid": "695970",
+                "description": "Version 1.73 - XNA",
+                "timeupdated": "1463983803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
