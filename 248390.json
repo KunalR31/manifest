@@ -1,0 +1,86 @@
+{
+    "appid": "248390",
+    "type": "Game",
+    "name": "Craft The World",
+    "schinese_name": "打造世界",
+    "isfreeapp": "0",
+    "change_number": "28265386",
+    "update_time": "2025-04-02 17:58:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,russian",
+        "markdlcdepots": "1",
+        "248391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8673871995500070470",
+                    "size": "1065786402",
+                    "download": "657815440"
+                },
+                "experimental": {
+                    "gid": "8235303017103447037",
+                    "size": "1143054723",
+                    "download": "617594480"
+                },
+                "beta_open": {
+                    "gid": "4648786946889693443",
+                    "size": "1290072288",
+                    "download": "713821808"
+                }
+            },
+            "decryptionkey": "274bd06c718fcd808c0da011f82ad6dd30d033820190fb44486a5d9620b13d4b"
+        },
+        "248392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1106942653256281482",
+                    "size": "879162847",
+                    "download": "609878480"
+                },
+                "experimental": {
+                    "gid": "9038203654293119427",
+                    "size": "645142807",
+                    "download": "423981184"
+                },
+                "beta_open": {
+                    "gid": "5358140588147970910",
+                    "size": "777848461",
+                    "download": "542653296"
+                }
+            },
+            "decryptionkey": "7be3e3d259ff5cd3081f3ff4835215fca8d605a5967ae88d08892a48ccc916a0"
+        },
+        "workshopdepot": "248390",
+        "branches": {
+            "public": {
+                "buildid": "17761488",
+                "timeupdated": "1742279824"
+            },
+            "experimental": {
+                "buildid": "8471956",
+                "description": "Public experimental branch",
+                "timeupdated": "1648718748"
+            },
+            "beta_open": {
+                "buildid": "16757249",
+                "timeupdated": "1734342311"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
