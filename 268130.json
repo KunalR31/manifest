@@ -1,0 +1,108 @@
+{
+    "appid": "268130",
+    "type": "Game",
+    "name": "Heat Signature",
+    "schinese_name": "热能标记",
+    "isfreeapp": "0",
+    "change_number": "27103031",
+    "update_time": "2025-01-22 08:43:23",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "268130",
+        "268131": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4332629712487444634",
+                    "size": "199464047",
+                    "download": "151703744"
+                },
+                "nextversion": {
+                    "gid": "4332629712487444634",
+                    "size": "199464047",
+                    "download": "151703744"
+                },
+                "prebirthday": {
+                    "gid": "5044496668170679973",
+                    "size": "192312594",
+                    "download": "149241488"
+                },
+                "previousversion": {
+                    "gid": "6997172000185687667",
+                    "size": "199445488",
+                    "download": "151695648"
+                }
+            },
+            "decryptionkey": "c24a36c5acb159e883e2ffe2892c877f2fec4aed8d6ad69ec16dd706e312d2ba"
+        },
+        "710350": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "710350",
+            "manifests": {
+                "public": {
+                    "gid": "2596821283755037160",
+                    "size": "3105143338",
+                    "download": "3104202592"
+                },
+                "nextversion": {
+                    "gid": "2596821283755037160",
+                    "size": "3105143338",
+                    "download": "3104202592"
+                },
+                "prebirthday": {
+                    "gid": "2596821283755037160",
+                    "size": "3105143338",
+                    "download": "3104202592"
+                },
+                "previousversion": {
+                    "gid": "2596821283755037160",
+                    "size": "3105143338",
+                    "download": "3104202592"
+                }
+            },
+            "decryptionkey": "4143c404ab7b173a30f8f4b6ec80055e1461981b2d83e44b646111706f71bdf8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6124596",
+                "timeupdated": "1611783862"
+            },
+            "nextversion": {
+                "buildid": "6124596",
+                "description": "Test the next patch",
+                "timeupdated": "1611341881"
+            },
+            "prebirthday": {
+                "buildid": "2519836",
+                "description": "Play without the Space Birthday Update",
+                "timeupdated": "1538838896"
+            },
+            "previousversion": {
+                "buildid": "4325219",
+                "description": "Previous major patch",
+                "timeupdated": "1611783846"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "fae5c47fbafe6d566952e16f55f1278f4394d5da2c6639196252ed6d026c525f"
+    }
+}
