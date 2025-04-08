@@ -1,0 +1,60 @@
+{
+    "appid": "236490",
+    "type": "Game",
+    "name": "Hexodius",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26832614",
+    "update_time": "2025-01-01 22:18:08",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "236491": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7147966141859319653",
+                    "size": "453314703",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "7147966141859319653",
+                    "size": "453314703",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "baf4f3a610d19c06f0488e0625dd8451a475c5a76c6f99541b131740b26bb784"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "87710"
+            },
+            "local": {
+                "buildid": "87710",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
