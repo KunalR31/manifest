@@ -1,0 +1,95 @@
+{
+    "appid": "445040",
+    "type": "Game",
+    "name": "Sorcery! Part 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27137452",
+    "update_time": "2025-01-24 04:26:07",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "445041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2310997236696838324",
+                    "size": "405905650",
+                    "download": "348656736"
+                },
+                "beta": {
+                    "gid": "1245891868642379283",
+                    "size": "407146818",
+                    "download": "349161392"
+                },
+                "mac-workaround": {
+                    "gid": "2597234179644380634",
+                    "size": "405905650",
+                    "download": "348655056"
+                }
+            },
+            "decryptionkey": "a760548a371aa907700a7c9f8857ab01c45651aabf16a9d67a08d4efd48ed89f"
+        },
+        "445042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3673234793701143285",
+                    "size": "378836418",
+                    "download": "341713808"
+                },
+                "beta": {
+                    "gid": "1276628317639561110",
+                    "size": "379868019",
+                    "download": "342052624"
+                },
+                "mac-workaround": {
+                    "gid": "5388249864537105560",
+                    "size": "378836418",
+                    "download": "341716768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1613745",
+                "timeupdated": "1486679722"
+            },
+            "beta": {
+                "buildid": "2322853",
+                "description": "Prerelease testing",
+                "timeupdated": "1511895051"
+            },
+            "mac-workaround": {
+                "buildid": "1628163",
+                "description": "Possible workaround for macOS 10.9.5 crash",
+                "timeupdated": "1487007495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
