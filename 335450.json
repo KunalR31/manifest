@@ -1,0 +1,80 @@
+{
+    "appid": "335450",
+    "type": "Game",
+    "name": "Curse of the Assassin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25829575",
+    "update_time": "2024-10-22 08:16:32",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "335451": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3829033815167873882",
+                    "size": "200725156",
+                    "download": "73821504"
+                },
+                "beta": {
+                    "gid": "3829033815167873882",
+                    "size": "200725156",
+                    "download": "73821504"
+                }
+            },
+            "decryptionkey": "69957a63e2f4f4b677194dec51f644c853c77bcecbcd8c3b4533133d7982ca4e"
+        },
+        "335452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "475391958296515641",
+                    "size": "180218520",
+                    "download": "62658560"
+                },
+                "beta": {
+                    "gid": "475391958296515641",
+                    "size": "180218520",
+                    "download": "62658560"
+                }
+            },
+            "decryptionkey": "0fde542af82105c21dee6007ebc7db574f6e1dc40a7aa4e59c1d0c5a0f63f958"
+        },
+        "335453": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4330509803742700134",
+                    "size": "170355588",
+                    "download": "60056800"
+                },
+                "beta": {
+                    "gid": "4330509803742700134",
+                    "size": "170355588",
+                    "download": "60056800"
+                }
+            },
+            "decryptionkey": "3d28dce5231dabc9d76484a09c097c91f416fe7e8993d40b4de53700daddbc67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "792052"
+            },
+            "beta": {
+                "buildid": "792052"
+            }
+        }
+    }
+}
