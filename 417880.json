@@ -1,0 +1,75 @@
+{
+    "appid": "417880",
+    "type": "Game",
+    "name": "Everybody's Gone to the Rapture",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27802553",
+    "update_time": "2025-03-06 05:07:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "417881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "920633019469968878",
+                    "size": "6818804297",
+                    "download": "6562883856"
+                },
+                "map_save": {
+                    "gid": "4170650411455782747",
+                    "size": "6818804443",
+                    "download": "6562883920"
+                }
+            },
+            "decryptionkey": "9b6cbc83069b2be57078184b482130c16a1e23d015513740f8d68d808f2edfca"
+        },
+        "417889": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7863813500968796133",
+                    "size": "1595298304",
+                    "download": "240537504"
+                },
+                "map_save": {
+                    "gid": "7863813500968796133",
+                    "size": "1595298304",
+                    "download": "240537504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1197371",
+                "timeupdated": "1466777732"
+            },
+            "map_save": {
+                "buildid": "1197326",
+                "description": "Enables manual saves at maps",
+                "timeupdated": "1466776400"
+            }
+        }
+    }
+}
