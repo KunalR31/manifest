@@ -1,0 +1,62 @@
+{
+    "appid": "753590",
+    "type": "Game",
+    "name": "Hellbound",
+    "schinese_name": "地狱使者",
+    "isfreeapp": "0",
+    "change_number": "27257929",
+    "update_time": "2025-02-01 01:12:35",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "753591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8681915770002770383",
+                    "size": "19634230883",
+                    "download": "6647135792"
+                }
+            },
+            "decryptionkey": "96f72b2e7b96ebdc347602ef2a8bb3a25e4730d8b4b5714476c630895760f90a"
+        },
+        "1461510": {
+            "dlcappid": "1461510",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9039521845598328877",
+                    "size": "747063417",
+                    "download": "669919632"
+                }
+            },
+            "decryptionkey": "13a8ef767b3ddba5da9023195abe2650179f51f4b228ee380044c11945fdb893"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6959533",
+                "timeupdated": "1625081747"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
