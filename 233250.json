@@ -1,0 +1,164 @@
+{
+    "appid": "233250",
+    "type": "Game",
+    "name": "Planetary Annihilation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 05:26:49",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "233254": {
+            "manifests": {
+                "public": {
+                    "gid": "1460480953619964231",
+                    "size": "3017798761",
+                    "download": "1913227120"
+                },
+                "legacy": {
+                    "gid": "256151444186745011",
+                    "size": "3018758114",
+                    "download": "1913267056"
+                },
+                "modern-test": {
+                    "gid": "4287804212606698540",
+                    "size": "3026817203",
+                    "download": "1914390992"
+                }
+            },
+            "decryptionkey": "e9d88560188f5adf9646ed663f82f925710c8fef1646a976cd13091efe12012b"
+        },
+        "233251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6332942348818122601",
+                    "size": "494864414",
+                    "download": "117037968"
+                },
+                "legacy": {
+                    "gid": "6606197108822285439",
+                    "size": "487411756",
+                    "download": "115536960"
+                },
+                "modern-test": {
+                    "gid": "7134838270655472019",
+                    "size": "532415730",
+                    "download": "125206272"
+                }
+            },
+            "decryptionkey": "bb27ddfb25c31b36b4dc0bb768c60f17a4b2f45d7bee79053a656d1068f0494e"
+        },
+        "233252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4599280778852794399",
+                    "size": "365731780",
+                    "download": "81964576"
+                },
+                "legacy": {
+                    "gid": "6603517536179538477",
+                    "size": "365772530",
+                    "download": "81975184"
+                },
+                "modern-test": {
+                    "gid": "6761764843622017920",
+                    "size": "361987728",
+                    "download": "77876736"
+                }
+            },
+            "decryptionkey": "034186e1efed61feae749e834f994e99996ac84e0d3d949128701c18497b9caa"
+        },
+        "233253": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2887602972104602169",
+                    "size": "871668804",
+                    "download": "227241712"
+                },
+                "legacy": {
+                    "gid": "1775457053572150435",
+                    "size": "871820634",
+                    "download": "227260672"
+                },
+                "modern-test": {
+                    "gid": "7586964329360614124",
+                    "size": "871271341",
+                    "download": "227659552"
+                }
+            },
+            "decryptionkey": "1f62a06bd4948bf4dbee3b373b403f5cd04479b633aa15d4853fd7f7adc9c2d4"
+        },
+        "323420": {
+            "manifests": {
+                "public": {
+                    "gid": "3665546910745138402",
+                    "size": "251541356",
+                    "download": "214194032"
+                },
+                "legacy": {
+                    "gid": "3665546910745138402",
+                    "size": "251541356",
+                    "download": "214194032"
+                },
+                "modern-test": {
+                    "gid": "3665546910745138402",
+                    "size": "251541356",
+                    "download": "214194032"
+                }
+            },
+            "dlcappid": "323420",
+            "decryptionkey": "8bf5c725df5aa1cb4fa250299b09ba1cfeb4c608b0da77473afee9be952b6343"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "7190223",
+                "timeupdated": "1628950616"
+            },
+            "legacy": {
+                "buildid": "7190271",
+                "description": "Default for older CPUs",
+                "timeupdated": "1628950604"
+            },
+            "modern-test": {
+                "buildid": "9373350",
+                "description": " Modern Public Test Environment",
+                "timeupdated": "1661282735"
+            }
+        }
+    }
+}
