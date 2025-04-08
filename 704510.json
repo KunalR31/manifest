@@ -1,0 +1,75 @@
+{
+    "appid": "704510",
+    "type": "Game",
+    "name": "Mercury Fallen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28007450",
+    "update_time": "2025-03-18 13:55:37",
+    "depot": {
+        "workshopdepot": "704510",
+        "704513": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5178159154911877415",
+                    "size": "680271418",
+                    "download": "219980224"
+                },
+                "experimental": {
+                    "gid": "5178159154911877415",
+                    "size": "680271418",
+                    "download": "219980224"
+                },
+                "update_1.17": {
+                    "gid": "7293962999423540216",
+                    "size": "685707915",
+                    "download": "221358336"
+                }
+            },
+            "decryptionkey": "45356693043e52e78a339c22140d4b9eedac03f400de642100df13fa26c97c7f"
+        },
+        "704514": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4950025239010477159",
+                    "size": "663940436",
+                    "download": "213308720"
+                },
+                "experimental": {
+                    "gid": "4950025239010477159",
+                    "size": "663940436",
+                    "download": "213308720"
+                },
+                "update_1.17": {
+                    "gid": "7793897610352642212",
+                    "size": "669321254",
+                    "download": "214628656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14469606",
+                "timeupdated": "1717586073"
+            },
+            "experimental": {
+                "buildid": "14469606",
+                "description": "Experimental",
+                "timeupdated": "1716473219"
+            },
+            "update_1.17": {
+                "buildid": "13382679",
+                "description": "Patch Update 1.17",
+                "timeupdated": "1715530912"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
