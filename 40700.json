@@ -1,0 +1,91 @@
+{
+    "appid": "40700",
+    "type": "Game",
+    "name": "Machinarium",
+    "schinese_name": "机械迷城 (Machinarium)",
+    "isfreeapp": "0",
+    "change_number": "28270683",
+    "update_time": "2025-04-02 22:56:58",
+    "depot": {
+        "40702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4264264643288819069",
+                    "size": "318400281",
+                    "download": "309559312"
+                },
+                "legacy": {
+                    "gid": "3835245042910267334",
+                    "size": "317281168",
+                    "download": "308188192"
+                },
+                "2025_dx12_64bit": {
+                    "gid": "4264264643288819069",
+                    "size": "318400281",
+                    "download": "309559312"
+                },
+                "legacy_32bit_dx9": {
+                    "gid": "4264264643288819069",
+                    "size": "318400281",
+                    "download": "309559312"
+                }
+            },
+            "decryptionkey": "d1a795482b2ed2bc97591ba8a6020c1a1392da9794f3f0648611113f22f323ec"
+        },
+        "40701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2009437841385501498",
+                    "size": "315123712",
+                    "download": "303544432"
+                },
+                "legacy": {
+                    "gid": "645634711973099289",
+                    "size": "311657664",
+                    "download": "301935344"
+                },
+                "2025_dx12_64bit": {
+                    "gid": "2009437841385501498",
+                    "size": "315123712",
+                    "download": "303544432"
+                },
+                "legacy_32bit_dx9": {
+                    "gid": "2959655896691296671",
+                    "size": "312286624",
+                    "download": "302512480"
+                }
+            },
+            "decryptionkey": "37b5c7293653b02c677be46f10d154102e715fda6a2e0ccbbf7f8a11c5e7c91e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "17721684",
+                "timeupdated": "1742903244"
+            },
+            "legacy": {
+                "buildid": "4293212",
+                "description": "Old Mac OpenGL Build",
+                "timeupdated": "1614171865"
+            },
+            "2025_dx12_64bit": {
+                "buildid": "17721684",
+                "description": "New 64bit DirectX 12 Build",
+                "timeupdated": "1741939611"
+            },
+            "legacy_32bit_dx9": {
+                "buildid": "17518032",
+                "description": "DirectX9 32bit Backwards Compatible",
+                "timeupdated": "1740588902"
+            }
+        }
+    }
+}
