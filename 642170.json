@@ -1,0 +1,54 @@
+{
+    "appid": "642170",
+    "type": "Game",
+    "name": "Legendary Hunter VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22600345",
+    "update_time": "2024-05-26 19:42:33",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "642171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8403410634026787371",
+                    "size": "873349226",
+                    "download": "417548912"
+                },
+                "tstbeta": {
+                    "gid": "419786623831432782",
+                    "size": "877431824",
+                    "download": "417644608"
+                }
+            },
+            "decryptionkey": "6d34beb1d5c7ddbb082266a484ea1d27d44684cd54e43d5648687efc41e020af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7242723",
+                "timeupdated": "1629826557"
+            },
+            "tstbeta": {
+                "buildid": "2052396",
+                "timeupdated": "1628710236"
+            }
+        }
+    }
+}
