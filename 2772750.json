@@ -1,0 +1,99 @@
+{
+    "appid": "2772750",
+    "type": "Game",
+    "name": "Age of History 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28233385",
+    "update_time": "2025-04-01 01:50:57",
+    "depot": {
+        "workshopdepot": "2772750",
+        "hasdepotsindlc": "1",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2772751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1838828731425198747",
+                    "size": "857050336",
+                    "download": "603497648"
+                },
+                "betamulti": {
+                    "gid": "5833968094475359120",
+                    "size": "1222099129",
+                    "download": "793523104"
+                },
+                "betatests": {
+                    "gid": "555263240184822758",
+                    "size": "857071535",
+                    "download": "603518064"
+                },
+                "lwjgl3": {
+                    "gid": "8988784493304029838",
+                    "size": "913464840",
+                    "download": "657018032"
+                }
+            },
+            "decryptionkey": "1ba0a188cd6a0fd66ff7664712ff982f4dbd0400ff82ebe3297a8d12a940be37"
+        },
+        "2772752": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4026329041321731462",
+                    "size": "673168872",
+                    "download": "615907952"
+                },
+                "betamulti": {
+                    "gid": "4026329041321731462",
+                    "size": "673168872",
+                    "download": "615907952"
+                },
+                "betatests": {
+                    "gid": "6585890220480548681",
+                    "size": "673193193",
+                    "download": "615934000"
+                },
+                "lwjgl3": {
+                    "gid": "3876210720539566120",
+                    "size": "673085794",
+                    "download": "615881856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16886461",
+                "timeupdated": "1736706218"
+            },
+            "betamulti": {
+                "buildid": "16971167",
+                "description": "Beta testing P2P Multiplayer",
+                "timeupdated": "1736556840"
+            },
+            "betatests": {
+                "buildid": "16981396",
+                "description": "Beta testing before an update release - LATEST",
+                "timeupdated": "1739367692"
+            },
+            "lwjgl3": {
+                "buildid": "16348461",
+                "description": "VERY OLD Version of the game with latest LWJGL, 8th November 2024",
+                "timeupdated": "1731151012"
+            }
+        },
+        "workshopdepotdecryptionkey": "c2b82ddb04972f8d5ccf9cdddf8ec154829cac844c5b19a794e31f8dcdc5151a"
+    }
+}
