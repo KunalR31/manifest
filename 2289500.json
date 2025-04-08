@@ -1,0 +1,64 @@
+{
+    "appid": "2289500",
+    "type": "Application",
+    "name": "FirstResponderVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27945954",
+    "update_time": "2025-03-14 08:35:50",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2289501": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7525591313920700615",
+                    "size": "7284022635",
+                    "download": "7063568800"
+                },
+                "local": {
+                    "gid": "5204862486844069832",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7b2cbeb769b5ae6b25cec13072e7e31cff3003dc1b33af6d00f1bb4c369c854b"
+        },
+        "2289502": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10861127",
+                "timeupdated": "1679980776"
+            },
+            "local": {
+                "buildid": "10510173",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1675901986"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
