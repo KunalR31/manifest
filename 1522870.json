@@ -1,0 +1,62 @@
+{
+    "appid": "1522870",
+    "type": "Game",
+    "name": "Supraland Six Inches Under",
+    "schinese_name": "超级领地：六英寸之下",
+    "isfreeapp": "0",
+    "change_number": "27099778",
+    "update_time": "2025-01-22 03:56:44",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1522871": {
+            "manifests": {
+                "public": {
+                    "gid": "4300392132672601936",
+                    "size": "4485214060",
+                    "download": "4346968784"
+                },
+                "experimental": {
+                    "gid": "7414300938093029491",
+                    "size": "4485099372",
+                    "download": "4346800240"
+                },
+                "testing": {
+                    "gid": "7414300938093029491",
+                    "size": "4485099372",
+                    "download": "4346800240"
+                }
+            },
+            "decryptionkey": "b787c83a3dbe5e5d088f2a22a71a29a9d6e4d51b0faf1d84b5bee06b8f25b5cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14278447",
+                "timeupdated": "1715087464"
+            },
+            "experimental": {
+                "buildid": "17080850",
+                "description": "Untested version includes the latest changes.",
+                "timeupdated": "1737481695"
+            },
+            "testing": {
+                "buildid": "17080850",
+                "description": "Public testing for next version to be released.",
+                "timeupdated": "1737489399"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
