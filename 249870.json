@@ -1,0 +1,62 @@
+{
+    "appid": "249870",
+    "type": "Game",
+    "name": "Scribblenauts Unmasked",
+    "schinese_name": "涂鸦冒险家：DC漫画冒险",
+    "isfreeapp": "0",
+    "change_number": "25884837",
+    "update_time": "2024-10-25 05:14:22",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,dutch,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "249871": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7997591258307833102",
+                    "size": "1266581118",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7997591258307833102",
+                    "size": "1266581118",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3d88d7ccdf77d55b7d14b32499acea66a91edbadac96101e48c61327b98fef64"
+        },
+        "256490": {
+            "manifests": {
+                "public": {
+                    "gid": "2082712964548663532",
+                    "size": "155735346",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2082712964548663532",
+                    "size": "155735346",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "256490",
+            "decryptionkey": "adfbfee5b5b61894ac75840ddbf4c06b03433093e56568ffd65c2b5ed3771197"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "120483"
+            },
+            "beta": {
+                "buildid": "120483",
+                "description": "Beta testing"
+            }
+        }
+    }
+}
