@@ -1,0 +1,82 @@
+{
+    "appid": "554150",
+    "type": "Game",
+    "name": "Frequent Flyer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28290482",
+    "update_time": "2025-04-03 22:16:15",
+    "depot": {
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "554152": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "591601233379656592",
+                    "size": "223670835",
+                    "download": "79925984"
+                },
+                "test": {
+                    "gid": "2920418490163250123",
+                    "size": "223656835",
+                    "download": "79913664"
+                },
+                "test2": {
+                    "gid": "8606721545065009246",
+                    "size": "223656803",
+                    "download": "79913600"
+                }
+            },
+            "decryptionkey": "633383c64735fdb9f43f139145b6e48081e277104a50eeeec819651fd23249a4"
+        },
+        "554153": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8568646382411549337",
+                    "size": "223866102",
+                    "download": "83974368"
+                }
+            },
+            "decryptionkey": "22fa1fb4d84ad81a25bda9a836bd18c8c85199523d444d50ae8ae28b41f6dc11"
+        },
+        "554154": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7074370242783909806",
+                    "size": "199006837",
+                    "download": "72158320"
+                }
+            },
+            "decryptionkey": "16ee6eecce7b50ab88ed44c00cd1036ba5ba12c6ffddb6c7cfe6f114791d3cf7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2222605",
+                "timeupdated": "1508774850"
+            },
+            "test": {
+                "buildid": "1453107",
+                "timeupdated": "1478865184"
+            },
+            "test2": {
+                "buildid": "1453252",
+                "timeupdated": "1478867495"
+            }
+        }
+    }
+}
