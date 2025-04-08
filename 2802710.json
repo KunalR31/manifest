@@ -1,0 +1,60 @@
+{
+    "appid": "2802710",
+    "type": "Game",
+    "name": "Quantum Odyssey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27981301",
+    "update_time": "2025-03-16 22:09:12",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2802711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6408561140648832168",
+                    "size": "1491623911",
+                    "download": "638745072"
+                },
+                "local": {
+                    "gid": "6388841297342535376",
+                    "size": "898535208",
+                    "download": "188794432"
+                },
+                "beta": {
+                    "gid": "8057054904636162550",
+                    "size": "1051756282",
+                    "download": "211803936"
+                }
+            },
+            "decryptionkey": "124613d203dfcabc9d4a9c3f2e11d64f7939f069bc637f280488d90d668b4479"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17588955",
+                "timeupdated": "1741092391"
+            },
+            "local": {
+                "buildid": "13700982",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1710153818"
+            },
+            "beta": {
+                "buildid": "16040415",
+                "description": "beta branch of QO",
+                "timeupdated": "1728928258"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
