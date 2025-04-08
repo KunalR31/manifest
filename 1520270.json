@@ -1,0 +1,80 @@
+{
+    "appid": "1520270",
+    "type": "Game",
+    "name": "Kyvir: Rebirth",
+    "schinese_name": "凯瑞尔轮回",
+    "isfreeapp": "0",
+    "change_number": "26923434",
+    "update_time": "2025-01-09 20:16:28",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1520271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5404221446398064762",
+                    "size": "1510454887",
+                    "download": "378232928"
+                },
+                "kyvirrebirth": {
+                    "gid": "5404221446398064762",
+                    "size": "1510454887",
+                    "download": "378232928"
+                }
+            },
+            "decryptionkey": "24b2d2b2103b46f5453b6ef2913385da32db3ceb0785b1fbb3518c0836e22d66"
+        },
+        "1520272": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1249436366695503730",
+                    "size": "1503174383",
+                    "download": "375990320"
+                },
+                "kyvirrebirth": {
+                    "gid": "1249436366695503730",
+                    "size": "1503174383",
+                    "download": "375990320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1520273": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6899368209048426700",
+                    "size": "1511444049",
+                    "download": "378579312"
+                },
+                "kyvirrebirth": {
+                    "gid": "6899368209048426700",
+                    "size": "1511444049",
+                    "download": "378579312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7642038",
+                "timeupdated": "1635848396"
+            },
+            "kyvirrebirth": {
+                "buildid": "7642038",
+                "description": "Test",
+                "timeupdated": "1635848377"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
