@@ -1,0 +1,58 @@
+{
+    "appid": "418180",
+    "type": "Game",
+    "name": "Tempest",
+    "schinese_name": "风暴之海",
+    "isfreeapp": "0",
+    "change_number": "28091934",
+    "update_time": "2025-03-23 08:13:38",
+    "depot": {
+        "418181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4002832112142516734",
+                    "size": "882679685",
+                    "download": "417442672"
+                }
+            },
+            "decryptionkey": "049a645c3130ea5143e12a06f71eaa096628f847df3b4d5ee26318762531315e"
+        },
+        "418182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7534178973320499926",
+                    "size": "885711030",
+                    "download": "403659088"
+                }
+            },
+            "decryptionkey": "407b2b0a1dce8e5f42a122d19b95635148f619d420397d366895eba7f03d5fe4"
+        },
+        "418183": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3233086660934382162",
+                    "size": "837962983",
+                    "download": "395755216"
+                }
+            },
+            "decryptionkey": "a1d8dc0dc490fc010ee135927bd81f4fc8674559a4bb271f7f5062414161e4a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12590985",
+                "timeupdated": "1698839391"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
