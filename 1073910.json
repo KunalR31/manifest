@@ -1,0 +1,80 @@
+{
+    "appid": "1073910",
+    "type": "Game",
+    "name": "Before We Leave",
+    "schinese_name": "离去之前 ",
+    "isfreeapp": "0",
+    "change_number": "23238959",
+    "update_time": "2024-05-24 06:13:48",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1073911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4514705590635247624",
+                    "size": "1694688238",
+                    "download": "807409696"
+                },
+                "experimental": {
+                    "gid": "4278629194796041075",
+                    "size": "1683306757",
+                    "download": "803795856"
+                },
+                "patch_1": {
+                    "gid": "8139770690385036642",
+                    "size": "1577795235",
+                    "download": "756801536"
+                }
+            },
+            "decryptionkey": "8258e9623adaa9c7ab3490e5f6eb14d3f1ae41c777b869b9b8061d36db8c6566"
+        },
+        "1073912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5837285643785763551",
+                    "size": "1686341478",
+                    "download": "805803696"
+                },
+                "experimental": {
+                    "gid": "7057312660591544449",
+                    "size": "1686342566",
+                    "download": "805805280"
+                }
+            },
+            "decryptionkey": "e69788e02f4249a9b71ec886356439475340d2b72e378c6ffbc6b83d6bb68afa"
+        },
+        "workshopdepot": "1073910",
+        "branches": {
+            "public": {
+                "buildid": "11090584",
+                "timeupdated": "1683205296"
+            },
+            "experimental": {
+                "buildid": "9160346",
+                "description": "Experimental branch for in-development features of Before We Leave",
+                "timeupdated": "1658362757"
+            },
+            "patch_1": {
+                "buildid": "6722182",
+                "description": "Before We Leave with only Patch 1 (version 1.0238) applied",
+                "timeupdated": "1625104228"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c87adf686fe2d2fa6c3ff3bc6b12ff0c0ff098805f7d4cd209763a48945a0e47"
+    }
+}
