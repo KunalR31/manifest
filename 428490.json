@@ -1,0 +1,52 @@
+{
+    "appid": "428490",
+    "type": "Game",
+    "name": "Germination",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27209239",
+    "update_time": "2025-01-29 07:17:25",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "428491": {
+            "manifests": {
+                "public": {
+                    "gid": "8047051835704698360",
+                    "size": "24258659",
+                    "download": "20908832"
+                },
+                "balancebeta": {
+                    "gid": "1400909815197552142",
+                    "size": "26728609",
+                    "download": "23247296"
+                }
+            },
+            "decryptionkey": "080604e65cf42af4411acee087877e6cc5e0446fcc8a5c8254a0b1e04d438948"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2688278",
+                "timeupdated": "1523670433"
+            },
+            "balancebeta": {
+                "buildid": "4456734",
+                "description": "Mostly trying to refine the game balance",
+                "timeupdated": "1575430149"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
