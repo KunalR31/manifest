@@ -1,0 +1,75 @@
+{
+    "appid": "55110",
+    "type": "Game",
+    "name": "Red Faction: Armageddon",
+    "schinese_name": "红色派系：末日审判",
+    "isfreeapp": "0",
+    "change_number": "28312409",
+    "update_time": "2025-04-05 00:11:03",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,italian,russian,polish",
+        "55115": {
+            "optional": "1",
+            "manifests": {
+                "public": {
+                    "gid": "717629133416209962",
+                    "size": "1090618500",
+                    "download": "1016932096"
+                },
+                "publicbeta": {
+                    "gid": "717629133416209962",
+                    "size": "1090618500",
+                    "download": "1016932096"
+                }
+            },
+            "dlcappid": "55115",
+            "decryptionkey": "0d0080b3540d13f3068e09d21f3285690dea56c248b2424edfe6a0865a5046ac"
+        },
+        "55116": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3645536265043415961",
+                    "size": "21591068",
+                    "download": "8305360"
+                },
+                "publicbeta": {
+                    "gid": "4882694316122378496",
+                    "size": "27866140",
+                    "download": "9823264"
+                }
+            },
+            "decryptionkey": "3d907015f5f9b7e44d5ef93b5e4f4e704d27e8a0edb30a17f31e5e25fcca866e"
+        },
+        "55111": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4811396078672789139",
+                    "size": "8186062760",
+                    "download": "7733460592"
+                },
+                "publicbeta": {
+                    "gid": "4811396078672789139",
+                    "size": "8186062760",
+                    "download": "7733460592"
+                }
+            },
+            "decryptionkey": "7e64d762ec828d0594d823fae1029b886e94e3aef7c50674e204ccd24d783acf"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1291145",
+                "timeupdated": "1471773901"
+            },
+            "publicbeta": {
+                "buildid": "1932726",
+                "timeupdated": "1499073820"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
