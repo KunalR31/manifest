@@ -1,0 +1,55 @@
+{
+    "appid": "2280",
+    "type": "Game",
+    "name": "DOOM + DOOM II",
+    "schinese_name": "终极毁灭战士",
+    "isfreeapp": "0",
+    "change_number": "28345703",
+    "update_time": "2025-04-07 20:42:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6324270810847850120",
+                    "size": "1168035293",
+                    "download": "887017680"
+                },
+                "previous-re-rerelease": {
+                    "gid": "4486750217790005770",
+                    "size": "455495300",
+                    "download": "299902224"
+                }
+            },
+            "decryptionkey": "59d59862ea40c92ef01e270e60c349de893eee7a55a089cb6ef63b68e8935075"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "17165498",
+                "timeupdated": "1738174463"
+            },
+            "previous-re-rerelease": {
+                "buildid": "5619887",
+                "description": "2019 version of DOOM (1993)",
+                "timeupdated": "1723143965"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
