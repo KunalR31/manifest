@@ -1,0 +1,87 @@
+{
+    "appid": "222140",
+    "type": "Game",
+    "name": "Puddle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27740331",
+    "update_time": "2025-03-02 16:46:12",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "222141": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5952153792985349006",
+                    "size": "692814493",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "94016a924467a6cfa3b855243f1dce9c4db3d85d0ff42c69237eda0a178c975d"
+        },
+        "222142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5507060829100843577",
+                    "size": "710508316",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "222143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2791219047978663634",
+                    "size": "679406662",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "273670": {
+            "manifests": {
+                "public": {
+                    "gid": "5790894276569351848",
+                    "size": "134821294",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "273670",
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "212250"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
