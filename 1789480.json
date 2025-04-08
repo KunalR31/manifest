@@ -1,0 +1,53 @@
+{
+    "appid": "1789480",
+    "type": "Game",
+    "name": "Marauders",
+    "schinese_name": "星际海盗",
+    "isfreeapp": "0",
+    "change_number": "27489178",
+    "update_time": "2025-02-15 08:15:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1789481": {
+            "manifests": {
+                "public": {
+                    "gid": "8236763074199536078",
+                    "size": "10967485760",
+                    "download": "10443170592"
+                },
+                "marauders_pte": {
+                    "gid": "2777181727410054323",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7ad240d388bfc7d00551db80ea1d7a33e2a9e6b2db81ff01c7e0e8b802adece5"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15398774",
+                "timeupdated": "1723836129"
+            },
+            "marauders_pte": {
+                "buildid": "12853694",
+                "description": "Public test branch",
+                "timeupdated": "1702238769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
