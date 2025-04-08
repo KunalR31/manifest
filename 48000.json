@@ -1,0 +1,90 @@
+{
+    "appid": "48000",
+    "type": "Game",
+    "name": "LIMBO",
+    "schinese_name": "地狱边境",
+    "isfreeapp": "0",
+    "change_number": "27103756",
+    "update_time": "2025-01-22 09:25:49",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,japanese,portuguese,russian,turkish,brazilian,polish,schinese",
+        "48003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2514620715176409184",
+                    "size": "116112402",
+                    "download": "85951424"
+                }
+            },
+            "decryptionkey": "38e1d9684662db75e3ca547186abbf41df7d1dbd382644c7a275c7a35e4e753b"
+        },
+        "48002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6867798692379060871",
+                    "size": "5453312",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8c3a1b09c8ec82102b1e7c25c1572df4fa7e82b77373d8f9386b7a6ff04dc794"
+        },
+        "48001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1261656871327265848",
+                    "size": "98229897",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f43855f824b0c92b5ecc36ae42651ae40b32411461822f41f9fb19969b3fd14d"
+        },
+        "48004": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4729536071049921379",
+                    "size": "112551330",
+                    "download": "95583888"
+                }
+            },
+            "decryptionkey": "9639ec99166818982187cc413d6dbbdf84690d6826744b9325fefff30d4dd5d7"
+        },
+        "48005": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5598213330580205879",
+                    "size": "103660194",
+                    "download": "83047280"
+                }
+            },
+            "decryptionkey": "c3868dd46e9dfc0ff03c82eab3d09ef723a87b9ef92a90540bcc84409c64dc2a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11105237",
+                "timeupdated": "1682601115"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
