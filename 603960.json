@@ -1,0 +1,82 @@
+{
+    "appid": "603960",
+    "type": "Game",
+    "name": "Star of Providence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28100139",
+    "update_time": "2025-03-24 07:19:28",
+    "depot": {
+        "baselanguages": "english,german",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "603961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3206340976818474210",
+                    "size": "227437079",
+                    "download": "110175168"
+                },
+                "legacy": {
+                    "gid": "8195933074464664469",
+                    "size": "104002540",
+                    "download": "72624832"
+                },
+                "legacyrotp": {
+                    "gid": "849176818137810173",
+                    "size": "75594114",
+                    "download": "45706800"
+                }
+            },
+            "decryptionkey": "d080bc7bd6d033e446b44c6d824255672423e854465847fb24f358616c2505da"
+        },
+        "603962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8475508572713578093",
+                    "size": "179187266",
+                    "download": "109099216"
+                },
+                "legacy": {
+                    "gid": "4284443728100432548",
+                    "size": "31677866",
+                    "download": "23133824"
+                },
+                "legacyrotp": {
+                    "gid": "8714862893871944277",
+                    "size": "56420443",
+                    "download": "41903584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17643404",
+                "timeupdated": "1741400183"
+            },
+            "legacy": {
+                "buildid": "11995386",
+                "description": "Formerly After The End",
+                "timeupdated": "1692647878"
+            },
+            "legacyrotp": {
+                "buildid": "12043418",
+                "description": "If you want to play ROTP again.",
+                "timeupdated": "1740063463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
