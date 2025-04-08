@@ -1,0 +1,72 @@
+{
+    "appid": "532110",
+    "type": "Game",
+    "name": "Rusty Lake: Roots",
+    "schinese_name": "锈湖：根源",
+    "isfreeapp": "0",
+    "change_number": "27385605",
+    "update_time": "2025-02-09 16:17:23",
+    "depot": {
+        "532111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3199184934683757227",
+                    "size": "97921034",
+                    "download": "81688064"
+                },
+                "betatest": {
+                    "gid": "3199184934683757227",
+                    "size": "97921034",
+                    "download": "81688064"
+                },
+                "fallback": {
+                    "gid": "6185145808246924397",
+                    "size": "85027242",
+                    "download": "76097776"
+                }
+            },
+            "decryptionkey": "44589f66e86bc4ee4c60f5dbadb7f2bde1693af8d931c1cf2b1ed85d66f59493"
+        },
+        "532112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3543061335863944313",
+                    "size": "110395465",
+                    "download": "83642176"
+                },
+                "betatest": {
+                    "gid": "3543061335863944313",
+                    "size": "110395465",
+                    "download": "83642176"
+                },
+                "fallback": {
+                    "gid": "3543061335863944313",
+                    "size": "110395465",
+                    "download": "83642176"
+                }
+            },
+            "decryptionkey": "c413c4da07badf4f1a96403eccce9da9afa54b53c61682768c47233aa1237582"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1898644",
+                "timeupdated": "1497819799"
+            },
+            "betatest": {
+                "buildid": "1895765",
+                "timeupdated": "1497633413"
+            },
+            "fallback": {
+                "buildid": "1889186",
+                "description": "beta branch",
+                "timeupdated": "1497436615"
+            }
+        }
+    }
+}
