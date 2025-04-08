@@ -1,0 +1,98 @@
+{
+    "appid": "762650",
+    "type": "Game",
+    "name": "Depraved",
+    "schinese_name": "堕落",
+    "isfreeapp": "0",
+    "change_number": "26640740",
+    "update_time": "2024-12-14 14:39:47",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "762651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8985889884673452463",
+                    "size": "2986885428",
+                    "download": "893621344"
+                },
+                "alpha": {
+                    "gid": "5699989687161844848",
+                    "size": "2776832048",
+                    "download": "808342192"
+                }
+            },
+            "decryptionkey": "92a40c34b337a5e76700d852eba0abd415db56a204385923d597f24aadeb58f7"
+        },
+        "762652": {
+            "dlcappid": "777080",
+            "manifests": {
+                "public": {
+                    "gid": "51038831327634861",
+                    "size": "48112835",
+                    "download": "48247888"
+                },
+                "alpha": {
+                    "gid": "2306798631643318049",
+                    "size": "65801389",
+                    "download": "65816384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "762653": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5150772900288349142",
+                    "size": "3024862593",
+                    "download": "900771648"
+                }
+            },
+            "decryptionkey": "ab6c2768252683414e7266741995a5b9763d673f045a609c7dadd61e9aca5f9d"
+        },
+        "762654": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8413709592453541176",
+                    "size": "3029439436",
+                    "download": "904756800"
+                }
+            },
+            "decryptionkey": "9a64bbba5c5e339f29e9de407732465333ec381a02d503faca6b497af115e253"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4702760",
+                "timeupdated": "1582305796"
+            },
+            "alpha": {
+                "buildid": "2804330",
+                "description": "alpha1.014(29)",
+                "timeupdated": "1530786882"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
