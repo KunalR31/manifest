@@ -1,0 +1,76 @@
+{
+    "appid": "204240",
+    "type": "Game",
+    "name": "The Bridge",
+    "schinese_name": "桥",
+    "isfreeapp": "0",
+    "change_number": "27132057",
+    "update_time": "2025-01-23 22:25:51",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,dutch,hungarian,romanian,turkish",
+        "markdlcdepots": "1",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "204241": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1138430510974131349",
+                    "size": "324875943",
+                    "download": "307720544"
+                }
+            },
+            "decryptionkey": "72aa01d0cdf67535811df02a1c63f7bbffe143d2dc260b33b3308055424d9e0c"
+        },
+        "204242": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3517241559116303004",
+                    "size": "312234322",
+                    "download": "11553092624"
+                }
+            },
+            "decryptionkey": "1baf71fd2f6a4c5bf335da8725de933d860b36717b97c8c49df0cdec33a0f99c"
+        },
+        "204243": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6700133908359058769",
+                    "size": "314263191",
+                    "download": "10952409725"
+                }
+            },
+            "decryptionkey": "d5638abd50a73a308dfe1254237ef1f91027d4dba6f8b667c52bdeabdc402c52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1610479",
+                "timeupdated": "1486233947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
