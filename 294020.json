@@ -1,0 +1,82 @@
+{
+    "appid": "294020",
+    "type": "Game",
+    "name": "Merchants of Kaidan",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26867327",
+    "update_time": "2025-01-05 20:12:00",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "294021": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3735054932331048813",
+                    "size": "1886836714",
+                    "download": "675566432"
+                }
+            },
+            "decryptionkey": "0e59e7aefff7f894c7e597a27b36c67e5740f04e2544b0159e5d0c63d4bd871e"
+        },
+        "294022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3663489328820208309",
+                    "size": "1890954863",
+                    "download": "676280800"
+                }
+            },
+            "decryptionkey": "69a79fb97912c49503d4078a37890ce3bf1f687330ee8759ce45912fdd83e48a"
+        },
+        "294023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2642759864200041092",
+                    "size": "1889344636",
+                    "download": "675735104"
+                }
+            },
+            "decryptionkey": "679db09cd9db52c78b3cff7956d38be6e6b6c1fb60a67d64bef3b9854a480716"
+        },
+        "294024": {
+            "manifests": {
+                "public": {
+                    "gid": "5773815824241532136",
+                    "size": "38572524",
+                    "download": "37556080"
+                }
+            },
+            "decryptionkey": "92761ff353e3257739eae34bad1b482ce1b78fc973eeb22aaa5d2523f03935d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "547133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
