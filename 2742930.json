@@ -1,0 +1,90 @@
+{
+    "appid": "2742930",
+    "type": "Game",
+    "name": "CapitalismCraft",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27403024",
+    "update_time": "2025-02-10 23:28:42",
+    "depot": {
+        "baselanguages": "english",
+        "2742931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4462577512630640768",
+                    "size": "1511112315",
+                    "download": "97230176"
+                },
+                "beta": {
+                    "gid": "4462577512630640768",
+                    "size": "1511112315",
+                    "download": "97230176"
+                },
+                "default-mac": {
+                    "gid": "8550525421761241750",
+                    "size": "147208756",
+                    "download": "30521040"
+                },
+                "iio-testing": {
+                    "gid": "319382748349944563",
+                    "size": "1510210637",
+                    "download": "97176176"
+                }
+            },
+            "decryptionkey": "55357807c1a8d7728c1676412747ecb571fee558b00112309a3e3ee7e35ae187"
+        },
+        "2742932": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2994038024732185401",
+                    "size": "1529064464",
+                    "download": "103883296"
+                },
+                "beta": {
+                    "gid": "2994038024732185401",
+                    "size": "1529064464",
+                    "download": "103883296"
+                },
+                "default-mac": {
+                    "gid": "6650279408085393957",
+                    "size": "170539089",
+                    "download": "37765568"
+                },
+                "iio-testing": {
+                    "gid": "6650279408085393957",
+                    "size": "170539089",
+                    "download": "37765568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17146793",
+                "timeupdated": "1738334990"
+            },
+            "beta": {
+                "buildid": "17146793",
+                "description": "strictly for testing",
+                "timeupdated": "1737992269"
+            },
+            "default-mac": {
+                "buildid": "14693819",
+                "description": "mac-build",
+                "timeupdated": "1718206094"
+            },
+            "iio-testing": {
+                "buildid": "15970291",
+                "description": "Ready for QA testing",
+                "timeupdated": "1728408821"
+            }
+        }
+    }
+}
