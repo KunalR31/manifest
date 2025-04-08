@@ -1,0 +1,103 @@
+{
+    "appid": "265830",
+    "type": "Game",
+    "name": "Monochroma",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26073678",
+    "update_time": "2024-11-06 23:14:22",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,greek",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1667017075597253051",
+                    "size": "5350416167",
+                    "download": "1419322224"
+                },
+                "test": {
+                    "gid": "1282506051208953286",
+                    "size": "5350415630",
+                    "download": "1419322176"
+                }
+            },
+            "decryptionkey": "e15ad7d0dfd684c12696e8adc1f63780322420fb30264d7e66ac935781022b33"
+        },
+        "265832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8836670258825125199",
+                    "size": "5352980249",
+                    "download": "1415540768"
+                },
+                "test": {
+                    "gid": "6020831974708922266",
+                    "size": "5352980250",
+                    "download": "1415540848"
+                }
+            },
+            "decryptionkey": "e6fddba98b6985b45f75216a1dc394a4730317ff0f7557864c7f4a50f110c25e"
+        },
+        "265833": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6242914028734764054",
+                    "size": "5356193825",
+                    "download": "1414749248"
+                },
+                "test": {
+                    "gid": "3384958804848278758",
+                    "size": "5356193826",
+                    "download": "1414749280"
+                }
+            },
+            "decryptionkey": "1ea5689176a9bd50aaf0b86b30028a4232f8e7fffd22a3d0fd716f1130016e46"
+        },
+        "310600": {
+            "manifests": {
+                "public": {
+                    "gid": "3774741927841383379",
+                    "size": "311044512",
+                    "download": "293176048"
+                }
+            },
+            "dlcappid": "310600",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1362292",
+                "timeupdated": "1475071489"
+            },
+            "test": {
+                "buildid": "1227964",
+                "timeupdated": "1468568514"
+            }
+        }
+    }
+}
