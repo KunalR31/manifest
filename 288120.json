@@ -1,0 +1,85 @@
+{
+    "appid": "288120",
+    "type": "Game",
+    "name": "Dungeonmans",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28257781",
+    "update_time": "2025-04-02 07:11:46",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "288121": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8031368467569961377",
+                    "size": "783622033",
+                    "download": "644310784"
+                },
+                "local": {
+                    "gid": "4295803273731616340",
+                    "size": "699982283",
+                    "download": "623359584"
+                }
+            },
+            "decryptionkey": "005167c8351e3f0fd276ff01b7e1402a674fd031152a911b75ea8a2123d2fd4b"
+        },
+        "306280": {
+            "manifests": {
+                "public": {
+                    "gid": "2775185409333673024",
+                    "size": "206736937",
+                    "download": "194686768"
+                },
+                "local": {
+                    "gid": "5645016105539571866",
+                    "size": "117370537",
+                    "download": "104880752"
+                }
+            },
+            "dlcappid": "306280",
+            "decryptionkey": "92b508561cd6c0130758b38b4b6a627c4bff2f63b65b716f258c6f37202b4b74"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17114879",
+                "timeupdated": "1737695523"
+            },
+            "local": {
+                "buildid": "921154",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
