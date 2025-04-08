@@ -1,0 +1,156 @@
+{
+    "appid": "257850",
+    "type": "Game",
+    "name": "Hyper Light Drifter",
+    "schinese_name": "光明旅者",
+    "isfreeapp": "0",
+    "change_number": "27411786",
+    "update_time": "2025-02-11 09:26:59",
+    "depot": {
+        "overridescddb": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1411175085556622330",
+                    "size": "534475726",
+                    "download": "441596704"
+                },
+                "7-21-2017": {
+                    "gid": "3834727163321091447",
+                    "size": "919201953",
+                    "download": "773784000"
+                },
+                "controller_test": {
+                    "gid": "4237484080522991286",
+                    "size": "919296430",
+                    "download": "774117568"
+                },
+                "last_update": {
+                    "gid": "3834727163321091447",
+                    "size": "919201953",
+                    "download": "773784000"
+                },
+                "next_update": {
+                    "gid": "6611715872079489371",
+                    "size": "534477902",
+                    "download": "441601504"
+                }
+            },
+            "decryptionkey": "37a8a32e3f159349f6a5702f391bdd0d4a341ae4c61d63111b9ae41c6b7ee678"
+        },
+        "257852": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5541547840583884942",
+                    "size": "925670505",
+                    "download": "776361120"
+                },
+                "7-21-2017": {
+                    "gid": "5541547840583884942",
+                    "size": "925670505",
+                    "download": "776361120"
+                },
+                "controller_test": {
+                    "gid": "4386809465771017997",
+                    "size": "924489338",
+                    "download": "775850880"
+                },
+                "last_update": {
+                    "gid": "5541547840583884942",
+                    "size": "925670505",
+                    "download": "776361120"
+                },
+                "next_update": {
+                    "gid": "7231882101239602292",
+                    "size": "926237234",
+                    "download": "776746592"
+                }
+            },
+            "decryptionkey": "e2a9e9b9db696ac8dd6724bfcdf95afbf1429d38a1c21da0f32ffafe69cc6b05"
+        },
+        "257853": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "777887703126145612",
+                    "size": "924996043",
+                    "download": "774822960"
+                },
+                "7-21-2017": {
+                    "gid": "777887703126145612",
+                    "size": "924996043",
+                    "download": "774822960"
+                },
+                "controller_test": {
+                    "gid": "6911642462230892596",
+                    "size": "925559363",
+                    "download": "775154304"
+                },
+                "last_update": {
+                    "gid": "777887703126145612",
+                    "size": "924996043",
+                    "download": "774822960"
+                },
+                "next_update": {
+                    "gid": "8671401007102822150",
+                    "size": "926226316",
+                    "download": "775349072"
+                }
+            },
+            "decryptionkey": "7ce7c20d8ad87abeaf568a6ae959f9a5fc223975000f58e0128ff61f1197d2e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10930509",
+                "timeupdated": "1680637688"
+            },
+            "7-21-2017": {
+                "buildid": "3334408",
+                "description": "This is the original stable release.",
+                "timeupdated": "1666093893"
+            },
+            "controller_test": {
+                "buildid": "9749831",
+                "description": "Switch to this to test controller fixes",
+                "timeupdated": "1666139983"
+            },
+            "last_update": {
+                "buildid": "3334408",
+                "description": "Switch to this if you want to use the previous update",
+                "timeupdated": "1666093788"
+            },
+            "next_update": {
+                "buildid": "13498051",
+                "description": "Upcoming patch",
+                "timeupdated": "1708353929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
