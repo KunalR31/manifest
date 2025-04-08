@@ -1,0 +1,71 @@
+{
+    "appid": "230070",
+    "type": "Game",
+    "name": "The Age of Decadence",
+    "schinese_name": "颓废年代",
+    "isfreeapp": "0",
+    "change_number": "27105101",
+    "update_time": "2025-01-22 11:25:42",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "230072": {
+            "manifests": {
+                "public": {
+                    "gid": "7931186945806301125",
+                    "size": "2136428350",
+                    "download": "1102057200"
+                },
+                "test": {
+                    "gid": "7931186945806301125",
+                    "size": "2136428350",
+                    "download": "1102057200"
+                }
+            },
+            "decryptionkey": "7f31399710c6a1539a58226cf2d5d14e880d3ef7c7c38b203c2dc4328270d571"
+        },
+        "230071": {
+            "systemdefined": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12301598",
+                "timeupdated": "1695861081"
+            },
+            "test": {
+                "buildid": "12301598",
+                "description": "PUBLIC testing branch",
+                "timeupdated": "1695861062"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
