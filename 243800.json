@@ -1,0 +1,149 @@
+{
+    "appid": "243800",
+    "type": "Game",
+    "name": "Gas Guzzlers Extreme",
+    "schinese_name": "燃油机车：极限版",
+    "isfreeapp": "0",
+    "change_number": "28113529",
+    "update_time": "2025-03-25 01:05:43",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,turkish,brazilian",
+        "243801": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8199267746417323187",
+                    "size": "14768053048",
+                    "download": "7683350800"
+                },
+                "beta": {
+                    "gid": "4232068697956341748",
+                    "size": "14776884920",
+                    "download": "7685514608"
+                },
+                "directx9": {
+                    "gid": "4439020256815010676",
+                    "size": "16780444367",
+                    "download": "9121272976"
+                },
+                "local": {
+                    "gid": "2769777440051232506",
+                    "size": "16775132388",
+                    "download": "9121205744"
+                }
+            },
+            "decryptionkey": "cae65bfd3eb6c2c8cdaeb9746efedf2f915b951ac62d2e1f17053126225e6362"
+        },
+        "277820": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4889882006105713347",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "beta": {
+                    "gid": "4889882006105713347",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "directx9": {
+                    "gid": "4889882006105713347",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "local": {
+                    "gid": "4889882006105713347",
+                    "size": "858112",
+                    "download": "209600"
+                }
+            },
+            "dlcappid": "277820",
+            "decryptionkey": "8f62d5c6ac18d71b98858d8a96eea0ad9f3d8e9c59d08157fcba2c1794e8b5e7"
+        },
+        "277821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2939094770709454632",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "beta": {
+                    "gid": "2939094770709454632",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "directx9": {
+                    "gid": "2939094770709454632",
+                    "size": "858112",
+                    "download": "209600"
+                },
+                "local": {
+                    "gid": "2939094770709454632",
+                    "size": "858112",
+                    "download": "209600"
+                }
+            },
+            "dlcappid": "277821",
+            "decryptionkey": "3a0e30e08d85189a92912c33944c1b8f1c96ebb36d324bfde38434c2787601cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1627864",
+                "timeupdated": "1487001712"
+            },
+            "beta": {
+                "buildid": "1221635",
+                "description": "Beta test (DX11)",
+                "timeupdated": "1468233428"
+            },
+            "directx9": {
+                "buildid": "1161863",
+                "timeupdated": "1468233550"
+            },
+            "local": {
+                "buildid": "905097",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
