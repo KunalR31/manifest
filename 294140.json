@@ -1,0 +1,67 @@
+{
+    "appid": "294140",
+    "type": "Game",
+    "name": "They Breathe",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26891295",
+    "update_time": "2025-01-07 19:50:32",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "294141": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4171865744519261347",
+                    "size": "358495744",
+                    "download": "141144928"
+                }
+            },
+            "decryptionkey": "c1561415744c0f241fe37dd34c3ed3c996e4c0e7f363231f81d599702408afe1"
+        },
+        "294142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1635226232237500987",
+                    "size": "242391070",
+                    "download": "60487952"
+                }
+            },
+            "decryptionkey": "7ff71fdc5a66d22eecdbab917e7d824aa7ecaced64961b0900d9f957cd64dd64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7009399",
+                "timeupdated": "1627327762"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
