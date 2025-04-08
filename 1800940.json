@@ -1,0 +1,64 @@
+{
+    "appid": "1800940",
+    "type": "Game",
+    "name": "The Enjenir",
+    "schinese_name": "工程大湿 The Enjenir",
+    "isfreeapp": "0",
+    "change_number": "28244850",
+    "update_time": "2025-04-01 17:06:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1800941": {
+            "manifests": {
+                "public": {
+                    "gid": "6467700940008672397",
+                    "size": "8730663334",
+                    "download": "2692278624"
+                },
+                "beta": {
+                    "gid": "6467700940008672397",
+                    "size": "8730663334",
+                    "download": "2692278624"
+                },
+                "legacy": {
+                    "gid": "3841290302948105396",
+                    "size": "4142401214",
+                    "download": "1627830576"
+                }
+            },
+            "decryptionkey": "b4c278ce077bc280eb7a8aa35aeda21f50ba0bb7529e41e7d72d5e0f749002f9"
+        },
+        "workshopdepot": "1800940",
+        "branches": {
+            "public": {
+                "buildid": "17936796",
+                "timeupdated": "1743498315"
+            },
+            "beta": {
+                "buildid": "17936796",
+                "description": "Public Beta Testing Branch",
+                "timeupdated": "1743498336"
+            },
+            "legacy": {
+                "buildid": "14888815",
+                "description": "V0.2 - Old Save Compatible",
+                "timeupdated": "1722554840"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
