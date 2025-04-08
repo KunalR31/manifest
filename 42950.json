@@ -1,0 +1,63 @@
+{
+    "appid": "42950",
+    "type": "Game",
+    "name": "Elven Legacy: Ranger",
+    "schinese_name": "精灵遗产：游侠",
+    "isfreeapp": "0",
+    "change_number": "27933721",
+    "update_time": "2025-03-13 21:23:41",
+    "depot": {
+        "overridescddb": "1",
+        "42952": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1286947939808876397",
+                    "size": "1",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2969ea0a6cd72b56886f5322fc9707267873a6fc6d12408fd7886e87f9670e1c"
+        },
+        "25851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "25850",
+            "sharedinstall": "2"
+        },
+        "42951": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5048689823343809564",
+                    "size": "550674159",
+                    "download": "342248640"
+                }
+            },
+            "decryptionkey": "d67ac9908123f355635c3cd81cd24f546a932e669dd3ef1b13a6bfaadf947ff4"
+        },
+        "25852": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "depotfromapp": "25850",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15227895",
+                "timeupdated": "1722868135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
