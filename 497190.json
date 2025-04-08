@@ -1,0 +1,93 @@
+{
+    "appid": "497190",
+    "type": "Game",
+    "name": "Pichon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27102243",
+    "update_time": "2025-01-22 08:31:12",
+    "depot": {
+        "497191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4776444440497795682",
+                    "size": "192298561",
+                    "download": "68045952"
+                },
+                "public_beta": {
+                    "gid": "4776444440497795682",
+                    "size": "192298561",
+                    "download": "68045952"
+                },
+                "v162": {
+                    "gid": "3717070579069118687",
+                    "size": "186530074",
+                    "download": "64647216"
+                }
+            },
+            "decryptionkey": "6f2bb4748eaf15240cb135900bf0b231cecd897a1aa2334628ade5353e282204"
+        },
+        "497192": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8176484662486551146",
+                    "size": "234413315",
+                    "download": "69011616"
+                },
+                "public_beta": {
+                    "gid": "8176484662486551146",
+                    "size": "234413315",
+                    "download": "69011616"
+                },
+                "v162": {
+                    "gid": "5106069418853116386",
+                    "size": "228619723",
+                    "download": "66303136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "497193": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1313184053083903012",
+                    "size": "244631467",
+                    "download": "79605552"
+                },
+                "public_beta": {
+                    "gid": "1313184053083903012",
+                    "size": "244631467",
+                    "download": "79605552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese,portuguese,norwegian,turkish,latam",
+        "branches": {
+            "public": {
+                "buildid": "11489353",
+                "timeupdated": "1686927013"
+            },
+            "public_beta": {
+                "buildid": "11489353",
+                "description": "public beta",
+                "timeupdated": "1686926632"
+            },
+            "v162": {
+                "buildid": "3030034",
+                "description": "Old version 1.6.2",
+                "timeupdated": "1644205834"
+            }
+        }
+    }
+}
