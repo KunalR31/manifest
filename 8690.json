@@ -1,0 +1,43 @@
+{
+    "appid": "8690",
+    "type": "Game",
+    "name": "STCC: The Game",
+    "schinese_name": "STCC瑞典房车锦标赛",
+    "isfreeapp": "0",
+    "change_number": "28096738",
+    "update_time": "2025-03-23 23:18:46",
+    "depot": {
+        "overridescddb": "1",
+        "8619": {
+            "optional": "1",
+            "systemdefined": "1",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "8691": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6613580545303197169",
+                    "size": "896371676",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "65d35009bde70077748b71c0f59b6fc3d4791bb171b14c41e52b4c6cb2de084c"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "11260"
+            }
+        }
+    }
+}
