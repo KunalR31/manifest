@@ -1,0 +1,138 @@
+{
+    "appid": "293780",
+    "type": "Game",
+    "name": "Crawl",
+    "schinese_name": "爬行者",
+    "isfreeapp": "0",
+    "change_number": "27299835",
+    "update_time": "2025-02-04 10:11:34",
+    "depot": {
+        "overridescddb": "1",
+        "293784": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3491099889672045067",
+                    "size": "270586202",
+                    "download": "50790688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "293785": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2734595929965450240",
+                    "size": "300334911",
+                    "download": "61614352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "293786": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4938308555957864366",
+                    "size": "279786411",
+                    "download": "52854976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "293781": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9207527406397102173",
+                    "size": "270587186",
+                    "download": "50865168"
+                },
+                "giantrat": {
+                    "gid": "3330748605441652842",
+                    "size": "208385532",
+                    "download": "43851632"
+                },
+                "xinput": {
+                    "gid": "5186670087945576593",
+                    "size": "270587186",
+                    "download": "50866224"
+                }
+            },
+            "decryptionkey": "43674976c9659faac7e705e733c56c0529b1cdaf654f2ba62cf31bc5865dd1e1"
+        },
+        "293782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "385604914542949045",
+                    "size": "300334911",
+                    "download": "61657376"
+                },
+                "giantrat": {
+                    "gid": "170484716849887225",
+                    "size": "246035676",
+                    "download": "55060288"
+                },
+                "xinput": {
+                    "gid": "2724342308248620282",
+                    "size": "280664203",
+                    "download": "59429984"
+                }
+            },
+            "decryptionkey": "bd4708cffb19d56e1c4193a6c779ad674468e91d8cc5ef65361d24402e758da4"
+        },
+        "293783": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5630203781324899773",
+                    "size": "312908739",
+                    "download": "62310432"
+                },
+                "giantrat": {
+                    "gid": "4139086144277235303",
+                    "size": "217685371",
+                    "download": "45357200"
+                },
+                "xinput": {
+                    "gid": "2406565605666704706",
+                    "size": "254316353",
+                    "download": "50630048"
+                }
+            },
+            "decryptionkey": "c42ebe4ab7356c1269ff3bc15cf50ce49bb8919e401b36d6ceca8630b189bfff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8121616",
+                "timeupdated": "1643677801"
+            },
+            "giantrat": {
+                "buildid": "1283720",
+                "description": "v0.10.03 (Giant Rat) - For REALLY old computers",
+                "timeupdated": "1480460818"
+            },
+            "xinput": {
+                "buildid": "1768829",
+                "description": "XInput enabled for better support with some controllers",
+                "timeupdated": "1492647104"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
