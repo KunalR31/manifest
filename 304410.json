@@ -1,0 +1,96 @@
+{
+    "appid": "304410",
+    "type": "Game",
+    "name": "Hexcells Infinite",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26677167",
+    "update_time": "2024-12-17 20:07:40",
+    "depot": {
+        "304411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8242304843483143465",
+                    "size": "125501932",
+                    "download": "60903392"
+                },
+                "rollback": {
+                    "gid": "2779776082934233916",
+                    "size": "99805603",
+                    "download": "60116368"
+                },
+                "test": {
+                    "gid": "8242304843483143465",
+                    "size": "125501932",
+                    "download": "60903392"
+                }
+            },
+            "decryptionkey": "1762a3e6406e3192da23d19d42bbb1c380d63234fd5985a700a587e8d2824bc8"
+        },
+        "304412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3061582580075427369",
+                    "size": "176114321",
+                    "download": "74549920"
+                },
+                "rollback": {
+                    "gid": "4939874912472069856",
+                    "size": "133847580",
+                    "download": "68011904"
+                },
+                "test": {
+                    "gid": "3061582580075427369",
+                    "size": "176114321",
+                    "download": "74549920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "304413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7014729155106329495",
+                    "size": "174666389",
+                    "download": "76062176"
+                },
+                "rollback": {
+                    "gid": "8707796357693083135",
+                    "size": "106383950",
+                    "download": "62031568"
+                },
+                "test": {
+                    "gid": "7014729155106329495",
+                    "size": "174666389",
+                    "download": "76062176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5455383",
+                "timeupdated": "1598342788"
+            },
+            "rollback": {
+                "buildid": "4362211",
+                "description": "Previous version.",
+                "timeupdated": "1597827884"
+            },
+            "test": {
+                "buildid": "5455383",
+                "description": "Experimental build testing.",
+                "timeupdated": "1598342030"
+            }
+        }
+    }
+}
