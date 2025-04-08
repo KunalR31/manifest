@@ -1,0 +1,97 @@
+{
+    "appid": "1248060",
+    "type": "Game",
+    "name": "Realpolitiks II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26990257",
+    "update_time": "2025-01-14 21:30:51",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1248061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6295491134016732767",
+                    "size": "10126580963",
+                    "download": "3339327616"
+                },
+                "betatest": {
+                    "gid": "7688814201355321814",
+                    "size": "10208857862",
+                    "download": "3084562192"
+                }
+            },
+            "decryptionkey": "475f797e335e27ddcd4cbf01075cd21575204571580416182c6c4d8227e9758d"
+        },
+        "1248062": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3344326778517932853",
+                    "size": "9301093053",
+                    "download": "2958096480"
+                },
+                "betatest": {
+                    "gid": "7998135728134412660",
+                    "size": "8347794630",
+                    "download": "3089605984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1248063": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2020600963043205323",
+                    "size": "9399828450",
+                    "download": "3088367184"
+                },
+                "betatest": {
+                    "gid": "8693370555880656256",
+                    "size": "9997126093",
+                    "download": "3110079920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1581130": {
+            "dlcappid": "1581130",
+            "manifests": {
+                "public": {
+                    "gid": "2902076147201338177",
+                    "size": "35725306",
+                    "download": "30798640"
+                }
+            },
+            "decryptionkey": "a0d54181576ebcac0c46882afdec67dd40410f94d9939be0d0bfa7000f6b0aa7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15306244",
+                "timeupdated": "1723130207"
+            },
+            "betatest": {
+                "buildid": "6711457",
+                "description": "Beta test of an upcoming patch",
+                "timeupdated": "1621417978"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
