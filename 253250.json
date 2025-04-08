@@ -1,0 +1,89 @@
+{
+    "appid": "253250",
+    "type": "Game",
+    "name": "Stonehearth",
+    "schinese_name": "石炉",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:45",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "253250",
+        "253251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9080735963801839893",
+                    "size": "1735490792",
+                    "download": "855117584"
+                },
+                "latest": {
+                    "gid": "9080735963801839893",
+                    "size": "1735490792",
+                    "download": "855117584"
+                },
+                "legacy_vista": {
+                    "gid": "2268850667529423571",
+                    "size": "625326691",
+                    "download": "468003872"
+                }
+            },
+            "decryptionkey": "bf0ada72328a5a01651a02ca317046fdf28a2c5ba702245214b346ddc951a88e"
+        },
+        "253252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4742746150851330041",
+                    "size": "861076122",
+                    "download": "675974960"
+                },
+                "latest": {
+                    "gid": "4742746150851330041",
+                    "size": "861076122",
+                    "download": "675974960"
+                }
+            },
+            "decryptionkey": "6962b77c04f2f4e710ab08cfa7eba04f4521d3f8f649c4965de1c804ce31b78d"
+        },
+        "1003430": {
+            "manifests": {
+                "public": {
+                    "gid": "1886869335845737513",
+                    "size": "507946108",
+                    "download": "510684400"
+                },
+                "latest": {
+                    "gid": "1886869335845737513",
+                    "size": "507946108",
+                    "download": "510684400"
+                }
+            },
+            "dlcappid": "1003430",
+            "decryptionkey": "f1fda2ab65b70e5277ffa79e1293c3c4b8d69ac25c5b51427f7859907463f47c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3480711",
+                "timeupdated": "1547806563"
+            },
+            "latest": {
+                "buildid": "3480711",
+                "description": "Latest build. Minimally tested.",
+                "timeupdated": "1547806527"
+            },
+            "legacy_vista": {
+                "buildid": "1419903",
+                "description": "A19 only, no further support",
+                "timeupdated": "1485291489"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0c64318e3a6f00313f261c76d060b4a097004e57b6c97dd38be9a27b94135346"
+    }
+}
