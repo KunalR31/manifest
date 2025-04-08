@@ -1,0 +1,100 @@
+{
+    "appid": "632170",
+    "type": "Game",
+    "name": "Spartan Fist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26264877",
+    "update_time": "2024-11-20 00:30:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "632171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8478153536220026157",
+                    "size": "449305640",
+                    "download": "162284928"
+                },
+                "unstable": {
+                    "gid": "8478153536220026157",
+                    "size": "449305640",
+                    "download": "162284928"
+                }
+            },
+            "decryptionkey": "1b9482f8418efffaeea95321d3ba1a3da3209fac031e1b984aae4929b7329342"
+        },
+        "632172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2606544589833785882",
+                    "size": "458620044",
+                    "download": "164236672"
+                },
+                "unstable": {
+                    "gid": "2606544589833785882",
+                    "size": "458620044",
+                    "download": "164236672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "632173": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8242622637508813145",
+                    "size": "462375784",
+                    "download": "166585248"
+                },
+                "unstable": {
+                    "gid": "8242622637508813145",
+                    "size": "462375784",
+                    "download": "166585248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "726370": {
+            "manifests": {
+                "public": {
+                    "gid": "4465831394746401737",
+                    "size": "93686860",
+                    "download": "90630848"
+                },
+                "unstable": {
+                    "gid": "4465831394746401737",
+                    "size": "93686860",
+                    "download": "90630848"
+                }
+            },
+            "dlcappid": "726370",
+            "decryptionkey": "786f2af43cbf760173cd6bbc3a2b11444f48c5053dd66fc0081427e269ad77b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2816280",
+                "timeupdated": "1527619682"
+            },
+            "unstable": {
+                "buildid": "2816280",
+                "description": "unstable! may not work at all!",
+                "timeupdated": "1527619438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
