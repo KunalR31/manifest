@@ -1,0 +1,124 @@
+{
+    "appid": "231740",
+    "type": "Game",
+    "name": "Knights of Pen and Paper +1",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27107574",
+    "update_time": "2025-01-22 15:26:06",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "baselanguages": "english,italian,spanish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "231741": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3960116710957381571",
+                    "size": "150462199",
+                    "download": "20990592"
+                },
+                "beta": {
+                    "gid": "7830793614915651071",
+                    "size": "81818763",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8598626823770492828",
+                    "size": "114455057",
+                    "download": "1347878992"
+                }
+            },
+            "decryptionkey": "bae429d8a46151e75fd448f4b07af002066ebb49756ff7377ea55fb753eebd2e"
+        },
+        "231742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3721854871278815322",
+                    "size": "196293482",
+                    "download": "33013440"
+                },
+                "beta": {
+                    "gid": "2359944121369550886",
+                    "size": "85982693",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8261489057603239979",
+                    "size": "122394239",
+                    "download": "2448931584"
+                }
+            },
+            "decryptionkey": "c8e5e9883efb134b9b319ee3cfde1214bc540978a4699791b2ec92b166bb5cbd"
+        },
+        "231743": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5108228438670171697",
+                    "size": "202568387",
+                    "download": "36085904"
+                },
+                "beta": {
+                    "gid": "2535198777309849308",
+                    "size": "88086689",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4933373883292544410",
+                    "size": "158955189",
+                    "download": "1424109144"
+                }
+            },
+            "decryptionkey": "c442f3142334c2930f0828b435c34a868b395acfd1f49447bc10790fe72fcad3"
+        },
+        "238652": {
+            "manifests": {
+                "public": {
+                    "gid": "5601553853792515144",
+                    "size": "17629137",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5601553853792515144",
+                    "size": "17629137",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "238652",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2949360",
+                "timeupdated": "1531918742"
+            },
+            "beta": {
+                "buildid": "192357"
+            },
+            "local": {
+                "buildid": "411855",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
