@@ -1,0 +1,81 @@
+{
+    "appid": "335460",
+    "type": "Game",
+    "name": "An Assassin in Orlandes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25829581",
+    "update_time": "2024-10-22 08:17:03",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "335461": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8578290665242963853",
+                    "size": "193579280",
+                    "download": "53949888"
+                },
+                "beta": {
+                    "gid": "8578290665242963853",
+                    "size": "193579280",
+                    "download": "53949888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "335462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5969884011456519184",
+                    "size": "174464957",
+                    "download": "47860080"
+                },
+                "beta": {
+                    "gid": "5969884011456519184",
+                    "size": "174464957",
+                    "download": "47860080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "335463": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "352825688967855727",
+                    "size": "164964869",
+                    "download": "45567344"
+                },
+                "beta": {
+                    "gid": "352825688967855727",
+                    "size": "164964869",
+                    "download": "45567344"
+                }
+            },
+            "decryptionkey": "e887891a5dee1ddfa068f4a63904c0202874a31b66abe4607d2e97bf605b986f"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "887882"
+            },
+            "beta": {
+                "buildid": "887882"
+            }
+        }
+    }
+}
