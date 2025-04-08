@@ -1,0 +1,108 @@
+{
+    "appid": "754890",
+    "type": "Game",
+    "name": "Firmament",
+    "schinese_name": "苍穹乾坤",
+    "isfreeapp": "0",
+    "change_number": "28201846",
+    "update_time": "2025-03-29 09:33:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "754891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4225082727781052785",
+                    "size": "11653850608",
+                    "download": "10821173232"
+                },
+                "rollback_macos_under14-5": {
+                    "gid": "2287415613846019348",
+                    "size": "12079937268",
+                    "download": "11285151776"
+                }
+            },
+            "decryptionkey": "e0f7bde13933f549c87ed878514e16dad8af0eb2755a92856e00d5eb22d64966"
+        },
+        "754892": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2995255727391943884",
+                    "size": "2006026521",
+                    "download": "860046128"
+                },
+                "rollback_macos_under14-5": {
+                    "gid": "2995255727391943884",
+                    "size": "2006026521",
+                    "download": "860046128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "754893": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5358053359547021069",
+                    "size": "20493970133",
+                    "download": "13000819936"
+                },
+                "rollback_macos_under14-5": {
+                    "gid": "7677166114299037705",
+                    "size": "14282208944",
+                    "download": "12812532240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17115960",
+                "timeupdated": "1737999318"
+            },
+            "rollback_macos_under14-5": {
+                "buildid": "16320978",
+                "description": "Only use this branch if you wish to play an unsupported (legacy) version of Firmament on MacOS under 14.5.",
+                "timeupdated": "1730939221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
