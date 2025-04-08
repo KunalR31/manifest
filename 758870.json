@@ -1,0 +1,60 @@
+{
+    "appid": "758870",
+    "type": "Game",
+    "name": "Kynseed",
+    "schinese_name": "奇因希德",
+    "isfreeapp": "0",
+    "change_number": "27777941",
+    "update_time": "2025-03-05 00:40:37",
+    "depot": {
+        "758871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4863332981243438650",
+                    "size": "730509985",
+                    "download": "521613424"
+                },
+                "legacyearlyaccess": {
+                    "gid": "5175526889440355381",
+                    "size": "534072764",
+                    "download": "338253680"
+                },
+                "32bit_version": {
+                    "gid": "7788931010988061475",
+                    "size": "730510497",
+                    "download": "521613120"
+                },
+                "experimental": {
+                    "gid": "4729009141580365006",
+                    "size": "730509985",
+                    "download": "521614368"
+                }
+            },
+            "decryptionkey": "dedbab1dec00f6d2fbb6eb1db52380e18cc9d3592d02d358dabd5a01495f09f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17200838",
+                "timeupdated": "1738337959"
+            },
+            "legacyearlyaccess": {
+                "buildid": "10082973",
+                "description": "To play the old early access version",
+                "timeupdated": "1670272636"
+            },
+            "32bit_version": {
+                "buildid": "17200885",
+                "description": "for compatibility",
+                "timeupdated": "1738337915"
+            },
+            "experimental": {
+                "buildid": "17200763",
+                "description": "Unstable and may break saves.  Use for testing latest only",
+                "timeupdated": "1738337907"
+            }
+        }
+    }
+}
