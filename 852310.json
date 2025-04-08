@@ -1,0 +1,90 @@
+{
+    "appid": "852310",
+    "type": "Game",
+    "name": "Omega Commando",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-27 07:19:07",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8782296191957114623",
+                    "size": "29759921",
+                    "download": "23045488"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1829726630299308803",
+                    "size": "102931551",
+                    "download": "100658080"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+        },
+        "852311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "997094704752223091",
+                    "size": "4609421217",
+                    "download": "1227156112"
+                },
+                "omegacommand_2021": {
+                    "gid": "997094704752223091",
+                    "size": "4609421217",
+                    "download": "1227156112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "852313": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "947521861698323868",
+                    "size": "5125662390",
+                    "download": "1255408608"
+                },
+                "omegacommand_2021": {
+                    "gid": "947521861698323868",
+                    "size": "5125662390",
+                    "download": "1255408608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6194034",
+                "timeupdated": "1612651070"
+            },
+            "omegacommand_2021": {
+                "buildid": "6194034",
+                "description": "2021 update",
+                "timeupdated": "1612516317"
+            }
+        }
+    }
+}
