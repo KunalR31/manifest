@@ -1,0 +1,77 @@
+{
+    "appid": "994220",
+    "type": "Game",
+    "name": "NEOVERSE",
+    "schinese_name": "无尽宇宙:Neoverse",
+    "isfreeapp": "0",
+    "change_number": "25716300",
+    "update_time": "2024-10-15 04:51:24",
+    "depot": {
+        "baselanguages": "english,koreana,schinese",
+        "994222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8956456217180101141",
+                    "size": "4815379846",
+                    "download": "2106586208"
+                },
+                "beta": {
+                    "gid": "8956456217180101141",
+                    "size": "4815379846",
+                    "download": "2106586208"
+                },
+                "classic": {
+                    "gid": "2379491298196116199",
+                    "size": "3009590303",
+                    "download": "1462123760"
+                }
+            },
+            "decryptionkey": "f23c011695e88b547a4284de8ee26abe7386ac134782c6ad8aba781d0b623bb3"
+        },
+        "994221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1334745261082354281",
+                    "size": "4266168924",
+                    "download": "2046134176"
+                },
+                "beta": {
+                    "gid": "1334745261082354281",
+                    "size": "4266168924",
+                    "download": "2046134176"
+                },
+                "classic": {
+                    "gid": "3759608924397069772",
+                    "size": "3017996502",
+                    "download": "1458755680"
+                }
+            },
+            "decryptionkey": "16a38a30f155982552a9e7d3c3eb73de62c86e0d2f308b75315fff83a36c1c0c"
+        },
+        "workshopdepot": "994220",
+        "branches": {
+            "public": {
+                "buildid": "7499024",
+                "timeupdated": "1634796948"
+            },
+            "beta": {
+                "buildid": "7499024",
+                "description": "beta test",
+                "timeupdated": "1634796937"
+            },
+            "classic": {
+                "buildid": "4277366",
+                "description": "V0.985",
+                "timeupdated": "1570779944"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "281a946fe213a7041d0626ffc444feb27f95bfa80662b333b4dea3b7670dfb98"
+    }
+}
