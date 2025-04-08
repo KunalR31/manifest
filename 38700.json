@@ -1,0 +1,88 @@
+{
+    "appid": "38700",
+    "type": "Game",
+    "name": "Toki Tori",
+    "schinese_name": "小鸡快跑",
+    "isfreeapp": "0",
+    "change_number": "28177269",
+    "update_time": "2025-03-28 03:17:33",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,italian,dutch",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "387001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4001504051355792959",
+                    "size": "126739273",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4a5feffeb22bc8e65f70982a12bae8b17528e7210922b87c300078fdcf474647"
+        },
+        "38702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4888253800313879471",
+                    "size": "132321747",
+                    "download": "96253328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "38703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7858407214057322857",
+                    "size": "137378618",
+                    "download": "96975520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "98015": {
+            "dlcappid": "98015",
+            "manifests": {
+                "public": {
+                    "gid": "5414779958442857681",
+                    "size": "7219840",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5360255",
+                "timeupdated": "1596297244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
