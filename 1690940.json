@@ -1,0 +1,74 @@
+{
+    "appid": "1690940",
+    "type": "Demo",
+    "name": "DELTARUNE (Chapter 1 & 2 DEMO)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26550945",
+    "update_time": "2024-12-09 09:35:25",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1690941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7280478300334929399",
+                    "size": "199670327",
+                    "download": "127703040"
+                },
+                "chapter1.2.112.windows7fix": {
+                    "gid": "2367536887136698437",
+                    "size": "200299021",
+                    "download": "127982480"
+                },
+                "chapter1.2.lts.test": {
+                    "gid": "986349265606924702",
+                    "size": "193493560",
+                    "download": "134630080"
+                }
+            },
+            "decryptionkey": "0eef13bb5d3681842f152ced9b6110099ffcaba0fe9e84a448f25d4da3a364cb"
+        },
+        "1690942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1337622988459417429",
+                    "size": "215133281",
+                    "download": "131397232"
+                },
+                "chapter1.2.112.windows7fix": {
+                    "gid": "1671667732983167627",
+                    "size": "217865906",
+                    "download": "131931376"
+                },
+                "chapter1.2.lts.test": {
+                    "gid": "8481980839914022280",
+                    "size": "208833655",
+                    "download": "138377856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8272590",
+                "timeupdated": "1645769472"
+            },
+            "chapter1.2.112.windows7fix": {
+                "buildid": "8878807",
+                "description": "Attempts fix for Windows 7",
+                "timeupdated": "1654509728"
+            },
+            "chapter1.2.lts.test": {
+                "buildid": "16675488",
+                "description": "11-25-24",
+                "timeupdated": "1733708122"
+            }
+        }
+    }
+}
