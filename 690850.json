@@ -1,0 +1,65 @@
+{
+    "appid": "690850",
+    "type": "Game",
+    "name": "Magibot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26645089",
+    "update_time": "2024-12-15 03:39:47",
+    "depot": {
+        "690851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2821144182388164614",
+                    "size": "274960335",
+                    "download": "87201888"
+                },
+                "testdrm": {
+                    "gid": "7543319172774264981",
+                    "size": "274942891",
+                    "download": "87201824"
+                }
+            },
+            "decryptionkey": "3ce2fea22bfba355f0cf6b862545683aec1d84480f9c75e2ac2f5590c83ed7d3"
+        },
+        "690852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4415969580704102049",
+                    "size": "288479250",
+                    "download": "78342800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "690853": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8696066745644290785",
+                    "size": "312681883",
+                    "download": "87302512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2345191",
+                "timeupdated": "1512575636"
+            },
+            "testdrm": {
+                "buildid": "2321340",
+                "timeupdated": "1511858597"
+            }
+        }
+    }
+}
