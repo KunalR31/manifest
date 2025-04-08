@@ -1,0 +1,60 @@
+{
+    "appid": "946720",
+    "type": "Game",
+    "name": "To The Rescue!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25671629",
+    "update_time": "2024-10-12 00:07:06",
+    "depot": {
+        "baselanguages": "english",
+        "946721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "643697170339098284",
+                    "size": "1242995711",
+                    "download": "195781584"
+                },
+                "experimental": {
+                    "gid": "8143953989369998980",
+                    "size": "5779637347",
+                    "download": "208129776"
+                }
+            },
+            "decryptionkey": "4f247bdc7ab85d1a759f0eb8838c3d3f0cc74d4824616ce482fa56e4a4a845c7"
+        },
+        "946722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "438201221972178187",
+                    "size": "5804798680",
+                    "download": "215470384"
+                },
+                "experimental": {
+                    "gid": "2428319707098468839",
+                    "size": "5736410177",
+                    "download": "192062656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16011126",
+                "timeupdated": "1728659011"
+            },
+            "experimental": {
+                "buildid": "10198065",
+                "description": "This branch is for testing upcoming release candidates. It may be unstable or damage existing save files, so proceed with caution and make a backup of your savefiles.",
+                "timeupdated": "1671696557"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
