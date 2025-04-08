@@ -1,0 +1,77 @@
+{
+    "appid": "269310",
+    "type": "Game",
+    "name": "Infectonator : Survivors",
+    "schinese_name": "传染恐慌：幸存者",
+    "isfreeapp": "0",
+    "change_number": "27780192",
+    "update_time": "2025-03-05 02:23:42",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "269311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2562688664396970179",
+                    "size": "101551361",
+                    "download": "76126288"
+                },
+                "testing": {
+                    "gid": "2562688664396970179",
+                    "size": "101551361",
+                    "download": "76126288"
+                }
+            },
+            "decryptionkey": "2ef32e57ecadeedeb0ae789828c2718f0701cc30216b901a5b3245a60a246aa7"
+        },
+        "269312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "239552098320599574",
+                    "size": "151724694",
+                    "download": "73850416"
+                },
+                "testing": {
+                    "gid": "239552098320599574",
+                    "size": "151724694",
+                    "download": "73850416"
+                }
+            },
+            "decryptionkey": "10d2cdd03061aa3eac3a2700aa7bd58155c67c7c5dabe7c7f701d87766607941"
+        },
+        "707490": {
+            "dlcappid": "707490",
+            "manifests": {
+                "public": {
+                    "gid": "5767125808719154921",
+                    "size": "82822247",
+                    "download": "63670160"
+                },
+                "testing": {
+                    "gid": "5767125808719154921",
+                    "size": "82822247",
+                    "download": "63670160"
+                }
+            },
+            "decryptionkey": "c358a6ba6c05801f20a43d5e14d609cc6973c916458f706154fb3c4e5ba072ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2685601",
+                "timeupdated": "1524132878"
+            },
+            "testing": {
+                "buildid": "2685601",
+                "description": "test builds",
+                "timeupdated": "1523608434"
+            }
+        }
+    }
+}
