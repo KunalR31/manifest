@@ -1,0 +1,101 @@
+{
+    "appid": "249050",
+    "type": "Game",
+    "name": "Dungeon of the ENDLESS™",
+    "schinese_name": "无尽地牢(2014)",
+    "isfreeapp": "0",
+    "change_number": "27347131",
+    "update_time": "2025-02-06 23:07:51",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "249051": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9154918082254223603",
+                    "size": "812383605",
+                    "download": "189259696"
+                },
+                "1.0.88": {
+                    "gid": "169680200027834843",
+                    "size": "784470838",
+                    "download": "183280288"
+                }
+            },
+            "decryptionkey": "6d80e58f49ef3fb5f2851a475f109b1361bc5469b710248e1bc4af4c6a9d844c"
+        },
+        "249052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8887222065865117750",
+                    "size": "810750365",
+                    "download": "192656224"
+                },
+                "1.0.88": {
+                    "gid": "4790623253289503492",
+                    "size": "782863344",
+                    "download": "186735024"
+                }
+            },
+            "decryptionkey": "ab875e1bf4fe5a00a49921e8030ee08a00cd01b3bf7264b581feceac5187db38"
+        },
+        "249053": {
+            "manifests": {
+                "public": {
+                    "gid": "2967333487753111894",
+                    "size": "133549197",
+                    "download": "132829504"
+                },
+                "1.0.88": {
+                    "gid": "2967333487753111894",
+                    "size": "133549197",
+                    "download": "132829504"
+                }
+            },
+            "decryptionkey": "ea27923e33a1d9af43aa64d75080b5596701aa4d57d31466683f5e6d6d5e225d"
+        },
+        "249054": {
+            "dlcappid": "744930",
+            "manifests": {
+                "public": {
+                    "gid": "5728653399259536422",
+                    "size": "48100242",
+                    "download": "41679072"
+                }
+            },
+            "decryptionkey": "74e06f815f5e1b84a906f41eeb6de78ba8cbf0c109db319bbb7aa0d6a30bbf39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10577808",
+                "timeupdated": "1676651866"
+            },
+            "1.0.88": {
+                "buildid": "836810",
+                "description": "Previous version of the game"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
