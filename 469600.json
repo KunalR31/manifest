@@ -1,0 +1,149 @@
+{
+    "appid": "469600",
+    "type": "Game",
+    "name": "Legion TD 2",
+    "schinese_name": "军团战争2 / Legion TD 2",
+    "isfreeapp": "0",
+    "change_number": "28345614",
+    "update_time": "2025-04-07 20:35:47",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "469606": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5693690909825165098",
+                    "size": "2405072188",
+                    "download": "1522124720"
+                },
+                "mactest": {
+                    "gid": "1504953317752320179",
+                    "size": "1579277551",
+                    "download": "891024544"
+                },
+                "mactest2": {
+                    "gid": "7543942081242758348",
+                    "size": "2205517535",
+                    "download": "1386651920"
+                },
+                "public_test_realm": {
+                    "gid": "8940105188551836791",
+                    "size": "2408121769",
+                    "download": "1523731840"
+                }
+            },
+            "decryptionkey": "8b591e56a834f70ff1bf49b14b99e2c490adca60ee83a708449f01edab91a597"
+        },
+        "469607": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9188699719218773297",
+                    "size": "0",
+                    "download": "0"
+                },
+                "mactest": {
+                    "gid": "1848833954796996125",
+                    "size": "1095206157",
+                    "download": "584104640"
+                },
+                "mactest2": {
+                    "gid": "9188699719218773297",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public_test_realm": {
+                    "gid": "9188699719218773297",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ef467d7153533cc467dc641f921c9274318d344d3e47b1e58160a96a2ce46b6d"
+        },
+        "469608": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2450379465846116187",
+                    "size": "2525152610",
+                    "download": "1540071664"
+                },
+                "mactest": {
+                    "gid": "1338804715025716182",
+                    "size": "1590017501",
+                    "download": "897946512"
+                },
+                "mactest2": {
+                    "gid": "4011254023723756454",
+                    "size": "2281583471",
+                    "download": "1392591456"
+                },
+                "public_test_realm": {
+                    "gid": "8001742737338963160",
+                    "size": "2528202191",
+                    "download": "1541678864"
+                }
+            },
+            "decryptionkey": "392006f5e4e2964f66056341e4f8cc8a45b3d9c85ee44f5ea0629153f2c6768e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17850720",
+                "timeupdated": "1742901778"
+            },
+            "mactest": {
+                "buildid": "6947310",
+                "description": "Mac benchmark",
+                "timeupdated": "1624921895"
+            },
+            "mactest2": {
+                "buildid": "11052860",
+                "description": " Mac benchmark 2",
+                "timeupdated": "1682018606"
+            },
+            "public_test_realm": {
+                "buildid": "18011344",
+                "description": "Public beta testing",
+                "timeupdated": "1744029340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
