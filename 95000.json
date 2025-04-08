@@ -1,0 +1,84 @@
+{
+    "appid": "95000",
+    "type": "Game",
+    "name": "Super Splatters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27141048",
+    "update_time": "2025-01-24 09:24:01",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "95020": {},
+        "95001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1717067412931434046",
+                    "size": "621322268",
+                    "download": "616432608"
+                },
+                "local": {
+                    "gid": "2432505670260939454",
+                    "size": "308925259",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "21f51eadfca4cbd76526e37e7321f0d9598aeb80f339de71b87b1d7266be3572"
+        },
+        "95002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1278265944760054643",
+                    "size": "465047358",
+                    "download": "423265360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "95003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "673719999203585259",
+                    "size": "489460613",
+                    "download": "473863952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "599616"
+            },
+            "local": {
+                "buildid": "41218",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
