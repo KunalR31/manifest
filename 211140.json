@@ -1,0 +1,41 @@
+{
+    "appid": "211140",
+    "type": "Game",
+    "name": "DYNASTY WARRIORS 7 with Xtreme Legends",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26980940",
+    "update_time": "2025-01-14 08:28:46",
+    "depot": {
+        "211141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1565185906305390252",
+                    "size": "11878089166",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2331511967368772156",
+                    "size": "11878089166",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3305adcbcedcba730b30bc24d26418579c36bc6d3c260a4d78a67bef6acab715"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "12055"
+            },
+            "local": {
+                "buildid": "11957",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
