@@ -1,0 +1,98 @@
+{
+    "appid": "270210",
+    "type": "Game",
+    "name": "Melody's Escape",
+    "schinese_name": "逃脱旋律",
+    "isfreeapp": "0",
+    "change_number": "28172702",
+    "update_time": "2025-03-27 23:15:59",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "270211": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1769534007594252676",
+                    "size": "38075028",
+                    "download": "30486704"
+                },
+                "local": {
+                    "gid": "5198368590488513980",
+                    "size": "22679724",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0c14ff0f7ba1bb141663da7be79e051d67dd85b4829f36415dbef6b9129a25b7"
+        },
+        "270212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6784908499464855861",
+                    "size": "60221227",
+                    "download": "38055664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "270213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6147547395441140906",
+                    "size": "60574425",
+                    "download": "39339056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9803963",
+                "timeupdated": "1666789970"
+            },
+            "local": {
+                "buildid": "184856",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
