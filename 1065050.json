@@ -1,0 +1,64 @@
+{
+    "appid": "1065050",
+    "type": "Game",
+    "name": "Gunship Recon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26129673",
+    "update_time": "2024-11-10 23:19:21",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1065051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6598636129321361189",
+                    "size": "4766096306",
+                    "download": "1594545248"
+                },
+                "public-release-version1.00": {
+                    "gid": "5925893877225547629",
+                    "size": "4720068125",
+                    "download": "1548904608"
+                },
+                "public-release-version1.01": {
+                    "gid": "9144017411905533694",
+                    "size": "4720074269",
+                    "download": "1548911120"
+                }
+            },
+            "decryptionkey": "90b912051919d4ea1276a0a7a1c54ad9e711b4e09692eb482e070d316660f2cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6128941",
+                "timeupdated": "1611456399"
+            },
+            "public-release-version1.00": {
+                "buildid": "3805470",
+                "timeupdated": "1558312662"
+            },
+            "public-release-version1.01": {
+                "buildid": "3838440",
+                "description": "public-release-version1.01",
+                "timeupdated": "1611456407"
+            }
+        }
+    }
+}
