@@ -1,0 +1,74 @@
+{
+    "appid": "252010",
+    "type": "Game",
+    "name": "Oniken",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27759376",
+    "update_time": "2025-03-04 02:15:07",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "252011": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6262046745001207149",
+                    "size": "35940746",
+                    "download": "32611840"
+                }
+            },
+            "decryptionkey": "cfe480fbfe1597b466c23bb4e47738f806ea83e340b7f0001aa9a7b09abfb958"
+        },
+        "252012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6604617613500757279",
+                    "size": "556791088",
+                    "download": "239174752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "252013": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7608570056280709891",
+                    "size": "533377229",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1808485",
+                "timeupdated": "1494296998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
