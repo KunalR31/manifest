@@ -1,0 +1,51 @@
+{
+    "appid": "2605920",
+    "type": "Demo",
+    "name": "VOIN Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26581709",
+    "update_time": "2024-12-11 04:09:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2605921": {
+            "manifests": {
+                "public": {
+                    "gid": "3948677514960812691",
+                    "size": "1453431923",
+                    "download": "1270304032"
+                },
+                "preliminary_demo_test": {
+                    "gid": "3948677514960812691",
+                    "size": "1453431923",
+                    "download": "1270304032"
+                }
+            },
+            "decryptionkey": "dd7adfa1aba7520b3f04b07b21904e8d0d5ca4f66cafcc8abce84a4691b6ae51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16197418",
+                "timeupdated": "1730036590"
+            },
+            "preliminary_demo_test": {
+                "buildid": "16197418",
+                "description": "For testing the demo, before the demo",
+                "timeupdated": "1730034964"
+            }
+        }
+    }
+}
