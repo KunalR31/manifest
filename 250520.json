@@ -1,0 +1,109 @@
+{
+    "appid": "250520",
+    "type": "Game",
+    "name": "Underrail",
+    "schinese_name": "轨道之下",
+    "isfreeapp": "0",
+    "change_number": "27385605",
+    "update_time": "2025-02-09 16:17:22",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250521": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2670554329724553240",
+                    "size": "3660663251",
+                    "download": "3503736528"
+                },
+                "legacy": {
+                    "gid": "5272216766491414835",
+                    "size": "3307896640",
+                    "download": "3200178560"
+                },
+                "experimental": {
+                    "gid": "2670554329724553240",
+                    "size": "3660663251",
+                    "download": "3503736528"
+                }
+            },
+            "decryptionkey": "8ee38dcc5abe5e4c07b092b116464ab21b1880e9e89820ce97a662b07e78c449"
+        },
+        "694330": {
+            "dlcappid": "694330",
+            "manifests": {
+                "public": {
+                    "gid": "70118570549244836",
+                    "size": "6311800497",
+                    "download": "6221062560"
+                },
+                "legacy": {
+                    "gid": "4107983322122129566",
+                    "size": "5882349574",
+                    "download": "5826218256"
+                },
+                "experimental": {
+                    "gid": "70118570549244836",
+                    "size": "6311800497",
+                    "download": "6221062560"
+                }
+            },
+            "decryptionkey": "306abce315c15289ae5580c0994ad1890a44ed374a1ec3c3c9b1298874c7a712"
+        },
+        "2604510": {
+            "dlcappid": "2604510",
+            "manifests": {
+                "public": {
+                    "gid": "4385157116851295236",
+                    "size": "1735347113",
+                    "download": "1737749840"
+                },
+                "experimental": {
+                    "gid": "4385157116851295236",
+                    "size": "1735347113",
+                    "download": "1737749840"
+                }
+            },
+            "decryptionkey": "b3c65efc79ec35fe322ea1b14f75eadc38856b0d356c946bb4da331685ec1ea2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17252493",
+                "timeupdated": "1738777089"
+            },
+            "legacy": {
+                "buildid": "4619198",
+                "description": "Version 1.1.1.6",
+                "timeupdated": "1598912605"
+            },
+            "experimental": {
+                "buildid": "17252493",
+                "description": "Here we upload upcoming version that still require some testing. Proceed accordingly.",
+                "timeupdated": "1738777101"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
