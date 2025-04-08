@@ -1,0 +1,136 @@
+{
+    "appid": "258050",
+    "type": "Game",
+    "name": "Survivor Squad",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26319160",
+    "update_time": "2024-12-05 00:02:09",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "258051": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "844760425490600465",
+                    "size": "822369750",
+                    "download": "182059872"
+                },
+                "test": {
+                    "gid": "1601954159025706136",
+                    "size": "822080950",
+                    "download": "184858192"
+                }
+            },
+            "decryptionkey": "458e78eff16ed0206253dcf6e67d6810e22b9440d923a6ced4bce685a0234fe9"
+        },
+        "258052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8293821644711941343",
+                    "size": "925194889",
+                    "download": "194106512"
+                },
+                "test": {
+                    "gid": "7475340683339584463",
+                    "size": "924809917",
+                    "download": "197483248"
+                }
+            },
+            "decryptionkey": "97b1e13253f9b6d0a7d6c2c2cebe8e253c644c5227a30820cace3364e8b64819"
+        },
+        "258053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4564716640524155116",
+                    "size": "830281909",
+                    "download": "183855600"
+                },
+                "test": {
+                    "gid": "3980942163420696739",
+                    "size": "830277468",
+                    "download": "183852368"
+                }
+            },
+            "decryptionkey": "a2a129555586aa2b2dcb8c3e55f627031c078609861bd603850ec5d06042896c"
+        },
+        "344510": {
+            "dlcappid": "344510"
+        },
+        "344511": {
+            "dlcappid": "344510",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2591268884176362852",
+                    "size": "36574177",
+                    "download": "15571136"
+                },
+                "test": {
+                    "gid": "2591268884176362852",
+                    "size": "36574177",
+                    "download": "15571136"
+                }
+            },
+            "decryptionkey": "68ab73d0dcdaa768787b4a39de0b754192515837947fad7d85119c24cd7ef169"
+        },
+        "344512": {
+            "dlcappid": "344510",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8287788740313105573",
+                    "size": "44655659",
+                    "download": "16693392"
+                },
+                "test": {
+                    "gid": "8287788740313105573",
+                    "size": "44655659",
+                    "download": "16693392"
+                }
+            },
+            "decryptionkey": "2b1033c3ec89a44ea81bb0a3b9679728fa75e7b323f67e2cea632739b3cd61c4"
+        },
+        "344513": {
+            "dlcappid": "344510",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4062031328613848713",
+                    "size": "43270348",
+                    "download": "17454496"
+                },
+                "test": {
+                    "gid": "4062031328613848713",
+                    "size": "43270348",
+                    "download": "17454496"
+                }
+            },
+            "decryptionkey": "f0790a2ce94d83436134f9ef072ccb948a1004c1e30f3ad4c8e9b31aeea43370"
+        },
+        "branches": {
+            "public": {
+                "buildid": "563506"
+            },
+            "test": {
+                "buildid": "540058"
+            }
+        }
+    }
+}
