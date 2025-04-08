@@ -1,0 +1,74 @@
+{
+    "appid": "208600",
+    "type": "Game",
+    "name": "Lunar Flight",
+    "schinese_name": "月球飞行",
+    "isfreeapp": "0",
+    "change_number": "26774802",
+    "update_time": "2024-12-25 00:52:28",
+    "depot": {
+        "208602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7400917779519651313",
+                    "size": "1469943871",
+                    "download": "0"
+                },
+                "lfae": {
+                    "gid": "7400917779519651313",
+                    "size": "1469943871",
+                    "download": "0"
+                },
+                "vr_beta": {
+                    "gid": "7400917779519651313",
+                    "size": "1469943871",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd04dfb88141f5b196a443a7a0f0eba6af997469a48f889b530c8b86f6a90005"
+        },
+        "208601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5311198478352408848",
+                    "size": "1511914365",
+                    "download": "0"
+                },
+                "lfae": {
+                    "gid": "3691847998695386980",
+                    "size": "3360051521",
+                    "download": "910534608"
+                },
+                "vr_beta": {
+                    "gid": "5805191723081119252",
+                    "size": "3674525178",
+                    "download": "961423920"
+                }
+            },
+            "decryptionkey": "19c0c0365ef10b18e4e9715f6a7372b8263516cb58265ef46620dbf9d18a95b3"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "249777"
+            },
+            "lfae": {
+                "buildid": "4030904",
+                "description": "Anniversary Edition",
+                "timeupdated": "1563715154"
+            },
+            "vr_beta": {
+                "buildid": "1471382",
+                "timeupdated": "1479730569"
+            }
+        }
+    }
+}
