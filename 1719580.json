@@ -1,0 +1,77 @@
+{
+    "appid": "1719580",
+    "type": "Demo",
+    "name": "Stardeus Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540496",
+    "update_time": "2025-02-19 02:57:59",
+    "depot": {
+        "1719582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8226312806206404675",
+                    "size": "1096739578",
+                    "download": "813069872"
+                },
+                "experimental": {
+                    "gid": "8226312806206404675",
+                    "size": "1096739578",
+                    "download": "813069872"
+                }
+            },
+            "decryptionkey": "d864c2d2dc46564683c8e784068dced8b3e9b534d7e32f79a8aab1fd4c5e562b"
+        },
+        "1719584": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3501255729951193855",
+                    "size": "1103087244",
+                    "download": "812087712"
+                },
+                "experimental": {
+                    "gid": "3501255729951193855",
+                    "size": "1103087244",
+                    "download": "812087712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1719585": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "505053155173274953",
+                    "size": "1129951408",
+                    "download": "821136112"
+                },
+                "experimental": {
+                    "gid": "505053155173274953",
+                    "size": "1129951408",
+                    "download": "821136112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17438120",
+                "timeupdated": "1740050669"
+            },
+            "experimental": {
+                "buildid": "17438120",
+                "description": "The most up to date version, which could contain some untested features",
+                "timeupdated": "1740050643"
+            }
+        }
+    }
+}
