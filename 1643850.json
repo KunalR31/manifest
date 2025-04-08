@@ -1,0 +1,49 @@
+{
+    "appid": "1643850",
+    "type": "Game",
+    "name": "Slaycation Paradise",
+    "schinese_name": "末日度假村",
+    "isfreeapp": "0",
+    "change_number": "27200790",
+    "update_time": "2025-01-28 21:02:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1643851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9007780970059195211",
+                    "size": "1860144182",
+                    "download": "1071729296"
+                },
+                "public-beta": {
+                    "gid": "5385779629292726709",
+                    "size": "1860163678",
+                    "download": "1071730416"
+                }
+            },
+            "decryptionkey": "1f3862cfd13dc0ef310f9089775c52adbed77b87a1dc8cfa4e2d903fb5e734f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10055319",
+                "timeupdated": "1670854995"
+            },
+            "public-beta": {
+                "buildid": "10133086",
+                "description": "Unstable sneak-peek and testing.",
+                "timeupdated": "1670908861"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
