@@ -1,0 +1,78 @@
+{
+    "appid": "2020710",
+    "type": "Game",
+    "name": "Havendock",
+    "schinese_name": "海港物语 Havendock",
+    "isfreeapp": "0",
+    "change_number": "28225395",
+    "update_time": "2025-03-31 17:34:27",
+    "depot": {
+        "baselanguages": "english",
+        "2020711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4688232436733212863",
+                    "size": "1284379892",
+                    "download": "380257424"
+                },
+                "experimental": {
+                    "gid": "7737047564749533166",
+                    "size": "1285113152",
+                    "download": "380197440"
+                }
+            },
+            "decryptionkey": "93bce109acdd17cf295a57e249841decc07e5a373ae984d23781b2ef3ef3505f"
+        },
+        "2020712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "813677342460628948",
+                    "size": "1308505922",
+                    "download": "387535936"
+                },
+                "experimental": {
+                    "gid": "8504895774825289473",
+                    "size": "1308505862",
+                    "download": "387534864"
+                }
+            },
+            "decryptionkey": "4d148624a81eee8d397c9103e183f5839e303ef4ec7856fb46407791c65e7432"
+        },
+        "2020713": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3121624777019100158",
+                    "size": "1410378290",
+                    "download": "441464384"
+                },
+                "experimental": {
+                    "gid": "6221042788436203019",
+                    "size": "1410374246",
+                    "download": "441463888"
+                }
+            },
+            "decryptionkey": "6c349d7950be7d4323683c009f1c319577e117e6fe076b927dd7d1c955f1ab16"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17915895",
+                "timeupdated": "1743344264"
+            },
+            "experimental": {
+                "buildid": "17915805",
+                "description": "Windows experimental builds",
+                "timeupdated": "1743343281"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
