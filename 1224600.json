@@ -1,0 +1,89 @@
+{
+    "appid": "1224600",
+    "type": "Game",
+    "name": "G String",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28062443",
+    "update_time": "2025-03-21 09:19:49",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1224601": {
+            "manifests": {
+                "public": {
+                    "gid": "829732955927396245",
+                    "size": "12167190195",
+                    "download": "5961547744"
+                },
+                "previous": {
+                    "gid": "140413733362970425",
+                    "size": "11506810439",
+                    "download": "4775925632"
+                },
+                "a_cup_update": {
+                    "gid": "1953976137803199890",
+                    "size": "11761152702",
+                    "download": "4888582096"
+                },
+                "b_cup_update": {
+                    "gid": "8921579814389807970",
+                    "size": "14122162476",
+                    "download": "5929324960"
+                },
+                "lunar_new_year_update": {
+                    "gid": "8263201639318570906",
+                    "size": "11761151679",
+                    "download": "4888576624"
+                }
+            },
+            "decryptionkey": "d2c2881173fc134920609edb36c4977009731be277efab497b197e39eb6dda51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17802251",
+                "timeupdated": "1742519983"
+            },
+            "previous": {
+                "buildid": "5714414",
+                "description": "Previous build of the game, for save compatibility.",
+                "timeupdated": "1608580837"
+            },
+            "a_cup_update": {
+                "buildid": "6006845",
+                "description": "The Dec 2020 A Cup Update.",
+                "timeupdated": "1741900827"
+            },
+            "b_cup_update": {
+                "buildid": "7020678",
+                "description": "The July 2021 B Cup update.",
+                "timeupdated": "1741899358"
+            },
+            "lunar_new_year_update": {
+                "buildid": "6228875",
+                "description": "The Feb 2021 Lunar New Year update.",
+                "timeupdated": "1741900654"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
