@@ -1,0 +1,57 @@
+{
+    "appid": "2909400",
+    "type": "Game",
+    "name": "FINAL FANTASY VII REBIRTH",
+    "schinese_name": "最终幻想7 重生",
+    "isfreeapp": "0",
+    "change_number": "28342734",
+    "update_time": "2025-04-07 17:28:17",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2909401": {
+            "manifests": {
+                "public": {
+                    "gid": "2203180677398062006",
+                    "size": "164676812705",
+                    "download": "154872209296"
+                }
+            },
+            "decryptionkey": "7ab31662f5cf76b4197f27c340a2a0589dc4713c137aadfd22b281df42c07a56"
+        },
+        "2909402": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "885019631141671181",
+                    "size": "22139467490",
+                    "download": "21425142320"
+                }
+            },
+            "decryptionkey": "fd15686ace81b2e7a839997e1bcc40d7dd9c15f49ce21714252771aa357fd67f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17564051",
+                "timeupdated": "1741255250"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
