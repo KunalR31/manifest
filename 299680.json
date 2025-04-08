@@ -1,0 +1,90 @@
+{
+    "appid": "299680",
+    "type": "Game",
+    "name": "Tengami",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27729848",
+    "update_time": "2025-03-01 12:43:35",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,swedish,turkish,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "299681": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "701844389666881346",
+                    "size": "274653205",
+                    "download": "228676000"
+                },
+                "beta": {
+                    "gid": "701844389666881346",
+                    "size": "274653205",
+                    "download": "228676000"
+                },
+                "openlgl": {
+                    "gid": "5799671208275874558",
+                    "size": "275027757",
+                    "download": "228486480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "299682": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6113209522850678381",
+                    "size": "482838105",
+                    "download": "278470752"
+                },
+                "beta": {
+                    "gid": "6113209522850678381",
+                    "size": "482838105",
+                    "download": "278470752"
+                },
+                "local": {
+                    "gid": "6362040928033324754",
+                    "size": "844107057",
+                    "download": "384114048"
+                },
+                "openlgl": {
+                    "gid": "7494758314328767078",
+                    "size": "485193995",
+                    "download": "278583376"
+                }
+            },
+            "decryptionkey": "95f4eab4cbd1cdea33b55cd7c738872a9a1cefa8b9e7448c88ff078aa1098e74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5195183",
+                "timeupdated": "1592730267"
+            },
+            "beta": {
+                "buildid": "5195183",
+                "timeupdated": "1592730044"
+            },
+            "local": {
+                "buildid": "530275",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "openlgl": {
+                "buildid": "5074851",
+                "description": "OpenGL version for older Macs that do not support Metal",
+                "timeupdated": "1590419099"
+            }
+        }
+    }
+}
