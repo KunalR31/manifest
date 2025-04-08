@@ -1,0 +1,99 @@
+{
+    "appid": "846770",
+    "type": "Game",
+    "name": "DYSMANTLE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26089759",
+    "update_time": "2024-11-07 21:14:49",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
+        "workshopdepot": "846770",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "846771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8087228912078298878",
+                    "size": "1977114897",
+                    "download": "1438876000"
+                },
+                "beta": {
+                    "gid": "8087228912078298878",
+                    "size": "1977114897",
+                    "download": "1438876000"
+                },
+                "pre_beta": {
+                    "gid": "8087228912078298878",
+                    "size": "1977114897",
+                    "download": "1438876000"
+                },
+                "previous_default": {
+                    "gid": "7717861275984382243",
+                    "size": "1949752503",
+                    "download": "1432861152"
+                }
+            },
+            "decryptionkey": "c345ec3e46cd18e15a4f18b0c8e1c099ab995829330b6a66d5a8f47894be732f"
+        },
+        "846772": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3996830895741847660",
+                    "size": "1567623019",
+                    "download": "1155354048"
+                },
+                "beta": {
+                    "gid": "3996830895741847660",
+                    "size": "1567623019",
+                    "download": "1155354048"
+                },
+                "pre_beta": {
+                    "gid": "3996830895741847660",
+                    "size": "1567623019",
+                    "download": "1155354048"
+                },
+                "previous_default": {
+                    "gid": "3128608113841039414",
+                    "size": "1585027772",
+                    "download": "1170033312"
+                }
+            },
+            "decryptionkey": "a0fcc1b3487aacf7ed5abbd1859ee12a145b61fb902bb71961426d4921e9a0ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14715959",
+                "timeupdated": "1718355825"
+            },
+            "beta": {
+                "buildid": "14715959",
+                "description": "Test builds, backup saves before trying!",
+                "timeupdated": "1718355761"
+            },
+            "pre_beta": {
+                "buildid": "14715959",
+                "description": "Experimental builds, try at your own risk!",
+                "timeupdated": "1718353686"
+            },
+            "previous_default": {
+                "buildid": "13116689",
+                "description": "Previous main branch build. Switch to this if you've got problems with a new update.",
+                "timeupdated": "1714642715"
+            }
+        },
+        "workshopdepotdecryptionkey": "e62c47c969d5072004230043978c146f4b1ccfec300b7d1f73a86ab637d560d5"
+    }
+}
