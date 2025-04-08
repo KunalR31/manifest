@@ -1,0 +1,65 @@
+{
+    "appid": "809140",
+    "type": "Game",
+    "name": "Cliff Empire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27152019",
+    "update_time": "2025-01-24 23:43:14",
+    "depot": {
+        "baselanguages": "english,ukrainian",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "809140",
+        "809142": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6962498646266055645",
+                    "size": "1111404880",
+                    "download": "405930880"
+                },
+                "betatesting": {
+                    "gid": "6962498646266055645",
+                    "size": "1111404880",
+                    "download": "405930880"
+                }
+            },
+            "decryptionkey": "3f2b754520df9e5cba15c7fd0fa71d796e845cd812d7eaa07d75ceed183fcd01"
+        },
+        "809141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6637204181063484089",
+                    "size": "2134153198",
+                    "download": "560175440"
+                },
+                "betatesting": {
+                    "gid": "6637204181063484089",
+                    "size": "2134153198",
+                    "download": "560175440"
+                }
+            },
+            "decryptionkey": "346879f2be8e1a23573d0efd74fdae779a11ec685f5d6b5cd7ed809dd9591de5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17121607",
+                "timeupdated": "1737733389"
+            },
+            "betatesting": {
+                "buildid": "17080509",
+                "description": "Newest builds available here. may have some bugs.",
+                "timeupdated": "1737479574"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b5a6fe74d4e7a2bd4cecd626524af574a021ead2210552ad1f94b7781b1e7a70"
+    }
+}
