@@ -1,0 +1,82 @@
+{
+    "appid": "294230",
+    "type": "Game",
+    "name": "Millie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109055",
+    "update_time": "2025-01-22 17:24:41",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "294231": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7279367306435402396",
+                    "size": "421669594",
+                    "download": "15157275456"
+                }
+            },
+            "decryptionkey": "c3f97f3591745946e84d076444ecb772a0b1425dfb025b01573bdb3bdcd2c15a"
+        },
+        "294232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9166972208353010065",
+                    "size": "430025491",
+                    "download": "23231200016"
+                }
+            },
+            "decryptionkey": "3664a677607af38544b84b7a9f0f4791f52570930f9c481a97972863f15d4544"
+        },
+        "294233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7795186303149892669",
+                    "size": "427108053",
+                    "download": "21739358394"
+                }
+            },
+            "decryptionkey": "17e2d89a6a075a923dc197f30997af00997328053495b6f454878ac87819e6f5"
+        },
+        "294234": {
+            "manifests": {
+                "public": {
+                    "gid": "671133709307546828",
+                    "size": "14547915",
+                    "download": "496072931"
+                }
+            },
+            "decryptionkey": "e60ce1dec23f9c92d3e231ecf3936194266b0d839057bdc34d52e930798b203e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "449175"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
