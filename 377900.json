@@ -1,0 +1,211 @@
+{
+    "appid": "377900",
+    "type": "Game",
+    "name": "Empire TV Tycoon",
+    "schinese_name": "帝国电视大亨",
+    "isfreeapp": "0",
+    "change_number": "27124792",
+    "update_time": "2025-01-23 13:21:27",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "377901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3550523422442774205",
+                    "size": "325685789",
+                    "download": "111700208"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "6140425122482822806",
+                    "size": "254721729",
+                    "download": "32921696"
+                },
+                "v110": {
+                    "gid": "8936521389783861838",
+                    "size": "238574585",
+                    "download": "31882160"
+                },
+                "v123": {
+                    "gid": "7698744429066978407",
+                    "size": "243827889",
+                    "download": "32126480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "377902": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1532994818116250687",
+                    "size": "330325909",
+                    "download": "113056080"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "6041550235155360970",
+                    "size": "259413049",
+                    "download": "34407584"
+                },
+                "v110": {
+                    "gid": "4479046074902195304",
+                    "size": "242700145",
+                    "download": "33116800"
+                },
+                "v123": {
+                    "gid": "439648931461768389",
+                    "size": "247953449",
+                    "download": "33362176"
+                }
+            },
+            "decryptionkey": "863ba5dffb1fb28b880119ae25e28a19d191b505b949b2b9f832a64f9e9e8839"
+        },
+        "377903": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2285978863065533757",
+                    "size": "368238954",
+                    "download": "123449696"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "5629781644953901851",
+                    "size": "297357377",
+                    "download": "43925312"
+                },
+                "v110": {
+                    "gid": "8034825163014480034",
+                    "size": "276114866",
+                    "download": "41731328"
+                },
+                "v123": {
+                    "gid": "298662871158038831",
+                    "size": "281368265",
+                    "download": "41977904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "412430": {
+            "manifests": {
+                "public": {
+                    "gid": "7500755613610656312",
+                    "size": "269875318",
+                    "download": "270934240"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "7500755613610656312",
+                    "size": "269875318",
+                    "download": "270934240"
+                },
+                "v110": {
+                    "gid": "7500755613610656312",
+                    "size": "269875318",
+                    "download": "270934240"
+                },
+                "v123": {
+                    "gid": "7500755613610656312",
+                    "size": "269875318",
+                    "download": "270934240"
+                }
+            },
+            "dlcappid": "412430",
+            "decryptionkey": ""
+        },
+        "377904": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1280340106328363971",
+                    "size": "332403361",
+                    "download": "113400400"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "7743506137399919135",
+                    "size": "264201395",
+                    "download": "35193392"
+                },
+                "v110": {
+                    "gid": "796599128897770367",
+                    "size": "247027325",
+                    "download": "33958112"
+                },
+                "v123": {
+                    "gid": "451031433389610286",
+                    "size": "252280629",
+                    "download": "34203584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "377905": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3256002508420526465",
+                    "size": "332349187",
+                    "download": "113460928"
+                },
+                "mod_testing_1.5.0": {
+                    "gid": "3812309955661270846",
+                    "size": "264142229",
+                    "download": "35261024"
+                },
+                "v110": {
+                    "gid": "7188846805997700789",
+                    "size": "247041187",
+                    "download": "34009296"
+                },
+                "v123": {
+                    "gid": "3154040533117655536",
+                    "size": "252294491",
+                    "download": "34254288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "377900",
+        "branches": {
+            "public": {
+                "buildid": "1565021",
+                "timeupdated": "1484309520"
+            },
+            "mod_testing_1.5.0": {
+                "buildid": "1136056",
+                "description": "v1.5.0 Testing with mod support",
+                "timeupdated": "1463676684"
+            },
+            "v110": {
+                "buildid": "873543",
+                "description": "VERSION 1.1.0"
+            },
+            "v123": {
+                "buildid": "923593",
+                "description": "VERSION 1.2.3",
+                "timeupdated": "1462361230"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2ad8918324f3b6d6f79e3776991287f5ff6dade3e87e6bea32abeae5e7597d5d"
+    }
+}
