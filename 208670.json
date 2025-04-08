@@ -1,0 +1,102 @@
+{
+    "appid": "208670",
+    "type": "Game",
+    "name": "Blades of Time",
+    "schinese_name": "时光之刃",
+    "isfreeapp": "0",
+    "change_number": "28328994",
+    "update_time": "2025-04-06 11:16:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,italian,russian,japanese",
+        "208985": {
+            "optional": "1",
+            "systemdefined": "1",
+            "dlcappid": "208985",
+            "manifests": {
+                "public": {
+                    "gid": "4598755788930314534",
+                    "size": "106673012",
+                    "download": "95811424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "208982": {
+            "optional": "1",
+            "systemdefined": "1",
+            "dlcappid": "208982",
+            "manifests": {
+                "public": {
+                    "gid": "5593206152109379089",
+                    "size": "226158498",
+                    "download": "202361296"
+                }
+            },
+            "decryptionkey": "8d4c38a7bd38db308a40aac557d82a0e154b86a7bb7980cb9d8710465b9a29ca"
+        },
+        "208981": {
+            "optional": "1",
+            "systemdefined": "1",
+            "dlcappid": "208981",
+            "manifests": {
+                "public": {
+                    "gid": "3265907217924519898",
+                    "size": "274959688",
+                    "download": "267125232"
+                }
+            },
+            "decryptionkey": "eeb272cbaf693bc430391f939afa17c97bc34b8d66b85f42ed151fe239f9f511"
+        },
+        "208671": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4773725639292920035",
+                    "size": "3145291253",
+                    "download": "2769479968"
+                }
+            },
+            "decryptionkey": "78bea053d56238ec09fb5a2bfa991e52b2300a1099a0bc0f15a3bca4e2b36988"
+        },
+        "208672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "249222441248615509",
+                    "size": "25503514",
+                    "download": "12833440"
+                }
+            },
+            "decryptionkey": "2344ee299632df68b096699804ec86276226837a6fd5ab2572382862e6008e94"
+        },
+        "208673": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1405206000529217498",
+                    "size": "29729544",
+                    "download": "10212240"
+                }
+            },
+            "decryptionkey": "24b1565038b5f877765ca891cfceeba446e417bed6d3799adfa13bf88dba0c82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1559505",
+                "timeupdated": "1484007087"
+            }
+        }
+    }
+}
