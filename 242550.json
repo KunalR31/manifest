@@ -1,0 +1,60 @@
+{
+    "appid": "242550",
+    "type": "Game",
+    "name": "Rayman Legends",
+    "schinese_name": "雷曼：传奇",
+    "isfreeapp": "0",
+    "change_number": "28299225",
+    "update_time": "2025-04-04 08:10:16",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "242551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8839431118021240556",
+                    "size": "5867774571",
+                    "download": "4838974640"
+                }
+            },
+            "decryptionkey": "686bb8789459e4e3030ad32b9375d784ae80215a36f25a6e2f7d9ca04a37adcd"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11244312",
+                "timeupdated": "1684308165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
