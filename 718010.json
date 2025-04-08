@@ -1,0 +1,74 @@
+{
+    "appid": "718010",
+    "type": "Game",
+    "name": "Robbie Swifthand and the Orb of Mysteries",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26685919",
+    "update_time": "2024-12-18 08:41:13",
+    "depot": {
+        "baselanguages": "english,french",
+        "hasdepotsindlc": "1",
+        "718011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "405784030270377687",
+                    "size": "2432615908",
+                    "download": "447188464"
+                },
+                "betatestbranch": {
+                    "gid": "405784030270377687",
+                    "size": "2432615908",
+                    "download": "447188464"
+                }
+            },
+            "decryptionkey": "dca072b2151a1f645010a9125d92a7714f6f59e6d7bfe02b9fa0daa0d33d241c"
+        },
+        "718012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4784044816137175695",
+                    "size": "2428562516",
+                    "download": "448527296"
+                },
+                "betatestbranch": {
+                    "gid": "4784044816137175695",
+                    "size": "2428562516",
+                    "download": "448527296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "984130": {
+            "dlcappid": "984130",
+            "manifests": {
+                "public": {
+                    "gid": "1631340288970669051",
+                    "size": "146160305",
+                    "download": "113148656"
+                }
+            },
+            "depotfromapp": "984130",
+            "decryptionkey": ""
+        },
+        "984131": {
+            "dlcappid": "984130"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3474935",
+                "timeupdated": "1548163046"
+            },
+            "betatestbranch": {
+                "buildid": "3474935",
+                "timeupdated": "1547661661"
+            }
+        }
+    }
+}
