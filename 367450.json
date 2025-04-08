@@ -1,0 +1,73 @@
+{
+    "appid": "367450",
+    "type": "Game",
+    "name": "Poly Bridge",
+    "schinese_name": "多边形造桥",
+    "isfreeapp": "0",
+    "change_number": "27114230",
+    "update_time": "2025-01-22 23:26:01",
+    "depot": {
+        "workshopdepot": "367450",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "367451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "299035176512902085",
+                    "size": "224682398",
+                    "download": "114604864"
+                }
+            },
+            "decryptionkey": "d665d606792ae4631a504bd59f59310fffb87490652e9b149616eda8ad5962ba"
+        },
+        "367452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5300884783176432417",
+                    "size": "232849566",
+                    "download": "116859680"
+                }
+            },
+            "decryptionkey": "1d911373e5f75e7fe50cf3e2708aab9380d1565dc3e7fc9bacb9339cc042dec6"
+        },
+        "367453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1283089157963056478",
+                    "size": "254062310",
+                    "download": "124010256"
+                }
+            },
+            "decryptionkey": "03f1099f465d40ba0296be94392f13b6a696331a12f878d8a4931efb7a88397d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11364509",
+                "timeupdated": "1685572787"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "db284e990493c81a8718c80e988cb165e376d959f646cc004219cdb4d7244075"
+    }
+}
