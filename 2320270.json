@@ -1,0 +1,121 @@
+{
+    "appid": "2320270",
+    "type": "Game",
+    "name": "IamTheExorcist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25967725",
+    "update_time": "2024-10-30 18:11:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2320271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4440639074702172345",
+                    "size": "2158030193",
+                    "download": "2018310512"
+                },
+                "no_use": {
+                    "gid": "5060481034200770654",
+                    "size": "2179404318",
+                    "download": "2039843312"
+                },
+                "r18_dlc": {
+                    "gid": "5124856915975908009",
+                    "size": "2179412510",
+                    "download": "2039882400"
+                },
+                "test": {
+                    "gid": "7606488397810425863",
+                    "size": "2158035570",
+                    "download": "2018334704"
+                }
+            },
+            "decryptionkey": "5d7d4d581af97640c2bfcccc54e825f51b11502ccb34d62daace32dea37f13d8"
+        },
+        "2324720": {
+            "dlcappid": "2324720",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5843820518845557845",
+                    "size": "14906771",
+                    "download": "13708160"
+                },
+                "r18_dlc": {
+                    "gid": "1481551247697751320",
+                    "size": "2483",
+                    "download": "1728"
+                },
+                "test": {
+                    "gid": "5843820518845557845",
+                    "size": "14906771",
+                    "download": "13708160"
+                }
+            },
+            "decryptionkey": "ab5ff41aa2959290c69697a536d07053713debb34bd03d22dd1e75dc2040fe25"
+        },
+        "2335440": {
+            "dlcappid": "2335440",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "4970340499756380031",
+                    "size": "2483",
+                    "download": "1728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10961776",
+                "timeupdated": "1680973861"
+            },
+            "no_use": {
+                "buildid": "10568332",
+                "description": "存在错误或者有问题",
+                "timeupdated": "1676636737"
+            },
+            "r18_dlc": {
+                "buildid": "10578308",
+                "description": "R18_DLC",
+                "timeupdated": "1676655675"
+            },
+            "test": {
+                "buildid": "10786553",
+                "description": "For Test",
+                "timeupdated": "1678982815"
+            }
+        }
+    }
+}
