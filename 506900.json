@@ -1,0 +1,70 @@
+{
+    "appid": "506900",
+    "type": "Game",
+    "name": "Downward: Enhanced Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25664097",
+    "update_time": "2024-10-11 23:53:30",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese,brazilian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "506902": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1059528674563456272",
+                    "size": "4733898520",
+                    "download": "4550968320"
+                },
+                "downwardv1": {
+                    "gid": "7447155666331393729",
+                    "size": "11106683058",
+                    "download": "5601926448"
+                }
+            },
+            "decryptionkey": "81c1255ccad9d60164af7a83952ec1cb351c5ec9ad5dfa97d4e274df5f1b7703"
+        },
+        "506909": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "15003366",
+                "timeupdated": "1720714343"
+            },
+            "downwardv1": {
+                "buildid": "2137550",
+                "description": "Downward 1.0",
+                "timeupdated": "1717511228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
