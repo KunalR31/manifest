@@ -1,0 +1,88 @@
+{
+    "appid": "375480",
+    "type": "Game",
+    "name": "Chronicon",
+    "schinese_name": "Chronicon - 英雄旧忆",
+    "isfreeapp": "0",
+    "change_number": "27980592",
+    "update_time": "2025-03-16 20:20:34",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "375481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1635364617509322101",
+                    "size": "496262911",
+                    "download": "391250256"
+                },
+                "32-bit": {
+                    "gid": "3308143654165711631",
+                    "size": "368518362",
+                    "download": "228883520"
+                },
+                "win_7": {
+                    "gid": "1635364617509322101",
+                    "size": "496262911",
+                    "download": "391250256"
+                }
+            },
+            "decryptionkey": "9b3ec65b4136ebdb9d7fcd81ac8f1df6bf938c65e42d704b0971d9ec93baf58a"
+        },
+        "375482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2869038777701886256",
+                    "size": "509166092",
+                    "download": "393580000"
+                },
+                "32-bit": {
+                    "gid": "2098586635065526406",
+                    "size": "341553226",
+                    "download": "239631680"
+                },
+                "win_7": {
+                    "gid": "2869038777701886256",
+                    "size": "509166092",
+                    "download": "393580000"
+                }
+            },
+            "decryptionkey": "6836e7d940b17e4d85ad32b6cb7ca44feaa969843e7565c6f6fc409a7422b352"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10675386",
+                "timeupdated": "1677771684"
+            },
+            "32-bit": {
+                "buildid": "5949242",
+                "description": "32-bit version of Chronicon (OLD AND NOT MAINTAINED - NOT COMPATIBLE WITH DLC's)",
+                "timeupdated": "1607603474"
+            },
+            "win_7": {
+                "buildid": "10675386",
+                "description": "Supports windows 7, but won't receive updates past 1.52.0",
+                "timeupdated": "1737976288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
