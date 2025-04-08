@@ -1,0 +1,54 @@
+{
+    "appid": "258010",
+    "type": "Game",
+    "name": "Ring Runner: Flight of the Sages",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27131085",
+    "update_time": "2025-01-23 21:26:40",
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "258011": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7307581246343701496",
+                    "size": "237000163",
+                    "download": "212188688"
+                },
+                "beta": {
+                    "gid": "7307581246343701496",
+                    "size": "237000163",
+                    "download": "212188688"
+                }
+            },
+            "decryptionkey": "63012fac83ebd1ea98f00fa1d3f7d29d2512b9cc28b3cdd6ada833bdf9f85b08"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1649686",
+                "timeupdated": "1487808136"
+            },
+            "beta": {
+                "buildid": "1649686",
+                "description": "Used for testing patches.",
+                "timeupdated": "1487799462"
+            }
+        }
+    }
+}
