@@ -1,0 +1,71 @@
+{
+    "appid": "628950",
+    "type": "Game",
+    "name": "Nephise Begins",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28334115",
+    "update_time": "2025-04-07 01:16:24",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "628951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8299173465799961883",
+                    "size": "2811637445",
+                    "download": "1521304640"
+                },
+                "beforebigupdate": {
+                    "gid": "606431797493395488",
+                    "size": "2666256127",
+                    "download": "1486246096"
+                },
+                "test": {
+                    "gid": "8299173465799961883",
+                    "size": "2811637445",
+                    "download": "1521304640"
+                }
+            },
+            "decryptionkey": "4c618715277dbab61302761ed03ad624f808909b4fe1fdd25bcabcd932b06fa1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8452029",
+                "timeupdated": "1648481243"
+            },
+            "beforebigupdate": {
+                "buildid": "2033358",
+                "timeupdated": "1579572942"
+            },
+            "test": {
+                "buildid": "8452029",
+                "timeupdated": "1648480800"
+            }
+        }
+    }
+}
