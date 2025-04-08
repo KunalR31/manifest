@@ -1,0 +1,67 @@
+{
+    "appid": "329440",
+    "type": "Game",
+    "name": "Sonic Lost World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27266935",
+    "update_time": "2025-02-01 17:11:30",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "329441": {
+            "manifests": {
+                "public": {
+                    "gid": "5972775468082862829",
+                    "size": "7762216648",
+                    "download": "6845038944"
+                },
+                "publictest": {
+                    "gid": "5972775468082862829",
+                    "size": "7762216648",
+                    "download": "6845038944"
+                }
+            },
+            "decryptionkey": "f04a41b8c03dadf5c23fe09d6eb014cb62f632aadd68c1a7a3b3b2afb34c3d9c"
+        },
+        "377210": {
+            "manifests": {
+                "public": {
+                    "gid": "9090002622373619273",
+                    "size": "135820612",
+                    "download": "123914144"
+                },
+                "publictest": {
+                    "gid": "9090002622373619273",
+                    "size": "135820612",
+                    "download": "123914144"
+                }
+            },
+            "dlcappid": "377210",
+            "decryptionkey": "74a425b244d1f5f37e0ed874d89d2e5d708a588709c2c3d5036cd46ad77ad109"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "branches": {
+            "public": {
+                "buildid": "908130"
+            },
+            "publictest": {
+                "buildid": "908130",
+                "description": "Public Testing"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
