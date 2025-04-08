@@ -1,0 +1,72 @@
+{
+    "appid": "214550",
+    "type": "Game",
+    "name": "Eets Munchies",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27135052",
+    "update_time": "2025-01-24 01:26:24",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "214551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "884645662378184964",
+                    "size": "721160334",
+                    "download": "75775184"
+                },
+                "local": {
+                    "gid": "6113431098583878516",
+                    "size": "436102321",
+                    "download": "0"
+                },
+                "prev_default": {
+                    "gid": "3133374293082801082",
+                    "size": "722251918",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fb153fd7454dc79c8a510c0817d1f3b54f7600136821199f3fb09db98d9f66a1"
+        },
+        "214553": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7747983839827961501",
+                    "size": "749563747",
+                    "download": "84879152"
+                },
+                "prev_default": {
+                    "gid": "6700537820858059265",
+                    "size": "749563747",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fb5316f9c9626ffb94e79b2944a2a2a7d1e1f5be93f8ded078938f85f415239f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2741193",
+                "timeupdated": "1525371261"
+            },
+            "local": {
+                "buildid": "102102",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "prev_default": {
+                "buildid": "208390",
+                "timeupdated": "1525371244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
