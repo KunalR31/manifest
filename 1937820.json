@@ -1,0 +1,59 @@
+{
+    "appid": "1937820",
+    "type": "Game",
+    "name": "Tavernacle!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26358540",
+    "update_time": "2024-12-05 03:47:01",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,brazilian,latam",
+        "1937821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1937822": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1297793435078911019",
+                    "size": "9386069139",
+                    "download": "3000109168"
+                },
+                "localization": {
+                    "gid": "4956221498151706439",
+                    "size": "8850299635",
+                    "download": "2817687680"
+                },
+                "development": {
+                    "gid": "1297793435078911019",
+                    "size": "9386069139",
+                    "download": "3000109168"
+                }
+            },
+            "decryptionkey": "2490b20d997cb282b1c52a648f6fb317cce2dfe9977de7ed4277067a81c0d288"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15589913",
+                "timeupdated": "1725451604"
+            },
+            "localization": {
+                "buildid": "12139669",
+                "description": "Used to QA localization",
+                "timeupdated": "1694159937"
+            },
+            "development": {
+                "buildid": "15589913",
+                "description": "Used for dev after launch",
+                "timeupdated": "1725451540"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
