@@ -1,0 +1,167 @@
+{
+    "appid": "94200",
+    "type": "Game",
+    "name": "Jamestown",
+    "schinese_name": "詹姆斯敦",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-31 01:13:25",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "94202": {
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1389048845544573429",
+                    "size": "1128569",
+                    "download": "918928"
+                },
+                "beta": {
+                    "gid": "1389048845544573429",
+                    "size": "1128569",
+                    "download": "918928"
+                },
+                "legacy": {
+                    "gid": "889635172469329145",
+                    "size": "1128569",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "94202",
+            "decryptionkey": ""
+        },
+        "94205": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8301256287820981831",
+                    "size": "1128569",
+                    "download": "918928"
+                },
+                "beta": {
+                    "gid": "8301256287820981831",
+                    "size": "1128569",
+                    "download": "918928"
+                },
+                "legacy": {
+                    "gid": "8714763964820166067",
+                    "size": "1128569",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "94205",
+            "decryptionkey": ""
+        },
+        "94204": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4018656020712890496",
+                    "size": "126136030",
+                    "download": "94998672"
+                },
+                "beta": {
+                    "gid": "4018656020712890496",
+                    "size": "126136030",
+                    "download": "94998672"
+                },
+                "legacy": {
+                    "gid": "7940835929634663414",
+                    "size": "114021189",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "94203": {
+            "optional": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1795031119767123887",
+                    "size": "108165547",
+                    "download": "99034592"
+                },
+                "beta": {
+                    "gid": "1795031119767123887",
+                    "size": "108165547",
+                    "download": "99034592"
+                },
+                "legacy": {
+                    "gid": "1080266358847831937",
+                    "size": "108165547",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "94203",
+            "decryptionkey": ""
+        },
+        "94201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4783094477790864971",
+                    "size": "107003782",
+                    "download": "91166000"
+                },
+                "beta": {
+                    "gid": "4783094477790864971",
+                    "size": "107003782",
+                    "download": "91166000"
+                },
+                "legacy": {
+                    "gid": "4813582658618537035",
+                    "size": "106611251",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a4591b9f36a901802d9c8dbe0b7a1aa356d7e67158974bb259d90e0f1b259864"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "4264501",
+                "timeupdated": "1570465080"
+            },
+            "beta": {
+                "buildid": "4264501",
+                "description": "Jamestown 1.0.3 Beta",
+                "timeupdated": "1570465026"
+            },
+            "legacy": {
+                "buildid": "35615",
+                "description": "Legacy Build (1.0.2)"
+            }
+        }
+    }
+}
