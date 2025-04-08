@@ -1,0 +1,83 @@
+{
+    "appid": "773790",
+    "type": "Game",
+    "name": "Ostriv",
+    "schinese_name": "岛/остров",
+    "isfreeapp": "0",
+    "change_number": "28235087",
+    "update_time": "2025-04-01 03:49:05",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "773792": {
+            "config": {
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5252967787897912239",
+                    "size": "668095864",
+                    "download": "521364176"
+                },
+                "previous_version": {
+                    "gid": "3441290653789828099",
+                    "size": "536097808",
+                    "download": "443053328"
+                },
+                "before_block_check": {
+                    "gid": "1295083722674683039",
+                    "size": "649240497",
+                    "download": "514885472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "773791": {
+            "config": {
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8647328357243933485",
+                    "size": "670717816",
+                    "download": "521747472"
+                },
+                "previous_version": {
+                    "gid": "3373814494751560164",
+                    "size": "538430480",
+                    "download": "443408544"
+                },
+                "before_block_check": {
+                    "gid": "2732998592600980611",
+                    "size": "651801521",
+                    "download": "515254816"
+                }
+            },
+            "decryptionkey": "2242383a779d80c162f0433017a5bd4cf1126742e28c7ad87fa2f34b9388db57"
+        },
+        "baselanguages": "english,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "17929585",
+                "timeupdated": "1743450537"
+            },
+            "previous_version": {
+                "buildid": "8151348",
+                "description": "Fallback to Alpha 4",
+                "timeupdated": "1679756373"
+            },
+            "before_block_check": {
+                "buildid": "16847567",
+                "description": "The last version which allows blocking buildings (0.5.9.10)",
+                "timeupdated": "1738951641"
+            }
+        }
+    }
+}
