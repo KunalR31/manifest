@@ -1,0 +1,79 @@
+{
+    "appid": "29160",
+    "type": "Game",
+    "name": "Blueberry Garden",
+    "schinese_name": "蓝莓花园",
+    "isfreeapp": "0",
+    "change_number": "27986741",
+    "update_time": "2025-03-17 10:55:28",
+    "depot": {
+        "overridescddb": "1",
+        "29161": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7722392261850589317",
+                    "size": "96126189",
+                    "download": "0"
+                },
+                "linux32": {
+                    "gid": "7722392261850589317",
+                    "size": "96126189",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b5ced5d29e8ec1d6c45d9a3aac27625dce9f3ef433d10ef7b8539d71272a3a6e"
+        },
+        "29162": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1282994646699691350",
+                    "size": "85269694",
+                    "download": "17816288"
+                },
+                "linux32": {
+                    "gid": "3180662261230471532",
+                    "size": "97482768",
+                    "download": "24372400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "29163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1897866451486879991",
+                    "size": "97916880",
+                    "download": "20624016"
+                },
+                "linux32": {
+                    "gid": "5891833321826827408",
+                    "size": "80757125",
+                    "download": "17565248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "7350850",
+                "timeupdated": "1631549812"
+            },
+            "linux32": {
+                "buildid": "791174",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609453761"
+            }
+        }
+    }
+}
