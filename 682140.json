@@ -1,0 +1,52 @@
+{
+    "appid": "682140",
+    "type": "Game",
+    "name": "Undead Development",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23225870",
+    "update_time": "2024-05-26 22:58:14",
+    "depot": {
+        "682141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1074165406325557870",
+                    "size": "1769701223",
+                    "download": "521399616"
+                },
+                "beta": {
+                    "gid": "1074165406325557870",
+                    "size": "1769701223",
+                    "download": "521399616"
+                },
+                "previous_patch": {
+                    "gid": "7212704296875077283",
+                    "size": "1558407104",
+                    "download": "508432928"
+                }
+            },
+            "decryptionkey": "1831399a53a2d9b92a7146e50a7a5fd00db4ac5e8c39c9d6740a7ca58a2be11a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5839587",
+                "timeupdated": "1605575098"
+            },
+            "beta": {
+                "buildid": "5839587",
+                "description": "Public beta branch",
+                "timeupdated": "1605576594"
+            },
+            "previous_patch": {
+                "buildid": "5305138",
+                "description": "An older game version for testing issues brought into the live game.",
+                "timeupdated": "1605570735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
