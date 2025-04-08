@@ -1,0 +1,105 @@
+{
+    "appid": "685240",
+    "type": "Game",
+    "name": "Paradiddle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27298856",
+    "update_time": "2025-02-04 08:35:55",
+    "depot": {
+        "workshopdepot": "685240",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "685241": {
+            "manifests": {
+                "public": {
+                    "gid": "4962776244698206290",
+                    "size": "3124391851",
+                    "download": "2866168592"
+                },
+                "pre-v1": {
+                    "gid": "1199194038194020389",
+                    "size": "1538281729",
+                    "download": "1401937088"
+                },
+                "prev_version": {
+                    "gid": "3220905495098627522",
+                    "size": "2066575316",
+                    "download": "1806720656"
+                }
+            },
+            "decryptionkey": "c3a99ace87b059d65d360ffde064901d2b11fc1bb33958799fc9e64dee494f3a"
+        },
+        "2854960": {
+            "dlcappid": "2854960",
+            "manifests": {
+                "public": {
+                    "gid": "662983641413958302",
+                    "size": "0",
+                    "download": "0"
+                },
+                "prev_version": {
+                    "gid": "205865514031993597",
+                    "size": "312389913",
+                    "download": "309550656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3134110": {
+            "dlcappid": "3134110",
+            "manifests": {
+                "public": {
+                    "gid": "1012779713640605797",
+                    "size": "468143029",
+                    "download": "469653536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3373930": {
+            "dlcappid": "3373930",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7363221081391346627",
+                    "size": "503175367",
+                    "download": "503562576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17231324",
+                "timeupdated": "1738629351"
+            },
+            "pre-v1": {
+                "buildid": "8594234",
+                "description": "Reverts the app back to the 2 year old version before V1. For testing purposes.",
+                "timeupdated": "1668137727"
+            },
+            "prev_version": {
+                "buildid": "14420399",
+                "description": "Roll back to the previous version.",
+                "timeupdated": "1723505520"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
