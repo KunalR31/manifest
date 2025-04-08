@@ -1,0 +1,69 @@
+{
+    "appid": "568930",
+    "type": "Game",
+    "name": "The Land of Pain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28216875",
+    "update_time": "2025-03-31 01:50:48",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "568931": {
+            "manifests": {
+                "public": {
+                    "gid": "1622785162281096861",
+                    "size": "4752670931",
+                    "download": "4627411392"
+                },
+                "2021-version": {
+                    "gid": "2367032483094807814",
+                    "size": "4567619034",
+                    "download": "4440893856"
+                }
+            },
+            "decryptionkey": "35b29763e257a5b1a6c4c6252c5dabdd87681106de0326819af16c02d95d555f"
+        },
+        "1829290": {
+            "dlcappid": "1829290",
+            "manifests": {
+                "public": {
+                    "gid": "5191840606402389064",
+                    "size": "64015902",
+                    "download": "63837296"
+                },
+                "2021-version": {
+                    "gid": "5191840606402389064",
+                    "size": "64015902",
+                    "download": "63837296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10956773",
+                "timeupdated": "1680892706"
+            },
+            "2021-version": {
+                "buildid": "7837538",
+                "description": "Working with savegames before the 2022 patch",
+                "timeupdated": "1662454695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
