@@ -1,0 +1,66 @@
+{
+    "appid": "3400850",
+    "type": "Demo",
+    "name": "Calyx Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28234299",
+    "update_time": "2025-04-01 02:52:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3400851": {
+            "manifests": {
+                "public": {
+                    "gid": "3462191982174944743",
+                    "size": "2377678576",
+                    "download": "2143909456"
+                },
+                "prereleasedemo": {
+                    "gid": "1141913769635602814",
+                    "size": "2142302310",
+                    "download": "1817780768"
+                }
+            }
+        },
+        "3211851": {
+            "manifests": {
+                "public": {
+                    "gid": "3031844574199006511",
+                    "size": "2377678576",
+                    "download": "2144850272"
+                },
+                "prereleasedemo": {
+                    "gid": "4684428574958240889",
+                    "size": "2788792248",
+                    "download": "1959612096"
+                }
+            },
+            "depotfromapp": "3211850"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17107410",
+                "timeupdated": "1737648502"
+            },
+            "prereleasedemo": {
+                "buildid": "16707352",
+                "description": "Earlier version of the demo",
+                "timeupdated": "1737026741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
