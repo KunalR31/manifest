@@ -1,0 +1,71 @@
+{
+    "appid": "400020",
+    "type": "Game",
+    "name": "Atari Vault",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22586266",
+    "update_time": "2024-05-24 07:26:03",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "400021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8079828485203492444",
+                    "size": "1002703839",
+                    "download": "314993632"
+                }
+            },
+            "decryptionkey": "82bc69ca0a46027c1f9015453f536c6402ffbd4b79c01ae184ed47d531879907"
+        },
+        "400022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9122417298853219670",
+                    "size": "1041194036",
+                    "download": "326713824"
+                }
+            },
+            "decryptionkey": "fd586122a6cdf463ec7031a0cb61591679211b76741a0e8bc160eb4018e87c76"
+        },
+        "400023": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8876450452426655957",
+                    "size": "1046092044",
+                    "download": "326963408"
+                }
+            },
+            "decryptionkey": "932bbdc7e8a330040a19ff131c397d8aec07be0cf142cf1c0cf872362ce60297"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4553289",
+                "timeupdated": "1578539826"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
