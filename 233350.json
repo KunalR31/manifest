@@ -1,0 +1,63 @@
+{
+    "appid": "233350",
+    "type": "Game",
+    "name": "Sudeki",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 05:28:31",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233351": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3897312411523250771",
+                    "size": "5875940845",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3897312411523250771",
+                    "size": "5875940845",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "572878110220726089",
+                    "size": "5875787816",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "74a9a4be91b255f637653cff4e712834a35bf1a3086b6b89b05f5f88c47220a4"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "215104"
+            },
+            "beta": {
+                "buildid": "215104",
+                "description": "Beta branch"
+            },
+            "local": {
+                "buildid": "91328",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
