@@ -1,0 +1,76 @@
+{
+    "appid": "63000",
+    "type": "Game",
+    "name": "HOARD",
+    "schinese_name": "宝库",
+    "isfreeapp": "0",
+    "change_number": "28287280",
+    "update_time": "2025-04-03 19:17:39",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french,german,spanish,italian",
+        "63002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6390640202799866373",
+                    "size": "590923785",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "054399cf151ab30fb791b73316e0ac2ecb2d2b2ae3ad285ab8799447f1e9bd54"
+        },
+        "63001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4982884460640924287",
+                    "size": "278499985",
+                    "download": "112460144"
+                }
+            },
+            "decryptionkey": "a5a5d3cb6feb3f6d5ec548deb238b672bf7ccf49dc94bcb5088f44a57b5c7450"
+        },
+        "63006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6827921613511116226",
+                    "size": "265074165",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "aa76992d3aae68243e0bc0a27cf9082b6ace1204136725458655499e90629652"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "4597280",
+                "timeupdated": "1579718911"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
