@@ -1,0 +1,118 @@
+{
+    "appid": "679230",
+    "type": "Game",
+    "name": "Tell a Demon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28270937",
+    "update_time": "2025-04-02 23:11:07",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,russian",
+        "679232": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8287881118342436697",
+                    "size": "263446567",
+                    "download": "173940816"
+                },
+                "betearussian": {
+                    "gid": "856603218963277543",
+                    "size": "252819671",
+                    "download": "170402352"
+                },
+                "engine_update": {
+                    "gid": "8287881118342436697",
+                    "size": "263446567",
+                    "download": "173940816"
+                },
+                "version1.3": {
+                    "gid": "856603218963277543",
+                    "size": "252819671",
+                    "download": "170402352"
+                }
+            },
+            "decryptionkey": "3d2422d04e76cf0a57e0cd5a149e7c482c4f52141caf0db01461c0595b9e8e83"
+        },
+        "679231": {
+            "config": {
+                "language": "russian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5916316103773228678",
+                    "size": "267630830",
+                    "download": "178090784"
+                },
+                "betearussian": {
+                    "gid": "7242214341579515198",
+                    "size": "257064580",
+                    "download": "174299552"
+                },
+                "engine_update": {
+                    "gid": "5916316103773228678",
+                    "size": "267630830",
+                    "download": "178090784"
+                },
+                "version1.3": {
+                    "gid": "7242214341579515198",
+                    "size": "257064580",
+                    "download": "174299552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "679233": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7274945564545134150",
+                    "size": "307058323",
+                    "download": "185606128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "679234": {
+            "config": {
+                "osarch": "32",
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5007626199666883283",
+                    "size": "310993839",
+                    "download": "189407680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10334801",
+                "timeupdated": "1673903805"
+            },
+            "betearussian": {
+                "buildid": "5434180",
+                "description": "Beta - Russian Language",
+                "timeupdated": "1597875281"
+            },
+            "engine_update": {
+                "buildid": "10327694",
+                "description": "Game updated to latest version of Ren'py",
+                "timeupdated": "1673819956"
+            },
+            "version1.3": {
+                "buildid": "5434180",
+                "description": "Version 1.3, before updating the game to newest version of engine. Use if new version broke your game",
+                "timeupdated": "1673820413"
+            }
+        }
+    }
+}
