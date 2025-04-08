@@ -1,0 +1,79 @@
+{
+    "appid": "2873620",
+    "type": "Game",
+    "name": "Rasvyat Nuclear Power Station",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28206610",
+    "update_time": "2025-03-29 22:17:24",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2873621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "928738175371340513",
+                    "size": "575017044",
+                    "download": "462998256"
+                },
+                "1.0.0": {
+                    "gid": "879694864040468934",
+                    "size": "545208122",
+                    "download": "443410352"
+                }
+            },
+            "decryptionkey": "bd6a67cab6df920ae8bf671f2a42a4b527619d514428072241ec8a94006418c0"
+        },
+        "2873622": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6368222990296709848",
+                    "size": "476897115",
+                    "download": "353345328"
+                },
+                "1.0.0": {
+                    "gid": "6368222990296709848",
+                    "size": "476897115",
+                    "download": "353345328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17494511",
+                "timeupdated": "1740458699"
+            },
+            "1.0.0": {
+                "buildid": "17508251",
+                "description": "RNPS legacy build",
+                "timeupdated": "1740535034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
