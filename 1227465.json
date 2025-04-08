@@ -1,0 +1,85 @@
+{
+    "appid": "1227465",
+    "type": "DLC",
+    "name": "RetroArch - XRick",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731452",
+    "update_time": "2025-03-01 17:11:59",
+    "depot": {
+        "1227465": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "1227465"
+            },
+            "dlcappid": "1227465",
+            "manifests": {
+                "public": {
+                    "gid": "247568446794095154",
+                    "size": "415611",
+                    "download": "128400"
+                },
+                "nightly": {
+                    "gid": "512241447444136634",
+                    "size": "415611",
+                    "download": "128448"
+                }
+            },
+            "decryptionkey": "6e9cbde9e7ca4b1ed2e5ac73f937f461556ba4f15a36bf790cb8668faf066d8a"
+        },
+        "1789900": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227465"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5910108219706997299",
+                    "size": "365627",
+                    "download": "101120"
+                },
+                "nightly": {
+                    "gid": "6599059812985096669",
+                    "size": "365627",
+                    "download": "101136"
+                }
+            },
+            "dlcappid": "1227465",
+            "decryptionkey": ""
+        },
+        "1789901": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227465"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904611040119195314",
+                    "size": "856771",
+                    "download": "167104"
+                },
+                "nightly": {
+                    "gid": "1540046088409634594",
+                    "size": "856771",
+                    "download": "167040"
+                }
+            },
+            "dlcappid": "1227465",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911363",
+                "timeupdated": "1736093741"
+            },
+            "nightly": {
+                "buildid": "17557839",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820314"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
