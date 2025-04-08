@@ -1,0 +1,47 @@
+{
+    "appid": "2501720",
+    "type": "DLC",
+    "name": "Metal Gear Solid 2: Digital Graphic Novel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-07-16 02:46:39",
+    "depot": {
+        "2501720": {
+            "dlcappid": "2501720",
+            "manifests": {
+                "public": {
+                    "gid": "5322430849616985020",
+                    "size": "11816006982",
+                    "download": "11967969120"
+                }
+            },
+            "config": {
+                "optionaldlc": "2501720"
+            },
+            "decryptionkey": "04337430b131108074fd0f1c4e3479cf43c48f450e9260477e95f3ff5cf850d9"
+        },
+        "2501721": {
+            "config": {
+                "steamdeck": "1",
+                "optionaldlc": "2501720"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6154109978025432107",
+                    "size": "7513195618",
+                    "download": "7606410016"
+                }
+            },
+            "dlcappid": "2501720",
+            "decryptionkey": "2d40171666df2397cd92d85cc1757d65a4da5b6843ce8376aaeafc0c022ef7e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13018339",
+                "timeupdated": "1703148551"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
