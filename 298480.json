@@ -1,0 +1,89 @@
+{
+    "appid": "298480",
+    "type": "Game",
+    "name": "Victory At Sea",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26805974",
+    "update_time": "2024-12-29 02:38:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "298481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4636512304203634593",
+                    "size": "1230633299",
+                    "download": "410478016"
+                },
+                "linuxtest": {
+                    "gid": "1740346123860535321",
+                    "size": "1228710575",
+                    "download": "428126384"
+                }
+            },
+            "decryptionkey": "773d39f214e010c24e809891d9dcb85a125ec906cbee382a23a6bf9b7daba6df"
+        },
+        "298482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2577044910694442733",
+                    "size": "1227738920",
+                    "download": "411883792"
+                },
+                "linuxtest": {
+                    "gid": "3353679622315656597",
+                    "size": "1223041585",
+                    "download": "428375584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "298483": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2629338311030021075",
+                    "size": "1226822944",
+                    "download": "412325168"
+                },
+                "linuxtest": {
+                    "gid": "4622423140376213218",
+                    "size": "1215338870",
+                    "download": "423715024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "834641"
+            },
+            "linuxtest": {
+                "buildid": "677947",
+                "description": "Linux Testing"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
