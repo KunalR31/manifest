@@ -1,0 +1,157 @@
+{
+    "appid": "606880",
+    "type": "Game",
+    "name": "GreedFall",
+    "schinese_name": "贪婪之秋",
+    "isfreeapp": "0",
+    "change_number": "28296156",
+    "update_time": "2025-04-04 04:10:12",
+    "depot": {
+        "baselanguages": "",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "606881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8874425372087683575",
+                    "size": "21441487807",
+                    "download": "20635754224"
+                },
+                "previous": {
+                    "gid": "866796616741620884",
+                    "size": "21349293614",
+                    "download": "20590113824"
+                },
+                "windows7": {
+                    "gid": "2248371936570190774",
+                    "size": "21441582183",
+                    "download": "20635748848"
+                }
+            },
+            "decryptionkey": "51893736990321529ecd03e59acee9a60ed5c2a53e107949debe45cef32a5a53"
+        },
+        "606882": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606883": {
+            "config": {
+                "language": "german",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606884": {
+            "config": {
+                "language": "french",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606885": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606886": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606887": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606888": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "606889": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1034721": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1468480": {
+            "dlcappid": "1468480",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2988375875355498171",
+                    "size": "1157960197",
+                    "download": "1137030464"
+                },
+                "previous": {
+                    "gid": "604351137879374628",
+                    "size": "1158144703",
+                    "download": "1137162480"
+                },
+                "windows7": {
+                    "gid": "604351137879374628",
+                    "size": "1158144703",
+                    "download": "1137162480"
+                }
+            },
+            "decryptionkey": "677f8e886652aeac6daa7c047778d8a7354419630229b74ae7f656c68251b8ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7035462",
+                "timeupdated": "1627562076"
+            },
+            "previous": {
+                "buildid": "6963224",
+                "description": "Previous version",
+                "timeupdated": "1625134685"
+            },
+            "windows7": {
+                "buildid": "6970717",
+                "description": "Fix for Windows 7 users",
+                "timeupdated": "1625234353"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
