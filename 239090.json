@@ -1,0 +1,66 @@
+{
+    "appid": "239090",
+    "type": "Game",
+    "name": "Samurai GUNN",
+    "schinese_name": "侍铳",
+    "isfreeapp": "0",
+    "change_number": "26427696",
+    "update_time": "2024-12-05 08:03:41",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "239091": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4858169741758266076",
+                    "size": "281748409",
+                    "download": "182161936"
+                },
+                "beta": {
+                    "gid": "4858169741758266076",
+                    "size": "281748409",
+                    "download": "182161936"
+                }
+            },
+            "decryptionkey": "087d9f240a2b41e592d0a2055e825b7fe352a863f53d8853f21346098a21f0f9"
+        },
+        "239092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1877147853954586848",
+                    "size": "282612445",
+                    "download": "181674800"
+                },
+                "beta": {
+                    "gid": "1877147853954586848",
+                    "size": "282612445",
+                    "download": "181674800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "870919"
+            },
+            "beta": {
+                "buildid": "870919",
+                "description": "Beta Branch"
+            }
+        }
+    }
+}
