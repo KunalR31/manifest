@@ -1,0 +1,52 @@
+{
+    "appid": "773370",
+    "type": "Game",
+    "name": "Exo One",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27005282",
+    "update_time": "2025-01-15 18:14:30",
+    "depot": {
+        "773371": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4745385040167551549",
+                    "size": "3254901714",
+                    "download": "1516761248"
+                },
+                "test": {
+                    "gid": "1633475314057779571",
+                    "size": "3254888542",
+                    "download": "1516759856"
+                },
+                "steamdeck": {
+                    "gid": "4745385040167551549",
+                    "size": "3254901714",
+                    "download": "1516761248"
+                }
+            },
+            "decryptionkey": "90152f0b2bbf4ae0dd7ce4eb27e421a46fbcee16b45461453a6b5ed838f8ee7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16676923",
+                "timeupdated": "1734135995"
+            },
+            "test": {
+                "buildid": "13853185",
+                "description": "Not guaranteed stable, for testing prior to making patches public",
+                "timeupdated": "1711586252"
+            },
+            "steamdeck": {
+                "buildid": "16676923",
+                "description": "steamdeck",
+                "timeupdated": "1733724694"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
