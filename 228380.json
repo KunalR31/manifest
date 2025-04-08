@@ -1,0 +1,104 @@
+{
+    "appid": "228380",
+    "type": "Game",
+    "name": "Wreckfest",
+    "schinese_name": "撞车嘉年华",
+    "isfreeapp": "0",
+    "change_number": "28225615",
+    "update_time": "2025-03-31 17:51:04",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "228380",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,finnish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228381": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3017425792384820539",
+                    "size": "34162267810",
+                    "download": "28775827184"
+                },
+                "community_preconsole": {
+                    "gid": "8923598062264066568",
+                    "size": "14359542597",
+                    "download": "11775952400"
+                },
+                "community_preencrypt": {
+                    "gid": "2436019204131962596",
+                    "size": "31765006539",
+                    "download": "28082528880"
+                },
+                "community_prehealthbars": {
+                    "gid": "948871620417719312",
+                    "size": "7215351167",
+                    "download": "5697818480"
+                }
+            },
+            "decryptionkey": "0271ea41a7c1be1719138e5a1f9b0693cb88c1e55c6422b47179d559b95c9440"
+        },
+        "272880": {
+            "dlcappid": "272880",
+            "manifests": {
+                "public": {
+                    "gid": "8165984606867483938",
+                    "size": "243865577",
+                    "download": "216389264"
+                },
+                "community_preconsole": {
+                    "gid": "8165984606867483938",
+                    "size": "243865577",
+                    "download": "216389264"
+                },
+                "community_preencrypt": {
+                    "gid": "8165984606867483938",
+                    "size": "243865577",
+                    "download": "216389264"
+                },
+                "community_prehealthbars": {
+                    "gid": "8165984606867483938",
+                    "size": "243865577",
+                    "download": "216389264"
+                }
+            },
+            "decryptionkey": "744ba266e5b45c9877051c47ee9d2fb3e9f50559bce63d86ff7ee7fcb6cdd196"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16986367",
+                "timeupdated": "1738527866"
+            },
+            "community_preconsole": {
+                "buildid": "3487034",
+                "description": "community_preconsole",
+                "timeupdated": "1632913060"
+            },
+            "community_preencrypt": {
+                "buildid": "6864837",
+                "description": "community_preencrypt",
+                "timeupdated": "1632914470"
+            },
+            "community_prehealthbars": {
+                "buildid": "7444993",
+                "description": "community_prehealthbars",
+                "timeupdated": "1632914504"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
