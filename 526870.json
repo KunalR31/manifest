@@ -1,0 +1,68 @@
+{
+    "appid": "526870",
+    "type": "Game",
+    "name": "Satisfactory",
+    "schinese_name": "幸福工厂",
+    "isfreeapp": "0",
+    "change_number": "28342448",
+    "update_time": "2025-04-07 17:13:40",
+    "depot": {
+        "workshopdepot": "526870",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "526871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3007809920758804289",
+                    "size": "27241375972",
+                    "download": "12401173984"
+                },
+                "experimental": {
+                    "gid": "5438018340033875677",
+                    "size": "27202023476",
+                    "download": "12244321776"
+                }
+            },
+            "decryptionkey": "ae0ab673da3c9d0f444b1cd61fe8f2235d43e6c0401684a78f4fbdfc8f0d9bc1"
+        },
+        "526872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3030040503447356851",
+                    "size": "14980465068",
+                    "download": "9806602096"
+                },
+                "experimental": {
+                    "gid": "7838475065113871376",
+                    "size": "13744557945",
+                    "download": "9467223856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16775602",
+                "timeupdated": "1734694774"
+            },
+            "experimental": {
+                "buildid": "17972982",
+                "timeupdated": "1743757811"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f8d1243ead37652491a8d284a79ee2b814ad878208ec9276f3d5d8b1528a11e7"
+    }
+}
