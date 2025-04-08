@@ -1,0 +1,118 @@
+{
+    "appid": "636100",
+    "type": "Game",
+    "name": "Tesla vs Lovecraft",
+    "schinese_name": "科学vs狂怒",
+    "isfreeapp": "0",
+    "change_number": "25567448",
+    "update_time": "2024-10-07 20:33:32",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,ukrainian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "636101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8760022275193963015",
+                    "size": "373782015",
+                    "download": "285102560"
+                },
+                "beta": {
+                    "gid": "2804050663628248529",
+                    "size": "287163401",
+                    "download": "202951504"
+                },
+                "macos_old": {
+                    "gid": "8760022275193963015",
+                    "size": "373782015",
+                    "download": "285102560"
+                }
+            },
+            "decryptionkey": "ae49cc673b8c6dfe79f678b6dd3f8edf06a691ff77301badbe6390b4cf1564aa"
+        },
+        "636102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953682585193252173",
+                    "size": "375607159",
+                    "download": "284836464"
+                },
+                "beta": {
+                    "gid": "5029267688862551521",
+                    "size": "290299275",
+                    "download": "203427248"
+                },
+                "macos_old": {
+                    "gid": "7953682585193252173",
+                    "size": "375607159",
+                    "download": "284836464"
+                }
+            },
+            "decryptionkey": "efc18e56a4e1b82c329c524817586420ee2e207391bd4b61e66ea5100c1f7465"
+        },
+        "636103": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4287673843986079437",
+                    "size": "333736820",
+                    "download": "247587328"
+                },
+                "beta": {
+                    "gid": "4287673843986079437",
+                    "size": "333736820",
+                    "download": "247587328"
+                },
+                "macos_old": {
+                    "gid": "4122103497626423290",
+                    "size": "373045214",
+                    "download": "292655888"
+                }
+            },
+            "decryptionkey": "a60e532ad0e83d4157c38180cee27f4898cc8d5d8d6ee42a8425a73ecfd98eb0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6182280",
+                "timeupdated": "1612356677"
+            },
+            "beta": {
+                "buildid": "6457182",
+                "description": "Unreleased updates",
+                "timeupdated": "1617029125"
+            },
+            "macos_old": {
+                "buildid": "3493476",
+                "description": "Old macOS build",
+                "timeupdated": "1611824756"
+            }
+        }
+    }
+}
