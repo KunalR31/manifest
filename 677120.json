@@ -1,0 +1,150 @@
+{
+    "appid": "677120",
+    "type": "Game",
+    "name": "Heroes of Hammerwatch",
+    "schinese_name": "铁锤守卫英雄",
+    "isfreeapp": "0",
+    "change_number": "27344420",
+    "update_time": "2025-02-06 20:17:33",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "677121": {
+            "manifests": {
+                "public": {
+                    "gid": "4955975841382525118",
+                    "size": "277530788",
+                    "download": "256503904"
+                },
+                "launch_build": {
+                    "gid": "8389980702370148051",
+                    "size": "110121649",
+                    "download": "101351680"
+                },
+                "public_beta_testing": {
+                    "gid": "4955975841382525118",
+                    "size": "277530788",
+                    "download": "256503904"
+                }
+            },
+            "decryptionkey": "a175a07de8796904ceaff58ff186aa983270cf4301f6a26d4f76abc7d8b2749e"
+        },
+        "677122": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6255014959006692008",
+                    "size": "31806696",
+                    "download": "10982608"
+                },
+                "launch_build": {
+                    "gid": "1720438728875330818",
+                    "size": "21123872",
+                    "download": "5405808"
+                },
+                "public_beta_testing": {
+                    "gid": "6255014959006692008",
+                    "size": "31806696",
+                    "download": "10982608"
+                }
+            },
+            "decryptionkey": "52a310f44e22eee98421d0dd9e87de2c210896905877bd2f04f52401660739e4"
+        },
+        "677123": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4529580379229745017",
+                    "size": "19720055",
+                    "download": "5921008"
+                },
+                "launch_build": {
+                    "gid": "69831974611287745",
+                    "size": "29818348",
+                    "download": "7420304"
+                },
+                "public_beta_testing": {
+                    "gid": "4529580379229745017",
+                    "size": "19720055",
+                    "download": "5921008"
+                }
+            },
+            "decryptionkey": "7027f8c7f8da0b83184d381e52a5f34362cbfee68b65d5dd6822341c6fd4f159"
+        },
+        "677124": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9036664422450468925",
+                    "size": "20711158",
+                    "download": "6260128"
+                },
+                "launch_build": {
+                    "gid": "2383828506215066765",
+                    "size": "24879235",
+                    "download": "7008016"
+                },
+                "public_beta_testing": {
+                    "gid": "9036664422450468925",
+                    "size": "20711158",
+                    "download": "6260128"
+                }
+            },
+            "decryptionkey": "a5b87dcb4717817ae4774487248222d19cda763f2e7fccb349c2d5a4d4d65e5d"
+        },
+        "workshopdepot": "677120",
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "16542047",
+                "timeupdated": "1732665821"
+            },
+            "launch_build": {
+                "buildid": "2567519",
+                "description": "Initial launch version of the game",
+                "timeupdated": "1609726446"
+            },
+            "public_beta_testing": {
+                "buildid": "16542047",
+                "description": "Public testing of early builds",
+                "timeupdated": "1732665792"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e8cd65d93de847bbeedabc11c1e7fcb0837140f3809436292341c85698f92eca"
+    }
+}
