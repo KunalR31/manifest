@@ -1,0 +1,82 @@
+{
+    "appid": "331220",
+    "type": "Game",
+    "name": "Thief Town",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26266685",
+    "update_time": "2024-11-20 02:24:58",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "331221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5456878905585177105",
+                    "size": "219077097",
+                    "download": "99067600"
+                },
+                "dev": {
+                    "gid": "5456878905585177105",
+                    "size": "219077097",
+                    "download": "99067600"
+                }
+            },
+            "decryptionkey": "090e7bb28d5821f9f74073c35ea1675f72cd68e4c918f85e2e5e773d11259556"
+        },
+        "331222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7183685614154464975",
+                    "size": "216979407",
+                    "download": "96664560"
+                },
+                "dev": {
+                    "gid": "7183685614154464975",
+                    "size": "216979407",
+                    "download": "96664560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "331223": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3396006356066915032",
+                    "size": "254786606",
+                    "download": "108848944"
+                },
+                "dev": {
+                    "gid": "3396006356066915032",
+                    "size": "254786606",
+                    "download": "108848944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1634779",
+                "timeupdated": "1487214149"
+            },
+            "dev": {
+                "buildid": "1634779",
+                "timeupdated": "1487214139"
+            }
+        }
+    }
+}
