@@ -1,0 +1,74 @@
+{
+    "appid": "1721870",
+    "type": "Game",
+    "name": "Neon Sundown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26294738",
+    "update_time": "2024-11-21 17:16:04",
+    "depot": {
+        "1721872": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1252247492715061082",
+                    "size": "626487108",
+                    "download": "281300272"
+                },
+                "controller": {
+                    "gid": "5276834125305866065",
+                    "size": "628262360",
+                    "download": "281762576"
+                },
+                "vanilla": {
+                    "gid": "5799020580905022851",
+                    "size": "332737397",
+                    "download": "149867632"
+                }
+            },
+            "decryptionkey": "47ac08ce3b90626259b2d6e1dd2a9a0b0f77dbb1274bedb5ce7ea75ec160d091"
+        },
+        "1721871": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5021753585683896248",
+                    "size": "621802001",
+                    "download": "280380480"
+                },
+                "controller": {
+                    "gid": "1703982122332777757",
+                    "size": "623135691",
+                    "download": "280634416"
+                },
+                "vanilla": {
+                    "gid": "6692528643110763980",
+                    "size": "328527892",
+                    "download": "149283328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10050159",
+                "timeupdated": "1669835448"
+            },
+            "controller": {
+                "buildid": "10196365",
+                "description": "Public testing branch for upcoming controller support",
+                "timeupdated": "1671674391"
+            },
+            "vanilla": {
+                "buildid": "8421781",
+                "description": "The original version of Neon Sundown!",
+                "timeupdated": "1659481468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
