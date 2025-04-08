@@ -1,0 +1,88 @@
+{
+    "appid": "811070",
+    "type": "Game",
+    "name": "眼中的世界 - Conviction -",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26755354",
+    "update_time": "2024-12-23 02:21:44",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "811071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4784460982572789441",
+                    "size": "1132956813",
+                    "download": "978179072"
+                },
+                "drmtest": {
+                    "gid": "4323723120075248179",
+                    "size": "632964594",
+                    "download": "472665008"
+                },
+                "next_version": {
+                    "gid": "4784460982572789441",
+                    "size": "1132956813",
+                    "download": "978179072"
+                },
+                "pre_access_03": {
+                    "gid": "7026468097113202581",
+                    "size": "524529932",
+                    "download": "369216528"
+                }
+            },
+            "decryptionkey": "9777832927a1395e75c3a60a82cbdc9f70d7495439b2d17557eff0a69ab26ffa"
+        },
+        "811072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3036328333066888084",
+                    "size": "1149353762",
+                    "download": "991857952"
+                },
+                "drmtest": {
+                    "gid": "8994934536304414600",
+                    "size": "638615740",
+                    "download": "475800320"
+                },
+                "next_version": {
+                    "gid": "3036328333066888084",
+                    "size": "1149353762",
+                    "download": "991857952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1191170": {
+            "dlcappid": "1191170"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12274599",
+                "timeupdated": "1695645625"
+            },
+            "drmtest": {
+                "buildid": "10254709",
+                "timeupdated": "1672839513"
+            },
+            "next_version": {
+                "buildid": "12274599",
+                "description": "pre run version",
+                "timeupdated": "1695645213"
+            },
+            "pre_access_03": {
+                "buildid": "4556803",
+                "description": "平衡調整先行版",
+                "timeupdated": "1578619850"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
