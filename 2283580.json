@@ -1,0 +1,60 @@
+{
+    "appid": "2283580",
+    "type": "Game",
+    "name": "Voxile",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28339657",
+    "update_time": "2025-04-07 13:15:59",
+    "depot": {
+        "2283581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7785016774230110631",
+                    "size": "656410633",
+                    "download": "213412528"
+                },
+                "devtest": {
+                    "gid": "2916219398239510644",
+                    "size": "1079989286",
+                    "download": "244760176"
+                },
+                "earlytest": {
+                    "gid": "2916219398239510644",
+                    "size": "1079989286",
+                    "download": "244760176"
+                },
+                "last_old_worlds": {
+                    "gid": "5705626228557329003",
+                    "size": "715505029",
+                    "download": "331279824"
+                }
+            },
+            "decryptionkey": "9b84af9059367218f69b366e157a18614b0841913a555a78865df2f4515b2e7f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17798629",
+                "timeupdated": "1742494805"
+            },
+            "devtest": {
+                "buildid": "17958273",
+                "description": "for devs only, no testers",
+                "timeupdated": "1743614621"
+            },
+            "earlytest": {
+                "buildid": "17958273",
+                "description": "EarlyTest",
+                "timeupdated": "1743614700"
+            },
+            "last_old_worlds": {
+                "buildid": "14227051",
+                "description": "last version that will load worlds in the old format, and save in the new",
+                "timeupdated": "1714517372"
+            }
+        }
+    }
+}
