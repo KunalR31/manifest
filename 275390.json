@@ -1,0 +1,57 @@
+{
+    "appid": "275390",
+    "type": "Game",
+    "name": "Guacamelee! Super Turbo Championship Edition",
+    "schinese_name": "墨西哥英雄大混战：超级漩涡冠军版",
+    "isfreeapp": "0",
+    "change_number": "27170773",
+    "update_time": "2025-01-26 18:26:34",
+    "depot": {
+        "overridescddb": "1",
+        "null": {
+            "depotfromapp": "257020"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "275391": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1369288245262413897",
+                    "size": "843272566",
+                    "download": "790417152"
+                }
+            },
+            "decryptionkey": "0790e1a35f308d218529fbc7247ea83010a8adc1e8f37db7c3af8568b2fe5ed7"
+        },
+        "275392": {
+            "manifests": {
+                "public": {
+                    "gid": "1995555686334625844",
+                    "size": "226178630",
+                    "download": "220567776"
+                }
+            },
+            "decryptionkey": "05bd71ebc8fa55fcd9cad1b468a14d6af94fd1b6c2c1e6c2843e629a3c0b3301"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1065187",
+                "timeupdated": "1460470759"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
