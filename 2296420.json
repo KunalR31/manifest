@@ -1,0 +1,63 @@
+{
+    "appid": "2296420",
+    "type": "Demo",
+    "name": "Hammerwatch II Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:25",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2296421": {
+            "manifests": {
+                "public": {
+                    "gid": "975297757460107885",
+                    "size": "406799076",
+                    "download": "364256352"
+                },
+                "betatest": {
+                    "gid": "975297757460107885",
+                    "size": "406799076",
+                    "download": "364256352"
+                }
+            },
+            "decryptionkey": "380d794dce9707665c64041e85d5a246217645d2b18261d44727cb56f12eb3a6"
+        },
+        "2296422": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1702306503583925087",
+                    "size": "37936872",
+                    "download": "12662416"
+                },
+                "betatest": {
+                    "gid": "1702306503583925087",
+                    "size": "37936872",
+                    "download": "12662416"
+                }
+            },
+            "decryptionkey": "17b3f289b66c7abcf72d9816b7b70cb518fc0e692bec0cef0ad9d43ca1dba12a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11548460",
+                "timeupdated": "1687656760"
+            },
+            "betatest": {
+                "buildid": "11548460",
+                "description": "For testing next build",
+                "timeupdated": "1687563900"
+            }
+        }
+    }
+}
