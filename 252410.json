@@ -1,0 +1,108 @@
+{
+    "appid": "252410",
+    "type": "Game",
+    "name": "SteamWorld Dig",
+    "schinese_name": "蒸汽世界",
+    "isfreeapp": "0",
+    "change_number": "28245538",
+    "update_time": "2025-04-01 17:50:07",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "252411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "826112832252820148",
+                    "size": "79779834",
+                    "download": "0"
+                },
+                "public_test": {
+                    "gid": "2627978595290522539",
+                    "size": "93054857",
+                    "download": "74758880"
+                }
+            },
+            "decryptionkey": "05d7702c27c6483ef062cdd995081b8283474d6464b9ea54fd83f7a843a476e4"
+        },
+        "252412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1536504258839216232",
+                    "size": "118272725",
+                    "download": "0"
+                },
+                "public_test": {
+                    "gid": "1536504258839216232",
+                    "size": "118272725",
+                    "download": "88516528"
+                }
+            },
+            "decryptionkey": "2873f3f86eedec4b3401851fa2303b28d84c363e0e4159658b3cfaca7f1e0799"
+        },
+        "252413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7328598504782608211",
+                    "size": "78661058",
+                    "download": "0"
+                },
+                "public_test": {
+                    "gid": "8907206662299884299",
+                    "size": "92153165",
+                    "download": "72853424"
+                }
+            },
+            "decryptionkey": "3e0255680aae2bbaac320bccb9cfc50aa3efa762a4c8d4b34a4124d7efb25eba"
+        },
+        "297900": {
+            "manifests": {
+                "public": {
+                    "gid": "6962921287540438887",
+                    "size": "120597395",
+                    "download": "0"
+                },
+                "public_test": {
+                    "gid": "6962921287540438887",
+                    "size": "120597395",
+                    "download": "118680464"
+                }
+            },
+            "dlcappid": "297900",
+            "decryptionkey": "3cd04ef4f35c1dfb1f1562fd09fd2218351a87a92f906b611ecd3557bd48ba51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "382752"
+            },
+            "public_test": {
+                "buildid": "2755115",
+                "timeupdated": "1525782581"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
