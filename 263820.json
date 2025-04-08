@@ -1,0 +1,67 @@
+{
+    "appid": "263820",
+    "type": "Game",
+    "name": "EvilQuest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 14:02:58",
+    "depot": {
+        "overridescddb": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "263821": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3756892426453767282",
+                    "size": "245037086",
+                    "download": "0"
+                },
+                "dev": {
+                    "gid": "8482475381846414494",
+                    "size": "244025657",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9b148cdd4948d1d46c6cd59d87861e4363a8b2ed980f6f896110f993c3a7218f"
+        },
+        "263822": {
+            "manifests": {
+                "dev": {
+                    "gid": "4772741048450228493",
+                    "size": "245035222",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "230368"
+            },
+            "dev": {
+                "buildid": "220278"
+            }
+        }
+    }
+}
