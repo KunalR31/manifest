@@ -1,0 +1,54 @@
+{
+    "appid": "1428100",
+    "type": "Game",
+    "name": "Instruments of Destruction",
+    "schinese_name": "毁灭工具",
+    "isfreeapp": "0",
+    "change_number": "27399053",
+    "update_time": "2025-02-10 19:12:22",
+    "depot": {
+        "1428101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "89979570448330314",
+                    "size": "1796089666",
+                    "download": "912365824"
+                },
+                "debug": {
+                    "gid": "7662988379339241263",
+                    "size": "1083182083",
+                    "download": "560282576"
+                },
+                "paxdemo": {
+                    "gid": "5368601048542488554",
+                    "size": "596695850",
+                    "download": "366497872"
+                }
+            },
+            "decryptionkey": "28bcde7abdd9c002e7aa944b4cb36d53e9e04a4358721d763f82ae6ef4be18bf"
+        },
+        "workshopdepot": "1428100",
+        "branches": {
+            "public": {
+                "buildid": "17305813",
+                "timeupdated": "1739185937"
+            },
+            "debug": {
+                "buildid": "13373120",
+                "description": "editor testing",
+                "timeupdated": "1707161679"
+            },
+            "paxdemo": {
+                "buildid": "12135323",
+                "description": "Demo for PAX 2023",
+                "timeupdated": "1694114475"
+            }
+        },
+        "workshopdepotdecryptionkey": "2a520684e18f93c2c8d3d5e7710b493dbd682321c99ebf32e94c3af189fa920c"
+    }
+}
