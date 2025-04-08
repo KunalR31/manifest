@@ -1,0 +1,170 @@
+{
+    "appid": "318600",
+    "type": "Game",
+    "name": "The Flame in the Flood",
+    "schinese_name": "洪潮之焰 / The Flame in the Flood",
+    "isfreeapp": "0",
+    "change_number": "27114216",
+    "update_time": "2025-01-22 23:25:46",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "318601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2073091210977169054",
+                    "size": "2732773944",
+                    "download": "1348343040"
+                },
+                "beta": {
+                    "gid": "6609868420420972270",
+                    "size": "2732795344",
+                    "download": "1348200064"
+                }
+            },
+            "decryptionkey": "8d58615a00792854df1e862f86df22115978c49bc6747209d9227eb22fb87977"
+        },
+        "318602": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8577688354899408442",
+                    "size": "3208631550",
+                    "download": "1403038400"
+                },
+                "beta": {
+                    "gid": "8577688354899408442",
+                    "size": "3208631550",
+                    "download": "1403038400"
+                }
+            },
+            "decryptionkey": "2accfce8cfea14ee3641267be9817746f565ea56c8ec71b8dbb3bb6c069274e4"
+        },
+        "469570": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "382736886358493559",
+                    "size": "17022909",
+                    "download": "16658512"
+                },
+                "beta": {
+                    "gid": "382736886358493559",
+                    "size": "17022909",
+                    "download": "16658512"
+                }
+            },
+            "dlcappid": "469570",
+            "decryptionkey": ""
+        },
+        "469580": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1395915461310348276",
+                    "size": "19055591",
+                    "download": "18700864"
+                },
+                "beta": {
+                    "gid": "1395915461310348276",
+                    "size": "19055591",
+                    "download": "18700864"
+                }
+            },
+            "dlcappid": "469580",
+            "decryptionkey": ""
+        },
+        "318603": {
+            "dlcappid": "469570",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6602952015610100885",
+                    "size": "17022909",
+                    "download": "16658512"
+                },
+                "beta": {
+                    "gid": "6602952015610100885",
+                    "size": "17022909",
+                    "download": "16658512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "318604": {
+            "dlcappid": "469580",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1509297825048913898",
+                    "size": "19055591",
+                    "download": "18700864"
+                },
+                "beta": {
+                    "gid": "1509297825048913898",
+                    "size": "19055591",
+                    "download": "18700864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "318605": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "265310929132338036",
+                    "size": "2713694279",
+                    "download": "1340053408"
+                }
+            },
+            "decryptionkey": "6d2bbf17170835c1a3a51fe552ee9bf0bd4a82fbb9d60e5cfceb0b5b5cd63375"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6282434",
+                "timeupdated": "1614099672"
+            },
+            "beta": {
+                "buildid": "1926323",
+                "description": "Public Beta Test",
+                "timeupdated": "1498765729"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
