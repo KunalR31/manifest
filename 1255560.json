@@ -1,0 +1,81 @@
+{
+    "appid": "1255560",
+    "type": "Game",
+    "name": "Myst",
+    "schinese_name": "神秘岛",
+    "isfreeapp": "0",
+    "change_number": "28297063",
+    "update_time": "2025-04-04 05:16:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1255561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8933530348477167013",
+                    "size": "10947369026",
+                    "download": "10393176016"
+                },
+                "rollback_macos_under14-5": {
+                    "gid": "5701998152114423577",
+                    "size": "8777502040",
+                    "download": "8370031024"
+                }
+            },
+            "decryptionkey": "2ffd95ae0859793b901df49c62c092ff41a34ae082001d4239098045ef12109d"
+        },
+        "1255562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7230434635048246804",
+                    "size": "14681699216",
+                    "download": "10802991584"
+                },
+                "rollback_macos_under14-5": {
+                    "gid": "5998904543494293051",
+                    "size": "9622073064",
+                    "download": "8853528912"
+                }
+            },
+            "decryptionkey": "c694b5a1e15f70952d23c94cd82811a1740e7cd9ca5f07825609d35fd0b1f5ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17878272",
+                "timeupdated": "1743128719"
+            },
+            "rollback_macos_under14-5": {
+                "buildid": "16320994",
+                "description": "\tOnly use this branch if you wish to play an unsupported (legacy) version of Myst on MacOS under 14.5.",
+                "timeupdated": "1730939303"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
