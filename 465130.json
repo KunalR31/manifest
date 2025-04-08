@@ -1,0 +1,57 @@
+{
+    "appid": "465130",
+    "type": "Game",
+    "name": "Wicce",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23938186",
+    "update_time": "2024-06-21 21:21:37",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese",
+        "465680 ": {
+            "dlcappid": "465680",
+            "config": {
+                "optionaldlc": "465680"
+            }
+        },
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "465131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2570455370600015770",
+                    "size": "436924145",
+                    "download": "396975056"
+                },
+                "legacy": {
+                    "gid": "4208094501317988369",
+                    "size": "289615368",
+                    "download": "277536144"
+                }
+            },
+            "decryptionkey": "73d6ab71354f779a2e981e60f0ffe6cbff4c65b390f245604daf3f3f4ac60668"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6790139",
+                "timeupdated": "1622698533"
+            },
+            "legacy": {
+                "buildid": "2282623",
+                "description": "Old Version",
+                "timeupdated": "1622682193"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
