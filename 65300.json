@@ -1,0 +1,73 @@
+{
+    "appid": "65300",
+    "type": "Game",
+    "name": "Dustforce",
+    "schinese_name": "尘埃克星",
+    "isfreeapp": "0",
+    "change_number": "22582129",
+    "update_time": "2024-05-31 01:08:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "65304": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3714639269265804985",
+                    "size": "419104964",
+                    "download": "329362016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "65303": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4613837143824220549",
+                    "size": "414283370",
+                    "download": "327007424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "65301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4400690205417711253",
+                    "size": "429177053",
+                    "download": "817529043664"
+                }
+            },
+            "decryptionkey": "e7687a38df6062926365a5951797f2ea4bdcd2b0995032b85d7cf571ff477140"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "480368"
+            }
+        }
+    }
+}
