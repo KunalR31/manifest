@@ -1,0 +1,53 @@
+{
+    "appid": "265210",
+    "type": "Game",
+    "name": "Viscera Cleanup Detail: Santa's Rampage",
+    "schinese_name": "内脏清洁工：圣诞之怒特别版",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 14:25:36",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265211": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4234834144283603425",
+                    "size": "1062005501",
+                    "download": "724608288"
+                },
+                "local": {
+                    "gid": "6388011960654919642",
+                    "size": "700623636",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4fde4f2140be8113adf2a822574ad28dd4b5b617aeef089f2cc385c1d80219cf"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "4286391",
+                "timeupdated": "1571471366"
+            },
+            "local": {
+                "buildid": "155392",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
