@@ -1,0 +1,59 @@
+{
+    "appid": "281750",
+    "type": "Game",
+    "name": "Munin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27142964",
+    "update_time": "2025-01-24 12:24:33",
+    "depot": {
+        "overridescddb": "1",
+        "281751": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8605327744939196427",
+                    "size": "1557050617",
+                    "download": "425947312944"
+                }
+            },
+            "decryptionkey": "a490a1dc5ee13f6bff0fadb0c0bc1fc42e9dec539f3f14587775658cb42c2b95"
+        },
+        "281752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8393215411660916161",
+                    "size": "1584550396",
+                    "download": "1805669949451"
+                }
+            },
+            "decryptionkey": "bc979151a7101c700ded943706a8402c54d579454bea6dbd69f176d8d0e11997"
+        },
+        "281753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "889206019486780818",
+                    "size": "1590532899",
+                    "download": "142104714878"
+                }
+            },
+            "decryptionkey": "cb8d9a747fa82d9643b71f54c2d781f5b8de96c57b35ad4462cf079d7e0a575b"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "475256"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
