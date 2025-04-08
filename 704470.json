@@ -1,0 +1,57 @@
+{
+    "appid": "704470",
+    "type": "Game",
+    "name": "VR Furballs - Demolition",
+    "schinese_name": "VR毛球宝贝 - 摧毁敌营",
+    "isfreeapp": "0",
+    "change_number": "26711366",
+    "update_time": "2024-12-19 18:21:25",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "704471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4733590412256719116",
+                    "size": "1048430611",
+                    "download": "311160112"
+                },
+                "liv-mixed-reality": {
+                    "gid": "3860402082501604158",
+                    "size": "1050150656",
+                    "download": "311469856"
+                }
+            },
+            "decryptionkey": "b5759aaa5e6bf74a807bf49fe435144411fbf4f2a6dfe1c6f65e9dbb9a331c66"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,dutch,swedish,brazilian,bulgarian,greek",
+        "branches": {
+            "public": {
+                "buildid": "10055203",
+                "timeupdated": "1669889791"
+            },
+            "liv-mixed-reality": {
+                "buildid": "11457772",
+                "description": "LIV Mixed Reality",
+                "timeupdated": "1686657672"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
