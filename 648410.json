@@ -1,0 +1,55 @@
+{
+    "appid": "648410",
+    "type": "Game",
+    "name": "Colony Ship: A Post-Earth Role Playing Game",
+    "schinese_name": "殖民船：后地球",
+    "isfreeapp": "0",
+    "change_number": "28326774",
+    "update_time": "2025-04-06 04:38:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "648411": {
+            "manifests": {
+                "public": {
+                    "gid": "847707335578913911",
+                    "size": "18365441033",
+                    "download": "7356526784"
+                },
+                "previous_version": {
+                    "gid": "6042291350697311329",
+                    "size": "18273474332",
+                    "download": "7303194928"
+                },
+                "public_test": {
+                    "gid": "4528210961448639995",
+                    "size": "18627724349",
+                    "download": "7462310672"
+                }
+            },
+            "decryptionkey": "a97d03641af448aa17fbe2613980631ed39b9eb74e746a8bfd164d5c13affbc7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16395718",
+                "timeupdated": "1731521308"
+            },
+            "previous_version": {
+                "buildid": "14899189",
+                "description": "Contains a previous major version of the game you can rollback to, to finish your playthrough with unmodified balance or for other reasons.",
+                "timeupdated": "1731371491"
+            },
+            "public_test": {
+                "buildid": "17997878",
+                "description": "Public testing branch",
+                "timeupdated": "1743885492"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
