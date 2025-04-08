@@ -1,0 +1,80 @@
+{
+    "appid": "423580",
+    "type": "Game",
+    "name": "Project Highrise",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27106319",
+    "update_time": "2025-01-22 13:26:39",
+    "depot": {
+        "423581": {},
+        "423582": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6255565661869212958",
+                    "size": "603359504",
+                    "download": "84816848"
+                },
+                "staging": {
+                    "gid": "6539697631778621388",
+                    "size": "603359944",
+                    "download": "84817648"
+                }
+            },
+            "decryptionkey": "3ee4254475d6f621af5e6e4f69356ff31cc6310b1f3eda5a7032463b0e4cbc2c"
+        },
+        "423583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2343082080947518598",
+                    "size": "618563116",
+                    "download": "89025904"
+                },
+                "staging": {
+                    "gid": "3750269801037646777",
+                    "size": "618563556",
+                    "download": "89026560"
+                }
+            },
+            "decryptionkey": "cb43ba37634ad2a3c3bffa7151da45d7caffb144d5e34f4003c432a4625abe54"
+        },
+        "423584": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7476901965857888300",
+                    "size": "654549211",
+                    "download": "102131712"
+                },
+                "staging": {
+                    "gid": "8963021726933932576",
+                    "size": "654549651",
+                    "download": "102132816"
+                }
+            },
+            "decryptionkey": "ace1297341511baec4eb2ef5093b535d1c655192c8b46b7cdbd98e32beba9067"
+        },
+        "workshopdepot": "423580",
+        "branches": {
+            "public": {
+                "buildid": "3468047",
+                "timeupdated": "1547570871"
+            },
+            "staging": {
+                "buildid": "3108190",
+                "description": "Next upcoming build (may be unstable)",
+                "timeupdated": "1536600693"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "68478ee0f7668964b86daabff77871c9e4a81f89c370b579ab0589ab66460f7b"
+    }
+}
