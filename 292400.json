@@ -1,0 +1,85 @@
+{
+    "appid": "292400",
+    "type": "Game",
+    "name": "Unrest",
+    "schinese_name": "动荡",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 22:02:23",
+    "depot": {
+        "overridescddb": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "292402": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8762941886102332872",
+                    "size": "900874174",
+                    "download": "92075216480"
+                }
+            },
+            "decryptionkey": "85a62ca4a5d361857fb54a6e491a411299ecbc9a89629390c0144b7b6bdd6ca6"
+        },
+        "292403": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1454849405956819807",
+                    "size": "921839441",
+                    "download": "181818931480"
+                }
+            },
+            "decryptionkey": "859073a034c6a7110bb9eaec24838df6d7ffbb02fecb5c0259cda314f8f09ae6"
+        },
+        "292401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5596865004380654022",
+                    "size": "908239346",
+                    "download": "795232416"
+                }
+            },
+            "decryptionkey": "6067a53343d14274359113bbc2cfd436e56efb47bf7822f1115fd4fcae44ed49"
+        },
+        "301710": {
+            "manifests": {
+                "public": {
+                    "gid": "6528955759704449295",
+                    "size": "424551506",
+                    "download": "419845696"
+                }
+            },
+            "dlcappid": "301710",
+            "decryptionkey": ""
+        },
+        "301720": {
+            "manifests": {
+                "public": {
+                    "gid": "5852656957211761451",
+                    "size": "1727911382",
+                    "download": "33487222623"
+                }
+            },
+            "dlcappid": "301720",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "690678"
+            }
+        }
+    }
+}
