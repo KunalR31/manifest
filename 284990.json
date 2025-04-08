@@ -1,0 +1,60 @@
+{
+    "appid": "284990",
+    "type": "Game",
+    "name": "Solarix",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 19:57:17",
+    "depot": {
+        "overridescddb": "1",
+        "284991": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3371562495046639426",
+                    "size": "2663282005",
+                    "download": "2140009872"
+                },
+                "test": {
+                    "gid": "7390990905113315007",
+                    "size": "2648093095",
+                    "download": "2130972352"
+                }
+            },
+            "decryptionkey": "87d2e7a62aafac602347adc962b5e6cc5be4b697b101df53e520c121210a3cca"
+        },
+        "284992": {
+            "config": {
+                "language": "turkish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5244730109116123464",
+                    "size": "2648880727",
+                    "download": "2136193184"
+                },
+                "test": {
+                    "gid": "5244730109116123464",
+                    "size": "2648880727",
+                    "download": "2136193184"
+                }
+            },
+            "decryptionkey": "992351f11d8d3edf0da96025e4933cff0ebb82b7e70af3f8ca94e7224044b364"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1206002",
+                "timeupdated": "1467280567"
+            },
+            "test": {
+                "buildid": "684664",
+                "description": "turkish-test"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
