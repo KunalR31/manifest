@@ -1,0 +1,47 @@
+{
+    "appid": "2501600",
+    "type": "Game",
+    "name": "DICEOMANCER",
+    "schinese_name": "骰子浪游者",
+    "isfreeapp": "0",
+    "change_number": "28262805",
+    "update_time": "2025-04-02 15:11:08",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2501602": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "2501601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3406983573300482725",
+                    "size": "4847344656",
+                    "download": "464027888"
+                },
+                "optimize": {
+                    "gid": "2785216145134446345",
+                    "size": "4139195698",
+                    "download": "409487632"
+                }
+            },
+            "decryptionkey": "dc29f8c0cff596b5043b1023fd2ef27fc4d14e5568f19b6ed055d2e16cc4ff86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16801852",
+                "timeupdated": "1734618411"
+            },
+            "optimize": {
+                "buildid": "16063525",
+                "description": "performance optimize",
+                "timeupdated": "1729071075"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
