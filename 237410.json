@@ -1,0 +1,115 @@
+{
+    "appid": "237410",
+    "type": "Tool",
+    "name": "Insurgency Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 06:37:12",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "237411": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "beta": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "hotfix": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "pre_beta": {
+                    "gid": "507305593333031116",
+                    "size": "8549501127",
+                    "download": "4376288944"
+                },
+                "valve_server": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                }
+            },
+            "decryptionkey": "9cab8b2aee545fb0bd6558cf69bf0dc6e9453b7cf8881d64989662d934991a40"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3016394",
+                "timeupdated": "1533749022"
+            },
+            "beta": {
+                "buildid": "3016394",
+                "description": "beta branch",
+                "timeupdated": "1533747863"
+            },
+            "hotfix": {
+                "buildid": "3016394",
+                "timeupdated": "1533748113"
+            },
+            "pre_beta": {
+                "buildid": "990584"
+            },
+            "valve_server": {
+                "buildid": "3016394",
+                "timeupdated": "1533748103"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
