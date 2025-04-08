@@ -1,0 +1,71 @@
+{
+    "appid": "1356810",
+    "type": "Game",
+    "name": "Hexarchy",
+    "schinese_name": "帝王牌局：古国纷争",
+    "isfreeapp": "0",
+    "change_number": "28300778",
+    "update_time": "2025-04-04 10:29:59",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1356811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6204616829502142691",
+                    "size": "1868709853",
+                    "download": "539820320"
+                },
+                "publictest": {
+                    "gid": "6204616829502142691",
+                    "size": "1868709853",
+                    "download": "539820320"
+                }
+            },
+            "decryptionkey": "fdb11225d1172bcb021bb060a7fe134c226f7a48205f600fd13d75f9603a23c1"
+        },
+        "1356812": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5804989235167980372",
+                    "size": "1882569170",
+                    "download": "542881360"
+                },
+                "publictest": {
+                    "gid": "5804989235167980372",
+                    "size": "1882569170",
+                    "download": "542881360"
+                }
+            },
+            "decryptionkey": "8377002d87d60574485cd29dd4a3f20b84b1a9d169288b17dc0ed74de2eaf0b8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17974248",
+                "timeupdated": "1743707031"
+            },
+            "publictest": {
+                "buildid": "17974248",
+                "description": "Public Test Branch",
+                "timeupdated": "1743733795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
