@@ -1,0 +1,95 @@
+{
+    "appid": "224860",
+    "type": "Game",
+    "name": "Arma Tactics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28038536",
+    "update_time": "2025-03-20 02:54:54",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "224861": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2029157977660790590",
+                    "size": "978203871",
+                    "download": "305569280"
+                },
+                "development": {
+                    "gid": "2029157977660790590",
+                    "size": "978203871",
+                    "download": "305569280"
+                }
+            },
+            "decryptionkey": "f832789db0e455a30977ab6e678bd23b766560119343171fdcfe9b96a4972aff"
+        },
+        "224862": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6823002040104330663",
+                    "size": "986954139",
+                    "download": "307656784"
+                },
+                "development": {
+                    "gid": "6823002040104330663",
+                    "size": "986954139",
+                    "download": "307656784"
+                }
+            },
+            "decryptionkey": "89a9e297e062d3fd31223aa9d7ceb6652fb57d8358fd3b1f48e69583a346a5c0"
+        },
+        "224863": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1245273560917447723",
+                    "size": "990273171",
+                    "download": "306534784"
+                },
+                "development": {
+                    "gid": "1245273560917447723",
+                    "size": "990273171",
+                    "download": "306534784"
+                }
+            },
+            "decryptionkey": "d2b83f270366c14d1ff31b3e91f1afead87724ac4b6095c531f3d1839880b0f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1317807",
+                "timeupdated": "1473668799"
+            },
+            "development": {
+                "buildid": "1317807",
+                "description": "Development build (no warranties!)",
+                "timeupdated": "1473052621"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
