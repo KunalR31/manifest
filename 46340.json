@@ -1,0 +1,96 @@
+{
+    "appid": "46340",
+    "type": "Game",
+    "name": "Theatre of War 2: Africa 1943",
+    "schinese_name": "战场2：北非1943",
+    "isfreeapp": "0",
+    "change_number": "27992737",
+    "update_time": "2025-03-17 19:55:56",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "46341": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8953809530427689503",
+                    "size": "1304532848",
+                    "download": "1159849712"
+                }
+            },
+            "decryptionkey": "789652d5a7e91647eed2592e17f0c10f66b405b47c0a4e2f3d88c72118f5ede7"
+        },
+        "46343": {
+            "config": {
+                "oslist": "windows",
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "880201960580313357",
+                    "size": "134931999",
+                    "download": "115018560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "46342": {
+            "optional": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "46342",
+            "manifests": {
+                "public": {
+                    "gid": "7263555222601156792",
+                    "size": "366623225",
+                    "download": "322663680"
+                }
+            },
+            "decryptionkey": "f48f26ff41c8eaacf73465547a30192a32602f15541121ea594688cc823904a8"
+        },
+        "46344": {
+            "dlcappid": "46342",
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2737843555523513967",
+                    "size": "31263361",
+                    "download": "22621536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "46345": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "622811"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
