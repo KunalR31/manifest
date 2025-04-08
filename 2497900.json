@@ -1,0 +1,59 @@
+{
+    "appid": "2497900",
+    "type": "Game",
+    "name": "DON'T SCREAM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27934759",
+    "update_time": "2025-03-13 22:20:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2497901": {
+            "manifests": {
+                "public": {
+                    "gid": "894389102672785240",
+                    "size": "18969429690",
+                    "download": "11352991376"
+                },
+                "testing": {
+                    "gid": "894389102672785240",
+                    "size": "18969429690",
+                    "download": "11352991376"
+                }
+            },
+            "decryptionkey": "42d0e96d7b5440cf0b812b5ec843e2e437e28ba281e46830a2d2d7ec65c2a030"
+        },
+        "2497902": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16555209",
+                "timeupdated": "1732725696"
+            },
+            "testing": {
+                "buildid": "16555209",
+                "description": "Public test branch",
+                "timeupdated": "1732725626"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
