@@ -1,0 +1,88 @@
+{
+    "appid": "221640",
+    "type": "Game",
+    "name": "Super Hexagon",
+    "schinese_name": "超级六边形",
+    "isfreeapp": "0",
+    "change_number": "26445017",
+    "update_time": "2024-12-05 09:25:01",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "221641": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3466647956312300491",
+                    "size": "22708311",
+                    "download": "19870000"
+                },
+                "pre-neo": {
+                    "gid": "2832065987636587548",
+                    "size": "33743267",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8ffc476f2f7d1d5261a3b12125ffb217d76090278a1fed5945344816ab4d7bb1"
+        },
+        "221642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1709752638055709001",
+                    "size": "37436200",
+                    "download": "23284288"
+                },
+                "pre-neo": {
+                    "gid": "3568149617969404376",
+                    "size": "32930132",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "73c567c342c35e5ae5151e0ca0e978d5a078c2095a16994bfceb6e0b3d100486"
+        },
+        "221643": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7186315654381968499",
+                    "size": "23805735",
+                    "download": "20290848"
+                },
+                "pre-neo": {
+                    "gid": "7531947255110487260",
+                    "size": "41550085",
+                    "download": "25440448"
+                }
+            },
+            "decryptionkey": "890f03b2a76e12192828bcffe118d5f1487791cc86f5a59a89ec7d6ce76f8b44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8838351",
+                "timeupdated": "1653946120"
+            },
+            "pre-neo": {
+                "buildid": "981853",
+                "description": "Pre-Neo version (openFrameworks)",
+                "timeupdated": "1653946473"
+            }
+        }
+    }
+}
