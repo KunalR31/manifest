@@ -1,0 +1,78 @@
+{
+    "appid": "2990640",
+    "type": "Game",
+    "name": "Endoparasitic 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28038570",
+    "update_time": "2025-03-20 02:56:44",
+    "depot": {
+        "2990641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7221110831755053965",
+                    "size": "180147160",
+                    "download": "88094000"
+                },
+                "beta": {
+                    "gid": "7221110831755053965",
+                    "size": "180147160",
+                    "download": "88094000"
+                }
+            },
+            "decryptionkey": "9f0b5ddf7f9014543c381b0166c730c457ca0a17d3992c626f73d9b7e860949f"
+        },
+        "2990642": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "238355866333988325",
+                    "size": "166991956",
+                    "download": "84193168"
+                },
+                "beta": {
+                    "gid": "238355866333988325",
+                    "size": "166991956",
+                    "download": "84193168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2990643": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1611272753884760672",
+                    "size": "261322949",
+                    "download": "105197952"
+                },
+                "beta": {
+                    "gid": "1611272753884760672",
+                    "size": "261322949",
+                    "download": "105197952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16433961",
+                "timeupdated": "1732136713"
+            },
+            "beta": {
+                "buildid": "16433961",
+                "description": "for testing new patches",
+                "timeupdated": "1731811205"
+            }
+        }
+    }
+}
