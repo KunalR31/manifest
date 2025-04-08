@@ -1,0 +1,76 @@
+{
+    "appid": "291210",
+    "type": "Game",
+    "name": "UberStrike",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 07:13:54",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "291211": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7198107249301931430",
+                    "size": "747259772",
+                    "download": "336688800"
+                },
+                "beta": {
+                    "gid": "7198107249301931430",
+                    "size": "747259772",
+                    "download": "336688800"
+                },
+                "local": {
+                    "gid": "7811525390182790887",
+                    "size": "417464460",
+                    "download": "109896264416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "291212": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8147831209968313515",
+                    "size": "740985299",
+                    "download": "333559680"
+                },
+                "beta": {
+                    "gid": "8147831209968313515",
+                    "size": "740985299",
+                    "download": "333559680"
+                },
+                "local": {
+                    "gid": "6216641864827698124",
+                    "size": "417464460",
+                    "download": "114179383248"
+                }
+            },
+            "decryptionkey": "617d45fc5204add058f8be07824b2fa663c4e9696243031f93382d5a5cd0bc4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "696170"
+            },
+            "beta": {
+                "buildid": "696170",
+                "description": "Test builds"
+            },
+            "local": {
+                "buildid": "380467",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
