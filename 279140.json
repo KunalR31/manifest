@@ -1,0 +1,83 @@
+{
+    "appid": "279140",
+    "type": "Game",
+    "name": "Making History: The Great War",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26570685",
+    "update_time": "2024-12-10 15:14:10",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "279141": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4902104144098761923",
+                    "size": "1638782371",
+                    "download": "412254880"
+                }
+            },
+            "decryptionkey": "1a6c6c2f3fcf048bf74848e4f1873970a445d33a050f9669afe6d91709b9d976"
+        },
+        "279142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "97274942562565481",
+                    "size": "1561475337",
+                    "download": "379646336"
+                }
+            },
+            "decryptionkey": "320af04c28bc3b7caafaffe63dc5f342db7a36d5beeeadc1cfc3e2a6a13dd37e"
+        },
+        "279143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5956424875704628894",
+                    "size": "1707883451",
+                    "download": "435673792"
+                }
+            },
+            "decryptionkey": "ea6d328847e5106474ecf350a878c3fa95d0d25e66ba910fef6c85d19639f2f5"
+        },
+        "workshopdepot": "279140",
+        "branches": {
+            "public": {
+                "buildid": "3068415",
+                "timeupdated": "1536334052"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
