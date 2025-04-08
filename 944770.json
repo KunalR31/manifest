@@ -1,0 +1,160 @@
+{
+    "appid": "944770",
+    "type": "Application",
+    "name": "sheepChat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28256249",
+    "update_time": "2025-04-02 04:52:26",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "944775": {
+            "manifests": {
+                "public": {
+                    "gid": "1089691567417247671",
+                    "size": "11",
+                    "download": "128"
+                },
+                "beta": {
+                    "gid": "1089691567417247671",
+                    "size": "11",
+                    "download": "128"
+                },
+                "nightly-v1.x.x": {
+                    "gid": "1089691567417247671",
+                    "size": "11",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": "c0282a8b8dd157120813890689f24deee202f634e2ff7813b21e93edfbf0bf13"
+        },
+        "944771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
+                },
+                "beta": {
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
+                },
+                "nightly-v1.x.x": {
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
+                }
+            },
+            "decryptionkey": "b7f6633a57a61339726d6dec99855b090a1e032b29c56c2941e837685adcccd1"
+        },
+        "944772": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
+                },
+                "beta": {
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
+                },
+                "nightly-v1.x.x": {
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "944773": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
+                },
+                "beta": {
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
+                },
+                "nightly-v1.x.x": {
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "944774": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2832446764994025237",
+                    "size": "421545185",
+                    "download": "128333744"
+                },
+                "beta": {
+                    "gid": "2832446764994025237",
+                    "size": "421545185",
+                    "download": "128333744"
+                },
+                "nightly-v1.x.x": {
+                    "gid": "2832446764994025237",
+                    "size": "421545185",
+                    "download": "128333744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17945045",
+                "timeupdated": "1743540739"
+            },
+            "beta": {
+                "buildid": "17945045",
+                "description": "Beta build",
+                "timeupdated": "1743540678"
+            },
+            "nightly-v1.x.x": {
+                "buildid": "17945045",
+                "description": "Nightly builds, branch 1.x.x",
+                "timeupdated": "1743540702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
