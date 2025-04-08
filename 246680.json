@@ -1,0 +1,88 @@
+{
+    "appid": "246680",
+    "type": "Game",
+    "name": "Secrets of Rætikon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28323260",
+    "update_time": "2025-04-05 20:10:53",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "246681": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "881624115720731082",
+                    "size": "127020593",
+                    "download": "1280051830678"
+                },
+                "local": {
+                    "gid": "2800723720588078339",
+                    "size": "139644805",
+                    "download": "0"
+                },
+                "upcoming": {
+                    "gid": "881624115720731082",
+                    "size": "127020593",
+                    "download": "1280051830678"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "246682": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1027480132391057727",
+                    "size": "108637398",
+                    "download": "777657452114"
+                },
+                "upcoming": {
+                    "gid": "1027480132391057727",
+                    "size": "108637398",
+                    "download": "777657452114"
+                }
+            },
+            "decryptionkey": "ccc5fb527295ae460125b2f620c84a5a45a520500db55e8d370425a7f3d4ba74"
+        },
+        "246683": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "325477985842547242",
+                    "size": "125633875",
+                    "download": "782831455580"
+                },
+                "upcoming": {
+                    "gid": "325477985842547242",
+                    "size": "125633875",
+                    "download": "782831455580"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "343355"
+            },
+            "local": {
+                "buildid": "122520",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "upcoming": {
+                "buildid": "343355",
+                "description": "Upcoming update"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
