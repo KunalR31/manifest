@@ -1,0 +1,99 @@
+{
+    "appid": "1269710",
+    "type": "Game",
+    "name": "Kainga",
+    "schinese_name": "海岸桃源：文明之种",
+    "isfreeapp": "0",
+    "change_number": "27503339",
+    "update_time": "2025-02-16 22:35:12",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,polish",
+        "1269711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8553576559408753758",
+                    "size": "714743310",
+                    "download": "572650256"
+                },
+                "beta": {
+                    "gid": "414170260651312694",
+                    "size": "755025254",
+                    "download": "609353424"
+                }
+            },
+            "decryptionkey": "e96a1f734ee1b8f27f1d6fbb714442ec169ef1f6ed87d6e229b23f69a45ef880"
+        },
+        "1269712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5353678164859009107",
+                    "size": "1147288308",
+                    "download": "586135312"
+                },
+                "beta": {
+                    "gid": "5353678164859009107",
+                    "size": "1147288308",
+                    "download": "586135312"
+                }
+            },
+            "decryptionkey": "01cb7c1b8913f26d23ea8929acdd03696725764336820f0cf54317fa497ab069"
+        },
+        "2235420": {
+            "dlcappid": "2235420",
+            "manifests": {
+                "public": {
+                    "gid": "3507891420547047549",
+                    "size": "278652004",
+                    "download": "277632800"
+                },
+                "beta": {
+                    "gid": "3507891420547047549",
+                    "size": "278652004",
+                    "download": "277632800"
+                }
+            },
+            "config": {
+                "optionaldlc": "2235420"
+            },
+            "decryptionkey": ""
+        },
+        "2731110": {
+            "dlcappid": "2731110",
+            "manifests": {
+                "public": {
+                    "gid": "4735090572930747222",
+                    "size": "1321086",
+                    "download": "1097440"
+                },
+                "beta": {
+                    "gid": "4735090572930747222",
+                    "size": "1321086",
+                    "download": "1097440"
+                }
+            },
+            "config": {
+                "optionaldlc": "2731110"
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13393477",
+                "timeupdated": "1707325807"
+            },
+            "beta": {
+                "buildid": "17384157",
+                "description": "For Playtesting",
+                "timeupdated": "1739716506"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
