@@ -1,0 +1,62 @@
+{
+    "appid": "651150",
+    "type": "Game",
+    "name": "Quantum League",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27011958",
+    "update_time": "2025-01-16 02:14:25",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "651151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7623389136536584220",
+                    "size": "23784759945",
+                    "download": "7210226720"
+                },
+                "publictest": {
+                    "gid": "8960447435728834091",
+                    "size": "19453024652",
+                    "download": "6598048864"
+                }
+            },
+            "decryptionkey": "3ab7b1a1f384fc3ac5a27ff627725e5d8c0e2c837ab350c9677430d00d37a919"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6540531",
+                "timeupdated": "1618427243"
+            },
+            "publictest": {
+                "buildid": "5738468",
+                "description": "Community beta testing",
+                "timeupdated": "1603742474"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
