@@ -1,0 +1,58 @@
+{
+    "appid": "1266690",
+    "type": "Game",
+    "name": "Dark Deception: Monsters & Mortals",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28026171",
+    "update_time": "2025-03-19 12:28:31",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1266691": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6290467537440623817",
+                    "size": "8179667238",
+                    "download": "7684418400"
+                },
+                "local": {
+                    "gid": "2412171868322980221",
+                    "size": "4851220193",
+                    "download": "4688614000"
+                }
+            },
+            "decryptionkey": "a75098ec064c590cb31c5612219a75678d3696789d4889429ec7de680e824c01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17620569",
+                "timeupdated": "1741272376"
+            },
+            "local": {
+                "buildid": "9274525",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1659969633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
