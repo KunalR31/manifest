@@ -1,0 +1,78 @@
+{
+    "appid": "640890",
+    "type": "Game",
+    "name": "Will Glow the Wisp",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27012702",
+    "update_time": "2025-01-16 03:14:18",
+    "depot": {
+        "baselanguages": "english,german,schinese",
+        "hasdepotsindlc": "1",
+        "640891": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7569663133465744918",
+                    "size": "302436419",
+                    "download": "108893856"
+                },
+                "mac_testing": {
+                    "gid": "7438904831142365961",
+                    "size": "280556440",
+                    "download": "103038544"
+                }
+            },
+            "decryptionkey": "0f5a65a32d861cde2eb706ceba94ed3fc445fef7ba8de0412d911bb124fe82a2"
+        },
+        "640892": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8524513069641173420",
+                    "size": "309794635",
+                    "download": "111210880"
+                },
+                "mac_testing": {
+                    "gid": "4711722557969921343",
+                    "size": "285927832",
+                    "download": "104670800"
+                }
+            },
+            "decryptionkey": "c0e0a27b6b7b7dcd6d3eefc6d1fc427b941d7fdaa98342ac9348c789936a3e3f"
+        },
+        "640893": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "mac_testing": {
+                    "gid": "2515498745325444836",
+                    "size": "327531535",
+                    "download": "116850944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1216520": {
+            "dlcappid": "1216520"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12271637",
+                "timeupdated": "1695620135"
+            },
+            "mac_testing": {
+                "buildid": "2211445",
+                "timeupdated": "1508399394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
