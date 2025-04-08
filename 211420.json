@@ -1,0 +1,53 @@
+{
+    "appid": "211420",
+    "type": "Game",
+    "name": "DARK SOULS™: Prepare To Die Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27105704",
+    "update_time": "2025-01-22 12:25:48",
+    "depot": {
+        "overridescddb": "1",
+        "211421": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2485886415746818104",
+                    "size": "4011839453",
+                    "download": "3904123744"
+                },
+                "-dsptde-2.0-": {
+                    "gid": "4422435038260304287",
+                    "size": "4011829797",
+                    "download": "3904120528"
+                }
+            },
+            "decryptionkey": "f49080bced75e29fd2910bcd647816b25fb2240e476a5a72da281e8f1f5c0578"
+        },
+        "211422": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6784931481117217863",
+                    "size": "317658408",
+                    "download": "297796240"
+                }
+            },
+            "decryptionkey": "c468f053ed9820970515daf4a2c47b4d1c1e62ce0793061d974daf1bfa725b7a"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "1480646",
+                "timeupdated": "1482333006"
+            },
+            "-dsptde-2.0-": {
+                "buildid": "493378",
+                "description": "Steam Build 2.0"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
