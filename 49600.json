@@ -1,0 +1,67 @@
+{
+    "appid": "49600",
+    "type": "Game",
+    "name": "Beat Hazard",
+    "schinese_name": "危险节奏",
+    "isfreeapp": "0",
+    "change_number": "25274781",
+    "update_time": "2024-09-18 15:50:20",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "49607": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4754973685290758832",
+                    "size": "210189580",
+                    "download": "206421056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "49601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2083908201201772271",
+                    "size": "591585649",
+                    "download": "591975808"
+                }
+            },
+            "decryptionkey": "9cdc76c33005e944fe10c08403bd68373e73e2b4f80f47252465208b0a40a9c5"
+        },
+        "49608": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7162368572552600817",
+                    "size": "201624897",
+                    "download": "186074960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "14375786",
+                "timeupdated": "1715777666"
+            }
+        }
+    }
+}
