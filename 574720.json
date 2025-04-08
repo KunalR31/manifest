@@ -1,0 +1,65 @@
+{
+    "appid": "574720",
+    "type": "Game",
+    "name": "Little Big Workshop",
+    "schinese_name": "小小大工坊",
+    "isfreeapp": "0",
+    "change_number": "26384157",
+    "update_time": "2024-12-05 05:18:46",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "574721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4278201335399838254",
+                    "size": "3871655370",
+                    "download": "1067712320"
+                },
+                "experimental": {
+                    "gid": "1191270377024569837",
+                    "size": "1212247120",
+                    "download": "385479136"
+                }
+            },
+            "decryptionkey": "3639fec2e6886f768df5a18f61f57086cb4ac9eb28f086648d0db45ef6c81d56"
+        },
+        "574722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3686666316089199039",
+                    "size": "3907750475",
+                    "download": "1076506880"
+                },
+                "experimental": {
+                    "gid": "7876335268404717526",
+                    "size": "1269536017",
+                    "download": "402518144"
+                }
+            },
+            "decryptionkey": "7b383b5204c7a2aaaaf20f553b86a2b63981886349b250a12774f50d8c7579f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5819524",
+                "timeupdated": "1605188981"
+            },
+            "experimental": {
+                "buildid": "5015267",
+                "timeupdated": "1589453168"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
