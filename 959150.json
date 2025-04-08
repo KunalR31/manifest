@@ -1,0 +1,119 @@
+{
+    "appid": "959150",
+    "type": "Game",
+    "name": "Making History: The First World War",
+    "schinese_name": "创造历史：第一次世界大战",
+    "isfreeapp": "0",
+    "change_number": "27234451",
+    "update_time": "2025-01-30 20:17:30",
+    "depot": {
+        "workshopdepot": "959150",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "959151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3649819547084964871",
+                    "size": "3378525158",
+                    "download": "969872400"
+                },
+                "edge": {
+                    "gid": "3649819547084964871",
+                    "size": "3378525158",
+                    "download": "969872400"
+                },
+                "linux": {
+                    "gid": "4465237911923242261",
+                    "size": "3340822320",
+                    "download": "969067104"
+                }
+            },
+            "decryptionkey": "16ee79503562c71006573784d6827897709e70798ba8d5f211ad3c91f4e0ac31"
+        },
+        "959152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6860576602757498941",
+                    "size": "0",
+                    "download": "0"
+                },
+                "edge": {
+                    "gid": "6860576602757498941",
+                    "size": "0",
+                    "download": "0"
+                },
+                "linux": {
+                    "gid": "2580265377826552086",
+                    "size": "3868984631",
+                    "download": "1202722592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "959153": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1306714335166865810",
+                    "size": "0",
+                    "download": "0"
+                },
+                "edge": {
+                    "gid": "1306714335166865810",
+                    "size": "0",
+                    "download": "0"
+                },
+                "linux": {
+                    "gid": "4125714633929586983",
+                    "size": "3404559155",
+                    "download": "990047728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16088880",
+                "timeupdated": "1729373787"
+            },
+            "edge": {
+                "buildid": "16088880",
+                "timeupdated": "1729212155"
+            },
+            "linux": {
+                "buildid": "10976450",
+                "description": "Build For Linux",
+                "timeupdated": "1736186450"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e797518b01a5858a07640ce057d065097cf79bcba4cd29aa8dbeb47feed70bfc"
+    }
+}
