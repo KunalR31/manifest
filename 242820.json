@@ -1,0 +1,99 @@
+{
+    "appid": "242820",
+    "type": "Game",
+    "name": "140",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27123509",
+    "update_time": "2025-01-23 11:26:10",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "242822": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7957190820807887385",
+                    "size": "87429644",
+                    "download": "51333920"
+                },
+                "legacy": {
+                    "gid": "6828322016144723069",
+                    "size": "65472425",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1de3368a5eee089ea9bfcdead3f657e73b83c1d83705e4ff839d0cbf1b76a90b"
+        },
+        "242823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7657556678256796626",
+                    "size": "100216980",
+                    "download": "55021168"
+                },
+                "legacy": {
+                    "gid": "2273156248811158694",
+                    "size": "85081512",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "05f7221da577b7e9048ddad15af2960aadc3ef6e2a684594fa99c0ceaa0b8f23"
+        },
+        "242824": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7291867874929495131",
+                    "size": "124871641",
+                    "download": "64048800"
+                },
+                "legacy": {
+                    "gid": "6080019733135314035",
+                    "size": "72555980",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fdd0404414f05d7c8739a3939cf9a94b97dca3f60c25680853a843d6780af041"
+        },
+        "662290": {
+            "manifests": {
+                "public": {
+                    "gid": "2796270282193369964",
+                    "size": "553282508",
+                    "download": "558464624"
+                },
+                "legacy": {
+                    "gid": "2796270282193369964",
+                    "size": "553282508",
+                    "download": "558464624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4183311",
+                "timeupdated": "1568627663"
+            },
+            "legacy": {
+                "buildid": "1914053",
+                "description": "2015 version",
+                "timeupdated": "1498300875"
+            },
+            "local": {
+                "buildid": "101278",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
