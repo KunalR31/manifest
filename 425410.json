@@ -1,0 +1,72 @@
+{
+    "appid": "425410",
+    "type": "Game",
+    "name": "Road to Ballhalla",
+    "schinese_name": "波哈拉之路",
+    "isfreeapp": "0",
+    "change_number": "27184587",
+    "update_time": "2025-01-27 22:33:02",
+    "depot": {
+        "workshopdepot": "425410",
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "425413": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9079729290101899173",
+                    "size": "19",
+                    "download": "64"
+                },
+                "final2018build": {
+                    "gid": "9079729290101899173",
+                    "size": "19",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "425411": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1722769188107492084",
+                    "size": "504669022",
+                    "download": "194342128"
+                },
+                "final2018build": {
+                    "gid": "6688941496880217448",
+                    "size": "1007966503",
+                    "download": "394373968"
+                }
+            },
+            "decryptionkey": "1a47f1bffeac2a5a122a8f390ae5510950825f2d8d7579ce009761c09b895220"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13716784",
+                "timeupdated": "1710261577"
+            },
+            "final2018build": {
+                "buildid": "3045897",
+                "description": "build from Aug 19, 2018",
+                "timeupdated": "1707557913"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
