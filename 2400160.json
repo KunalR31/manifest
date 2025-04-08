@@ -1,0 +1,89 @@
+{
+    "appid": "2400160",
+    "type": "Game",
+    "name": "Glyphica: Typing Survival",
+    "schinese_name": "指尖疾速：打字狂潮",
+    "isfreeapp": "0",
+    "change_number": "28305325",
+    "update_time": "2025-04-04 17:20:38",
+    "depot": {
+        "2400161": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3145236521630170227",
+                    "size": "141289134",
+                    "download": "133020864"
+                },
+                "demo_test": {
+                    "gid": "7082400121264790897",
+                    "size": "82620663",
+                    "download": "74118720"
+                },
+                "mistype_bug": {
+                    "gid": "4364194849268558885",
+                    "size": "125687117",
+                    "download": "117251264"
+                },
+                "temporary": {
+                    "gid": "1020834875446150077",
+                    "size": "107393409",
+                    "download": "98824672"
+                }
+            },
+            "decryptionkey": "6f7a7948926c54ef401bd49c61a850798da9f1f1ec4ce4bc0f92379aa836327c"
+        },
+        "2400162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1229890384770592148",
+                    "size": "153506262",
+                    "download": "134358064"
+                },
+                "demo_test": {
+                    "gid": "2786582678930205952",
+                    "size": "88717757",
+                    "download": "69660000"
+                },
+                "mistype_bug": {
+                    "gid": "8778202458966149244",
+                    "size": "137866197",
+                    "download": "118579888"
+                },
+                "temporary": {
+                    "gid": "3187886273596564511",
+                    "size": "119662745",
+                    "download": "100174208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17982375",
+                "timeupdated": "1743758430"
+            },
+            "demo_test": {
+                "buildid": "15611210",
+                "description": "Testing branch for demo build",
+                "timeupdated": "1725593913"
+            },
+            "mistype_bug": {
+                "buildid": "16948706",
+                "description": "Branch with additional logging to track mistype bug.",
+                "timeupdated": "1736409371"
+            },
+            "temporary": {
+                "buildid": "16012985",
+                "description": "temporary branch for old saves",
+                "timeupdated": "1728668539"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
