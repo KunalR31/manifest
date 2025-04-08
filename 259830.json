@@ -1,0 +1,88 @@
+{
+    "appid": "259830",
+    "type": "Game",
+    "name": "Wooden Sen'SeY",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27164929",
+    "update_time": "2025-01-26 00:26:12",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,spanish,portuguese,polish,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "259831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4280270854523551987",
+                    "size": "510580973",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4010635660229779821",
+                    "size": "507666893",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "92982b36b628685f7ae3d08838dc4fcc06b5f0c7f4b5bcc85d5b5b6d5dcedf83"
+        },
+        "259832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "636376157555200141",
+                    "size": "519376791",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "259833": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4576804199673850126",
+                    "size": "549764189",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "273700": {
+            "manifests": {
+                "public": {
+                    "gid": "8042945438109807751",
+                    "size": "41565587",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "273700",
+            "decryptionkey": "e123ab3b030227aa48b12c73ecddc1feed8732b99f0eda8a122635f1bb9b3ded"
+        },
+        "branches": {
+            "public": {
+                "buildid": "231006"
+            },
+            "local": {
+                "buildid": "144545",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
