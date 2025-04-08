@@ -1,0 +1,53 @@
+{
+    "appid": "690810",
+    "type": "Game",
+    "name": "Killing Floor: Incursion",
+    "schinese_name": "杀戮空间：入侵",
+    "isfreeapp": "0",
+    "change_number": "25324128",
+    "update_time": "2024-09-21 04:56:46",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "690811": {
+            "manifests": {
+                "public": {
+                    "gid": "7361188750095180209",
+                    "size": "11412737523",
+                    "download": "5029445184"
+                },
+                "test": {
+                    "gid": "3372848999399188326",
+                    "size": "11179957183",
+                    "download": "4994564848"
+                }
+            },
+            "decryptionkey": "b55eab61cdb29891953e769bff5c89aa15dce76aaeae0462e799a87b1a1f6510"
+        },
+        "baselanguages": "english,german,koreana,spanish,schinese,russian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "5231321",
+                "timeupdated": "1593604955"
+            },
+            "test": {
+                "buildid": "2993819",
+                "description": "Public test branch",
+                "timeupdated": "1533069093"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
