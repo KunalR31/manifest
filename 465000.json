@@ -1,0 +1,78 @@
+{
+    "appid": "465000",
+    "type": "Game",
+    "name": "Event Horizon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27414673",
+    "update_time": "2025-02-11 14:33:24",
+    "depot": {
+        "baselanguages": "english,russian",
+        "465001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1470936334241297531",
+                    "size": "151465844",
+                    "download": "58200976"
+                },
+                "beta": {
+                    "gid": "1470936334241297531",
+                    "size": "151465844",
+                    "download": "58200976"
+                }
+            },
+            "decryptionkey": "f48306240029861f8d91dd83954ebcd6dff914c944f175d8f7945bb0a28b3f7e"
+        },
+        "465002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3592046764107016261",
+                    "size": "110724518",
+                    "download": "50217312"
+                },
+                "beta": {
+                    "gid": "3592046764107016261",
+                    "size": "110724518",
+                    "download": "50217312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "465003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3703966722226273696",
+                    "size": "182290186",
+                    "download": "59242016"
+                },
+                "beta": {
+                    "gid": "3703966722226273696",
+                    "size": "182290186",
+                    "download": "59242016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17225513",
+                "timeupdated": "1739255601"
+            },
+            "beta": {
+                "buildid": "17225513",
+                "description": "Beta version",
+                "timeupdated": "1738595443"
+            }
+        }
+    }
+}
