@@ -1,0 +1,60 @@
+{
+    "appid": "1569200",
+    "type": "Game",
+    "name": "Brewmaster: Beer Brewing Simulator",
+    "schinese_name": "Brewmaster 酿酒大师",
+    "isfreeapp": "0",
+    "change_number": "26781112",
+    "update_time": "2024-12-25 20:52:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1569201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1569202": {
+            "manifests": {
+                "public": {
+                    "gid": "3117398219657003357",
+                    "size": "3628471249",
+                    "download": "3190026816"
+                },
+                "modding": {
+                    "gid": "5846635957958540872",
+                    "size": "3628264633",
+                    "download": "3189827216"
+                }
+            },
+            "decryptionkey": "58c2c5f40fce13f50d78659e5bbe35b1f7ca80ef6230140aea17a59e7eef8835"
+        },
+        "workshopdepot": "1569200",
+        "branches": {
+            "public": {
+                "buildid": "10152972",
+                "timeupdated": "1671098246"
+            },
+            "modding": {
+                "buildid": "10097026",
+                "description": "Steam branch for the modding community",
+                "timeupdated": "1728980615"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "26e5d530eb707b0562a6293ee81e7d9b5a9551ba8ffa9d150d5b2e401183e46b"
+    }
+}
