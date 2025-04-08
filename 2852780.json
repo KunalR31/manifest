@@ -1,0 +1,82 @@
+{
+    "appid": "2852780",
+    "type": "Beta",
+    "name": "Mini Airways Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25240720",
+    "update_time": "2024-09-16 16:46:01",
+    "depot": {
+        "2852781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5786978945018261725",
+                    "size": "1051981432",
+                    "download": "889991296"
+                },
+                "mod_feat": {
+                    "gid": "5788797052212226195",
+                    "size": "741597394",
+                    "download": "660834656"
+                }
+            },
+            "decryptionkey": "6a8a196da80c9458e847dd8188ed442a8c26c9e7a09457da949d1fa4db5e0baf"
+        },
+        "2852782": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5078611817671459355",
+                    "size": "1172056705",
+                    "download": "911742080"
+                },
+                "mod_feat": {
+                    "gid": "8504072178042325130",
+                    "size": "764891149",
+                    "download": "668206800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2852783": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5858524772208138352",
+                    "size": "1096788262",
+                    "download": "891721232"
+                },
+                "mod_feat": {
+                    "gid": "1004573198768250199",
+                    "size": "744610310",
+                    "download": "659257056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2852780",
+        "branches": {
+            "public": {
+                "buildid": "15701621",
+                "timeupdated": "1726476354"
+            },
+            "mod_feat": {
+                "buildid": "14636970",
+                "description": "Mod",
+                "timeupdated": "1717751226"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f6fda93df27a3d890fe080e201374ba59fe975beff0c07187d8d7098deb0f3c0"
+    }
+}
