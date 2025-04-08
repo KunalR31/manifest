@@ -1,0 +1,103 @@
+{
+    "appid": "247240",
+    "type": "Game",
+    "name": "Volgarr the Viking",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 09:22:16",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "247241": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1449819860270498707",
+                    "size": "176689582",
+                    "download": "154334736"
+                },
+                "prev": {
+                    "gid": "841786866328134673",
+                    "size": "175510858",
+                    "download": "154054464"
+                },
+                "sdl": {
+                    "gid": "5997302530351817579",
+                    "size": "176267694",
+                    "download": "154205920"
+                }
+            },
+            "decryptionkey": "fb77f00415dbd332d7a59dac2cf5b4067ff866135914e4b56030a8551f5e26df"
+        },
+        "247242": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "87477116526794499",
+                    "size": "185429551",
+                    "download": "158572528"
+                },
+                "prev": {
+                    "gid": "1622064840501273073",
+                    "size": "185384044",
+                    "download": "158536224"
+                },
+                "sdl": {
+                    "gid": "4187015885127176580",
+                    "size": "186545903",
+                    "download": "158884896"
+                }
+            },
+            "decryptionkey": "952274a5ca546703bf7db93669fae33cbdee4c1b946f2a3d2b0b24613b4d5a7b"
+        },
+        "247243": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3275072570069967144",
+                    "size": "180866070",
+                    "download": "156572864"
+                },
+                "prev": {
+                    "gid": "3765744750251174211",
+                    "size": "178982429",
+                    "download": "156478000"
+                },
+                "sdl": {
+                    "gid": "3275072570069967144",
+                    "size": "180866070",
+                    "download": "156572864"
+                }
+            },
+            "decryptionkey": "23e764999f22b0a0d89b3ab43ebf51f7ce69e974a98080541b3f4cbc60906f84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9565774",
+                "timeupdated": "1665523152"
+            },
+            "prev": {
+                "buildid": "817735",
+                "description": "Previous version (1.35)",
+                "timeupdated": "1462812716"
+            },
+            "sdl": {
+                "buildid": "9566537",
+                "description": "SDL-based version",
+                "timeupdated": "1665523135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
