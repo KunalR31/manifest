@@ -1,0 +1,101 @@
+{
+    "appid": "416770",
+    "type": "Game",
+    "name": "SquareCells",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22618977",
+    "update_time": "2024-05-24 07:42:39",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "416771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6195267060234843925",
+                    "size": "62101598",
+                    "download": "31790768"
+                },
+                "beta": {
+                    "gid": "6195267060234843925",
+                    "size": "62101598",
+                    "download": "31790768"
+                },
+                "version1.0": {
+                    "gid": "8289997431906998396",
+                    "size": "58551633",
+                    "download": "31264240"
+                }
+            },
+            "decryptionkey": "c219d032ce8475630b4f3c47c1153f552bbbd7617686cfd713ec83a22d09cd9b"
+        },
+        "416772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8847123318824106213",
+                    "size": "99003610",
+                    "download": "41311696"
+                },
+                "beta": {
+                    "gid": "8847123318824106213",
+                    "size": "99003610",
+                    "download": "41311696"
+                },
+                "version1.0": {
+                    "gid": "8264088498700409064",
+                    "size": "68558842",
+                    "download": "32706528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "416773": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4155101642585998728",
+                    "size": "71448124",
+                    "download": "33969408"
+                },
+                "beta": {
+                    "gid": "4155101642585998728",
+                    "size": "71448124",
+                    "download": "33969408"
+                },
+                "version1.0": {
+                    "gid": "5417609777351338348",
+                    "size": "66056566",
+                    "download": "33356480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4365372",
+                "timeupdated": "1573130825"
+            },
+            "beta": {
+                "buildid": "4365372",
+                "description": "Test Builds",
+                "timeupdated": "1573120067"
+            },
+            "version1.0": {
+                "buildid": "889716"
+            }
+        }
+    }
+}
