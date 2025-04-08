@@ -1,0 +1,58 @@
+{
+    "appid": "813630",
+    "type": "Game",
+    "name": "Supraland",
+    "schinese_name": "苏普拉兰",
+    "isfreeapp": "0",
+    "change_number": "27338521",
+    "update_time": "2025-02-06 12:17:25",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "813631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9212459335295608660",
+                    "size": "4441076377",
+                    "download": "4323509120"
+                },
+                "testing": {
+                    "gid": "6481040544599488446",
+                    "size": "4317235853",
+                    "download": "4189822416"
+                }
+            },
+            "decryptionkey": "58f782b2875327edd8542dd2c34a3e1004cbf5c26e4cdf81310ffa3186ebc505"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8759713",
+                "timeupdated": "1655164473"
+            },
+            "testing": {
+                "buildid": "11620024",
+                "description": "Public testing for next version to be released.",
+                "timeupdated": "1688453486"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
