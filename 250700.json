@@ -1,0 +1,96 @@
+{
+    "appid": "250700",
+    "type": "Game",
+    "name": "Super Time Force Ultra",
+    "schinese_name": "超时空战队：终极版",
+    "isfreeapp": "0",
+    "change_number": "27122887",
+    "update_time": "2025-01-23 10:27:25",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250701": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6981887396108959890",
+                    "size": "659370233",
+                    "download": "653486928"
+                },
+                "public_beta": {
+                    "gid": "8582078983468631722",
+                    "size": "659377911",
+                    "download": "653490304"
+                }
+            },
+            "decryptionkey": "8846b1cf8f4b40f8d38498d503fcd18574c7a503204fab7a9cc37375835d73d1"
+        },
+        "250702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "432099991782039876",
+                    "size": "665546740",
+                    "download": "660566272"
+                },
+                "public_beta": {
+                    "gid": "432099991782039876",
+                    "size": "665546740",
+                    "download": "660566272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "250703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8420179514058973150",
+                    "size": "672241165",
+                    "download": "662534864"
+                },
+                "public_beta": {
+                    "gid": "8420179514058973150",
+                    "size": "672241165",
+                    "download": "662534864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "250700",
+        "branches": {
+            "public": {
+                "buildid": "1327151",
+                "timeupdated": "1473438443"
+            },
+            "public_beta": {
+                "buildid": "1651952",
+                "description": "Beta used for rapid support.",
+                "timeupdated": "1487872432"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
