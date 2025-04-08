@@ -1,0 +1,86 @@
+{
+    "appid": "830370",
+    "type": "Game",
+    "name": "Monster Crown",
+    "schinese_name": "怪物皇冠",
+    "isfreeapp": "0",
+    "change_number": "27980481",
+    "update_time": "2025-03-16 19:55:13",
+    "depot": {
+        "baselanguages": "english",
+        "830372": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "830371": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4678351286031663251",
+                    "size": "2075844760",
+                    "download": "489585184"
+                },
+                "ea-beta": {
+                    "gid": "4211207537887978689",
+                    "size": "2076206234",
+                    "download": "489980688"
+                }
+            },
+            "decryptionkey": "1e0aebf0b8761fe184a13688031f180573c4e4c753c7f562841931d0be598859"
+        },
+        "830374": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5193816151136402170",
+                    "size": "2073479948",
+                    "download": "488594288"
+                },
+                "ea-beta": {
+                    "gid": "7849458436432940483",
+                    "size": "2073465954",
+                    "download": "488592528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "830373": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8587552956376916118",
+                    "size": "4076808458",
+                    "download": "490087968"
+                },
+                "ea-beta": {
+                    "gid": "7040767848979840857",
+                    "size": "2075162488",
+                    "download": "490034144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16275945",
+                "timeupdated": "1730575115"
+            },
+            "ea-beta": {
+                "buildid": "16165809",
+                "timeupdated": "1729801578"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
