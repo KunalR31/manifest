@@ -1,0 +1,65 @@
+{
+    "appid": "253290",
+    "type": "Game",
+    "name": "FOTONICA",
+    "schinese_name": "几何跑酷",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 11:04:49",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "253291": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8549120958433653355",
+                    "size": "274346613",
+                    "download": "17241617384"
+                }
+            },
+            "decryptionkey": "a314613da8ab1d3b72b14f2d9d5f28845fd3bd8a475c634a2dec2afd1facf5b8"
+        },
+        "253292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "716292112363842883",
+                    "size": "282393078",
+                    "download": "28202465715"
+                }
+            },
+            "decryptionkey": "cff40484ec12ab2b67a2dacb8351cc81ccb49069bbb7854f333e150865876102"
+        },
+        "253293": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "58497633663017688",
+                    "size": "278230889",
+                    "download": "22707353702"
+                }
+            },
+            "decryptionkey": "48e5cdbcc8dca44b32361182f75aeb571e2d1f5af7700197e3748168d769e611"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "434121"
+            }
+        }
+    }
+}
