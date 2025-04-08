@@ -1,0 +1,67 @@
+{
+    "appid": "1771130",
+    "type": "Game",
+    "name": "OPEN DOOR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27274630",
+    "update_time": "2025-02-02 13:36:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,turkish",
+        "hasdepotsindlc": "0",
+        "1771131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3400822148221095447",
+                    "size": "10795832892",
+                    "download": "4662030032"
+                },
+                "test": {
+                    "gid": "3400822148221095447",
+                    "size": "10795832892",
+                    "download": "4662030032"
+                },
+                "test2": {
+                    "gid": "3400822148221095447",
+                    "size": "10795832892",
+                    "download": "4662030032"
+                }
+            },
+            "decryptionkey": "a51b0fbf51aa8990d0fff0c57f234211c4e21a391ad24dd9190aad690b8b260a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10844597",
+                "timeupdated": "1684304261"
+            },
+            "test": {
+                "buildid": "10844597",
+                "description": "test",
+                "timeupdated": "1684304432"
+            },
+            "test2": {
+                "buildid": "10844597",
+                "description": "test2",
+                "timeupdated": "1684304441"
+            }
+        }
+    }
+}
