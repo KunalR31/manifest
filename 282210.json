@@ -1,0 +1,53 @@
+{
+    "appid": "282210",
+    "type": "Game",
+    "name": "Sid Meier's Starships",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27372237",
+    "update_time": "2025-02-08 06:49:27",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish",
+        "282211": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3502331684326777087",
+                    "size": "703704509",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4bc768a4b99952d7c933acf0358b80376fcbe69dc8fe4e46c5c0d7ca78332f9b"
+        },
+        "282212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2648687862074274173",
+                    "size": "668999069",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0340b6e0d8ab3082d7b2ceb7ba926e6c981801016c7e124d050421917df0ff03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "595483"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
