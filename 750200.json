@@ -1,0 +1,59 @@
+{
+    "appid": "750200",
+    "type": "Game",
+    "name": "AWAY: The Survival Series",
+    "schinese_name": "远离：生存系列",
+    "isfreeapp": "0",
+    "change_number": "27524937",
+    "update_time": "2025-02-18 07:51:54",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "750202": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3635868318833244941",
+                    "size": "14238443806",
+                    "download": "13137933904"
+                },
+                "handheld-tests": {
+                    "gid": "5299986100293573291",
+                    "size": "13961343629",
+                    "download": "12903409072"
+                }
+            },
+            "decryptionkey": "d47f517e903365263b24ec1adb4aabd464545d307597cb1a7aaa15d7153c5f94"
+        },
+        "750203": {},
+        "branches": {
+            "public": {
+                "buildid": "12754235",
+                "timeupdated": "1700598142"
+            },
+            "handheld-tests": {
+                "buildid": "9283149",
+                "description": "WIP configuration changes to support handheld consoles",
+                "timeupdated": "1660071599"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
