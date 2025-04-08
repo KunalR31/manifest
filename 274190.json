@@ -1,0 +1,183 @@
+{
+    "appid": "274190",
+    "type": "Game",
+    "name": "Broforce",
+    "schinese_name": "武装原型",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:26:51",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,portuguese,brazilian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "274191": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7370563841668439350",
+                    "size": "549145899",
+                    "download": "414924256"
+                },
+                "2018": {
+                    "gid": "2565957352417162654",
+                    "size": "1364247685",
+                    "download": "367012432"
+                },
+                "beta": {
+                    "gid": "4447073308563561771",
+                    "size": "1393896786",
+                    "download": "327413328"
+                },
+                "linuxmorestable": {
+                    "gid": "898283936272762774",
+                    "size": "1330291480",
+                    "download": "298283808"
+                },
+                "proc_gen_experimental": {
+                    "gid": "9051031843100133423",
+                    "size": "453125772",
+                    "download": "352903408"
+                }
+            },
+            "decryptionkey": "995563ca038cedb11588f1581c6227e191f0d933b321007dfb5af38b067a22e1"
+        },
+        "274192": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6287900867923783365",
+                    "size": "538419627",
+                    "download": "412572448"
+                },
+                "2018": {
+                    "gid": "2067939326529067014",
+                    "size": "1409580709",
+                    "download": "377894304"
+                },
+                "beta": {
+                    "gid": "1872481904705428164",
+                    "size": "1436653188",
+                    "download": "338066832"
+                },
+                "linuxmorestable": {
+                    "gid": "1557550311389314897",
+                    "size": "1358982356",
+                    "download": "307107120"
+                },
+                "proc_gen_experimental": {
+                    "gid": "4991727235208884955",
+                    "size": "490244177",
+                    "download": "381357280"
+                }
+            },
+            "decryptionkey": "1a1b429b34e032df4bfd32b4489004894fc2ab7eacc81668cb68e8d10b14880b"
+        },
+        "408720": {
+            "dlcappid": "408720",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "783117458419090460",
+                    "size": "0",
+                    "download": "0"
+                },
+                "2018": {
+                    "gid": "783117458419090460",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "783117458419090460",
+                    "size": "0",
+                    "download": "0"
+                },
+                "linuxmorestable": {
+                    "gid": "125930340494487614",
+                    "size": "29929569",
+                    "download": "28032624"
+                },
+                "proc_gen_experimental": {
+                    "gid": "783117458419090460",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "274193": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "483845359829962807",
+                    "size": "571899614",
+                    "download": "423920624"
+                },
+                "2018": {
+                    "gid": "1940356657808094006",
+                    "size": "1403280119",
+                    "download": "378147792"
+                },
+                "beta": {
+                    "gid": "6842152258431074357",
+                    "size": "1432518951",
+                    "download": "336959248"
+                },
+                "linuxmorestable": {
+                    "gid": "4470254582360781824",
+                    "size": "1363384441",
+                    "download": "306203824"
+                },
+                "proc_gen_experimental": {
+                    "gid": "2901591851225615021",
+                    "size": "524811938",
+                    "download": "393693472"
+                }
+            },
+            "decryptionkey": "d94cef3f8dc9e61a38bc357b20890a0548992043d21eda4ab356f30e297ae46c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12964083",
+                "timeupdated": "1703157190"
+            },
+            "2018": {
+                "buildid": "2775457",
+                "timeupdated": "1548081963"
+            },
+            "beta": {
+                "buildid": "1870405",
+                "description": "public beta build",
+                "timeupdated": "1565273189"
+            },
+            "linuxmorestable": {
+                "buildid": "891479",
+                "timeupdated": "1464776841"
+            },
+            "proc_gen_experimental": {
+                "buildid": "4087242",
+                "timeupdated": "1565276600"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
