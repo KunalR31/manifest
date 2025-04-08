@@ -1,0 +1,80 @@
+{
+    "appid": "255870",
+    "type": "Game",
+    "name": "PixelJunk™ Shooter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27321645",
+    "update_time": "2025-02-05 16:14:02",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "255871": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "345927042848564350",
+                    "size": "283487013",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4765460454572855412",
+                    "size": "282923636",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e82302702ad0056d47bc67e8efdef49d9658ec6928e7bfdcee0edbf82fd80d93"
+        },
+        "255872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4018387637181103577",
+                    "size": "274618074",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5035175152634034132",
+                    "size": "274618112",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4b63294024a0007cd0444f1eb9aff882bc1b3f41f57603be62a9e908525f9341"
+        },
+        "255873": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3858467501625988533",
+                    "size": "282455599",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8423153830370330831",
+                    "size": "282455637",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6f6a66a547b045e13d964a03f0e228c88804b17599c6c862810976aeddda75ff"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "branches": {
+            "public": {
+                "buildid": "143657"
+            },
+            "local": {
+                "buildid": "145622",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
