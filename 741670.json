@@ -1,0 +1,79 @@
+{
+    "appid": "741670",
+    "type": "Game",
+    "name": "Easy Red",
+    "schinese_name": "易红",
+    "isfreeapp": "0",
+    "change_number": "23891151",
+    "update_time": "2024-12-12 09:01:52",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "741670",
+        "741671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5960822026774326497",
+                    "size": "642617798",
+                    "download": "253005824"
+                },
+                "fixupdate": {
+                    "gid": "6036955885050355684",
+                    "size": "620266734",
+                    "download": "249082080"
+                }
+            },
+            "decryptionkey": "d0e640144590d1637f442353c887d83e81d3ff3e3e1ca0cb5245c1b6b66ef9f6"
+        },
+        "741672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "444244531473017758",
+                    "size": "666791456",
+                    "download": "263405952"
+                },
+                "fixupdate": {
+                    "gid": "5799643412881203502",
+                    "size": "644450399",
+                    "download": "259469904"
+                }
+            },
+            "decryptionkey": "9378ba3b9618aae490a032f9976ad6f1eda2e7c5c12ee2b94cea29ce8872a459"
+        },
+        "741673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2868927216478414764",
+                    "size": "673908055",
+                    "download": "271101856"
+                },
+                "fixupdate": {
+                    "gid": "7525761756586577094",
+                    "size": "692742801",
+                    "download": "280148016"
+                }
+            },
+            "decryptionkey": "082883d20ae1d5eda2cca4c25a2688af55dace5b5f847f29f491c56b08d6b409"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2511396",
+                "timeupdated": "1613929567"
+            },
+            "fixupdate": {
+                "buildid": "2790808",
+                "description": "BETA",
+                "timeupdated": "1613929601"
+            }
+        },
+        "workshopdepotdecryptionkey": "f170b4277c019dcfc54b44ab19a3b06643812c51e99421a8f42182dd9f1e56a8"
+    }
+}
