@@ -1,0 +1,48 @@
+{
+    "appid": "648800",
+    "type": "Game",
+    "name": "Raft",
+    "schinese_name": "木筏求生",
+    "isfreeapp": "0",
+    "change_number": "27446428",
+    "update_time": "2025-02-13 04:15:57",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "648801": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "577422474383592005",
+                    "size": "7116122279",
+                    "download": "2100173680"
+                },
+                "beta": {
+                    "gid": "1750927420878358735",
+                    "size": "7792822558",
+                    "download": "2225774544"
+                }
+            },
+            "decryptionkey": "69b674ffb72cbe77ce081b29070056279accc29956cad5d38d31e0d3e2090632"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10199006",
+                "timeupdated": "1671713087"
+            },
+            "beta": {
+                "buildid": "16761548",
+                "description": "beta",
+                "timeupdated": "1734368432"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
