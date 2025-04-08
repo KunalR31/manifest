@@ -1,0 +1,129 @@
+{
+    "appid": "286160",
+    "type": "Game",
+    "name": "Tabletop Simulator",
+    "schinese_name": "桌游模拟器",
+    "isfreeapp": "0",
+    "change_number": "28339617",
+    "update_time": "2025-04-07 13:10:18",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "286161": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1722066204200192106",
+                    "size": "2969597533",
+                    "download": "1158215120"
+                },
+                "public_beta": {
+                    "gid": "1722066204200192106",
+                    "size": "2969597533",
+                    "download": "1158215120"
+                }
+            },
+            "decryptionkey": "44c1a2d71883ae73e086c3a9635ce91ce552c7f967b577cdfe7a371fbbe5a454"
+        },
+        "286164": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8329441041205144090",
+                    "size": "2941146625",
+                    "download": "1138210928"
+                },
+                "public_beta": {
+                    "gid": "8329441041205144090",
+                    "size": "2941146625",
+                    "download": "1138210928"
+                }
+            },
+            "decryptionkey": "384bd8817c99571c89493aff2c944cdabfa94c61e03b976afc07ca9d3aafa3c6"
+        },
+        "286162": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1131220859142294814",
+                    "size": "2934060010",
+                    "download": "1138869936"
+                },
+                "public_beta": {
+                    "gid": "1131220859142294814",
+                    "size": "2934060010",
+                    "download": "1138869936"
+                }
+            },
+            "decryptionkey": "1a643eb767c6bf74e7a80ce613d74244d133e1c53607e20d44ce9ca75740776b"
+        },
+        "286163": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8052780359676064230",
+                    "size": "3762437355",
+                    "download": "1290571520"
+                },
+                "public_beta": {
+                    "gid": "8052780359676064230",
+                    "size": "3762437355",
+                    "download": "1290571520"
+                }
+            },
+            "decryptionkey": "cc860200bf120e6acf8e7b8ae107bf5c80a427cb0ef48911a954af6ac9593e0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15092525",
+                "timeupdated": "1721412764"
+            },
+            "public_beta": {
+                "buildid": "15092525",
+                "description": "Public beta branch",
+                "timeupdated": "1721412667"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
