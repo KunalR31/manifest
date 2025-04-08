@@ -1,0 +1,74 @@
+{
+    "appid": "496040",
+    "type": "Game",
+    "name": "Shaq Fu: A Legend Reborn",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26023724",
+    "update_time": "2024-11-03 10:08:00",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,brazilian",
+        "hasdepotsindlc": "1",
+        "496041": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "496042": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1676239779099659426",
+                    "size": "3792512636",
+                    "download": "2291484624"
+                },
+                "-qa-": {
+                    "gid": "1676239779099659426",
+                    "size": "3792512636",
+                    "download": "2291484624"
+                }
+            },
+            "decryptionkey": "ff1c1bfbf84ea5b89ed041aed1cd1a2f1907152a6f934f1f255a3d587aa6b2fa"
+        },
+        "646810": {
+            "dlcappid": "646810",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "319871967005785736",
+                    "size": "5900708082",
+                    "download": "3264289472"
+                },
+                "-qa-": {
+                    "gid": "319871967005785736",
+                    "size": "5900708082",
+                    "download": "3264289472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2560659",
+                "timeupdated": "1519742412"
+            },
+            "-qa-": {
+                "buildid": "2560659",
+                "timeupdated": "1519741145"
+            }
+        }
+    }
+}
