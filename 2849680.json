@@ -1,0 +1,96 @@
+{
+    "appid": "2849680",
+    "type": "Game",
+    "name": "Utopia Must Fall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27525870",
+    "update_time": "2025-02-18 09:16:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2849681": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "533524706283688898",
+                    "size": "314591447",
+                    "download": "136623680"
+                },
+                "beta": {
+                    "gid": "533524706283688898",
+                    "size": "314591447",
+                    "download": "136623680"
+                },
+                "experimental": {
+                    "gid": "856319565012595053",
+                    "size": "287526163",
+                    "download": "112402288"
+                },
+                "intel_mac": {
+                    "gid": "8124043454766932707",
+                    "size": "322129694",
+                    "download": "146574080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2849682": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6623398348157547914",
+                    "size": "345765457",
+                    "download": "152186384"
+                },
+                "beta": {
+                    "gid": "6623398348157547914",
+                    "size": "345765457",
+                    "download": "152186384"
+                },
+                "experimental": {
+                    "gid": "4537864760663296667",
+                    "size": "318723475",
+                    "download": "127969776"
+                },
+                "intel_mac": {
+                    "gid": "6623398348157547914",
+                    "size": "345765457",
+                    "download": "152186384"
+                }
+            },
+            "decryptionkey": "04eb002fd372794240aea910d074b4fa5053ffa017edc9d8d8bc5b5237e32434"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17186631",
+                "timeupdated": "1738342922"
+            },
+            "beta": {
+                "buildid": "17186631",
+                "description": "testing branch",
+                "timeupdated": "1738252143"
+            },
+            "experimental": {
+                "buildid": "16506919",
+                "description": "super top secret",
+                "timeupdated": "1732322021"
+            },
+            "intel_mac": {
+                "buildid": "17397320",
+                "description": "Builds for Intel Mac Users",
+                "timeupdated": "1739818051"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
