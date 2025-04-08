@@ -1,0 +1,147 @@
+{
+    "appid": "269250",
+    "type": "Game",
+    "name": "WORLD END ECONOMiCA episode.01",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28090394",
+    "update_time": "2025-03-23 04:13:49",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269251": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7093483011573289095",
+                    "size": "1481965442",
+                    "download": "357518448"
+                },
+                "renpy_old": {
+                    "gid": "8389994572795815720",
+                    "size": "552489042",
+                    "download": "10720221648"
+                },
+                "revert": {
+                    "gid": "8389994572795815720",
+                    "size": "552489042",
+                    "download": "10720221648"
+                }
+            },
+            "decryptionkey": "21f5d1961855024ee5c187cc298276a3cab34d004c22eca8894e1205076323a2"
+        },
+        "269252": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "renpy_old": {
+                    "gid": "2581791294033350967",
+                    "size": "543567681",
+                    "download": "448008528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "269253": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4082310520892929000",
+                    "size": "1481887136",
+                    "download": "356683104"
+                },
+                "revert": {
+                    "gid": "2732574366253137704",
+                    "size": "933324221",
+                    "download": "342065744"
+                }
+            },
+            "decryptionkey": "a16aacb161b1f02bdae31cfc830633e4b49547674150e32fcbc0bf6b42d0f39f"
+        },
+        "269254": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "392312062561863085",
+                    "size": "948335768",
+                    "download": "346316016"
+                },
+                "revert": {
+                    "gid": "392312062561863085",
+                    "size": "948335768",
+                    "download": "346316016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "269255": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5714644665102557655",
+                    "size": "1026104460",
+                    "download": "394873760"
+                },
+                "revert": {
+                    "gid": "5714644665102557655",
+                    "size": "1026104460",
+                    "download": "394873760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2209110": {
+            "dlcappid": "2209110",
+            "manifests": {
+                "public": {
+                    "gid": "8519243732796047178",
+                    "size": "100964247",
+                    "download": "98197440"
+                },
+                "revert": {
+                    "gid": "8519243732796047178",
+                    "size": "100964247",
+                    "download": "98197440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11711096",
+                "timeupdated": "1720636312"
+            },
+            "renpy_old": {
+                "buildid": "2273840",
+                "timeupdated": "1521228983"
+            },
+            "revert": {
+                "buildid": "9913178",
+                "description": "revert before french version",
+                "timeupdated": "1720636232"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
