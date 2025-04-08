@@ -1,0 +1,82 @@
+{
+    "appid": "268770",
+    "type": "Game",
+    "name": "Treasure Adventure World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27110810",
+    "update_time": "2025-01-22 19:26:41",
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "0",
+        "baselanguages": "english,german,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "268771": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4534185914176824281",
+                    "size": "1335390485",
+                    "download": "759485552"
+                }
+            },
+            "decryptionkey": "b99bbcb062068388d0c1f6050542e45522500c2a169618cc8c76ffe247d48bfa"
+        },
+        "785080": {
+            "dlcappid": "785080",
+            "manifests": {
+                "public": {
+                    "gid": "3668554686859787287",
+                    "size": "1299143847",
+                    "download": "1314658992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "268772": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5785262020506164274",
+                    "size": "1328526366",
+                    "download": "762257280"
+                }
+            },
+            "decryptionkey": "d6091cf4d4570926bb0a711d56629e54aed24f772ee043c314f334053a3d191c"
+        },
+        "268773": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3354492540478762374",
+                    "size": "1327427543",
+                    "download": "761153440"
+                }
+            },
+            "decryptionkey": "29fde36bfa96f9c0c2e84aad25c5adfc71b6fa23c1d2b8c7f1cafc575ca65060"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6343885",
+                "timeupdated": "1616167416"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
