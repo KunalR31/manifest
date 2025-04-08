@@ -1,0 +1,68 @@
+{
+    "appid": "217100",
+    "type": "Game",
+    "name": "Dementium II HD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26657161",
+    "update_time": "2024-12-16 16:04:55",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "217101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7460370792665992971",
+                    "size": "3508303994",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7581299613487637825",
+                    "size": "3610277062",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0ca67e4d028a7f0591ba1b4b60bac0ba80d916444bb00c316689b394d2ee997f"
+        },
+        "217102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "5555317524211378365",
+                    "size": "3499617006",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "165591"
+            },
+            "beta": {
+                "buildid": "271128",
+                "description": "Le beta"
+            }
+        }
+    }
+}
