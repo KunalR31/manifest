@@ -1,0 +1,102 @@
+{
+    "appid": "341490",
+    "type": "Game",
+    "name": "Undead Legions II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24769404",
+    "update_time": "2024-08-14 00:12:06",
+    "depot": {
+        "workshopdepot": "341490",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "341491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7858844902798907083",
+                    "size": "206948529",
+                    "download": "165847200"
+                },
+                "beta": {
+                    "gid": "1864968394245936195",
+                    "size": "166865581",
+                    "download": "139503424"
+                },
+                "develop": {
+                    "gid": "7858844902798907083",
+                    "size": "206948529",
+                    "download": "165847200"
+                },
+                "ea01": {
+                    "gid": "7830833740001401681",
+                    "size": "182173231",
+                    "download": "149504000"
+                },
+                "ea02": {
+                    "gid": "3325677716023464675",
+                    "size": "204248275",
+                    "download": "163874736"
+                },
+                "halloween2018": {
+                    "gid": "7858844902798907083",
+                    "size": "206948529",
+                    "download": "165847200"
+                },
+                "monogl": {
+                    "gid": "5709225381826173631",
+                    "size": "390244352",
+                    "download": "140925760"
+                }
+            },
+            "decryptionkey": "3ad1c42e51eb7a97ae60a860ee65e8dbd304cc932a211c222feb230b874fb60a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3254961",
+                "timeupdated": "1540756255"
+            },
+            "beta": {
+                "buildid": "1774596",
+                "timeupdated": "1530797855"
+            },
+            "develop": {
+                "buildid": "3254961",
+                "description": "latest dev release",
+                "timeupdated": "1540756223"
+            },
+            "ea01": {
+                "buildid": "2985477",
+                "timeupdated": "1534411422"
+            },
+            "ea02": {
+                "buildid": "3204720",
+                "timeupdated": "1539287129"
+            },
+            "halloween2018": {
+                "buildid": "3254961",
+                "timeupdated": "1540752515"
+            },
+            "monogl": {
+                "buildid": "1689400",
+                "timeupdated": "1489486799"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
