@@ -1,0 +1,85 @@
+{
+    "appid": "2189860",
+    "type": "Game",
+    "name": "Outer Terror",
+    "schinese_name": "午夜幸存者",
+    "isfreeapp": "0",
+    "change_number": "24116314",
+    "update_time": "2024-06-26 05:10:21",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "2189861": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "896885330942226197",
+                    "size": "719859278",
+                    "download": "542973168"
+                },
+                "deck": {
+                    "gid": "5175519118732063850",
+                    "size": "870374657",
+                    "download": "639987936"
+                },
+                "gsot": {
+                    "gid": "5175519118732063850",
+                    "size": "870374657",
+                    "download": "639987936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2189862": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3265665964256381408",
+                    "size": "969015099",
+                    "download": "749631232"
+                },
+                "deck": {
+                    "gid": "3265665964256381408",
+                    "size": "969015099",
+                    "download": "749631232"
+                },
+                "gsot": {
+                    "gid": "3974136593986178153",
+                    "size": "967046392",
+                    "download": "749182688"
+                }
+            },
+            "decryptionkey": "167c5cc69c94faa17d69cfe16e7877426cb935eb4fbf8418149a2465fdae65fa"
+        },
+        "2189863": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14059700",
+                "timeupdated": "1713203658"
+            },
+            "deck": {
+                "buildid": "11945451",
+                "description": "Steam Deck Version",
+                "timeupdated": "1713215917"
+            },
+            "gsot": {
+                "buildid": "11945228",
+                "description": "GamerSky Branch",
+                "timeupdated": "1692098497"
+            }
+        }
+    }
+}
