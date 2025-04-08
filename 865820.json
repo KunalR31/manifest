@@ -1,0 +1,89 @@
+{
+    "appid": "865820",
+    "type": "Game",
+    "name": "Psychedelica of the Black Butterfly",
+    "schinese_name": "黑蝶幻境",
+    "isfreeapp": "0",
+    "change_number": "28299212",
+    "update_time": "2025-04-04 08:10:31",
+    "depot": {
+        "baselanguages": "english,koreana,tchinese",
+        "hasdepotsindlc": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "865821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7928506661334238340",
+                    "size": "3879815288",
+                    "download": "3256467952"
+                }
+            },
+            "decryptionkey": "50a055811f53ec83fce79c1955756d9738ece74cb38d1d3bfe16520edd4a6899"
+        },
+        "967150": {
+            "dlcappid": "967150",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8955996606143702928",
+                    "size": "94035575",
+                    "download": "93318144"
+                }
+            },
+            "decryptionkey": "bd21a3772529cae7bfe18979bd0f4e69cf4e5df9766578c42089a3b01630cbac"
+        },
+        "865822": {
+            "config": {
+                "language": "koreana"
+            },
+            "dlcappid": "967150",
+            "manifests": {
+                "public": {
+                    "gid": "2526882549392869951",
+                    "size": "107399608",
+                    "download": "106592832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "865823": {
+            "dlcappid": "967150",
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5153367900110643942",
+                    "size": "83486976",
+                    "download": "82348992"
+                }
+            },
+            "decryptionkey": "b22512f03d95beb738dff8170171c1bf6b1737e58839dce07b6d186cb3294c27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3897095",
+                "timeupdated": "1560243839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
