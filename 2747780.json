@@ -1,0 +1,61 @@
+{
+    "appid": "2747780",
+    "type": "Game",
+    "name": "Dishwashing Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28024226",
+    "update_time": "2025-03-19 09:20:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2747781": {
+            "manifests": {
+                "public": {
+                    "gid": "6396809203833138302",
+                    "size": "711346397",
+                    "download": "486688704"
+                },
+                "experimental": {
+                    "gid": "6396809203833138302",
+                    "size": "711346397",
+                    "download": "486688704"
+                },
+                "previous_update": {
+                    "gid": "4895843948256788359",
+                    "size": "711400591",
+                    "download": "486736112"
+                }
+            },
+            "decryptionkey": "ac1b8302eac31e44339feed6db4d30900b551714465d0e1cd56146cfb55d3506"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14908411",
+                "timeupdated": "1719975753"
+            },
+            "experimental": {
+                "buildid": "14908411",
+                "description": "newest, wip changes, not recommended for most players",
+                "timeupdated": "1719934427"
+            },
+            "previous_update": {
+                "buildid": "14019362",
+                "description": "the version before this, incase the current update has issues.",
+                "timeupdated": "1719934438"
+            }
+        }
+    }
+}
