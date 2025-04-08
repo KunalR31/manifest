@@ -1,0 +1,70 @@
+{
+    "appid": "2750000",
+    "type": "Game",
+    "name": "Microtopia",
+    "schinese_name": "蚁托邦",
+    "isfreeapp": "0",
+    "change_number": "28293969",
+    "update_time": "2025-04-04 01:28:52",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,schinese,russian,japanese,polish,dutch",
+        "2750001": {
+            "manifests": {
+                "public": {
+                    "gid": "1810040765480419434",
+                    "size": "2154838041",
+                    "download": "1900678896"
+                },
+                "experimental": {
+                    "gid": "5967076050905144685",
+                    "size": "2156328019",
+                    "download": "1900258736"
+                },
+                "unstuck": {
+                    "gid": "7382033358947417454",
+                    "size": "2156920712",
+                    "download": "1900321904"
+                }
+            },
+            "decryptionkey": "db56ace1aeb88aaf504ff834349d568e0aece66bea377f2b39b17b38c31755ac"
+        },
+        "3509030": {
+            "dlcappid": "3509030",
+            "manifests": {
+                "public": {
+                    "gid": "3026474822952349493",
+                    "size": "1002744187",
+                    "download": "898787872"
+                },
+                "experimental": {
+                    "gid": "3026474822952349493",
+                    "size": "1002744187",
+                    "download": "898787872"
+                },
+                "unstuck": {
+                    "gid": "3026474822952349493",
+                    "size": "1002744187",
+                    "download": "898787872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17953427",
+                "timeupdated": "1743606407"
+            },
+            "experimental": {
+                "buildid": "17782466",
+                "description": "Public branch with the newest update",
+                "timeupdated": "1742399391"
+            },
+            "unstuck": {
+                "buildid": "17782227",
+                "description": "Branch to investigate initialization failure",
+                "timeupdated": "1742398339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
