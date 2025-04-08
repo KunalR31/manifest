@@ -1,0 +1,169 @@
+{
+    "appid": "896660",
+    "type": "Tool",
+    "name": "Valheim Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28344364",
+    "update_time": "2025-04-07 19:14:30",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "896661": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "18007466826975597",
+                    "size": "1627054796",
+                    "download": "1355702880"
+                },
+                "default_preml": {
+                    "gid": "8268016382865288156",
+                    "size": "1244390550",
+                    "download": "635138656"
+                },
+                "default_old": {
+                    "gid": "7407372182916713721",
+                    "size": "1627019646",
+                    "download": "1355387264"
+                },
+                "default_preal": {
+                    "gid": "8203628659808204648",
+                    "size": "1809855230",
+                    "download": "927109888"
+                },
+                "default_prebw": {
+                    "gid": "5232590648025261110",
+                    "size": "2296358615",
+                    "download": "1213593152"
+                }
+            },
+            "decryptionkey": "3fceadfc3b43eeb8b99b6252e097ae76be634b44da5de93e24e728744ab2d32f"
+        },
+        "896662": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1334377175072024333",
+                    "size": "1545085282",
+                    "download": "1340994016"
+                },
+                "default_preml": {
+                    "gid": "8025727395264739055",
+                    "size": "1129626358",
+                    "download": "618615808"
+                },
+                "default_old": {
+                    "gid": "6603563962508105461",
+                    "size": "1545127038",
+                    "download": "1341080432"
+                },
+                "default_preal": {
+                    "gid": "416667775235426463",
+                    "size": "1728346932",
+                    "download": "911692128"
+                },
+                "default_prebw": {
+                    "gid": "2423916160288814696",
+                    "size": "2214279276",
+                    "download": "1197179520"
+                }
+            },
+            "decryptionkey": "bfd072165d1948338279d6dbbb59f3eba8db112e9249311822ba40ba69593754"
+        },
+        "896663": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5373306441100025175",
+                    "size": "1593797953",
+                    "download": "1333847296"
+                },
+                "default_old": {
+                    "gid": "1034138370533457220",
+                    "size": "1593768723",
+                    "download": "1333716224"
+                },
+                "default_prebw": {
+                    "gid": "2654660168985793234",
+                    "size": "2992056594",
+                    "download": "1515050912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17878727",
+                "timeupdated": "1743491274"
+            },
+            "default_preml": {
+                "buildid": "9792153",
+                "description": "Last stable build before Mistlands",
+                "timeupdated": "1671524488"
+            },
+            "default_old": {
+                "buildid": "17706734",
+                "description": "Previous stable",
+                "timeupdated": "1743491084"
+            },
+            "default_preal": {
+                "buildid": "13920847",
+                "description": "Last stable build before Ashlands",
+                "timeupdated": "1715683928"
+            },
+            "default_prebw": {
+                "buildid": "15676529",
+                "description": "\tLast stable build before Bog Witch",
+                "timeupdated": "1730189225"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
