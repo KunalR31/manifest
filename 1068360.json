@@ -1,0 +1,99 @@
+{
+    "appid": "1068360",
+    "type": "Game",
+    "name": "Fearmonium",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27107503",
+    "update_time": "2025-01-22 15:18:48",
+    "depot": {
+        "1068361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7620125546431199482",
+                    "size": "732246506",
+                    "download": "656895136"
+                },
+                "1.0.5test": {
+                    "gid": "1031263299568334600",
+                    "size": "729777255",
+                    "download": "656187392"
+                },
+                "legacy": {
+                    "gid": "7430924974532790198",
+                    "size": "723052702",
+                    "download": "649547200"
+                }
+            },
+            "decryptionkey": "f721a7c1099971bdd3f569d29d27998122354908db2daa0e88099d8d9ea75677"
+        },
+        "1068362": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8568217055144399414",
+                    "size": "815497776",
+                    "download": "644823136"
+                },
+                "1.0.5test": {
+                    "gid": "3193231377932993312",
+                    "size": "790129660",
+                    "download": "623415456"
+                },
+                "legacy": {
+                    "gid": "5456554919292354722",
+                    "size": "787760179",
+                    "download": "622529904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1068363": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1744285372257870254",
+                    "size": "768078514",
+                    "download": "652875664"
+                },
+                "1.0.5test": {
+                    "gid": "1744285372257870254",
+                    "size": "768078514",
+                    "download": "652875664"
+                },
+                "legacy": {
+                    "gid": "519707423243911851",
+                    "size": "767134923",
+                    "download": "651910800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11505256",
+                "timeupdated": "1687175369"
+            },
+            "1.0.5test": {
+                "buildid": "9862857",
+                "description": "test",
+                "timeupdated": "1667488970"
+            },
+            "legacy": {
+                "buildid": "6812969",
+                "description": "old version of the game",
+                "timeupdated": "1626504791"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
