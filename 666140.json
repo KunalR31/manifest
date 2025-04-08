@@ -1,0 +1,77 @@
+{
+    "appid": "666140",
+    "type": "Game",
+    "name": "My Time at Portia",
+    "schinese_name": "波西亚时光",
+    "isfreeapp": "0",
+    "change_number": "27783405",
+    "update_time": "2025-03-05 06:23:48",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "666141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "505910649525385526",
+                    "size": "10327126958",
+                    "download": "4855203376"
+                },
+                "local": {
+                    "gid": "3596632225747712166",
+                    "size": "9066001754",
+                    "download": "3991968256"
+                }
+            },
+            "decryptionkey": "caba4d1fb75ba07e16c9cf25312648ff7d37f77df1b30238f5e069d54257b9d5"
+        },
+        "666142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2575947428129196803",
+                    "size": "9973829675",
+                    "download": "4799989632"
+                },
+                "local": {
+                    "gid": "1245628204309130659",
+                    "size": "9184685754",
+                    "download": "4126366736"
+                }
+            },
+            "decryptionkey": "061eb1a76e81ff214a863af97636561615e4efa1d4f37bde4a4b155a2d19c9f9"
+        },
+        "666143": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7491349219066139121",
+                    "size": "10293028169",
+                    "download": "4824328896"
+                }
+            },
+            "decryptionkey": "2619a8a0873ecdbe14188c37a5bfb0541460c5c54a5c13872b44e756fbb7ac1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16174409",
+                "timeupdated": "1729823991"
+            },
+            "local": {
+                "buildid": "3918171",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1560504183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
