@@ -1,0 +1,89 @@
+{
+    "appid": "1708110",
+    "type": "Game",
+    "name": "Misericorde: Volume One",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27069183",
+    "update_time": "2025-01-20 10:56:03",
+    "depot": {
+        "baselanguages": "english",
+        "1708112": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2812813987645364828",
+                    "size": "906098404",
+                    "download": "823954416"
+                },
+                "1.11": {
+                    "gid": "2812813987645364828",
+                    "size": "906098404",
+                    "download": "823954416"
+                },
+                "beta": {
+                    "gid": "4044568767862154309",
+                    "size": "910678517",
+                    "download": "824689680"
+                },
+                "beta2": {
+                    "gid": "8013455168286925736",
+                    "size": "974938484",
+                    "download": "840472544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1708113": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3891833924137229809",
+                    "size": "906098404",
+                    "download": "823954416"
+                },
+                "1.11": {
+                    "gid": "3891833924137229809",
+                    "size": "906098404",
+                    "download": "823954416"
+                },
+                "beta": {
+                    "gid": "5594046214886221170",
+                    "size": "910678517",
+                    "download": "824689680"
+                },
+                "beta2": {
+                    "gid": "711448788711688360",
+                    "size": "974938484",
+                    "download": "840472544"
+                }
+            },
+            "decryptionkey": "ed69767ee508c177cfd2d7a6b7d5f7d00ab45bdd2ef503a52138874f6d708228"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11022854",
+                "timeupdated": "1682010679"
+            },
+            "1.11": {
+                "buildid": "11022854",
+                "description": "beta testing for version 1.11",
+                "timeupdated": "1681754830"
+            },
+            "beta": {
+                "buildid": "10843190",
+                "description": "Deck testing, save errors, etc",
+                "timeupdated": "1680858212"
+            },
+            "beta2": {
+                "buildid": "11177899",
+                "description": "Testing Mac version and Deck fixes",
+                "timeupdated": "1683526068"
+            }
+        }
+    }
+}
