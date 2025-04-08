@@ -1,0 +1,87 @@
+{
+    "appid": "988490",
+    "type": "Game",
+    "name": "Black Powder Red Earth®",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27969917",
+    "update_time": "2025-03-15 14:22:38",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "988491": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2746649723825032587",
+                    "size": "680153651",
+                    "download": "441428992"
+                },
+                "canary": {
+                    "gid": "7898701169722379362",
+                    "size": "687749995",
+                    "download": "443324880"
+                }
+            },
+            "decryptionkey": "deea428deb2372702d0f8c3e7a09d0502c2357bac76a6ef1333adfcd6a653e44"
+        },
+        "988492": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2742853484279525866",
+                    "size": "656002565",
+                    "download": "436412848"
+                },
+                "canary": {
+                    "gid": "2742853484279525866",
+                    "size": "656002565",
+                    "download": "436412848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "988493": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8962399460356661636",
+                    "size": "674295563",
+                    "download": "435453904"
+                },
+                "canary": {
+                    "gid": "8962399460356661636",
+                    "size": "674295563",
+                    "download": "435453904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10976734",
+                "timeupdated": "1733168524"
+            },
+            "canary": {
+                "buildid": "16602511",
+                "description": "test branch",
+                "timeupdated": "1733153446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
