@@ -1,0 +1,63 @@
+{
+    "appid": "263520",
+    "type": "Game",
+    "name": "Enola",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25313914",
+    "update_time": "2024-09-20 17:14:56",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "263521": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5068777099904250168",
+                    "size": "1777665724",
+                    "download": "1389949312"
+                }
+            },
+            "decryptionkey": "f8a3a84128d9883c35749612ba32c7656dc56d48129b2f992b2f84e173db6fde"
+        },
+        "263522": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "989805150780973598",
+                    "size": "1337090286",
+                    "download": "1041328704"
+                }
+            },
+            "decryptionkey": "a2e2ed74e30e1cac8278fe00f81a48fe396255d772cef32890abd6ba8b07228f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "650524"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
