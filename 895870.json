@@ -1,0 +1,101 @@
+{
+    "appid": "895870",
+    "type": "Game",
+    "name": "Project Wingman",
+    "schinese_name": "僚机计划",
+    "isfreeapp": "0",
+    "change_number": "28328341",
+    "update_time": "2025-04-06 09:10:52",
+    "depot": {
+        "baselanguages": "english",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "895871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2208154344462263035",
+                    "size": "17847353077",
+                    "download": "6388559328"
+                },
+                "beta-branch": {
+                    "gid": "2208154344462263035",
+                    "size": "17847353077",
+                    "download": "6388559328"
+                },
+                "fallback": {
+                    "gid": "1672280992675864586",
+                    "size": "14200613368",
+                    "download": "5104761920"
+                }
+            },
+            "decryptionkey": "baec9f1a727613a15b8f270c022c13daaf28f3558205a542970c8f8cb3ee7569"
+        },
+        "2536180": {
+            "dlcappid": "2536180",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8519105561406181350",
+                    "size": "13",
+                    "download": "64"
+                },
+                "beta-branch": {
+                    "gid": "8519105561406181350",
+                    "size": "13",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "5288aed61347456ecab313d510bea0e96f2cef2694172a9bc427278a45e518b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16671873",
+                "timeupdated": "1733817107"
+            },
+            "beta-branch": {
+                "buildid": "16671873",
+                "description": "Public Beta Branch For Testing",
+                "timeupdated": "1733654803"
+            },
+            "fallback": {
+                "buildid": "5965936",
+                "description": "Legacy Build [1.0.4D] [NO DLC SUPPORT]",
+                "timeupdated": "1733550216"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
