@@ -1,0 +1,81 @@
+{
+    "appid": "990360",
+    "type": "Game",
+    "name": "SKYHILL: Black Mist",
+    "schinese_name": "天空之山：黑雾",
+    "isfreeapp": "0",
+    "change_number": "27235271",
+    "update_time": "2025-01-30 21:18:05",
+    "depot": {
+        "990361": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1085674631503338558",
+                    "size": "3974275687",
+                    "download": "1454906480"
+                },
+                "beta_testing": {
+                    "gid": "8122652597069349860",
+                    "size": "9474659299",
+                    "download": "3679153296"
+                },
+                "old_save_system": {
+                    "gid": "6906103780956333368",
+                    "size": "9192439117",
+                    "download": "3617114416"
+                }
+            },
+            "decryptionkey": "47b5b3a59ac2aa51e5d216b63549f2811829b5eefe2a4c25d91990b2788f595b"
+        },
+        "990362": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            }
+        },
+        "1321370": {
+            "dlcappid": "1321370",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9009919429569113779",
+                    "size": "30368175",
+                    "download": "25785536"
+                },
+                "beta_testing": {
+                    "gid": "9009919429569113779",
+                    "size": "30368175",
+                    "download": "25785536"
+                },
+                "old_save_system": {
+                    "gid": "9009919429569113779",
+                    "size": "30368175",
+                    "download": "25785536"
+                }
+            },
+            "decryptionkey": "98ad7b99d56a1947a19f18e253dee6172c3493c89b6d24cfd98a80f0f79186d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6695304",
+                "timeupdated": "1620930519"
+            },
+            "beta_testing": {
+                "buildid": "5611941",
+                "timeupdated": "1601396081"
+            },
+            "old_save_system": {
+                "buildid": "5777659",
+                "description": "This branch is created for early players who want to continue playing with old saves",
+                "timeupdated": "1615219626"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
