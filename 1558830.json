@@ -1,0 +1,95 @@
+{
+    "appid": "1558830",
+    "type": "Game",
+    "name": "RIPOUT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28289596",
+    "update_time": "2025-04-03 21:33:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1558831": {
+            "manifests": {
+                "public": {
+                    "gid": "415901331288874804",
+                    "size": "8827298088",
+                    "download": "8313444496"
+                },
+                "testing": {
+                    "gid": "4591919050531099010",
+                    "size": "7928081082",
+                    "download": "7619517472"
+                }
+            },
+            "decryptionkey": "f90ef0dbdc6e568321950badd9e5ef4414b653e6e870df748bb0aff5cbd1509c"
+        },
+        "1558832": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1418661117742631863",
+                    "size": "8827298088",
+                    "download": "8313575168"
+                },
+                "testing": {
+                    "gid": "2304304542882480030",
+                    "size": "7928081082",
+                    "download": "7619610976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1558833": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9028391254213578461",
+                    "size": "8827298088",
+                    "download": "8313477136"
+                },
+                "testing": {
+                    "gid": "6909197212147232720",
+                    "size": "7928081082",
+                    "download": "7619511216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1558834": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17693221",
+                "timeupdated": "1741877808"
+            },
+            "testing": {
+                "buildid": "13667149",
+                "description": "external testing branch",
+                "timeupdated": "1709803802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
