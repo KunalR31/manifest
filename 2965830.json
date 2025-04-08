@@ -1,0 +1,78 @@
+{
+    "appid": "2965830",
+    "type": "Demo",
+    "name": "Breaking Good (Demo)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24600278",
+    "update_time": "2024-08-01 13:08:52",
+    "depot": {
+        "2965831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7567005367780167405",
+                    "size": "293593783",
+                    "download": "172519984"
+                },
+                "experimental": {
+                    "gid": "1597373138397615690",
+                    "size": "326511101",
+                    "download": "184958832"
+                }
+            },
+            "decryptionkey": "2eb0f838acd897292da1e582cc8c3ec287e89598b2319216368e850270481449"
+        },
+        "2965832": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "223071005198381679",
+                    "size": "296687235",
+                    "download": "173424752"
+                },
+                "experimental": {
+                    "gid": "353823570972451037",
+                    "size": "324688865",
+                    "download": "183188672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2965833": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1288001741311744637",
+                    "size": "295451900",
+                    "download": "172917712"
+                },
+                "experimental": {
+                    "gid": "5848413136442713309",
+                    "size": "349841513",
+                    "download": "191894592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14267685",
+                "timeupdated": "1714862082"
+            },
+            "experimental": {
+                "buildid": "15222059",
+                "description": "Newer version of Unity.",
+                "timeupdated": "1722488928"
+            }
+        }
+    }
+}
