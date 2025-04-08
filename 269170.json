@@ -1,0 +1,61 @@
+{
+    "appid": "269170",
+    "type": "Game",
+    "name": "SportsBar VR ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 15:29:25",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "269171": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2629744644182942215",
+                    "size": "1251853413",
+                    "download": "1138694240"
+                },
+                "pool_nation_vr": {
+                    "gid": "8920018966838033888",
+                    "size": "731906352",
+                    "download": "636232544"
+                }
+            },
+            "decryptionkey": "9a60e9258e22dfcd114e0a1e0b0263ea6d64419cada2a212d7167a5693f466d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2357894",
+                "timeupdated": "1513075341"
+            },
+            "pool_nation_vr": {
+                "buildid": "1447162",
+                "description": "Pool Nation VR Full Release",
+                "timeupdated": "1481768666"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
