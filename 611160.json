@@ -1,0 +1,55 @@
+{
+    "appid": "611160",
+    "type": "Game",
+    "name": "Karnage Chronicles",
+    "schinese_name": "卡纳奇编年史",
+    "isfreeapp": "0",
+    "change_number": "27536711",
+    "update_time": "2025-02-18 23:12:50",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "611161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "784576833002271983",
+                    "size": "3241193955",
+                    "download": "1497094560"
+                },
+                "omnitest": {
+                    "gid": "6830831924927391813",
+                    "size": "2211299256",
+                    "download": "998846288"
+                }
+            },
+            "decryptionkey": "1d4a12f21676fd663cc69900627e400a095d52282d5532607e33bc63ce5c7f1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5355068",
+                "timeupdated": "1596204024"
+            },
+            "omnitest": {
+                "buildid": "3213254",
+                "timeupdated": "1539591719"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
