@@ -1,0 +1,78 @@
+{
+    "appid": "285740",
+    "type": "Game",
+    "name": "Kitty Powers' Matchmaker",
+    "schinese_name": "猫力婚介所",
+    "isfreeapp": "0",
+    "change_number": "27469766",
+    "update_time": "2025-02-14 08:15:14",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "285743": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6949974969456657898",
+                    "size": "680324679",
+                    "download": "167334240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "285741": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1859000274284526063",
+                    "size": "687597703",
+                    "download": "169643008"
+                }
+            },
+            "decryptionkey": "4eb8081b5b99f6a6ecaa6becaa0630e4615c8ceb08900ca68e1fe684a4e105cb"
+        },
+        "285742": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "710179663946968236",
+                    "size": "688804561",
+                    "download": "170284336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9157526",
+                "timeupdated": "1658331968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
