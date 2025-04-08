@@ -1,0 +1,70 @@
+{
+    "appid": "310380",
+    "type": "Game",
+    "name": "Fractured Space",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27161071",
+    "update_time": "2025-01-25 14:26:40",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "310381": {
+            "manifests": {
+                "public": {
+                    "gid": "8101770338226431610",
+                    "size": "11507755613",
+                    "download": "9916541392"
+                },
+                "local": {
+                    "gid": "5345506027648470635",
+                    "size": "7432288253",
+                    "download": "1612570928"
+                },
+                "redux": {
+                    "gid": "4164157123481123298",
+                    "size": "4970205220",
+                    "download": "4617731424"
+                }
+            },
+            "decryptionkey": "556263de88eeb49f504e8dcef068835249203f67bbd821bc1ec106629b46a71e"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "3488541",
+                "timeupdated": "1548102432"
+            },
+            "local": {
+                "buildid": "806673",
+                "lcsrequired": "1"
+            },
+            "redux": {
+                "buildid": "1416112",
+                "description": "dev hobby version",
+                "timeupdated": "1550342553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
