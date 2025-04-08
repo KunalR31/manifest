@@ -1,0 +1,84 @@
+{
+    "appid": "1232622",
+    "type": "DLC",
+    "name": "SMS Plus GX",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27731448",
+    "update_time": "2025-03-01 17:11:22",
+    "depot": {
+        "1232622": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1232622"
+            },
+            "dlcappid": "1232622",
+            "manifests": {
+                "public": {
+                    "gid": "4768287282682764644",
+                    "size": "258037",
+                    "download": "100496"
+                },
+                "nightly": {
+                    "gid": "6282152228703522074",
+                    "size": "258037",
+                    "download": "100464"
+                }
+            },
+            "decryptionkey": "c186c702dac96b7ca90ecea3867d4491c817235c1292063b7a2970707c418df8"
+        },
+        "1789740": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1232622"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7955920990957197613",
+                    "size": "244020",
+                    "download": "82576"
+                },
+                "nightly": {
+                    "gid": "7955920990957197613",
+                    "size": "244020",
+                    "download": "82576"
+                }
+            },
+            "dlcappid": "1232622",
+            "decryptionkey": ""
+        },
+        "1789741": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1232622"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7800414874120236038",
+                    "size": "471732",
+                    "download": "109504"
+                },
+                "nightly": {
+                    "gid": "7800414874120236038",
+                    "size": "471732",
+                    "download": "109504"
+                }
+            },
+            "dlcappid": "1232622",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16911360",
+                "timeupdated": "1736093784"
+            },
+            "nightly": {
+                "buildid": "17557823",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1740820275"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
