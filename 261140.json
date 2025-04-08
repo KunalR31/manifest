@@ -1,0 +1,69 @@
+{
+    "appid": "261140",
+    "type": "Tool",
+    "name": "Just Cause 2: Multiplayer - Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 18:41:34",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261141": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4033097335746349012",
+                    "size": "18623460",
+                    "download": "6746640"
+                },
+                "publicbeta": {
+                    "gid": "4033097335746349012",
+                    "size": "18623460",
+                    "download": "6746640"
+                }
+            },
+            "decryptionkey": "9ab14bacb8009afb5d89ceb47c5d214e60bd6a5d7db79e9231b1a61db6dba249"
+        },
+        "261142": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2136927542703471059",
+                    "size": "30585808",
+                    "download": "10122736"
+                },
+                "publicbeta": {
+                    "gid": "2136927542703471059",
+                    "size": "30585808",
+                    "download": "10122736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1850768",
+                "timeupdated": "1495974376"
+            },
+            "publicbeta": {
+                "buildid": "1850768",
+                "description": "Public beta testing branch",
+                "timeupdated": "1495974357"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
