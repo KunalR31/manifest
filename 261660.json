@@ -1,0 +1,65 @@
+{
+    "appid": "261660",
+    "type": "Tool",
+    "name": "Serious Sam Classics: Revolution Toolkit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27114216",
+    "update_time": "2025-01-22 23:25:36",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "261661": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5842371276164225458",
+                    "size": "6881792",
+                    "download": "2286544"
+                },
+                "publicbeta": {
+                    "gid": "5842371276164225458",
+                    "size": "6881792",
+                    "download": "2286544"
+                },
+                "revo-1.02": {
+                    "gid": "5842371276164225458",
+                    "size": "6881792",
+                    "download": "2286544"
+                }
+            },
+            "decryptionkey": "0ca46c5e29bf082a9c2a843b0167164e227bb78f4e52a6422d620d552bbcdf72"
+        },
+        "227781": {
+            "systemdefined": "1",
+            "depotfromapp": "227780",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4672895",
+                "timeupdated": "1582211375"
+            },
+            "publicbeta": {
+                "buildid": "4672895",
+                "description": "Public testing",
+                "timeupdated": "1581943492"
+            },
+            "revo-1.02": {
+                "buildid": "4246665",
+                "timeupdated": "1581943529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
