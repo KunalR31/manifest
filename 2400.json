@@ -1,0 +1,67 @@
+{
+    "appid": "2400",
+    "type": "Game",
+    "name": "The Ship",
+    "schinese_name": "凶船",
+    "isfreeapp": "0",
+    "change_number": "26750795",
+    "update_time": "2024-12-22 11:52:02",
+    "depot": {
+        "overridescddb": "1",
+        "2402": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1141156336463691638",
+                    "size": "1447766698",
+                    "download": "0"
+                },
+                "steampipe": {
+                    "gid": "1141156336463691638",
+                    "size": "1447766698",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fa1c2ff566f4ea5244afe781ad841f82a8ce01915dd9eb789d72ecde9ef0efc4"
+        },
+        "2401": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7739101886109482449",
+                    "size": "229723579",
+                    "download": "0"
+                },
+                "steampipe": {
+                    "gid": "7739101886109482449",
+                    "size": "229723579",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd40f46553fcf69c981aa4d5e5e1c952a31af837dde99b39befce8610b796f1d"
+        },
+        "1004": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1002",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "63588"
+            },
+            "steampipe": {
+                "buildid": "63588"
+            }
+        }
+    }
+}
