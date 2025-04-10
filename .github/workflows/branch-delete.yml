@@ -1,4 +1,4 @@
-name: Delete Hyphenated Alphanumeric Branches
+name: Delete Branches with at Least One Letter
 
 on:
   workflow_dispatch:
@@ -53,14 +53,14 @@ jobs:
             | sed -n "${START},${END}p")
 
           for name in $branches; do
-            # Skip numeric-only branches
-            if [[ "$name" =~ ^[0-9]+$ ]]; then
-              echo "Skipping numeric branch: $name"
+            # Skip branches like main and master
+            if [[ "$name" =~ ^(main|master)$ ]]; then
+              echo "Skipping branch: $name"
               continue
             fi
 
-            # Match: only letters, digits, and one dash — and at least one letter
-            if [[ "$name" =~ ^[A-Za-z0-9-]+$ && "$name" =~ - && "$name" =~ [A-Za-z] ]]; then
+            # Match branches that contain at least one letter (a-z or A-Z)
+            if [[ "$name" =~ [A-Za-z] ]]; then
               echo "Deleting branch: $name"
               git push origin --delete "$name"
             else
