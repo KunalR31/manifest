@@ -53,9 +53,15 @@ jobs:
             | sed -n "${START},${END}p")
 
           for name in $branches; do
-            # Skip branches like main and master
+            # Skip branches like main and master, and any other invalid names
             if [[ "$name" =~ ^(main|master)$ ]]; then
               echo "Skipping branch: $name"
+              continue
+            fi
+
+            # Skip 'origin' or any non-branch names
+            if [[ "$name" == "origin" || -z "$name" ]]; then
+              echo "Skipping invalid branch: $name"
               continue
             fi
 
