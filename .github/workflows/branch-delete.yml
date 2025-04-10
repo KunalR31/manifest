@@ -27,10 +27,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Setup Git remote
-        run: |
-          git remote add origin https://github.com/KunalR31/manifest.git
-
       - name: Fetch and delete branches
         run: |
           set -euo pipefail
