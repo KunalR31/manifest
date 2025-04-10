@@ -1,0 +1,49 @@
+name: Delete Hyphenated Alphanumeric Branches
+
+on:
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  clean_branches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Fetch all branches
+        run: git fetch --all
+
+      - name: Delete matching branches
+        run: |
+          branches=$(git for-each-ref --format='%(refname:short)' refs/remotes/origin/)
+
+          for branch in $branches; do
+            name=${branch#origin/}
+
+            # Skip main branches
+            if [[ "$name" == "main" || "$name" == "master" ]]; then
+              continue
+            fi
+
+            # Skip numeric-only branches
+            if [[ "$name" =~ ^[0-9]+$ ]]; then
+              echo "Skipping numeric branch: $name"
+              continue
+            fi
+
+            # Match: only letters, digits, and one dash — and at least one letter
+            if [[ "$name" =~ ^[A-Za-z0-9-]+$ && "$name" =~ - && "$name" =~ [A-Za-z] ]]; then
+              echo "Deleting branch: $name"
+              git push origin --delete "$name"
+            else
+              echo "Skipping branch: $name"
+            fi
+          done
