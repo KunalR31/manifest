@@ -1,0 +1,16 @@
+-- Steam App 1274570 Manifest
+-- Name: DEVOUR
+-- Generated: 2025-05-17 06:08:58
+-- Total Depots: 3
+-- Total DLCs: 1
+
+-- MAIN APPLICATION
+addappid(1274570) -- DEVOUR
+
+-- MAIN APP DEPOTS
+addappid(1274571, 1, "b56991abb013052ba7ef6d1e0982f0ca99bbeeb631057347267102c6967c1537") -- DEVOUR Content
+setManifestid(1274571, "6429368298083549179", 0)
+addappid(1274573, 1, "b67b5c5c44139818a0d7ddb9d1103a724ca404a87bde4d78fe257fc352f0f36d") -- DEVOUR Mac
+setManifestid(1274573, "7439830362653470777", 0)
+addappid(1966630, 1, "9b579f914a2ba495ad1e0b1e1a1fc21c8e578ee933fb6bfabd9f138124244587") -- Game Content (Depot 1966630)
+setManifestid(1966630, "3546735088053658697", 0)
