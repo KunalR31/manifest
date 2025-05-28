@@ -1,0 +1,49 @@
+{
+    "appid": "2180700",
+    "type": "Game",
+    "name": "ABI-DOS",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28681616",
+    "update_time": "2025-04-26 18:53:31",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2180701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3269240194076402282",
+                    "size": "539995965",
+                    "download": "427039856"
+                },
+                "beta": {
+                    "gid": "692033020986383541",
+                    "size": "548901509",
+                    "download": "433000112"
+                }
+            },
+            "decryptionkey": "1a3afd2b5bca70b964b2d7ac5c0bccbf8053789ba9850a7296df35e61999b7ac"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17769329",
+                "timeupdated": "1742320378"
+            },
+            "beta": {
+                "buildid": "17002686",
+                "description": "beta-testing new features",
+                "timeupdated": "1738528856"
+            }
+        }
+    }
+}
