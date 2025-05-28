@@ -1,0 +1,58 @@
+{
+    "appid": "1408420",
+    "type": "Game",
+    "name": "Ancient Worlds: Egypt",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25598786",
+    "update_time": "2024-10-09 02:19:07",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1408421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4934087521408393901",
+                    "size": "1542321085",
+                    "download": "767153936"
+                },
+                "beta": {
+                    "gid": "8829035971846442969",
+                    "size": "1542321086",
+                    "download": "767138768"
+                }
+            },
+            "decryptionkey": "e95341262e660fc3993501234abc9b09ca1f174dccbda74c0515af8b1bea759f"
+        },
+        "workshopdepot": "1408420",
+        "branches": {
+            "public": {
+                "buildid": "6189927",
+                "timeupdated": "1612455537"
+            },
+            "beta": {
+                "buildid": "6175992",
+                "description": "development version",
+                "timeupdated": "1612273012"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
