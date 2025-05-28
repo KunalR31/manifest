@@ -1,0 +1,68 @@
+{
+    "appid": "791470",
+    "type": "Game",
+    "name": "DYO",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28978768",
+    "update_time": "2025-05-14 22:45:30",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "791471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5681473887655101089",
+                    "size": "334494646",
+                    "download": "243401040"
+                },
+                "developer": {
+                    "gid": "5681473887655101089",
+                    "size": "334494646",
+                    "download": "243401040"
+                },
+                "dyolab": {
+                    "gid": "9113884617335384679",
+                    "size": "332113310",
+                    "download": "241564480"
+                }
+            },
+            "decryptionkey": "4faff434e8901e99bfafbe0ce1bd1ca0750f90172cce2cda6183c7cb5ae36800"
+        },
+        "workshopdepot": "791470",
+        "branches": {
+            "public": {
+                "buildid": "2790426",
+                "timeupdated": "1526813624"
+            },
+            "developer": {
+                "buildid": "2790426",
+                "description": "Full of bugs. Don't go here.",
+                "timeupdated": "1526813448"
+            },
+            "dyolab": {
+                "buildid": "2598463",
+                "description": "Includes access to level editor.",
+                "timeupdated": "1520904474"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
