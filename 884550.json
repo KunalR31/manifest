@@ -1,0 +1,54 @@
+{
+    "appid": "884550",
+    "type": "Game",
+    "name": "Mist of the Dark",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24084950",
+    "update_time": "2024-06-23 23:09:42",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "884551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2228634533454855552",
+                    "size": "1667732538",
+                    "download": "639472320"
+                },
+                "testing": {
+                    "gid": "2228634533454855552",
+                    "size": "1667732538",
+                    "download": "639472320"
+                }
+            },
+            "decryptionkey": "07aeba55461c0cde133040e602182b88b7bb4ead6033e041af93f1dc8abffd9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3065992",
+                "timeupdated": "1538813266"
+            },
+            "testing": {
+                "buildid": "3065992",
+                "description": "Our latest changes. Could be very buggy",
+                "timeupdated": "1538813073"
+            }
+        }
+    }
+}
