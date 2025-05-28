@@ -1,0 +1,89 @@
+{
+    "appid": "2199750",
+    "type": "Game",
+    "name": "Shrieking Darkness",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009666",
+    "update_time": "2025-05-16 02:54:46",
+    "depot": {
+        "workshopdepot": "2199750",
+        "2199751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1879972610952702553",
+                    "size": "12939271093",
+                    "download": "6085953776"
+                },
+                "legacy": {
+                    "gid": "9189877191192766593",
+                    "size": "11800116862",
+                    "download": "5600261200"
+                },
+                "original": {
+                    "gid": "1742834979773048326",
+                    "size": "11726668991",
+                    "download": "5555869808"
+                },
+                "early": {
+                    "gid": "1879972610952702553",
+                    "size": "12939271093",
+                    "download": "6085953776"
+                },
+                "linux": {
+                    "gid": "4690360946135000073",
+                    "size": "12552915393",
+                    "download": "5995509024"
+                },
+                "previous": {
+                    "gid": "601634243767126748",
+                    "size": "13095047533",
+                    "download": "6248156736"
+                }
+            },
+            "decryptionkey": "92e71c014e4cb9d5807e49b2b48d44df99d259ee00b201b0a49506c8af116c08"
+        },
+        "2199752": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16906228",
+                "timeupdated": "1735996640"
+            },
+            "legacy": {
+                "buildid": "11991521",
+                "description": "Legacy build, previous game engine version.",
+                "timeupdated": "1697803123"
+            },
+            "original": {
+                "buildid": "11718729",
+                "description": "Original early access version. (very old)",
+                "timeupdated": "1710770876"
+            },
+            "early": {
+                "buildid": "16906228",
+                "description": "Latest builds.",
+                "timeupdated": "1735996600"
+            },
+            "linux": {
+                "buildid": "14208579",
+                "description": "Native linux support.",
+                "timeupdated": "1714394533"
+            },
+            "previous": {
+                "buildid": "16242300",
+                "description": "Previous builds.",
+                "timeupdated": "1735996661"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
