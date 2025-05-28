@@ -1,0 +1,138 @@
+{
+    "appid": "1039110",
+    "type": "Application",
+    "name": "Ikarus",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28617305",
+    "update_time": "2025-04-23 16:19:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1039111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6512674016627462087",
+                    "size": "71855715",
+                    "download": "24631616"
+                },
+                "bleeding": {
+                    "gid": "8071034826163081561",
+                    "size": "85339811",
+                    "download": "32412016"
+                },
+                "preview": {
+                    "gid": "8071034826163081561",
+                    "size": "85339811",
+                    "download": "32412016"
+                }
+            },
+            "decryptionkey": "410228e1ff619bdd034483a949c80cb7709aed580fdbe6b0b1bd5f82f88fa21b"
+        },
+        "1039112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4099049311459155339",
+                    "size": "28823753",
+                    "download": "28772992"
+                },
+                "bleeding": {
+                    "gid": "599450392099962431",
+                    "size": "35209417",
+                    "download": "35225216"
+                },
+                "preview": {
+                    "gid": "599450392099962431",
+                    "size": "35209417",
+                    "download": "35225216"
+                }
+            },
+            "decryptionkey": "05557eae53e34a45d1dfeac57ff83c6014afc28b671bb5476ec5787207f32a7e"
+        },
+        "1039113": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2255721478557784157",
+                    "size": "3585500",
+                    "download": "1157536"
+                },
+                "bleeding": {
+                    "gid": "3080111884761139577",
+                    "size": "133061147",
+                    "download": "33265648"
+                },
+                "preview": {
+                    "gid": "3080111884761139577",
+                    "size": "133061147",
+                    "download": "33265648"
+                }
+            },
+            "decryptionkey": "3b8a575374c2e73978eb1eadd7f7793c8166e2eeb5cd74a3dadd03166d99f4ef"
+        },
+        "1039114": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4910070644303251979",
+                    "size": "0",
+                    "download": "0"
+                },
+                "bleeding": {
+                    "gid": "4910070644303251979",
+                    "size": "0",
+                    "download": "0"
+                },
+                "preview": {
+                    "gid": "4910070644303251979",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5e2a3a7c31ed57ef64a8155a7eed43d1ecdb5e130f4eb2382464261182f70318"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4689580",
+                "timeupdated": "1582053722"
+            },
+            "bleeding": {
+                "buildid": "5461980",
+                "description": "unstable - create backups!",
+                "timeupdated": "1598451681"
+            },
+            "preview": {
+                "buildid": "5461980",
+                "description": "fairly stable - create backups!",
+                "timeupdated": "1598451536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
