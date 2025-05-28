@@ -1,0 +1,58 @@
+{
+    "appid": "1217930",
+    "type": "Game",
+    "name": "VR Jetpack Game",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28985209",
+    "update_time": "2025-05-15 00:26:44",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "",
+        "1217931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3428661010154905357",
+                    "size": "4222813010",
+                    "download": "3894534528"
+                },
+                "test": {
+                    "gid": "1211655313394916130",
+                    "size": "4222885104",
+                    "download": "3895218928"
+                }
+            },
+            "decryptionkey": "30cdeaeb3d10abf90db7dcf9983df5f143c05d5391b2101c95e557ab747a9b7b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8979796",
+                "timeupdated": "1655833579"
+            },
+            "test": {
+                "buildid": "10169562",
+                "description": "test",
+                "timeupdated": "1671299995"
+            }
+        }
+    }
+}
