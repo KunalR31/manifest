@@ -1,0 +1,64 @@
+{
+    "appid": "1202930",
+    "type": "Game",
+    "name": "Boom Boomerang",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:20:02",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1202931": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2441833243959362273",
+                    "size": "1276503045",
+                    "download": "1129746736"
+                },
+                "boomboomerangbeta": {
+                    "gid": "2441833243959362273",
+                    "size": "1276503045",
+                    "download": "1129746736"
+                },
+                "v1.0": {
+                    "gid": "5416692729176744618",
+                    "size": "2059604372",
+                    "download": "573742064"
+                }
+            },
+            "decryptionkey": "427e92e04a458fcaca6e2a7573130b683580e0f8b5de3480b93677d48030af74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7011986",
+                "timeupdated": "1626006108"
+            },
+            "boomboomerangbeta": {
+                "buildid": "7011986",
+                "timeupdated": "1626005153"
+            },
+            "v1.0": {
+                "buildid": "5584533",
+                "description": "Original Release",
+                "timeupdated": "1615478458"
+            }
+        }
+    }
+}
