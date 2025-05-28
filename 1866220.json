@@ -1,0 +1,95 @@
+{
+    "appid": "1866220",
+    "type": "Game",
+    "name": "HexoJago",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29036541",
+    "update_time": "2025-05-17 12:13:44",
+    "depot": {
+        "baselanguages": "turkish",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1866221": {
+            "config": {
+                "language": "turkish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8963632771345600999",
+                    "size": "493862378",
+                    "download": "379677952"
+                },
+                "linux": {
+                    "gid": "8963632771345600999",
+                    "size": "493862378",
+                    "download": "379677952"
+                },
+                "macos": {
+                    "gid": "8963632771345600999",
+                    "size": "493862378",
+                    "download": "379677952"
+                }
+            },
+            "decryptionkey": "b3233aa787da6c15173d402b9bb65aecbe29e02f0eff19c8f239b96e1dd28ca5"
+        },
+        "1866222": {
+            "config": {
+                "language": "turkish",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "4233352106382564503",
+                    "size": "661121301",
+                    "download": "426288464"
+                }
+            },
+            "decryptionkey": "0262e34b8be90d906ec321a47e1f406a726c1d303d50c9433e04037997780749"
+        },
+        "1866223": {
+            "config": {
+                "language": "turkish",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "macos": {
+                    "gid": "3382130095558613902",
+                    "size": "838535869",
+                    "download": "386894080"
+                }
+            },
+            "decryptionkey": "215a32b9c56d816ace099ee881ce67ce2b44d8ce934542e8348839d9548b15d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8268658",
+                "timeupdated": "1645717492"
+            },
+            "linux": {
+                "buildid": "8274889",
+                "description": "hexo",
+                "timeupdated": "1645797699"
+            },
+            "macos": {
+                "buildid": "8275131",
+                "description": "macos",
+                "timeupdated": "1645800079"
+            }
+        }
+    }
+}
