@@ -1,0 +1,75 @@
+{
+    "appid": "1843050",
+    "type": "Game",
+    "name": "Rambell",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26196464",
+    "update_time": "2024-11-15 00:27:15",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1843051": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6049009685234972413",
+                    "size": "6352205662",
+                    "download": "2245352336"
+                },
+                "beta": {
+                    "gid": "8502872437549572265",
+                    "size": "2563196281",
+                    "download": "2397278400"
+                }
+            },
+            "decryptionkey": "8f39063a3c9738452496bd0774030a53fd45d4e6f23414175df2705a7800e371"
+        },
+        "1843052": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3214227678854833153",
+                    "size": "1752914545",
+                    "download": "550440848"
+                },
+                "beta": {
+                    "gid": "3214227678854833153",
+                    "size": "1752914545",
+                    "download": "550440848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14626152",
+                "timeupdated": "1717679479"
+            },
+            "beta": {
+                "buildid": "11202802",
+                "description": "Beta",
+                "timeupdated": "1683755072"
+            }
+        }
+    }
+}
