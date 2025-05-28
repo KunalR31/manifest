@@ -1,0 +1,70 @@
+{
+    "appid": "1640540",
+    "type": "Game",
+    "name": "Desolatium: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27739653",
+    "update_time": "2025-03-02 14:46:09",
+    "depot": {
+        "baselanguages": "english,spanish",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1640541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1098687901103452716",
+                    "size": "1380563998",
+                    "download": "691257808"
+                }
+            },
+            "decryptionkey": "bee01425c567fc9a4a449720bc8877e3d23475254ce9f5881763a258e13c7561"
+        },
+        "1640543": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "154160941352432100",
+                    "size": "1430843090",
+                    "download": "660754368"
+                },
+                "local": {
+                    "gid": "9158570955198802375",
+                    "size": "1430843090",
+                    "download": "660754368"
+                }
+            },
+            "decryptionkey": "4a5e175c9de1e1f3211cc242f9693961cf1fc787a1b1cf0fe3338672740d7faa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7704043",
+                "timeupdated": "1636736174"
+            },
+            "local": {
+                "buildid": "6957081",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1625053408"
+            }
+        }
+    }
+}
