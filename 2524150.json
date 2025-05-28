@@ -1,0 +1,73 @@
+{
+    "appid": "2524150",
+    "type": "Game",
+    "name": "Heroes de Peronia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29012764",
+    "update_time": "2025-05-16 06:42:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2524151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3827105366343590464",
+                    "size": "1973670270",
+                    "download": "1858538992"
+                }
+            },
+            "decryptionkey": "8bee98f380d725c726f9af86608540a3eb2d196db608c3c0cc8eef693c6bfe8d"
+        },
+        "2524153": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3657705635805490293",
+                    "size": "1939795149",
+                    "download": "1787769536"
+                }
+            },
+            "decryptionkey": "4d53b60c9a2c8f8c668be68cf34c2d40735766f387d48c9535b2354979686c6c"
+        },
+        "2524154": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6253537973614007596",
+                    "size": "2285135135",
+                    "download": "1905772192"
+                }
+            },
+            "decryptionkey": "c43f4c75631026ba5c22cbedbcbeb90db1e0b4987facae87e9de2fa4922d159c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15930587",
+                "timeupdated": "1728048869"
+            }
+        }
+    }
+}
