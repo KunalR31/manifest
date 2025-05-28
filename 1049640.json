@@ -1,0 +1,59 @@
+{
+    "appid": "1049640",
+    "type": "Game",
+    "name": "Qorena",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28983254",
+    "update_time": "2025-05-14 22:52:42",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1049641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2769502502325337349",
+                    "size": "701519392",
+                    "download": "412688640"
+                }
+            },
+            "decryptionkey": "8542a59fedf633f773d0ddde4b72e78c9f93fc59d3c7ce13aba3b802e65c1c37"
+        },
+        "1049642": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "474651303170246383",
+                    "size": "602002152",
+                    "download": "306685920"
+                }
+            },
+            "decryptionkey": "aa8ff60223ace5711ce4e8344eba2af15a4fd0fb080443b0c43c807945f2df9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11801348",
+                "timeupdated": "1690460121"
+            }
+        }
+    }
+}
