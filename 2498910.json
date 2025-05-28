@@ -1,0 +1,77 @@
+{
+    "appid": "2498910",
+    "type": "Game",
+    "name": "PixelverZ Technofumer",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29012540",
+    "update_time": "2025-05-16 06:24:49",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2498911": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5819246019531312140",
+                    "size": "2686153273",
+                    "download": "2248653056"
+                },
+                "apple": {
+                    "gid": "5208594282084190975",
+                    "size": "2691418970",
+                    "download": "2252725152"
+                }
+            },
+            "decryptionkey": "d40b33beed184c007c5fe768bf0e9a69cf592c14ad48dc485a1ed34c988782d6"
+        },
+        "2498912": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7517154980854407740",
+                    "size": "2211612116",
+                    "download": "1801019200"
+                },
+                "apple": {
+                    "gid": "7517154980854407740",
+                    "size": "2211612116",
+                    "download": "1801019200"
+                }
+            },
+            "decryptionkey": "1b9553d87cf0d8de371047815fbba32cdea5f2ff1468df299e727c7c87c2adb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13473639",
+                "timeupdated": "1708072003"
+            },
+            "apple": {
+                "buildid": "13241018",
+                "description": "Mac",
+                "timeupdated": "1705951244"
+            }
+        }
+    }
+}
