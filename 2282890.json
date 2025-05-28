@@ -1,0 +1,81 @@
+{
+    "appid": "2282890",
+    "type": "Game",
+    "name": "Folklands",
+    "schinese_name": "田园乐土",
+    "isfreeapp": "0",
+    "change_number": "29010409",
+    "update_time": "2025-05-16 03:48:46",
+    "depot": {
+        "2282891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7584830873064491136",
+                    "size": "458479904",
+                    "download": "343463760"
+                },
+                "beta": {
+                    "gid": "1494216216108984422",
+                    "size": "458626896",
+                    "download": "343544320"
+                }
+            },
+            "decryptionkey": "7c9c7c8375fb8bd11b85c3299da5ea2fbb018ab5740c2b4dbd5f94063f6e1413"
+        },
+        "2282892": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1244366657795913006",
+                    "size": "431244448",
+                    "download": "338069328"
+                },
+                "beta": {
+                    "gid": "4436357266043357159",
+                    "size": "431391440",
+                    "download": "338149888"
+                }
+            },
+            "decryptionkey": "79c266a32e4385c60f6094869d0074d5135c7b4863d15b4c704d1c789ef44fa3"
+        },
+        "2282893": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2639091027772801683",
+                    "size": "771649155",
+                    "download": "362185488"
+                },
+                "beta": {
+                    "gid": "2639091027772801683",
+                    "size": "771649155",
+                    "download": "362185488"
+                }
+            },
+            "decryptionkey": "785b1a60b2b10dd7c957ef2d68bafea1e02e0c06d8d55150f4687fc05ce9ee7c"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17960850",
+                "timeupdated": "1743628761"
+            },
+            "beta": {
+                "buildid": "18127113",
+                "description": "Unpublished test releases",
+                "timeupdated": "1744798770"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
