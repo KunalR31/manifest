@@ -1,0 +1,80 @@
+{
+    "appid": "280200",
+    "type": "Game",
+    "name": "Eterium",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012379",
+    "update_time": "2025-05-16 06:11:39",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280201": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "304554559990142116",
+                    "size": "356838097",
+                    "download": "42556648247"
+                },
+                "beta": {
+                    "gid": "3900056943773020368",
+                    "size": "357638017",
+                    "download": "351281216"
+                }
+            },
+            "decryptionkey": "5e7cb559b1980e0cc87b663a398d0bfe91ba37b8fe4afa6dd1e1307d574b7e48"
+        },
+        "287250": {
+            "manifests": {
+                "public": {
+                    "gid": "1703615421809356114",
+                    "size": "3528594",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1703615421809356114",
+                    "size": "3528594",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "287250",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "321485"
+            },
+            "beta": {
+                "buildid": "801016"
+            }
+        }
+    }
+}
