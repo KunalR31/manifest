@@ -1,0 +1,96 @@
+{
+    "appid": "963400",
+    "type": "Game",
+    "name": "SCP: Blackout",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28938826",
+    "update_time": "2025-05-12 20:45:15",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "963401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7305909288014503453",
+                    "size": "6237194338",
+                    "download": "3258706176"
+                },
+                "bleedingedge": {
+                    "gid": "7305909288014503453",
+                    "size": "6237194338",
+                    "download": "3258706176"
+                },
+                "v_1_3_7-may2020": {
+                    "gid": "3044802322602795592",
+                    "size": "9758637970",
+                    "download": "4829163392"
+                },
+                "v1_2-early-access_launch_aug2019": {
+                    "gid": "1229851896231900422",
+                    "size": "11332940463",
+                    "download": "3911533168"
+                },
+                "v1_2_6halloween2019": {
+                    "gid": "1816740213497972526",
+                    "size": "12694998595",
+                    "download": "4468936880"
+                },
+                "v1_3_big-vr-overhaul_jan2020": {
+                    "gid": "4658117203403985876",
+                    "size": "9756108218",
+                    "download": "3472240224"
+                }
+            },
+            "decryptionkey": "0dcdc901fa060ef40b61347f16f0043463695dfac5e31cdec9383625050a9b54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5761169",
+                "timeupdated": "1604151773"
+            },
+            "bleedingedge": {
+                "buildid": "5761169",
+                "timeupdated": "1604151786"
+            },
+            "v_1_3_7-may2020": {
+                "buildid": "5085298",
+                "description": "Update that lasted the longest",
+                "timeupdated": "1603892620"
+            },
+            "v1_2-early-access_launch_aug2019": {
+                "buildid": "5748758",
+                "description": "The version of the game when first released",
+                "timeupdated": "1603887677"
+            },
+            "v1_2_6halloween2019": {
+                "buildid": "4286921",
+                "description": "The first Halloween Update",
+                "timeupdated": "1603892591"
+            },
+            "v1_3_big-vr-overhaul_jan2020": {
+                "buildid": "4549375",
+                "description": "The update that added better VR mechanics",
+                "timeupdated": "1603892567"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
