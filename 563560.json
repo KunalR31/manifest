@@ -1,0 +1,69 @@
+{
+    "appid": "563560",
+    "type": "Game",
+    "name": "Alien Swarm: Reactive Drop",
+    "schinese_name": "异形丛生：虫启天降 (Alien Swarm: Reactive Drop)",
+    "isfreeapp": "1",
+    "change_number": "29042638",
+    "update_time": "2025-05-18 02:36:49",
+    "depot": {
+        "workshopdepot": "563560",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "563561": {
+            "manifests": {
+                "public": {
+                    "gid": "3308664160658198041",
+                    "size": "2738950694",
+                    "download": "673949200"
+                },
+                "beta": {
+                    "gid": "5972444409305705744",
+                    "size": "2739813951",
+                    "download": "674064848"
+                }
+            },
+            "decryptionkey": "fa5311e8473824241c7cb8ad6a5f5125b25d3f2ecfa963a7c880303106e9d469"
+        },
+        "563562": {
+            "manifests": {
+                "public": {
+                    "gid": "1601589017501574813",
+                    "size": "4314531596",
+                    "download": "2513588352"
+                },
+                "beta": {
+                    "gid": "1601589017501574813",
+                    "size": "4314531596",
+                    "download": "2513588352"
+                }
+            },
+            "decryptionkey": "185b68d4e971f70783541e98d1bbf47f48585fec0b3e45ecde0a29b48eb247a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18173256",
+                "timeupdated": "1745159631"
+            },
+            "beta": {
+                "buildid": "18504350",
+                "description": "Latest changes. Probably broken.",
+                "timeupdated": "1747507006"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
