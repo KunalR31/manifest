@@ -30,10 +30,10 @@ jobs:
         run: |
           set -euo pipefail
 
-          SOURCE_REPO="https://github.com/ikun0014/ManifestHub.git"
+          SOURCE_REPO="https://github.com/SteamAutoCracks/ManifestHub.git"
           TARGET_REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
-          TOTAL_BRANCHES=40000
+          TOTAL_BRANCHES=50000
           JOB_COUNT=100
           JOB_INDEX=${{ matrix.job_index }}
           BRANCHES_PER_JOB=$((TOTAL_BRANCHES / JOB_COUNT))
