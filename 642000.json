@@ -1,0 +1,69 @@
+{
+    "appid": "642000",
+    "type": "Game",
+    "name": "Regenesis Arcade Lite",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28135535",
+    "update_time": "2025-03-26 02:09:55",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "642001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5798852200994346872",
+                    "size": "2307336175",
+                    "download": "2205005792"
+                },
+                "beta": {
+                    "gid": "5798852200994346872",
+                    "size": "2307336175",
+                    "download": "2205005792"
+                }
+            },
+            "decryptionkey": "1fd0456d3f86781d665c613de1e16d25ae68cd746ba563d7e6af4ca2399d47b7"
+        },
+        "642009": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3142337",
+                "timeupdated": "1537477686"
+            },
+            "beta": {
+                "buildid": "3142337",
+                "description": "beta branch",
+                "timeupdated": "1537477695"
+            }
+        }
+    }
+}
