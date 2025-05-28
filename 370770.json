@@ -1,0 +1,67 @@
+{
+    "appid": "370770",
+    "type": "Game",
+    "name": "Holodrive",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27149861",
+    "update_time": "2025-01-24 21:28:52",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "370772": {
+            "manifests": {
+                "public": {
+                    "gid": "1056023388071869869",
+                    "size": "667388564",
+                    "download": "293324000"
+                },
+                "beta": {
+                    "gid": "1056023388071869869",
+                    "size": "667388564",
+                    "download": "293324000"
+                }
+            },
+            "decryptionkey": "32189aac322493594911f089e4c580aed068989c153b310ed03f4dd953aeceab"
+        },
+        "370771": {
+            "manifests": {
+                "public": {
+                    "gid": "8916204875651594959",
+                    "size": "185538855",
+                    "download": "151967744"
+                },
+                "beta": {
+                    "gid": "8916204875651594959",
+                    "size": "185538855",
+                    "download": "151967744"
+                }
+            },
+            "decryptionkey": "102d6e73cb018b2180ae57cb958b6f300739dc94b1813c622e44053685caf679"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9701051",
+                "timeupdated": "1665529490"
+            },
+            "beta": {
+                "buildid": "9701051",
+                "description": "Staging",
+                "timeupdated": "1665528795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
