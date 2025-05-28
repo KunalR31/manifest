@@ -1,0 +1,145 @@
+{
+    "appid": "525380",
+    "type": "Game",
+    "name": "Demon Peak",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28642218",
+    "update_time": "2025-04-24 18:44:25",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "525381": {
+            "manifests": {
+                "public": {
+                    "gid": "5863086753720595822",
+                    "size": "5",
+                    "download": "64"
+                },
+                "opengl_for_windows": {
+                    "gid": "5863086753720595822",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "525382": {
+            "manifests": {
+                "public": {
+                    "gid": "8678545730413049089",
+                    "size": "5",
+                    "download": "64"
+                },
+                "opengl_for_windows": {
+                    "gid": "8678545730413049089",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "525383": {
+            "manifests": {
+                "public": {
+                    "gid": "7030980353248349863",
+                    "size": "5",
+                    "download": "64"
+                },
+                "opengl_for_windows": {
+                    "gid": "4829053814066477997",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "525389": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6187227606017951149",
+                    "size": "383856595",
+                    "download": "77730240"
+                },
+                "opengl_for_windows": {
+                    "gid": "813189862145172270",
+                    "size": "336859300",
+                    "download": "78452144"
+                }
+            },
+            "decryptionkey": "27c149e5c916bc5412a7c577b73dc593432a6e30bd781ead506e574e5cff2c2d"
+        },
+        "525388": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5029201822885887831",
+                    "size": "422187243",
+                    "download": "99773712"
+                },
+                "opengl_for_windows": {
+                    "gid": "5029201822885887831",
+                    "size": "422187243",
+                    "download": "99773712"
+                }
+            },
+            "decryptionkey": "a0f9b8246f329f86a664436f3f9cfcce81fbf27993c3b14db312350ddb388d06"
+        },
+        "525387": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2864646683641511336",
+                    "size": "5",
+                    "download": "64"
+                },
+                "opengl_for_windows": {
+                    "gid": "2864646683641511336",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1966948",
+                "timeupdated": "1500311951"
+            },
+            "opengl_for_windows": {
+                "buildid": "1966991",
+                "description": "OpenGL build for Windows, gives better controller support but might not run on older hardware.",
+                "timeupdated": "1500312333"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
