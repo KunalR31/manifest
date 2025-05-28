@@ -1,0 +1,76 @@
+{
+    "appid": "830520",
+    "type": "Game",
+    "name": "Finger Jets",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-27 06:22:39",
+    "depot": {
+        "830521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6021763983037595949",
+                    "size": "123180751",
+                    "download": "25903040"
+                },
+                "beta": {
+                    "gid": "3283681434854970402",
+                    "size": "123180503",
+                    "download": "25953312"
+                }
+            },
+            "decryptionkey": "47dc6cc8bc2e3b4e45bab46834d736b607715d4960edbe6b87ab71b27b3525f1"
+        },
+        "830522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5913398707600882069",
+                    "size": "130220455",
+                    "download": "27651760"
+                },
+                "beta": {
+                    "gid": "4795625592649517502",
+                    "size": "130442468",
+                    "download": "27871632"
+                }
+            },
+            "decryptionkey": "d1c389d61b25453c61470285c362fb95f438daf7f1d48986a3a057ee898bda11"
+        },
+        "830523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3201985108543817972",
+                    "size": "165671554",
+                    "download": "40183968"
+                },
+                "beta": {
+                    "gid": "5048610987169098343",
+                    "size": "165670451",
+                    "download": "40185072"
+                }
+            },
+            "decryptionkey": "9c18975faf28fd7fa16605c2bf4d4d82703abfa41c4689b0e34d8ebbd82404e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2731198",
+                "timeupdated": "1524983546"
+            },
+            "beta": {
+                "buildid": "2738060",
+                "timeupdated": "1525236031"
+            }
+        }
+    }
+}
