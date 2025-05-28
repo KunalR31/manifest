@@ -1,0 +1,57 @@
+{
+    "appid": "1481580",
+    "type": "Game",
+    "name": "Milkyway Funland",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26517736",
+    "update_time": "2024-12-06 08:18:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1481581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8517772147013120417",
+                    "size": "7477211396",
+                    "download": "3060067520"
+                },
+                "beta": {
+                    "gid": "4642985260374313406",
+                    "size": "6938495209",
+                    "download": "2908766400"
+                }
+            },
+            "decryptionkey": "a248e65d84686684bec8eca0c8b3feb7052a1ece88d2fee67ef70b3a2c4218b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6393891",
+                "timeupdated": "1615974897"
+            },
+            "beta": {
+                "buildid": "6001139",
+                "description": "Beta test branch.",
+                "timeupdated": "1608623372"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
