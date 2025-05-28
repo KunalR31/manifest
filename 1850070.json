@@ -1,0 +1,56 @@
+{
+    "appid": "1850070",
+    "type": "Game",
+    "name": "Fireteam",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28805222",
+    "update_time": "2025-05-04 08:31:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1850071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3351295239693970713",
+                    "size": "14000287745",
+                    "download": "3628192176"
+                },
+                "local": {
+                    "gid": "8642490366016718139",
+                    "size": "6378840949",
+                    "download": "2290343136"
+                }
+            },
+            "decryptionkey": "dbcd95c34ed21e2e1c6d112797fc634dd0d123c7eca91dfe433ca10b093577d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8689923",
+                "timeupdated": "1651828532"
+            },
+            "local": {
+                "buildid": "7997453",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1641840465"
+            }
+        }
+    }
+}
