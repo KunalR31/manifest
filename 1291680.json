@@ -1,0 +1,73 @@
+{
+    "appid": "1291680",
+    "type": "Game",
+    "name": "Apocalypse: 2.0 Edition",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29002944",
+    "update_time": "2025-05-15 21:11:54",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1291681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5835264526384234106",
+                    "size": "27661418240",
+                    "download": "8457534336"
+                },
+                "dlc1_featureupdate4_combined": {
+                    "gid": "7325349463638394032",
+                    "size": "27659195178",
+                    "download": "8456729088"
+                },
+                "patch_9_final": {
+                    "gid": "8628008624803952111",
+                    "size": "5754747660",
+                    "download": "2891289680"
+                }
+            },
+            "decryptionkey": "a622ebb9241cfaade1842a34c56ae2a16db79835662dfb8be1f90f52bc36ef39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6675860",
+                "timeupdated": "1620655609"
+            },
+            "dlc1_featureupdate4_combined": {
+                "buildid": "6637395",
+                "description": "final build - going public soon",
+                "timeupdated": "1619992472"
+            },
+            "patch_9_final": {
+                "buildid": "5116542",
+                "description": "outdated build - use with caution",
+                "timeupdated": "1591619846"
+            }
+        }
+    }
+}
