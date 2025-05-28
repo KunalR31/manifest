@@ -1,0 +1,62 @@
+{
+    "appid": "954010",
+    "type": "Game",
+    "name": "Definitely Sneaky But Not Sneaky",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28040616",
+    "update_time": "2025-03-20 05:43:30",
+    "depot": {
+        "954011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "813053271699648506",
+                    "size": "316819714",
+                    "download": "208734656"
+                },
+                "beta": {
+                    "gid": "2247879396629038409",
+                    "size": "318750387",
+                    "download": "207837120"
+                }
+            },
+            "decryptionkey": "c58432aec9cfde5dd3442b1f83c1de3181d8c1533b29f1f1d06b3e92cf4c06bf"
+        },
+        "954012": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6896231993228257364",
+                    "size": "340152020",
+                    "download": "209062160"
+                },
+                "beta": {
+                    "gid": "6896231993228257364",
+                    "size": "340152020",
+                    "download": "209062160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "954010",
+        "branches": {
+            "public": {
+                "buildid": "16413878",
+                "timeupdated": "1731635029"
+            },
+            "beta": {
+                "buildid": "17786319",
+                "description": "Includes experimental features",
+                "timeupdated": "1742420602"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
