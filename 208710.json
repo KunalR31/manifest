@@ -1,0 +1,51 @@
+{
+    "appid": "208710",
+    "type": "Game",
+    "name": "Colour Bind",
+    "schinese_name": "颜色绑定",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-16 22:31:54",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "208711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4365874306935878717",
+                    "size": "20078606",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0f0cbb8176ee18aaa4ec3517282ada25ccad55539ee412490c8b59a29ad5a0ea"
+        },
+        "208712": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "208713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {}
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "51356"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
