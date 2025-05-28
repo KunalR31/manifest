@@ -1,0 +1,92 @@
+{
+    "appid": "2232710",
+    "type": "Game",
+    "name": "UnrealGundy",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24851295",
+    "update_time": "2024-08-20 01:15:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2232711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3353752095296128502",
+                    "size": "626604186",
+                    "download": "512430800"
+                },
+                "release": {
+                    "gid": "3353752095296128502",
+                    "size": "626604186",
+                    "download": "512430800"
+                }
+            },
+            "decryptionkey": "997ea328ee24073665de670535dd2c2c60f71c28639554e7feb75d0bf205c91c"
+        },
+        "2232712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3846091002533160943",
+                    "size": "596424933",
+                    "download": "466014400"
+                },
+                "release": {
+                    "gid": "3846091002533160943",
+                    "size": "596424933",
+                    "download": "466014400"
+                }
+            },
+            "decryptionkey": "0ca06a7fffa51be0a04a2ab7f815a00dd5d5ac5b0371f7f424aacf24539d6ca1"
+        },
+        "2232713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "release": {
+                    "gid": "5807513011105197028",
+                    "size": "702758756",
+                    "download": "466645472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10376219",
+                "timeupdated": "1674361149"
+            },
+            "release": {
+                "buildid": "11164331",
+                "description": "beta branch",
+                "timeupdated": "1683292792"
+            }
+        }
+    }
+}
