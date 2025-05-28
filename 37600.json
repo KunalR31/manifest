@@ -1,0 +1,60 @@
+{
+    "appid": "37600",
+    "type": "Game",
+    "name": "Windosill",
+    "schinese_name": "玩具车大冒险",
+    "isfreeapp": "0",
+    "change_number": "28969706",
+    "update_time": "2025-05-14 06:57:56",
+    "depot": {
+        "overridescddb": "1",
+        "37602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4701618066268890044",
+                    "size": "39759769",
+                    "download": "14942576"
+                }
+            },
+            "decryptionkey": "955f168c67c6378893bec014886371c9d54fa9d802d0348c000cfdd27d63cee7"
+        },
+        "37601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3974892507420582214",
+                    "size": "51319592",
+                    "download": "22152864"
+                }
+            },
+            "decryptionkey": "67b7ef5bf49f4cbc4f69253974df881d9795b4b57807ef5a100238e896e3a06a"
+        },
+        "37603": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4632538660063646856",
+                    "size": "105346707",
+                    "download": "71708144"
+                }
+            },
+            "decryptionkey": "e116be69c2be75d248bbf080c429f9fff3e98d55cf1d43fd9b82eeb68583ce43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10766665",
+                "timeupdated": "1678807775"
+            }
+        }
+    }
+}
