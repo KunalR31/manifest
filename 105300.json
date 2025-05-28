@@ -1,0 +1,45 @@
+{
+    "appid": "105300",
+    "type": "Game",
+    "name": "Critical Mass",
+    "schinese_name": "临界质量",
+    "isfreeapp": "0",
+    "change_number": "28970052",
+    "update_time": "2025-05-14 07:27:50",
+    "depot": {
+        "105302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8590293496786710034",
+                    "size": "47356243",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b3f811ba85406d70903a09fea31f7c4643d10416d75fa37ed7843d6512f2386c"
+        },
+        "105301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7847668271913552122",
+                    "size": "29114495",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b46fd3778b7414e994a39bb1722efe22134f49b4d57a2ab5c1c235774221a5f0"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "25836"
+            }
+        }
+    }
+}
