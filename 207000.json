@@ -1,0 +1,52 @@
+{
+    "appid": "207000",
+    "type": "Game",
+    "name": "Alien Spidy",
+    "schinese_name": "外星蜘蛛",
+    "isfreeapp": "0",
+    "change_number": "26460773",
+    "update_time": "2024-12-05 10:10:57",
+    "depot": {
+        "207001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1480642682121731459",
+                    "size": "1124352415",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "712a4181cd75a88f43c3f84bb8e9e0895c3d33506b207d3f4ea9e8703a8570c6"
+        },
+        "207002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "536040683374840509",
+                    "size": "1092832113",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cedbd53fec1a2991282fa65c44311cd6be6f7b0e02e973c43c2d5967fb3b3164"
+        },
+        "207951": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "44941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
