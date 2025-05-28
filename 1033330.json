@@ -1,0 +1,62 @@
+{
+    "appid": "1033330",
+    "type": "Game",
+    "name": "Primordium - Day Zero",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29031236",
+    "update_time": "2025-05-17 03:13:13",
+    "depot": {
+        "baselanguages": "",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1033331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3125127274103130231",
+                    "size": "25286713548",
+                    "download": "24730566896"
+                },
+                "unstable": {
+                    "gid": "3125127274103130231",
+                    "size": "25286713548",
+                    "download": "24730566896"
+                }
+            },
+            "decryptionkey": "0c79621b41295dd709e02200551806cca2d4425579a3fb0e201413fec83299ab"
+        },
+        "1033332": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5690179",
+                "timeupdated": "1614383576"
+            },
+            "unstable": {
+                "buildid": "5690179",
+                "timeupdated": "1602812048"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
