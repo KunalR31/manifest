@@ -1,0 +1,55 @@
+{
+    "appid": "304690",
+    "type": "Game",
+    "name": "Star Sonata 2",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971554",
+    "update_time": "2025-05-14 09:47:54",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "304691": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6710852915583350681",
+                    "size": "3887580083",
+                    "download": "1854400832"
+                },
+                "beta": {
+                    "gid": "3109248545365939677",
+                    "size": "3887740360",
+                    "download": "1854405056"
+                }
+            },
+            "decryptionkey": "ea68267cca23d0e0b2c47fbdec796dbf86973d91f5fb04681f2705593b6fd584"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18178496",
+                "timeupdated": "1745222377"
+            },
+            "beta": {
+                "buildid": "18178499",
+                "description": "Beta branch",
+                "timeupdated": "1745222321"
+            }
+        }
+    }
+}
