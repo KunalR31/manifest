@@ -1,0 +1,71 @@
+{
+    "appid": "530630",
+    "type": "Game",
+    "name": "Empires Apart",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28974487",
+    "update_time": "2025-05-14 14:17:44",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "530631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1978032604307600819",
+                    "size": "3003891713",
+                    "download": "619417152"
+                },
+                "tournament": {
+                    "gid": "2213870168133755699",
+                    "size": "3002786304",
+                    "download": "619266176"
+                }
+            },
+            "decryptionkey": "3315000ad66bc2e7bdc522334e74e4cd8d86320acfa7d103ee6f659138dc955e"
+        },
+        "821210": {
+            "dlcappid": "821210",
+            "manifests": {
+                "public": {
+                    "gid": "5996697602481373265",
+                    "size": "93414379",
+                    "download": "91034928"
+                },
+                "tournament": {
+                    "gid": "5996697602481373265",
+                    "size": "93414379",
+                    "download": "91034928"
+                }
+            },
+            "decryptionkey": "0f52e323b1a84bb3526d547290b11189cf9b4f12bdd27f0a3135749ee4412f92"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3664774",
+                "timeupdated": "1553527711"
+            },
+            "tournament": {
+                "buildid": "3524012",
+                "timeupdated": "1549365017"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
