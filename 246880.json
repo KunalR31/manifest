@@ -1,0 +1,60 @@
+{
+    "appid": "246880",
+    "type": "Game",
+    "name": "Recruits",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24920337",
+    "update_time": "2024-08-24 07:37:34",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "246881": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2003921553524378953",
+                    "size": "612390889",
+                    "download": "31433456766"
+                },
+                "64_bit_build": {
+                    "gid": "2711861847678291847",
+                    "size": "630502841",
+                    "download": "4646657767"
+                },
+                "experimental": {
+                    "gid": "2003921553524378953",
+                    "size": "612390889",
+                    "download": "31433456766"
+                }
+            },
+            "decryptionkey": "58dffed21be2ee46885908e515608a32f53d07a72396aee0f285525119d1360f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "347100"
+            },
+            "64_bit_build": {
+                "buildid": "347098"
+            },
+            "experimental": {
+                "buildid": "347100",
+                "description": "Be up to date with latest updates"
+            }
+        }
+    }
+}
