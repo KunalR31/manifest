@@ -1,0 +1,90 @@
+{
+    "appid": "2640600",
+    "type": "Game",
+    "name": "Wizened Dream",
+    "schinese_name": "枯萎的梦想",
+    "isfreeapp": "1",
+    "change_number": "29013591",
+    "update_time": "2025-05-16 08:00:50",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "workshopdepot": "2640600",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2640601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3677281216986708327",
+                    "size": "124775149",
+                    "download": "59812800"
+                },
+                "alphatest": {
+                    "gid": "3677281216986708327",
+                    "size": "124775149",
+                    "download": "59812800"
+                }
+            },
+            "decryptionkey": "4718038428cb9cc4c661867959e0357185ed3d16f12eba547383b50237e79bb0"
+        },
+        "2640602": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7777609631426148969",
+                    "size": "142863565",
+                    "download": "67339360"
+                },
+                "alphatest": {
+                    "gid": "7777609631426148969",
+                    "size": "142863565",
+                    "download": "67339360"
+                }
+            },
+            "decryptionkey": "b7571601c4649f1a1c8f2c60178a3a0c77e788bfbcfc1393be0e21d8ed67be5b"
+        },
+        "2640603": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6899208496445145889",
+                    "size": "146633582",
+                    "download": "61233344"
+                },
+                "alphatest": {
+                    "gid": "6899208496445145889",
+                    "size": "146633582",
+                    "download": "61233344"
+                }
+            },
+            "decryptionkey": "ac0a041204502189b23180904aab0d0c6dda22296cef56dd8de31740ca5fb4ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14625701",
+                "timeupdated": "1717681480"
+            },
+            "alphatest": {
+                "buildid": "14625701",
+                "description": "developer alpha test",
+                "timeupdated": "1717677078"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
