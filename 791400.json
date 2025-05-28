@@ -1,0 +1,102 @@
+{
+    "appid": "791400",
+    "type": "Game",
+    "name": "From Village to Empire",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28978768",
+    "update_time": "2025-05-14 22:45:29",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "791401": {
+            "manifests": {
+                "public": {
+                    "gid": "2200989807513130303",
+                    "size": "39188363",
+                    "download": "39009200"
+                },
+                "beta": {
+                    "gid": "9156326335581799699",
+                    "size": "38888605",
+                    "download": "38718256"
+                }
+            },
+            "decryptionkey": "39c94e992a5af63a7f0f8ac9d29244798eff4588dd96fe053397da28f0457420"
+        },
+        "791402": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4474858243449122488",
+                    "size": "7076652",
+                    "download": "2499952"
+                },
+                "beta": {
+                    "gid": "6389095928577711122",
+                    "size": "7052076",
+                    "download": "2495712"
+                }
+            },
+            "decryptionkey": "03493b71ec6799eecefa26f5d148581e0fe889d2e4cb7ae6ee6c75d7d195acaf"
+        },
+        "791403": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4303906061257268469",
+                    "size": "4661885",
+                    "download": "1520896"
+                },
+                "beta": {
+                    "gid": "4973923853407417021",
+                    "size": "4641405",
+                    "download": "1515392"
+                }
+            },
+            "decryptionkey": "a1ab7a647b992fb25ec3bd10496f562c90fd34bc92b74547e2ebfdc21b36a171"
+        },
+        "791404": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "499892500997772086",
+                    "size": "4833788",
+                    "download": "1542512"
+                },
+                "beta": {
+                    "gid": "1974705212799880468",
+                    "size": "4813308",
+                    "download": "1538560"
+                }
+            },
+            "decryptionkey": "5f704bddc2bda2918df4fc6a5127ff845bab11573b1777b31aa2c46896bf2f30"
+        },
+        "workshopdepot": "791400",
+        "branches": {
+            "public": {
+                "buildid": "4518550",
+                "timeupdated": "1576938902"
+            },
+            "beta": {
+                "buildid": "3989463",
+                "description": "Public beta branch",
+                "timeupdated": "1562505998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
