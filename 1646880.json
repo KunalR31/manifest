@@ -1,0 +1,55 @@
+{
+    "appid": "1646880",
+    "type": "Game",
+    "name": "Rumble Runners",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1646881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "439924045992493413",
+                    "size": "569592097",
+                    "download": "378789440"
+                },
+                "local": {
+                    "gid": "1637554153915732650",
+                    "size": "350198306",
+                    "download": "121409664"
+                }
+            },
+            "decryptionkey": "52a94b2084cfe1abba3276eaabd0c72380958434a696aab256533d99f6cf1923"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9813216",
+                "timeupdated": "1667325034"
+            },
+            "local": {
+                "buildid": "6746097",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1621806324"
+            }
+        }
+    }
+}
