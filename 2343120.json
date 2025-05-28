@@ -1,0 +1,58 @@
+{
+    "appid": "2343120",
+    "type": "Game",
+    "name": "Deep Space Scoundrel",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-25 20:10:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2343121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3286264416789411299",
+                    "size": "446962464",
+                    "download": "337656592"
+                }
+            },
+            "decryptionkey": "43af0954338d3cd267a4284d938ba2ff134a5baff5b95894cbb6c1cd872e1acc"
+        },
+        "2343122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5480077794881373071",
+                    "size": "446492123",
+                    "download": "307045984"
+                }
+            },
+            "decryptionkey": "911f34069118dc5fb172a09924e51a7891ec637b3705380f47234b7ca54d47fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10748895",
+                "timeupdated": "1678587563"
+            }
+        }
+    }
+}
