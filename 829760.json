@@ -1,0 +1,67 @@
+{
+    "appid": "829760",
+    "type": "Game",
+    "name": "Synthrally",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-27 06:21:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "829761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8366991188535562218",
+                    "size": "611655904",
+                    "download": "163037200"
+                }
+            },
+            "decryptionkey": "63c3670332882cd73f6083fae853247e0094961d3d2aa2f96f133879f7a5e2bd"
+        },
+        "829762": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7533018762203052397",
+                    "size": "604007889",
+                    "download": "163230736"
+                }
+            },
+            "decryptionkey": "189357158d90056215e20c09ce9ade3b06abc4478e1fd34547d53d083d59593a"
+        },
+        "829763": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8313636121935934383",
+                    "size": "627594996",
+                    "download": "165756256"
+                }
+            },
+            "decryptionkey": "fbbcce4c4cc188c27b06dc483332973f6329dab0806972906e9c5f0205b46b96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2990306",
+                "timeupdated": "1532983560"
+            }
+        }
+    }
+}
