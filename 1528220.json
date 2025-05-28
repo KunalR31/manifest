@@ -1,0 +1,82 @@
+{
+    "appid": "1528220",
+    "type": "Game",
+    "name": "Gordian Rooms 2: A curious island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987895",
+    "update_time": "2025-05-15 03:06:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1528221": {
+            "manifests": {
+                "public": {
+                    "gid": "8597405395460497454",
+                    "size": "10229620412",
+                    "download": "9692927888"
+                },
+                "delayedupdatebranch": {
+                    "gid": "2813782062848899523",
+                    "size": "13088190362",
+                    "download": "9878158256"
+                },
+                "update6": {
+                    "gid": "7314774519284694902",
+                    "size": "13086629008",
+                    "download": "9864633424"
+                }
+            },
+            "decryptionkey": "74fdc835a5464cc5478feb51fe39906b4387d2628ddf60aef0fc1cafd0ee3bd5"
+        },
+        "1528222": {
+            "manifests": {
+                "public": {
+                    "gid": "7754534945490254859",
+                    "size": "7",
+                    "download": "64"
+                },
+                "delayedupdatebranch": {
+                    "gid": "7754534945490254859",
+                    "size": "7",
+                    "download": "64"
+                },
+                "update6": {
+                    "gid": "7754534945490254859",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "fca187893de45e9932d281cc69f9a8cdc2503d25f14725f015cae59f244ae55d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17210224",
+                "timeupdated": "1738417687"
+            },
+            "delayedupdatebranch": {
+                "buildid": "13568745",
+                "description": "Uses Older version of the game (2024-Feb-26)",
+                "timeupdated": "1712932115"
+            },
+            "update6": {
+                "buildid": "14024301",
+                "description": "Update 6 version of the game",
+                "timeupdated": "1727766977"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
