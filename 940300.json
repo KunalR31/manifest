@@ -1,0 +1,86 @@
+{
+    "appid": "940300",
+    "type": "Game",
+    "name": "Escape Legacy : Ancient Scrolls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28612352",
+    "update_time": "2025-04-23 09:19:40",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "940301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6032671892850079148",
+                    "size": "2878371744",
+                    "download": "2886325472"
+                }
+            },
+            "decryptionkey": "d6ae644fee743c705af80961e5fb39b2066b8e03960e690eae391b44085e1be1"
+        },
+        "940302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "242792713262080899",
+                    "size": "3567738458",
+                    "download": "3319833120"
+                }
+            },
+            "decryptionkey": "9ed0860a925b760209c70606a288ab7225d64394b185443906c28661f02e3c90"
+        },
+        "940303": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5325392576892515552",
+                    "size": "2846252754",
+                    "download": "2861286864"
+                }
+            },
+            "decryptionkey": "f9cab870bbe449cd899d583d339bb610ad95202321446d9538e35dfee53d356a"
+        },
+        "940304": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7585505423816897736",
+                    "size": "3134693298",
+                    "download": "2895351248"
+                }
+            },
+            "decryptionkey": "427436f47ed398c460e3aa0b3870784363838d1eec06a50f35d7b662d45252cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4029952",
+                "timeupdated": "1563645950"
+            }
+        }
+    }
+}
