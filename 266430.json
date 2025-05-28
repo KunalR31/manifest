@@ -1,0 +1,76 @@
+{
+    "appid": "266430",
+    "type": "Game",
+    "name": "Anarchy Arcade",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971051",
+    "update_time": "2025-05-14 08:57:46",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "266430",
+        "266431": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7209409426962577736",
+                    "size": "4055863227",
+                    "download": "2199949888"
+                },
+                "legacy": {
+                    "gid": "7209409426962577736",
+                    "size": "4055863227",
+                    "download": "2199949888"
+                }
+            },
+            "decryptionkey": "3d052e64a9f1c780d40de3395b9b7fbaac5736e3bd38fbc41eb05e00de390ada"
+        },
+        "266432": {
+            "manifests": {
+                "legacy": {
+                    "gid": "3840020338625629984",
+                    "size": "664424176",
+                    "download": "229829536"
+                }
+            },
+            "decryptionkey": "dd353c7c24201628ac90878d27b8654e028c26333e9d11c819c46467303ea6a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16902523",
+                "timeupdated": "1735940099"
+            },
+            "legacy": {
+                "buildid": "16902511",
+                "description": "Legacy support for pre-2016 users.  Not needed for regular users.",
+                "timeupdated": "1735940072"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
