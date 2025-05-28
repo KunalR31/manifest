@@ -1,0 +1,67 @@
+{
+    "appid": "1010850",
+    "type": "Game",
+    "name": "東方翠神廻廊 〜 Faith in the Goddess of Suwa.",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25071984",
+    "update_time": "2024-09-04 18:19:09",
+    "depot": {
+        "baselanguages": "japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1010851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6092997233490030022",
+                    "size": "1760239849",
+                    "download": "294232000"
+                }
+            },
+            "decryptionkey": "a0c2101ee81a7670119b925a87a4894d985f4b1d9d52b359d34ade63b5d634b7"
+        },
+        "1010852": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "960009285419348291",
+                    "size": "950802568",
+                    "download": "220609104"
+                }
+            },
+            "decryptionkey": "76761c08e229f53c6fc56790da6417d5d69783c2881024d460817f999a00576b"
+        },
+        "1010853": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4531804663369663270",
+                    "size": "2594966437",
+                    "download": "426737792"
+                }
+            },
+            "decryptionkey": "704d248eeb8b028b6b54944e642b34a5a0bd001791342fd978d977a4ab10e777"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15502556",
+                "timeupdated": "1724759787"
+            }
+        }
+    }
+}
