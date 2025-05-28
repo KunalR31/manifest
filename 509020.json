@@ -1,0 +1,92 @@
+{
+    "appid": "509020",
+    "type": "Application",
+    "name": "Sceelix - Procedural Power",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28928481",
+    "update_time": "2025-05-12 03:34:48",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "509021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5597830616303653187",
+                    "size": "108802730",
+                    "download": "57213248"
+                }
+            },
+            "decryptionkey": "48a289ff6884d4c49411c659c6d7c6d1519ae669af46cec88613adda0e05d486"
+        },
+        "509022": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1215242759145615022",
+                    "size": "109565330",
+                    "download": "57395040"
+                }
+            },
+            "decryptionkey": "ea546f2cb6e793caedad840cec1fcdbb5b24c1cdb7a5de1ab6d43bbc917153cb"
+        },
+        "509023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8733558117953035346",
+                    "size": "131383872",
+                    "download": "58892288"
+                }
+            },
+            "decryptionkey": "3b952e4895368b1b1d693313d80bdbc46a7111368fa8539e5b3bf62e7d3dacbc"
+        },
+        "509024": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4246379283494896356",
+                    "size": "326244492",
+                    "download": "265011856"
+                }
+            },
+            "decryptionkey": "a4796720d341565cda3f94e31dbadb1e8116b9de9e27a033f723ea0040bdd031"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6789503",
+                "timeupdated": "1622757741"
+            }
+        }
+    }
+}
