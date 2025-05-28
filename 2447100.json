@@ -1,0 +1,52 @@
+{
+    "appid": "2447100",
+    "type": "Game",
+    "name": "Scarred",
+    "schinese_name": "惨痕",
+    "isfreeapp": "0",
+    "change_number": "29045190",
+    "update_time": "2025-05-18 09:30:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2447101": {
+            "manifests": {
+                "public": {
+                    "gid": "7213091356469493884",
+                    "size": "35178951634",
+                    "download": "32574376560"
+                },
+                "local": {
+                    "gid": "2236095488394519157",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "45664cca6484d1396e655d45793115e26c623b3a3c649ee69c21b48817acc834"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18329765",
+                "timeupdated": "1746248984"
+            },
+            "local": {
+                "buildid": "12743248",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1700381591"
+            }
+        }
+    }
+}
