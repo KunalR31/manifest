@@ -1,0 +1,81 @@
+{
+    "appid": "312450",
+    "type": "Game",
+    "name": "Order of Battle: World War II",
+    "schinese_name": "战斗命令：太平洋",
+    "isfreeapp": "1",
+    "change_number": "28971668",
+    "update_time": "2025-05-14 09:57:47",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "312451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7478564995708546411",
+                    "size": "3187648691",
+                    "download": "1581798496"
+                },
+                "v8.3.0legacybuild": {
+                    "gid": "532789756446860071",
+                    "size": "5292129530",
+                    "download": "1397246560"
+                },
+                "v8.6.9legacybuild": {
+                    "gid": "7608097684832590221",
+                    "size": "2954541877",
+                    "download": "1482976976"
+                }
+            },
+            "decryptionkey": "5a496b539a6dde0d728b1097f4719335d0294d888a311c884a980752ac3a189a"
+        },
+        "312452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7392613750251160423",
+                    "size": "2907247094",
+                    "download": "1446793728"
+                },
+                "v8.3.0legacybuild": {
+                    "gid": "6110123604191771788",
+                    "size": "2636369703",
+                    "download": "1336212064"
+                },
+                "v8.6.9legacybuild": {
+                    "gid": "6105975817332608790",
+                    "size": "2907247104",
+                    "download": "1446793792"
+                }
+            },
+            "decryptionkey": "c8725ef595e766f9374749dc94e2e34450303a263ba29b0ef96f66f2d99a3169"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13155888",
+                "timeupdated": "1709740942"
+            },
+            "v8.3.0legacybuild": {
+                "buildid": "4482522",
+                "description": "32BitCompatibleVersion",
+                "timeupdated": "1587640239"
+            },
+            "v8.6.9legacybuild": {
+                "buildid": "6140698",
+                "description": "MacPBEMCompatibleVersion",
+                "timeupdated": "1611846528"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
