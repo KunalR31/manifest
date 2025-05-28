@@ -1,0 +1,72 @@
+{
+    "appid": "1479730",
+    "type": "Game",
+    "name": "Commandos: Origins",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29035196",
+    "update_time": "2025-05-17 09:13:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1479731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9168612380686654993",
+                    "size": "30144419027",
+                    "download": "11631504528"
+                },
+                "legacy_1.0.2": {
+                    "gid": "6721677041425129617",
+                    "size": "29620636436",
+                    "download": "11439289632"
+                }
+            },
+            "decryptionkey": "64205c91ebfac38afeb2011798b9270dc5d1eec20ef0d4b176a42fbf5570de84"
+        },
+        "3565060": {
+            "dlcappid": "3565060",
+            "manifests": {
+                "public": {
+                    "gid": "3073898408723519129",
+                    "size": "703903538",
+                    "download": "562423344"
+                },
+                "legacy_1.0.2": {
+                    "gid": "3073898408723519129",
+                    "size": "703903538",
+                    "download": "562423344"
+                }
+            },
+            "decryptionkey": "25969d0cfdf09a97590616156414c9996ebf94afe209ed4cb0eb957fa79a2c77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18135490",
+                "timeupdated": "1744842323"
+            },
+            "legacy_1.0.2": {
+                "buildid": "18056322",
+                "description": "Build 1.0.2",
+                "timeupdated": "1744811203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
