@@ -1,0 +1,66 @@
+{
+    "appid": "595280",
+    "type": "Game",
+    "name": "Throne of Lies®: Medieval Politics",
+    "schinese_name": "謊言王座 Throne of Lies",
+    "isfreeapp": "1",
+    "change_number": "26032432",
+    "update_time": "2024-11-04 13:57:43",
+    "depot": {
+        "baselanguages": "english,tchinese",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "595281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6288916986174230665",
+                    "size": "2343233955",
+                    "download": "993331264"
+                },
+                "local": {
+                    "gid": "8040116159236543375",
+                    "size": "1998019061",
+                    "download": "817699952"
+                }
+            },
+            "decryptionkey": "a0b1003edfcb0a9e3ab253ac3281cc5eafa7bd4a1a9674135ba261f78455ad87"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16283950",
+                "timeupdated": "1730699860"
+            },
+            "local": {
+                "buildid": "7383044",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1631974567"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
