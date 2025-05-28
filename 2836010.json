@@ -1,0 +1,94 @@
+{
+    "appid": "2836010",
+    "type": "Game",
+    "name": "Necrosphere64",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27393167",
+    "update_time": "2025-02-10 10:26:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2836011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5929847309312975816",
+                    "size": "383321875",
+                    "download": "204114064"
+                }
+            },
+            "decryptionkey": "2b3c0bef32c1fa48fc0eb7f220b7d03de8a2a923668a016798e15328db5edff6"
+        },
+        "2836012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2915775602632429491",
+                    "size": "349377101",
+                    "download": "198799296"
+                }
+            },
+            "decryptionkey": "14c1113ac15415eda66831d8724ad4aafbdffec68a06e6df38ec204ded1c2585"
+        },
+        "2836013": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3640184168836101555",
+                    "size": "511334895",
+                    "download": "222843248"
+                }
+            },
+            "decryptionkey": "0c173c6b2c55f25353b390cdaa245a283180a2ccb58201747df7d589974116d2"
+        },
+        "2836014": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5598990346846778937",
+                    "size": "504021797",
+                    "download": "216724976"
+                }
+            },
+            "decryptionkey": "a898fc54b8c752fda35158145fa85037e130650e2ec0c4a54bfe322e2bebe8db"
+        },
+        "2836016": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "780711169962441843",
+                    "size": "456102587",
+                    "download": "213761728"
+                }
+            },
+            "decryptionkey": "9d16fbafcc1c1430ee3f7da4592659ad9aec499835fe44cd233ca5be38a6005d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15363780",
+                "timeupdated": "1723609714"
+            }
+        }
+    }
+}
