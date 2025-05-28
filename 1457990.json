@@ -1,0 +1,95 @@
+{
+    "appid": "1457990",
+    "type": "Game",
+    "name": "Yuligans: Christmas is Coming!",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28987341",
+    "update_time": "2025-05-15 02:26:46",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1457991": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5575295279767412241",
+                    "size": "293829168",
+                    "download": "191140704"
+                },
+                "compatibility": {
+                    "gid": "7637808243335239128",
+                    "size": "295509748",
+                    "download": "191648832"
+                }
+            },
+            "decryptionkey": "0236d16f0be66cc9cdf4a1c8769fe3af2ee4e9954e6558ae5ee7cf2badccbcf8"
+        },
+        "1457992": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7535851305300616287",
+                    "size": "258703315",
+                    "download": "147260768"
+                },
+                "compatibility": {
+                    "gid": "5376931859740357858",
+                    "size": "313785337",
+                    "download": "145893248"
+                }
+            },
+            "decryptionkey": "e7079f3a57bb18495dda5672d4b5e427233b6ec4e6ef5f8b35da597c1f6b2839"
+        },
+        "1457993": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6527509282216172787",
+                    "size": "393498723",
+                    "download": "168349184"
+                },
+                "compatibility": {
+                    "gid": "1195586961819348493",
+                    "size": "424882014",
+                    "download": "157066672"
+                }
+            },
+            "decryptionkey": "1bf555de62c19ec2bbe0d31cca15b30cf5e7faa8275ea143e7ba6a897f365b0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9975881",
+                "timeupdated": "1669171529"
+            },
+            "compatibility": {
+                "buildid": "7945204",
+                "description": "Uses older version of Unreal Engine for compatibility issues.",
+                "timeupdated": "1640633116"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
