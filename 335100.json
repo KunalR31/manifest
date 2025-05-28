@@ -1,0 +1,80 @@
+{
+    "appid": "335100",
+    "type": "Game",
+    "name": "Dwarf Tower",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 03:03:09",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "335101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2848086482792304602",
+                    "size": "73990315",
+                    "download": "60232256"
+                },
+                "beta": {
+                    "gid": "4737024119442774540",
+                    "size": "67915623",
+                    "download": "58890240"
+                }
+            },
+            "decryptionkey": "5f2a4011fda2fc61e0102fc25f7c73756f2d060643a0e2b535f364181830a3fd"
+        },
+        "335102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "388976178666976030",
+                    "size": "78023923",
+                    "download": "60145776"
+                },
+                "beta": {
+                    "gid": "7294651776507812211",
+                    "size": "68911007",
+                    "download": "59071392"
+                }
+            },
+            "decryptionkey": "321276fd3c1bdc2b053aea58e5479becc4d54a84b71fc680b4f0a0d222640890"
+        },
+        "baselanguages": "english,german,french,italian,russian,portuguese,polish,dutch,hungarian,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "1307073",
+                "timeupdated": "1652812281"
+            },
+            "beta": {
+                "buildid": "6235465",
+                "description": "beta",
+                "timeupdated": "1613226231"
+            }
+        }
+    }
+}
