@@ -1,0 +1,77 @@
+{
+    "appid": "1847210",
+    "type": "Application",
+    "name": "中国传统武术 八卦掌 六十四手 Chinese martial arts (kungfu) The 64 Hands of Bagua Zhang",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28859192",
+    "update_time": "2025-05-07 18:12:06",
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1847211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1632344056256885104",
+                    "size": "996074002",
+                    "download": "840777088"
+                },
+                "test": {
+                    "gid": "1632344056256885104",
+                    "size": "996074002",
+                    "download": "840777088"
+                }
+            },
+            "decryptionkey": "d0bc05c9a39a3f820a9535d0400c721feb642bd18450340c5d1fad27e5a545c2"
+        },
+        "1847212": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "207382213114003104",
+                    "size": "993339155",
+                    "download": "838047344"
+                },
+                "test": {
+                    "gid": "7189693455279656591",
+                    "size": "996053896",
+                    "download": "840729952"
+                }
+            },
+            "decryptionkey": "1ddcf4da0d0ebd89e30a30dd38e0fb636fb20ae7ac5abe20fb62f7649ff986b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18372287",
+                "timeupdated": "1746612720"
+            },
+            "test": {
+                "sc_schinese": "测试",
+                "buildid": "18372265",
+                "description": "测试",
+                "timeupdated": "1746612637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
