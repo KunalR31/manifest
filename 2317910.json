@@ -1,0 +1,53 @@
+{
+    "appid": "2317910",
+    "type": "Game",
+    "name": "Chinese Frontiers: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28530727",
+    "update_time": "2025-04-17 22:13:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2317911": {
+            "manifests": {
+                "public": {
+                    "gid": "884759213738658844",
+                    "size": "6094523457",
+                    "download": "3095370496"
+                },
+                "ue4-prologue": {
+                    "gid": "7629565196030821058",
+                    "size": "8204513321",
+                    "download": "4021272048"
+                }
+            },
+            "decryptionkey": "6d90126b53eab03b03fd4ba3cfca72cd865b8f3303288b2bf91bc20ebb46501f"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "13185982",
+                "timeupdated": "1705423075"
+            },
+            "ue4-prologue": {
+                "buildid": "11360440",
+                "description": "old version, before engine change",
+                "timeupdated": "1695394507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
