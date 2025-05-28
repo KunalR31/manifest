@@ -1,0 +1,72 @@
+{
+    "appid": "311700",
+    "type": "Game",
+    "name": "BloodRealm: Battlegrounds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-06-21 01:09:59",
+    "depot": {
+        "311701": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4102537223214629401",
+                    "size": "484441604",
+                    "download": "394806512"
+                },
+                "qa": {
+                    "gid": "6197470665051730480",
+                    "size": "486365915",
+                    "download": "396811104"
+                },
+                "stage": {
+                    "gid": "4236471170205878533",
+                    "size": "486365921",
+                    "download": "396811536"
+                }
+            },
+            "decryptionkey": "1d49ad425da5645446805a607f4ec34efa0f369309611feed439e50832ec1ae8"
+        },
+        "311702": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "956798352322204270",
+                    "size": "618512315",
+                    "download": "398105808"
+                },
+                "qa": {
+                    "gid": "4661698666498777615",
+                    "size": "620436626",
+                    "download": "400110384"
+                },
+                "stage": {
+                    "gid": "8451531152730407000",
+                    "size": "620436632",
+                    "download": "400110880"
+                }
+            },
+            "decryptionkey": "0c0b7bc90ebd492b4bfef72d9973fe28f20e119493812ea7f3005a77088d1865"
+        },
+        "branches": {
+            "public": {
+                "buildid": "595949"
+            },
+            "qa": {
+                "buildid": "595603",
+                "description": "testing branch"
+            },
+            "stage": {
+                "buildid": "595844",
+                "description": "stage"
+            }
+        }
+    }
+}
