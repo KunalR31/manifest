@@ -1,0 +1,75 @@
+{
+    "appid": "1088150",
+    "type": "Game",
+    "name": "Scribble It!",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27126725",
+    "update_time": "2025-01-23 16:29:58",
+    "depot": {
+        "workshopdepot": "1088150",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,dutch,swedish,romanian,turkish,ukrainian,vietnamese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1088153": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2100569672273465564",
+                    "size": "875318487",
+                    "download": "179284672"
+                }
+            },
+            "decryptionkey": "97035e41bb59162e8e4f7e9e7a53af76c998883cbcf8850f0e0316a9f1c222d2"
+        },
+        "1088155": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7725326474146821464",
+                    "size": "1025256085",
+                    "download": "201334624"
+                }
+            },
+            "decryptionkey": "f91eb70086743b43d335376449c852380abb2bb8b4c11a299b0ce1c37baef410"
+        },
+        "1088156": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "454585748309778135",
+                    "size": "901553377",
+                    "download": "188862960"
+                }
+            },
+            "decryptionkey": "5bdfaf8c5ce1ca96a1d034fc1b6c011d5cf4a97941f6cdf4da2f39e927cbf67a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15886179",
+                "timeupdated": "1727949853"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
