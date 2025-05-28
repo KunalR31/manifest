@@ -1,0 +1,143 @@
+{
+    "appid": "96200",
+    "type": "Game",
+    "name": "Steel Storm: Burning Retribution",
+    "schinese_name": "钢铁风暴：燃烧的报应",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:49",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "96201": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7737161883198659508",
+                    "size": "874437424",
+                    "download": "853883728"
+                },
+                "ssbr_test": {
+                    "gid": "5494136226984645425",
+                    "size": "875036868",
+                    "download": "854473504"
+                }
+            },
+            "decryptionkey": "c8a76944d76f39eb3d1edee3db7c964c5d23856745fc7f2080443f3e4a17ca9b"
+        },
+        "96202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2012277145030000639",
+                    "size": "34184913",
+                    "download": "0"
+                },
+                "ssbr_test": {
+                    "gid": "2012277145030000639",
+                    "size": "34184913",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0754f8a1995b42e5b91a971f2b0e1ae208bf62de95621fef3fc78a9d454bc44e"
+        },
+        "96203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7188877881918711924",
+                    "size": "7110734",
+                    "download": "2375120"
+                },
+                "ssbr_test": {
+                    "gid": "7188877881918711924",
+                    "size": "7110734",
+                    "download": "2375120"
+                }
+            },
+            "decryptionkey": "abd371985ecea02847b40529c8feb0f883cb2c922c0c606137600269dd1530a4"
+        },
+        "96204": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6543455038990953710",
+                    "size": "92168693",
+                    "download": "31037232"
+                },
+                "ssbr_test": {
+                    "gid": "6543455038990953710",
+                    "size": "92168693",
+                    "download": "31037232"
+                }
+            },
+            "decryptionkey": "8560a9b45f0551b1129ccc19917ca63feeb24ba583bb37992a288bddf3526c0a"
+        },
+        "202651": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3266460687684784846",
+                    "size": "2324272",
+                    "download": "0"
+                },
+                "ssbr_test": {
+                    "gid": "3266460687684784846",
+                    "size": "2324272",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "202651",
+            "decryptionkey": ""
+        },
+        "202652": {
+            "manifests": {
+                "public": {
+                    "gid": "8297040719268597069",
+                    "size": "35285961",
+                    "download": "34967568"
+                },
+                "ssbr_test": {
+                    "gid": "3358329427638513789",
+                    "size": "35868274",
+                    "download": "35542704"
+                }
+            },
+            "dlcappid": "202652",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "674922"
+            },
+            "ssbr_test": {
+                "buildid": "683074",
+                "description": "SS:BR updates testing branch"
+            }
+        }
+    }
+}
