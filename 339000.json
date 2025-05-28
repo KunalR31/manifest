@@ -1,0 +1,64 @@
+{
+    "appid": "339000",
+    "type": "Game",
+    "name": "Ukrainian Ninja",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26808945",
+    "update_time": "2024-12-29 15:39:45",
+    "depot": {
+        "baselanguages": "english,ukrainian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "339001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2561383393853077371",
+                    "size": "1608208259",
+                    "download": "1206794896"
+                }
+            },
+            "decryptionkey": "762dcb49ea573666aac1fb1e1632b5e0202f5eb184fd56aa1b4b4b3db9d91fd7"
+        },
+        "339002": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "339003": {
+            "config": {
+                "oslist": "windows",
+                "language": "ukrainian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8519530222985206445",
+                    "size": "73515",
+                    "download": "20672"
+                }
+            },
+            "decryptionkey": "e21f349aca94f8f6c43c399db4b5170112fae49740f80f2c42cbfd9abe70e3a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1079366",
+                "timeupdated": "1460907775"
+            }
+        }
+    }
+}
