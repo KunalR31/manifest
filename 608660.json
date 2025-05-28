@@ -1,0 +1,68 @@
+{
+    "appid": "608660",
+    "type": "Game",
+    "name": "Psebay",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28179701",
+    "update_time": "2025-03-28 06:17:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,ukrainian",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "608660",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "608661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3699664499211341240",
+                    "size": "74199798",
+                    "download": "43706816"
+                }
+            },
+            "decryptionkey": "c36fbd2b410a79ec501b492725bd0a691094b8883be50275915a58b2069635ee"
+        },
+        "608662": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4860022876004276828",
+                    "size": "58114597",
+                    "download": "41565008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "608663": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7603001355121368988",
+                    "size": "88038513",
+                    "download": "49249808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4880509",
+                "timeupdated": "1586461698"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
