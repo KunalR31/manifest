@@ -1,0 +1,112 @@
+{
+    "appid": "595120",
+    "type": "Game",
+    "name": "Cold Space",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975409",
+    "update_time": "2025-05-14 22:38:56",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "595121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8140398946643421735",
+                    "size": "2816740539",
+                    "download": "2669102368"
+                },
+                "beta": {
+                    "gid": "8140398946643421735",
+                    "size": "2816740539",
+                    "download": "2669102368"
+                }
+            },
+            "decryptionkey": "9e462e6103de4e638329ded5022a5ab55a18f6881633f81dc74920f0fcc1d783"
+        },
+        "595124": {
+            "sharedinstall": "",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2444015295101307266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2444015295101307266",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d2374b0b178dee7ad143cc97cdd37bc469d2a9a54e41d3b4da84c4d7ebcb4e47"
+        },
+        "595122": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2716343504271404995",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2716343504271404995",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3cba9ae05832968336a40a137a14951aa60de3298821431d4c2bdca3055bddce"
+        },
+        "595123": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2492810518490768661",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2492810518490768661",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "57a656217f8150be09748c40cbd0f38efff53fd0f22c52a5848e5a3dbd9b270e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4893366",
+                "timeupdated": "1586817816"
+            },
+            "beta": {
+                "buildid": "4893366",
+                "description": "Development & Beta Testing",
+                "timeupdated": "1586816822"
+            }
+        }
+    }
+}
