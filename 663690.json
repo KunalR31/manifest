@@ -1,0 +1,66 @@
+{
+    "appid": "663690",
+    "type": "Game",
+    "name": "Rival Rampage",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28919844",
+    "update_time": "2025-05-11 03:31:36",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "663691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "236361664685430303",
+                    "size": "446758409",
+                    "download": "189063184"
+                },
+                "beta": {
+                    "gid": "236361664685430303",
+                    "size": "446758409",
+                    "download": "189063184"
+                }
+            },
+            "decryptionkey": "cf62be1ffa7cba86decd9361b3d8a4aa5aebc261d66309679b6049f31306d076"
+        },
+        "663692": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2560852931897941646",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2560852931897941646",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2344fe4104569e3892f1b95984d58bb6966430b883395b14eb3385c8185ae05e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7669243",
+                "timeupdated": "1636219247"
+            },
+            "beta": {
+                "buildid": "7669243",
+                "description": "beta",
+                "timeupdated": "1740148813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
