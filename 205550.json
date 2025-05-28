@@ -1,0 +1,60 @@
+{
+    "appid": "205550",
+    "type": "Game",
+    "name": "Foreign Legion: Multi Massacre",
+    "schinese_name": "外籍军团：全方位杀戮",
+    "isfreeapp": "0",
+    "change_number": "28302271",
+    "update_time": "2025-04-04 13:15:24",
+    "depot": {
+        "205552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7071897335752134886",
+                    "size": "517194302",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1544631508863277549",
+                    "size": "517194302",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4de65c29949696d3057e80201134a06fcc0c71b708f48a43e74483ead6b7e8b1"
+        },
+        "205551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1528703785556806943",
+                    "size": "494044324",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1301733902411020730",
+                    "size": "494044324",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6c5fa12b8abbafe0bfc5b8b89f38dd102a070c14d91f1c32d308f84fd422c81d"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "22162"
+            },
+            "local": {
+                "buildid": "22159",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
