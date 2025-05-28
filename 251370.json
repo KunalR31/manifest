@@ -1,0 +1,100 @@
+{
+    "appid": "251370",
+    "type": "Game",
+    "name": "Escape Goat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970832",
+    "update_time": "2025-05-14 08:37:57",
+    "depot": {
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "251371": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2765447758728034061",
+                    "size": "42835067",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7709690589419709341",
+                    "size": "42836091",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3940272839470165121",
+                    "size": "48589604",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f8998a8338fca9eb39d852065f06bcfdd1a54db703df0c105e58d0e3b0a140cd"
+        },
+        "251372": {
+            "shareddepottype": "0",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8470980018131338365",
+                    "size": "68523089",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5923712423533478443",
+                    "size": "68079098",
+                    "download": "41424208"
+                }
+            },
+            "decryptionkey": "974bf59c8ce6f0073979b38eaadcda013b65fefd2a82a9212cf1e34012605ef2"
+        },
+        "251373": {
+            "shareddepottype": "0",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5498487567694017807",
+                    "size": "63548699",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7808886627166748401",
+                    "size": "79398010",
+                    "download": "44037072"
+                }
+            },
+            "decryptionkey": "c1df1acfba0890fb181eb9341bdfa6386f87b9738420b14132de138977d52a4e"
+        },
+        "0": {
+            "shareddepottype": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "131020"
+            },
+            "beta": {
+                "buildid": "6029157",
+                "description": "beta version",
+                "timeupdated": "1609452771"
+            },
+            "local": {
+                "buildid": "116270",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
