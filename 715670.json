@@ -1,0 +1,86 @@
+{
+    "appid": "715670",
+    "type": "Application",
+    "name": "DashPanel",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28850727",
+    "update_time": "2025-05-07 06:40:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "715671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7153897017095900220",
+                    "size": "298201096",
+                    "download": "50352288"
+                },
+                "1.5.5": {
+                    "gid": "249883501296885051",
+                    "size": "195664795",
+                    "download": "36933968"
+                },
+                "1.8.6_unity_2018": {
+                    "gid": "2137836224246691679",
+                    "size": "257047120",
+                    "download": "42964480"
+                },
+                "1.8.17_legacynetworking": {
+                    "gid": "958426479352171243",
+                    "size": "285989411",
+                    "download": "49010880"
+                },
+                "betaopen": {
+                    "gid": "7153897017095900220",
+                    "size": "298201096",
+                    "download": "50352288"
+                }
+            },
+            "decryptionkey": "90974c5f4f72554e50495e425b80ed0e5485ca361cc79dedcad380ca2de3dfaa"
+        },
+        "workshopdepot": "715670",
+        "branches": {
+            "public": {
+                "buildid": "18355523",
+                "timeupdated": "1746571248"
+            },
+            "1.5.5": {
+                "buildid": "3134911",
+                "description": "VR performance issue",
+                "timeupdated": "1668241831"
+            },
+            "1.8.6_unity_2018": {
+                "buildid": "9776503",
+                "description": "Last Unity 2018 build",
+                "timeupdated": "1668240928"
+            },
+            "1.8.17_legacynetworking": {
+                "buildid": "14462103",
+                "description": "Build using Lidgren for networking",
+                "timeupdated": "1718099303"
+            },
+            "betaopen": {
+                "buildid": "18355523",
+                "description": "Open Beta",
+                "timeupdated": "1746513977"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
