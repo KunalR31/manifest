@@ -1,0 +1,64 @@
+{
+    "appid": "577710",
+    "type": "Game",
+    "name": "Pirates of Everseas",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28693573",
+    "update_time": "2025-04-27 23:52:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "577711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "61501293473913141",
+                    "size": "135826191",
+                    "download": "99774784"
+                },
+                "beta": {
+                    "gid": "61501293473913141",
+                    "size": "135826191",
+                    "download": "99774784"
+                }
+            },
+            "decryptionkey": "d61edf47a3408dff960334bc5c494e1f7b7f5f9e746944e46116fbb43f513d9e"
+        },
+        "577712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2883034317946070130",
+                    "size": "122236343",
+                    "download": "89937104"
+                },
+                "beta": {
+                    "gid": "2883034317946070130",
+                    "size": "122236343",
+                    "download": "89937104"
+                }
+            },
+            "decryptionkey": "3f857a331a2211bdbdd9b52444b8e6c13356f37447458460f21e5a8eaeaee0fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16952094",
+                "timeupdated": "1736430817"
+            },
+            "beta": {
+                "buildid": "16952094",
+                "timeupdated": "1736429992"
+            }
+        }
+    }
+}
