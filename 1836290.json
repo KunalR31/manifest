@@ -1,0 +1,50 @@
+{
+    "appid": "1836290",
+    "type": "Game",
+    "name": "They Die Tomorrow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:16",
+    "depot": {
+        "1836291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5553225336886503959",
+                    "size": "2385097598",
+                    "download": "2085752000"
+                },
+                "beta": {
+                    "gid": "5553225336886503959",
+                    "size": "2385097598",
+                    "download": "2085752000"
+                },
+                "beta-unstable": {
+                    "gid": "8328228169321972327",
+                    "size": "2366702056",
+                    "download": "2070752496"
+                }
+            },
+            "decryptionkey": "1dc3958dcfac58b28c065b409dcc9e7e7c681cff6ed00b9b09d4c8fb7c483bee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8981090",
+                "timeupdated": "1655912143"
+            },
+            "beta": {
+                "buildid": "8981090",
+                "description": "Branch containing unreleased changes or fixes",
+                "timeupdated": "1655843091"
+            },
+            "beta-unstable": {
+                "buildid": "8751342",
+                "description": "Not recommended! This branch is for testing breaking changes.",
+                "timeupdated": "1652749060"
+            }
+        }
+    }
+}
