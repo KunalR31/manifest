@@ -1,0 +1,96 @@
+{
+    "appid": "1072870",
+    "type": "Game",
+    "name": "Random War",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28444583",
+    "update_time": "2025-04-12 21:10:37",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1072871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4520118104258733919",
+                    "size": "127703470",
+                    "download": "57444560"
+                },
+                "test": {
+                    "gid": "4520118104258733919",
+                    "size": "127703470",
+                    "download": "57444560"
+                }
+            },
+            "decryptionkey": "ede19687495bea3d42d99eaf5665d2f03f7eb43a3eee83cb46a6988204a5c7ad"
+        },
+        "1072872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3222643106945035701",
+                    "size": "140222333",
+                    "download": "59652432"
+                },
+                "test": {
+                    "gid": "3222643106945035701",
+                    "size": "140222333",
+                    "download": "59652432"
+                }
+            }
+        },
+        "1072873": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "925098772277439840",
+                    "size": "120209990",
+                    "download": "55089472"
+                },
+                "test": {
+                    "gid": "925098772277439840",
+                    "size": "120209990",
+                    "download": "55089472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5929434",
+                "timeupdated": "1607275543"
+            },
+            "test": {
+                "buildid": "5929434",
+                "description": "testing",
+                "timeupdated": "1607274361"
+            }
+        }
+    }
+}
