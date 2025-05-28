@@ -1,0 +1,102 @@
+{
+    "appid": "1918080",
+    "type": "Game",
+    "name": "Path Of Destruction",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27195248",
+    "update_time": "2025-01-28 13:36:08",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,brazilian",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1918081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7292069807531925366",
+                    "size": "326838248",
+                    "download": "99095424"
+                },
+                "apple-mac": {
+                    "gid": "1328898810455176400",
+                    "size": "326484874",
+                    "download": "99035904"
+                },
+                "linux": {
+                    "gid": "1328898810455176400",
+                    "size": "326484874",
+                    "download": "99035904"
+                }
+            },
+            "decryptionkey": "5d9cadb6e3017f115cb9b935f9e194f1e931ccc987a2f57d9ef8111fe10234ac"
+        },
+        "1918082": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "9041595318628810523",
+                    "size": "325043950",
+                    "download": "97323952"
+                }
+            },
+            "decryptionkey": "ee0c3a00117a7ff18f26ca583428676032935d157350fc8a844bb388de63963d"
+        },
+        "1918083": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4798171640076313031",
+                    "size": "350481540",
+                    "download": "105882688"
+                },
+                "apple-mac": {
+                    "gid": "4046258786766901582",
+                    "size": "350481540",
+                    "download": "105882688"
+                },
+                "linux": {
+                    "gid": "4798171640076313031",
+                    "size": "350481540",
+                    "download": "105882688"
+                }
+            },
+            "decryptionkey": "7f669e62ea200bc721f4a6657fc4e88c8fee0d248492771e1371f0c087d624b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12865766",
+                "timeupdated": "1701663636"
+            },
+            "apple-mac": {
+                "buildid": "12865780",
+                "description": "Public Mac branch",
+                "timeupdated": "1701663711"
+            },
+            "linux": {
+                "buildid": "12865770",
+                "description": "Public default linux",
+                "timeupdated": "1701663672"
+            }
+        }
+    }
+}
