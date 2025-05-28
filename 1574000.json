@@ -1,0 +1,103 @@
+{
+    "appid": "1574000",
+    "type": "Game",
+    "name": "Industry Idle",
+    "schinese_name": "放置工业",
+    "isfreeapp": "1",
+    "change_number": "28988182",
+    "update_time": "2025-05-15 03:26:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1574001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7069286497366255038",
+                    "size": "258393410",
+                    "download": "92580448"
+                },
+                "beta": {
+                    "gid": "7069286497366255038",
+                    "size": "258393410",
+                    "download": "92580448"
+                },
+                "legacy": {
+                    "gid": "7069286497366255038",
+                    "size": "258393410",
+                    "download": "92580448"
+                }
+            },
+            "decryptionkey": "045607dda7329602fd5a11ffa52761ea30b46caeb9afe89c287448bc86941977"
+        },
+        "1574002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6615088700649553786",
+                    "size": "251629693",
+                    "download": "89756992"
+                },
+                "beta": {
+                    "gid": "6615088700649553786",
+                    "size": "251629693",
+                    "download": "89756992"
+                },
+                "legacy": {
+                    "gid": "6615088700649553786",
+                    "size": "251629693",
+                    "download": "89756992"
+                }
+            },
+            "decryptionkey": "87ee3cb9e8966fbfa5a8900bb8769d0c301b55d8b284c09b46a21673b5bd2169"
+        },
+        "1574003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4090409183798525022",
+                    "size": "265060200",
+                    "download": "89129056"
+                },
+                "beta": {
+                    "gid": "4090409183798525022",
+                    "size": "265060200",
+                    "download": "89129056"
+                },
+                "legacy": {
+                    "gid": "4090409183798525022",
+                    "size": "265060200",
+                    "download": "89129056"
+                }
+            },
+            "decryptionkey": "752df02daf3712fa78c04735170ec06e65306c0397fec15486dd70987f0f0a04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15679550",
+                "timeupdated": "1726260601"
+            },
+            "beta": {
+                "buildid": "15679550",
+                "description": "Beta build before release",
+                "timeupdated": "1726156701"
+            },
+            "legacy": {
+                "buildid": "15679550",
+                "description": "Legacy version that is usually one week older (you can choose this version if you are not ready to update)",
+                "timeupdated": "1726260630"
+            }
+        }
+    }
+}
