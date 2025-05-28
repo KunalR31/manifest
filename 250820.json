@@ -1,0 +1,644 @@
+{
+    "appid": "250820",
+    "type": "Tool",
+    "name": "SteamVR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28967338",
+    "update_time": "2025-05-14 03:32:56",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "250820",
+        "250821": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1699540566143558450",
+                    "size": "944724674",
+                    "download": "336841712"
+                },
+                "beta": {
+                    "gid": "1786297228703696606",
+                    "size": "944686786",
+                    "download": "336825920"
+                },
+                "previous": {
+                    "gid": "4310587199653651770",
+                    "size": "973378554",
+                    "download": "345973776"
+                },
+                "temp_v1.27.5": {
+                    "gid": "1494197004626350073",
+                    "size": "1144424904",
+                    "download": "359308672"
+                },
+                "oculus_win7and8": {
+                    "gid": "572717635991484269",
+                    "size": "567839816",
+                    "download": "188096528"
+                },
+                "macos_beta": {
+                    "gid": "6832648623680715693",
+                    "size": "462410695",
+                    "download": "133069360"
+                },
+                "macos_default": {
+                    "gid": "4809878882690436099",
+                    "size": "459866503",
+                    "download": "132842256"
+                }
+            },
+            "decryptionkey": "00ec8a4b573555900cc68693dab8b90beaaf342afe9b21dfd266704b6f83f02f"
+        },
+        "250822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5914501107808599266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5914501107808599266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "5914501107808599266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temp_v1.27.5": {
+                    "gid": "5914501107808599266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oculus_win7and8": {
+                    "gid": "5914501107808599266",
+                    "size": "0",
+                    "download": "0"
+                },
+                "macos_beta": {
+                    "gid": "237070737930197213",
+                    "size": "1293706717",
+                    "download": "376227424"
+                },
+                "macos_default": {
+                    "gid": "850810673777497828",
+                    "size": "1274859706",
+                    "download": "371457344"
+                }
+            },
+            "decryptionkey": "ae4275e6bf4f3a8ae4588cfbab25516761c51bdeff913aa82614bb63ab8cf5e6"
+        },
+        "250823": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3636754815954153708",
+                    "size": "1062064533",
+                    "download": "351351088"
+                },
+                "beta": {
+                    "gid": "7076663852989793859",
+                    "size": "1057744221",
+                    "download": "349820192"
+                },
+                "previous": {
+                    "gid": "495463339726349417",
+                    "size": "1061761033",
+                    "download": "351277744"
+                },
+                "temp_v1.27.5": {
+                    "gid": "6793017837429788461",
+                    "size": "1026605522",
+                    "download": "339757232"
+                },
+                "oculus_win7and8": {
+                    "gid": "942142063089491507",
+                    "size": "1048919452",
+                    "download": "228199904"
+                },
+                "macos_beta": {
+                    "gid": "803790811383272036",
+                    "size": "361336731",
+                    "download": "97642640"
+                },
+                "macos_default": {
+                    "gid": "6758832809219158937",
+                    "size": "360129248",
+                    "download": "97298960"
+                }
+            },
+            "decryptionkey": "13c4c0c9bb0c0f90f532ea739dc8ef2d6de76244abe6c2ce563838e21015ba56"
+        },
+        "250824": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1280757035379877097",
+                    "size": "600504428",
+                    "download": "284975792"
+                },
+                "beta": {
+                    "gid": "8320350744542007823",
+                    "size": "600475084",
+                    "download": "284972112"
+                },
+                "previous": {
+                    "gid": "6261883264341492400",
+                    "size": "600744257",
+                    "download": "284867648"
+                },
+                "temp_v1.27.5": {
+                    "gid": "2232945182712745816",
+                    "size": "543322310",
+                    "download": "241311984"
+                },
+                "oculus_win7and8": {
+                    "gid": "4531901809292176398",
+                    "size": "1618792687",
+                    "download": "550687456"
+                },
+                "macos_beta": {
+                    "gid": "6798763317780452539",
+                    "size": "1879563575",
+                    "download": "426070608"
+                },
+                "macos_default": {
+                    "gid": "4313870248038009352",
+                    "size": "1985826818",
+                    "download": "456996000"
+                }
+            },
+            "decryptionkey": "235ea3a0904c219552e3064384b27519259ddf6437861df84d5717580bf27166"
+        },
+        "250825": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6878307259591782433",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6878307259591782433",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "6878307259591782433",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temp_v1.27.5": {
+                    "gid": "6878307259591782433",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oculus_win7and8": {
+                    "gid": "6878307259591782433",
+                    "size": "0",
+                    "download": "0"
+                },
+                "macos_beta": {
+                    "gid": "5329381027505519135",
+                    "size": "1840413",
+                    "download": "539168"
+                },
+                "macos_default": {
+                    "gid": "5329381027505519135",
+                    "size": "1840413",
+                    "download": "539168"
+                }
+            },
+            "decryptionkey": "e6d9ce434240a273d90a948ae91e3e3dc377bacede1984b597fad6789c47b604"
+        },
+        "250827": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5594498920410989322",
+                    "size": "4831854",
+                    "download": "3070512"
+                },
+                "beta": {
+                    "gid": "2190029673101935499",
+                    "size": "4832757",
+                    "download": "3070544"
+                },
+                "previous": {
+                    "gid": "4159532569724364626",
+                    "size": "4839854",
+                    "download": "3070624"
+                },
+                "temp_v1.27.5": {
+                    "gid": "149537799382090177",
+                    "size": "4816999",
+                    "download": "3064592"
+                },
+                "oculus_win7and8": {
+                    "gid": "6599801986998538904",
+                    "size": "3591011",
+                    "download": "2249216"
+                },
+                "macos_beta": {
+                    "gid": "1131697989599266205",
+                    "size": "1748712",
+                    "download": "804048"
+                },
+                "macos_default": {
+                    "gid": "1131697989599266205",
+                    "size": "1748712",
+                    "download": "804048"
+                }
+            },
+            "decryptionkey": "b93b1524f9b31d6b9ca97fb10e05d4bcca9c4006ade419d336ffb065158e9354"
+        },
+        "250828": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temp_v1.27.5": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oculus_win7and8": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "macos_beta": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                },
+                "macos_default": {
+                    "gid": "7972087267127211047",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "250829": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8853391724673135535",
+                    "size": "22",
+                    "download": "80"
+                },
+                "beta": {
+                    "gid": "8853391724673135535",
+                    "size": "22",
+                    "download": "80"
+                },
+                "previous": {
+                    "gid": "8853391724673135535",
+                    "size": "22",
+                    "download": "80"
+                },
+                "temp_v1.27.5": {
+                    "gid": "1180860512328011191",
+                    "size": "22",
+                    "download": "80"
+                },
+                "oculus_win7and8": {
+                    "gid": "1180860512328011191",
+                    "size": "22",
+                    "download": "80"
+                },
+                "macos_beta": {
+                    "gid": "1180860512328011191",
+                    "size": "22",
+                    "download": "80"
+                },
+                "macos_default": {
+                    "gid": "1180860512328011191",
+                    "size": "22",
+                    "download": "80"
+                }
+            }
+        },
+        "250830": {
+            "manifests": {
+                "public": {
+                    "gid": "7391958373704501609",
+                    "size": "3356665389",
+                    "download": "1108877024"
+                },
+                "beta": {
+                    "gid": "7391958373704501609",
+                    "size": "3356665389",
+                    "download": "1108877024"
+                },
+                "previous": {
+                    "gid": "7391958373704501609",
+                    "size": "3356665389",
+                    "download": "1108877024"
+                },
+                "temp_v1.27.5": {
+                    "gid": "3769156570482562976",
+                    "size": "3356665389",
+                    "download": "1108877024"
+                },
+                "oculus_win7and8": {
+                    "gid": "4241445105762495497",
+                    "size": "3338096908",
+                    "download": "1104417840"
+                },
+                "macos_beta": {
+                    "gid": "504790397752372501",
+                    "size": "2635464172",
+                    "download": "867350544"
+                },
+                "macos_default": {
+                    "gid": "504790397752372501",
+                    "size": "2635464172",
+                    "download": "867350544"
+                }
+            },
+            "decryptionkey": "5a7a10ea8d2063bdc97b64c976722ad23939d06aa47b5be021fa361d99f289b0"
+        },
+        "250831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4610675545635483043",
+                    "size": "342878509",
+                    "download": "164701184"
+                },
+                "beta": {
+                    "gid": "4610675545635483043",
+                    "size": "342878509",
+                    "download": "164701184"
+                },
+                "previous": {
+                    "gid": "4610675545635483043",
+                    "size": "342878509",
+                    "download": "164701184"
+                },
+                "temp_v1.27.5": {
+                    "gid": "3519615694155406059",
+                    "size": "342641709",
+                    "download": "164498768"
+                },
+                "oculus_win7and8": {
+                    "gid": "1600956859575742543",
+                    "size": "342667861",
+                    "download": "164507984"
+                },
+                "macos_beta": {
+                    "gid": "6710732445622751862",
+                    "size": "315510613",
+                    "download": "133315232"
+                },
+                "macos_default": {
+                    "gid": "6710732445622751862",
+                    "size": "315510613",
+                    "download": "133315232"
+                }
+            },
+            "decryptionkey": "4a702760a140bdc4c34652d735e28ab856ef63c40435ed6190c59b8dc63c45f3"
+        },
+        "250832": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "710963398945632302",
+                    "size": "365728334",
+                    "download": "216860464"
+                },
+                "beta": {
+                    "gid": "710963398945632302",
+                    "size": "365728334",
+                    "download": "216860464"
+                },
+                "previous": {
+                    "gid": "710963398945632302",
+                    "size": "365728334",
+                    "download": "216860464"
+                },
+                "temp_v1.27.5": {
+                    "gid": "7490425401794046583",
+                    "size": "365728263",
+                    "download": "216854576"
+                },
+                "oculus_win7and8": {
+                    "gid": "2004525717577400291",
+                    "size": "365715847",
+                    "download": "216859008"
+                },
+                "macos_beta": {
+                    "gid": "9199587542403429346",
+                    "size": "450680394",
+                    "download": "202283200"
+                },
+                "macos_default": {
+                    "gid": "9199587542403429346",
+                    "size": "450680394",
+                    "download": "202283200"
+                }
+            },
+            "decryptionkey": "e015685521784c8d38bd6174d542978588b998336d9f81eaed77cce78fe37305"
+        },
+        "250833": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8084172187417437723",
+                    "size": "206963956",
+                    "download": "86755424"
+                },
+                "beta": {
+                    "gid": "8084172187417437723",
+                    "size": "206963956",
+                    "download": "86755424"
+                },
+                "previous": {
+                    "gid": "8084172187417437723",
+                    "size": "206963956",
+                    "download": "86755424"
+                },
+                "temp_v1.27.5": {
+                    "gid": "4985784716542141102",
+                    "size": "206862532",
+                    "download": "86671856"
+                },
+                "oculus_win7and8": {
+                    "gid": "7293374721594923796",
+                    "size": "206876517",
+                    "download": "86675200"
+                },
+                "macos_beta": {
+                    "gid": "7696939847822418920",
+                    "size": "152783122",
+                    "download": "44939456"
+                },
+                "macos_default": {
+                    "gid": "7696939847822418920",
+                    "size": "152783122",
+                    "download": "44939456"
+                }
+            },
+            "decryptionkey": "78916d4412dfcc5376e8b9b05c35d51216f0b8add20680c56b18dee6f763096a"
+        },
+        "250826": {},
+        "817940": {
+            "dlcappid": "817940",
+            "manifests": {
+                "public": {
+                    "gid": "2131659652001280890",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2131659652001280890",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "2131659652001280890",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temp_v1.27.5": {
+                    "gid": "7466637241347614145",
+                    "size": "2443229",
+                    "download": "680368"
+                }
+            }
+        },
+        "250834": {
+            "dlcappid": "3375720",
+            "manifests": {
+                "public": {
+                    "gid": "5316434246370511142",
+                    "size": "76362798",
+                    "download": "23693024"
+                },
+                "beta": {
+                    "gid": "8028397904764033142",
+                    "size": "76377960",
+                    "download": "23694224"
+                },
+                "previous": {
+                    "gid": "3737156341506105847",
+                    "size": "54883787",
+                    "download": "17813072"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18381782",
+                "timeupdated": "1746664002"
+            },
+            "beta": {
+                "buildid": "18448283",
+                "description": "SteamVR Beta Update",
+                "timeupdated": "1747164772"
+            },
+            "previous": {
+                "buildid": "17260332",
+                "description": "The previous release",
+                "timeupdated": "1746567673"
+            },
+            "temp_v1.27.5": {
+                "buildid": "12081735",
+                "description": "Temporary branch version 1.27.5 (for testing)",
+                "timeupdated": "1698537202"
+            },
+            "oculus_win7and8": {
+                "buildid": "5872297",
+                "description": "v1.15.12 of SteamVR which allowed older Oculus software",
+                "timeupdated": "1608678717"
+            },
+            "macos_beta": {
+                "buildid": "3278919",
+                "description": "SteamVR Beta Update (macOS)",
+                "timeupdated": "1541709981"
+            },
+            "macos_default": {
+                "buildid": "3244513",
+                "description": "Public default branch (macOS)",
+                "timeupdated": "1541709968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
