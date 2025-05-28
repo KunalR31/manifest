@@ -1,0 +1,65 @@
+{
+    "appid": "1451680",
+    "type": "Game",
+    "name": "Game Master Engine",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28907995",
+    "update_time": "2025-05-10 02:46:47",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1451681": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1151590233601268086",
+                    "size": "26822803267",
+                    "download": "25507929168"
+                },
+                "unrealengine4legacy": {
+                    "gid": "5223912534651895128",
+                    "size": "28482324727",
+                    "download": "27676027216"
+                }
+            },
+            "decryptionkey": "cfe6da64413518338e760a8cdfde322bdbf1e7b2423a04029067f21ca1dcb3df"
+        },
+        "1793480": {
+            "dlcappid": "1793480",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "workshopdepot": "1451680",
+        "branches": {
+            "public": {
+                "buildid": "18397337",
+                "timeupdated": "1746816401"
+            },
+            "unrealengine4legacy": {
+                "buildid": "14934771",
+                "description": "The old version of GME before the switch to Unreal Engine 5",
+                "timeupdated": "1722916633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
