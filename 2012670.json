@@ -1,0 +1,103 @@
+{
+    "appid": "2012670",
+    "type": "Game",
+    "name": "Maiden Cops",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28965412",
+    "update_time": "2025-05-14 01:21:14",
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2012671": {
+            "manifests": {
+                "public": {
+                    "gid": "7430173029251873563",
+                    "size": "2126403207",
+                    "download": "302221552"
+                },
+                "pos-release-day-build-1.1": {
+                    "gid": "6182187051250165384",
+                    "size": "2073440647",
+                    "download": "301243248"
+                },
+                "pos-release-day-build-1.2": {
+                    "gid": "5501173740861022568",
+                    "size": "2073745355",
+                    "download": "301284112"
+                },
+                "release-day-build-1": {
+                    "gid": "5023110861425452484",
+                    "size": "2073396351",
+                    "download": "301207072"
+                }
+            },
+            "decryptionkey": "c51437f0c1931e49461c9d7ec42780358d391cc7520d7b034a152898fdbcff5a"
+        },
+        "2012672": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3979372263938207188",
+                    "size": "2152817048",
+                    "download": "310841584"
+                },
+                "pos-release-day-build-1.1": {
+                    "gid": "8371198617346524960",
+                    "size": "2099820398",
+                    "download": "309868048"
+                },
+                "pos-release-day-build-1.2": {
+                    "gid": "8371198617346524960",
+                    "size": "2099820398",
+                    "download": "309868048"
+                },
+                "release-day-build-1": {
+                    "gid": "4633610294574233885",
+                    "size": "2099776102",
+                    "download": "309833456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16453196",
+                "timeupdated": "1731986347"
+            },
+            "pos-release-day-build-1.1": {
+                "buildid": "15858857",
+                "description": "the first patch of the game",
+                "timeupdated": "1728365329"
+            },
+            "pos-release-day-build-1.2": {
+                "buildid": "15961934",
+                "description": "the second patch of the game",
+                "timeupdated": "1730850648"
+            },
+            "release-day-build-1": {
+                "buildid": "15790782",
+                "description": "The version of the game on release day.",
+                "timeupdated": "1727625275"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
