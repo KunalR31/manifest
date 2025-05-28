@@ -1,0 +1,95 @@
+{
+    "appid": "1032120",
+    "type": "Game",
+    "name": "Stellar Survivor",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26837750",
+    "update_time": "2025-01-02 15:21:22",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1032121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1032122": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1879287026032721740",
+                    "size": "883973762",
+                    "download": "676866720"
+                },
+                "development": {
+                    "gid": "1123070001625698313",
+                    "size": "4069286854",
+                    "download": "2018000768"
+                },
+                "prerelease": {
+                    "gid": "1879287026032721740",
+                    "size": "883973762",
+                    "download": "676866720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1032123": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8484492285091744002",
+                    "size": "3421626918",
+                    "download": "1740931312"
+                },
+                "development": {
+                    "gid": "5530422245012087741",
+                    "size": "509792396",
+                    "download": "195361792"
+                },
+                "prerelease": {
+                    "gid": "9101815805504340811",
+                    "size": "3418787403",
+                    "download": "1740646848"
+                }
+            },
+            "decryptionkey": "0890a33e2782001727b3c332d3e2902627f070b2bbbcfa6f6489242f4bf4f1f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3982411",
+                "timeupdated": "1562247064"
+            },
+            "development": {
+                "buildid": "3969211",
+                "description": "debugging development",
+                "timeupdated": "1561937356"
+            },
+            "prerelease": {
+                "buildid": "4151712",
+                "description": "QA test branch",
+                "timeupdated": "1567125945"
+            }
+        }
+    }
+}
