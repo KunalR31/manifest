@@ -1,0 +1,66 @@
+{
+    "appid": "733710",
+    "type": "Game",
+    "name": "YOUFIGHT",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28977915",
+    "update_time": "2025-05-14 22:43:51",
+    "depot": {
+        "baselanguages": "english,french",
+        "workshopdepot": "733710",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "733711": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6574317261885307720",
+                    "size": "2939975790",
+                    "download": "919868656"
+                }
+            },
+            "decryptionkey": "8256cd1b72487c0449f7717fc7b6f4ce3c2620bb310881c400f2592593fb88ce"
+        },
+        "733712": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5864993061384689048",
+                    "size": "2630407654",
+                    "download": "847453952"
+                }
+            },
+            "decryptionkey": "c9030d2b26281b8d8d79367a0df5ccf91270d79a2ded683517871c93dbf2a168"
+        },
+        "733713": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "733714": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2887278",
+                "timeupdated": "1529688677"
+            }
+        }
+    }
+}
