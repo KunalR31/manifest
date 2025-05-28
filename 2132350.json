@@ -1,0 +1,62 @@
+{
+    "appid": "2132350",
+    "type": "Game",
+    "name": "Train World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009032",
+    "update_time": "2025-05-16 02:18:50",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2132351": {
+            "manifests": {
+                "public": {
+                    "gid": "7120933009847818840",
+                    "size": "4387557726",
+                    "download": "2356497504"
+                },
+                "release_1_12": {
+                    "gid": "6801984390074294301",
+                    "size": "5363365880",
+                    "download": "1463215344"
+                },
+                "release_1_17_62": {
+                    "gid": "3335958806440337254",
+                    "size": "7092389781",
+                    "download": "2000073568"
+                }
+            },
+            "decryptionkey": "166e6a18853bce8fd23e2edef6d6a086abba3c6203aa03990871f905f90a3f89"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18415212",
+                "timeupdated": "1746894503"
+            },
+            "release_1_12": {
+                "buildid": "12387020",
+                "description": "Original game version 1.12.40",
+                "timeupdated": "1702931152"
+            },
+            "release_1_17_62": {
+                "buildid": "15682857",
+                "description": "Game before double industries",
+                "timeupdated": "1726307506"
+            }
+        }
+    }
+}
