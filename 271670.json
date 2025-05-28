@@ -1,0 +1,94 @@
+{
+    "appid": "271670",
+    "type": "Game",
+    "name": "10 Second Ninja",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:48",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "271673": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6364582227973090700",
+                    "size": "68109312",
+                    "download": "0"
+                },
+                "bughunting": {
+                    "gid": "7822101916399480084",
+                    "size": "68507648",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "271674": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9031997281522917200",
+                    "size": "108939827",
+                    "download": "0"
+                },
+                "bughunting": {
+                    "gid": "1088748169190167671",
+                    "size": "109454911",
+                    "download": "0"
+                }
+            }
+        },
+        "271672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3322922964777385349",
+                    "size": "108939827",
+                    "download": "0"
+                },
+                "bughunting": {
+                    "gid": "7879850552748459938",
+                    "size": "109454911",
+                    "download": "0"
+                }
+            }
+        },
+        "271671": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5371934173701313390",
+                    "size": "71279616",
+                    "download": "71221552"
+                },
+                "bughunting": {
+                    "gid": "5371934173701313390",
+                    "size": "71279616",
+                    "download": "71221552"
+                }
+            },
+            "decryptionkey": "4a3c90d2130560ccb47d32fa040d676425779577f7b02ac0627a7e3ac8f28133"
+        },
+        "branches": {
+            "public": {
+                "buildid": "325480"
+            },
+            "bughunting": {
+                "buildid": "325343",
+                "description": "The Bug Hunter Builds"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
