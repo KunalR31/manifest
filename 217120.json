@@ -1,0 +1,99 @@
+{
+    "appid": "217120",
+    "type": "Game",
+    "name": "Waves 2: Notorious",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27468319",
+    "update_time": "2025-02-14 06:12:46",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "217121": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5369516543322501846",
+                    "size": "460687449",
+                    "download": "287461408"
+                },
+                "alpha7": {
+                    "gid": "8348841168824404661",
+                    "size": "297464500",
+                    "download": "167322112"
+                },
+                "local": {
+                    "gid": "5537087901144268565",
+                    "size": "108279540",
+                    "download": "48605888"
+                },
+                "preview": {
+                    "gid": "8684592224668159561",
+                    "size": "437671319",
+                    "download": "266280784"
+                }
+            },
+            "decryptionkey": "1432ac2110fc04650ac81655d2d1cc55d0ce09b1d99fa58ec0dc7de3a175d558"
+        },
+        "217122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3642224462417286389",
+                    "size": "542336806",
+                    "download": "274603136"
+                },
+                "alpha7": {
+                    "gid": "6413311287835813609",
+                    "size": "567288556",
+                    "download": "241624352"
+                },
+                "preview": {
+                    "gid": "9163271893004956479",
+                    "size": "520686447",
+                    "download": "255973728"
+                }
+            },
+            "decryptionkey": "ce76d4b033a2a43573bbaf052e0549da04ec99128dedc919eabea0ba49e09d5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6788920",
+                "timeupdated": "1622560310"
+            },
+            "alpha7": {
+                "buildid": "4072744",
+                "timeupdated": "1565889772"
+            },
+            "local": {
+                "buildid": "950912",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "preview": {
+                "buildid": "5357819",
+                "timeupdated": "1596222699"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
