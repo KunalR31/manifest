@@ -1,0 +1,77 @@
+{
+    "appid": "1889620",
+    "type": "Game",
+    "name": "AI Roguelite",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011953",
+    "update_time": "2025-05-16 05:36:28",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1889621": {
+            "manifests": {
+                "public": {
+                    "gid": "5410330903494580423",
+                    "size": "841021421",
+                    "download": "392615328"
+                },
+                "alpha": {
+                    "gid": "1234557162491233062",
+                    "size": "848522449",
+                    "download": "399438048"
+                },
+                "beta": {
+                    "gid": "1234557162491233062",
+                    "size": "848522449",
+                    "download": "399438048"
+                },
+                "older_build": {
+                    "gid": "7736448119469424484",
+                    "size": "838528763",
+                    "download": "392564480"
+                },
+                "older_build2": {
+                    "gid": "6614973470463774069",
+                    "size": "838476409",
+                    "download": "392537792"
+                }
+            },
+            "decryptionkey": "e2d9736a341777e7b0a4b59f907560a5af408413627f921d1ac8c02b9c3b2eb4"
+        },
+        "workshopdepot": "1889620",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,ukrainian,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18333797",
+                "timeupdated": "1746301269"
+            },
+            "alpha": {
+                "buildid": "18482229",
+                "description": "Usually the same as Beta but may occasionally get features before then.",
+                "timeupdated": "1747343430"
+            },
+            "beta": {
+                "buildid": "18482229",
+                "description": "a beta channel",
+                "timeupdated": "1747344983"
+            },
+            "older_build": {
+                "buildid": "17935407",
+                "description": "older more stable build without new features",
+                "timeupdated": "1745335753"
+            },
+            "older_build2": {
+                "buildid": "17464836",
+                "description": "even older build, for debugging regressions",
+                "timeupdated": "1745335806"
+            }
+        },
+        "workshopdepotdecryptionkey": "171879d18fc8eb4c2e112b110c737aacd10623b4902f0190a3f266628e8595bb"
+    }
+}
