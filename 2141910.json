@@ -1,0 +1,96 @@
+{
+    "appid": "2141910",
+    "type": "Game",
+    "name": "Magic: The Gathering Arena",
+    "schinese_name": "万智牌：竞技场",
+    "isfreeapp": "1",
+    "change_number": "29009032",
+    "update_time": "2025-05-16 02:18:56",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2141911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5762263848672274502",
+                    "size": "418323208",
+                    "download": "134311712"
+                },
+                "local": {
+                    "gid": "3627858795308679842",
+                    "size": "406670539",
+                    "download": "130185104"
+                }
+            },
+            "decryptionkey": "a89ce6d3be7e0877eba8558a188bf09a2f37ed0c2de8b9e59224a427f760fba6"
+        },
+        "2141912": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6136754705538762801",
+                    "size": "11166338580",
+                    "download": "9928690048"
+                },
+                "local": {
+                    "gid": "5346417929162504227",
+                    "size": "9262068201",
+                    "download": "7992086656"
+                }
+            },
+            "decryptionkey": "c588292e320d1a32305d1e5f2677bd3d187f561940fdc57f0a31d4f6939deebe"
+        },
+        "2141913": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6580580842248760913",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "2141914": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7137766845603664854",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18394889",
+                "timeupdated": "1747150142"
+            },
+            "local": {
+                "buildid": "13499385",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1708363177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
