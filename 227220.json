@@ -1,0 +1,53 @@
+{
+    "appid": "227220",
+    "type": "Game",
+    "name": "Sang-Froid - Tales of Werewolves",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:52",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227221": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7492732043580111447",
+                    "size": "4026238690",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7492732043580111447",
+                    "size": "4026238690",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a056ebcf53a17f945ca770bbc6a8751ca9dfeff3dd0d1d017e141acff2b48988"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "98848"
+            },
+            "beta": {
+                "buildid": "98848",
+                "description": "For external Beta testers"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
