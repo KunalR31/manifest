@@ -1,0 +1,80 @@
+{
+    "appid": "239220",
+    "type": "Game",
+    "name": "The Mighty Quest For Epic Loot",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970643",
+    "update_time": "2025-05-14 08:17:47",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,russian,portuguese,polish",
+        "239221": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3173768960693227637",
+                    "size": "1433910165",
+                    "download": "850187664"
+                },
+                "local": {
+                    "gid": "8716504235201288674",
+                    "size": "552693706",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6ea53a5a3b3a1379c4c2b0fa0572e8676d414fd922cecff0b93ef19f54fe7473"
+        },
+        "239222": {
+            "manifests": {
+                "public": {
+                    "gid": "3379475607435878227",
+                    "size": "6404",
+                    "download": "3088"
+                },
+                "local": {
+                    "gid": "6321174182585920781",
+                    "size": "8294",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a553592bb395dfc6b51dca162fb010bdfb6a3d069388502fa64dfbc6fc717554"
+        },
+        "326200": {
+            "dlcappid": "326200"
+        },
+        "branches": {
+            "public": {
+                "buildid": "704222"
+            },
+            "local": {
+                "buildid": "140098",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
