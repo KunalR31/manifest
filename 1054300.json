@@ -1,0 +1,90 @@
+{
+    "appid": "1054300",
+    "type": "Game",
+    "name": "the fairytale of DEATH",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26851715",
+    "update_time": "2025-01-03 21:11:54",
+    "depot": {
+        "baselanguages": "english,german",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1054301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3728630556235178082",
+                    "size": "2548366448",
+                    "download": "1025470176"
+                },
+                "beta_branch": {
+                    "gid": "8657730009975891853",
+                    "size": "2548362352",
+                    "download": "1025470928"
+                },
+                "previous_build": {
+                    "gid": "2347464556177672491",
+                    "size": "2610731301",
+                    "download": "1040196112"
+                }
+            },
+            "decryptionkey": "f7feb7d04b4fa6ea9fa1303b1711373fc4d32b02af74ad7ff844e3f0f793e2d6"
+        },
+        "1054304": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8739342617060188743",
+                    "size": "2583337051",
+                    "download": "1063089856"
+                },
+                "beta_branch": {
+                    "gid": "6202161139471015569",
+                    "size": "2113303436",
+                    "download": "900915120"
+                },
+                "previous_build": {
+                    "gid": "6202161139471015569",
+                    "size": "2113303436",
+                    "download": "900915120"
+                }
+            },
+            "decryptionkey": "367a78358e2f3afc7823f8100db523efb3c173a9de9bb272fcdc7a7a72572fdb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4570763",
+                "timeupdated": "1579044503"
+            },
+            "beta_branch": {
+                "buildid": "4569659",
+                "timeupdated": "1579019444"
+            },
+            "previous_build": {
+                "buildid": "4562999",
+                "timeupdated": "1579039513"
+            }
+        }
+    }
+}
