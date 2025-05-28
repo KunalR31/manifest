@@ -1,0 +1,72 @@
+{
+    "appid": "3295810",
+    "type": "Game",
+    "name": "Remote Reaper: FPV Drone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28946410",
+    "update_time": "2025-05-13 03:35:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3295811": {
+            "manifests": {
+                "public": {
+                    "gid": "2060132269556596999",
+                    "size": "6529040130",
+                    "download": "6077737680"
+                },
+                "dji_test": {
+                    "gid": "4360761534372234587",
+                    "size": "6490879763",
+                    "download": "6025172272"
+                },
+                "previous_version": {
+                    "gid": "8260817744067666700",
+                    "size": "6490865443",
+                    "download": "6025001200"
+                },
+                "version_0554": {
+                    "gid": "4095499178582608603",
+                    "size": "6423789644",
+                    "download": "6120456288"
+                }
+            },
+            "decryptionkey": "4a8df46aa3941b6d0ec45d942dd64737d7285738346853b18cb8da07266f0358"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18420039",
+                "timeupdated": "1746969739"
+            },
+            "dji_test": {
+                "buildid": "18283841",
+                "description": "DJI Controllers Test",
+                "timeupdated": "1745948221"
+            },
+            "previous_version": {
+                "buildid": "18299100",
+                "description": "Previous stable version of the game",
+                "timeupdated": "1746801650"
+            },
+            "version_0554": {
+                "buildid": "18070535",
+                "description": "Version 0.5.5.4",
+                "timeupdated": "1745524141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
