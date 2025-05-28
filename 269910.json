@@ -1,0 +1,71 @@
+{
+    "appid": "269910",
+    "type": "Game",
+    "name": "Xam",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27369728",
+    "update_time": "2025-02-08 03:25:42",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,russian",
+        "markdlcdepots": "1",
+        "269912": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7155674961350761958",
+                    "size": "2003631295",
+                    "download": "784409424"
+                },
+                "local": {
+                    "gid": "9204549468816324233",
+                    "size": "2015506094",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "581ab44d90cc1f7ade17cd3a68c1b8e7875940ef02b3c2e9849f26e5b3fde905"
+        },
+        "branches": {
+            "public": {
+                "buildid": "367226"
+            },
+            "local": {
+                "buildid": "302496",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
