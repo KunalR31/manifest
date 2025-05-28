@@ -1,0 +1,68 @@
+{
+    "appid": "2351820",
+    "type": "Game",
+    "name": "Stelarace",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26919993",
+    "update_time": "2025-01-09 15:49:12",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2351821": {
+            "manifests": {
+                "public": {
+                    "gid": "7304236562592501255",
+                    "size": "985472760",
+                    "download": "558774640"
+                },
+                "test": {
+                    "gid": "286896544005759976",
+                    "size": "916099717",
+                    "download": "683371360"
+                }
+            },
+            "decryptionkey": "4c203b8337731bf0dc670b73f6075e0fce3bf31efd3072cf869cfd3e65f29e0c"
+        },
+        "3156300": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "3156300",
+            "manifests": {}
+        },
+        "2351822": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "11909538",
+                "timeupdated": "1691736986"
+            },
+            "test": {
+                "buildid": "16948459",
+                "description": "Demo",
+                "timeupdated": "1736408948"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
