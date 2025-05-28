@@ -1,0 +1,73 @@
+{
+    "appid": "212050",
+    "type": "Game",
+    "name": "Resonance",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970267",
+    "update_time": "2025-05-14 07:47:54",
+    "depot": {
+        "overridescddb": "1",
+        "212051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9200879792454207525",
+                    "size": "999940324",
+                    "download": "435436480"
+                }
+            },
+            "decryptionkey": "3251e039a503c68fa53c7b1c2fba1e69d9f42b4629db0bbd7005f898ac5c1d66"
+        },
+        "212052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6443893183743862782",
+                    "size": "1068945369",
+                    "download": "446455600"
+                }
+            },
+            "decryptionkey": "da048debfa06127fd89418b5208098fdd1b772eed704f31270ac7dacfe366ddb"
+        },
+        "212053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2463696650042722239",
+                    "size": "1059469645",
+                    "download": "434640256"
+                }
+            },
+            "decryptionkey": "a348c6803b96a87f15bf1048726928db8c63dfb12525d00664c7aa1fbb65138c"
+        },
+        "212054": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8137093761914670064",
+                    "size": "1072159965",
+                    "download": "447472784"
+                }
+            },
+            "decryptionkey": "647939be0923f81cb229df40d9849d8ceac26dac74c5e34a7e31e96ec4e0fc22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18135797",
+                "timeupdated": "1744843287"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
