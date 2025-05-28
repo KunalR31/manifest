@@ -1,0 +1,61 @@
+{
+    "appid": "2443170",
+    "type": "Game",
+    "name": "Survivor Challenge TD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28390052",
+    "update_time": "2025-04-10 00:08:48",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2443171": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6545312582808961375",
+                    "size": "969896446",
+                    "download": "249000432"
+                }
+            },
+            "decryptionkey": "379e629757d60e6dc27f1d0624d7caf060dde4a43169780c3ebec6f9e6faaccb"
+        },
+        "2443172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8617232955466905671",
+                    "size": "1063226584",
+                    "download": "269120736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17131665",
+                "timeupdated": "1737826745"
+            }
+        }
+    }
+}
