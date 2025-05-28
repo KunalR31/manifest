@@ -1,0 +1,109 @@
+{
+    "appid": "2090230",
+    "type": "Game",
+    "name": "SCP: Containment Breach Remastered",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28257774",
+    "update_time": "2025-04-02 07:11:16",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "2090230",
+        "hasdepotsindlc": "1",
+        "2090232": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1843682780619101211",
+                    "size": "612516478",
+                    "download": "454405712"
+                },
+                "staging": {
+                    "gid": "1843682780619101211",
+                    "size": "612516478",
+                    "download": "454405712"
+                },
+                "windows7_old": {
+                    "gid": "3281500002031392466",
+                    "size": "577224791",
+                    "download": "444090304"
+                }
+            },
+            "decryptionkey": "cf23c03a007e3af01df7e2e5f7bf52e5987f7696db708e8fc6911bdd2fe8ccf7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13364015",
+                "timeupdated": "1707085790"
+            },
+            "staging": {
+                "buildid": "13364015",
+                "description": "Pre-update testing builds.",
+                "timeupdated": "1707085760"
+            },
+            "windows7_old": {
+                "buildid": "10252015",
+                "description": "This version is compatible with Windows 7 but lacks workshop support and bug fixes.",
+                "timeupdated": "1701809287"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
