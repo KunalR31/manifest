@@ -1,0 +1,117 @@
+{
+    "appid": "373720",
+    "type": "Game",
+    "name": "Ryzom",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28972554",
+    "update_time": "2025-05-14 11:17:47",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "373721": {
+            "manifests": {
+                "public": {
+                    "gid": "425753834751501498",
+                    "size": "7374399896",
+                    "download": "2121159584"
+                },
+                "beta": {
+                    "gid": "425753834751501498",
+                    "size": "7374399896",
+                    "download": "2121159584"
+                }
+            },
+            "decryptionkey": "5169e98646e2eeeb693de0a4618f0845a371e7d629dd2c7c1b5cb8ef0302ae6a"
+        },
+        "373725": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1364515064103923271",
+                    "size": "55531189",
+                    "download": "19365760"
+                },
+                "beta": {
+                    "gid": "1364515064103923271",
+                    "size": "55531189",
+                    "download": "19365760"
+                }
+            },
+            "decryptionkey": "122f4bdf370ce0bb1885231c4823e24021181e896a46ef4bf8eedef86913830b"
+        },
+        "373726": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7347460981676915401",
+                    "size": "33416599",
+                    "download": "10793040"
+                },
+                "beta": {
+                    "gid": "7347460981676915401",
+                    "size": "33416599",
+                    "download": "10793040"
+                }
+            },
+            "decryptionkey": "16556af8916d17c68d66d29b8666727d43ea2cbaaca5b93d8452a7cb1977faac"
+        },
+        "373724": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6180025449310949662",
+                    "size": "67344580",
+                    "download": "19260976"
+                },
+                "beta": {
+                    "gid": "6180025449310949662",
+                    "size": "67344580",
+                    "download": "19260976"
+                }
+            },
+            "decryptionkey": "34c057b1fe0f3421a9ffdde785fc7aa8ad94822c6d8c9620dca9e21bf7499da0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18129254",
+                "timeupdated": "1744810371"
+            },
+            "beta": {
+                "buildid": "18129254",
+                "description": "Only for Braves",
+                "timeupdated": "1744809544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
