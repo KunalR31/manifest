@@ -1,0 +1,241 @@
+{
+    "appid": "1905180",
+    "type": "Application",
+    "name": "OBS Studio",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29045933",
+    "update_time": "2025-05-18 12:15:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1905181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6970148056852882757",
+                    "size": "471091302",
+                    "download": "145069840"
+                },
+                "beta": {
+                    "gid": "1756463142304795199",
+                    "size": "470610033",
+                    "download": "145048816"
+                },
+                "nightly": {
+                    "gid": "3148222806708978956",
+                    "size": "649449527",
+                    "download": "172296096"
+                },
+                "31.0": {
+                    "gid": "6970148056852882757",
+                    "size": "471091302",
+                    "download": "145069840"
+                },
+                "30.2": {
+                    "gid": "931451347169475947",
+                    "size": "413207404",
+                    "download": "126655184"
+                },
+                "30.1": {
+                    "gid": "2804505919902718658",
+                    "size": "376073847",
+                    "download": "119543536"
+                },
+                "30.0": {
+                    "gid": "7282389826124282907",
+                    "size": "380799404",
+                    "download": "122943856"
+                },
+                "29.1": {
+                    "gid": "4915479844622191491",
+                    "size": "374249198",
+                    "download": "121180576"
+                },
+                "29.0": {
+                    "gid": "2801707180217968802",
+                    "size": "370131798",
+                    "download": "119999440"
+                },
+                "28.1": {
+                    "gid": "5736356040972344460",
+                    "size": "375370595",
+                    "download": "120546528"
+                },
+                "28.0": {
+                    "gid": "8588205463023704090",
+                    "size": "373801804",
+                    "download": "120340048"
+                },
+                "27.2": {
+                    "gid": "5979742034557571216",
+                    "size": "354287157",
+                    "download": "114269760"
+                },
+                "27.1": {
+                    "gid": "7689286393967210819",
+                    "size": "272312958",
+                    "download": "84474560"
+                }
+            },
+            "decryptionkey": "9893ce20679d91040e3ac618d31a5de675e18fa1462dd41962812a2a18b4c2ca"
+        },
+        "1905182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8706926431015269548",
+                    "size": "912549826",
+                    "download": "232765120"
+                },
+                "beta": {
+                    "gid": "3299668158955432580",
+                    "size": "915843892",
+                    "download": "233968288"
+                },
+                "nightly": {
+                    "gid": "8326849662990417634",
+                    "size": "924278680",
+                    "download": "234737568"
+                },
+                "31.0": {
+                    "gid": "8706926431015269548",
+                    "size": "912549826",
+                    "download": "232765120"
+                },
+                "30.2": {
+                    "gid": "1202303993137959356",
+                    "size": "833247686",
+                    "download": "209930464"
+                },
+                "30.1": {
+                    "gid": "3913207329802819915",
+                    "size": "826049240",
+                    "download": "208860128"
+                },
+                "30.0": {
+                    "gid": "7864975378620692895",
+                    "size": "819480920",
+                    "download": "208286464"
+                },
+                "29.1": {
+                    "gid": "7308293338299185636",
+                    "size": "737048572",
+                    "download": "202476128"
+                },
+                "29.0": {
+                    "gid": "3007853729348007273",
+                    "size": "746725471",
+                    "download": "204505840"
+                },
+                "28.1": {
+                    "gid": "5013193607910380137",
+                    "size": "744771529",
+                    "download": "204003072"
+                },
+                "28.0": {
+                    "gid": "1847843441212628849",
+                    "size": "743727344",
+                    "download": "203919184"
+                },
+                "27.2": {
+                    "gid": "523706745924022465",
+                    "size": "370429914",
+                    "download": "120952608"
+                },
+                "27.1": {
+                    "gid": "6287006844763974521",
+                    "size": "314896767",
+                    "download": "109020400"
+                }
+            },
+            "decryptionkey": "57c87ca72a249265959763d8e435e45d4ac968d958c98b7f6ffb5a78e1ab8d9d"
+        },
+        "1905183": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17903979",
+                "timeupdated": "1743547861"
+            },
+            "beta": {
+                "buildid": "16270360",
+                "description": "Betas and release candidates",
+                "timeupdated": "1730507307"
+            },
+            "nightly": {
+                "buildid": "18484323",
+                "description": "Unsigned nightly builds from CI",
+                "timeupdated": "1747357443"
+            },
+            "31.0": {
+                "buildid": "17903979",
+                "description": "31.0 Release (Latest)",
+                "timeupdated": "1743547847"
+            },
+            "30.2": {
+                "buildid": "15387601",
+                "description": "30.2 Release",
+                "timeupdated": "1723765579"
+            },
+            "30.1": {
+                "buildid": "13969250",
+                "description": "30.1.2 Release",
+                "timeupdated": "1712362012"
+            },
+            "30.0": {
+                "buildid": "12924865",
+                "description": "30.0.2 Release",
+                "timeupdated": "1702248495"
+            },
+            "29.1": {
+                "buildid": "11504815",
+                "description": "29.1.3 Release",
+                "timeupdated": "1687171482"
+            },
+            "29.0": {
+                "buildid": "10478199",
+                "description": "29.0.2 Release",
+                "timeupdated": "1675513521"
+            },
+            "28.1": {
+                "buildid": "9877893",
+                "description": "28.1.2 Release",
+                "timeupdated": "1667689172"
+            },
+            "28.0": {
+                "buildid": "9635211",
+                "description": "28.0.3 Release",
+                "timeupdated": "1664670888"
+            },
+            "27.2": {
+                "buildid": "9238683",
+                "description": "27.2.4 Release",
+                "timeupdated": "1659460407"
+            },
+            "27.1": {
+                "buildid": "9238703",
+                "description": "27.1.3 Release",
+                "timeupdated": "1659460475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
