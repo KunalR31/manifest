@@ -1,0 +1,57 @@
+{
+    "appid": "1417000",
+    "type": "Game",
+    "name": "Golf Party",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28915101",
+    "update_time": "2025-05-10 15:33:05",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1417001": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2804564436170782324",
+                    "size": "6630236357",
+                    "download": "6260467456"
+                },
+                "test": {
+                    "gid": "1931574027344015977",
+                    "size": "6627927923",
+                    "download": "6268439840"
+                }
+            },
+            "decryptionkey": "36163f1536608f5fd9a3bb11c9794be7340b230aef5931af108d2812ecbb2d34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11356232",
+                "timeupdated": "1685506957"
+            },
+            "test": {
+                "buildid": "13439632",
+                "description": "Public Test Server",
+                "timeupdated": "1707797518"
+            }
+        }
+    }
+}
