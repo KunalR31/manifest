@@ -1,0 +1,62 @@
+{
+    "appid": "3195920",
+    "type": "Game",
+    "name": "Wasteland Kitchen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28806434",
+    "update_time": "2025-05-04 12:18:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3195921": {
+            "manifests": {
+                "public": {
+                    "gid": "2778529750600021089",
+                    "size": "912236648",
+                    "download": "743395568"
+                },
+                "classic": {
+                    "gid": "8010776277380156991",
+                    "size": "984520483",
+                    "download": "830709248"
+                },
+                "development": {
+                    "gid": "2778529750600021089",
+                    "size": "912236648",
+                    "download": "743395568"
+                }
+            },
+            "decryptionkey": "72330205fab7c578f95888adcd147a6cd47f00240e3d9e00912948c05de13ec5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332572",
+                "timeupdated": "1746331980"
+            },
+            "classic": {
+                "buildid": "16668734",
+                "description": "original version of the game, prior to the 2.0 hot potato update.",
+                "timeupdated": "1738211849"
+            },
+            "development": {
+                "buildid": "18332572",
+                "description": "it's the dev branch",
+                "timeupdated": "1746332332"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
