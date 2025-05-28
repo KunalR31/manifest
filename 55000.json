@@ -1,0 +1,152 @@
+{
+    "appid": "55000",
+    "type": "Game",
+    "name": "Flotilla",
+    "schinese_name": "星系舰队",
+    "isfreeapp": "0",
+    "change_number": "25657683",
+    "update_time": "2024-10-11 23:37:25",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "55001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "167261428972550581",
+                    "size": "46591606",
+                    "download": "36766496"
+                },
+                "linux32": {
+                    "gid": "2952921402731836017",
+                    "size": "45202756",
+                    "download": "36443856"
+                },
+                "nextversion": {
+                    "gid": "5664159225354588018",
+                    "size": "46591088",
+                    "download": "36765520"
+                },
+                "prev_build": {
+                    "gid": "7971712481863750153",
+                    "size": "45202244",
+                    "download": "36443664"
+                },
+                "xna3_legacy": {
+                    "gid": "6581418429982188761",
+                    "size": "90698805",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b88a00774d87b320fb1c80244d9cb35b906b2b283308f15da2111d6c06ba60b5"
+        },
+        "55002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3248135805637759669",
+                    "size": "78485204",
+                    "download": "45399840"
+                },
+                "linux32": {
+                    "gid": "7485123207899486329",
+                    "size": "76389209",
+                    "download": "44162240"
+                },
+                "nextversion": {
+                    "gid": "4283125757370430231",
+                    "size": "77227466",
+                    "download": "44989104"
+                },
+                "prev_build": {
+                    "gid": "5585564631525857942",
+                    "size": "76388697",
+                    "download": "44162048"
+                },
+                "xna3_legacy": {
+                    "gid": "5585564631525857942",
+                    "size": "76388697",
+                    "download": "44162048"
+                }
+            },
+            "decryptionkey": "9df3f3e19238341e7958d4be74ee44d74857fec887b297bc7c828cd8bd6d1e8b"
+        },
+        "55003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "737760183643160185",
+                    "size": "83495476",
+                    "download": "45584272"
+                },
+                "linux32": {
+                    "gid": "4170577465568764655",
+                    "size": "66478585",
+                    "download": "41606912"
+                },
+                "nextversion": {
+                    "gid": "85053137804740498",
+                    "size": "66348898",
+                    "download": "41591632"
+                },
+                "prev_build": {
+                    "gid": "8684944887868352800",
+                    "size": "66478073",
+                    "download": "41606720"
+                },
+                "xna3_legacy": {
+                    "gid": "8684944887868352800",
+                    "size": "66478073",
+                    "download": "41606720"
+                }
+            },
+            "decryptionkey": "b795ca1fb16957e37639ea6a26fd75f2177fe48873e7baee782b203b34126829"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12090120",
+                "timeupdated": "1693678736"
+            },
+            "linux32": {
+                "buildid": "3736809",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609455099"
+            },
+            "nextversion": {
+                "buildid": "12096444",
+                "description": "Next Version",
+                "timeupdated": "1693672830"
+            },
+            "prev_build": {
+                "buildid": "7110918",
+                "description": "Previous build",
+                "timeupdated": "1693671645"
+            },
+            "xna3_legacy": {
+                "buildid": "12004290",
+                "description": "Original 2012 build",
+                "timeupdated": "1692716441"
+            }
+        }
+    }
+}
