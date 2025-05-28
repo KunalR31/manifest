@@ -1,0 +1,115 @@
+{
+    "appid": "1256380",
+    "type": "Game",
+    "name": "FPS Infinite",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28274842",
+    "update_time": "2025-04-03 03:10:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1256381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3206089515649840818",
+                    "size": "312732250",
+                    "download": "133048944"
+                },
+                "beta": {
+                    "gid": "3206089515649840818",
+                    "size": "312732250",
+                    "download": "133048944"
+                },
+                "old_libc6": {
+                    "gid": "7058458891645968344",
+                    "size": "263657145",
+                    "download": "111126992"
+                }
+            },
+            "decryptionkey": "7b3d28bad9ce722f67541b6c938831e73c54db172e0097cce10e1ca2d2c04ddd"
+        },
+        "1256382": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7529839651866877301",
+                    "size": "205321553",
+                    "download": "101512000"
+                },
+                "beta": {
+                    "gid": "7529839651866877301",
+                    "size": "205321553",
+                    "download": "101512000"
+                },
+                "old_libc6": {
+                    "gid": "4388604400438793918",
+                    "size": "207115566",
+                    "download": "101175968"
+                }
+            },
+            "decryptionkey": "5c8db1b141c779a634ab01730176ac1cf81048ada956c33e3ebea614ecab005a"
+        },
+        "1256383": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2569397633143051651",
+                    "size": "193242640",
+                    "download": "98844720"
+                },
+                "beta": {
+                    "gid": "2569397633143051651",
+                    "size": "193242640",
+                    "download": "98844720"
+                },
+                "old_libc6": {
+                    "gid": "7957992122419302724",
+                    "size": "202739692",
+                    "download": "100095792"
+                }
+            },
+            "decryptionkey": "273eb928210abd52478e921a1afa8db15e013ba0b65504a26db9c154ed01b480"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13162550",
+                "timeupdated": "1705113421"
+            },
+            "beta": {
+                "buildid": "13162550",
+                "timeupdated": "1705113402"
+            },
+            "old_libc6": {
+                "buildid": "6167316",
+                "description": "For Linux distributions on lower libc6 versions",
+                "timeupdated": "1613957234"
+            }
+        }
+    }
+}
