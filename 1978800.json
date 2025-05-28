@@ -1,0 +1,89 @@
+{
+    "appid": "1978800",
+    "type": "Game",
+    "name": "AQtion",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26972340",
+    "update_time": "2025-01-13 21:08:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1978801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3848079096026323319",
+                    "size": "507707781",
+                    "download": "484086704"
+                }
+            },
+            "decryptionkey": "dd9712d9032b41fdd83b74fe5da2b8eda292f49adc4389675dcc25dcce74bb55"
+        },
+        "1978802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1658894113026582783",
+                    "size": "295902783",
+                    "download": "289863504"
+                }
+            },
+            "decryptionkey": "a8c343198d4045721db588025e30de15f68315f09c957e02fd728b18efbd30fe"
+        },
+        "1978803": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6318501244951338062",
+                    "size": "521870769",
+                    "download": "487509856"
+                }
+            },
+            "decryptionkey": "8218b23ec53afc8519a37f7e9fe35653e0b47a08b79aae07d82218df80fa90b9"
+        },
+        "1978804": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8179650915080636423",
+                    "size": "511691849",
+                    "download": "484497584"
+                }
+            },
+            "decryptionkey": "f5493e7193d6e8f3cc3d164dc86a9fa7791055397eeae58a1f13d9beb6f0564e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12630935",
+                "timeupdated": "1699290645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
