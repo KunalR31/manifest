@@ -1,0 +1,103 @@
+{
+    "appid": "415890",
+    "type": "Game",
+    "name": "Crystal Picnic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-06-21 14:38:33",
+    "depot": {
+        "baselanguages": "english,german,french,koreana",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "415891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9041598882526343083",
+                    "size": "14712643",
+                    "download": "12996144"
+                },
+                "oldmac": {
+                    "gid": "2789294441057112561",
+                    "size": "14724403",
+                    "download": "12990896"
+                }
+            },
+            "decryptionkey": "6e6bd0b21d07eee79417ec690602d621a73cc81ac01a8ad8a0649fe7b10e588b"
+        },
+        "415892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5800131421560046266",
+                    "size": "16242930",
+                    "download": "13372144"
+                },
+                "oldmac": {
+                    "gid": "7402369189271818666",
+                    "size": "20091745",
+                    "download": "14630368"
+                }
+            },
+            "decryptionkey": "9067ac5277e3de4f08c8eccc725c66bb159cd0ed58af604436ce585adc7d90e0"
+        },
+        "415893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6193511074937629921",
+                    "size": "16131065",
+                    "download": "13152496"
+                },
+                "oldmac": {
+                    "gid": "4903638842773811899",
+                    "size": "16206268",
+                    "download": "13323744"
+                }
+            },
+            "decryptionkey": "3b7c2999d6aa6cce5759ef0e3fd39f18342911bbd9b2bb2776c0898f23be3a95"
+        },
+        "415895": {
+            "dlcappid": "440360",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4451366686598015788",
+                    "size": "3183839",
+                    "download": "2996800"
+                },
+                "oldmac": {
+                    "gid": "4451366686598015788",
+                    "size": "3183839",
+                    "download": "2996800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5389308",
+                "timeupdated": "1596946118"
+            },
+            "oldmac": {
+                "buildid": "3651761",
+                "description": "Runs on older macOS",
+                "timeupdated": "1569398752"
+            }
+        }
+    }
+}
