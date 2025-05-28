@@ -1,0 +1,100 @@
+{
+    "appid": "365620",
+    "type": "Game",
+    "name": "WarBirds - World War II Combat Aviation",
+    "schinese_name": "空战英雄：二战航空",
+    "isfreeapp": "0",
+    "change_number": "28803483",
+    "update_time": "2025-05-04 03:59:05",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "365621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "853213968096696039",
+                    "size": "5863474062",
+                    "download": "2120406512"
+                },
+                "warbirds2020": {
+                    "gid": "1819848059763044544",
+                    "size": "5777902546",
+                    "download": "2098048592"
+                },
+                "warbirdsmac": {
+                    "gid": "5598847502963801801",
+                    "size": "5419091240",
+                    "download": "1993574896"
+                }
+            },
+            "decryptionkey": "04db506a108f231ea9d01ee858d2d732f893838387b693c3c42733833343eabe"
+        },
+        "365622": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5732729751576228495",
+                    "size": "4756806223",
+                    "download": "1738427648"
+                },
+                "warbirds2020": {
+                    "gid": "5732729751576228495",
+                    "size": "4756806223",
+                    "download": "1738427648"
+                },
+                "warbirdsmac": {
+                    "gid": "2445579130659707569",
+                    "size": "5393163856",
+                    "download": "1984738560"
+                }
+            }
+        },
+        "365623": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5771501762976928441",
+                    "size": "7068444482",
+                    "download": "2386307456"
+                },
+                "warbirds2020": {
+                    "gid": "8113291722978675551",
+                    "size": "6886668737",
+                    "download": "2353048848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18333911",
+                "timeupdated": "1746302339"
+            },
+            "warbirds2020": {
+                "buildid": "5548194",
+                "description": "Warbirds 2020 Version",
+                "timeupdated": "1600187722"
+            },
+            "warbirdsmac": {
+                "buildid": "2587365",
+                "description": "Mac Version",
+                "timeupdated": "1520524568"
+            }
+        }
+    }
+}
