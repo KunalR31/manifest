@@ -1,0 +1,101 @@
+{
+    "appid": "2519830",
+    "type": "Game",
+    "name": "Resonite",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29032973",
+    "update_time": "2025-05-17 05:29:02",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,finnish,norwegian,swedish,czech,turkish,ukrainian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2519832": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4485813256947097851",
+                    "size": "815781539",
+                    "download": "188766512"
+                },
+                "prerelease": {
+                    "gid": "8249381990600809586",
+                    "size": "1377610083",
+                    "download": "234940672"
+                },
+                "release": {
+                    "gid": "4485813256947097851",
+                    "size": "815781539",
+                    "download": "188766512"
+                }
+            },
+            "decryptionkey": "760c2a3c7b5dbeaa4532d4b81a21900d6440e6a88fb795ff79078eef18c9393e"
+        },
+        "2519831": {
+            "manifests": {
+                "public": {
+                    "gid": "5082223756179978205",
+                    "size": "587829578",
+                    "download": "467694608"
+                },
+                "prerelease": {
+                    "gid": "5082223756179978205",
+                    "size": "587829578",
+                    "download": "467694608"
+                },
+                "release": {
+                    "gid": "5082223756179978205",
+                    "size": "587829578",
+                    "download": "467694608"
+                }
+            },
+            "decryptionkey": "2633d2ee5c77932af737e5d10f8f636e6f781e9482f3ffbfd71a8ae249f6f8b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18497380",
+                "timeupdated": "1747430938"
+            },
+            "prerelease": {
+                "buildid": "18448596",
+                "description": "This includes pre-release builds for testing, before they're pushed to public. USE AT YOUR OWN RISK",
+                "timeupdated": "1747157606"
+            },
+            "release": {
+                "buildid": "18497380",
+                "description": "Release builds",
+                "timeupdated": "1747430820"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
