@@ -1,0 +1,64 @@
+{
+    "appid": "714010",
+    "type": "Game",
+    "name": "Aimlabs",
+    "schinese_name": "瞄准实验室",
+    "isfreeapp": "1",
+    "change_number": "29046303",
+    "update_time": "2025-05-18 13:34:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "714010",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "714011": {
+            "manifests": {
+                "public": {
+                    "gid": "8375390639858063252",
+                    "size": "17373625199",
+                    "download": "7782311536"
+                },
+                "beta": {
+                    "gid": "811554533347252075",
+                    "size": "17348220237",
+                    "download": "7769150528"
+                }
+            },
+            "decryptionkey": "b959968aba4c376652705a7f8697f75a1e4d94e7546548e2bb26d220cea76698"
+        },
+        "714013": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6236786288122970659",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6236786288122970659",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488864",
+                "timeupdated": "1747404514"
+            },
+            "beta": {
+                "buildid": "18156917",
+                "description": "beta test branch",
+                "timeupdated": "1745330234"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
