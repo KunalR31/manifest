@@ -1,0 +1,42 @@
+{
+    "appid": "211880",
+    "type": "Game",
+    "name": "Bullet Run",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28374651",
+    "update_time": "2025-04-09 06:15:22",
+    "depot": {
+        "211881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4607445331260447039",
+                    "size": "2524510378",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5278140069407016036",
+                    "size": "1947791465",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c8abd02c79e0c59d33d8fc156e2d908065489b06105eb53e57371c826c379a9c"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "43368"
+            },
+            "local": {
+                "buildid": "2642",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
