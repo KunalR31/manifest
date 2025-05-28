@@ -1,0 +1,79 @@
+{
+    "appid": "1014730",
+    "type": "Game",
+    "name": "Cyndy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982432",
+    "update_time": "2025-05-14 22:51:33",
+    "depot": {
+        "workshopdepot": "1014730",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1014731": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5368731736627885335",
+                    "size": "2506191534",
+                    "download": "985749136"
+                },
+                "old_game_and_dlc": {
+                    "gid": "4372590332261728817",
+                    "size": "2310507664",
+                    "download": "1033261120"
+                }
+            },
+            "decryptionkey": "193799e91e157a55517d63b73f4d83d76ce21fb9d9dd5e5c90cb8c849fd22b61"
+        },
+        "1014733": {
+            "dlcappid": "1153680",
+            "config": {
+                "oslist": "windows",
+                "language": "",
+                "optionaldlc": "1153680"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9130181124201431648",
+                    "size": "2311038869",
+                    "download": "1033384720"
+                },
+                "old_game_and_dlc": {
+                    "gid": "9130181124201431648",
+                    "size": "2311038869",
+                    "download": "1033384720"
+                }
+            },
+            "decryptionkey": "592653283c81676a577e5042c97bd250a9b15e16de5772a9cf70d0bd79f07bae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15624221",
+                "timeupdated": "1725693886"
+            },
+            "old_game_and_dlc": {
+                "buildid": "5477582",
+                "description": "Old game version and DLC. If you have and want to play the DLC, you need to be on this branch.",
+                "timeupdated": "1725693805"
+            }
+        },
+        "appmanagesdlc": "1",
+        "workshopdepotdecryptionkey": "6884c48eb8a1cff9f38921a142135cd2e7ed4a3680cfe2d09261689e12ad78a4"
+    }
+}
