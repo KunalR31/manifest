@@ -1,0 +1,87 @@
+{
+    "appid": "2759810",
+    "type": "Application",
+    "name": "VR Driver School",
+    "schinese_name": "VR驾校",
+    "isfreeapp": "0",
+    "change_number": "28918212",
+    "update_time": "2025-05-10 23:33:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2759811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2313634396543201481",
+                    "size": "704639448",
+                    "download": "499033120"
+                },
+                "vrlinux": {
+                    "gid": "7960451957827813793",
+                    "size": "701034536",
+                    "download": "499423808"
+                },
+                "vrmac": {
+                    "gid": "7960451957827813793",
+                    "size": "701034536",
+                    "download": "499423808"
+                }
+            },
+            "decryptionkey": "3da85af60e733ecf36511045aa6126754575f17b32a50508405359bdee602584"
+        },
+        "2759812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5862070590439287876",
+                    "size": "701558040",
+                    "download": "499012272"
+                },
+                "vrlinux": {
+                    "gid": "5075900275803626635",
+                    "size": "710089769",
+                    "download": "501189424"
+                },
+                "vrmac": {
+                    "gid": "5075900275803626635",
+                    "size": "710089769",
+                    "download": "501189424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2759813": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "vrlinux": {
+                    "gid": "7643991536989878966",
+                    "size": "721506497",
+                    "download": "503359392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16977975",
+                "timeupdated": "1736653291"
+            },
+            "vrlinux": {
+                "buildid": "16977925",
+                "description": "vrlinux",
+                "timeupdated": "1736652420"
+            },
+            "vrmac": {
+                "buildid": "16977856",
+                "description": "vrmac",
+                "timeupdated": "1736651460"
+            }
+        }
+    }
+}
