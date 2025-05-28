@@ -1,0 +1,84 @@
+{
+    "appid": "418360",
+    "type": "Game",
+    "name": "Gurgamoth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973260",
+    "update_time": "2025-05-14 12:17:57",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,brazilian",
+        "418361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "232772741032452387",
+                    "size": "370192964",
+                    "download": "82195776"
+                },
+                "beta": {
+                    "gid": "232772741032452387",
+                    "size": "370192964",
+                    "download": "82195776"
+                }
+            },
+            "decryptionkey": "9e56de0c95f4f42f36fc7a41bbe87c25882bb9b5e8bd5dd6304010460c5f4b44"
+        },
+        "418362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8133380670936599000",
+                    "size": "378529067",
+                    "download": "84010016"
+                },
+                "beta": {
+                    "gid": "8133380670936599000",
+                    "size": "378529067",
+                    "download": "84010016"
+                }
+            },
+            "decryptionkey": "ec8481210c77ac86416fdd01f5a54a0f1be12cc0f3e2fed1b3e019c330a6661e"
+        },
+        "418363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2750416646505985076",
+                    "size": "405386784",
+                    "download": "84986992"
+                },
+                "beta": {
+                    "gid": "2750416646505985076",
+                    "size": "405386784",
+                    "download": "84986992"
+                }
+            },
+            "decryptionkey": "5c82b4d31fa4596202bd2a0f68ced78754b19f1209d16f0f525e338a65c98f6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1084158",
+                "timeupdated": "1461128687"
+            },
+            "beta": {
+                "buildid": "1084158",
+                "description": "Public testing for new features.",
+                "timeupdated": "1461109073"
+            }
+        }
+    }
+}
