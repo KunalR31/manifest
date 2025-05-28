@@ -1,0 +1,54 @@
+{
+    "appid": "624890",
+    "type": "Game",
+    "name": "Adventure Craft",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975867",
+    "update_time": "2025-05-14 22:40:02",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "624891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3841356160050347566",
+                    "size": "1299959875",
+                    "download": "284883632"
+                },
+                "testing": {
+                    "gid": "3841356160050347566",
+                    "size": "1299959875",
+                    "download": "284883632"
+                }
+            },
+            "decryptionkey": "0e944e25345344e614fb07bf37046af92e0503148fb110d46e227da8578cc96d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7001554",
+                "timeupdated": "1625781179"
+            },
+            "testing": {
+                "buildid": "7001554",
+                "description": "Adventure Craft Test Build",
+                "timeupdated": "1625781000"
+            }
+        }
+    }
+}
