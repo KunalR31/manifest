@@ -1,0 +1,67 @@
+{
+    "appid": "2363620",
+    "type": "Game",
+    "name": "RoboSquad Revolution",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26060697",
+    "update_time": "2024-11-06 03:28:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2363621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6783527810086579101",
+                    "size": "6725231563",
+                    "download": "5616669904"
+                },
+                "featuretesting_01": {
+                    "gid": "3060447769671357322",
+                    "size": "6448053015",
+                    "download": "3953264000"
+                },
+                "zorans-internal-testing": {
+                    "gid": "3878394941692387902",
+                    "size": "8168622798",
+                    "download": "5607602656"
+                }
+            },
+            "decryptionkey": "690151d5fc73230ddb74b7ff0ad694f9bcb2c34b978d5ef8aaa2c262272af38c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15775957",
+                "timeupdated": "1726867797"
+            },
+            "featuretesting_01": {
+                "buildid": "12894145",
+                "description": "To test features internallly",
+                "timeupdated": "1701898909"
+            },
+            "zorans-internal-testing": {
+                "buildid": "15246552",
+                "description": "For internal dev testing",
+                "timeupdated": "1722643121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
