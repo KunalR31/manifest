@@ -1,0 +1,90 @@
+{
+    "appid": "1730310",
+    "type": "Game",
+    "name": "The Lonely Helmet",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26639326",
+    "update_time": "2024-12-14 10:43:30",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1730311": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8083333369852658028",
+                    "size": "205012826",
+                    "download": "109786800"
+                },
+                "public_beta": {
+                    "gid": "8083333369852658028",
+                    "size": "205012826",
+                    "download": "109786800"
+                }
+            },
+            "decryptionkey": "1888c330be4c20376bb89e83cbafda963e086b90d5812634bef0fde953afbbd4"
+        },
+        "1730312": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2514977526793269991",
+                    "size": "205435244",
+                    "download": "111279648"
+                },
+                "public_beta": {
+                    "gid": "2430406756441985734",
+                    "size": "227483488",
+                    "download": "116318752"
+                }
+            },
+            "decryptionkey": "7180a2b6687e4fae2926bc3ceebfab8e9e5d26cc6931d6313c67763bfa5f0825"
+        },
+        "1730313": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1198371210630544953",
+                    "size": "254891099",
+                    "download": "113892416"
+                },
+                "public_beta": {
+                    "gid": "1198371210630544953",
+                    "size": "254891099",
+                    "download": "113892416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9839995",
+                "timeupdated": "1667248150"
+            },
+            "public_beta": {
+                "buildid": "11424371",
+                "description": "public beta builds",
+                "timeupdated": "1686233499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
