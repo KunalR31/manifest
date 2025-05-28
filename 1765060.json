@@ -1,0 +1,131 @@
+{
+    "appid": "1765060",
+    "type": "Game",
+    "name": "Hunted",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25699913",
+    "update_time": "2024-10-14 10:41:27",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1765061": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8128304108390528236",
+                    "size": "518484009",
+                    "download": "417637744"
+                },
+                "developer": {
+                    "gid": "2675758481785429604",
+                    "size": "515449613",
+                    "download": "414025248"
+                },
+                "legacy": {
+                    "gid": "7270054553216389391",
+                    "size": "515449613",
+                    "download": "414025248"
+                },
+                "os100release": {
+                    "gid": "8128304108390528236",
+                    "size": "518484009",
+                    "download": "417637744"
+                }
+            },
+            "decryptionkey": "cffca6c6a765b039c2509569bf7d923c05c4692747fc6a4fd98ba484209aa754"
+        },
+        "1765062": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3436453328011353761",
+                    "size": "1112055600",
+                    "download": "998223152"
+                },
+                "developer": {
+                    "gid": "3252595789388817864",
+                    "size": "515449613",
+                    "download": "414025248"
+                },
+                "legacy": {
+                    "gid": "1194664123254250881",
+                    "size": "515449613",
+                    "download": "414025248"
+                },
+                "os100release": {
+                    "gid": "7273452024909626698",
+                    "size": "518484009",
+                    "download": "417637744"
+                }
+            },
+            "decryptionkey": "9cf79a7ad004dd8e7a9146124c8692874f05d4746be71c1c8076a5200497a8ed"
+        },
+        "1786380": {
+            "dlcappid": "1786380"
+        },
+        "1765063": {
+            "manifests": {
+                "legacy": {
+                    "gid": "1127751238271775486",
+                    "size": "515449613",
+                    "download": "414025248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1765064": {
+            "manifests": {
+                "os100release": {
+                    "gid": "6862735857380318580",
+                    "size": "518484009",
+                    "download": "417620576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12741889",
+                "timeupdated": "1700349187"
+            },
+            "developer": {
+                "buildid": "10265375",
+                "description": "Experimental, buggy, will be testing plenty of new features",
+                "timeupdated": "1672966661"
+            },
+            "legacy": {
+                "buildid": "10265223",
+                "description": "Reverts to the good old days of Hunted (Pre Overhaul)",
+                "timeupdated": "1672964609"
+            },
+            "os100release": {
+                "buildid": "12741939",
+                "description": "Reverts to Just after os100 is released",
+                "timeupdated": "1700350387"
+            }
+        }
+    }
+}
