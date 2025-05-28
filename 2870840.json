@@ -1,0 +1,66 @@
+{
+    "appid": "2870840",
+    "type": "Game",
+    "name": "Ale & Tale Tavern: First Pints",
+    "schinese_name": "传说酒馆：第一杯",
+    "isfreeapp": "1",
+    "change_number": "29015010",
+    "update_time": "2025-05-16 10:06:43",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2870841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8321930523982802413",
+                    "size": "4540189719",
+                    "download": "1162130128"
+                },
+                "test": {
+                    "gid": "2009597784024567907",
+                    "size": "4560833844",
+                    "download": "1166790096"
+                }
+            },
+            "decryptionkey": "b541621a1e073286f31a54f23f74be7f7281e8f9a84940a832d8e18418310166"
+        },
+        "2870842": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "67518356792059038",
+                    "size": "5633651235",
+                    "download": "1599112944"
+                },
+                "test": {
+                    "gid": "67518356792059038",
+                    "size": "5633651235",
+                    "download": "1599112944"
+                }
+            },
+            "decryptionkey": "250367c98a75dffb4d9766313017e7845cb950bb387ed583d4c7dbb17df03148"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15161212",
+                "timeupdated": "1722002841"
+            },
+            "test": {
+                "buildid": "15367170",
+                "description": "Test",
+                "timeupdated": "1723632117"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
