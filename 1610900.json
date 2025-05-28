@@ -1,0 +1,107 @@
+{
+    "appid": "1610900",
+    "type": "Game",
+    "name": "The Genesis Project",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28968120",
+    "update_time": "2025-05-14 04:39:27",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1610901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3362611906745992282",
+                    "size": "278404152",
+                    "download": "187232928"
+                },
+                "modding-beta": {
+                    "gid": "8008842925674201092",
+                    "size": "444061107",
+                    "download": "186263248"
+                }
+            },
+            "decryptionkey": "f58e7ffdedac09874b34f209c69f445b2646da997167a606b71da79d76578947"
+        },
+        "1610902": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1612612284717881734",
+                    "size": "270026657",
+                    "download": "184739648"
+                },
+                "modding-beta": {
+                    "gid": "6528340345156488904",
+                    "size": "435683611",
+                    "download": "183769936"
+                }
+            },
+            "decryptionkey": "d896443555faa33485f4c26fcecd5a8e490363c593cf13da6dcfba7fde99d0d4"
+        },
+        "1610903": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4149230956346587522",
+                    "size": "306768185",
+                    "download": "195235296"
+                },
+                "modding-beta": {
+                    "gid": "8194055132589847154",
+                    "size": "472502939",
+                    "download": "194270288"
+                }
+            },
+            "decryptionkey": "564eedcd44d83f2c47d6e84bf6b1d2d20e95e26445a8185d6aa3611029d79958"
+        },
+        "1610904": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7179051067347193654",
+                    "size": "328995666",
+                    "download": "192716656"
+                },
+                "modding-beta": {
+                    "gid": "362430579129144673",
+                    "size": "494863635",
+                    "download": "191763568"
+                }
+            },
+            "decryptionkey": "e73aecb563e1778058bf6da062857948eb9bee84761b0b4f871661fc44ddf176"
+        },
+        "workshopdepot": "1610900",
+        "branches": {
+            "public": {
+                "buildid": "14266428",
+                "timeupdated": "1714861042"
+            },
+            "modding-beta": {
+                "buildid": "15553915",
+                "description": "Open beta branch with new modding features.",
+                "timeupdated": "1725103272"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
