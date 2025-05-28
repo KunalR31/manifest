@@ -1,0 +1,76 @@
+{
+    "appid": "1107750",
+    "type": "Game",
+    "name": "Faraday Protocol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28929259",
+    "update_time": "2025-05-12 05:32:15",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1107751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5232332792501173550",
+                    "size": "2077526534",
+                    "download": "1681833056"
+                },
+                "public_beta": {
+                    "gid": "7310711895635996332",
+                    "size": "2114142754",
+                    "download": "1694497664"
+                }
+            },
+            "decryptionkey": "6405f23c21b53080786a713cc4aa04456e24c07039b0fbb0d9d0e9900329b631"
+        },
+        "1107752": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4857958803731589685",
+                    "size": "1930200491",
+                    "download": "1612271872"
+                },
+                "public_beta": {
+                    "gid": "4857958803731589685",
+                    "size": "1930200491",
+                    "download": "1612271872"
+                }
+            },
+            "decryptionkey": "7828bfa39f0d7633ca5492a9ce527e2b7a4e130f4b2e47f6c3b4d197ef9e3249"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9206675",
+                "timeupdated": "1659010553"
+            },
+            "public_beta": {
+                "buildid": "9531171",
+                "description": "Public Beta Branch",
+                "timeupdated": "1663333574"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
