@@ -1,0 +1,71 @@
+{
+    "appid": "2846260",
+    "type": "Game",
+    "name": "CloudStudy",
+    "schinese_name": "云学习",
+    "isfreeapp": "1",
+    "change_number": "29014883",
+    "update_time": "2025-05-16 09:54:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2846261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3349036039601899787",
+                    "size": "294758921",
+                    "download": "202920656"
+                }
+            },
+            "decryptionkey": "90bd277e0e9d010cb721c5d3cbc3a3845b3cc924f4d92efe4ee11892faa2a156"
+        },
+        "2846262": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6155115877107168204",
+                    "size": "446183325",
+                    "download": "226364576"
+                }
+            }
+        },
+        "2846263": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5481715537757556037",
+                    "size": "241292375",
+                    "download": "234794544"
+                }
+            }
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18059242",
+                "timeupdated": "1744302178"
+            }
+        }
+    }
+}
