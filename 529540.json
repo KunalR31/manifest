@@ -1,0 +1,49 @@
+{
+    "appid": "529540",
+    "type": "Application",
+    "name": "Thread Studio",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28296215",
+    "update_time": "2025-04-04 04:15:15",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "529541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5696658279105925613",
+                    "size": "893699880",
+                    "download": "825510368"
+                },
+                "experimental_unsupported": {
+                    "gid": "4476681170526936720",
+                    "size": "825374461",
+                    "download": "761103328"
+                }
+            },
+            "decryptionkey": "29912bca7849271a4fc7303923c5efd2d455c7875e21d174a73ed2d8eee8489d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1550948",
+                "timeupdated": "1483550402"
+            },
+            "experimental_unsupported": {
+                "buildid": "1399180",
+                "description": "Highly early & experimental builds. Unsupported.",
+                "timeupdated": "1476815228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
