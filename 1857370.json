@@ -1,0 +1,122 @@
+{
+    "appid": "1857370",
+    "type": "Game",
+    "name": "LEZ",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28709624",
+    "update_time": "2025-04-28 23:53:06",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,latam",
+        "workshopdepot": "1857370",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1857371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7227107840479857167",
+                    "size": "794442166",
+                    "download": "576275808"
+                },
+                "public-beta": {
+                    "gid": "4154043740711842935",
+                    "size": "822758261",
+                    "download": "607317248"
+                }
+            },
+            "decryptionkey": "6744150fdd52174cc6e074833485e3892e4c207292d35606dd224e6edbd9ef0f"
+        },
+        "1857376": {
+            "config": {
+                "osarch": "64",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9042079435801714567",
+                    "size": "968702229",
+                    "download": "691099680"
+                },
+                "public-beta": {
+                    "gid": "7371468884143190373",
+                    "size": "111009185",
+                    "download": "33105280"
+                }
+            }
+        },
+        "1857372": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5968153352702257700",
+                    "size": "7",
+                    "download": "64"
+                },
+                "public-beta": {
+                    "gid": "583698645442542105",
+                    "size": "802589807",
+                    "download": "602000656"
+                }
+            },
+            "decryptionkey": "4e414969245b828925343640f06f662355bba15fb70a7ce40a90323f731ce000"
+        },
+        "2364711": {
+            "dlcappid": "2364710",
+            "manifests": {
+                "public": {
+                    "gid": "4122022327396356786",
+                    "size": "28955355",
+                    "download": "25865648"
+                },
+                "public-beta": {
+                    "gid": "4122022327396356786",
+                    "size": "28955355",
+                    "download": "25865648"
+                }
+            },
+            "config": {
+                "optionaldlc": "2364710"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18267504",
+                "timeupdated": "1745855450"
+            },
+            "public-beta": {
+                "buildid": "17134763",
+                "description": "The public beta of LEZ. It may contain some errors.",
+                "timeupdated": "1737871551"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
