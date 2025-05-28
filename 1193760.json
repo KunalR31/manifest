@@ -1,0 +1,89 @@
+{
+    "appid": "1193760",
+    "type": "Game",
+    "name": "WarriOrb: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french,spanish,schinese,tchinese,russian,hungarian,romanian",
+        "1193761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5692430188903565184",
+                    "size": "3055736803",
+                    "download": "823797808"
+                },
+                "local": {
+                    "gid": "8580746208707925833",
+                    "size": "3049633760",
+                    "download": "834790976"
+                },
+                "testing": {
+                    "gid": "5692430188903565184",
+                    "size": "3055736803",
+                    "download": "823797808"
+                }
+            },
+            "decryptionkey": "5e1ce05957e003d6f1731bc8640e7d150e2665e43b49c42e04eb59c56783ae06"
+        },
+        "1193762": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2376009115387117793",
+                    "size": "3879029428",
+                    "download": "1079067088"
+                },
+                "testing": {
+                    "gid": "2376009115387117793",
+                    "size": "3879029428",
+                    "download": "1079067088"
+                }
+            },
+            "decryptionkey": "daa201011f15a4233e5321e3bd9f4d9b8367cf7b4b9059f03033efc1ea67541a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5385389",
+                "timeupdated": "1596819942"
+            },
+            "local": {
+                "buildid": "4555673",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1578593280"
+            },
+            "testing": {
+                "buildid": "5385389",
+                "description": "for testing purposes",
+                "timeupdated": "1596818103"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
