@@ -1,0 +1,69 @@
+{
+    "appid": "1029750",
+    "type": "Game",
+    "name": "Voipas",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28982802",
+    "update_time": "2025-05-14 22:52:00",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1029751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4803880627887906860",
+                    "size": "706926080",
+                    "download": "531130464"
+                },
+                "2023": {
+                    "gid": "4803880627887906860",
+                    "size": "706926080",
+                    "download": "531130464"
+                }
+            },
+            "decryptionkey": "6933d3b20275b1839b689f33453d944e5d572a582da10a88abcec99bf5fd1e75"
+        },
+        "1029752": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "2023": {
+                    "gid": "3431754084930716853",
+                    "size": "1204043668",
+                    "download": "1112149568"
+                }
+            },
+            "decryptionkey": "57d47cbe7807a1edb5be672e421fad4013ac140acad21443c596d6d734cb4163"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3971357",
+                "timeupdated": "1562325788"
+            },
+            "2023": {
+                "buildid": "11861886",
+                "description": "v0.94",
+                "timeupdated": "1691100582"
+            }
+        }
+    }
+}
