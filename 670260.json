@@ -1,0 +1,121 @@
+{
+    "appid": "670260",
+    "type": "Game",
+    "name": "Solace Crafting",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28976607",
+    "update_time": "2025-05-14 22:41:30",
+    "depot": {
+        "670261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "618998788901527546",
+                    "size": "4325781049",
+                    "download": "1706699920"
+                },
+                "beta": {
+                    "gid": "618998788901527546",
+                    "size": "4325781049",
+                    "download": "1706699920"
+                },
+                "betamp": {
+                    "gid": "618998788901527546",
+                    "size": "4325781049",
+                    "download": "1706699920"
+                },
+                "dedicatedserver": {
+                    "gid": "618998788901527546",
+                    "size": "4325781049",
+                    "download": "1706699920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "670262": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7372961427855793124",
+                    "size": "8889985467",
+                    "download": "3563291904"
+                },
+                "beta": {
+                    "gid": "7368323663224830238",
+                    "size": "5627639637",
+                    "download": "2126076592"
+                },
+                "betamp": {
+                    "gid": "2394298563236043493",
+                    "size": "1012648332",
+                    "download": "455535632"
+                },
+                "dedicatedserver": {
+                    "gid": "3970950552210161021",
+                    "size": "1012649379",
+                    "download": "455526144"
+                }
+            },
+            "decryptionkey": "e22bf2ea709cdf9cfbd479289696066a4b4b5527ed456cdcf8d5f6496359a638"
+        },
+        "670263": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5679848891172259176",
+                    "size": "9437910802",
+                    "download": "3809194896"
+                },
+                "beta": {
+                    "gid": "3827429201258370688",
+                    "size": "5906127022",
+                    "download": "2230867344"
+                },
+                "betamp": {
+                    "gid": "3767117752379270672",
+                    "size": "1556201081",
+                    "download": "700032576"
+                },
+                "dedicatedserver": {
+                    "gid": "5949465512121703382",
+                    "size": "1556255072",
+                    "download": "700052816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "670260",
+        "branches": {
+            "public": {
+                "buildid": "14961610",
+                "timeupdated": "1735498902"
+            },
+            "beta": {
+                "buildid": "18441475",
+                "description": "Public beta branch",
+                "timeupdated": "1747125574"
+            },
+            "betamp": {
+                "buildid": "15314796",
+                "description": "dedicated server beta",
+                "timeupdated": "1723187170"
+            },
+            "dedicatedserver": {
+                "buildid": "14961613",
+                "description": "Public dedicated server",
+                "timeupdated": "1735498949"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
