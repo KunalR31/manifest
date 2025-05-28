@@ -1,0 +1,76 @@
+{
+    "appid": "1255660",
+    "type": "Game",
+    "name": "Mya of the Desert",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26377796",
+    "update_time": "2024-12-05 04:59:00",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1255661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8983013753591551368",
+                    "size": "7760209397",
+                    "download": "1745407072"
+                },
+                "macos": {
+                    "gid": "8983013753591551368",
+                    "size": "7760209397",
+                    "download": "1745407072"
+                }
+            },
+            "decryptionkey": "8539a2e569dbc77a2799798ef023527423c809e7fcebe1c681c650281558baf2"
+        },
+        "1255662": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3949147327375824374",
+                    "size": "7941532227",
+                    "download": "1850319552"
+                },
+                "macos": {
+                    "gid": "3949147327375824374",
+                    "size": "7941532227",
+                    "download": "1850319552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5051029",
+                "timeupdated": "1589927715"
+            },
+            "macos": {
+                "buildid": "5051029",
+                "description": "MacOS Version",
+                "timeupdated": "1589927686"
+            }
+        }
+    }
+}
