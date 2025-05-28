@@ -1,0 +1,99 @@
+{
+    "appid": "521330",
+    "type": "Game",
+    "name": "Skull Ball Heroes",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24325365",
+    "update_time": "2024-07-12 01:44:16",
+    "depot": {
+        "baselanguages": "english",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "521332": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2071281858284336114",
+                    "size": "10796823558",
+                    "download": "2960602960"
+                },
+                "tuebortestbuild": {
+                    "gid": "1639559317418691178",
+                    "size": "20518836970",
+                    "download": "5608686672"
+                }
+            },
+            "decryptionkey": "3c2c0f86805077121587b69dba1476d4ad0fda495d3a080e29a41f6dfc1bcac2"
+        },
+        "521333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5828144169658246391",
+                    "size": "360422730",
+                    "download": "142586288"
+                },
+                "tuebortestbuild": {
+                    "gid": "5828144169658246391",
+                    "size": "360422730",
+                    "download": "142586288"
+                }
+            },
+            "decryptionkey": "aeb1499378535267970eaa204ea9c7dcc383e11a003088a34e6448f67ce2e278"
+        },
+        "521334": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6567931962592845982",
+                    "size": "14620546427",
+                    "download": "3550561472"
+                },
+                "tuebortestbuild": {
+                    "gid": "6567931962592845982",
+                    "size": "14620546427",
+                    "download": "3550561472"
+                }
+            },
+            "decryptionkey": "039e3c7d3636a4c2e1f4aca215af0c95c6dc143437b6100291242dd8f5525ed9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6035158",
+                "timeupdated": "1609727247"
+            },
+            "tuebortestbuild": {
+                "buildid": "5864141",
+                "description": "Test Server",
+                "timeupdated": "1605985372"
+            }
+        }
+    }
+}
