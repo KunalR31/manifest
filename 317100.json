@@ -1,0 +1,133 @@
+{
+    "appid": "317100",
+    "type": "Game",
+    "name": "Republique",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971804",
+    "update_time": "2025-05-14 10:07:55",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,japanese,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "317101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2077480605682918428",
+                    "size": "6380725080",
+                    "download": "5443980224"
+                },
+                "local": {
+                    "gid": "8942274172120967248",
+                    "size": "7800481263",
+                    "download": "3923138592"
+                }
+            },
+            "decryptionkey": "47188c31bf705659e6a58bb72bff7db2f5ec9ab1f4023645f5c1f275f4e82581"
+        },
+        "317102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3866299341474039440",
+                    "size": "6455742280",
+                    "download": "5491260160"
+                },
+                "local": {
+                    "gid": "2066731800306669310",
+                    "size": "7838901351",
+                    "download": "3928070144"
+                }
+            },
+            "decryptionkey": "2a43e0e6aaaa6501005491602f95eb1ff6c09d829dce5eeda3803cb085fa0645"
+        },
+        "317103": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "319240": {
+            "manifests": {
+                "public": {
+                    "gid": "3179679745298308290",
+                    "size": "2329650477",
+                    "download": "1867863952"
+                },
+                "local": {
+                    "gid": "925772256416422059",
+                    "size": "4391787559",
+                    "download": "3520292896"
+                }
+            },
+            "dlcappid": "319240",
+            "decryptionkey": ""
+        },
+        "319241": {
+            "dlcappid": "319240",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2256930550341287554",
+                    "size": "249366682",
+                    "download": "105072848"
+                },
+                "local": {
+                    "gid": "2256930550341287554",
+                    "size": "249366682",
+                    "download": "105072848"
+                }
+            },
+            "decryptionkey": "7b5c25ae3d04a26598ee730d6d4dd9b26a1bbdb358a522ac6d6976c12a4a31cb"
+        },
+        "319242": {
+            "dlcappid": "319240",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "979792060345189221",
+                    "size": "250958830",
+                    "download": "106807728"
+                },
+                "local": {
+                    "gid": "979792060345189221",
+                    "size": "250958830",
+                    "download": "106807728"
+                }
+            },
+            "decryptionkey": "a23ebcc8fc04b1cda83d5d5e5c4d1e46f0df092cba397882628ae9f905dd51bf"
+        },
+        "319243": {
+            "dlcappid": "319240",
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3325525",
+                "timeupdated": "1542757436"
+            },
+            "local": {
+                "buildid": "1059192",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1459890628"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
