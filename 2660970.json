@@ -1,0 +1,66 @@
+{
+    "appid": "2660970",
+    "type": "Game",
+    "name": "Hypersomnia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29013792",
+    "update_time": "2025-05-16 08:12:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2660971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1122337649515620062",
+                    "size": "51133572",
+                    "download": "26822192"
+                }
+            },
+            "decryptionkey": "8b77b3879efa72f77d3555219c65b4a3434c73a597bb479de661d8db3844b401"
+        },
+        "2660972": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6734413290310333205",
+                    "size": "30536896",
+                    "download": "30649296"
+                }
+            },
+            "decryptionkey": "a40e660272a73b23d5041e58f0362bcaa5365ccb46ce8a65513dd6be9755b53f"
+        },
+        "2660973": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8841079557453232972",
+                    "size": "61585071",
+                    "download": "28284592"
+                }
+            },
+            "decryptionkey": "825d9d6c3dc29e0b75d0a10302d24c98ce322b45af9510c874ed8523981fe2ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15335504",
+                "timeupdated": "1723983998"
+            }
+        }
+    }
+}
