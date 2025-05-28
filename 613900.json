@@ -1,0 +1,52 @@
+{
+    "appid": "613900",
+    "type": "Game",
+    "name": "Museum of Other Realities",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975704",
+    "update_time": "2025-05-14 22:39:37",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "613901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8840624391063568479",
+                    "size": "4354494128",
+                    "download": "2773581312"
+                },
+                "experimental": {
+                    "gid": "8840624391063568479",
+                    "size": "4354494128",
+                    "download": "2773581312"
+                }
+            },
+            "decryptionkey": "53cd0c4bfc97eab6b81e3ad8cc2b87f02befdcfee5593170ed6064fe770a8710"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9159724",
+                "timeupdated": "1658356022"
+            },
+            "experimental": {
+                "buildid": "9159724",
+                "description": "experimental builds",
+                "timeupdated": "1658355983"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
