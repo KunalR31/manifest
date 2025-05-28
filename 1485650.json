@@ -1,0 +1,66 @@
+{
+    "appid": "1485650",
+    "type": "Game",
+    "name": "Zen World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26791461",
+    "update_time": "2024-12-27 05:19:35",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1485651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8587374632885280929",
+                    "size": "123021432",
+                    "download": "38914112"
+                },
+                "testing": {
+                    "gid": "1541071343040638421",
+                    "size": "122913176",
+                    "download": "38908592"
+                }
+            },
+            "decryptionkey": "b0d286759ab173406ae1ab29ba8ef22d6e97aeb4dba0ee6c3006c90bce3c5cc2"
+        },
+        "1485652": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6563779930679697310",
+                    "size": "107010047",
+                    "download": "36163712"
+                },
+                "testing": {
+                    "gid": "6563779930679697310",
+                    "size": "107010047",
+                    "download": "36163712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10487684",
+                "timeupdated": "1675689531"
+            },
+            "testing": {
+                "buildid": "9782445",
+                "description": "A branch for public test versions",
+                "timeupdated": "1666569664"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
