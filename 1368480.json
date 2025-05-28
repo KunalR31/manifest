@@ -1,0 +1,65 @@
+{
+    "appid": "1368480",
+    "type": "Game",
+    "name": "Voidwalkers - Astora's Darkness",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25597754",
+    "update_time": "2024-10-09 01:55:55",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1368481": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4647882768754824017",
+                    "size": "4432456700",
+                    "download": "4304134352"
+                },
+                "beta": {
+                    "gid": "1101658566037334528",
+                    "size": "7649639572",
+                    "download": "7424972816"
+                },
+                "oldgame": {
+                    "gid": "4647882768754824017",
+                    "size": "4432456700",
+                    "download": "4304134352"
+                }
+            },
+            "decryptionkey": "e2c99a31f7c2187e5f7b4036b2d0cd53916b432ef9f1d5e4071fdac9933e48d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7370792",
+                "timeupdated": "1631801380"
+            },
+            "beta": {
+                "buildid": "10652887",
+                "description": "Experimental builds",
+                "timeupdated": "1677567714"
+            },
+            "oldgame": {
+                "buildid": "7370792",
+                "description": "This is the branch for the old game.",
+                "timeupdated": "1677390489"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
