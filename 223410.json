@@ -1,0 +1,64 @@
+{
+    "appid": "223410",
+    "type": "Game",
+    "name": "Perpetuum",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29031793",
+    "update_time": "2025-05-17 03:53:42",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "223411": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5612198302338305328",
+                    "size": "2028476620",
+                    "download": "990095888"
+                },
+                "test": {
+                    "gid": "5612198302338305328",
+                    "size": "2028476620",
+                    "download": "990095888"
+                }
+            },
+            "decryptionkey": "c2061303d30814ed6add5e38a9645bd2e82acf0eae8c9e564b56973eb34e0e4b"
+        },
+        "223412": {
+            "dlcappid": "426281",
+            "manifests": {
+                "public": {
+                    "gid": "6008333068665329397",
+                    "size": "1441169119",
+                    "download": "1451069536"
+                },
+                "test": {
+                    "gid": "6008333068665329397",
+                    "size": "1441169119",
+                    "download": "1451069536"
+                }
+            },
+            "decryptionkey": "a1081a69d4793e1ecd3135c8e70629c6dc37fbb6ea4e7a099c10618c19cadee3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18496410",
+                "timeupdated": "1747425204"
+            },
+            "test": {
+                "buildid": "18496410",
+                "description": "Test (staging) client",
+                "timeupdated": "1747425217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
