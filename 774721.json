@@ -1,0 +1,65 @@
+{
+    "appid": "774721",
+    "type": "Application",
+    "name": "EF EVE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28928484",
+    "update_time": "2025-05-12 03:35:05",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "774722": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5322591479400106430",
+                    "size": "385121437",
+                    "download": "99373536"
+                },
+                "beta": {
+                    "gid": "5322591479400106430",
+                    "size": "385121437",
+                    "download": "99373536"
+                }
+            },
+            "decryptionkey": "dc09038197949b56f192f59c4ce320c92d5870fcf364df9017961127b1783f22"
+        },
+        "774723": {
+            "manifests": {
+                "public": {
+                    "gid": "3895429234315073345",
+                    "size": "1022016",
+                    "download": "330464"
+                },
+                "beta": {
+                    "gid": "3895429234315073345",
+                    "size": "1022016",
+                    "download": "330464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3824939",
+                "timeupdated": "1557907129"
+            },
+            "beta": {
+                "buildid": "3824939",
+                "description": "For beta testing",
+                "timeupdated": "1557907099"
+            }
+        }
+    }
+}
