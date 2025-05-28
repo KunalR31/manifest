@@ -1,0 +1,64 @@
+{
+    "appid": "524240",
+    "type": "Game",
+    "name": "STONEBOND: The Gargoyle's Domain",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28732116",
+    "update_time": "2025-04-30 00:53:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "524241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1893145403353641956",
+                    "size": "77574384",
+                    "download": "29181008"
+                },
+                "beta": {
+                    "gid": "1893145403353641956",
+                    "size": "77574384",
+                    "download": "29181008"
+                }
+            },
+            "decryptionkey": "8a0abc91160ab16b74345e73acc2b246d4864758d1e19a52d6bd27e5e3fe5275"
+        },
+        "524242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7206833078790879793",
+                    "size": "86853081",
+                    "download": "30888640"
+                },
+                "beta": {
+                    "gid": "7206833078790879793",
+                    "size": "86853081",
+                    "download": "30888640"
+                }
+            },
+            "decryptionkey": "5c0e4f69d61ff65211bfd9d449a5dba9fc227036cff025dd29be6a2a7cf5dc68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1589955",
+                "timeupdated": "1485346463"
+            },
+            "beta": {
+                "buildid": "1589955",
+                "timeupdated": "1485346121"
+            }
+        }
+    }
+}
