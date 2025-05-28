@@ -1,0 +1,98 @@
+{
+    "appid": "1516340",
+    "type": "Game",
+    "name": "Necore Tower - Redux Edition",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26377796",
+    "update_time": "2024-12-05 04:59:02",
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1516341": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1595531909358619743",
+                    "size": "197193559",
+                    "download": "123475584"
+                },
+                "alpha": {
+                    "gid": "7356449461133525430",
+                    "size": "193518133",
+                    "download": "119368848"
+                },
+                "beta": {
+                    "gid": "7416741620744582406",
+                    "size": "289575379",
+                    "download": "70758064"
+                }
+            },
+            "decryptionkey": "33f397ffa5a42fc3bde837f24bc5eb4900a304d93a83e6af6ad536a533fa4705"
+        },
+        "1516342": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8463937800054940485",
+                    "size": "217365560",
+                    "download": "120538368"
+                },
+                "alpha": {
+                    "gid": "3192621681640783899",
+                    "size": "212770733",
+                    "download": "116028928"
+                },
+                "beta": {
+                    "gid": "7559296438974293349",
+                    "size": "309700282",
+                    "download": "67315856"
+                }
+            },
+            "decryptionkey": "b01b5c1a891bf925d773b764ec03b43b9672ae71d3d27880217b9d7b50437c76"
+        },
+        "1516344": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11498956",
+                "timeupdated": "1687077693"
+            },
+            "alpha": {
+                "buildid": "7562377",
+                "description": "Alpha Access Branch",
+                "timeupdated": "1634675493"
+            },
+            "beta": {
+                "buildid": "7470825",
+                "description": "Public Beta Branch",
+                "timeupdated": "1633289811"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
