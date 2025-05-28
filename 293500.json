@@ -1,0 +1,55 @@
+{
+    "appid": "293500",
+    "type": "Game",
+    "name": "Amazing World",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 22:21:31",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "293501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6317617349025604005",
+                    "size": "282014199",
+                    "download": "165936320"
+                }
+            },
+            "decryptionkey": "1ffe0349a66a3437af5a41d6f92404e91583e4df17edf9f0946af8dfe369ffbf"
+        },
+        "293502": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6976046015200551653",
+                    "size": "306042436",
+                    "download": "170371216"
+                }
+            },
+            "decryptionkey": "6e00b364638c53089b7de43fe38bf7216f6ab6e2ab88a1222a5becf710e35756"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1910151",
+                "timeupdated": "1499263313"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
