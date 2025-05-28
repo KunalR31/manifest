@@ -1,0 +1,69 @@
+{
+    "appid": "368080",
+    "type": "Game",
+    "name": "Aurion: Legacy of the Kori-Odan",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972554",
+    "update_time": "2025-05-14 11:17:53",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "368081": {
+            "manifests": {
+                "public": {
+                    "gid": "9155158751694870837",
+                    "size": "14041573871",
+                    "download": "4046601104"
+                },
+                "local": {
+                    "gid": "6252531432455998402",
+                    "size": "3215170968",
+                    "download": "1097396960"
+                }
+            },
+            "decryptionkey": "c3b0791266db10f0de3443b735cf7296d08d6b7fe825988b713993d601e2f84e"
+        },
+        "436420": {
+            "manifests": {
+                "public": {
+                    "gid": "3224392044791849951",
+                    "size": "95317177",
+                    "download": "95094880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "7503817",
+                "timeupdated": "1633725272"
+            },
+            "local": {
+                "buildid": "857292",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
