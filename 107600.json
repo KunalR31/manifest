@@ -1,0 +1,84 @@
+{
+    "appid": "107600",
+    "type": "Game",
+    "name": "Waves",
+    "schinese_name": "波动",
+    "isfreeapp": "1",
+    "change_number": "28970052",
+    "update_time": "2025-05-14 07:27:56",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "107601": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2757468391200530141",
+                    "size": "137414248",
+                    "download": "78471680"
+                },
+                "local": {
+                    "gid": "2570647369861046921",
+                    "size": "185651326",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "873d6866f6c021c7f22d5b3c7d4305f1dc0744e08855c0167c53b249c6b6d0ab"
+        },
+        "232990": {
+            "manifests": {
+                "public": {
+                    "gid": "3059033438597612908",
+                    "size": "64519124",
+                    "download": "57537648"
+                },
+                "local": {
+                    "gid": "6361488969807415237",
+                    "size": "64519152",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "232990",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1183110",
+                "timeupdated": "1466077389"
+            },
+            "local": {
+                "buildid": "176562",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
