@@ -1,0 +1,54 @@
+{
+    "appid": "556770",
+    "type": "Game",
+    "name": "Star Phoenix",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 14:31:19",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "556771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8830771402542529023",
+                    "size": "2532519861",
+                    "download": "799481376"
+                },
+                "oculus_height_fix": {
+                    "gid": "967398927562506140",
+                    "size": "2532003224",
+                    "download": "799313840"
+                }
+            },
+            "decryptionkey": "2bf1285307fd95822bd32b6bb7564c06acf22cf2a295075025a2fe022e5a39cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1625926",
+                "timeupdated": "1486900558"
+            },
+            "oculus_height_fix": {
+                "buildid": "1624713",
+                "description": "Oculus Height Fix",
+                "timeupdated": "1486833308"
+            }
+        }
+    }
+}
