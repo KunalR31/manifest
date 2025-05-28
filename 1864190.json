@@ -1,0 +1,71 @@
+{
+    "appid": "1864190",
+    "type": "Game",
+    "name": "Space Pressure 3D: Prelude",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28990570",
+    "update_time": "2025-05-15 06:13:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1864191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8210661791674545098",
+                    "size": "219828339",
+                    "download": "201580896"
+                },
+                "local": {
+                    "gid": "5732289563696697795",
+                    "size": "212969295",
+                    "download": "215740896"
+                }
+            },
+            "decryptionkey": "0488a5cfbc29e95601beaf37e81f826ed8d995299c0e018fba8229b572e7e87a"
+        },
+        "1901120": {
+            "dlcappid": "1901120",
+            "manifests": {
+                "public": {
+                    "gid": "5967696534803386185",
+                    "size": "2958314",
+                    "download": "2995760"
+                }
+            },
+            "config": {
+                "optionaldlc": "1901120"
+            },
+            "decryptionkey": "5f1500fb29c61e9c0c60ed05e90d58256c525367c83f607c85020580c22b570b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15097826",
+                "timeupdated": "1721466251"
+            },
+            "local": {
+                "buildid": "8310026",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1646338993"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
