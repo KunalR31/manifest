@@ -1,0 +1,81 @@
+{
+    "appid": "770460",
+    "type": "Game",
+    "name": "The Dummy Experiment",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "23061599",
+    "update_time": "2024-05-27 03:43:16",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "770465": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2507610931710867142",
+                    "size": "1575917323",
+                    "download": "309273328"
+                }
+            },
+            "decryptionkey": "12ec224ce1988c228daecc6cb5d54d526812f3fc261e2a8bb7825862c4fb18d3"
+        },
+        "770466": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7871229355663674170",
+                    "size": "1581240692",
+                    "download": "310895104"
+                }
+            },
+            "decryptionkey": "3f3a498462f8e8641c3d00540e954c1b15ea63440578ce6f807cb7b03f168965"
+        },
+        "770467": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611319664586144981",
+                    "size": "1586499637",
+                    "download": "312869088"
+                }
+            },
+            "decryptionkey": "29fd67b8db727a290d03c3ffc63406421d2d3d2d43416fcadfaf1c64c7c2c396"
+        },
+        "770468": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3827573247815647722",
+                    "size": "1587595273",
+                    "download": "313169312"
+                }
+            },
+            "decryptionkey": "faed08eb438af1e7f80b5cafced55317759095cafea319acc67c43da3f5ccced"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2468462",
+                "timeupdated": "1516885073"
+            }
+        }
+    }
+}
