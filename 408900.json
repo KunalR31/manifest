@@ -1,0 +1,64 @@
+{
+    "appid": "408900",
+    "type": "Game",
+    "name": "Unfortunate Spacemen",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28922666",
+    "update_time": "2025-05-11 12:02:36",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "408901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6670753871440809740",
+                    "size": "6786612483",
+                    "download": "6471202976"
+                },
+                "publicbeta": {
+                    "gid": "2509110480612339391",
+                    "size": "6832477328",
+                    "download": "6517361712"
+                }
+            },
+            "decryptionkey": "8d004395f00d6dc127dafc3ec6814656c9fe61ff8242ba9117b53de6b046e1f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13643430",
+                "timeupdated": "1710021486"
+            },
+            "publicbeta": {
+                "buildid": "13685651",
+                "description": "Public Test Branch",
+                "timeupdated": "1709931965"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
