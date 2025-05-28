@@ -1,0 +1,85 @@
+{
+    "appid": "113400",
+    "type": "Game",
+    "name": "APB Reloaded",
+    "schinese_name": "全面通缉",
+    "isfreeapp": "1",
+    "change_number": "28970052",
+    "update_time": "2025-05-14 07:27:45",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2547553897526095397",
+                    "size": "13742505",
+                    "download": "13436144"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7260605429366465749",
+                    "size": "50450161",
+                    "download": "50365280"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "f95e8545cfe871c330a483b25520ba7ed3750d21b9a51791ff0f0ed0dae33738"
+        },
+        "overridescddb": "1",
+        "113401": {
+            "systemdefined": "1",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5848824382070587718",
+                    "size": "7397236759",
+                    "download": "6316705504"
+                },
+                "local": {
+                    "gid": "2545369418655597642",
+                    "size": "6728977451",
+                    "download": "5727753376"
+                }
+            },
+            "decryptionkey": "d6858c2ba4940054cdf81e2ac1d381f1468321c4fe7bc22dc8aac8d58148e9cc"
+        },
+        "113409": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4435644351262518037",
+                    "size": "1363",
+                    "download": "704"
+                }
+            },
+            "decryptionkey": "052afc6cbc7cb9ac7c56d13f5ce5f8531109ce2123fbcd4b0e8c5ede0a19692d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3566366",
+                "timeupdated": "1550271699"
+            },
+            "local": {
+                "buildid": "2156774",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1506627200"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
