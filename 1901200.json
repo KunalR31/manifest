@@ -1,0 +1,77 @@
+{
+    "appid": "1901200",
+    "type": "Game",
+    "name": "FPS Game: Dev Test",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29044060",
+    "update_time": "2025-05-18 06:15:09",
+    "depot": {
+        "baselanguages": "english",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1901201": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8064984100096739020",
+                    "size": "7732407071",
+                    "download": "1510515616"
+                },
+                "fpsmt_ue5": {
+                    "gid": "1668245210480601624",
+                    "size": "912974436",
+                    "download": "275117856"
+                }
+            },
+            "decryptionkey": "453541cc90571f403b754bf319e87b3efb02b33c98a23b5c9b6aa44202c3c744"
+        },
+        "1901202": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8524517",
+                "timeupdated": "1649438019"
+            },
+            "fpsmt_ue5": {
+                "buildid": "10947007",
+                "description": "FPSMT_V5",
+                "timeupdated": "1680791734"
+            }
+        }
+    }
+}
