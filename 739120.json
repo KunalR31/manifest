@@ -1,0 +1,67 @@
+{
+    "appid": "739120",
+    "type": "Tool",
+    "name": "BattleRush Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182518",
+    "update_time": "2024-11-14 05:44:40",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "739121": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4799816964070848189",
+                    "size": "825448967",
+                    "download": "285826176"
+                }
+            },
+            "decryptionkey": "e5d76ea543b51796935bc7a56dcd30d02310efcac06b1139f0f260ea92652f87"
+        },
+        "739122": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1257568331986116298",
+                    "size": "295953686",
+                    "download": "227389424"
+                }
+            },
+            "decryptionkey": "31dcc2f00c1ee1277887541f8554a5302f644ebeb9589ecf521ca21c34724d23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2634492",
+                "timeupdated": "1522139406"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
