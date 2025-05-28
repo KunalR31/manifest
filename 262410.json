@@ -1,0 +1,125 @@
+{
+    "appid": "262410",
+    "type": "Game",
+    "name": "World of Guns: Gun Disassembly",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971051",
+    "update_time": "2025-05-14 08:57:43",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "workshopdepot": "262410",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "262411": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1269875031012187523",
+                    "size": "170065130",
+                    "download": "45510032"
+                },
+                "2020": {
+                    "gid": "6579163078235744476",
+                    "size": "159284351",
+                    "download": "42109376"
+                },
+                "beta": {
+                    "gid": "1269875031012187523",
+                    "size": "170065130",
+                    "download": "45510032"
+                }
+            },
+            "decryptionkey": "ff42141cc1f34989188abbb4dbb59c495b355f743db74eca4bf677a37b0f5aad"
+        },
+        "262412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4022475335818848537",
+                    "size": "171508199",
+                    "download": "46799200"
+                },
+                "2020": {
+                    "gid": "4015900378311070833",
+                    "size": "173694995",
+                    "download": "46983952"
+                },
+                "beta": {
+                    "gid": "4022475335818848537",
+                    "size": "171508199",
+                    "download": "46799200"
+                }
+            },
+            "decryptionkey": "4277a3b9facc196c21a8ca501d15c9583befd87ad2138a4fcc69d1d7c9fafbde"
+        },
+        "262413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9045936503046190068",
+                    "size": "176551146",
+                    "download": "49444016"
+                },
+                "2020": {
+                    "gid": "937501316815413586",
+                    "size": "178766602",
+                    "download": "49651376"
+                },
+                "beta": {
+                    "gid": "9045936503046190068",
+                    "size": "176551146",
+                    "download": "49444016"
+                }
+            },
+            "decryptionkey": "6dd747d3385f1e409f8a9d1ea9d390395bf80e6cb0f2ef996ff97ea1d65b5851"
+        },
+        "262414": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8933082936548259068",
+                    "size": "197838026",
+                    "download": "54077808"
+                },
+                "beta": {
+                    "gid": "8933082936548259068",
+                    "size": "197838026",
+                    "download": "54077808"
+                }
+            },
+            "decryptionkey": "e2305f613f7ac465d51c806f157f98291c4ecb704b36b91a150d54d49a849187"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13955190",
+                "timeupdated": "1712402741"
+            },
+            "2020": {
+                "buildid": "4935826",
+                "timeupdated": "1587659378"
+            },
+            "beta": {
+                "buildid": "13955190",
+                "timeupdated": "1712269433"
+            }
+        }
+    }
+}
