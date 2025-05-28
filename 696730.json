@@ -1,0 +1,65 @@
+{
+    "appid": "696730",
+    "type": "Game",
+    "name": "Deep Ones",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28251740",
+    "update_time": "2025-04-01 23:50:33",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "696731": {
+            "manifests": {
+                "public": {
+                    "gid": "1643269441832460402",
+                    "size": "177951837",
+                    "download": "122074176"
+                },
+                "game_dlc": {
+                    "gid": "3415253551165089823",
+                    "size": "226295308",
+                    "download": "58364016"
+                }
+            },
+            "decryptionkey": "824808064f05201cc8fa6eaa840c7b3bd698773c261a38a519bb2e9394e9fc99"
+        },
+        "701320": {
+            "dlcappid": "701320",
+            "manifests": {
+                "public": {
+                    "gid": "9031303837733555096",
+                    "size": "297717999",
+                    "download": "236249376"
+                },
+                "game_dlc": {
+                    "gid": "6642486589742274554",
+                    "size": "297717999",
+                    "download": "236249376"
+                }
+            },
+            "config": {
+                "optionaldlc": "701320"
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4331841",
+                "timeupdated": "1572271466"
+            },
+            "game_dlc": {
+                "buildid": "2077201",
+                "timeupdated": "1504035840"
+            }
+        },
+        "appmanagesdlc": "1"
+    },
+    "access_token": 15408159780543391286
+}
