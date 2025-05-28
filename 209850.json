@@ -1,0 +1,54 @@
+{
+    "appid": "209850",
+    "type": "Game",
+    "name": "Highborn",
+    "schinese_name": "贵族重生",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-16 22:50:53",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "209851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "840303580375800257",
+                    "size": "2606141178",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "67efa36586b7094914530dd5826a6d14b5c600872d366e839f5764842575f0a4"
+        },
+        "209852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3191019908729876656",
+                    "size": "2621191735",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0b4288491093650f9e409147969a322d54f46b30acd46823212690caa4f49623"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "160598"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
