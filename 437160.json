@@ -1,0 +1,72 @@
+{
+    "appid": "437160",
+    "type": "Game",
+    "name": "The Lion's Song",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27193674",
+    "update_time": "2025-01-28 10:20:06",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "437161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6992267189349369606",
+                    "size": "399391029",
+                    "download": "362069040"
+                }
+            },
+            "decryptionkey": "87b0121ee2578c7a76ee5a3cca55ce9763e43419bb9b7b1aae268f0e6e8eb057"
+        },
+        "437162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7318979554783379149",
+                    "size": "344712041",
+                    "download": "306399584"
+                }
+            },
+            "decryptionkey": "0054f38d1f90bc0f0fb38421e41acdf12aca58e36708baaf8e65c80fd03b7769"
+        },
+        "437163": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4887410965578293381",
+                    "size": "356515003",
+                    "download": "308842640"
+                }
+            },
+            "decryptionkey": "db5b108dc7cdefc547ec589d55b43080472e022bb78edd01c8a343005bc28f48"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4624467",
+                "timeupdated": "1580397715"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
