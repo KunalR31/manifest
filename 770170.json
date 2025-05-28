@@ -1,0 +1,57 @@
+{
+    "appid": "770170",
+    "type": "Application",
+    "name": "Ezbench",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28203676",
+    "update_time": "2025-03-29 14:15:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "770171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3037570661418850278",
+                    "size": "6728296721",
+                    "download": "6663999872"
+                },
+                "unreal5.0": {
+                    "gid": "5323944691617216965",
+                    "size": "11420404533",
+                    "download": "11058671120"
+                }
+            },
+            "decryptionkey": "ded26c00ef942b519fe87f0502c977897b1f8481167cede2a7e3cc2f1212a763"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "10531417",
+                "timeupdated": "1676135891"
+            },
+            "unreal5.0": {
+                "buildid": "9692444",
+                "description": "Legacy Unreal Engine 5.0",
+                "timeupdated": "1675869050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
