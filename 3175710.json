@@ -1,0 +1,54 @@
+{
+    "appid": "3175710",
+    "type": "Demo",
+    "name": "I'm Not Crazy Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26860143",
+    "update_time": "2025-01-04 17:47:04",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "3175712": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4316543722128276122",
+                    "size": "61994266",
+                    "download": "33830352"
+                },
+                "demo": {
+                    "gid": "2931043128316706763",
+                    "size": "61994266",
+                    "download": "33830464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3109001": {
+            "manifests": {
+                "public": {
+                    "gid": "4245179430573731365",
+                    "size": "67090842",
+                    "download": "34038656"
+                }
+            },
+            "depotfromapp": "3109000",
+            "decryptionkey": "c2107271672d8a49237c8ff469b1f4f64ef691dbb32e371caaa1b141017c8198"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15474571",
+                "timeupdated": "1724431423"
+            },
+            "demo": {
+                "buildid": "15479788",
+                "description": "demo",
+                "timeupdated": "1724481252"
+            }
+        }
+    }
+}
