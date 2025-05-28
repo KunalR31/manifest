@@ -1,0 +1,61 @@
+{
+    "appid": "283180",
+    "type": "Game",
+    "name": "The Samaritan Paradox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27434265",
+    "update_time": "2025-02-12 15:20:27",
+    "depot": {
+        "overridescddb": "1",
+        "283181": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8757211521918233265",
+                    "size": "244231467",
+                    "download": "176685936"
+                },
+                "freja": {
+                    "gid": "8706349456569763204",
+                    "size": "237571779",
+                    "download": "289633393651"
+                }
+            },
+            "decryptionkey": "ef5565a49937b6bc3743f8fd72fbedad53032d5825c44ee072753c565b3dfbf1"
+        },
+        "283182": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6872861281256220420",
+                    "size": "246159984",
+                    "download": "0"
+                },
+                "freja": {
+                    "gid": "6872861281256220420",
+                    "size": "246159984",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "25816f4fc366492a2d0f38941ebc358925ffaf909ab54da2ec42508edb9e98c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3185411",
+                "timeupdated": "1538726101"
+            },
+            "freja": {
+                "buildid": "375269",
+                "description": "v1.0 branch",
+                "timeupdated": "1525500813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
