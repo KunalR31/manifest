@@ -1,0 +1,48 @@
+{
+    "appid": "620360",
+    "type": "Game",
+    "name": "Toy Clash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016964",
+    "update_time": "2025-05-16 13:11:29",
+    "depot": {
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,japanese,portuguese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "620361": {
+            "manifests": {
+                "public": {
+                    "gid": "8286090724534853607",
+                    "size": "391539763",
+                    "download": "131249248"
+                },
+                "local": {
+                    "gid": "4319730895352772338",
+                    "size": "367884595",
+                    "download": "129545568"
+                }
+            },
+            "decryptionkey": "46e9fe2903eb11844b0cda19e75d389e7a0c1945ec6ada999b03d6d9fe866eb3"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "2343391",
+                "timeupdated": "1512544948"
+            },
+            "local": {
+                "buildid": "2204712",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1508229740"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
