@@ -1,0 +1,56 @@
+{
+    "appid": "1315070",
+    "type": "Game",
+    "name": "Vaccine19",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29013617",
+    "update_time": "2025-05-16 08:01:58",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1315071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7184528284444571886",
+                    "size": "243511225",
+                    "download": "68322736"
+                },
+                "beta": {
+                    "gid": "7184528284444571886",
+                    "size": "243511225",
+                    "download": "68322736"
+                }
+            },
+            "decryptionkey": "d77036901e1cafb6bafe981b7ea007bfcd029645f4ed61ff0d062700ac1f6e82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6449661",
+                "timeupdated": "1616838275"
+            },
+            "beta": {
+                "buildid": "6449661",
+                "description": "Testing changes",
+                "timeupdated": "1616837389"
+            }
+        }
+    }
+}
