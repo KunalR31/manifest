@@ -1,0 +1,56 @@
+{
+    "appid": "63610",
+    "type": "Game",
+    "name": "Riven (1997)",
+    "schinese_name": "神秘岛2：星空断层",
+    "isfreeapp": "0",
+    "change_number": "28990991",
+    "update_time": "2025-05-15 06:47:04",
+    "depot": {
+        "overridescddb": "1",
+        "63611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5513574142981933738",
+                    "size": "7116065779",
+                    "download": "4856899200"
+                },
+                "previous-version": {
+                    "gid": "1944300418573321316",
+                    "size": "3605379190",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bbab6bc956cdec6de22bb380af99db1af024da253b40b7b7fed97cf752769562"
+        },
+        "63612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1707927182142321399",
+                    "size": "7073536083",
+                    "download": "4538119008"
+                }
+            },
+            "decryptionkey": "a612fff0688008c3bcf1ca70e04ac0f70daa7121aa39d66b008936ba50979dc5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4942351",
+                "timeupdated": "1587766612"
+            },
+            "previous-version": {
+                "buildid": "23904",
+                "description": "Previous Version",
+                "timeupdated": "1536614163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
