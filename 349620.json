@@ -1,0 +1,73 @@
+{
+    "appid": "349620",
+    "type": "Demo",
+    "name": "BlastZone 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28793671",
+    "update_time": "2025-05-03 06:31:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "349621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4638691711562168660",
+                    "size": "72624363",
+                    "download": "41214128"
+                }
+            },
+            "decryptionkey": "c7bfffa60ee536d1a05be7d7c7236578a0dc93c85ea80cad7e402b945d635e1c"
+        },
+        "349622": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5455629906609805006",
+                    "size": "3932880",
+                    "download": "1358272"
+                }
+            },
+            "decryptionkey": "2959a2d46f3d0ad96a969202b867e8a4d09381a9bed990686c49295a90b672e3"
+        },
+        "349623": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7201716514866891878",
+                    "size": "4579024",
+                    "download": "1601216"
+                }
+            },
+            "decryptionkey": "96bab2d27dfbb7e6d10d7470565090b7d2d4fe48f84728bc95da49b0ae8cab06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17861013",
+                "timeupdated": "1746225094"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
