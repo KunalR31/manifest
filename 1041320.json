@@ -1,0 +1,68 @@
+{
+    "appid": "1041320",
+    "type": "Game",
+    "name": "Lords Mobile",
+    "schinese_name": "王国纪元",
+    "isfreeapp": "1",
+    "change_number": "29039797",
+    "update_time": "2025-05-17 20:15:52",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1041321": {
+            "manifests": {
+                "public": {
+                    "gid": "4058298299035616365",
+                    "size": "2062469426",
+                    "download": "540278432"
+                },
+                "beta": {
+                    "gid": "4058298299035616365",
+                    "size": "2062469426",
+                    "download": "540278432"
+                },
+                "local": {
+                    "gid": "8663262421093650754",
+                    "size": "539588309",
+                    "download": "189018784"
+                }
+            },
+            "decryptionkey": "a7ed5a46f6788ec47446eca93a16f8b3afc300bf6157c2c268bee55fc30902f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18386189",
+                "timeupdated": "1746695794"
+            },
+            "beta": {
+                "buildid": "18386189",
+                "timeupdated": "1746694525"
+            },
+            "local": {
+                "buildid": "3663578",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1553073350"
+            }
+        }
+    }
+}
