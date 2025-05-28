@@ -1,0 +1,137 @@
+{
+    "appid": "2184770",
+    "type": "Game",
+    "name": "Broken Lens",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009471",
+    "update_time": "2025-05-16 02:42:47",
+    "depot": {
+        "2184772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2329283086149502707",
+                    "size": "5106457847",
+                    "download": "969394656"
+                },
+                "macos_steam_v151": {
+                    "gid": "8323557493580751910",
+                    "size": "1308471799",
+                    "download": "994467520"
+                },
+                "macos_steam_v155": {
+                    "gid": "8323557493580751910",
+                    "size": "1308471799",
+                    "download": "994467520"
+                },
+                "macos_steam_v160": {
+                    "gid": "8323557493580751910",
+                    "size": "1308471799",
+                    "download": "994467520"
+                },
+                "testing": {
+                    "gid": "4172038842481754979",
+                    "size": "2152505607",
+                    "download": "899879584"
+                }
+            },
+            "decryptionkey": "5984c248a139a577d1ff1578df59308e2e943302f6ecc378ab9b61eee870c44f"
+        },
+        "2184773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7951577132649998079",
+                    "size": "2201035016",
+                    "download": "910836528"
+                },
+                "macos_steam_v151": {
+                    "gid": "5533440170665332062",
+                    "size": "1356844392",
+                    "download": "1005485808"
+                },
+                "macos_steam_v155": {
+                    "gid": "2583971280844217376",
+                    "size": "5154987384",
+                    "download": "980398224"
+                },
+                "macos_steam_v160": {
+                    "gid": "3382663857335242469",
+                    "size": "1357001464",
+                    "download": "1005494960"
+                },
+                "testing": {
+                    "gid": "6697030146593527279",
+                    "size": "2201034968",
+                    "download": "910835312"
+                }
+            },
+            "decryptionkey": "6b1c5bcb942c91e93899d849a89d533886420049f727adc6a2cf789b64389285"
+        },
+        "2184774": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "643042560650149412",
+                    "size": "5096346536",
+                    "download": "966609616"
+                },
+                "macos_steam_v151": {
+                    "gid": "371467551311528497",
+                    "size": "1298360488",
+                    "download": "991676640"
+                },
+                "macos_steam_v155": {
+                    "gid": "371467551311528497",
+                    "size": "1298360488",
+                    "download": "991676640"
+                },
+                "macos_steam_v160": {
+                    "gid": "371467551311528497",
+                    "size": "1298360488",
+                    "download": "991676640"
+                },
+                "testing": {
+                    "gid": "9038479934410161040",
+                    "size": "2142394248",
+                    "download": "897039200"
+                }
+            },
+            "decryptionkey": "e6d6119705490902fb32e9e6f01f484bfe0102b3b125a9d91f4338eda0dbca60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15570263",
+                "timeupdated": "1725304078"
+            },
+            "macos_steam_v151": {
+                "buildid": "15208938",
+                "description": "build with older version of steam api",
+                "timeupdated": "1722408739"
+            },
+            "macos_steam_v155": {
+                "buildid": "16122034",
+                "description": "build with version 1.55 of steam api",
+                "timeupdated": "1729513221"
+            },
+            "macos_steam_v160": {
+                "buildid": "15208903",
+                "description": "build with latest version of steam api",
+                "timeupdated": "1722408508"
+            },
+            "testing": {
+                "buildid": "15315502",
+                "description": "testing features",
+                "timeupdated": "1723190907"
+            }
+        }
+    }
+}
