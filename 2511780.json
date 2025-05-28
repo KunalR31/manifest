@@ -1,0 +1,52 @@
+{
+    "appid": "2511780",
+    "type": "Game",
+    "name": "Vestiges: Fallen Tribes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28864110",
+    "update_time": "2025-05-07 23:01:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2511781": {
+            "manifests": {
+                "public": {
+                    "gid": "3445883511714365645",
+                    "size": "2677418495",
+                    "download": "2495286464"
+                },
+                "previous-release": {
+                    "gid": "6927091741026574534",
+                    "size": "2880134751",
+                    "download": "2638743696"
+                }
+            },
+            "decryptionkey": "0790dbd3cf777b75548120aa0674f4afe4ac4d79cca556edfa0f332d7b6430ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18209248",
+                "timeupdated": "1745480760"
+            },
+            "previous-release": {
+                "buildid": "17435685",
+                "description": "Previous stable version, to compare and keep playing if you experience any regressions. Please notify us on Discord. Might not be multiplayer-compatible with the current version.",
+                "timeupdated": "1745480486"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
