@@ -1,0 +1,101 @@
+{
+    "appid": "1612520",
+    "type": "Game",
+    "name": "SmallZ",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28968048",
+    "update_time": "2025-05-14 04:32:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1612522": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5056874386513008683",
+                    "size": "4698961315",
+                    "download": "1455163008"
+                },
+                "dedicatedserver": {
+                    "gid": "2522985853564899497",
+                    "size": "4507110539",
+                    "download": "1393478496"
+                },
+                "testing": {
+                    "gid": "5056874386513008683",
+                    "size": "4698961315",
+                    "download": "1455163008"
+                }
+            },
+            "decryptionkey": "b0422af726bcaa9199717831641f7e18965f0e23c5512ba2b3808bd350f6b0cd"
+        },
+        "1612523": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1612521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055952768606008119",
+                    "size": "944971321",
+                    "download": "282941024"
+                },
+                "dedicatedserver": {
+                    "gid": "4727132498125643329",
+                    "size": "920774233",
+                    "download": "278294976"
+                },
+                "testing": {
+                    "gid": "3055952768606008119",
+                    "size": "944971321",
+                    "download": "282941024"
+                }
+            },
+            "decryptionkey": "543c33a63f083ef53024b17d372c4d8faa8dd62fb106036900a5dc00ca038247"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11469407",
+                "timeupdated": "1686758525"
+            },
+            "dedicatedserver": {
+                "buildid": "10499301",
+                "description": "Dedicated Server Branch",
+                "timeupdated": "1675797816"
+            },
+            "testing": {
+                "buildid": "11469407",
+                "description": "Testing branch",
+                "timeupdated": "1686757546"
+            }
+        }
+    }
+}
