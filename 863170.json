@@ -1,0 +1,56 @@
+{
+    "appid": "863170",
+    "type": "Game",
+    "name": "Muerte's Arena",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-27 07:46:43",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "863171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4679436734507325994",
+                    "size": "431096657",
+                    "download": "158504672"
+                },
+                "beta": {
+                    "gid": "5501734633613925765",
+                    "size": "431129729",
+                    "download": "158510128"
+                }
+            },
+            "decryptionkey": "37a8928926307c8cc93323864a2795832a3525465ab817526ab2a339e42b97cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3233931",
+                "timeupdated": "1540166662"
+            },
+            "beta": {
+                "buildid": "3237387",
+                "description": "For testing purposes",
+                "timeupdated": "1540257019"
+            }
+        }
+    }
+}
