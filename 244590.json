@@ -1,0 +1,55 @@
+{
+    "appid": "244590",
+    "type": "Game",
+    "name": "Epigenesis",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 08:38:02",
+    "depot": {
+        "overridescddb": "1",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "244591": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "178979772140782518",
+                    "size": "953104753",
+                    "download": "346568451873"
+                },
+                "beta": {
+                    "gid": "178979772140782518",
+                    "size": "953104753",
+                    "download": "346568451873"
+                }
+            },
+            "decryptionkey": "8a77827680397c52e525274e5fc5f3116b75e6e87f4b3bc943b08a6c80f8fce2"
+        },
+        "244592": {
+            "dlcappid": "337060",
+            "manifests": {
+                "public": {
+                    "gid": "8921839999732022346",
+                    "size": "32228706",
+                    "download": "47497304111"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "472072"
+            },
+            "beta": {
+                "buildid": "443576"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
