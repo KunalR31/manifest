@@ -1,0 +1,73 @@
+{
+    "appid": "2636020",
+    "type": "Game",
+    "name": "EX-XDRiVER",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28990199",
+    "update_time": "2025-05-15 05:44:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2636021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1902737955113224035",
+                    "size": "884666456",
+                    "download": "441817344"
+                }
+            },
+            "decryptionkey": "50fb6f931ed9b8750573d2032568453d167a74b72934a4b4f22a1c2de540fe57"
+        },
+        "2636022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5401277639989155800",
+                    "size": "911019637",
+                    "download": "448126464"
+                }
+            },
+            "decryptionkey": "918a6ee40e6f80e1804307e7c54ce3273cf0e374de278c0a91e7cdc1e676552d"
+        },
+        "2636023": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7773430145962799614",
+                    "size": "926738432",
+                    "download": "443522416"
+                }
+            },
+            "decryptionkey": "2d3f3b123c62c11fc1401d86ecb472431a67de768f19b0555fe25b6b06ffd5fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18231674",
+                "timeupdated": "1745543485"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
