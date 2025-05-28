@@ -1,0 +1,144 @@
+{
+    "appid": "468700",
+    "type": "Game",
+    "name": "NVIDIA® VR Funhouse",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27166099",
+    "update_time": "2025-01-26 03:26:18",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "468701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1800233895831070367",
+                    "size": "3314201897",
+                    "download": "936648480"
+                },
+                "1.0-1135150": {
+                    "gid": "5052907151851304433",
+                    "size": "2695937264",
+                    "download": "819321120"
+                },
+                "1.1-1141538": {
+                    "gid": "684328528895934470",
+                    "size": "3306767892",
+                    "download": "935801264"
+                },
+                "1.1.1-1142206": {
+                    "gid": "3972362077896360731",
+                    "size": "3305875189",
+                    "download": "935404544"
+                },
+                "1.2-1144716": {
+                    "gid": "6097909367015270155",
+                    "size": "3317214227",
+                    "download": "937212704"
+                },
+                "1.2.1-1144716.1": {
+                    "gid": "4808134081843079848",
+                    "size": "3315379731",
+                    "download": "937094768"
+                },
+                "1.2.2-1144716.2": {
+                    "gid": "7835879380661964669",
+                    "size": "3315380632",
+                    "download": "937094784"
+                },
+                "1.2.3-1144716.3": {
+                    "gid": "8557786957239561015",
+                    "size": "3313809639",
+                    "download": "936755152"
+                },
+                "1.3-1152576": {
+                    "gid": "8705553196041408354",
+                    "size": "3315217203",
+                    "download": "936901712"
+                },
+                "1.3.3-1157350-vrworks-mrs": {
+                    "gid": "2083252672321474724",
+                    "size": "3316534346",
+                    "download": "937099184"
+                }
+            },
+            "decryptionkey": "cf5f81f359831cdf399db60df5190469af91183c2bfbeca6528a4b6352460284"
+        },
+        "workshopdepot": "468700",
+        "branches": {
+            "public": {
+                "buildid": "1525200",
+                "timeupdated": "1490705806"
+            },
+            "1.0-1135150": {
+                "buildid": "1224004",
+                "description": "July 14, 2016 Release",
+                "timeupdated": "1472734716"
+            },
+            "1.1-1141538": {
+                "buildid": "1310863",
+                "description": "September 1, 2016 Release",
+                "timeupdated": "1473436018"
+            },
+            "1.1.1-1142206": {
+                "buildid": "1326781",
+                "description": "September 9, 2016 Patch",
+                "timeupdated": "1475671279"
+            },
+            "1.2-1144716": {
+                "buildid": "1373793",
+                "description": "October 5, 2016 Release",
+                "timeupdated": "1476479215"
+            },
+            "1.2.1-1144716.1": {
+                "buildid": "1393233",
+                "description": "October 14, 2016 Vive Mirror Patch",
+                "timeupdated": "1476821659"
+            },
+            "1.2.2-1144716.2": {
+                "buildid": "1399431",
+                "description": "October 18, 2016 'Q' View Reset Patch",
+                "timeupdated": "1481231845"
+            },
+            "1.2.3-1144716.3": {
+                "buildid": "1507097",
+                "description": "December 8, 2016 Perf-Stability Patch",
+                "timeupdated": "1481228215"
+            },
+            "1.3-1152576": {
+                "buildid": "1520395",
+                "description": "December 14, 2016 Achievements Release",
+                "timeupdated": "1481768560"
+            },
+            "1.3.3-1157350-vrworks-mrs": {
+                "buildid": "1683854",
+                "timeupdated": "1489174682"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
