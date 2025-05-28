@@ -1,0 +1,56 @@
+{
+    "appid": "2707390",
+    "type": "Game",
+    "name": "Sicaria",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "961814926382956028",
+                    "size": "2500088157",
+                    "download": "2323362864"
+                },
+                "jenkins": {
+                    "gid": "8016569377321005140",
+                    "size": "2773152552",
+                    "download": "2467328096"
+                }
+            },
+            "decryptionkey": "9ad5ecef7607cb864682ec20c1a5931b0bbd99049956156f25dbe6fedb643fd0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14923665",
+                "timeupdated": "1720042051"
+            },
+            "jenkins": {
+                "buildid": "14927732",
+                "description": "Jenkins Upload Branch",
+                "timeupdated": "1720074919"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
