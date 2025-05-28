@@ -1,0 +1,65 @@
+{
+    "appid": "243600",
+    "type": "Demo",
+    "name": "Teleglitch: Die More Edition - Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 08:21:37",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "243601": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7045113206661960390",
+                    "size": "39547955",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b36a1e07d71d71017a8c6dac8ab2adc67f1e6b70d70c2d87d49c377177bd3266"
+        },
+        "243602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "737524333998642382",
+                    "size": "42424020",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1a409de8b2406a7b4e8e7023aaca6b127931425b3e43440ba8c1700d45694434"
+        },
+        "243603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "695258482162160524",
+                    "size": "36123420",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0d8bbc132037067ca1e3657a6ef8cc79c444ebaff4988223acd4a4a5a7dea238"
+        },
+        "branches": {
+            "public": {
+                "buildid": "133808"
+            }
+        }
+    }
+}
