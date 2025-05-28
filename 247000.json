@@ -1,0 +1,67 @@
+{
+    "appid": "247000",
+    "type": "Game",
+    "name": "Talisman: Digital Classic Edition",
+    "schinese_name": "圣符国度：数字版",
+    "isfreeapp": "0",
+    "change_number": "28970735",
+    "update_time": "2025-05-14 08:27:46",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "247001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4495438123582653298",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "b62969d44c425e997a403e31e0b7cd9db111f4d684c97730a6400d371a9003da"
+        },
+        "247002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1256442691308760106",
+                    "size": "1232273485",
+                    "download": "1210674160"
+                }
+            },
+            "decryptionkey": "9c7e6e93a2a21678ef4b1a5229b91fdf212016278a0652438c7a17ea79c7be70"
+        },
+        "247003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9080688611621439348",
+                    "size": "1257287196",
+                    "download": "1214524784"
+                }
+            },
+            "decryptionkey": "8d1dc48081c6b33a252c53d9d80b7f843dadf0c99dac2d135697e17919617b77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14231248",
+                "timeupdated": "1714556704"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
