@@ -1,0 +1,110 @@
+{
+    "appid": "671610",
+    "type": "Game",
+    "name": "Warfork",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28976607",
+    "update_time": "2025-05-14 22:41:37",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "671610",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "671612": {
+            "dlcappid": "1145510",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6486365964059277851",
+                    "size": "178150339",
+                    "download": "61673664"
+                },
+                "beta": {
+                    "gid": "6486365964059277851",
+                    "size": "178150339",
+                    "download": "61673664"
+                }
+            },
+            "decryptionkey": "e760c9ff7854dcaecd9ea6db7b1ce50b7caad48608c02040d8e5bdbb9ae97669"
+        },
+        "671615": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7401944717882570944",
+                    "size": "864383899",
+                    "download": "856976864"
+                },
+                "beta": {
+                    "gid": "4387753313235272327",
+                    "size": "789562769",
+                    "download": "777430784"
+                }
+            },
+            "decryptionkey": "0a63804ed28018315efd284efc0dea218280e3c2cbce58b6fb0adaa9bd1ace53"
+        },
+        "671617": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2154522793463286395",
+                    "size": "862420504",
+                    "download": "856164448"
+                },
+                "beta": {
+                    "gid": "6433374736049717549",
+                    "size": "881485086",
+                    "download": "793373152"
+                }
+            },
+            "decryptionkey": "d0bacd4729547307ea80d108e1e7c18cf091d8cfff099787a6d731976b228eee"
+        },
+        "671618": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "894379221008400929",
+                    "size": "876269628",
+                    "download": "859056832"
+                },
+                "beta": {
+                    "gid": "1830909934769087005",
+                    "size": "796855618",
+                    "download": "778074016"
+                }
+            },
+            "decryptionkey": "112f9eb86df45e5dc0038c3b0a97cd1d71d94b5d0441bd7ab5251b0f51cf5b18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16821945",
+                "timeupdated": "1734759892"
+            },
+            "beta": {
+                "buildid": "16822443",
+                "description": "Warfork Beta Testing",
+                "timeupdated": "1734765272"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
