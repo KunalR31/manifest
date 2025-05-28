@@ -1,0 +1,51 @@
+{
+    "appid": "2427960",
+    "type": "Game",
+    "name": "Calcium Contract",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29024853",
+    "update_time": "2025-05-16 21:17:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2427961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7745865962687936754",
+                    "size": "162541261",
+                    "download": "142408704"
+                },
+                "local": {
+                    "gid": "1154621417340928353",
+                    "size": "142310608",
+                    "download": "125350096"
+                }
+            },
+            "decryptionkey": "32dfc84d29e1ae4dfd5fee8afffbf3b297c1cbb95bff674dc0079c98ef4062db"
+        },
+        "baselanguages": "english,polish,czech",
+        "branches": {
+            "public": {
+                "buildid": "17731229",
+                "timeupdated": "1741985445"
+            },
+            "local": {
+                "buildid": "11290869",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1684791607"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
