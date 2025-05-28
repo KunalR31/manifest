@@ -1,0 +1,97 @@
+{
+    "appid": "268850",
+    "type": "Application",
+    "name": "EVGA Precision X1",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:44",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "268851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5365060846135867990",
+                    "size": "71017702",
+                    "download": "46270144"
+                },
+                "evgapx1": {
+                    "gid": "8577932886827962005",
+                    "size": "36541527",
+                    "download": "17700096"
+                },
+                "pxoc": {
+                    "gid": "5365060846135867990",
+                    "size": "71017702",
+                    "download": "46270144"
+                }
+            },
+            "decryptionkey": "5cc9bc2d471dcb7c404e6b53cc1ba2c7338208615adc76cff7b6a4eacc15ff91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9782965",
+                "timeupdated": "1666629278"
+            },
+            "evgapx1": {
+                "buildid": "3917525",
+                "description": "EVGA Precision X1",
+                "timeupdated": "1561080120"
+            },
+            "pxoc": {
+                "buildid": "9782965",
+                "description": "EVGA Precision XOC",
+                "timeupdated": "1666629139"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
