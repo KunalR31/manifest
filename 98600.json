@@ -1,0 +1,77 @@
+{
+    "appid": "98600",
+    "type": "Game",
+    "name": "Demolition, Inc.",
+    "schinese_name": "拆迁公司",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:55",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,polish,russian",
+        "98601": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6061507619307216365",
+                    "size": "374664902",
+                    "download": "350279392"
+                },
+                "previousbuild": {
+                    "gid": "6297653325779374032",
+                    "size": "809815556",
+                    "download": "0"
+                },
+                "workshopbeta": {
+                    "gid": "2547839808996031560",
+                    "size": "812611678",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "01af06b05969ffdf63a968410784055a25bf641a66a687eccb90642f4d019eb3"
+        },
+        "98602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2615548117706949022",
+                    "size": "339023130",
+                    "download": "0"
+                },
+                "previousbuild": {
+                    "gid": "2584786585911365125",
+                    "size": "153042425",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c40d6c950696fd8561b96f84ddb4fad56f29739c923f2fac77a674801825e2e4"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "13426932",
+                "timeupdated": "1707657877"
+            },
+            "previousbuild": {
+                "buildid": "81652"
+            },
+            "workshopbeta": {
+                "buildid": "62992",
+                "description": "Public Workshop Beta"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
