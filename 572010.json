@@ -1,0 +1,55 @@
+{
+    "appid": "572010",
+    "type": "Game",
+    "name": "No Way Out",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974981",
+    "update_time": "2025-05-14 22:37:36",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "572011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3577130699770342850",
+                    "size": "764896820",
+                    "download": "592108032"
+                },
+                "legacy": {
+                    "gid": "6068623156313157462",
+                    "size": "4234546200",
+                    "download": "2216626512"
+                }
+            },
+            "decryptionkey": "38b4a9f767f3b076c8a619a1359c0773d384fa8784b09824ec99496a7a56ae2e"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18303067",
+                "timeupdated": "1746055660"
+            },
+            "legacy": {
+                "buildid": "1584765",
+                "description": "Old Version",
+                "timeupdated": "1734557153"
+            }
+        }
+    }
+}
