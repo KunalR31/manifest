@@ -1,0 +1,102 @@
+{
+    "appid": "206500",
+    "type": "Game",
+    "name": "AirMech",
+    "schinese_name": "机甲战机",
+    "isfreeapp": "1",
+    "change_number": "28970158",
+    "update_time": "2025-05-14 07:37:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "206503": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8904229024567006382",
+                    "size": "1020803358",
+                    "download": "905227040"
+                },
+                "strike": {
+                    "gid": "7044987641178179260",
+                    "size": "829531331",
+                    "download": "793909120"
+                },
+                "beta": {
+                    "gid": "8904229024567006382",
+                    "size": "1020803358",
+                    "download": "905227040"
+                }
+            },
+            "decryptionkey": "c1f4008780c08ced071797be6a11ef77e8908fb26e045ca9692019add23db146"
+        },
+        "216173": {
+            "dlcappid": "216173",
+            "manifests": {
+                "public": {
+                    "gid": "3249318963402083177",
+                    "size": "657240345",
+                    "download": "662949920"
+                },
+                "strike": {
+                    "gid": "3249318963402083177",
+                    "size": "657240345",
+                    "download": "662949920"
+                },
+                "beta": {
+                    "gid": "3249318963402083177",
+                    "size": "657240345",
+                    "download": "662949920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "888240": {
+            "manifests": {
+                "public": {
+                    "gid": "8912496837260398043",
+                    "size": "156771453",
+                    "download": "154192832"
+                },
+                "strike": {
+                    "gid": "2349707330053785253",
+                    "size": "156771453",
+                    "download": "154192832"
+                },
+                "beta": {
+                    "gid": "8912496837260398043",
+                    "size": "156771453",
+                    "download": "154192832"
+                }
+            },
+            "dlcappid": "888240"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17949344",
+                "timeupdated": "1743570164"
+            },
+            "strike": {
+                "buildid": "2978329",
+                "description": "Classic 76180",
+                "timeupdated": "1703491163"
+            },
+            "beta": {
+                "buildid": "17949344",
+                "description": "public canary",
+                "timeupdated": "1743570091"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
