@@ -1,0 +1,67 @@
+{
+    "appid": "404580",
+    "type": "Game",
+    "name": "Relive",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27149869",
+    "update_time": "2025-01-24 21:28:58",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,italian",
+        "404581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1551372168705180264",
+                    "size": "3110560960",
+                    "download": "495765456"
+                }
+            },
+            "decryptionkey": "9e229251aef676f216ecd8d789b42c14c3c226f173cb850705d6324d6e76141a"
+        },
+        "404582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "369360301148665242",
+                    "size": "3114445968",
+                    "download": "496848992"
+                }
+            },
+            "decryptionkey": "1fb523efff2793487fddcabb2616a3c0c867c1cf808a46bde93db968c7928040"
+        },
+        "404583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8510421140016878784",
+                    "size": "2308984365",
+                    "download": "465800592"
+                }
+            },
+            "decryptionkey": "39ec4ff543594637052314c4e48f90210d92e9260d090ebb80a95d5ebf50f00a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1141521",
+                "timeupdated": "1464021860"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
