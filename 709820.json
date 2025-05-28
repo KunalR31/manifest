@@ -1,0 +1,92 @@
+{
+    "appid": "709820",
+    "type": "Game",
+    "name": "Wasted Pizza",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987147",
+    "update_time": "2025-05-15 02:14:04",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "709822": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1176725777544637613",
+                    "size": "316408894",
+                    "download": "104628944"
+                },
+                "mac?": {
+                    "gid": "8818054024377744635",
+                    "size": "306098902",
+                    "download": "103950224"
+                },
+                "windows": {
+                    "gid": "8818054024377744635",
+                    "size": "306098902",
+                    "download": "103950224"
+                }
+            },
+            "decryptionkey": "51a8c3d518245b475cc84700a8c8ea653ffee7f4b3692ff87ebd12be23806528"
+        },
+        "709821": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2270681668071042989",
+                    "size": "319240250",
+                    "download": "104820400"
+                },
+                "mac?": {
+                    "gid": "7694401836428205047",
+                    "size": "308934042",
+                    "download": "104063904"
+                }
+            },
+            "decryptionkey": "55f69e5227ab1d054a8bc6ab4e2fe5dc0f3fe4bdca6d82f46da8653d5557112a"
+        },
+        "709823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6971096410981529944",
+                    "size": "323679595",
+                    "download": "106905936"
+                },
+                "mac?": {
+                    "gid": "3448352511186171524",
+                    "size": "316017427",
+                    "download": "106805360"
+                }
+            },
+            "decryptionkey": "f753e4c0d26edcee72c048a85755a3ed2e0a62576460dcf4116cef433cac5888"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2199829",
+                "timeupdated": "1508052141"
+            },
+            "mac?": {
+                "buildid": "2142336",
+                "timeupdated": "1506177411"
+            },
+            "windows": {
+                "buildid": "2142260",
+                "description": "Windows",
+                "timeupdated": "1506173669"
+            }
+        }
+    }
+}
