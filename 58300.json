@@ -1,0 +1,45 @@
+{
+    "appid": "58300",
+    "type": "Game",
+    "name": "System Protocol One",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20540664",
+    "update_time": "2024-05-25 09:04:05",
+    "depot": {
+        "58302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2790605787511940992",
+                    "size": "164961940",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "32e20bb832b7111446d043b23dd97f5f30e4dfe6e9aef52d7466b7ec48cfbf3d"
+        },
+        "58301": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7757352530880104104",
+                    "size": "168150829",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bc21a0459734be2fd47f0a10cdb2c780be1cc1ff16e7251dc3c03dbdfc0ba77e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11586"
+            }
+        }
+    }
+}
