@@ -1,0 +1,100 @@
+{
+    "appid": "341570",
+    "type": "Game",
+    "name": "Throbax TD",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28510808",
+    "update_time": "2025-04-16 23:09:44",
+    "depot": {
+        "baselanguages": "english,german",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "341571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8562911220899037400",
+                    "size": "661455807",
+                    "download": "525692080"
+                },
+                "beta": {
+                    "gid": "8562911220899037400",
+                    "size": "661455807",
+                    "download": "525692080"
+                },
+                "dev_unstable": {
+                    "gid": "308011866736853882",
+                    "size": "661667497",
+                    "download": "525700320"
+                }
+            },
+            "decryptionkey": "d6804dabeb749d4f4288372856290fd92dbc462089fc4f3897deb5d8d0ea9a39"
+        },
+        "341572": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "341573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "673423061742925075",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "673423061742925075",
+                    "size": "0",
+                    "download": "0"
+                },
+                "dev_unstable": {
+                    "gid": "673423061742925075",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "acedb7fee0ebfeb5ffd0237dd05c60c85f1cd8b46cb6ad98adae6590b7cedbcd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3828311",
+                "timeupdated": "1557984258"
+            },
+            "beta": {
+                "buildid": "3828311",
+                "description": "For beta testing",
+                "timeupdated": "1557984242"
+            },
+            "dev_unstable": {
+                "buildid": "11174496",
+                "description": "Unstable developer branch - may not run at all",
+                "timeupdated": "1683454302"
+            }
+        }
+    }
+}
