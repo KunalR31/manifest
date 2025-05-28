@@ -1,0 +1,88 @@
+{
+    "appid": "424200",
+    "type": "Game",
+    "name": "Little Mouse's Encyclopedia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28642761",
+    "update_time": "2025-04-24 19:17:28",
+    "depot": {
+        "424201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3929726180138822915",
+                    "size": "628951652",
+                    "download": "182092480"
+                },
+                "legacy": {
+                    "gid": "4164401943942423606",
+                    "size": "605903050",
+                    "download": "178827408"
+                },
+                "localization": {
+                    "gid": "449872641650055947",
+                    "size": "614692396",
+                    "download": "180647136"
+                },
+                "beta": {
+                    "gid": "7770451730383314230",
+                    "size": "619411746",
+                    "download": "182066624"
+                }
+            },
+            "decryptionkey": "60c349efe945bb06560bd294e7600c149647e63594e40ebf9b3f52a8569cfb85"
+        },
+        "424202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2526955187684668563",
+                    "size": "621801945",
+                    "download": "180729008"
+                },
+                "legacy": {
+                    "gid": "8704859178561003006",
+                    "size": "608005400",
+                    "download": "180038144"
+                },
+                "localization": {
+                    "gid": "5239486623215550832",
+                    "size": "616051096",
+                    "download": "181543408"
+                },
+                "beta": {
+                    "gid": "6541139865224835999",
+                    "size": "613925937",
+                    "download": "181011648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15730048",
+                "timeupdated": "1726582616"
+            },
+            "legacy": {
+                "buildid": "5497805",
+                "description": "last version before update",
+                "timeupdated": "1605615928"
+            },
+            "localization": {
+                "buildid": "7069357",
+                "timeupdated": "1626952250"
+            },
+            "beta": {
+                "buildid": "14892285",
+                "description": "branch for new features",
+                "timeupdated": "1719822839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
