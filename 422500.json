@@ -1,0 +1,51 @@
+{
+    "appid": "422500",
+    "type": "Game",
+    "name": "Emmerholt: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24252820",
+    "update_time": "2024-07-05 23:43:02",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "422501": {
+            "manifests": {
+                "public": {
+                    "gid": "5792437625850722288",
+                    "size": "2500614253",
+                    "download": "947115904"
+                },
+                "beta-test": {
+                    "gid": "5792437625850722288",
+                    "size": "2500614253",
+                    "download": "947115904"
+                }
+            },
+            "decryptionkey": "6a6696ae20bc06ae4e703b1d2f993d7cfe5ba71eabb12a4a59c44ef16aa10eac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1647137",
+                "timeupdated": "1487719413"
+            },
+            "beta-test": {
+                "buildid": "1647137",
+                "description": "Testing branch for future updates",
+                "timeupdated": "1487718226"
+            }
+        }
+    }
+}
