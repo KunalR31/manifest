@@ -1,0 +1,63 @@
+{
+    "appid": "1637900",
+    "type": "Demo",
+    "name": "Monster Outbreak Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25090277",
+    "update_time": "2024-09-05 19:15:32",
+    "depot": {
+        "1637901": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2049902246306989594",
+                    "size": "576674192",
+                    "download": "422263392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1525192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6765003148271629539",
+                    "size": "49888162",
+                    "download": "14891536"
+                }
+            },
+            "depotfromapp": "1525190",
+            "decryptionkey": "2e79d3b069644175b6b5ce3a9e4c135d9b52fe4da3e3105cac55ac98163bd27b"
+        },
+        "1525193": {
+            "depotfromapp": "1525190"
+        },
+        "1637902": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6019611555268006253",
+                    "size": "645715928",
+                    "download": "440223392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8479608",
+                "timeupdated": "1650565080"
+            }
+        }
+    }
+}
