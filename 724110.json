@@ -1,0 +1,61 @@
+{
+    "appid": "724110",
+    "type": "Game",
+    "name": "PlayUSA",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28914295",
+    "update_time": "2025-05-10 13:32:04",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "724111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4599230718982369222",
+                    "size": "14562508",
+                    "download": "6513136"
+                }
+            },
+            "decryptionkey": "d17ddead18a7301b9f377bc1c0278aee61716bfcf43e1f1fcb1891473263478a"
+        },
+        "724112": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7101240851770728724",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "724113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "workshopdepot": "724110",
+        "branches": {
+            "public": {
+                "buildid": "2977276",
+                "timeupdated": "1532553707"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
