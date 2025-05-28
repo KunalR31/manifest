@@ -1,0 +1,175 @@
+{
+    "appid": "258550",
+    "type": "Game",
+    "name": "Rust Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29033548",
+    "update_time": "2025-05-17 06:22:14",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "258551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7447967372833455294",
+                    "size": "615888034",
+                    "download": "405914256"
+                },
+                "aux01": {
+                    "gid": "2039658334224681308",
+                    "size": "625455891",
+                    "download": "407164000"
+                },
+                "aux02": {
+                    "gid": "2613856381880529900",
+                    "size": "622457180",
+                    "download": "406757024"
+                },
+                "debug": {
+                    "gid": "2591346971987511447",
+                    "size": "631208934",
+                    "download": "393851888"
+                },
+                "last-month": {
+                    "gid": "2036194923263786562",
+                    "size": "625345871",
+                    "download": "407120016"
+                },
+                "release": {
+                    "gid": "7447967372833455294",
+                    "size": "615888034",
+                    "download": "405914256"
+                },
+                "staging": {
+                    "gid": "8488575961447047844",
+                    "size": "616036490",
+                    "download": "406004544"
+                }
+            },
+            "decryptionkey": "09842c1c5e07c75ea20524cfab90a25efd8c3a1e02e5dec51ea09f5f7d64d16d"
+        },
+        "258552": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9002211058533157977",
+                    "size": "636645564",
+                    "download": "380307952"
+                },
+                "aux01": {
+                    "gid": "157480048412995115",
+                    "size": "643325369",
+                    "download": "380567104"
+                },
+                "aux02": {
+                    "gid": "8127234160577167507",
+                    "size": "641361538",
+                    "download": "380689904"
+                },
+                "debug": {
+                    "gid": "8305401038939912362",
+                    "size": "139415558",
+                    "download": "34397936"
+                },
+                "last-month": {
+                    "gid": "354395126829725594",
+                    "size": "643554453",
+                    "download": "380699504"
+                },
+                "release": {
+                    "gid": "9002211058533157977",
+                    "size": "636645564",
+                    "download": "380307952"
+                },
+                "staging": {
+                    "gid": "429062519292223025",
+                    "size": "636455444",
+                    "download": "380225952"
+                }
+            },
+            "decryptionkey": "bf4ffd7abd1e0668dfb7eeda4085ae5358385bd7fa4a73f4c0f3e7474c3cfb54"
+        },
+        "258554": {
+            "manifests": {
+                "public": {
+                    "gid": "2837198037491132241",
+                    "size": "8890158175",
+                    "download": "2300181264"
+                },
+                "aux01": {
+                    "gid": "8553546221282744147",
+                    "size": "8376539280",
+                    "download": "2090612976"
+                },
+                "aux02": {
+                    "gid": "8655482709431588340",
+                    "size": "8377530128",
+                    "download": "2090950736"
+                },
+                "debug": {
+                    "gid": "9050441631359858310",
+                    "size": "8000428058",
+                    "download": "1942290304"
+                },
+                "last-month": {
+                    "gid": "1361695939345533936",
+                    "size": "8376649888",
+                    "download": "2090695920"
+                },
+                "release": {
+                    "gid": "2837198037491132241",
+                    "size": "8890158175",
+                    "download": "2300181264"
+                },
+                "staging": {
+                    "gid": "1127170151967777207",
+                    "size": "8854469227",
+                    "download": "2285356736"
+                }
+            },
+            "decryptionkey": "e080d61fac7bc9db9c82396949d62c52b0780ed8a07fc3cf27fb3d05a49ebfb2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18443933",
+                "timeupdated": "1747151053"
+            },
+            "aux01": {
+                "buildid": "17984400",
+                "description": "Pre-Staging",
+                "timeupdated": "1743768150"
+            },
+            "aux02": {
+                "buildid": "18297867",
+                "description": "Up and coming",
+                "timeupdated": "1746026215"
+            },
+            "debug": {
+                "buildid": "17041002",
+                "description": "2021 testing",
+                "timeupdated": "1737126347"
+            },
+            "last-month": {
+                "buildid": "18220905",
+                "description": "last-month",
+                "timeupdated": "1746119819"
+            },
+            "release": {
+                "buildid": "18443933",
+                "timeupdated": "1747136171"
+            },
+            "staging": {
+                "buildid": "18497828",
+                "timeupdated": "1747434043"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
