@@ -1,0 +1,73 @@
+{
+    "appid": "254590",
+    "type": "Game",
+    "name": "Theme Park Studio",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27964473",
+    "update_time": "2025-03-15 04:21:52",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "254591": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4479878231890219370",
+                    "size": "5324067531",
+                    "download": "1567247184"
+                },
+                "themeparkstudiobeta": {
+                    "gid": "5159032141025549817",
+                    "size": "3974567403",
+                    "download": "1554649648"
+                }
+            },
+            "decryptionkey": "381413a2bac99ed69a12eee9ec4a04582e760e0441907247fe3e53b33026847f"
+        },
+        "254592": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8146311032976528897",
+                    "size": "5303844043",
+                    "download": "1376326752"
+                }
+            },
+            "decryptionkey": "a0c6bf76bd21341b6199222ee480220c36a1630ec2c1b2a65eff08f914ec01a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1485810",
+                "timeupdated": "1480375350"
+            },
+            "themeparkstudiobeta": {
+                "buildid": "976180",
+                "description": "ThemeParkStudio Beta"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
