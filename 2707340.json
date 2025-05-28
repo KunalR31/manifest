@@ -1,0 +1,55 @@
+{
+    "appid": "2707340",
+    "type": "Game",
+    "name": "Alice Through the Fey Realm",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5163118197972970681",
+                    "size": "813648162",
+                    "download": "608990032"
+                },
+                "jenkins": {
+                    "gid": "9030847497362961169",
+                    "size": "813652226",
+                    "download": "609232208"
+                }
+            },
+            "decryptionkey": "c28fa0c588b0761558e8f945bdcb690dd7c8db0f41831d6577696b04c9956aa5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14953859",
+                "timeupdated": "1720341805"
+            },
+            "jenkins": {
+                "buildid": "15016665",
+                "description": "Jenkins Upload Branch",
+                "timeupdated": "1720804521"
+            }
+        }
+    }
+}
