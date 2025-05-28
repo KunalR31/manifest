@@ -1,0 +1,74 @@
+{
+    "appid": "1805080",
+    "type": "Game",
+    "name": "Reta Tus Habilidades",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 15:19:02",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1805081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1107910221333686420",
+                    "size": "501359195",
+                    "download": "402780528"
+                },
+                "uploads": {
+                    "gid": "8390981763225245710",
+                    "size": "501310350",
+                    "download": "402700256"
+                }
+            },
+            "decryptionkey": "6ae89141e41bd28c4711b0f7ee293839f9412f8768b4d024e828f98cc54a0588"
+        },
+        "1805082": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8149221701591752928",
+                    "size": "461234356",
+                    "download": "235215104"
+                },
+                "uploads": {
+                    "gid": "8149221701591752928",
+                    "size": "461234356",
+                    "download": "235215104"
+                }
+            },
+            "decryptionkey": "f112c2398abf096506738a653cd0059dd23061f1ad97bc94b41b9ef6f04c37a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14150659",
+                "timeupdated": "1713903980"
+            },
+            "uploads": {
+                "buildid": "7910732",
+                "description": "Primero se sube en Uploads",
+                "timeupdated": "1639951031"
+            }
+        }
+    }
+}
