@@ -1,0 +1,84 @@
+{
+    "appid": "533780",
+    "type": "Game",
+    "name": "Zombie Defense",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29041104",
+    "update_time": "2025-05-17 23:12:52",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "533781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3273182638140095265",
+                    "size": "185757502",
+                    "download": "47004336"
+                },
+                "ver12.7": {
+                    "gid": "6285303244527482214",
+                    "size": "158219420",
+                    "download": "38627776"
+                }
+            },
+            "decryptionkey": "3af194f1a0adbad9718929d9faea42cdc07132e3df87492719840c1a87591b14"
+        },
+        "533782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5952464132511452314",
+                    "size": "211981065",
+                    "download": "56498864"
+                },
+                "ver12.7": {
+                    "gid": "4368022106194976547",
+                    "size": "179384960",
+                    "download": "45746736"
+                }
+            },
+            "decryptionkey": "c69419176d1de16f71160342bf744d06573127390c9762d3962b42c145063443"
+        },
+        "533783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "730505232326106648",
+                    "size": "187894941",
+                    "download": "46882320"
+                },
+                "ver12.7": {
+                    "gid": "7747534400953016903",
+                    "size": "172034727",
+                    "download": "43179824"
+                }
+            },
+            "decryptionkey": "5c3bf349413f2d7b192d96f7056317f0c953f62245107ae37e1b5a3d2a5e3837"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12580575",
+                "timeupdated": "1698747130"
+            },
+            "ver12.7": {
+                "buildid": "5080761",
+                "description": "compability version 12.7",
+                "timeupdated": "1631700130"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
