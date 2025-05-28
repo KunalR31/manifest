@@ -1,0 +1,108 @@
+{
+    "appid": "263200",
+    "type": "Game",
+    "name": "Signs of Life",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27408130",
+    "update_time": "2025-02-11 04:25:16",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "263201": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4739963019335743991",
+                    "size": "960754297",
+                    "download": "584279296"
+                },
+                "test": {
+                    "gid": "8857657753058417009",
+                    "size": "940029961",
+                    "download": "575577792"
+                },
+                "xna_version_0.7.6.6": {
+                    "gid": "4029266312603510626",
+                    "size": "429280372",
+                    "download": "353921456"
+                },
+                "beta": {
+                    "gid": "5750425242736123290",
+                    "size": "1022614457",
+                    "download": "622118480"
+                }
+            },
+            "decryptionkey": "5178cb5ad8f827fb14fdc23cb32f117d66dc0175da637c51724e95ba981dc2e9"
+        },
+        "263203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6813683908837880842",
+                    "size": "1034396255",
+                    "download": "597599440"
+                },
+                "test": {
+                    "gid": "8145687418597800146",
+                    "size": "1013671919",
+                    "download": "588884992"
+                },
+                "beta": {
+                    "gid": "5088038807083650009",
+                    "size": "1093428498",
+                    "download": "635295744"
+                }
+            },
+            "decryptionkey": "80013f2137524d4fd83ab392670132343cf4b3a63560ba168b2161939fd02e69"
+        },
+        "workshopdepot": "263200",
+        "branches": {
+            "public": {
+                "buildid": "9277609",
+                "timeupdated": "1660007379"
+            },
+            "test": {
+                "buildid": "8470108",
+                "description": "Temporary testing branch",
+                "timeupdated": "1648693295"
+            },
+            "xna_version_0.7.6.6": {
+                "buildid": "1454502",
+                "timeupdated": "1486378135"
+            },
+            "beta": {
+                "buildid": "17312043",
+                "description": "beta branch",
+                "timeupdated": "1739219109"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
