@@ -1,0 +1,52 @@
+{
+    "appid": "3317910",
+    "type": "Beta",
+    "name": "Heroes of Valor Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28925843",
+    "update_time": "2025-05-11 21:33:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3317911": {
+            "manifests": {
+                "public": {
+                    "gid": "230240411772040409",
+                    "size": "1208014637",
+                    "download": "1087134752"
+                },
+                "testing": {
+                    "gid": "230240411772040409",
+                    "size": "1208014637",
+                    "download": "1087134752"
+                }
+            },
+            "decryptionkey": "958fc114ac3b5e4fb8f46107dfe91dc9255f8105c5b9d4e66be468d1db4d9c05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18360061",
+                "timeupdated": "1746538473"
+            },
+            "testing": {
+                "buildid": "18360061",
+                "description": "Public testing branch for candidate releases",
+                "timeupdated": "1746538440"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
