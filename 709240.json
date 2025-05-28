@@ -1,0 +1,57 @@
+{
+    "appid": "709240",
+    "type": "Game",
+    "name": "Ingnomia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25543486",
+    "update_time": "2024-10-05 10:13:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "709241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4569335254925686908",
+                    "size": "127928607",
+                    "download": "27058288"
+                },
+                "last": {
+                    "gid": "6794326775890423047",
+                    "size": "127916760",
+                    "download": "27060832"
+                }
+            },
+            "decryptionkey": "56bea17fcd7bc0e45f945c5577e917b087c2235975db3e39b8a8985806c6b19f"
+        },
+        "workshopdepot": "709240",
+        "branches": {
+            "public": {
+                "buildid": "7192327",
+                "timeupdated": "1629023824"
+            },
+            "last": {
+                "buildid": "7121206",
+                "description": "Previous steam release, in case we broke something",
+                "timeupdated": "1629024410"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
