@@ -1,0 +1,86 @@
+{
+    "appid": "1519140",
+    "type": "Game",
+    "name": "[Neolithic]To the End",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29041414",
+    "update_time": "2025-05-17 23:53:32",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "workshopdepot": "1519140",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1519141": {
+            "manifests": {
+                "public": {
+                    "gid": "3435678458952840877",
+                    "size": "775574304",
+                    "download": "730027136"
+                },
+                "aow4_lastexistingversion": {
+                    "gid": "590293290179657206",
+                    "size": "494768181",
+                    "download": "467356208"
+                },
+                "the_dark_toon_art_style": {
+                    "gid": "2735590678205621306",
+                    "size": "320808281",
+                    "download": "306709312"
+                },
+                "the_dark_toon_lite": {
+                    "gid": "5869385484501567873",
+                    "size": "313383281",
+                    "download": "299182768"
+                },
+                "rollback_1_version": {
+                    "gid": "7017881158490499504",
+                    "size": "775338697",
+                    "download": "729513008"
+                }
+            },
+            "decryptionkey": "8e0e461f09dcadd643ed7d1efe9805ad828808273c330ca6fc5c8e4e96190518"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18503521",
+                "timeupdated": "1747497051"
+            },
+            "aow4_lastexistingversion": {
+                "buildid": "11174866",
+                "description": "The last version that still has AOW4 exchange password",
+                "timeupdated": "1683559637"
+            },
+            "the_dark_toon_art_style": {
+                "buildid": "7840861",
+                "description": "Alternative art style that makes the game look like a dark cartoon.",
+                "timeupdated": "1638874685"
+            },
+            "the_dark_toon_lite": {
+                "buildid": "7840795",
+                "description": "Same as dark toon. But, only affects  portraits, combats and cutscenes",
+                "timeupdated": "1638873632"
+            },
+            "rollback_1_version": {
+                "buildid": "18493953",
+                "description": "If anything blows up, use this to roll back to a previous version",
+                "timeupdated": "1747497208"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bd46ec5d255422ebff738d292fcad86f6df013a146e2b622145046aad8035700"
+    }
+}
