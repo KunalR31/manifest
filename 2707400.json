@@ -1,0 +1,54 @@
+{
+    "appid": "2707400",
+    "type": "Game",
+    "name": "Shred Off",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8460012604725648416",
+                    "size": "1796242017",
+                    "download": "520093088"
+                },
+                "experimental": {
+                    "gid": "8137609081640624256",
+                    "size": "1798305261",
+                    "download": "520506448"
+                }
+            },
+            "decryptionkey": "06f2eacfbe5a8ca38f14d2b3251ae990255386a40099c0250fe399ec9ba4d413"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14783885",
+                "timeupdated": "1718901493"
+            },
+            "experimental": {
+                "buildid": "14920526",
+                "description": "Latest build, might be unstable",
+                "timeupdated": "1720018744"
+            }
+        }
+    }
+}
