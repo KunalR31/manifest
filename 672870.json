@@ -1,0 +1,79 @@
+{
+    "appid": "672870",
+    "type": "Application",
+    "name": "ScreenPlay",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28900594",
+    "update_time": "2025-05-09 19:31:59",
+    "depot": {
+        "workshopdepot": "672870",
+        "baselanguages": "english,german,schinese,russian,vietnamese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "672871": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4578332785647069246",
+                    "size": "558117389",
+                    "download": "210281040"
+                },
+                "internal": {
+                    "gid": "546536612858770622",
+                    "size": "819475064",
+                    "download": "293602800"
+                }
+            },
+            "decryptionkey": "cccf7b664ce50162a9e953d56f097b129ea4ffc7aa965fdee96a0e95abb84e67"
+        },
+        "672872": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8986567078860472061",
+                    "size": "841673971",
+                    "download": "255553440"
+                },
+                "internal": {
+                    "gid": "7268880382461580113",
+                    "size": "1162002980",
+                    "download": "310483520"
+                }
+            },
+            "decryptionkey": "6587eaf774594ee0dd727debf6b6685131df0ad9d9400ac39293b6e2d41fb2e3"
+        },
+        "672873": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12042470",
+                "timeupdated": "1693128715"
+            },
+            "internal": {
+                "buildid": "16509919",
+                "description": "internal testing only",
+                "timeupdated": "1732356245"
+            }
+        }
+    }
+}
