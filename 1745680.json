@@ -1,0 +1,73 @@
+{
+    "appid": "1745680",
+    "type": "Game",
+    "name": "Odd Remedy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:29",
+    "depot": {
+        "1745681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8800890959846126188",
+                    "size": "783127792",
+                    "download": "352227440"
+                },
+                "beta": {
+                    "gid": "8800890959846126188",
+                    "size": "783127792",
+                    "download": "352227440"
+                },
+                "convert": {
+                    "gid": "2416926728589441391",
+                    "size": "713698794",
+                    "download": "328419808"
+                }
+            },
+            "decryptionkey": "8551204b4ab186f5b9be22800f86ce7fbc3091614c31099c036a846636f2598d"
+        },
+        "1745682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7199007836188568318",
+                    "size": "772323968",
+                    "download": "345269904"
+                },
+                "beta": {
+                    "gid": "7199007836188568318",
+                    "size": "772323968",
+                    "download": "345269904"
+                },
+                "convert": {
+                    "gid": "62926792091187509",
+                    "size": "741088657",
+                    "download": "326698480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18443789",
+                "timeupdated": "1747135374"
+            },
+            "beta": {
+                "buildid": "18443789",
+                "description": "beta",
+                "timeupdated": "1747135357"
+            },
+            "convert": {
+                "buildid": "17269680",
+                "description": "convert old save files",
+                "timeupdated": "1738870314"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
