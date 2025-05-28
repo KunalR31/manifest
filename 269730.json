@@ -1,0 +1,91 @@
+{
+    "appid": "269730",
+    "type": "Game",
+    "name": "The Golf Club",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:50",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "269731": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1572978467351872272",
+                    "size": "3814040388",
+                    "download": "1707506448"
+                },
+                "32-bit": {
+                    "gid": "1572978467351872272",
+                    "size": "3814040388",
+                    "download": "1707506448"
+                },
+                "local": {
+                    "gid": "3658195669097147184",
+                    "size": "3810869636",
+                    "download": "1707425552"
+                }
+            },
+            "decryptionkey": "b81bbf90d0d466ed795e45973545403d3661c0132d0d5298688d48ceef7ea93c"
+        },
+        "269732": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8272250900936772302",
+                    "size": "3817288004",
+                    "download": "1719285504"
+                },
+                "32-bit": {
+                    "gid": "4142061269794605916",
+                    "size": "3814040388",
+                    "download": "1718329488"
+                },
+                "local": {
+                    "gid": "5077427286398850504",
+                    "size": "3814117252",
+                    "download": "1719189664"
+                }
+            },
+            "decryptionkey": "788646f103c3f0d886a412c5c83c19c4622e3933b5f47a618f206723a3f7ebf0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1881317",
+                "timeupdated": "1497111686"
+            },
+            "32-bit": {
+                "buildid": "1881322",
+                "timeupdated": "1497111699"
+            },
+            "local": {
+                "buildid": "906148",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
