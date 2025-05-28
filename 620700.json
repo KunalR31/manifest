@@ -1,0 +1,70 @@
+{
+    "appid": "620700",
+    "type": "Game",
+    "name": "Evil Possession",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27367732",
+    "update_time": "2025-02-08 01:25:28",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "620701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7967595346301829916",
+                    "size": "1048289232",
+                    "download": "379189440"
+                }
+            },
+            "decryptionkey": "fac6985208e54f8ca42465e22b7a3d9422686712a4fa97c04a63f60e621a0c4b"
+        },
+        "620702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6062877382864203640",
+                    "size": "1083855326",
+                    "download": "390465584"
+                }
+            },
+            "decryptionkey": "8ae72c0dbb2e0ad032f121bcb3163928ad5bb14e6d200c68c2d51ba117a33b52"
+        },
+        "620703": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1611824032051872278",
+                    "size": "1088822150",
+                    "download": "390915184"
+                }
+            },
+            "decryptionkey": "4cab7a63b5a98a6fb0e7e9f3b1c1a5eafbc603c0bf91ea4b4176b9fbf787d0b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1845459",
+                "timeupdated": "1495723160"
+            }
+        }
+    }
+}
