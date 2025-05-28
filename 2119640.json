@@ -1,0 +1,53 @@
+{
+    "appid": "2119640",
+    "type": "Game",
+    "name": "Cut Master Spades",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29008930",
+    "update_time": "2025-05-16 02:12:42",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2119641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4830009178318684544",
+                    "size": "2432788688",
+                    "download": "453324176"
+                }
+            },
+            "decryptionkey": "74787715598d950eb7b46858ea7d79faac2c78a2e75482783f22077a0c1686cf"
+        },
+        "2119642": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1426093567600893339",
+                    "size": "1292974360",
+                    "download": "303220064"
+                }
+            },
+            "decryptionkey": "1580a01ddd223d4bc524801162413ba20f25df732ed728efdace047be7c65b49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12345094",
+                "timeupdated": "1696346701"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
