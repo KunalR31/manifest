@@ -1,0 +1,78 @@
+{
+    "appid": "1619920",
+    "type": "Game",
+    "name": "The Path of Ren",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28889899",
+    "update_time": "2025-05-09 04:31:45",
+    "depot": {
+        "1619921": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "937822665596079449",
+                    "size": "689840684",
+                    "download": "122679744"
+                },
+                "beta": {
+                    "gid": "937822665596079449",
+                    "size": "689840684",
+                    "download": "122679744"
+                }
+            },
+            "decryptionkey": "2b1292ec5c3f780b432fba2d12b895645eccf3a8a758e049ff934c6e2730095b"
+        },
+        "1619922": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8220687044405603237",
+                    "size": "716195497",
+                    "download": "130770304"
+                },
+                "beta": {
+                    "gid": "8220687044405603237",
+                    "size": "716195497",
+                    "download": "130770304"
+                }
+            }
+        },
+        "1619923": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6098365148163255178",
+                    "size": "729193083",
+                    "download": "122454144"
+                },
+                "beta": {
+                    "gid": "6098365148163255178",
+                    "size": "729193083",
+                    "download": "122454144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18044142",
+                "timeupdated": "1744216834"
+            },
+            "beta": {
+                "buildid": "18044142",
+                "description": "Private branch for beta testing",
+                "timeupdated": "1744216818"
+            }
+        }
+    }
+}
