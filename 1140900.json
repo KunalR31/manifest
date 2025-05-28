@@ -1,0 +1,64 @@
+{
+    "appid": "1140900",
+    "type": "Game",
+    "name": "The Chasm",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26099350",
+    "update_time": "2024-11-08 09:05:24",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1140901": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8087366281210444297",
+                    "size": "307352906",
+                    "download": "95285920"
+                }
+            },
+            "decryptionkey": "68759384bd02ba98c91d904251d303b087a16805ddaaf7d2a31f1b1ecfa3e405"
+        },
+        "1140902": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "87995871267016998",
+                    "size": "275919963",
+                    "download": "74367248"
+                }
+            },
+            "decryptionkey": "9a5e5754691a485ba4126ca36ad2fc228ea34ca4614d64a42ae22336b05326f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4339754",
+                "timeupdated": "1572435624"
+            }
+        }
+    }
+}
