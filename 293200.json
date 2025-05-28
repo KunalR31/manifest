@@ -1,0 +1,83 @@
+{
+    "appid": "293200",
+    "type": "Game",
+    "name": "Sentinel",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971452",
+    "update_time": "2025-05-14 09:37:42",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "293201": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4717962966104519389",
+                    "size": "757946017",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "4717962966104519389",
+                    "size": "757946017",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4e4c68b5afbf85345f35dd03293a44d90d59dc84d9b3b8b2a846d049e88c4410"
+        },
+        "293202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6278682014152364329",
+                    "size": "777234918",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "6278682014152364329",
+                    "size": "777234918",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "535c4064c4230fee53b06e31110b0473625d0f9b2a8afde01c766241b6a54e8f"
+        },
+        "293203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6378471193816700533",
+                    "size": "789197088",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "6378471193816700533",
+                    "size": "789197088",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "93523231e742d58779e4aa42fa22c134976a798b6b7c28ca4cfab1e4c9fab19c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "280662"
+            },
+            "test": {
+                "buildid": "280662",
+                "description": "Build Test"
+            }
+        }
+    }
+}
