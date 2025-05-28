@@ -1,0 +1,103 @@
+{
+    "appid": "248800",
+    "type": "Game",
+    "name": "Dysfunctional Systems: Learning to Manage Chaos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970832",
+    "update_time": "2025-05-14 08:37:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "248802": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4472624250760854559",
+                    "size": "880048415",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4472624250760854559",
+                    "size": "880048415",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e95cd437844a3b8545d6c6e1eb7bb4002d4861383f174eeff8ec20fdf15657fa"
+        },
+        "248801": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6940922334221808173",
+                    "size": "876309057",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6940922334221808173",
+                    "size": "876309057",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5d004f205d374bfbb5b8857f0cbbda05c33e900d5702ab9130d39d4437539b84"
+        },
+        "248803": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1344403456749204199",
+                    "size": "891397598",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1344403456749204199",
+                    "size": "891397598",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "804907d63e0254bc58904d2322df315e420b23346373f3c12f7413cfe6be4b4b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "137811"
+            },
+            "beta": {
+                "buildid": "137811",
+                "description": "betatesting"
+            }
+        }
+    }
+}
