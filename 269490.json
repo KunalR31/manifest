@@ -1,0 +1,59 @@
+{
+    "appid": "269490",
+    "type": "Game",
+    "name": "Bardbarian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:46",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "269491": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3565123993617164113",
+                    "size": "156612485",
+                    "download": "100211616"
+                },
+                "beta": {
+                    "gid": "6406469161384247198",
+                    "size": "156871603",
+                    "download": "100315344"
+                }
+            },
+            "decryptionkey": "f3073a5bd045c45404a138e6cc430b043c10eea845657c3103f26976c52087f1"
+        },
+        "269492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4592287833300142763",
+                    "size": "299139562",
+                    "download": "88487840"
+                },
+                "beta": {
+                    "gid": "4592287833300142763",
+                    "size": "299139562",
+                    "download": "88487840"
+                }
+            },
+            "decryptionkey": "b82a51c7405544e34f7a198133431c1b3896c04f331fdbad5a3e7dbe20be0105"
+        },
+        "branches": {
+            "public": {
+                "buildid": "841708"
+            },
+            "beta": {
+                "buildid": "1688327",
+                "timeupdated": "1489437194"
+            }
+        }
+    }
+}
