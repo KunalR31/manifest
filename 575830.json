@@ -1,0 +1,59 @@
+{
+    "appid": "575830",
+    "type": "Game",
+    "name": "rooMaze",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975145",
+    "update_time": "2025-05-14 22:38:04",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "575831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6248201912612308240",
+                    "size": "1072777763",
+                    "download": "125015744"
+                }
+            },
+            "decryptionkey": "f03a4457de590fe3d11016c96aa282bb6936931c3fae0c730185029577639ecc"
+        },
+        "575832": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6606709919789507148",
+                    "size": "1100737075",
+                    "download": "144596496"
+                }
+            },
+            "decryptionkey": "e0f8965195b700d1748e33ed06b503964f2f34ed98fc747549b6c6efddf3dc29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1643483",
+                "timeupdated": "1487604408"
+            }
+        }
+    }
+}
