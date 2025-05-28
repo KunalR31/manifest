@@ -1,0 +1,66 @@
+{
+    "appid": "480430",
+    "type": "Game",
+    "name": "Hide and Shriek",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27918795",
+    "update_time": "2025-03-13 04:03:36",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "480431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "157918491008137054",
+                    "size": "3243174568",
+                    "download": "813897648"
+                }
+            },
+            "decryptionkey": "99b1201e7473625cc2b570bf7937d6f58350179d9f3feb9033e08488baba5242"
+        },
+        "480432": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "480433": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7151512805313370686",
+                    "size": "3108814355",
+                    "download": "630570864"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2184419",
+                "timeupdated": "1508447587"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
