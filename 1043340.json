@@ -1,0 +1,90 @@
+{
+    "appid": "1043340",
+    "type": "Game",
+    "name": "No Time",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29024749",
+    "update_time": "2025-05-16 21:11:32",
+    "depot": {
+        "baselanguages": "english,german",
+        "workshopdepot": "1043340",
+        "1043341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1700608173453477107",
+                    "size": "1634986408",
+                    "download": "892224624"
+                },
+                "legacy": {
+                    "gid": "7156769587563603838",
+                    "size": "1297963856",
+                    "download": "469911808"
+                },
+                "legacy2019_prelaunch": {
+                    "gid": "1175915285463446320",
+                    "size": "579501703",
+                    "download": "290036288"
+                },
+                "public-testing": {
+                    "gid": "2401186109716788608",
+                    "size": "1662050069",
+                    "download": "898002128"
+                }
+            },
+            "decryptionkey": "6cacd8ad6995eee791022c2c1cf956eeae2bae1cc693150d53dc016e346eeb08"
+        },
+        "1043343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "81883544987067431",
+                    "size": "1770547492",
+                    "download": "987658048"
+                },
+                "legacy": {
+                    "gid": "6312511305375488909",
+                    "size": "1687907435",
+                    "download": "1035863136"
+                },
+                "legacy2019_prelaunch": {
+                    "gid": "6312511305375488909",
+                    "size": "1687907435",
+                    "download": "1035863136"
+                },
+                "public-testing": {
+                    "gid": "81883544987067431",
+                    "size": "1770547492",
+                    "download": "987658048"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18236556",
+                "timeupdated": "1745575456"
+            },
+            "legacy": {
+                "buildid": "14727878",
+                "description": "2020 Build, pre ACT III Release, Before Save File Revamp",
+                "timeupdated": "1718444293"
+            },
+            "legacy2019_prelaunch": {
+                "buildid": "14727009",
+                "description": "ANCIENT, seriously old. This is one of the first builds where No Time was only a few months old, before it's launch in April 2019",
+                "timeupdated": "1718433625"
+            },
+            "public-testing": {
+                "buildid": "18491701",
+                "description": "Open for the public -- UNSTABLE -- Always backup your saves!",
+                "timeupdated": "1747401087"
+            }
+        },
+        "workshopdepotdecryptionkey": "3988c60342c75c49060028ce02a445154c37a3b557b2df8d2b175992d55ece73"
+    }
+}
