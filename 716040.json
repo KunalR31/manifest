@@ -1,0 +1,92 @@
+{
+    "appid": "716040",
+    "type": "Game",
+    "name": "Hide and go boom",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "23696612",
+    "update_time": "2024-05-26 19:59:35",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "716041": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6400391967226752586",
+                    "size": "514562414",
+                    "download": "145599248"
+                },
+                "beta": {
+                    "gid": "6400391967226752586",
+                    "size": "514562414",
+                    "download": "145599248"
+                }
+            },
+            "decryptionkey": "3f280e7daf598545ff77a0245bfb1882cdbfa49abfcc23f48e1068eeb75f670e"
+        },
+        "716042": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "415510252041293028",
+                    "size": "668707992",
+                    "download": "170356224"
+                },
+                "beta": {
+                    "gid": "415510252041293028",
+                    "size": "668707992",
+                    "download": "170356224"
+                }
+            },
+            "decryptionkey": "0be34b807993d7cf1b0ceb2e0cacf7f0926fa602225629a568e4e32a01187d5d"
+        },
+        "716043": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1019889800778990256",
+                    "size": "599142712",
+                    "download": "178564752"
+                },
+                "beta": {
+                    "gid": "1019889800778990256",
+                    "size": "599142712",
+                    "download": "178564752"
+                }
+            },
+            "decryptionkey": "2a9e2dc3f1958858f53835799facec568eedf6010c4903302679c4f30ef6ea1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3368238",
+                "timeupdated": "1544628056"
+            },
+            "beta": {
+                "buildid": "3368238",
+                "description": "Next patch of the game, experiMENTAL",
+                "timeupdated": "1544006263"
+            }
+        }
+    }
+}
