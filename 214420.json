@@ -1,0 +1,78 @@
+{
+    "appid": "214420",
+    "type": "Game",
+    "name": "Gear Up",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970267",
+    "update_time": "2025-05-14 07:47:53",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,schinese,russian,polish,dutch,swedish,czech,romanian",
+        "214421": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5268986484080894264",
+                    "size": "1163996183",
+                    "download": "628200640"
+                }
+            },
+            "decryptionkey": "1bc6e289033e48678f29f5746e5932bb679779d089b5c392286fc89f89c4d1ef"
+        },
+        "214422": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3472279219074703931",
+                    "size": "1398634423",
+                    "download": "674205904"
+                }
+            },
+            "decryptionkey": "be0aa54364b638bcd81135ba6d487416a75d60482ae2ea7cceb30bfe82ac9f95"
+        },
+        "214423": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6860093152232554029",
+                    "size": "1188444450",
+                    "download": "631148832"
+                }
+            },
+            "decryptionkey": "e249ce9a93ac6409a9b16220d11a93daf737da9021028a6ce4591fa1a7e6fe0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3281859",
+                "timeupdated": "1541669016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
