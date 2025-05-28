@@ -1,0 +1,61 @@
+{
+    "appid": "721700",
+    "type": "Game",
+    "name": "Holomento",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977583",
+    "update_time": "2025-05-14 22:43:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "721702": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9181995999263125261",
+                    "size": "22704898981",
+                    "download": "7764255600"
+                },
+                "alpha": {
+                    "gid": "4707932231726163476",
+                    "size": "14964019691",
+                    "download": "5586376960"
+                },
+                "gamescom-demo": {
+                    "gid": "1020373477215994355",
+                    "size": "20365802468",
+                    "download": "7027441792"
+                }
+            },
+            "decryptionkey": "bb84dbea0c3eeb823f86ad1e119977cc150eb4e3a461f3c1758e7e0adc8bbe9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13676746",
+                "timeupdated": "1709924402"
+            },
+            "alpha": {
+                "buildid": "8624854",
+                "description": "Limited release alpha branch.",
+                "timeupdated": "1650965848"
+            },
+            "gamescom-demo": {
+                "buildid": "12007071",
+                "description": "Demo for Gamescom 2023",
+                "timeupdated": "1692740551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
