@@ -1,0 +1,80 @@
+{
+    "appid": "899220",
+    "type": "Game",
+    "name": "Fly of butterfly",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28933213",
+    "update_time": "2025-05-12 14:33:08",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "899221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1312097237220082022",
+                    "size": "195593851",
+                    "download": "99994624"
+                }
+            },
+            "decryptionkey": "0ce69e9649f5ca81e8a4b0287403a7664510589d5d755de17bb887afd57df5eb"
+        },
+        "899222": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6690787975013403880",
+                    "size": "218179710",
+                    "download": "102429760"
+                }
+            },
+            "decryptionkey": "9c15239d4c1b466e4b7e892255c6ddcb7c533d37aa0ec5d473a3bad48ab75100"
+        },
+        "899223": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4593028317752265886",
+                    "size": "214503355",
+                    "download": "85568912"
+                }
+            },
+            "decryptionkey": "35db8c555147da43af998e0c842f7ad1b00144d5e5a5bc841f0a67538f9404bd"
+        },
+        "899224": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8336385932480166423",
+                    "size": "209927927",
+                    "download": "83026224"
+                }
+            },
+            "decryptionkey": "0769a56029ecb7d8df482bc5a13450f5469303eae43807cc6333663bba245663"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5632546",
+                "timeupdated": "1601739621"
+            }
+        }
+    }
+}
