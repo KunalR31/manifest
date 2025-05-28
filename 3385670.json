@@ -1,0 +1,93 @@
+{
+    "appid": "3385670",
+    "type": "Game",
+    "name": "World of Goo 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29038073",
+    "update_time": "2025-05-17 16:12:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3385673": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "189516051354566888",
+                    "size": "936809256",
+                    "download": "872290528"
+                },
+                "beta": {
+                    "gid": "189516051354566888",
+                    "size": "936809256",
+                    "download": "872290528"
+                }
+            },
+            "decryptionkey": "962554b58ff7df8c96d922aeb7a26ee91b9ba49d04f50e0f6e927fd685a03fcd"
+        },
+        "3385674": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3046517428675988332",
+                    "size": "926735135",
+                    "download": "872078864"
+                },
+                "beta": {
+                    "gid": "3046517428675988332",
+                    "size": "926735135",
+                    "download": "872078864"
+                }
+            },
+            "decryptionkey": "fceb85f132e44beb22fe28071d5308eae6f0e53855066f439c9e79d503500090"
+        },
+        "3385675": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "608480906220571219",
+                    "size": "932745158",
+                    "download": "873618096"
+                },
+                "beta": {
+                    "gid": "608480906220571219",
+                    "size": "932745158",
+                    "download": "873618096"
+                }
+            },
+            "decryptionkey": "8f64fb04a7f9ef13fb47698c8e263a5bf3587c5478d90b97155d40c1bc05abcd"
+        },
+        "workshopdepot": "3385670",
+        "branches": {
+            "public": {
+                "buildid": "18418262",
+                "timeupdated": "1746942216"
+            },
+            "beta": {
+                "buildid": "18415901",
+                "description": "Beta test",
+                "timeupdated": "1746904307"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
