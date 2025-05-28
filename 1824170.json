@@ -1,0 +1,65 @@
+{
+    "appid": "1824170",
+    "type": "Game",
+    "name": "Christmas Mansion",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28686476",
+    "update_time": "2025-04-27 04:54:36",
+    "depot": {
+        "baselanguages": "english,dutch",
+        "228989": {
+            "shareddepottype": "commonredist",
+            "sharedinstall": "1",
+            "depotfromapp": "0"
+        },
+        "1824171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2837669619235160997",
+                    "size": "265112022",
+                    "download": "238131712"
+                },
+                "test": {
+                    "gid": "2837669619235160997",
+                    "size": "265112022",
+                    "download": "238131712"
+                }
+            },
+            "decryptionkey": "a62833e17cfa3c787b6c45ec577ae3ee9d5e5dfc83326e13159a4d5025a9f881"
+        },
+        "1824172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5310267175452390736",
+                    "size": "500642639",
+                    "download": "329988656"
+                },
+                "test": {
+                    "gid": "5310267175452390736",
+                    "size": "500642639",
+                    "download": "329988656"
+                }
+            },
+            "decryptionkey": "adc1e0efff4427b276a6fb3f1032843fb90bbc6c579bffee4cc4df12c71bed7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16853898",
+                "timeupdated": "1735215542"
+            },
+            "test": {
+                "buildid": "16853898",
+                "description": "test branch",
+                "timeupdated": "1735210021"
+            }
+        }
+    }
+}
