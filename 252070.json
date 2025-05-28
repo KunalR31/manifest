@@ -1,0 +1,68 @@
+{
+    "appid": "252070",
+    "type": "Game",
+    "name": "Gimbal",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24178988",
+    "update_time": "2024-06-30 09:57:55",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "252071": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5981501403035602675",
+                    "size": "113643684",
+                    "download": "94127664"
+                },
+                "beta": {
+                    "gid": "5346657768460167772",
+                    "size": "113643180",
+                    "download": "94126480"
+                }
+            },
+            "decryptionkey": "c73ed0d201fe1cb1e46a3ff007cf99b88f907cdaa5dd5ba88227bb64ff9c4015"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1611449",
+                "timeupdated": "1486314096"
+            },
+            "beta": {
+                "buildid": "1482735",
+                "description": "Private Gimbal Beta",
+                "timeupdated": "1480195645"
+            }
+        }
+    }
+}
