@@ -1,0 +1,79 @@
+{
+    "appid": "2432990",
+    "type": "Game",
+    "name": "Sanguivore",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29044966",
+    "update_time": "2025-05-18 08:46:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2432991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611396902146377221",
+                    "size": "23490407090",
+                    "download": "21974666192"
+                },
+                "experimental": {
+                    "gid": "7410805997011441873",
+                    "size": "20705877703",
+                    "download": "19594177296"
+                }
+            },
+            "decryptionkey": "bb04156674221223b9d2266604bab1b467c2b3263e4ec03c4d7929ccb46b4c0c"
+        },
+        "2432993": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3894059524399809376",
+                    "size": "5542713279",
+                    "download": "2547202288"
+                },
+                "experimental": {
+                    "gid": "3894059524399809376",
+                    "size": "5542713279",
+                    "download": "2547202288"
+                }
+            }
+        },
+        "2432992": {},
+        "2432999": {},
+        "branches": {
+            "public": {
+                "buildid": "14774156",
+                "timeupdated": "1718876400"
+            },
+            "experimental": {
+                "buildid": "12794840",
+                "description": "For Testing only, not to be used for public",
+                "timeupdated": "1700869247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
