@@ -1,0 +1,56 @@
+{
+    "appid": "2468120",
+    "type": "Game",
+    "name": "Slimegeon",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29012286",
+    "update_time": "2025-05-16 06:00:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2468121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2223618846956447735",
+                    "size": "3229573746",
+                    "download": "1213917776"
+                },
+                "local": {
+                    "gid": "2223618846956447735",
+                    "size": "3229573746",
+                    "download": "1213917776"
+                }
+            },
+            "decryptionkey": "1ec2894a0008e51a6f8d053cc3e7039748a3b629463a6d1ef598e70ff2aab216"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11456510",
+                "timeupdated": "1686647468"
+            },
+            "local": {
+                "buildid": "11456510",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1686647411"
+            }
+        }
+    }
+}
