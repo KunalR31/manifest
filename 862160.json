@@ -1,0 +1,79 @@
+{
+    "appid": "862160",
+    "type": "Game",
+    "name": "Comet Crasher",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-27 07:44:11",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "862161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "714492476527615667",
+                    "size": "109674673",
+                    "download": "58064592"
+                }
+            },
+            "decryptionkey": "7d40f6faa689d83600326d25cab13a9e83ed0a855f7c1818d1291a270a6983ae"
+        },
+        "862162": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "936599401768680334",
+                    "size": "115974321",
+                    "download": "60083792"
+                }
+            },
+            "decryptionkey": "f9be1892023a0e09627eb6ccbad8129405c0f9c90688d4b5f8a1606e8b81d554"
+        },
+        "862163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7450863909669204626",
+                    "size": "129531771",
+                    "download": "62391840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "862164": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "728398230726850015",
+                    "size": "153361190",
+                    "download": "72752496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3577723",
+                "timeupdated": "1550661507"
+            }
+        }
+    }
+}
