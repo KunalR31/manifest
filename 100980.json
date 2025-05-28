@@ -1,0 +1,48 @@
+{
+    "appid": "100980",
+    "type": "Application",
+    "name": "3DCoat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 03:56:46",
+    "depot": {
+        "100981": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8903642233002788730",
+                    "size": "3154798440",
+                    "download": "837190224"
+                },
+                "beta": {
+                    "gid": "4398626079080733171",
+                    "size": "1349537902",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4199790711479395019",
+                    "size": "690708440",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4f2ebcb8bb684858f2d7a7036441c771af7bcb36e86df0ed7605aea79b25a6b7"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "5496819",
+                "timeupdated": "1599121211"
+            },
+            "beta": {
+                "buildid": "72908",
+                "description": "3dbetatest444"
+            },
+            "local": {
+                "buildid": "11682",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
