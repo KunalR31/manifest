@@ -1,0 +1,51 @@
+{
+    "appid": "265690",
+    "type": "Game",
+    "name": "NaissanceE",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971051",
+    "update_time": "2025-05-14 08:57:48",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "265691": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3214540165341930009",
+                    "size": "1125281460",
+                    "download": "0"
+                },
+                "ne-vr": {
+                    "gid": "2316748486076808937",
+                    "size": "1064460359",
+                    "download": "56996923804"
+                }
+            },
+            "decryptionkey": "5501a7af5ca7ccad434b0d18fdf60e84b57e45b4f9e2f41e06726d30a86e5d51"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "218809"
+            },
+            "ne-vr": {
+                "buildid": "391850"
+            }
+        }
+    }
+}
