@@ -1,0 +1,71 @@
+{
+    "appid": "2408120",
+    "type": "Game",
+    "name": "Solar Showdown",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27543215",
+    "update_time": "2025-02-19 06:16:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2408121": {
+            "manifests": {
+                "public": {
+                    "gid": "5161134678192576148",
+                    "size": "6131588999",
+                    "download": "5712576464"
+                },
+                "antares": {
+                    "gid": "4957155923988374031",
+                    "size": "4683293307",
+                    "download": "4297037104"
+                },
+                "bellatrix": {
+                    "gid": "4954990368497061027",
+                    "size": "4761735189",
+                    "download": "4375907872"
+                },
+                "epicbuild": {
+                    "gid": "7912082158656116548",
+                    "size": "3493952957",
+                    "download": "3068967568"
+                }
+            },
+            "decryptionkey": "2f053343fb1a4334ddb8a4b5c6b9a758189db7d926e7ecb554f737ee52fde744"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11452081",
+                "timeupdated": "1686600441"
+            },
+            "antares": {
+                "buildid": "11289248",
+                "description": "0.6.0 (May 2023)",
+                "timeupdated": "1685124411"
+            },
+            "bellatrix": {
+                "buildid": "11329715",
+                "description": "0.7.0 (May 2023)",
+                "timeupdated": "1685132511"
+            },
+            "epicbuild": {
+                "buildid": "11079587",
+                "description": "0.5.0 (April 2023)",
+                "timeupdated": "1684774603"
+            }
+        }
+    }
+}
