@@ -1,0 +1,59 @@
+{
+    "appid": "820090",
+    "type": "Game",
+    "name": "Solitaire Knights",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28337698",
+    "update_time": "2025-04-07 09:17:09",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "820091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8954218953818114019",
+                    "size": "911175078",
+                    "download": "401409312"
+                }
+            },
+            "decryptionkey": "c2bf5791bc8d2274bad836f7f1b436cc730647bc7d9bcff8469138441b27fcc9"
+        },
+        "820092": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6321843663061719875",
+                    "size": "416286062",
+                    "download": "168550368"
+                }
+            },
+            "decryptionkey": "6494e5a4121f1e90bffb94ac365695860ab33e31e8df2bafaf0b221ae1f6fb67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15261769",
+                "timeupdated": "1722847771"
+            }
+        }
+    }
+}
