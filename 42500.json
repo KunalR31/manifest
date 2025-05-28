@@ -1,0 +1,52 @@
+{
+    "appid": "42500",
+    "type": "Game",
+    "name": "DogFighter",
+    "schinese_name": "空中缠斗",
+    "isfreeapp": "0",
+    "change_number": "28969816",
+    "update_time": "2025-05-14 07:07:49",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "42501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3272862429659661181",
+                    "size": "1040760505",
+                    "download": "570143344"
+                }
+            },
+            "decryptionkey": "067d3ed4d8b73ef420345b0b49f01c70470089dcbdde9b83f62da86fed4b8310"
+        },
+        "branches": {
+            "public": {
+                "buildid": "975334"
+            }
+        }
+    }
+}
