@@ -1,0 +1,209 @@
+{
+    "appid": "248570",
+    "type": "Game",
+    "name": "Toribash",
+    "schinese_name": "终极格斗",
+    "isfreeapp": "1",
+    "change_number": "28970832",
+    "update_time": "2025-05-14 08:37:49",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,french,russian,portuguese",
+        "248571": {
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "667142562194460192",
+                    "size": "370868885",
+                    "download": "136755072"
+                },
+                "alpha": {
+                    "gid": "667142562194460192",
+                    "size": "370868885",
+                    "download": "136755072"
+                },
+                "beta": {
+                    "gid": "667142562194460192",
+                    "size": "370868885",
+                    "download": "136755072"
+                },
+                "fallback": {
+                    "gid": "345488559142488689",
+                    "size": "341999114",
+                    "download": "126179696"
+                }
+            },
+            "decryptionkey": "7dce6fc888fda7a03f9a14f734e9728651c38dd2088e55790a963bfb840bd936"
+        },
+        "248572": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3037904415522462232",
+                    "size": "70120091",
+                    "download": "13261776"
+                },
+                "alpha": {
+                    "gid": "3037904415522462232",
+                    "size": "70120091",
+                    "download": "13261776"
+                },
+                "beta": {
+                    "gid": "3037904415522462232",
+                    "size": "70120091",
+                    "download": "13261776"
+                },
+                "fallback": {
+                    "gid": "2382430063855491923",
+                    "size": "29520123",
+                    "download": "8261552"
+                }
+            },
+            "decryptionkey": "e435781d5c303044c9105a63407be1229aeb7bb0f11e19e0f9734b45977ef980"
+        },
+        "248573": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5735187813287362717",
+                    "size": "19285968",
+                    "download": "7466512"
+                },
+                "alpha": {
+                    "gid": "5735187813287362717",
+                    "size": "19285968",
+                    "download": "7466512"
+                },
+                "beta": {
+                    "gid": "5735187813287362717",
+                    "size": "19285968",
+                    "download": "7466512"
+                },
+                "fallback": {
+                    "gid": "4977042321578995141",
+                    "size": "19482203",
+                    "download": "7549584"
+                }
+            },
+            "decryptionkey": "cdfc1f9b68b1b07ec4e1843207da8e5043555b40f6c87c2dec51729f7d19631a"
+        },
+        "248574": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6812815568556816264",
+                    "size": "20899427",
+                    "download": "7493904"
+                },
+                "alpha": {
+                    "gid": "6812815568556816264",
+                    "size": "20899427",
+                    "download": "7493904"
+                },
+                "beta": {
+                    "gid": "6812815568556816264",
+                    "size": "20899427",
+                    "download": "7493904"
+                },
+                "fallback": {
+                    "gid": "4885469675468847304",
+                    "size": "20771467",
+                    "download": "7422544"
+                }
+            },
+            "decryptionkey": "8e2575a4735bcd887694e725aedb33abdf5a68aeed05624c5d787deeda31b541"
+        },
+        "248575": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3607358884738217895",
+                    "size": "66",
+                    "download": "112"
+                },
+                "alpha": {
+                    "gid": "3607358884738217895",
+                    "size": "66",
+                    "download": "112"
+                },
+                "beta": {
+                    "gid": "3607358884738217895",
+                    "size": "66",
+                    "download": "112"
+                },
+                "fallback": {
+                    "gid": "3607358884738217895",
+                    "size": "66",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": "0d513af3d252e1449351128b23b252ddb05bddee6e063aa14749f179ffbe4bff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18298924",
+                "timeupdated": "1746031823"
+            },
+            "alpha": {
+                "buildid": "18298924",
+                "description": "Alpha Builds (newest features, unstable performance)",
+                "timeupdated": "1746031220"
+            },
+            "beta": {
+                "buildid": "18298924",
+                "description": "Beta Builds",
+                "timeupdated": "1746031211"
+            },
+            "fallback": {
+                "buildid": "16419529",
+                "description": "Previous stable release",
+                "timeupdated": "1733489166"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
