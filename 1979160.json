@@ -1,0 +1,74 @@
+{
+    "appid": "1979160",
+    "type": "Game",
+    "name": "GoRogue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27861402",
+    "update_time": "2025-03-10 03:52:36",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1979162": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9121271115036553257",
+                    "size": "5673752691",
+                    "download": "5319574608"
+                }
+            },
+            "decryptionkey": "b961dd3465a714e73aac82ac638a43eb7669c0235e56b15df98e18acff204e90"
+        },
+        "1979163": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3003312648420226851",
+                    "size": "6221544679",
+                    "download": "5321545296"
+                }
+            },
+            "decryptionkey": "913ab31bf7611dd85227582c308c85b0c0dcaea0a854e307e0fb056da410b3c4"
+        },
+        "1979164": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9144956355479842599",
+                    "size": "2496318142",
+                    "download": "2003205040"
+                }
+            },
+            "decryptionkey": "fa44cad98b1afcefc6cf5d4b455697668f2e221079de7549ae3b1cc30b8b7b11"
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "9374680",
+                "timeupdated": "1661301030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
