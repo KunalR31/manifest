@@ -1,0 +1,68 @@
+{
+    "appid": "243220",
+    "type": "Game",
+    "name": "FRACT OSC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970735",
+    "update_time": "2025-05-14 08:27:41",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "243221": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1735124729668281456",
+                    "size": "1519997249",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5979781068878124669",
+                    "size": "1311535055",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "03019de2a230d8a8b2e4aeac89c07574ea3a3547e532ffaa4ab749f4a1c52e9d"
+        },
+        "243222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4344025603594694714",
+                    "size": "1515056775",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "6129243176134789969",
+                    "size": "1341723716",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f07620ec3557357794c51acabfb85550475ffddbbcf3d288c988ef020d2301da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "238939"
+            },
+            "local": {
+                "buildid": "195444",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
