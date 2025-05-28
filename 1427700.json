@@ -1,0 +1,76 @@
+{
+    "appid": "1427700",
+    "type": "Game",
+    "name": "Realm Engine | Virtual Tabletop",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28825040",
+    "update_time": "2025-05-05 23:30:24",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1427700",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1427701": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8104364324610676207",
+                    "size": "19027388367",
+                    "download": "18231145216"
+                },
+                "030prealpha": {
+                    "gid": "1322934727712790916",
+                    "size": "10545259106",
+                    "download": "9753381328"
+                },
+                "experimental": {
+                    "gid": "8950160513841570693",
+                    "size": "10577396569",
+                    "download": "9753995376"
+                }
+            },
+            "decryptionkey": "9162fd6dfe1e50392a2ead805b0f0bac7ff7573113049da54e4640acfa91fd62"
+        },
+        "1427702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "7009105",
+                "timeupdated": "1626192153"
+            },
+            "030prealpha": {
+                "buildid": "15896538",
+                "description": "pre alpha",
+                "timeupdated": "1727833197"
+            },
+            "experimental": {
+                "buildid": "16545216",
+                "description": "2.0 Experimental",
+                "timeupdated": "1732665224"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
