@@ -1,0 +1,60 @@
+{
+    "appid": "1155810",
+    "type": "Game",
+    "name": "Santa's Visit",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26774624",
+    "update_time": "2024-12-25 00:22:26",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1155811": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5252829636213859627",
+                    "size": "6597687657",
+                    "download": "6363538640"
+                },
+                "beta": {
+                    "gid": "5252829636213859627",
+                    "size": "6597687657",
+                    "download": "6363538640"
+                }
+            },
+            "decryptionkey": "e841aefa0ce792b4ed4847afaf8cdee8a64b7f1393c662b8db476df6f269f256"
+        },
+        "1155812": {
+            "config": {
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7884246",
+                "timeupdated": "1639520673"
+            },
+            "beta": {
+                "buildid": "7884246",
+                "description": "Beta testing branch, used for pre-release test builds",
+                "timeupdated": "1639520764"
+            }
+        }
+    }
+}
