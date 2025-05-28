@@ -1,0 +1,57 @@
+{
+    "appid": "2245750",
+    "type": "Game",
+    "name": "City Z",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27882820",
+    "update_time": "2025-03-11 10:22:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2245751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2157577261248283382",
+                    "size": "6930464739",
+                    "download": "3046157120"
+                },
+                "local": {
+                    "gid": "3188261207148312056",
+                    "size": "6930802962",
+                    "download": "3046646848"
+                }
+            },
+            "decryptionkey": "aefe6ee0797aed461360b8886f49fffedce9cc37c373f8d81ed0627805b5a702"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "10682751",
+                "timeupdated": "1677838913"
+            },
+            "local": {
+                "buildid": "10547257",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1676367849"
+            }
+        }
+    }
+}
