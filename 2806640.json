@@ -1,0 +1,54 @@
+{
+    "appid": "2806640",
+    "type": "Game",
+    "name": "The Talos Principle: Reawakened",
+    "schinese_name": "塔罗斯法则：重启",
+    "isfreeapp": "0",
+    "change_number": "29034090",
+    "update_time": "2025-05-17 07:16:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2806641": {
+            "manifests": {
+                "public": {
+                    "gid": "6826186526274491707",
+                    "size": "49569365785",
+                    "download": "48001137600"
+                },
+                "previousversion": {
+                    "gid": "7952766918857163899",
+                    "size": "49569072659",
+                    "download": "47999068576"
+                }
+            },
+            "decryptionkey": "7608c9835511431b6d95c5aa29bcb269f2cc727e99109c084e19dadb256a25a5"
+        },
+        "workshopdepot": "2806640",
+        "branches": {
+            "public": {
+                "buildid": "18284563",
+                "timeupdated": "1746003349"
+            },
+            "previousversion": {
+                "buildid": "18144372",
+                "description": "Beta branch that holds the previous publicly released version of the game",
+                "timeupdated": "1746003389"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4f79aacf7fe156cbb91b9341839e3ff68bbdfeb7c1e8c30818349fd90d4c4eb3"
+    }
+}
