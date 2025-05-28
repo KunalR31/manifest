@@ -1,0 +1,60 @@
+{
+    "appid": "423620",
+    "type": "Game",
+    "name": "Hero Defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973260",
+    "update_time": "2025-05-14 12:17:52",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese",
+        "423621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2010963618515101033",
+                    "size": "2062796982",
+                    "download": "538703568"
+                },
+                "local": {
+                    "gid": "5207734822547342849",
+                    "size": "1814658744",
+                    "download": "453682208"
+                },
+                "publicbeta": {
+                    "gid": "7439225232138256344",
+                    "size": "1826232805",
+                    "download": "459341952"
+                }
+            },
+            "decryptionkey": "bc0ad118c86a23f43eb2d6924654f305f54ba21909ae73af02c21b7f3ff6691c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1702851",
+                "timeupdated": "1534511765"
+            },
+            "local": {
+                "buildid": "1197577",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1466784066"
+            },
+            "publicbeta": {
+                "buildid": "1260355",
+                "description": "Public Beta Branch",
+                "timeupdated": "1470233686"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
