@@ -1,0 +1,103 @@
+{
+    "appid": "1178030",
+    "type": "Game",
+    "name": "Star Fetchers",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28984818",
+    "update_time": "2025-05-15 00:07:49",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1178031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7439540445192359921",
+                    "size": "819788624",
+                    "download": "194859712"
+                },
+                "v3beta": {
+                    "gid": "7862987007351279045",
+                    "size": "529145218",
+                    "download": "262785312"
+                }
+            },
+            "decryptionkey": "bdcb16b0b270b507d9380f58e881487decb980d28f679f58461c81e389c115eb"
+        },
+        "1178032": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1943817090766820261",
+                    "size": "0",
+                    "download": "0"
+                },
+                "v3beta": {
+                    "gid": "2971080142862365794",
+                    "size": "376948258",
+                    "download": "209823856"
+                }
+            },
+            "decryptionkey": "c3ddd4f52609dc2d46e8c484ad495085161321b8d262f919e8ffc18051aba5ac"
+        },
+        "1178035": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "v3beta": {
+                    "gid": "9045585668562378575",
+                    "size": "298270751",
+                    "download": "189172192"
+                }
+            },
+            "decryptionkey": "d85764370bc41ef151aea19f73ba98fcd7ff8743de8a8d6ad00c52d01edb2dff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16009298",
+                "timeupdated": "1728650017"
+            },
+            "v3beta": {
+                "buildid": "12305405",
+                "description": "The third version of the beta",
+                "timeupdated": "1695899355"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
