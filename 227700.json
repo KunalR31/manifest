@@ -1,0 +1,94 @@
+{
+    "appid": "227700",
+    "type": "Game",
+    "name": "Firefall",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:52",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "227701": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2201224320369239390",
+                    "size": "17120454205",
+                    "download": "11526930512"
+                },
+                "local": {
+                    "gid": "3328380786399729237",
+                    "size": "7118893177",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dfd265efd149b5faf48f88bb7f1162f802ace723ff0c734c2f943bfee80d5111"
+        },
+        "310090": {
+            "manifests": {
+                "public": {
+                    "gid": "6988987713547099941",
+                    "size": "880342387",
+                    "download": "710492448"
+                }
+            },
+            "dlcappid": "310090",
+            "decryptionkey": ""
+        },
+        "310091": {
+            "manifests": {
+                "public": {
+                    "gid": "1594405100244336146",
+                    "size": "880342387",
+                    "download": "710492448"
+                }
+            },
+            "dlcappid": "310091",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1112234",
+                "timeupdated": "1462489380"
+            },
+            "local": {
+                "buildid": "32693",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
