@@ -1,0 +1,85 @@
+{
+    "appid": "820210",
+    "type": "Game",
+    "name": "ASHI WASH",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28979046",
+    "update_time": "2025-05-14 22:45:54",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "820211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4851721598590959133",
+                    "size": "433400238",
+                    "download": "360234784"
+                },
+                "1.0.4": {
+                    "gid": "3086964586926507832",
+                    "size": "613227533",
+                    "download": "409826432"
+                },
+                "1.6test": {
+                    "gid": "8743003999753528183",
+                    "size": "551972291",
+                    "download": "389040496"
+                },
+                "v1.5": {
+                    "gid": "4851721598590959133",
+                    "size": "433400238",
+                    "download": "360234784"
+                },
+                "version_1.03": {
+                    "gid": "4967134980866155475",
+                    "size": "634084711",
+                    "download": "429789936"
+                }
+            },
+            "decryptionkey": "f4ce5e3bc35d4ee61d771aafe2296740f49332650c5c13b22fd210106957f0ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6479303",
+                "timeupdated": "1617348536"
+            },
+            "1.0.4": {
+                "buildid": "4007841",
+                "description": "legacy branch",
+                "timeupdated": "1617348191"
+            },
+            "1.6test": {
+                "buildid": "7627679",
+                "description": "testing 1.6",
+                "timeupdated": "1635540193"
+            },
+            "v1.5": {
+                "buildid": "6479303",
+                "description": "legacy branch",
+                "timeupdated": "1635540146"
+            },
+            "version_1.03": {
+                "buildid": "2872267",
+                "description": "legacy branch",
+                "timeupdated": "1561349933"
+            }
+        }
+    }
+}
