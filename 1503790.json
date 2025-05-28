@@ -1,0 +1,66 @@
+{
+    "appid": "1503790",
+    "type": "Game",
+    "name": "Nordicandia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29010837",
+    "update_time": "2025-05-16 04:15:40",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1503791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1164166993155049991",
+                    "size": "2143554844",
+                    "download": "608463264"
+                },
+                "test": {
+                    "gid": "1447702966108831304",
+                    "size": "1594444140",
+                    "download": "542528240"
+                }
+            },
+            "decryptionkey": "c5aee8ab1697c4d2b2f484955c9aaeecabd3e31a65ef1e367233351ad189c73c"
+        },
+        "1503792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7694765077127605802",
+                    "size": "3280558202",
+                    "download": "843035520"
+                },
+                "test": {
+                    "gid": "2423656357656035457",
+                    "size": "2629459463",
+                    "download": "762562688"
+                }
+            },
+            "decryptionkey": "601b493931cdb376d15d53fc1690e9593a51b25c07d4dc806592b7df78536e20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17395007",
+                "timeupdated": "1741859784"
+            },
+            "test": {
+                "buildid": "14271182",
+                "description": "Public Test Server",
+                "timeupdated": "1719247802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
