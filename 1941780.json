@@ -1,0 +1,67 @@
+{
+    "appid": "1941780",
+    "type": "Game",
+    "name": "Zumbi Blocks 2 Open Alpha",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28693722",
+    "update_time": "2025-04-28 00:13:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1941781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "766318867065119811",
+                    "size": "257599477",
+                    "download": "65711776"
+                },
+                "test": {
+                    "gid": "766318867065119811",
+                    "size": "257599477",
+                    "download": "65711776"
+                }
+            },
+            "decryptionkey": "c0dd21eacfa642b61bd60e82a6ff6b5487472d65d62b7d606449a6f3b03f2b44"
+        },
+        "1941782": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "633518237595715196",
+                    "size": "245493733",
+                    "download": "62140576"
+                },
+                "test": {
+                    "gid": "633518237595715196",
+                    "size": "245493733",
+                    "download": "62140576"
+                }
+            },
+            "decryptionkey": "d82cc1c76c12fbeeb4327e3ac67c7d26e6337aaad9f3de310f70e6ec2c5b92ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18162737",
+                "timeupdated": "1745017340"
+            },
+            "test": {
+                "buildid": "18162737",
+                "description": "Test branch",
+                "timeupdated": "1745015715"
+            }
+        }
+    }
+}
