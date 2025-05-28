@@ -1,0 +1,100 @@
+{
+    "appid": "644380",
+    "type": "Game",
+    "name": "Hegis' Grasp: Evil Resurrected",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27528143",
+    "update_time": "2025-02-18 13:13:28",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "644381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7066754507926747692",
+                    "size": "2309422048",
+                    "download": "981364832"
+                }
+            },
+            "decryptionkey": "a4e8a2537a96574504eab4d16c7a6371d0c14fb77a07e574e2e8b2ac4b914a2a"
+        },
+        "644382": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1497267743082606092",
+                    "size": "2395581639",
+                    "download": "1044178080"
+                }
+            },
+            "decryptionkey": "7506665de6c2ba59441393fc2bcb28cb03922619b67d50d62f76cfc98383d671"
+        },
+        "644383": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2905984256086914691",
+                    "size": "2522867096",
+                    "download": "1138054544"
+                }
+            },
+            "decryptionkey": "dab27c87a3fc3bdcb561b2ae4425a6c85f01d2e70ba60d3f6bcc92ce4acc6742"
+        },
+        "729440": {
+            "dlcappid": "729440",
+            "manifests": {
+                "public": {
+                    "gid": "926369910251157592",
+                    "size": "518014",
+                    "download": "521856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "953140": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7496787503216379950",
+                    "size": "24",
+                    "download": "80"
+                }
+            },
+            "dlcappid": "953140",
+            "decryptionkey": "09668cf9ac4eb2a25f3b2bd87c5c0d813c0393efe27b0cd71f8c34f76ad91d83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3377993",
+                "timeupdated": "1544248468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
