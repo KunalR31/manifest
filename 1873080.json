@@ -1,0 +1,67 @@
+{
+    "appid": "1873080",
+    "type": "Game",
+    "name": "Datascape",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28990651",
+    "update_time": "2025-05-15 06:19:52",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1873081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5184797868550114882",
+                    "size": "2129706862",
+                    "download": "669417104"
+                }
+            },
+            "decryptionkey": "3dcf74332c2589faf52df19e0e16ba714ffb8c422d848da4840ceb329805f9b1"
+        },
+        "1873082": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "1873083": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8636500083865960720",
+                    "size": "2092555535",
+                    "download": "624798464"
+                }
+            },
+            "decryptionkey": "1457405817351834ebc3ee6f9c5e0712d0359fc192f08ec3da74a32ae666f9f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16380703",
+                "timeupdated": "1731427082"
+            }
+        }
+    }
+}
