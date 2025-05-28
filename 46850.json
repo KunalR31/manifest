@@ -1,0 +1,42 @@
+{
+    "appid": "46850",
+    "type": "Game",
+    "name": "Zombie Pirates",
+    "schinese_name": "僵尸海盗",
+    "isfreeapp": "0",
+    "change_number": "26703213",
+    "update_time": "2024-12-19 06:23:27",
+    "depot": {
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "46851": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2144946155996692459",
+                    "size": "723462416",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7e693d34ca926d6f8730631d445b17d9b26c57a62ab417f3e146b94782ffd9e5"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "21461"
+            }
+        }
+    }
+}
