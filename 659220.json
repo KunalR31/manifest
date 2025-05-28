@@ -1,0 +1,67 @@
+{
+    "appid": "659220",
+    "type": "Game",
+    "name": "PROJECT MAZE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28691336",
+    "update_time": "2025-04-27 19:08:33",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "659220",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "659221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1220654676832207913",
+                    "size": "815607537",
+                    "download": "369566224"
+                },
+                "archive": {
+                    "gid": "2027712252902196989",
+                    "size": "3283922813",
+                    "download": "961231168"
+                }
+            },
+            "decryptionkey": "ce705a2970ab2b80ec4191ff33a03559a062a02047be9a559f09f32ebd40408c"
+        },
+        "659222": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "13717309",
+                "timeupdated": "1710264110"
+            },
+            "archive": {
+                "buildid": "3835966",
+                "description": "version from 19.05.2019",
+                "timeupdated": "1681405131"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
