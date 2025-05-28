@@ -1,0 +1,152 @@
+{
+    "appid": "259430",
+    "type": "Game",
+    "name": "Zigfrak",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 12:48:44",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "259431": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3655664479621182741",
+                    "size": "661391080",
+                    "download": "286524064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "259432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8935927570200031806",
+                    "size": "666619064",
+                    "download": "288093872"
+                },
+                "testing": {
+                    "gid": "2806997481401443088",
+                    "size": "458874769",
+                    "download": "431471593507"
+                }
+            },
+            "decryptionkey": "d16371876e67beaf7f5494970adce42589ea0a3242bf970e268e7a803c97a4c3"
+        },
+        "259433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6076364580652548581",
+                    "size": "680362565",
+                    "download": "291091536"
+                },
+                "testing": {
+                    "gid": "7887030071545266707",
+                    "size": "461915683",
+                    "download": "652148320488"
+                }
+            },
+            "decryptionkey": "b73d318a9943e6d3afde1c11f5def291829e6aadf4e13a716412a59ef5d457d9"
+        },
+        "259434": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2686516185937374285",
+                    "size": "679570795",
+                    "download": "293010720"
+                },
+                "testing": {
+                    "gid": "2573154088041826169",
+                    "size": "461310154",
+                    "download": "308183978829"
+                }
+            },
+            "decryptionkey": "f0c44aa5ae4219de9b88036749f00e2cc1408c2416385bf4577014e56dafad2a"
+        },
+        "259435": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "testing": {
+                    "gid": "9163089174689690802",
+                    "size": "666619064",
+                    "download": "288088304"
+                }
+            },
+            "decryptionkey": "a9dbce35f75cc0934097f4783a4037090b23a413bcca9c576ba65a75d51e216a"
+        },
+        "259436": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "testing": {
+                    "gid": "6880401749534949806",
+                    "size": "680362565",
+                    "download": "291093184"
+                }
+            },
+            "decryptionkey": "871212cb287230fca1b0555bd89e1228117b33fd357a2cbdcccbc3075e8cde83"
+        },
+        "259437": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "testing": {
+                    "gid": "9202674117060672132",
+                    "size": "679570795",
+                    "download": "293012352"
+                }
+            },
+            "decryptionkey": "e6f6c950ba116ae5c13ffc7a5fee3eeabc111efa745c82117ce7a824004d06f1"
+        },
+        "259438": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "259439": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "259440": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "2436689",
+                "timeupdated": "1515969299"
+            },
+            "testing": {
+                "buildid": "2436660",
+                "description": "Public test branch",
+                "timeupdated": "1515967921"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
