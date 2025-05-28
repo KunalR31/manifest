@@ -1,0 +1,81 @@
+{
+    "appid": "63800",
+    "type": "Game",
+    "name": "Delve Deeper",
+    "schinese_name": "深度挖掘",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:41",
+    "depot": {
+        "229011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "63803": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2372868528454580921",
+                    "size": "51224",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2833527908256373497",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "63803",
+            "decryptionkey": "997a971fafbd9f042999a63e7177b1de5000b1cd1cdca615199b552d6ed30b85"
+        },
+        "63802": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1842035563238278186",
+                    "size": "57176",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3184590496016524733",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "63802",
+            "decryptionkey": "91fc74dc0b4e1178ef7b0669b70f8a1740c7476127fcddad0cad130e4692e720"
+        },
+        "63801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8078844474198886952",
+                    "size": "37385852",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1139593929645294866",
+                    "size": "9",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "90be35aab9b49661bbf2dc3425722da6a54002244222eaceed8408286432b694"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "23911"
+            },
+            "local": {
+                "buildid": "101189",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
