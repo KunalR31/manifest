@@ -1,0 +1,64 @@
+{
+    "appid": "1845790",
+    "type": "Game",
+    "name": "Nanook's Revenge",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28923041",
+    "update_time": "2025-05-11 13:32:55",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1845791": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6210383633721947804",
+                    "size": "2757924103",
+                    "download": "2364895088"
+                },
+                "beta": {
+                    "gid": "3719716150847959636",
+                    "size": "2700898525",
+                    "download": "2309198080"
+                }
+            },
+            "decryptionkey": "8d132a0167da409cc2292edb1050ce34dd1ac776db75a8fd372a6aab4326b4d9"
+        },
+        "1845792": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8173780",
+                "timeupdated": "1644424553"
+            },
+            "beta": {
+                "buildid": "8160261",
+                "description": "For testing new properties that might not be fully working",
+                "timeupdated": "1644260863"
+            }
+        }
+    }
+}
