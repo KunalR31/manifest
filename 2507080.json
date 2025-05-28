@@ -1,0 +1,62 @@
+{
+    "appid": "2507080",
+    "type": "Game",
+    "name": "Cecelia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29012627",
+    "update_time": "2025-05-16 06:30:51",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2507081": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2798663575741296630",
+                    "size": "3898500021",
+                    "download": "3619273296"
+                }
+            },
+            "decryptionkey": "23cf9e79c9a97bedb263ec35d31c072f2555442efa52602398b5474371f85742"
+        },
+        "2507082": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5739079659376403067",
+                    "size": "2823507185",
+                    "download": "2422157456"
+                }
+            },
+            "decryptionkey": "0fe6e78bbc90aba8133f5d7ef119fa5b78b945d95e47dcd100434c22c79e373c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11932394",
+                "timeupdated": "1691948361"
+            }
+        }
+    }
+}
