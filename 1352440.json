@@ -1,0 +1,86 @@
+{
+    "appid": "1352440",
+    "type": "Game",
+    "name": "Brick Building",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25597375",
+    "update_time": "2024-10-09 01:48:50",
+    "depot": {
+        "baselanguages": "",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1352442": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8158928920366012566",
+                    "size": "946043775",
+                    "download": "709115600"
+                },
+                "2021": {
+                    "gid": "8158928920366012566",
+                    "size": "946043775",
+                    "download": "709115600"
+                }
+            },
+            "decryptionkey": "9d6f7543e04e0df0b486398cf9e3da95ff84d3c920e3ff902ebb3f7ef0ec2cb2"
+        },
+        "1352441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5217252769268939511",
+                    "size": "815120326",
+                    "download": "645493072"
+                },
+                "2021": {
+                    "gid": "5217252769268939511",
+                    "size": "815120326",
+                    "download": "645493072"
+                },
+                "ramaoficial": {
+                    "gid": "3745251571954583674",
+                    "size": "724402034",
+                    "download": "556120464"
+                }
+            },
+            "decryptionkey": "c455c05e071c509698a1b624d3c3b8d639b98f05242efd736e7ac4e41504a13b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6256277",
+                "timeupdated": "1613617635"
+            },
+            "2021": {
+                "buildid": "6256277",
+                "description": "Actualizaciones de 2021",
+                "timeupdated": "1613617600"
+            },
+            "ramaoficial": {
+                "buildid": "5513672",
+                "description": "Ultimas actualizaciones",
+                "timeupdated": "1599518535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
