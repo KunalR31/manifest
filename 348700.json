@@ -1,0 +1,133 @@
+{
+    "appid": "348700",
+    "type": "Game",
+    "name": "Walkover",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28972227",
+    "update_time": "2025-05-14 10:47:49",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "348701": {
+            "manifests": {
+                "public": {
+                    "gid": "7207967414475007547",
+                    "size": "125293970",
+                    "download": "79661312"
+                },
+                "debug": {
+                    "gid": "608103482883790183",
+                    "size": "125289888",
+                    "download": "79650864"
+                },
+                "system_wine": {
+                    "gid": "608103482883790183",
+                    "size": "125289888",
+                    "download": "79650864"
+                }
+            },
+            "decryptionkey": "89a777f14d3faf1b055209c21db8ad35c6ac556268954870aa41918af7832cd9"
+        },
+        "348702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5985789907429472116",
+                    "size": "158801805",
+                    "download": "56839408"
+                },
+                "debug": {
+                    "gid": "4238077174535933839",
+                    "size": "158801496",
+                    "download": "56839072"
+                },
+                "system_wine": {
+                    "gid": "6945586637714468598",
+                    "size": "604",
+                    "download": "512"
+                }
+            },
+            "decryptionkey": "6eefa07f01a4e1dd6b2502cd60d757caa8ad1dd415f32e49c855c0acd477dfe8"
+        },
+        "348703": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1681211442678609211",
+                    "size": "480209",
+                    "download": "180928"
+                },
+                "debug": {
+                    "gid": "4989329656051709483",
+                    "size": "480419",
+                    "download": "180992"
+                },
+                "system_wine": {
+                    "gid": "4633212537851574346",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e66d5c3ad9f9510cd13e58eaf5471328c9621ccbf92bb2b51809878120284526"
+        },
+        "348704": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1583955500310805323",
+                    "size": "2373187",
+                    "download": "677760"
+                },
+                "debug": {
+                    "gid": "8213629822683020660",
+                    "size": "2373411",
+                    "download": "677840"
+                },
+                "system_wine": {
+                    "gid": "2325499007513873564",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2f48716981da3d6c3a5c25e0f38624c8e5b58c1556c0fe3e27d3fa484c29385e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4311894",
+                "timeupdated": "1571754468"
+            },
+            "debug": {
+                "buildid": "2189839",
+                "description": "Debug Branch",
+                "timeupdated": "1507732804"
+            },
+            "system_wine": {
+                "buildid": "1901423",
+                "description": "Run game using WINE provided by system.",
+                "timeupdated": "1497918351"
+            }
+        }
+    }
+}
