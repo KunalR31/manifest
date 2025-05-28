@@ -1,0 +1,77 @@
+{
+    "appid": "640880",
+    "type": "Game",
+    "name": "Hyper Sentinel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28936803",
+    "update_time": "2025-05-12 18:34:23",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese",
+        "640881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8837136113009063974",
+                    "size": "405326023",
+                    "download": "319718848"
+                },
+                "beta": {
+                    "gid": "4172524203011443511",
+                    "size": "405324575",
+                    "download": "319717456"
+                }
+            },
+            "decryptionkey": "02175074470ce1cf32e6c335a8119654be25500037655d3859814a907ae6ad41"
+        },
+        "640882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6903896814702110113",
+                    "size": "434984183",
+                    "download": "316923072"
+                },
+                "beta": {
+                    "gid": "4100730449413920359",
+                    "size": "434981727",
+                    "download": "316920032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "640883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "59683407069602372",
+                    "size": "437514568",
+                    "download": "319513792"
+                },
+                "beta": {
+                    "gid": "5377307486701658483",
+                    "size": "437511748",
+                    "download": "319513152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2777289",
+                "timeupdated": "1526432926"
+            },
+            "beta": {
+                "buildid": "2772785",
+                "description": "Fixes for wireless controllers",
+                "timeupdated": "1526466020"
+            }
+        }
+    }
+}
