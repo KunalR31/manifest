@@ -1,0 +1,70 @@
+{
+    "appid": "1635730",
+    "type": "Application",
+    "name": "VIVE Console for SteamVR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28988782",
+    "update_time": "2025-05-15 04:06:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,schinese,tchinese,japanese,arabic,latam",
+        "hasdepotsindlc": "0",
+        "1635731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4589982208829936133",
+                    "size": "1693479902",
+                    "download": "613703008"
+                },
+                "backup": {
+                    "gid": "1116656264355788974",
+                    "size": "1695253271",
+                    "download": "603821536"
+                },
+                "elite7": {
+                    "gid": "6284402983186897381",
+                    "size": "248154640",
+                    "download": "73639344"
+                },
+                "beta": {
+                    "gid": "9135986044812891088",
+                    "size": "1695218680",
+                    "download": "614003344"
+                }
+            },
+            "decryptionkey": "317b888a388bc0fb47fd2fa0544587e0e97f24887ea2339ceb90c62dbb0776ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16386294",
+                "timeupdated": "1731488521"
+            },
+            "backup": {
+                "buildid": "9897519",
+                "description": "Public backup",
+                "timeupdated": "1675151560"
+            },
+            "elite7": {
+                "buildid": "7021366",
+                "description": "June 2021 final release for Win7 & Win8",
+                "timeupdated": "1626171638"
+            },
+            "beta": {
+                "buildid": "16936426",
+                "description": "VIVE Console Beta Update",
+                "timeupdated": "1736316990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
