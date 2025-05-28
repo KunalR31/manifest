@@ -1,0 +1,57 @@
+{
+    "appid": "2087030",
+    "type": "Game",
+    "name": "Shatterline",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2087031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "872358032461581028",
+                    "size": "24722182314",
+                    "download": "23610831024"
+                },
+                "ptsone": {
+                    "gid": "849705337966920712",
+                    "size": "24719542474",
+                    "download": "23609466256"
+                }
+            },
+            "decryptionkey": "45c4a6a5a2a34c5d066bd2e654f351b74e75d97060ab471c2c04250670ed134f"
+        },
+        "baselanguages": "english,japanese,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "15015937",
+                "timeupdated": "1720800392"
+            },
+            "ptsone": {
+                "buildid": "13933478",
+                "description": "Public Test Server One",
+                "timeupdated": "1712136371"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
