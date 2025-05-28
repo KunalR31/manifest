@@ -1,0 +1,66 @@
+{
+    "appid": "1461600",
+    "type": "Game",
+    "name": "Project Sparrow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29041302",
+    "update_time": "2025-05-17 23:38:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1461601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2496134433945426286",
+                    "size": "4854753846",
+                    "download": "4040352912"
+                },
+                "local": {
+                    "gid": "6580790000534000117",
+                    "size": "1184519246",
+                    "download": "610797104"
+                },
+                "og-sparrow": {
+                    "gid": "2136622948955375751",
+                    "size": "5075181489",
+                    "download": "4717555072"
+                }
+            },
+            "decryptionkey": "cbc746b053c338692113af793b41bbe7050161c76c1ff20a478fb19f65b81816"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18162464",
+                "timeupdated": "1745016129"
+            },
+            "local": {
+                "buildid": "12739867",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1700312291"
+            },
+            "og-sparrow": {
+                "buildid": "9575069",
+                "description": "Original version of Project Sparrow",
+                "timeupdated": "1734368780"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
