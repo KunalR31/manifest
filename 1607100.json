@@ -1,0 +1,68 @@
+{
+    "appid": "1607100",
+    "type": "Game",
+    "name": "The night of fire stealing 2/盗火之夜2",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 09:12:06",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1607101": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6468384484750278550",
+                    "size": "4873820485",
+                    "download": "1114211984"
+                },
+                "beta": {
+                    "gid": "6468384484750278550",
+                    "size": "4873820485",
+                    "download": "1114211984"
+                }
+            },
+            "decryptionkey": "3afacbab94b105213698d70f4b5a095d6eff6438d42748bda3177c08faf57c3c"
+        },
+        "1607102": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "945514106586287133",
+                    "size": "4857596185",
+                    "download": "1110188560"
+                },
+                "beta": {
+                    "gid": "945514106586287133",
+                    "size": "4857596185",
+                    "download": "1110188560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13235212",
+                "timeupdated": "1705901370"
+            },
+            "beta": {
+                "buildid": "13235155",
+                "description": "公开测试使用",
+                "timeupdated": "1705900705"
+            }
+        }
+    }
+}
