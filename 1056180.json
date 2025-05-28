@@ -1,0 +1,85 @@
+{
+    "appid": "1056180",
+    "type": "Game",
+    "name": "Cathedral",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983254",
+    "update_time": "2025-05-14 22:52:45",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1056181": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4698962624297233439",
+                    "size": "59563427",
+                    "download": "47613600"
+                },
+                "edge": {
+                    "gid": "4698962624297233439",
+                    "size": "59563427",
+                    "download": "47613600"
+                }
+            }
+        },
+        "1056182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3007103905392619914",
+                    "size": "57261046",
+                    "download": "47276496"
+                },
+                "edge": {
+                    "gid": "3007103905392619914",
+                    "size": "57261046",
+                    "download": "47276496"
+                }
+            },
+            "decryptionkey": "69167135df9d7c5e9c02727944f12bfbb3c1ccf9334d369663aed11727205c1a"
+        },
+        "1056183": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "352953153920122360",
+                    "size": "59140846",
+                    "download": "47076512"
+                },
+                "edge": {
+                    "gid": "352953153920122360",
+                    "size": "59140846",
+                    "download": "47076512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6428724",
+                "timeupdated": "1617278496"
+            },
+            "edge": {
+                "buildid": "6428724",
+                "description": "Public beta branch",
+                "timeupdated": "1617278435"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
