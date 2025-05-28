@@ -1,0 +1,73 @@
+{
+    "appid": "1581050",
+    "type": "Game",
+    "name": "Memento Infernum",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27166109",
+    "update_time": "2025-01-26 03:27:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1581051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2702034055410754222",
+                    "size": "77374192",
+                    "download": "38336800"
+                },
+                "beta": {
+                    "gid": "2435565670758257720",
+                    "size": "77374192",
+                    "download": "38336752"
+                }
+            },
+            "decryptionkey": "8546178b5defe81df2db2160035caa22968cf78954d6c705a73ae02cf1025838"
+        },
+        "1581052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8422181972274021952",
+                    "size": "101797707",
+                    "download": "45116624"
+                },
+                "beta": {
+                    "gid": "408912228449086432",
+                    "size": "101797707",
+                    "download": "45116624"
+                }
+            },
+            "decryptionkey": "f211318e649db0ce767daf65e0b0a0d3b6e25e780253cf99f17eb89ecc9ae13d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6602295",
+                "timeupdated": "1619453874"
+            },
+            "beta": {
+                "buildid": "6602345",
+                "description": "Beta branch",
+                "timeupdated": "1619453720"
+            }
+        }
+    }
+}
