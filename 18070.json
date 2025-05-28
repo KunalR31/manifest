@@ -1,0 +1,77 @@
+{
+    "appid": "18070",
+    "type": "Game",
+    "name": "The Baconing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28969397",
+    "update_time": "2025-05-14 06:32:05",
+    "depot": {
+        "18081": {
+            "config": {
+                "oslist": "macos"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6853686425840076859",
+                    "size": "2120480",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "18081",
+            "decryptionkey": "31fb0ae80d09e6e9b39c47c45627f19cee726a009119192ae4359c9ca1411839"
+        },
+        "18080": {
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4598895419352626448",
+                    "size": "2120480",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "18080",
+            "decryptionkey": "14c69706a7825ba10afc9f14d7cb251cc922a44a7550dc77e82e6be8d5f0c338"
+        },
+        "18072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1040351767553278893",
+                    "size": "1040860131",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "854228238e282e1fb5fa907955b568cbddb83f40376351367137bedceca63f82"
+        },
+        "18071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7970235442025958180",
+                    "size": "1142809093",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d218aa8832bb77213c6b0715cbc0d97d7e008627a301722e10a71434ed3081d5"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "2796"
+            }
+        }
+    }
+}
