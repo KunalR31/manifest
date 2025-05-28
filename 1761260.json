@@ -1,0 +1,61 @@
+{
+    "appid": "1761260",
+    "type": "Game",
+    "name": "Child of Lothian",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27387871",
+    "update_time": "2025-02-09 22:27:29",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1761261": {
+            "manifests": {
+                "public": {
+                    "gid": "454547477018284057",
+                    "size": "4314296972",
+                    "download": "4079683936"
+                },
+                "debug": {
+                    "gid": "1509904981982227021",
+                    "size": "4408354105",
+                    "download": "4101236640"
+                },
+                "shipping": {
+                    "gid": "454547477018284057",
+                    "size": "4314296972",
+                    "download": "4079683936"
+                }
+            },
+            "decryptionkey": "024a188cd9f1a567031cd69bcf02e62abc69d1acecbd90c1a4e1d07db26548f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9094127",
+                "timeupdated": "1657457443"
+            },
+            "debug": {
+                "buildid": "9076752",
+                "description": "debug",
+                "timeupdated": "1657179685"
+            },
+            "shipping": {
+                "buildid": "9094127",
+                "description": "shipping",
+                "timeupdated": "1657455566"
+            }
+        }
+    }
+}
