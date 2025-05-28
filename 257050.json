@@ -1,0 +1,74 @@
+{
+    "appid": "257050",
+    "type": "Game",
+    "name": "Darkout",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 12:08:27",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257051": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7603611506695584964",
+                    "size": "2444784844",
+                    "download": "1045610384"
+                },
+                "patch_open_beta": {
+                    "gid": "3197916965023325424",
+                    "size": "856737523",
+                    "download": "785712560"
+                },
+                "pre-release": {
+                    "gid": "7603611506695584964",
+                    "size": "2444784844",
+                    "download": "1045610384"
+                }
+            },
+            "decryptionkey": "778809f8ce0704e68c9e2cafa716f25972674dc435087daa83037f4e20d424a6"
+        },
+        "257052": {},
+        "367830": {
+            "manifests": {
+                "patch_open_beta": {
+                    "gid": "4140756568008844620",
+                    "size": "79883464",
+                    "download": "65382224"
+                }
+            },
+            "dlcappid": "367830",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "477673"
+            },
+            "patch_open_beta": {
+                "buildid": "621092",
+                "description": "Test next patch before release"
+            },
+            "pre-release": {
+                "buildid": "477673",
+                "description": "Tester's Branch"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
