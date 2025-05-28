@@ -1,0 +1,104 @@
+{
+    "appid": "282880",
+    "type": "Game",
+    "name": "FaeVerse Alchemy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:48",
+    "depot": {
+        "overridescddb": "1",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "282881": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8284383399459079360",
+                    "size": "198662655",
+                    "download": "140429904"
+                },
+                "fva_2016": {
+                    "gid": "4641954004707281011",
+                    "size": "83155576",
+                    "download": "75132912"
+                }
+            },
+            "decryptionkey": "994db01407ca185ca5b0222f8608cd36d9739c4ba4ba5bef965779d749b64b28"
+        },
+        "282882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7466849814449744105",
+                    "size": "176568184",
+                    "download": "140268096"
+                },
+                "fva_2016": {
+                    "gid": "2413799546886743838",
+                    "size": "98011441",
+                    "download": "84060432"
+                }
+            },
+            "decryptionkey": "110cdfefabdd846d7adc68604dbee6379b1ccfcf32fb7480785ceea28db5bba7"
+        },
+        "282883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8299925675660505910",
+                    "size": "167061697",
+                    "download": "137992224"
+                },
+                "fva_2016": {
+                    "gid": "4595119867757689332",
+                    "size": "97130082",
+                    "download": "84184096"
+                }
+            },
+            "decryptionkey": "3ff8e487753f8da00df607f9148abe42efc8dd84fe4cd36e03732d3d6d5327c2"
+        },
+        "282884": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7901916297321025644",
+                    "size": "83155698",
+                    "download": "75066608"
+                },
+                "fva_2016": {
+                    "gid": "7901916297321025644",
+                    "size": "83155698",
+                    "download": "75066608"
+                }
+            },
+            "decryptionkey": "6c516d9833b840762725158004f6f9d4984a8369b2b3a500cc16209a2f9d9f34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16895438",
+                "timeupdated": "1735863164"
+            },
+            "fva_2016": {
+                "buildid": "7973325",
+                "description": "Archived version of 2016",
+                "timeupdated": "1699675687"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
