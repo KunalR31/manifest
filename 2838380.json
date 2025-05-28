@@ -1,0 +1,58 @@
+{
+    "appid": "2838380",
+    "type": "Game",
+    "name": "Battle Room Beta",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29025591",
+    "update_time": "2025-05-16 21:56:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "2838381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5823370873509352297",
+                    "size": "1507158988",
+                    "download": "1116212640"
+                },
+                "local": {
+                    "gid": "4048046362515317072",
+                    "size": "1080808125",
+                    "download": "785704128"
+                }
+            },
+            "decryptionkey": "a47c2ecfdc8c784f4dafb078256fb460a0dbaabf33e40d2cda5fa860d7e97c84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14718078",
+                "timeupdated": "1718365099"
+            },
+            "local": {
+                "buildid": "13464462",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1707999522"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
