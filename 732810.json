@@ -1,0 +1,145 @@
+{
+    "appid": "732810",
+    "type": "Game",
+    "name": "Slipstream",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977752",
+    "update_time": "2025-05-14 22:43:39",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "732810",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "732811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1083573391354303750",
+                    "size": "188401909",
+                    "download": "162105584"
+                },
+                "legacy": {
+                    "gid": "7618793302885038786",
+                    "size": "237279420",
+                    "download": "182168048"
+                },
+                "legacy-v2": {
+                    "gid": "767497774490950971",
+                    "size": "187750423",
+                    "download": "172836624"
+                },
+                "workshop": {
+                    "gid": "1083573391354303750",
+                    "size": "188401909",
+                    "download": "162105584"
+                }
+            },
+            "decryptionkey": "aa2e0693551c22e4058c45eddc73768d09bc6897fecaaede573746b1601f4eaa"
+        },
+        "732812": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "704154936281790554",
+                    "size": "189372510",
+                    "download": "161842560"
+                },
+                "legacy": {
+                    "gid": "4708079194455253517",
+                    "size": "193122280",
+                    "download": "194924768"
+                },
+                "legacy-v2": {
+                    "gid": "2516427333076291766",
+                    "size": "190184807",
+                    "download": "173234064"
+                },
+                "workshop": {
+                    "gid": "704154936281790554",
+                    "size": "189372510",
+                    "download": "161842560"
+                }
+            },
+            "decryptionkey": "9ea54cd5a04e2570aa85cd6c3d20411edb078af329fcbd2bc3ffa7fc89a23a02"
+        },
+        "732813": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4526314843031562703",
+                    "size": "204257317",
+                    "download": "165024576"
+                },
+                "legacy": {
+                    "gid": "2612898243899591371",
+                    "size": "241578917",
+                    "download": "183076000"
+                },
+                "legacy-v2": {
+                    "gid": "7159490523702601119",
+                    "size": "205226973",
+                    "download": "176510384"
+                },
+                "workshop": {
+                    "gid": "4526314843031562703",
+                    "size": "204257317",
+                    "download": "165024576"
+                }
+            },
+            "decryptionkey": "5b37ac549e3d82669f657a705b0dc95440f1c3c9825ba3e74eca086d7f23012d"
+        },
+        "2334980": {
+            "dlcappid": "2334980",
+            "manifests": {
+                "public": {
+                    "gid": "8879517136234005257",
+                    "size": "53517716",
+                    "download": "52788592"
+                },
+                "workshop": {
+                    "gid": "8879517136234005257",
+                    "size": "53517716",
+                    "download": "52788592"
+                }
+            },
+            "decryptionkey": "2d417384939c2c9a8fe66ba5d6bb64beb1c2b88f692dacf55f1653a88dfc855c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15704123",
+                "timeupdated": "1726355362"
+            },
+            "legacy": {
+                "buildid": "4703314",
+                "description": "good ol' slipstream v1.1.11",
+                "timeupdated": "1631663092"
+            },
+            "legacy-v2": {
+                "buildid": "11257129",
+                "description": "slipstream v1.2 legacy branch",
+                "timeupdated": "1684355785"
+            },
+            "workshop": {
+                "buildid": "15704123",
+                "description": "includes track editor mode",
+                "timeupdated": "1726355377"
+            }
+        },
+        "workshopdepotdecryptionkey": "53b581dbf76f4342742eae1e2adf30f01f1e2ce72d5eba86a9b582545feeb409"
+    }
+}
