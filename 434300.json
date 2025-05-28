@@ -1,0 +1,66 @@
+{
+    "appid": "434300",
+    "type": "Game",
+    "name": "Wormhole City",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28973357",
+    "update_time": "2025-05-14 12:27:50",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "434302": {
+            "manifests": {
+                "local": {
+                    "gid": "6333179127950504404",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "255246fa0d81689cb508a2f7ed419ea5943fbb73814ada0f86d71bfbf0dd72e9"
+        },
+        "434301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6286038768005372286",
+                    "size": "9347804807",
+                    "download": "9092281376"
+                },
+                "local": {
+                    "gid": "9156199861362658232",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b30a75a036b71e53b7c01de6804439fdb3f27ba2e8a468e696a6cfbe9cc2a631"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4029272",
+                "timeupdated": "1563608869"
+            },
+            "local": {
+                "buildid": "1005459",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
