@@ -1,0 +1,59 @@
+{
+    "appid": "854040",
+    "type": "Game",
+    "name": "DEATHGARDEN - Soft Launch",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:35:31",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "854041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "118091263802839096",
+                    "size": "3483535011",
+                    "download": "3353334640"
+                },
+                "local": {
+                    "gid": "8235442713793443004",
+                    "size": "6774644604",
+                    "download": "5878520256"
+                }
+            },
+            "decryptionkey": "9d3b2f33a91b959466e25ed540fbb87c31ac3fa1349bfa08e41fc7a122775943"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3028462",
+                "timeupdated": "1534179509"
+            },
+            "local": {
+                "buildid": "3942074",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1561128967"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 16645709378182815835
+}
