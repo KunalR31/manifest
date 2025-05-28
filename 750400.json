@@ -1,0 +1,66 @@
+{
+    "appid": "750400",
+    "type": "Game",
+    "name": "Two Inns at Miller's Hollow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978083",
+    "update_time": "2025-05-14 22:44:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "750401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8430256969723538972",
+                    "size": "120185357",
+                    "download": "83623312"
+                }
+            },
+            "decryptionkey": "bfae0bcbd6120e43059527c820fe58c493a8f83dff8b10f00c06504141b8f47d"
+        },
+        "750402": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3839419331593135557",
+                    "size": "127389302",
+                    "download": "86271776"
+                }
+            },
+            "decryptionkey": "7ea699b9d767afee1c7c40f70704e77b401da7f898910d0b1d3463ddd0a8eabf"
+        },
+        "750403": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "776786335711665889",
+                    "size": "130011499",
+                    "download": "86089776"
+                }
+            },
+            "decryptionkey": "f3be6af15e8f9174b7f192dd1ddab78bd8c73b49d97cd789684f6c80d7ee2b7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5512490",
+                "timeupdated": "1599493035"
+            }
+        }
+    }
+}
