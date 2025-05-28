@@ -1,0 +1,206 @@
+{
+    "appid": "270050",
+    "type": "Game",
+    "name": "Quest of Dungeons",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:49",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "270051": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6304027437915632462",
+                    "size": "54425291",
+                    "download": "45381312"
+                },
+                "linux_beta": {
+                    "gid": "6304027437915632462",
+                    "size": "54425291",
+                    "download": "45381312"
+                },
+                "steamdeck-beta": {
+                    "gid": "6304027437915632462",
+                    "size": "54425291",
+                    "download": "45381312"
+                },
+                "v1.1": {
+                    "gid": "3239487599415247263",
+                    "size": "40250106",
+                    "download": "0"
+                },
+                "v2.0.4": {
+                    "gid": "3062627434917509196",
+                    "size": "42729534",
+                    "download": "37414224"
+                },
+                "v3.0.5_before_macos_catalina": {
+                    "gid": "513874351783324427",
+                    "size": "53189344",
+                    "download": "45302880"
+                },
+                "v3.0.5_linux_ubuntu_12_14_support": {
+                    "gid": "513874351783324427",
+                    "size": "53189344",
+                    "download": "45302880"
+                }
+            },
+            "decryptionkey": "3d4aac75823ddb05faf90ad474fa079030552cf02dd4611f08c77e2a90933af2"
+        },
+        "270052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3897533740791461279",
+                    "size": "48902238",
+                    "download": "33360608"
+                },
+                "linux_beta": {
+                    "gid": "3897533740791461279",
+                    "size": "48902238",
+                    "download": "33360608"
+                },
+                "steamdeck-beta": {
+                    "gid": "3897533740791461279",
+                    "size": "48902238",
+                    "download": "33360608"
+                },
+                "v1.1": {
+                    "gid": "3894537171907656827",
+                    "size": "46474434",
+                    "download": "0"
+                },
+                "v2.0.4": {
+                    "gid": "3758964599509664639",
+                    "size": "48142062",
+                    "download": "34394608"
+                },
+                "v3.0.5_before_macos_catalina": {
+                    "gid": "7999549908288901193",
+                    "size": "50715244",
+                    "download": "33597088"
+                },
+                "v3.0.5_linux_ubuntu_12_14_support": {
+                    "gid": "3897533740791461279",
+                    "size": "48902238",
+                    "download": "33360608"
+                }
+            },
+            "decryptionkey": "8647a25a59a92f7a6678f6599ad02e66f1e9f17625c4fde17b598a697aa854de"
+        },
+        "270053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1340702473065220951",
+                    "size": "42045040",
+                    "download": "31852432"
+                },
+                "linux_beta": {
+                    "gid": "450198755661409062",
+                    "size": "40869632",
+                    "download": "31591968"
+                },
+                "steamdeck-beta": {
+                    "gid": "1340702473065220951",
+                    "size": "42045040",
+                    "download": "31852432"
+                },
+                "v1.1": {
+                    "gid": "5058753495577124835",
+                    "size": "35241233",
+                    "download": "0"
+                },
+                "v2.0.4": {
+                    "gid": "5756147338180563284",
+                    "size": "38077080",
+                    "download": "32017200"
+                },
+                "v3.0.5_before_macos_catalina": {
+                    "gid": "3007750451575201612",
+                    "size": "38487527",
+                    "download": "30445184"
+                },
+                "v3.0.5_linux_ubuntu_12_14_support": {
+                    "gid": "3007750451575201612",
+                    "size": "38487527",
+                    "download": "30445184"
+                }
+            },
+            "decryptionkey": "9c6b776544209e5a467c3e9328202535d148b06179f6a1602d544f789a9f2bc8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8376864",
+                "timeupdated": "1647371547"
+            },
+            "linux_beta": {
+                "buildid": "7950685",
+                "description": "3.0.9",
+                "timeupdated": "1640774754"
+            },
+            "steamdeck-beta": {
+                "buildid": "8376864",
+                "description": "beta for gamepad on Steam Deck",
+                "timeupdated": "1647366276"
+            },
+            "v1.1": {
+                "buildid": "305201",
+                "description": "Version 1.1 (if has issues with >=2.0)"
+            },
+            "v2.0.4": {
+                "buildid": "851325",
+                "description": "Version 2.0.4. Stable if someone runs into problems with >=3.X",
+                "timeupdated": "1506442056"
+            },
+            "v3.0.5_before_macos_catalina": {
+                "buildid": "3171413",
+                "description": "Version 3.0.5 pre MacOS 10.15",
+                "timeupdated": "1568905284"
+            },
+            "v3.0.5_linux_ubuntu_12_14_support": {
+                "buildid": "4211199",
+                "description": "Older version that should still support older versions of Ubuntu 12 and 14",
+                "timeupdated": "1640776727"
+            }
+        }
+    }
+}
