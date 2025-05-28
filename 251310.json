@@ -1,0 +1,67 @@
+{
+    "appid": "251310",
+    "type": "Game",
+    "name": "Eleusis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970832",
+    "update_time": "2025-05-14 08:37:44",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "251311": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7537600366657887336",
+                    "size": "1238550088",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "7537600366657887336",
+                    "size": "1238550088",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c76ab7fb3cb5b458aa34b455f53415fb3831f9f38eadf74b838f194dfc54b96c"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "118404"
+            },
+            "local": {
+                "buildid": "118404",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
