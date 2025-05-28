@@ -1,0 +1,57 @@
+{
+    "appid": "622010",
+    "type": "Game",
+    "name": "The Fall of Lazarus",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27211604",
+    "update_time": "2025-01-29 11:17:42",
+    "depot": {
+        "baselanguages": "english,spanish",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "622011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7065144983617843320",
+                    "size": "2933351288",
+                    "download": "2805643584"
+                }
+            },
+            "decryptionkey": "3eabf0555b557a72e7f62934514e0c8d83e6c536da3630b9bebe39597693b5ac"
+        },
+        "726140": {
+            "manifests": {
+                "public": {
+                    "gid": "5286275627271657302",
+                    "size": "112344848",
+                    "download": "112344096"
+                }
+            },
+            "dlcappid": "726140",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2496281",
+                "timeupdated": "1517818002"
+            }
+        }
+    }
+}
