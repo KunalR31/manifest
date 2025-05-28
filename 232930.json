@@ -1,0 +1,51 @@
+{
+    "appid": "232930",
+    "type": "Demo",
+    "name": "Impire Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 05:21:24",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "232931": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7361056656194170438",
+                    "size": "1448694762",
+                    "download": "0"
+                },
+                "demo": {
+                    "gid": "5926032962362134981",
+                    "size": "1448702954",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b316235f79d4a35d3b3337e99bf537e7da71a5ba2dac2edbfcbe1ebbc5146199"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "50979"
+            },
+            "demo": {
+                "buildid": "50980"
+            }
+        }
+    }
+}
