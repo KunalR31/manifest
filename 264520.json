@@ -1,0 +1,83 @@
+{
+    "appid": "264520",
+    "type": "Game",
+    "name": "Moebius: Empire Rising",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27166802",
+    "update_time": "2025-01-26 05:25:46",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "264521": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8260886056379745371",
+                    "size": "3379014866",
+                    "download": "1560955040"
+                }
+            },
+            "decryptionkey": "d1d77e4feb51cabbc3ba042c39bbd63f4cd2854234084d7b4eeb37f721be7432"
+        },
+        "264522": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8111352187163262625",
+                    "size": "3377082460",
+                    "download": "1562177280"
+                }
+            },
+            "decryptionkey": "d039c4e8201d0915a370e3f50b067960bafc2a27db8fce435394d3220ec10d87"
+        },
+        "264523": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3155051922707023139",
+                    "size": "3400648116",
+                    "download": "1506915072"
+                }
+            },
+            "decryptionkey": "49914ccdc9c94b6af53ef787061395a7f9c8428dd37861249a17059dc119156a"
+        },
+        "287550": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "327022254192202496",
+                    "size": "702070647",
+                    "download": "953647739476"
+                }
+            },
+            "dlcappid": "287550",
+            "decryptionkey": "f9e6eacdd749c6451bd4be41baa4e30453e8f5dd404f6822abe365e3719116ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1125418",
+                "timeupdated": "1463371658"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
