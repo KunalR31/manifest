@@ -1,0 +1,61 @@
+{
+    "appid": "1314460",
+    "type": "Game",
+    "name": "Flicker of Hope",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25596525",
+    "update_time": "2024-10-09 01:32:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1314462": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8269279527102720363",
+                    "size": "1282502294",
+                    "download": "1165465552"
+                }
+            },
+            "decryptionkey": "0da47d05714f281ebf9e19fa9ff1171c53fd8e24de96d05940bcd4c6fc7c1b14"
+        },
+        "1314463": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1301457238185096255",
+                    "size": "1582538528",
+                    "download": "1352051136"
+                }
+            },
+            "decryptionkey": "235e9d1c24e02ab5148a034ea8f381640d026a0ab374502dc2db72607ace5c66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5952800",
+                "timeupdated": "1607654676"
+            }
+        }
+    }
+}
