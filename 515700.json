@@ -1,0 +1,68 @@
+{
+    "appid": "515700",
+    "type": "Game",
+    "name": "Snowday",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28974216",
+    "update_time": "2025-05-14 13:57:45",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "515701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4251399559461863496",
+                    "size": "3703380449",
+                    "download": "985702256"
+                },
+                "beta": {
+                    "gid": "4053125942498956303",
+                    "size": "3449768781",
+                    "download": "990282784"
+                },
+                "development": {
+                    "gid": "5037925939478241280",
+                    "size": "2446123254",
+                    "download": "611528672"
+                }
+            },
+            "decryptionkey": "1e16c85e81ce0da866ddacdf40b4cef5afc6955b33f2723575ab5430544985d3"
+        },
+        "515702": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1616802",
+                "timeupdated": "1486521154"
+            },
+            "beta": {
+                "buildid": "2007739",
+                "timeupdated": "1501717943"
+            },
+            "development": {
+                "buildid": "1363246",
+                "timeupdated": "1475099519"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
