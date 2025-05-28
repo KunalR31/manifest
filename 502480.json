@@ -1,0 +1,50 @@
+{
+    "appid": "502480",
+    "type": "Application",
+    "name": "VoxVR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28212583",
+    "update_time": "2025-03-30 14:15:35",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "502480",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "502482": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3229568372077233084",
+                    "size": "122213386",
+                    "download": "24248160"
+                },
+                "pre-release": {
+                    "gid": "3229568372077233084",
+                    "size": "122213386",
+                    "download": "24248160"
+                }
+            },
+            "decryptionkey": "fb4267efb3a106d6eddc7f46c550e6014727f04ad4d1ace7aa0e2cccf2697c0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2922024",
+                "timeupdated": "1530870160"
+            },
+            "pre-release": {
+                "buildid": "2922024",
+                "description": "public pre-release branch",
+                "timeupdated": "1530870152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
