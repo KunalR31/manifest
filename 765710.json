@@ -1,0 +1,52 @@
+{
+    "appid": "765710",
+    "type": "Game",
+    "name": "Light Bearers",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28978449",
+    "update_time": "2025-05-14 22:44:55",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "765711": {
+            "manifests": {
+                "public": {
+                    "gid": "8561141729354262740",
+                    "size": "9175678827",
+                    "download": "3291343536"
+                },
+                "beta": {
+                    "gid": "6556371265879045049",
+                    "size": "9338401732",
+                    "download": "3337254304"
+                }
+            },
+            "decryptionkey": "31198402653fbc25749bc732e099d6bfe36d07aa5c17df4771860162ec6f576d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11002742",
+                "timeupdated": "1681471317"
+            },
+            "beta": {
+                "buildid": "5896097",
+                "description": "This is a beta branch, make sure to backup your save files before using it.  Report any bugs to us on our discord.",
+                "timeupdated": "1702319693"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
