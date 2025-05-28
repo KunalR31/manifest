@@ -1,0 +1,58 @@
+{
+    "appid": "2361450",
+    "type": "Game",
+    "name": "Missiles Away",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28395308",
+    "update_time": "2025-04-10 05:50:30",
+    "depot": {
+        "2361451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4907550427270326684",
+                    "size": "160158408",
+                    "download": "74985872"
+                },
+                "beta_test_build": {
+                    "gid": "4907550427270326684",
+                    "size": "160158408",
+                    "download": "74985872"
+                }
+            },
+            "decryptionkey": "4be8c07c93abc9c477d2f08a22ec61ca4c2228d4a00f4666af471ed5a4e32d98"
+        },
+        "2361452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2190553356621282247",
+                    "size": "179911440",
+                    "download": "78262976"
+                },
+                "beta_test_build": {
+                    "gid": "2190553356621282247",
+                    "size": "179911440",
+                    "download": "78262976"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16625751",
+                "timeupdated": "1733334975"
+            },
+            "beta_test_build": {
+                "buildid": "16625751",
+                "description": "Build used to test new features (intended for playtesting but open to public)",
+                "timeupdated": "1733334988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
