@@ -1,0 +1,64 @@
+{
+    "appid": "334920",
+    "type": "Game",
+    "name": "Zero-K",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28972020",
+    "update_time": "2025-05-14 10:27:55",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "334921": {
+            "manifests": {
+                "public": {
+                    "gid": "3928494162966263543",
+                    "size": "7059159376",
+                    "download": "6509492320"
+                },
+                "test": {
+                    "gid": "2789097417150636219",
+                    "size": "3979839730",
+                    "download": "3552109760"
+                }
+            },
+            "decryptionkey": "c0eb74e9aa418970fb1f834173b9bbbd598920ca9d17ca742d3f2b4421f73fe8"
+        },
+        "334922": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "workshopdepot": "334920",
+        "branches": {
+            "public": {
+                "buildid": "18188007",
+                "timeupdated": "1745322172"
+            },
+            "test": {
+                "buildid": "17391530",
+                "description": "Test branch",
+                "timeupdated": "1739788472"
+            }
+        }
+    }
+}
