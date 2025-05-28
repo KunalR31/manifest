@@ -1,0 +1,52 @@
+{
+    "appid": "55020",
+    "type": "Game",
+    "name": "Air Forte ",
+    "schinese_name": "空中堡垒",
+    "isfreeapp": "0",
+    "change_number": "25657698",
+    "update_time": "2024-10-11 23:37:27",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "55022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8177610145366174284",
+                    "size": "87479516",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a572de8cd90391f47269fc3511f7b9e4f995a5cdc8cf24b967b7aa5eb1852c2b"
+        },
+        "55021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1241547696903243750",
+                    "size": "21860309",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e0a7b910fc15d6d0d106f8f3f46c5bff1417d9d9a052e470cdf830bd80257ac4"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "58850"
+            }
+        }
+    }
+}
