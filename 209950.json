@@ -1,0 +1,59 @@
+{
+    "appid": "209950",
+    "type": "Game",
+    "name": "Triple Town",
+    "schinese_name": "三重小镇",
+    "isfreeapp": "0",
+    "change_number": "28970158",
+    "update_time": "2025-05-14 07:37:56",
+    "depot": {
+        "209952": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2661612423038018863",
+                    "size": "53438326",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5889785409657972786",
+                    "size": "48646206",
+                    "download": "637281448"
+                }
+            },
+            "decryptionkey": "fbe65722292a775b1709dff3db026137472d8ffad8c7119166b3c292d3f09fbb"
+        },
+        "209951": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3344394767044186230",
+                    "size": "66733725",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7048282854452524052",
+                    "size": "69489579",
+                    "download": "5217060472"
+                }
+            },
+            "decryptionkey": "fa54f6240f27dd18a528eca18afcd5c423d1b760cd51ef7aa4a4ae811c375cb0"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "52769"
+            },
+            "beta": {
+                "buildid": "377752"
+            }
+        }
+    }
+}
