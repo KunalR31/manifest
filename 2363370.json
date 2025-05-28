@@ -1,0 +1,59 @@
+{
+    "appid": "2363370",
+    "type": "Application",
+    "name": "AvaKit",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27168509",
+    "update_time": "2025-01-26 10:27:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,japanese",
+        "hasdepotsindlc": "0",
+        "2363371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2315419482217448441",
+                    "size": "967489716",
+                    "download": "340231088"
+                }
+            },
+            "decryptionkey": "8463818496686081f808a4e8e3c9b50d5465cd31956a05919b863d9028fb4b8c"
+        },
+        "2363372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "747739183708507958",
+                    "size": "1037279996",
+                    "download": "294248704"
+                }
+            },
+            "decryptionkey": "76ff9f8510119f1ee9711459f715d46f7a759cbcf74c53952aa2d65513065e0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14218987",
+                "timeupdated": "1714468570"
+            },
+            "local": {
+                "buildid": "10986350",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1681309342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
