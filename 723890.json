@@ -1,0 +1,75 @@
+{
+    "appid": "723890",
+    "type": "Game",
+    "name": "Don't Make Love",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28977752",
+    "update_time": "2025-05-14 22:43:38",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "723891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1213660428604108796",
+                    "size": "496837208",
+                    "download": "314221360"
+                },
+                "achievement": {
+                    "gid": "3985170224281176757",
+                    "size": "445334669",
+                    "download": "302642048"
+                }
+            },
+            "decryptionkey": "3cd5f15180ec156dc9de31e4ed50e075a33fef0fa2f953b3fa16621303c0c415"
+        },
+        "723892": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7477971659396026357",
+                    "size": "452478167",
+                    "download": "290119984"
+                },
+                "achievement": {
+                    "gid": "1885637131442287523",
+                    "size": "411306459",
+                    "download": "281672832"
+                }
+            },
+            "decryptionkey": "c6a29aabdb22a3f28a1f1028c4a4fa68d371c00f02d56a7f3b0c046517d29aaa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3040646",
+                "timeupdated": "1534498280"
+            },
+            "achievement": {
+                "buildid": "2739198",
+                "description": "to test if achievement is bugged",
+                "timeupdated": "1641544639"
+            }
+        }
+    }
+}
