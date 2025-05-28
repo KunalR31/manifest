@@ -1,0 +1,103 @@
+{
+    "appid": "601360",
+    "type": "Game",
+    "name": "Portal: Revolution",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975409",
+    "update_time": "2025-05-14 22:38:53",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,turkish,brazilian,ukrainian,latam",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "601361": {
+            "manifests": {
+                "public": {
+                    "gid": "7988610923866673849",
+                    "size": "12458800807",
+                    "download": "6444210976"
+                },
+                "1.6.1": {
+                    "gid": "2824461258252095543",
+                    "size": "11419852281",
+                    "download": "5728683728"
+                },
+                "preview": {
+                    "gid": "7988610923866673849",
+                    "size": "12458800807",
+                    "download": "6444210976"
+                }
+            },
+            "decryptionkey": "c585b091c6692f9d8a5cc733c9ea372be00edbe7429019f9316e56ed4b935268"
+        },
+        "601362": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3137960477769240186",
+                    "size": "348263886",
+                    "download": "93956992"
+                },
+                "1.6.1": {
+                    "gid": "862631066976016177",
+                    "size": "348263838",
+                    "download": "93964112"
+                },
+                "preview": {
+                    "gid": "3137960477769240186",
+                    "size": "348263886",
+                    "download": "93956992"
+                }
+            },
+            "decryptionkey": "9ab52f9b922eac1c57d69fb1059c9fdcce20516c2efc82d6db43e063eb6e97c8"
+        },
+        "601363": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4625918216674383223",
+                    "size": "263837500",
+                    "download": "75499984"
+                },
+                "1.6.1": {
+                    "gid": "2560846514299387184",
+                    "size": "263689532",
+                    "download": "75516496"
+                },
+                "preview": {
+                    "gid": "4625918216674383223",
+                    "size": "263837500",
+                    "download": "75499984"
+                }
+            },
+            "decryptionkey": "5608ad50c107578d774e8083d4129f7ef1156222ad2859256a8cb5043e428979"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16912226",
+                "timeupdated": "1736173293"
+            },
+            "1.6.1": {
+                "buildid": "13980398",
+                "description": "Version before anniversary update 1.7.0",
+                "timeupdated": "1736174946"
+            },
+            "preview": {
+                "buildid": "16912226",
+                "description": "Unstable beta",
+                "timeupdated": "1736174955"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
