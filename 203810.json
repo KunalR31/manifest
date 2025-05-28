@@ -1,0 +1,58 @@
+{
+    "appid": "203810",
+    "type": "Game",
+    "name": "Dear Esther",
+    "schinese_name": "亲爱的艾丝特",
+    "isfreeapp": "0",
+    "change_number": "28970158",
+    "update_time": "2025-05-14 07:37:58",
+    "depot": {
+        "203813": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3919517269493997902",
+                    "size": "57450202",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "203813",
+            "decryptionkey": ""
+        },
+        "203812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "299613826712237837",
+                    "size": "1450952831",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d202bf6df26a46b079842266089163431a830e6c818e18a13e54434f8ca8118b"
+        },
+        "203811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4340130866753611411",
+                    "size": "1485648039",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e6cd36473180bcbf2663c5ec165ca495b42fb24cd96e02eddc051e466ab6fc14"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "29916"
+            }
+        }
+    }
+}
