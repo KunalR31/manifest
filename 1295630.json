@@ -1,0 +1,100 @@
+{
+    "appid": "1295630",
+    "type": "Game",
+    "name": "Helskate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29042042",
+    "update_time": "2025-05-18 01:12:51",
+    "depot": {
+        "1295631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "988564252264814042",
+                    "size": "21926332285",
+                    "download": "7287898912"
+                },
+                "beta": {
+                    "gid": "5129854920392365778",
+                    "size": "21926492926",
+                    "download": "7287822496"
+                },
+                "experimental": {
+                    "gid": "2796184742150093033",
+                    "size": "24540533779",
+                    "download": "7967771568"
+                }
+            },
+            "decryptionkey": "77b6ee1f6ff0bac4ea70132e9d60eb7cf9385c64a7cf1d24418c0f8695b3be3b"
+        },
+        "1295632": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7156760548472608958",
+                    "size": "21565151441",
+                    "download": "7085138464"
+                },
+                "beta": {
+                    "gid": "1763531836990775597",
+                    "size": "21565274257",
+                    "download": "7085131008"
+                },
+                "experimental": {
+                    "gid": "4920959701767937974",
+                    "size": "27804320166",
+                    "download": "10765072736"
+                }
+            },
+            "decryptionkey": "c70f23c96a9926564d6c1700385873c7de5d51efe2898786da53a9f1711539cc"
+        },
+        "2843120": {
+            "dlcappid": "2843120",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3589312539417040019",
+                    "size": "57201260",
+                    "download": "52397920"
+                },
+                "beta": {
+                    "gid": "3589312539417040019",
+                    "size": "57201260",
+                    "download": "52397920"
+                },
+                "experimental": {
+                    "gid": "3589312539417040019",
+                    "size": "57201260",
+                    "download": "52397920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17841248",
+                "timeupdated": "1742909694"
+            },
+            "beta": {
+                "buildid": "17809266",
+                "description": "Work in progress features",
+                "timeupdated": "1742563541"
+            },
+            "experimental": {
+                "buildid": "17063903",
+                "description": "Experimental changes to the game",
+                "timeupdated": "1737376481"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
