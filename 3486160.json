@@ -1,0 +1,70 @@
+{
+    "appid": "3486160",
+    "type": "Game",
+    "name": "Critical Point",
+    "schinese_name": "临界点",
+    "isfreeapp": "0",
+    "change_number": "28620568",
+    "update_time": "2025-04-23 19:21:20",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "3486161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5533131768436814657",
+                    "size": "311609767",
+                    "download": "55941616"
+                },
+                "macintosh": {
+                    "gid": "994992364009566581",
+                    "size": "311595559",
+                    "download": "55925408"
+                },
+                "demo": {
+                    "gid": "4142202296046095176",
+                    "size": "175626014",
+                    "download": "47084928"
+                }
+            },
+            "decryptionkey": "4294707af852c199238081711a53ecad02bbce02e72152f2fec6bf0fc6c35ffa"
+        },
+        "3486162": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2814141550100915084",
+                    "size": "371314817",
+                    "download": "71658896"
+                },
+                "macintosh": {
+                    "gid": "2814141550100915084",
+                    "size": "371314817",
+                    "download": "71658896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18206888",
+                "timeupdated": "1745407275"
+            },
+            "macintosh": {
+                "buildid": "18179335",
+                "description": "mac版",
+                "timeupdated": "1745229834"
+            },
+            "demo": {
+                "buildid": "17376147",
+                "description": "demo版本",
+                "timeupdated": "1740112936"
+            }
+        }
+    }
+}
