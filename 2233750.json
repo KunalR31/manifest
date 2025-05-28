@@ -1,0 +1,54 @@
+{
+    "appid": "2233750",
+    "type": "Game",
+    "name": "Koltera",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29010014",
+    "update_time": "2025-05-16 03:18:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2233751": {
+            "manifests": {
+                "public": {
+                    "gid": "4073098112500849599",
+                    "size": "302667292",
+                    "download": "116080256"
+                },
+                "playtest": {
+                    "gid": "1935608414750555233",
+                    "size": "302732825",
+                    "download": "116238000"
+                },
+                "develop": {
+                    "gid": "4073098112500849599",
+                    "size": "302667292",
+                    "download": "116080256"
+                }
+            },
+            "decryptionkey": "8a0a6aefe8076025e122fb91c92ee20472c14a4195f6734c6dec95c3ce91fe79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17309385",
+                "timeupdated": "1739204723"
+            },
+            "playtest": {
+                "buildid": "13672528",
+                "description": "Playtesting new updates",
+                "timeupdated": "1709834032"
+            },
+            "develop": {
+                "buildid": "17309385",
+                "description": "For testing purposes",
+                "timeupdated": "1739204583"
+            }
+        }
+    }
+}
