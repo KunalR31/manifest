@@ -1,0 +1,59 @@
+{
+    "appid": "6100",
+    "type": "Game",
+    "name": "Eets",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23327737",
+    "update_time": "2024-05-24 22:34:22",
+    "depot": {
+        "overridescddb": "1",
+        "6101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6104291619874429980",
+                    "size": "52387701",
+                    "download": "21013184"
+                }
+            },
+            "decryptionkey": "df1de8915ad96c880ed83aa7b1cd045b66f793aba9541b2f6bddc9c98fb4fc40"
+        },
+        "6102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4709127809514521400",
+                    "size": "54929012",
+                    "download": "21731424"
+                }
+            },
+            "decryptionkey": "487d470a959ceec5a9a0206118284ade24808ef319e8f0f2928ccfcc9be49126"
+        },
+        "6103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3488927904535702212",
+                    "size": "55805474",
+                    "download": "21332864"
+                }
+            },
+            "decryptionkey": "1c6af85b427611c8d3d0db66bde55331cc8a6c46a6114cc83bd62d2468f24efb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14196106",
+                "timeupdated": "1714235101"
+            }
+        }
+    }
+}
