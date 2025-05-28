@@ -1,0 +1,55 @@
+{
+    "appid": "1956740",
+    "type": "Game",
+    "name": "Argentum Online",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29044196",
+    "update_time": "2025-05-18 06:36:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,spanish,latam",
+        "1956741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4112644431809562988",
+                    "size": "835731264",
+                    "download": "636630512"
+                },
+                "beta": {
+                    "gid": "6357610654628874309",
+                    "size": "504467858",
+                    "download": "415821232"
+                }
+            },
+            "decryptionkey": "3c35220723f93f124d644ef432bf32f526ff0d9a93d0fee435ec78b16f183c0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18481848",
+                "timeupdated": "1747341136"
+            },
+            "beta": {
+                "buildid": "18505412",
+                "description": "Server Staging (Pre-produccion)",
+                "timeupdated": "1747521367"
+            }
+        }
+    }
+}
