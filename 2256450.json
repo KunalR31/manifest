@@ -1,0 +1,58 @@
+{
+    "appid": "2256450",
+    "type": "Game",
+    "name": "RAM: Random Access Mayhem",
+    "schinese_name": "夺魄机兵",
+    "isfreeapp": "0",
+    "change_number": "29010196",
+    "update_time": "2025-05-16 03:30:48",
+    "depot": {
+        "2256453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5433568422996385052",
+                    "size": "802405739",
+                    "download": "607661648"
+                },
+                "publictest": {
+                    "gid": "1548734199521525329",
+                    "size": "801982619",
+                    "download": "607393360"
+                }
+            }
+        },
+        "2256451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8676928833177843166",
+                    "size": "727800360",
+                    "download": "592183776"
+                },
+                "publictest": {
+                    "gid": "8653233154745606493",
+                    "size": "727377256",
+                    "download": "591973408"
+                }
+            },
+            "decryptionkey": "ec8371e1b75a94f9622381589573abb10cce8477b8364e41f90f8754f4e438c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18416162",
+                "timeupdated": "1746907882"
+            },
+            "publictest": {
+                "buildid": "18415583",
+                "description": "Public Testing",
+                "timeupdated": "1746899363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
