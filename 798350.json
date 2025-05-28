@@ -1,0 +1,66 @@
+{
+    "appid": "798350",
+    "type": "Game",
+    "name": "Capsule Jump",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28978904",
+    "update_time": "2025-05-14 22:45:39",
+    "depot": {
+        "baselanguages": "english,german",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "798351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2804668672119171749",
+                    "size": "430552714",
+                    "download": "324961648"
+                }
+            },
+            "decryptionkey": "e1276d12c73ac78841f61a76373db4b0e5e5bf19620da5d2bd827b2550f694af"
+        },
+        "798352": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4466374741026199642",
+                    "size": "431743609",
+                    "download": "324538112"
+                }
+            },
+            "decryptionkey": "54e3521f67e71c898820768330e73f2d1502f7bb9bdf50866de45963795981d7"
+        },
+        "798353": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7102407504727429510",
+                    "size": "423959503",
+                    "download": "323243312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15252119",
+                "timeupdated": "1722716445"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
