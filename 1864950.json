@@ -1,0 +1,88 @@
+{
+    "appid": "1864950",
+    "type": "Game",
+    "name": "Beastieball",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29030852",
+    "update_time": "2025-05-17 02:49:10",
+    "depot": {
+        "1864951": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "718225548158760542",
+                    "size": "1426203486",
+                    "download": "1209361232"
+                },
+                "april-fools": {
+                    "gid": "5574104390046082997",
+                    "size": "1428027633",
+                    "download": "1193371344"
+                },
+                "experimental": {
+                    "gid": "718225548158760542",
+                    "size": "1426203486",
+                    "download": "1209361232"
+                },
+                "networklog": {
+                    "gid": "7691339848505514156",
+                    "size": "1377199223",
+                    "download": "1199783968"
+                }
+            },
+            "decryptionkey": "c3dda4cc4c3d5cc5b69389a9dd3ed1cce3d643163b4927f5f020972f67caeea0"
+        },
+        "1864952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1206713524625977946",
+                    "size": "1502034434",
+                    "download": "1228602816"
+                },
+                "april-fools": {
+                    "gid": "5685081862995255569",
+                    "size": "1503415893",
+                    "download": "1212557408"
+                },
+                "experimental": {
+                    "gid": "1206713524625977946",
+                    "size": "1502034434",
+                    "download": "1228602816"
+                },
+                "networklog": {
+                    "gid": "1625720811875777802",
+                    "size": "1491345631",
+                    "download": "1221183008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415906",
+                "timeupdated": "1746904378"
+            },
+            "april-fools": {
+                "buildid": "17933999",
+                "description": "april fools!",
+                "timeupdated": "1743480418"
+            },
+            "experimental": {
+                "buildid": "18415907",
+                "description": "For frequent updates + experimental changes",
+                "timeupdated": "1746904387"
+            },
+            "networklog": {
+                "buildid": "17931787",
+                "description": "with network logging for debug",
+                "timeupdated": "1743464405"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
