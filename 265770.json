@@ -1,0 +1,75 @@
+{
+    "appid": "265770",
+    "type": "Game",
+    "name": "Cannons Lasers Rockets",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "24483107",
+    "update_time": "2024-09-17 14:34:30",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265771": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "261307171423574720",
+                    "size": "1278979325",
+                    "download": "592009744"
+                }
+            },
+            "decryptionkey": "8e05f65bb7438213d4109b005ba7a0e585503b27295c65eceab2da127b3bce1c"
+        },
+        "265772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6333108353315871430",
+                    "size": "1277052502",
+                    "download": "582294112"
+                }
+            },
+            "decryptionkey": "7687540a116ea0cb9461f05a567bb78f725de199c61a771a936c3f696a82b7a4"
+        },
+        "265773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6702740390625667674",
+                    "size": "1277752265",
+                    "download": "579415072"
+                }
+            },
+            "decryptionkey": "fc8c0b0c29ef5251f202091c4a186d607d687b4e846aab09816e0dd09a7545ff"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1249898",
+                "timeupdated": "1469709821"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
