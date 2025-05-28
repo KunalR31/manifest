@@ -1,0 +1,61 @@
+{
+    "appid": "2281300",
+    "type": "Game",
+    "name": "沃瑞尔",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29010409",
+    "update_time": "2025-05-16 03:48:48",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2281304": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4727069670940430599",
+                    "size": "4862013090",
+                    "download": "4703344480"
+                }
+            },
+            "decryptionkey": "52048112ec640ff42cc5716ad8747b782f262fd2c451cf51eb8d125532154281"
+        },
+        "2281305": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "518073105643969103",
+                    "size": "230828",
+                    "download": "228848"
+                }
+            },
+            "decryptionkey": "f9fbb507f4a7d3fc32c2dad30d8107996c90f571cc8719d00ce421904a59a26d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10582387",
+                "timeupdated": "1676708781"
+            }
+        }
+    }
+}
