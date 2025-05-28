@@ -1,0 +1,68 @@
+{
+    "appid": "2589200",
+    "type": "Game",
+    "name": "Budget Backrooms",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29013269",
+    "update_time": "2025-05-16 07:30:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2589201": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6846430431101021442",
+                    "size": "1604394873",
+                    "download": "1202969104"
+                },
+                "legacy": {
+                    "gid": "2866845062149627735",
+                    "size": "1082967868",
+                    "download": "760183360"
+                },
+                "nightly-dev": {
+                    "gid": "4339515098990330779",
+                    "size": "2809247868",
+                    "download": "1446213472"
+                }
+            },
+            "decryptionkey": "72ad8979736e497c2e5d565ec3a7c262ee8ae15704ae9abecaf4378fcdadde2f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17627775",
+                "timeupdated": "1741306574"
+            },
+            "legacy": {
+                "buildid": "12436174",
+                "description": "Legacy 0.0.10 Alpha",
+                "timeupdated": "1697217158"
+            },
+            "nightly-dev": {
+                "buildid": "18337815",
+                "description": "Very in-development builds of the game - Unstable - [HAS SPOILERS]",
+                "timeupdated": "1746361409"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
