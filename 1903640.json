@@ -1,0 +1,106 @@
+{
+    "appid": "1903640",
+    "type": "Game",
+    "name": "Hex Rally Racers",
+    "schinese_name": "速爆魔女",
+    "isfreeapp": "1",
+    "change_number": "28362208",
+    "update_time": "2025-04-08 17:17:18",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1903642": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5206675892470946735",
+                    "size": "2026225083",
+                    "download": "1752493664"
+                },
+                "alpha": {
+                    "gid": "2078785866216818951",
+                    "size": "1023247771",
+                    "download": "785703456"
+                },
+                "beta": {
+                    "gid": "3546383510938515150",
+                    "size": "1798398763",
+                    "download": "1526185696"
+                },
+                "daily": {
+                    "gid": "8210355726319317500",
+                    "size": "2026227131",
+                    "download": "1752471312"
+                },
+                "pocg": {
+                    "gid": "7752359141175874593",
+                    "size": "567478725",
+                    "download": "401773712"
+                },
+                "poct": {
+                    "gid": "2282442821123252018",
+                    "size": "600602546",
+                    "download": "434923488"
+                },
+                "vertical_slice": {
+                    "gid": "6153357458227951759",
+                    "size": "742083615",
+                    "download": "509087248"
+                }
+            },
+            "decryptionkey": "b60e4bcf0c180947147c7ed1e9a7a4782ff0775058dea6c93d9e301dcd94569f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8685294",
+                "timeupdated": "1651767915"
+            },
+            "alpha": {
+                "buildid": "8510600",
+                "description": "Alpha Builds",
+                "timeupdated": "1649351747"
+            },
+            "beta": {
+                "buildid": "8637413",
+                "description": "Beta Builds",
+                "timeupdated": "1651156695"
+            },
+            "daily": {
+                "buildid": "8685549",
+                "description": "Daily Builds",
+                "timeupdated": "1651770370"
+            },
+            "pocg": {
+                "buildid": "8303026",
+                "description": "POCG Builds",
+                "timeupdated": "1646251643"
+            },
+            "poct": {
+                "buildid": "8252962",
+                "description": "POCT Builds",
+                "timeupdated": "1645548029"
+            },
+            "vertical_slice": {
+                "buildid": "8425547",
+                "description": "Vertical Slice Builds",
+                "timeupdated": "1648057641"
+            }
+        }
+    }
+}
