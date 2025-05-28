@@ -1,0 +1,62 @@
+{
+    "appid": "437900",
+    "type": "Game",
+    "name": "Party Jousting",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28973443",
+    "update_time": "2025-05-14 12:37:51",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "437901": {
+            "manifests": {
+                "public": {
+                    "gid": "1075132100364062233",
+                    "size": "1004767344",
+                    "download": "119256128"
+                },
+                "commander": {
+                    "gid": "3197768721349188627",
+                    "size": "232673698",
+                    "download": "188947776"
+                },
+                "lootfestwarsmod": {
+                    "gid": "427581855340444083",
+                    "size": "186333822",
+                    "download": "64923152"
+                }
+            },
+            "decryptionkey": "a35d34b75effa16ee7f54908f268bf05134117e0883ae998d10107a179a8006a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17674861",
+                "timeupdated": "1741686082"
+            },
+            "commander": {
+                "buildid": "1742058",
+                "description": "Commander Beta",
+                "timeupdated": "1491580055"
+            },
+            "lootfestwarsmod": {
+                "buildid": "2475586",
+                "description": "Lootfest Wars \"Order\"-Mod",
+                "timeupdated": "1517125741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
