@@ -1,0 +1,130 @@
+{
+    "appid": "750520",
+    "type": "Game",
+    "name": "Arcade Tycoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978083",
+    "update_time": "2025-05-14 22:44:15",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "750521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3904820944487507517",
+                    "size": "1508572057",
+                    "download": "336778592"
+                },
+                "0.6.1_version": {
+                    "gid": "7679002057150766776",
+                    "size": "2043168183",
+                    "download": "449235280"
+                },
+                "1.1_version": {
+                    "gid": "4982500800066131863",
+                    "size": "3081260511",
+                    "download": "575501888"
+                },
+                "test": {
+                    "gid": "3904820944487507517",
+                    "size": "1508572057",
+                    "download": "336778592"
+                }
+            },
+            "decryptionkey": "fa50c87338b89189541bc8e3fddfa6c13be174eb656164f66aaa520167d964f7"
+        },
+        "750522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5678662493817332162",
+                    "size": "3047957454",
+                    "download": "550047408"
+                },
+                "0.6.1_version": {
+                    "gid": "1189993135329541164",
+                    "size": "2009321112",
+                    "download": "424936128"
+                },
+                "1.1_version": {
+                    "gid": "5678662493817332162",
+                    "size": "3047957454",
+                    "download": "550047408"
+                },
+                "test": {
+                    "gid": "5678662493817332162",
+                    "size": "3047957454",
+                    "download": "550047408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1152530": {
+            "manifests": {
+                "public": {
+                    "gid": "7747523266215144965",
+                    "size": "22161731",
+                    "download": "20647744"
+                },
+                "0.6.1_version": {
+                    "gid": "7747523266215144965",
+                    "size": "22161731",
+                    "download": "20647744"
+                },
+                "1.1_version": {
+                    "gid": "7747523266215144965",
+                    "size": "22161731",
+                    "download": "20647744"
+                },
+                "test": {
+                    "gid": "7747523266215144965",
+                    "size": "22161731",
+                    "download": "20647744"
+                }
+            },
+            "dlcappid": "1152530",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13498832",
+                "timeupdated": "1708361255"
+            },
+            "0.6.1_version": {
+                "buildid": "4920883",
+                "timeupdated": "1593097451"
+            },
+            "1.1_version": {
+                "buildid": "9229326",
+                "description": "Use this version to re-visit your old Arcades.",
+                "timeupdated": "1706187589"
+            },
+            "test": {
+                "buildid": "13498832",
+                "description": "test branch",
+                "timeupdated": "1708361228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
