@@ -1,0 +1,55 @@
+{
+    "appid": "496180",
+    "type": "Game",
+    "name": "GE Neuro",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28274046",
+    "update_time": "2025-04-03 02:15:03",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "496181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "756006658317730790",
+                    "size": "1889376002",
+                    "download": "609303376"
+                },
+                "local": {
+                    "gid": "855753157770324803",
+                    "size": "1889380133",
+                    "download": "609341024"
+                }
+            },
+            "decryptionkey": "0143482e8e4cebefa9282afbdc97091d97fe8eaa97a9d1b842e88ffd9d7afd3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1267933",
+                "timeupdated": "1470799729"
+            },
+            "local": {
+                "buildid": "1203150",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1467148315"
+            }
+        }
+    }
+}
