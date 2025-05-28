@@ -1,0 +1,56 @@
+{
+    "appid": "789910",
+    "type": "Game",
+    "name": "Planet of the Apes: Last Frontier",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978768",
+    "update_time": "2025-05-14 22:45:26",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "789911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7151322654564566536",
+                    "size": "20066805983",
+                    "download": "19751112304"
+                },
+                "test": {
+                    "gid": "3863340297606553246",
+                    "size": "20131449520",
+                    "download": "19764778352"
+                }
+            },
+            "decryptionkey": "0ff37e60674b9d687db1304ed7cf7b9d1be166c03a96f63954aaf54df2cc4e1d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2924450",
+                "timeupdated": "1530892620"
+            },
+            "test": {
+                "buildid": "2924507",
+                "description": "Test branch",
+                "timeupdated": "1530892640"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
