@@ -1,0 +1,76 @@
+{
+    "appid": "708990",
+    "type": "Game",
+    "name": "Turtle's Quest",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28788033",
+    "update_time": "2025-05-02 23:32:08",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "708991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "412554637446858910",
+                    "size": "24088697612",
+                    "download": "11896845248"
+                }
+            },
+            "decryptionkey": "2ca2cee3fb53f2fa43f4c72d5b485b501d880911944a58617b00a464dc9e6157"
+        },
+        "709260": {
+            "dlcappid": "709260",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "709260"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4189500954275041268",
+                    "size": "42151030",
+                    "download": "9691184"
+                }
+            }
+        },
+        "1582340": {
+            "dlcappid": "1582340",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6148104251339204490",
+                    "size": "2308431",
+                    "download": "1396464"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6488987",
+                "timeupdated": "1617569581"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
