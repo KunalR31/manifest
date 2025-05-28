@@ -1,0 +1,65 @@
+{
+    "appid": "2560100",
+    "type": "Game",
+    "name": "Midnight Special",
+    "schinese_name": "夜不能魅",
+    "isfreeapp": "0",
+    "change_number": "29037289",
+    "update_time": "2025-05-17 14:15:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2560101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7403732509494373609",
+                    "size": "786771456",
+                    "download": "161482688"
+                }
+            },
+            "decryptionkey": "add18006dc15b2920eff7541b312c553c75a1c728546c857829e1a172d9e6f3f"
+        },
+        "2560102": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8432487816699687504",
+                    "size": "801909832",
+                    "download": "168003792"
+                }
+            }
+        },
+        "2560103": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18404533",
+                "timeupdated": "1747044370"
+            }
+        }
+    }
+}
