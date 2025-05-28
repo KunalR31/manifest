@@ -1,0 +1,66 @@
+{
+    "appid": "872240",
+    "type": "Game",
+    "name": "Nick Beard: The Fedora of Destiny",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28573576",
+    "update_time": "2025-04-21 00:58:10",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "872241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2836028605985211738",
+                    "size": "40225874",
+                    "download": "38249600"
+                },
+                "crash_fix": {
+                    "gid": "698247257630778022",
+                    "size": "40225045",
+                    "download": "38248784"
+                }
+            },
+            "decryptionkey": "7ad4aaffa223bda049dc72bd0f503b86b1443e7bc864eae45a8abae9a5fe14f2"
+        },
+        "872250": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5104575803960203318",
+                    "size": "44406285",
+                    "download": "38418640"
+                },
+                "crash_fix": {
+                    "gid": "5104575803960203318",
+                    "size": "44406285",
+                    "download": "38418640"
+                }
+            },
+            "dlcappid": "872250",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2948238",
+                "timeupdated": "1531715550"
+            },
+            "crash_fix": {
+                "buildid": "2948240",
+                "timeupdated": "1531715601"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
