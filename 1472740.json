@@ -1,0 +1,55 @@
+{
+    "appid": "1472740",
+    "type": "Game",
+    "name": "Das Balkonzimmer",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28462352",
+    "update_time": "2025-04-14 16:08:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1472741": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6157111011987166581",
+                    "size": "1246913006",
+                    "download": "1049211008"
+                },
+                "beta": {
+                    "gid": "2734682171687991456",
+                    "size": "1344281225",
+                    "download": "1052447056"
+                }
+            },
+            "decryptionkey": "ce9eb9af412b651da387a436d15012c65ee6723eaf06b2eead41304c4eb58bc3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6520175",
+                "timeupdated": "1618060440"
+            },
+            "beta": {
+                "buildid": "7046892",
+                "description": "Public beta branch",
+                "timeupdated": "1626589784"
+            }
+        }
+    }
+}
