@@ -1,0 +1,99 @@
+{
+    "appid": "2943070",
+    "type": "Tool",
+    "name": "Desynced Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28999871",
+    "update_time": "2025-05-15 18:24:18",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2943071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "242115078231604182",
+                    "size": "110645214",
+                    "download": "39588016"
+                },
+                "13254_stable": {
+                    "gid": "7810410889684109446",
+                    "size": "109839396",
+                    "download": "38873312"
+                },
+                "14033_stable": {
+                    "gid": "659280308835704442",
+                    "size": "110218772",
+                    "download": "39164560"
+                },
+                "14090_stable": {
+                    "gid": "8783930682976467035",
+                    "size": "110253776",
+                    "download": "39182928"
+                },
+                "14243_stable": {
+                    "gid": "2731499892769152922",
+                    "size": "110244036",
+                    "download": "39179856"
+                },
+                "14754_stable": {
+                    "gid": "922425745255072367",
+                    "size": "110643556",
+                    "download": "39578768"
+                },
+                "experimental_ue5": {
+                    "gid": "983293710652596193",
+                    "size": "110755694",
+                    "download": "39651952"
+                }
+            },
+            "decryptionkey": "80733d32586237f8ab030696c2aa72a65297e942e68717b839e31208d46ae323"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17350803",
+                "timeupdated": "1739446304"
+            },
+            "13254_stable": {
+                "buildid": "14855463",
+                "description": "Desynced Dedicated 0.1.13254",
+                "timeupdated": "1727768471"
+            },
+            "14033_stable": {
+                "buildid": "15953234",
+                "description": "Desynced Dedicated 0.1.14033",
+                "timeupdated": "1730171978"
+            },
+            "14090_stable": {
+                "buildid": "16179337",
+                "description": "Desynced Dedicated 0.1.14090",
+                "timeupdated": "1733987734"
+            },
+            "14243_stable": {
+                "buildid": "16638229",
+                "description": "Desynced Dedicated 0.1.14243",
+                "timeupdated": "1738836562"
+            },
+            "14754_stable": {
+                "buildid": "17264474",
+                "description": "Desynced Dedicated 0.1.14754",
+                "timeupdated": "1739445824"
+            },
+            "experimental_ue5": {
+                "buildid": "18473958",
+                "description": "Experimental Branch, use at your own risk!",
+                "timeupdated": "1747304655"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
