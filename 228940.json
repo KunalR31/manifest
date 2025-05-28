@@ -1,0 +1,81 @@
+{
+    "appid": "228940",
+    "type": "Game",
+    "name": "Carnage Racing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25560439",
+    "update_time": "2024-10-07 09:12:38",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228941": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "589011959909354740",
+                    "size": "2149481803",
+                    "download": "0"
+                },
+                "capture": {
+                    "gid": "2712509719042976600",
+                    "size": "2150158391",
+                    "download": "0"
+                },
+                "staging": {
+                    "gid": "7562647527244795727",
+                    "size": "2154554483",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c4625ef5beb6d6eba986e2991318133e5a6c1fbcb7e7f0da9b13ab3a91f3c184"
+        },
+        "228942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "98258426893884607",
+                    "size": "2154844954",
+                    "download": "0"
+                },
+                "capture": {
+                    "gid": "1589961894857425371",
+                    "size": "2155520433",
+                    "download": "0"
+                },
+                "staging": {
+                    "gid": "6194780133501670906",
+                    "size": "2165813258",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "18ef642b670cd7b9aa5f2960cccfdad0b31236b677d767c3848b22841de7eea9"
+        },
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "142128"
+            },
+            "capture": {
+                "buildid": "144710",
+                "description": "Marketing branch"
+            },
+            "staging": {
+                "buildid": "144937",
+                "description": "Staging build branch"
+            }
+        }
+    }
+}
