@@ -1,0 +1,54 @@
+{
+    "appid": "2218690",
+    "type": "Game",
+    "name": "Monster Hide",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:44",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2218691": {
+            "manifests": {
+                "public": {
+                    "gid": "6852296697813592986",
+                    "size": "5272518262",
+                    "download": "5070701632"
+                },
+                "test": {
+                    "gid": "7849930935679159884",
+                    "size": "5932071747",
+                    "download": "5726940080"
+                }
+            },
+            "decryptionkey": "2d167273098375cc53fc16efa1ee1048d91799117cb6b9dfb1e73585fa33a5a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16674016",
+                "timeupdated": "1733688410"
+            },
+            "test": {
+                "buildid": "16977420",
+                "description": "Experimental",
+                "timeupdated": "1736684517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
