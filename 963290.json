@@ -1,0 +1,56 @@
+{
+    "appid": "963290",
+    "type": "Game",
+    "name": "Heroes of Fortunia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27784684",
+    "update_time": "2025-03-05 08:11:16",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "963291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "506599710247181283",
+                    "size": "1484160166",
+                    "download": "657247920"
+                },
+                "testing": {
+                    "gid": "3845498503574845119",
+                    "size": "1207566519",
+                    "download": "483375616"
+                }
+            },
+            "decryptionkey": "1bd930963c654e15acd6cdaf6308ebcc086bc48a9b250179e0df4628e2949468"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4022617",
+                "timeupdated": "1563445186"
+            },
+            "testing": {
+                "buildid": "5371377",
+                "description": "Public testing branch",
+                "timeupdated": "1596571918"
+            }
+        }
+    }
+}
