@@ -1,0 +1,98 @@
+{
+    "appid": "229520",
+    "type": "Game",
+    "name": "Dungeon Hearts",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24982166",
+    "update_time": "2024-08-29 04:20:21",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229521": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2782838230825082940",
+                    "size": "354083325",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2782838230825082940",
+                    "size": "354083325",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "934e0c1785df339e5c559cadd5e6da260cf81a5c0470d26bcb002a0981eef9cd"
+        },
+        "229522": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7673657333986415489",
+                    "size": "351371987",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7673657333986415489",
+                    "size": "351371987",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "afd5be36e0dc52b71fbd9c40ea76bf6ba5c69ef6e53c634ea4454702104f471f"
+        },
+        "229523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1879565342708546389",
+                    "size": "346585667",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "1879565342708546389",
+                    "size": "346585667",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6eed87041efd203a09187adcdb7512b1c0d694b08f46ead6dc15cd601aacac43"
+        },
+        "229524": {
+            "manifests": {
+                "public": {
+                    "gid": "490984486194607096",
+                    "size": "112124756",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "490984486194607096",
+                    "size": "112124756",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "eae64419680c0b9cc1ddcd14b6098174d59cca102dab79d7f9900fd00ca16c61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "66570"
+            },
+            "beta": {
+                "buildid": "66570",
+                "description": "Beta builds"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
