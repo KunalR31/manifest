@@ -1,0 +1,55 @@
+{
+    "appid": "1763620",
+    "type": "Game",
+    "name": "Obama",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25607063",
+    "update_time": "2024-10-09 04:54:03",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1763621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4678306121409191285",
+                    "size": "1943152894",
+                    "download": "1744033792"
+                },
+                "development": {
+                    "gid": "4678306121409191285",
+                    "size": "1943152894",
+                    "download": "1744033792"
+                }
+            },
+            "decryptionkey": "c146b396e07094f27f8217ef21926f718b69794a258dece72cb98123c7128b4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8285290",
+                "timeupdated": "1646035992"
+            },
+            "development": {
+                "buildid": "8285290",
+                "description": "testing stuff that will likely break everything",
+                "timeupdated": "1646035819"
+            }
+        }
+    }
+}
