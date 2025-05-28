@@ -1,0 +1,56 @@
+{
+    "appid": "1194910",
+    "type": "Game",
+    "name": "Celestial",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29041566",
+    "update_time": "2025-05-18 00:12:19",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1194911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6905172442711373933",
+                    "size": "3425557496",
+                    "download": "1501657600"
+                },
+                "beta105": {
+                    "gid": "6706193591632750877",
+                    "size": "3622332369",
+                    "download": "1252568832"
+                }
+            },
+            "decryptionkey": "89defc13abc5c6261f4ace8d41bb5c82d0f2aa0ab09707e58ab099f97938d46f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4621283",
+                "timeupdated": "1580331765"
+            },
+            "beta105": {
+                "buildid": "5653183",
+                "description": "Celestial Beta 1.0.5",
+                "timeupdated": "1679565584"
+            }
+        }
+    }
+}
