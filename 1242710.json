@@ -1,0 +1,65 @@
+{
+    "appid": "1242710",
+    "type": "Application",
+    "name": "Simplode Suite",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:39:52",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1242711": {
+            "manifests": {
+                "public": {
+                    "gid": "7325367518418384133",
+                    "size": "14274784",
+                    "download": "3748672"
+                },
+                "simplode-suite1.1.1.212": {
+                    "gid": "9188217593068610583",
+                    "size": "12657034",
+                    "download": "3184976"
+                },
+                "1.1.1.719-dot-net-4.6": {
+                    "gid": "1497219026873941939",
+                    "size": "13736299",
+                    "download": "3541952"
+                },
+                "beta": {
+                    "gid": "7325367518418384133",
+                    "size": "14274784",
+                    "download": "3748672"
+                }
+            },
+            "decryptionkey": "991dc459c976019f0de69e24af428efa235952e947055de7afe3944cb0336cdc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16761631",
+                "timeupdated": "1734368869"
+            },
+            "simplode-suite1.1.1.212": {
+                "buildid": "5989917",
+                "description": "Archived version of Simplode Suite (1.1.1.212)",
+                "timeupdated": "1609866004"
+            },
+            "1.1.1.719-dot-net-4.6": {
+                "buildid": "15252785",
+                "description": "latest version running dot net 4.6",
+                "timeupdated": "1724090771"
+            },
+            "beta": {
+                "buildid": "16761631",
+                "description": "Public Beta",
+                "timeupdated": "1734368628"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
