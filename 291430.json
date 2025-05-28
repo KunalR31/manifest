@@ -1,0 +1,73 @@
+{
+    "appid": "291430",
+    "type": "Game",
+    "name": "Lost Marbles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27471413",
+    "update_time": "2025-02-14 10:27:06",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "291431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4143734927026967825",
+                    "size": "329522193",
+                    "download": "126739744"
+                },
+                "local": {
+                    "gid": "3685969483527768533",
+                    "size": "271592515",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "20e1d507ee6ee214bda616a507c43bedd15c1ff1b2eef3e541509309b3b8b05f"
+        },
+        "291432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6941504618553856047",
+                    "size": "354213214",
+                    "download": "128127280"
+                }
+            },
+            "decryptionkey": "5b91c63163e9230642fb7509a38a3f7bcf26806816baa06d14c4071bbde004b1"
+        },
+        "291433": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1095147083457019932",
+                    "size": "333254651",
+                    "download": "128472000"
+                }
+            },
+            "decryptionkey": "2038365d2b9d6bc80657424a73fa368856dd06066a5833fe767cd048955092ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "689930"
+            },
+            "local": {
+                "buildid": "277566",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
