@@ -1,0 +1,68 @@
+{
+    "appid": "111100",
+    "type": "Game",
+    "name": "Snuggle Truck",
+    "schinese_name": "卡车伴侣",
+    "isfreeapp": "0",
+    "change_number": "27988600",
+    "update_time": "2025-03-17 14:54:15",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "111102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4062312711591857793",
+                    "size": "84959328",
+                    "download": "10646516303"
+                }
+            },
+            "decryptionkey": "d8cb021c9ebd294163b23db5b07ab06e529979776b59f4584b482193e7e8d277"
+        },
+        "111101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2478040298995721821",
+                    "size": "76793658",
+                    "download": "6463547888"
+                }
+            },
+            "decryptionkey": "776b5f47a73f4aa4a362151106c10a694f0a48b0a1518ad6846bbce55581253c"
+        },
+        "111103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1076675499747206971",
+                    "size": "82077385",
+                    "download": "5493759603"
+                }
+            },
+            "decryptionkey": "283a88e4f2d8f66cd162a714fb97ecb00ca2a8bdfef20b4766ce3a4576cb2036"
+        },
+        "branches": {
+            "public": {
+                "buildid": "433762"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
