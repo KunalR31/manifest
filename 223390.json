@@ -1,0 +1,53 @@
+{
+    "appid": "223390",
+    "type": "Game",
+    "name": "Forge",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-24 10:23:16",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "223391": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4171019257850455378",
+                    "size": "2467675979",
+                    "download": "4221331752792"
+                },
+                "local": {
+                    "gid": "2807589923665540200",
+                    "size": "2506040930",
+                    "download": "1256703918542"
+                }
+            },
+            "decryptionkey": "d82d304df5297acdd65e5fbe716624b4228198967948094737ffcda5e58c6b45"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "323699"
+            },
+            "local": {
+                "buildid": "346180",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
