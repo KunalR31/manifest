@@ -1,0 +1,56 @@
+{
+    "appid": "1135560",
+    "type": "Game",
+    "name": "The Thing at the Window",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28984279",
+    "update_time": "2025-05-14 23:40:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1135561": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2831509628309794401",
+                    "size": "1379499843",
+                    "download": "510968768"
+                },
+                "devbranch": {
+                    "gid": "2831509628309794401",
+                    "size": "1379499843",
+                    "download": "510968768"
+                }
+            },
+            "decryptionkey": "24061375b4518fb9814fe154bcd30c73f8412867e4eab3d687bd5ff536ba292a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9817422",
+                "timeupdated": "1666919714"
+            },
+            "devbranch": {
+                "buildid": "9817422",
+                "description": "latest development branch",
+                "timeupdated": "1666919485"
+            }
+        }
+    }
+}
