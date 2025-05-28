@@ -1,0 +1,60 @@
+{
+    "appid": "219830",
+    "type": "Game",
+    "name": "King Arthur's Gold",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970368",
+    "update_time": "2025-05-14 07:57:47",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "markdlcdepots": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "219831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2280509142935405328",
+                    "size": "73016269",
+                    "download": "48747280"
+                }
+            },
+            "decryptionkey": "9d780caa23fc0766cb83471cb789817fc380ea3585e7789667537071ff2b7647"
+        },
+        "219833": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9124840660894079671",
+                    "size": "73833619",
+                    "download": "45243200"
+                }
+            },
+            "decryptionkey": "94ea56defd8bfe40ec5f1626f63ff477f4d9f1a1fe60166c317a068712a2bc7f"
+        },
+        "219834": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14246457",
+                "timeupdated": "1714668808"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
