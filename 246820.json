@@ -1,0 +1,65 @@
+{
+    "appid": "246820",
+    "type": "Game",
+    "name": "Jeklynn Heights",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970735",
+    "update_time": "2025-05-14 08:27:53",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "246821": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "551202132442970083",
+                    "size": "1113002194",
+                    "download": "813316720"
+                },
+                "local": {
+                    "gid": "7080018516325419905",
+                    "size": "650525113",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8bcc1a83fbdcfb31004779d69e5cb6b70670ca3b5b7505c23d1229c3da45d01f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1194430",
+                "timeupdated": "1466660548"
+            },
+            "local": {
+                "buildid": "230270",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
