@@ -1,0 +1,72 @@
+{
+    "appid": "286100",
+    "type": "Game",
+    "name": "You Have to Win the Game",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971347",
+    "update_time": "2025-05-14 09:27:54",
+    "depot": {
+        "overridescddb": "1",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "286101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3899172951100721335",
+                    "size": "9636574",
+                    "download": "2904016"
+                }
+            },
+            "decryptionkey": "1210131ed45546bd486be0675af242fd0be49e712a9ee27c935abd091c69b10a"
+        },
+        "286102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4419047995937578704",
+                    "size": "14424682",
+                    "download": "4075712"
+                }
+            },
+            "decryptionkey": "2b64ae0d7bd890d3a12ebb4d778321fada7f341aaf353e716ef3d65ea6aaaa52"
+        },
+        "286103": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6203831226390819435",
+                    "size": "10801221",
+                    "download": "3095152"
+                }
+            },
+            "decryptionkey": "e21913704fe5ce2335fecf1a789a12c6d4aa0e46e9fc10b9a9f73b016c93f358"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8691972",
+                "timeupdated": "1651848074"
+            }
+        }
+    }
+}
