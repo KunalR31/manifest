@@ -1,0 +1,122 @@
+{
+    "appid": "1702990",
+    "type": "Game",
+    "name": "Legend of the Outlaw Mage",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28989266",
+    "update_time": "2025-05-15 04:39:51",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1702991": {
+            "manifests": {
+                "public": {
+                    "gid": "7518283029137720831",
+                    "size": "1810729220",
+                    "download": "1199497664"
+                },
+                "automaticbuilds": {
+                    "gid": "9138248774088987344",
+                    "size": "1345704646",
+                    "download": "1095753504"
+                },
+                "rc2-v6.9.0": {
+                    "gid": "7643455145164217544",
+                    "size": "1347494924",
+                    "download": "1097529296"
+                },
+                "rc3-v0.6.10": {
+                    "gid": "7771055527457280438",
+                    "size": "1347524256",
+                    "download": "1097530352"
+                },
+                "rc4-v0.6.13": {
+                    "gid": "8647881293794544170",
+                    "size": "1347443656",
+                    "download": "1097505456"
+                },
+                "rc5-v0.6.14": {
+                    "gid": "4850347034191871705",
+                    "size": "1345712838",
+                    "download": "1095742160"
+                },
+                "rc6-v0.6.15": {
+                    "gid": "3292078875019603286",
+                    "size": "1345714886",
+                    "download": "1095781120"
+                },
+                "rc7-v0.6.17": {
+                    "gid": "9138248774088987344",
+                    "size": "1345704646",
+                    "download": "1095753504"
+                },
+                "testbuilds": {
+                    "gid": "7518283029137720831",
+                    "size": "1810729220",
+                    "download": "1199497664"
+                }
+            },
+            "decryptionkey": "29b51d8448a9df43ef29be7e0fa01911a6284afcb1a62738bbf9d9a111882c4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8311850",
+                "timeupdated": "1646872516"
+            },
+            "automaticbuilds": {
+                "buildid": "7875399",
+                "description": "Builds built from the automated build scripts",
+                "timeupdated": "1639412416"
+            },
+            "rc2-v6.9.0": {
+                "buildid": "7838158",
+                "description": "Release Candidate 2: Version 0.6.9",
+                "timeupdated": "1638922672"
+            },
+            "rc3-v0.6.10": {
+                "buildid": "7844891",
+                "description": "Release Candidate 3: Version 0.6.10",
+                "timeupdated": "1638993205"
+            },
+            "rc4-v0.6.13": {
+                "buildid": "7857363",
+                "description": "Release Candidate 4: Version 0.6.13",
+                "timeupdated": "1639346513"
+            },
+            "rc5-v0.6.14": {
+                "buildid": "7872138",
+                "description": "Release Candidate 5: Version 0.6.14",
+                "timeupdated": "1639366869"
+            },
+            "rc6-v0.6.15": {
+                "buildid": "7875007",
+                "description": "Release Candidate 6: Version 0.6.15",
+                "timeupdated": "1639408898"
+            },
+            "rc7-v0.6.17": {
+                "buildid": "7875399",
+                "description": "Release Candidate 7: Version 0.6.17",
+                "timeupdated": "1639412600"
+            },
+            "testbuilds": {
+                "buildid": "8311850",
+                "description": "non-automated test builds for internal use only",
+                "timeupdated": "1646363247"
+            }
+        }
+    }
+}
