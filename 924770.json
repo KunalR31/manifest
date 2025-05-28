@@ -1,0 +1,77 @@
+{
+    "appid": "924770",
+    "type": "Application",
+    "name": "Colory VR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28621593",
+    "update_time": "2025-04-23 20:19:19",
+    "depot": {
+        "workshopdepot": "924770",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "924771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1439577335158905849",
+                    "size": "2614800041",
+                    "download": "716294320"
+                },
+                "beta": {
+                    "gid": "2182237958624767327",
+                    "size": "3579625826",
+                    "download": "1133992432"
+                }
+            },
+            "decryptionkey": "951c394947df6640389ee6dfc645d3a3861d1f12becb028088bb954f873efe96"
+        },
+        "1452620": {
+            "manifests": {
+                "public": {
+                    "gid": "6647325402304512702",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6647325402304512702",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1452620",
+            "decryptionkey": ""
+        },
+        "1550981": {
+            "dlcappid": "1550980"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5769894",
+                "timeupdated": "1604285204"
+            },
+            "beta": {
+                "buildid": "6521186",
+                "description": "beta build of next versions",
+                "timeupdated": "1618088590"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
