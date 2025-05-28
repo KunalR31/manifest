@@ -1,0 +1,61 @@
+{
+    "appid": "8500",
+    "type": "Game",
+    "name": "EVE Online",
+    "schinese_name": "星战前夜",
+    "isfreeapp": "1",
+    "change_number": "28990386",
+    "update_time": "2025-05-15 05:58:25",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8782296191957114623",
+                    "size": "29759921",
+                    "download": "23045488"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5"
+        },
+        "8503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1884646023825989415",
+                    "size": "602753335",
+                    "download": "227331952"
+                }
+            },
+            "decryptionkey": "5c1802653b1a7b773e0611da0582add68784999ecc329ad20da788fe6825339f"
+        },
+        "8501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6578240004614885660",
+                    "size": "401065950",
+                    "download": "164887504"
+                }
+            },
+            "decryptionkey": "c566ea8e7e68fe163d7758b78b008c027d90bd8d74760589f03048805054cae8"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "18387614",
+                "timeupdated": "1746704717"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
