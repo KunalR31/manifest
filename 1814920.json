@@ -1,0 +1,80 @@
+{
+    "appid": "1814920",
+    "type": "Game",
+    "name": "Bombyx",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25608180",
+    "update_time": "2024-10-09 05:14:48",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1814923": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1892631733873607625",
+                    "size": "6111285375",
+                    "download": "1918660336"
+                },
+                "fuzion": {
+                    "gid": "1892631733873607625",
+                    "size": "6111285375",
+                    "download": "1918660336"
+                }
+            },
+            "decryptionkey": "b6b06ef910b0536d8035be3ccf6aa690207ef5f137efadffae110a41c45fefbb"
+        },
+        "2091590": {
+            "dlcappid": "2091590",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "2219550": {
+            "dlcappid": "2219550",
+            "manifests": {
+                "public": {
+                    "gid": "1712075284320777908",
+                    "size": "513903969",
+                    "download": "405110064"
+                },
+                "fuzion": {
+                    "gid": "1712075284320777908",
+                    "size": "513903969",
+                    "download": "405110064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11100956",
+                "timeupdated": "1682564024"
+            },
+            "fuzion": {
+                "buildid": "11100956",
+                "description": "fuzion DLC branch",
+                "timeupdated": "1682563813"
+            }
+        }
+    }
+}
