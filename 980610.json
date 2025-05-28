@@ -1,0 +1,105 @@
+{
+    "appid": "980610",
+    "type": "Game",
+    "name": "Quaver",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28981801",
+    "update_time": "2025-05-14 22:50:46",
+    "depot": {
+        "workshopdepot": "980610",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "980611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "811488699276589625",
+                    "size": "219407379",
+                    "download": "120745216"
+                },
+                "canary": {
+                    "gid": "8223084585114017922",
+                    "size": "219822683",
+                    "download": "120699664"
+                }
+            },
+            "decryptionkey": "418d82ef5ebf260ca48ddd96c01c1367ea2537b6367673b191ed585e25bb13c9"
+        },
+        "980613": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7229752496587933262",
+                    "size": "219761439",
+                    "download": "120018000"
+                },
+                "canary": {
+                    "gid": "8272556580112015884",
+                    "size": "219748853",
+                    "download": "119815728"
+                }
+            },
+            "decryptionkey": "a93064f352649bfe89c511446784777b7d1e33651c7c7233ecc9ceb882ec803a"
+        },
+        "980612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6969804376395539680",
+                    "size": "220030102",
+                    "download": "120298032"
+                },
+                "canary": {
+                    "gid": "3936373880180768655",
+                    "size": "219913196",
+                    "download": "120110032"
+                }
+            },
+            "decryptionkey": "495de73db17a910672e29996fb7c6aee64bfd7429cfb3a516faffc490749fca6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17016995",
+                "timeupdated": "1737752001"
+            },
+            "canary": {
+                "buildid": "18250592",
+                "description": "Canary Testing",
+                "timeupdated": "1745687746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
