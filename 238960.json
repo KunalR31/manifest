@@ -1,0 +1,79 @@
+{
+    "appid": "238960",
+    "type": "Game",
+    "name": "Path of Exile",
+    "schinese_name": "流放之路",
+    "isfreeapp": "1",
+    "change_number": "28992640",
+    "update_time": "2025-05-15 09:10:42",
+    "depot": {
+        "depotdeltapatches": "1",
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "238961": {
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8672487593871917758",
+                    "size": "48401980886",
+                    "download": "47731900544"
+                },
+                "local": {
+                    "gid": "5835722125312717334",
+                    "size": "4280422222",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8319cbd1718aa9f81b90037841ffe877f7e6c84e18cd42995a0b78e997d056e5"
+        },
+        "238962": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3079567218041107533",
+                    "size": "97342952",
+                    "download": "30132832"
+                }
+            },
+            "decryptionkey": "d48bb40c224da3beff055dce713045517e9786f9503d6bc4910a32b29f5b7aa7"
+        },
+        "238963": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5901001141450464317",
+                    "size": "99008929",
+                    "download": "26735968"
+                }
+            },
+            "decryptionkey": "b9ae6523b9469329a2647f1c754f994b3381b188105ca5accefda3df6a2e6fc2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440246",
+                "timeupdated": "1747271439"
+            },
+            "local": {
+                "buildid": "120055",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
