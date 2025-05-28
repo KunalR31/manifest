@@ -1,0 +1,95 @@
+{
+    "appid": "277930",
+    "type": "Game",
+    "name": "TUG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26237594",
+    "update_time": "2024-11-18 09:23:15",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "277932": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8241731615133115255",
+                    "size": "2844783846",
+                    "download": "845422752"
+                },
+                "indev": {
+                    "gid": "8241731615133115255",
+                    "size": "2844783846",
+                    "download": "845422752"
+                }
+            },
+            "decryptionkey": "2e67f8cacda50fcff9461c4227d7598bd0dfb7cf26af83adae7ca0e1cf6fff07"
+        },
+        "277931": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7536245492328737596",
+                    "size": "2852860134",
+                    "download": "846837792"
+                },
+                "indev": {
+                    "gid": "7536245492328737596",
+                    "size": "2852860134",
+                    "download": "846837792"
+                }
+            },
+            "decryptionkey": "c02319b9b543a2c7e5f0e27b026859337bf7c510aa4d806873008f3babed8bfa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "900210"
+            },
+            "indev": {
+                "buildid": "900210",
+                "description": "InDev branch"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
