@@ -1,0 +1,60 @@
+{
+    "appid": "1632020",
+    "type": "Game",
+    "name": "4Prot",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28060634",
+    "update_time": "2025-03-21 07:04:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "1632021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4905168609917926936",
+                    "size": "1334663422",
+                    "download": "913890160"
+                }
+            },
+            "decryptionkey": "09afd910eae4785a99df597e4116abad1ac4537ae4e488f1b44194be725bad0e"
+        },
+        "1632022": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7192510242148977729",
+                    "size": "1377666290",
+                    "download": "926651648"
+                }
+            },
+            "decryptionkey": "21214a5113f68bd10b6147620d7d45e04e7f367a2bb9c621050e878508db0581"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17800948",
+                "timeupdated": "1742509980"
+            }
+        }
+    }
+}
