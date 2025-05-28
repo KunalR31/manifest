@@ -1,0 +1,71 @@
+{
+    "appid": "401970",
+    "type": "Game",
+    "name": "Hypatia",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28061150",
+    "update_time": "2025-03-21 07:20:36",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "401971": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3410384932121685477",
+                    "size": "7443914415",
+                    "download": "6528145456"
+                },
+                "local": {
+                    "gid": "4683286835531681989",
+                    "size": "9467174181",
+                    "download": "9132986080"
+                }
+            },
+            "decryptionkey": "9650397fce052818b8dbc63eb6344fb55deb602839576ea8d3f3ac16a083493c"
+        },
+        "401972": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1486538539776772953",
+                    "size": "8603964595",
+                    "download": "6928515968"
+                }
+            },
+            "decryptionkey": "a403e3c1ff5bbbef6aaf16729500062c0acc61dbd171ee32ce92cfe586e05af4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5824009",
+                "timeupdated": "1605236427"
+            },
+            "local": {
+                "buildid": "1878017",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1496964029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
