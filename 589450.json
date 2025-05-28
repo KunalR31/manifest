@@ -1,0 +1,74 @@
+{
+    "appid": "589450",
+    "type": "Game",
+    "name": "Where Cards Fall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495792",
+    "update_time": "2025-04-16 05:27:31",
+    "depot": {
+        "589451": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3510960947496998964",
+                    "size": "1071948372",
+                    "download": "429782528"
+                },
+                "qa-dev": {
+                    "gid": "8060341444814742751",
+                    "size": "1816951031",
+                    "download": "504352224"
+                },
+                "qa-release": {
+                    "gid": "4555988589433496053",
+                    "size": "1791684978",
+                    "download": "499529840"
+                }
+            },
+            "decryptionkey": "bb63f58611fbafa3b55618d3de9fc6b8d15baf6bf0ba8b752d0432941394c0a3"
+        },
+        "589452": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1139178312755036572",
+                    "size": "993482680",
+                    "download": "426065184"
+                },
+                "qa-dev": {
+                    "gid": "1139178312755036572",
+                    "size": "993482680",
+                    "download": "426065184"
+                },
+                "qa-release": {
+                    "gid": "1139178312755036572",
+                    "size": "993482680",
+                    "download": "426065184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7666345",
+                "timeupdated": "1636392585"
+            },
+            "qa-dev": {
+                "buildid": "6622232",
+                "description": "Development builds, error console, not as performant",
+                "timeupdated": "1619712300"
+            },
+            "qa-release": {
+                "buildid": "6872602",
+                "timeupdated": "1623770128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
