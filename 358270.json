@@ -1,0 +1,58 @@
+{
+    "appid": "358270",
+    "type": "Game",
+    "name": "Death Rally (Classic)",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28972338",
+    "update_time": "2025-05-14 10:57:46",
+    "depot": {
+        "358271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1672872052065671997",
+                    "size": "47234154",
+                    "download": "42913888"
+                }
+            },
+            "decryptionkey": "e54c35883ac1d54735f0ebe423087f25931862b644c5e1b22a7c5ad819a61455"
+        },
+        "358272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2408234543850803240",
+                    "size": "518735576",
+                    "download": "216191392"
+                }
+            },
+            "decryptionkey": "8fddce0943bcb21c53e84c05000c0c5082f6ae9e1c29dae0077a08fa3e9d185c"
+        },
+        "358273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7251996783557642769",
+                    "size": "64955238",
+                    "download": "55629712"
+                }
+            }
+        },
+        "358282": {
+            "depotfromapp": "358280",
+            "sharedinstall": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "607265"
+            }
+        }
+    }
+}
