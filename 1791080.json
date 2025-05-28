@@ -1,0 +1,54 @@
+{
+    "appid": "1791080",
+    "type": "Game",
+    "name": "Phantom-OS",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28303473",
+    "update_time": "2025-04-04 15:16:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1791081": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6058482584527820679",
+                    "size": "7104303174",
+                    "download": "6350444464"
+                },
+                "dev_test": {
+                    "gid": "5970489951176958186",
+                    "size": "7889140895",
+                    "download": "6894113152"
+                }
+            },
+            "decryptionkey": "82f7762af1d1071d4ffdc43b448f160e95f1f8f7a21f5b0f6f42bb8be50656ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11288299",
+                "timeupdated": "1684766461"
+            },
+            "dev_test": {
+                "buildid": "15163218",
+                "description": "for testing unstable builds of the game",
+                "timeupdated": "1721999792"
+            }
+        }
+    }
+}
