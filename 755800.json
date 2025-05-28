@@ -1,0 +1,66 @@
+{
+    "appid": "755800",
+    "type": "Game",
+    "name": "Hades' Star",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28978274",
+    "update_time": "2025-05-14 22:44:34",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "755801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6008388886154157336",
+                    "size": "494348673",
+                    "download": "131302224"
+                }
+            },
+            "decryptionkey": "55e6f6e188fd033ea0e95bbf4d8b87e978cab64dd28d4b7b06a0fef94db2c5f1"
+        },
+        "755802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6279350712306617219",
+                    "size": "701854120",
+                    "download": "161295888"
+                }
+            },
+            "decryptionkey": "14a431464811bb8851523e443479c54830f0f60a46fe81101eced8177a972e1c"
+        },
+        "755803": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2757951003204829822",
+                    "size": "637268498",
+                    "download": "148929984"
+                }
+            },
+            "decryptionkey": "a0e50473748d0bb52bdc2f8f4015e46e5737f6e2ec28024ef96ad3bfec5676e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18013817",
+                "timeupdated": "1744042393"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
