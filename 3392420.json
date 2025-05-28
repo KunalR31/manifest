@@ -1,0 +1,59 @@
+{
+    "appid": "3392420",
+    "type": "Game",
+    "name": "GeckoShop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984825",
+    "update_time": "2025-05-15 00:07:24",
+    "depot": {
+        "3392421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7291585952006108068",
+                    "size": "1649861913",
+                    "download": "157194816"
+                },
+                "beta": {
+                    "gid": "3616723749851984603",
+                    "size": "1640516489",
+                    "download": "157000768"
+                }
+            },
+            "decryptionkey": "532c60a8d162c91f6d4f8df8fb3332ed631467c57ec5db3bfd3717d804820c1f"
+        },
+        "3392422": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3227689815345047849",
+                    "size": "1662743616",
+                    "download": "160514288"
+                },
+                "beta": {
+                    "gid": "3513012050918355242",
+                    "size": "1652888456",
+                    "download": "160294640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18380315",
+                "timeupdated": "1746653284"
+            },
+            "beta": {
+                "buildid": "18364740",
+                "description": "Playtest new features",
+                "timeupdated": "1746563353"
+            }
+        }
+    }
+}
