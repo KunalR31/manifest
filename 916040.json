@@ -1,0 +1,77 @@
+{
+    "appid": "916040",
+    "type": "Game",
+    "name": "SFD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28248492",
+    "update_time": "2025-04-01 20:51:10",
+    "depot": {
+        "baselanguages": "english",
+        "916041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2660165357782254299",
+                    "size": "101272705",
+                    "download": "86321504"
+                },
+                "beta_build": {
+                    "gid": "1208552328240485127",
+                    "size": "103622574",
+                    "download": "87772432"
+                }
+            },
+            "decryptionkey": "6f34b690056eb05e52ef16e44afaad07f93bad7c2d304031d09d4771785789aa"
+        },
+        "916042": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2341220381660649271",
+                    "size": "118309390",
+                    "download": "92006736"
+                },
+                "beta_build": {
+                    "gid": "6206007706561775026",
+                    "size": "118430079",
+                    "download": "92123888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "916043": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8005023514219205995",
+                    "size": "111417385",
+                    "download": "88140272"
+                },
+                "beta_build": {
+                    "gid": "2696124701116587069",
+                    "size": "111522274",
+                    "download": "88257584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9922284",
+                "timeupdated": "1668225505"
+            },
+            "beta_build": {
+                "buildid": "9520737",
+                "description": "Beta build",
+                "timeupdated": "1663225347"
+            }
+        }
+    }
+}
