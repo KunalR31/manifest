@@ -1,0 +1,90 @@
+{
+    "appid": "886630",
+    "type": "Game",
+    "name": "GlitchPets",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28685523",
+    "update_time": "2025-04-27 02:51:28",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "886634": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3996277285713534166",
+                    "size": "5524868127",
+                    "download": "4163773440"
+                },
+                "linux": {
+                    "gid": "2997874270958594508",
+                    "size": "3386427237",
+                    "download": "2961298272"
+                },
+                "gpbeta": {
+                    "gid": "1427579784529918518",
+                    "size": "2209307397",
+                    "download": "1723941312"
+                }
+            },
+            "decryptionkey": "1609f035de75cefcf3ba772e184176aa05a8e7f25431363acaeba7d177a7e2fd"
+        },
+        "1031455": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "886639": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "1817821304370561849",
+                    "size": "3869499971",
+                    "download": "3086878464"
+                }
+            },
+            "decryptionkey": "057727d1fe1d1598a87fb2b668ee91f43b978db86f2d15e8aea3002342f00942"
+        },
+        "886638": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18251416",
+                "timeupdated": "1745693484"
+            },
+            "linux": {
+                "buildid": "3881962",
+                "timeupdated": "1559532131"
+            },
+            "gpbeta": {
+                "buildid": "15107668",
+                "description": "not live build",
+                "timeupdated": "1721615679"
+            }
+        }
+    }
+}
