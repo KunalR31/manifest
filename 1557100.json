@@ -1,0 +1,60 @@
+{
+    "appid": "1557100",
+    "type": "Game",
+    "name": "Out Of The Shelter",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25602444",
+    "update_time": "2024-10-09 03:29:32",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1557101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5484341127591817228",
+                    "size": "2252766885",
+                    "download": "847629520"
+                }
+            },
+            "decryptionkey": "8977609907e3debe5a5168fc9180b6495d6532c6e56db01d5103e9ab1d6f34ef"
+        },
+        "1557102": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4562559208823008177",
+                    "size": "2218008022",
+                    "download": "825577536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6464717",
+                "timeupdated": "1617127141"
+            }
+        }
+    }
+}
