@@ -1,0 +1,65 @@
+{
+    "appid": "2358050",
+    "type": "Game",
+    "name": "Graalonline Era",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28986122",
+    "update_time": "2025-05-15 01:15:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "2358052": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6742942663716424724",
+                    "size": "213857702",
+                    "download": "84822592"
+                }
+            },
+            "decryptionkey": "90ed616dd0a5425fcf961e20c0caadbde39941c0206de59d0847e5aa264da6f1"
+        },
+        "2358053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6079129420747098735",
+                    "size": "694298258",
+                    "download": "121786560"
+                }
+            },
+            "decryptionkey": "349f9ddabbab311726252741adb8052ab3aa3042105b3488a6171f95a9ca293b"
+        },
+        "2358051": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4549705365142872780",
+                    "size": "377728488",
+                    "download": "74041472"
+                }
+            },
+            "decryptionkey": "58406ec2f265c7276875ec729abf858dcd236ac164b35137e3b1ccf3848dd374"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16859063",
+                "timeupdated": "1735286457"
+            }
+        }
+    }
+}
