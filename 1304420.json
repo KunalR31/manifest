@@ -1,0 +1,77 @@
+{
+    "appid": "1304420",
+    "type": "Game",
+    "name": "Super Cable Boy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986082",
+    "update_time": "2025-05-15 01:13:23",
+    "depot": {
+        "1304421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7917936013979511964",
+                    "size": "321086698",
+                    "download": "138387648"
+                },
+                "publictest": {
+                    "gid": "3648506940422904249",
+                    "size": "321022133",
+                    "download": "138380720"
+                }
+            },
+            "decryptionkey": "e205c5d1ccb77b76236c986af6b1a9b1af9e7d24f8058bcc61dd7c1f38a7ae32"
+        },
+        "1304422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2968495499054063421",
+                    "size": "343624649",
+                    "download": "144850288"
+                },
+                "publictest": {
+                    "gid": "2968495499054063421",
+                    "size": "343624649",
+                    "download": "144850288"
+                }
+            },
+            "decryptionkey": "cede9ebc8366156631343b3e5b9d3e1a3b40cca3e2d76b3944dfc77a6807927e"
+        },
+        "1304423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5186383594791330393",
+                    "size": "320953019",
+                    "download": "136944192"
+                },
+                "publictest": {
+                    "gid": "5186383594791330393",
+                    "size": "320953019",
+                    "download": "136944192"
+                }
+            },
+            "decryptionkey": "6f18ee04adb191661ab43a2960f2f339c59ef43308dd73a8756b030b648f1164"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15533682",
+                "timeupdated": "1724946507"
+            },
+            "publictest": {
+                "buildid": "13281351",
+                "description": "public test branch",
+                "timeupdated": "1706268771"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
