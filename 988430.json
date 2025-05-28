@@ -1,0 +1,84 @@
+{
+    "appid": "988430",
+    "type": "Game",
+    "name": "Lightseekers",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28981801",
+    "update_time": "2025-05-14 22:50:44",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "988431": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4517484224442194278",
+                    "size": "103740385",
+                    "download": "27340656"
+                },
+                "local": {
+                    "gid": "1561635582853764081",
+                    "size": "244155520",
+                    "download": "49057504"
+                },
+                "nightly": {
+                    "gid": "1561635582853764081",
+                    "size": "244155520",
+                    "download": "49057504"
+                }
+            },
+            "decryptionkey": "05088f1c4ed1f8f62eac170ff4c9c7dde48cc77858ba6490b0a02d8547ac1f96"
+        },
+        "988432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7660804533309785073",
+                    "size": "100936275",
+                    "download": "26591856"
+                },
+                "local": {
+                    "gid": "2354596588866116147",
+                    "size": "118389251",
+                    "download": "30571120"
+                },
+                "nightly": {
+                    "gid": "2354596588866116147",
+                    "size": "118389251",
+                    "download": "30571120"
+                }
+            },
+            "decryptionkey": "4268ff757cdec7df66784c74d251b6c330e62df1e70e1d3382bee9d9352d05a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4496477",
+                "timeupdated": "1576598612"
+            },
+            "local": {
+                "buildid": "5018714",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1589333311"
+            },
+            "nightly": {
+                "buildid": "5018714",
+                "lcsrequired": "1",
+                "timeupdated": "1589333359"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
