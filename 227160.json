@@ -1,0 +1,94 @@
+{
+    "appid": "227160",
+    "type": "Game",
+    "name": "Kinetic Void",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26870304",
+    "update_time": "2025-01-06 05:07:18",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "workshopdepot": "227160",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227163": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7590741231342606234",
+                    "size": "1737720314",
+                    "download": "784694576"
+                }
+            },
+            "decryptionkey": "6632bb6b073ddce1f805d6019bfca359576423506dc296cb265df387b2123e5f"
+        },
+        "227162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5280930596220895965",
+                    "size": "1748797865",
+                    "download": "785467168"
+                }
+            },
+            "decryptionkey": "236d7d68d5faf5a2c604a23c9b70f1f5a3483bca620dd01751d44d927730b0fa"
+        },
+        "227161": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1254237677574527865",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2857ea2a99e98f1f408350420baa3ba2b252d4b035b13d64f570f2eacd32587f"
+        },
+        "227164": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1521793161082459431",
+                    "size": "1718274715",
+                    "download": "776307584"
+                }
+            },
+            "decryptionkey": "f9aad302855f21ba8abcf7e7253230137a9522d5bb66b3548ae9abc4ea87c1d9"
+        },
+        "227165": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6710318305203941530",
+                    "size": "1721719451",
+                    "download": "777275616"
+                }
+            },
+            "decryptionkey": "b8ef3835fa63c28703092c52c21b0926ac28abb6744ca02f184c32f5ab0a3808"
+        },
+        "branches": {
+            "public": {
+                "buildid": "510383"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
