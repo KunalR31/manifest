@@ -1,0 +1,84 @@
+{
+    "appid": "512470",
+    "type": "Game",
+    "name": "The Pirate: Caribbean Hunt",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28974216",
+    "update_time": "2025-05-14 13:57:47",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "512471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5035065966200066230",
+                    "size": "161999970",
+                    "download": "47140144"
+                },
+                "ver9.6": {
+                    "gid": "8890599852226073325",
+                    "size": "153587552",
+                    "download": "44094112"
+                }
+            },
+            "decryptionkey": "80bf6914a3a54e1e2a6f9c57d6085d5c16b8ab9e266d98b5e9530a72e139599e"
+        },
+        "512472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4656262472283598704",
+                    "size": "188327940",
+                    "download": "56546736"
+                },
+                "ver9.6": {
+                    "gid": "7346840142363121516",
+                    "size": "147218801",
+                    "download": "41202832"
+                }
+            },
+            "decryptionkey": "a09da5e86af70dd0c9f19bd38ef56640365afaaeaef788f994cfb50a190d1912"
+        },
+        "512473": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4305356929295567696",
+                    "size": "163512960",
+                    "download": "46539696"
+                },
+                "ver9.6": {
+                    "gid": "3673195606902671993",
+                    "size": "139222697",
+                    "download": "38429616"
+                }
+            },
+            "decryptionkey": "1f76be1d61ff4850fb870176ddea1b9ac5af2756617c59d053ae868b91ba6c80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12604093",
+                "timeupdated": "1698951775"
+            },
+            "ver9.6": {
+                "buildid": "6814076",
+                "description": "compability version 9.6",
+                "timeupdated": "1631028317"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
