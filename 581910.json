@@ -1,0 +1,90 @@
+{
+    "appid": "581910",
+    "type": "Game",
+    "name": "Iron Armada",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28684467",
+    "update_time": "2025-04-27 00:37:20",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "770341": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2713877492519086479",
+                    "size": "105070411",
+                    "download": "63265760"
+                },
+                "stable": {
+                    "gid": "3657342962497751106",
+                    "size": "105138568",
+                    "download": "63261584"
+                },
+                "testing": {
+                    "gid": "2713877492519086479",
+                    "size": "105070411",
+                    "download": "63265760"
+                }
+            },
+            "depotfromapp": "770340",
+            "decryptionkey": "d9211c1b50c17e0e7e701912faf14130acaa44cfb93d2b35e74d47a3aa89ac82"
+        },
+        "581911": {
+            "manifests": {
+                "public": {
+                    "gid": "687359688162001759",
+                    "size": "240876696",
+                    "download": "204925376"
+                },
+                "stable": {
+                    "gid": "3701459270204463659",
+                    "size": "240504178",
+                    "download": "204567152"
+                },
+                "testing": {
+                    "gid": "687359688162001759",
+                    "size": "240876696",
+                    "download": "204925376"
+                }
+            },
+            "decryptionkey": "9bc9170f7e5ed8724f661e3e4564d92c501316d8e1a3e634db33ae8216576078"
+        },
+        "workshopdepot": "581910",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "6369450",
+                "timeupdated": "1615520870"
+            },
+            "stable": {
+                "buildid": "5391434",
+                "description": "Latest stable build",
+                "timeupdated": "1597032162"
+            },
+            "testing": {
+                "buildid": "6369450",
+                "description": "Latest stable build for testing",
+                "timeupdated": "1615520381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
