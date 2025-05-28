@@ -1,0 +1,56 @@
+{
+    "appid": "1203650",
+    "type": "Game",
+    "name": "Blood Metal",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28909492",
+    "update_time": "2025-05-10 04:35:46",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1203651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8843148607715697499",
+                    "size": "1433629286",
+                    "download": "245685152"
+                },
+                "testing": {
+                    "gid": "8843148607715697499",
+                    "size": "1433629286",
+                    "download": "245685152"
+                }
+            },
+            "decryptionkey": "1485f32146cab64acfcd7324850987cc8dabdf2490934ec7b6bcf72c35a12d64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6352619",
+                "timeupdated": "1615290807"
+            },
+            "testing": {
+                "buildid": "6352619",
+                "timeupdated": "1615290799"
+            }
+        }
+    }
+}
