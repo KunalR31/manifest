@@ -1,0 +1,158 @@
+{
+    "appid": "265630",
+    "type": "Game",
+    "name": "Fistful of Frags",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28971051",
+    "update_time": "2025-05-14 08:57:50",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,portuguese,polish,finnish,swedish,hungarian,czech,brazilian",
+        "workshopdepot": "265630",
+        "hasdepotsindlc": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265631": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7528459214547718092",
+                    "size": "5413592093",
+                    "download": "2164998576"
+                },
+                "beta": {
+                    "gid": "6444249568503385209",
+                    "size": "5038486005",
+                    "download": "2135496096"
+                },
+                "upcoming": {
+                    "gid": "898858391156260810",
+                    "size": "5339992332",
+                    "download": "2212149264"
+                }
+            },
+            "decryptionkey": "d5929b331956ac73c8670705f40aa2938e7f787a38c045d7de53cb07e27132cf"
+        },
+        "265632": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8392510267857052997",
+                    "size": "193907268",
+                    "download": "52597712"
+                },
+                "beta": {
+                    "gid": "7880717469034131525",
+                    "size": "178298602",
+                    "download": "48589392"
+                },
+                "upcoming": {
+                    "gid": "3959793525647065559",
+                    "size": "178342725",
+                    "download": "48604912"
+                }
+            },
+            "decryptionkey": "588c298f865b9327928c6171fbc24213d4dd9c5270e29fe87c40029d69cf7a9c"
+        },
+        "265633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9192481163256628824",
+                    "size": "96454213",
+                    "download": "23072128"
+                },
+                "beta": {
+                    "gid": "5144306070089195901",
+                    "size": "96268131",
+                    "download": "23029824"
+                },
+                "upcoming": {
+                    "gid": "2398923146435899323",
+                    "size": "96397592",
+                    "download": "23059536"
+                }
+            },
+            "decryptionkey": "1e1a56c4ec2835530fcfb334de733ccebefb092e47c80951ec34844dfd491e9f"
+        },
+        "265634": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7504449649514038131",
+                    "size": "72073667",
+                    "download": "14699232"
+                },
+                "beta": {
+                    "gid": "3404750018013080929",
+                    "size": "71963751",
+                    "download": "14671152"
+                },
+                "upcoming": {
+                    "gid": "8950572641687341075",
+                    "size": "72032591",
+                    "download": "14684688"
+                }
+            },
+            "decryptionkey": "82d76800f06c223448e48d218fc340a356d08e18d38eb8852f5a15b1700943b4"
+        },
+        "265635": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3764320124277869433",
+                    "size": "123189",
+                    "download": "37712"
+                },
+                "beta": {
+                    "gid": "1390293779975943204",
+                    "size": "122546",
+                    "download": "37616"
+                },
+                "upcoming": {
+                    "gid": "1390293779975943204",
+                    "size": "122546",
+                    "download": "37616"
+                }
+            },
+            "decryptionkey": "3b1ec85b0c8551667c1f459b43e53e32b1b5cc0c55365b8e57e742074912eb23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11010109",
+                "timeupdated": "1681542429"
+            },
+            "beta": {
+                "buildid": "9157194",
+                "description": "previous public version",
+                "timeupdated": "1679727271"
+            },
+            "upcoming": {
+                "buildid": "10217052",
+                "description": "test build for next public version",
+                "timeupdated": "1672072336"
+            }
+        }
+    }
+}
