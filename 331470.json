@@ -1,0 +1,77 @@
+{
+    "appid": "331470",
+    "type": "Game",
+    "name": "Everlasting Summer",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28972020",
+    "update_time": "2025-05-14 10:27:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "workshopdepot": "331470",
+        "331471": {
+            "manifests": {
+                "public": {
+                    "gid": "8839524624372967894",
+                    "size": "1221961669",
+                    "download": "995882768"
+                },
+                "beta": {
+                    "gid": "1765257332088507652",
+                    "size": "1043517960",
+                    "download": "919067024"
+                },
+                "renpy8": {
+                    "gid": "6060560560741855196",
+                    "size": "1159698399",
+                    "download": "968282544"
+                }
+            },
+            "decryptionkey": "c1134595d3ccab451501b77b9cb0d5ef533fe01b455653f58f9d4cfc68cd8f93"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17765471",
+                "timeupdated": "1742301217"
+            },
+            "beta": {
+                "buildid": "7390848",
+                "description": "old version Renpy 7.3.5.",
+                "timeupdated": "1632155768"
+            },
+            "renpy8": {
+                "buildid": "17016867",
+                "description": "Renpy 8.3.4",
+                "timeupdated": "1736968024"
+            }
+        }
+    }
+}
