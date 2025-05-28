@@ -1,0 +1,72 @@
+{
+    "appid": "392060",
+    "type": "Game",
+    "name": "BattleSouls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22118975",
+    "update_time": "2024-05-26 06:09:08",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "392061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5849813807024577311",
+                    "size": "2360936017",
+                    "download": "627306032"
+                }
+            },
+            "decryptionkey": "499f3f015a1a6b03918da17c93ec131d8c9ee3451499e7a16f20253f5d8bf366"
+        },
+        "392062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7170239928685394909",
+                    "size": "2458478003",
+                    "download": "650380256"
+                }
+            },
+            "decryptionkey": "df77866acbde7664ecc36b4655def02a83fdecc2cb21801902ce9206c72332f6"
+        },
+        "392063": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "392064": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2534450812055291123",
+                    "size": "2354737789",
+                    "download": "625663024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1206087",
+                "timeupdated": "1467286065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
