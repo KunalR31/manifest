@@ -1,0 +1,85 @@
+{
+    "appid": "2421430",
+    "type": "Game",
+    "name": "War For Galaxy",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29018464",
+    "update_time": "2025-05-16 15:16:29",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "2421431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7218798359970549041",
+                    "size": "1086858362",
+                    "download": "654982224"
+                },
+                "beta": {
+                    "gid": "7218798359970549041",
+                    "size": "1086858362",
+                    "download": "654982224"
+                }
+            },
+            "decryptionkey": "f2a3a9d64b881b1e5272b2c5978852862f7fda506957a773bce538f92ff6c92e"
+        },
+        "2421432": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2704250028170245530",
+                    "size": "1138699879",
+                    "download": "675093504"
+                },
+                "beta": {
+                    "gid": "2704250028170245530",
+                    "size": "1138699879",
+                    "download": "675093504"
+                }
+            },
+            "decryptionkey": "9dc1ae60671ebe719f6fede5ddbbfb29a56c937d6a6fcc25e46dd1ce90f8bcb2"
+        },
+        "2421433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "891611408708100132",
+                    "size": "552102068",
+                    "download": "197174848"
+                },
+                "beta": {
+                    "gid": "891611408708100132",
+                    "size": "552102068",
+                    "download": "197174848"
+                }
+            },
+            "decryptionkey": "1240563f2969790b8afb2da104f919f48d1a23bf192cf33ea72013f70e4386ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18454784",
+                "timeupdated": "1747204166"
+            },
+            "beta": {
+                "buildid": "18454784",
+                "description": "beta",
+                "timeupdated": "1747199196"
+            }
+        }
+    }
+}
