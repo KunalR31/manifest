@@ -1,0 +1,56 @@
+{
+    "appid": "437610",
+    "type": "Game",
+    "name": "SQUIDS FROM SPACE",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26954975",
+    "update_time": "2025-01-11 22:14:03",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "437611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "445949729856008503",
+                    "size": "3187370675",
+                    "download": "3107609936"
+                },
+                "beta": {
+                    "gid": "445949729856008503",
+                    "size": "3187370675",
+                    "download": "3107609936"
+                }
+            },
+            "decryptionkey": "4b222a4400e74e3e623ae8a4585c1aa6416941c10f780f20375ec36620a16075"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4650377",
+                "timeupdated": "1581097660"
+            },
+            "beta": {
+                "buildid": "4650377",
+                "description": "Beta Branch for Testing",
+                "timeupdated": "1581097637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
