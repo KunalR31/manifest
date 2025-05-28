@@ -1,0 +1,81 @@
+{
+    "appid": "336030",
+    "type": "Game",
+    "name": "Race.a.bit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28521416",
+    "update_time": "2025-04-17 12:09:59",
+    "depot": {
+        "workshopdepot": "336030",
+        "baselanguages": "english,german",
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "336031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7755425707411660561",
+                    "size": "253979325",
+                    "download": "33765680"
+                }
+            },
+            "decryptionkey": "f8be52da492eac147c1f2c6407d1f10e8eeaf79d8ab0f96f9c2bc54b9e20e6dd"
+        },
+        "336032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1248662230809488287",
+                    "size": "249635057",
+                    "download": "32389792"
+                }
+            },
+            "decryptionkey": "f85bc40d976cf0fc10b5ee2bea8a6ffb592edcf9ff3fc3ec148e1de61bc36f1a"
+        },
+        "336033": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "788719998146039918",
+                    "size": "291555055",
+                    "download": "43084416"
+                }
+            },
+            "decryptionkey": "386827407d4fa8e56657e785df177910c045235f7d0502273188d0641de6ac3c"
+        },
+        "336034": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3150072879522903134",
+                    "size": "287566845",
+                    "download": "43698352"
+                }
+            },
+            "decryptionkey": "2006745a75746c4294fc243319f531e2d83de4f905cbb402f5e87091e5887e3c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1019691"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
