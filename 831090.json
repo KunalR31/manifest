@@ -1,0 +1,129 @@
+{
+    "appid": "831090",
+    "type": "Game",
+    "name": "OS:Path",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28694947",
+    "update_time": "2025-04-28 02:53:34",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "831091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4632131563899893982",
+                    "size": "97651977",
+                    "download": "31914416"
+                },
+                "test": {
+                    "gid": "4632131563899893982",
+                    "size": "97651977",
+                    "download": "31914416"
+                },
+                "v1.2": {
+                    "gid": "1690085474118316818",
+                    "size": "93405927",
+                    "download": "27620256"
+                }
+            },
+            "decryptionkey": "f37bf446a0318b3e874800fa05af830f27462835a0f80874d80249bcc5c070f9"
+        },
+        "831092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4347371467962327763",
+                    "size": "99825844",
+                    "download": "31316224"
+                },
+                "test": {
+                    "gid": "4347371467962327763",
+                    "size": "99825844",
+                    "download": "31316224"
+                },
+                "v1.2": {
+                    "gid": "5930168212171597517",
+                    "size": "95579794",
+                    "download": "27022064"
+                }
+            },
+            "decryptionkey": "d9e5c79f4e29c0509914669b398c5e04080421ee41cf8a07610c036e4259347f"
+        },
+        "831093": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4062236896679952356",
+                    "size": "109014080",
+                    "download": "34095808"
+                },
+                "test": {
+                    "gid": "4062236896679952356",
+                    "size": "109014080",
+                    "download": "34095808"
+                },
+                "v1.2": {
+                    "gid": "7624859497078694491",
+                    "size": "104768030",
+                    "download": "29801648"
+                }
+            },
+            "decryptionkey": "099cc4611f433e4e764aa97a051a5d86aad5eee20431272909b9088c2bf6a63f"
+        },
+        "831094": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1866426690075203589",
+                    "size": "106362287",
+                    "download": "32544416"
+                },
+                "test": {
+                    "gid": "1866426690075203589",
+                    "size": "106362287",
+                    "download": "32544416"
+                },
+                "v1.2": {
+                    "gid": "1040703396710470135",
+                    "size": "102116237",
+                    "download": "28250256"
+                }
+            },
+            "decryptionkey": "858b852e0cf2973d871ff2ba08af3e1d1604da1e56958907a540c4335baa1a9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3663700",
+                "timeupdated": "1553076478"
+            },
+            "test": {
+                "buildid": "3663700",
+                "description": "Branch for testing new updates",
+                "timeupdated": "1553076001"
+            },
+            "v1.2": {
+                "buildid": "2875978",
+                "description": "Old version",
+                "timeupdated": "1537305509"
+            }
+        }
+    }
+}
