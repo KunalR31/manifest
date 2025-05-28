@@ -1,0 +1,63 @@
+{
+    "appid": "2102020",
+    "type": "Game",
+    "name": "Different Strokes",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28732091",
+    "update_time": "2025-04-30 00:51:33",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2102021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1048296569938856469",
+                    "size": "104847873",
+                    "download": "35667280"
+                },
+                "windows7": {
+                    "gid": "7581080423035830437",
+                    "size": "91799057",
+                    "download": "33491168"
+                }
+            },
+            "decryptionkey": "8ee2e4963f095c9efafbbbf312f0894026dd686205e261fdc8317858350218f7"
+        },
+        "2182660": {
+            "dlcappid": "2182660",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4205608151058670451",
+                    "size": "104847873",
+                    "download": "35667104"
+                },
+                "windows7": {
+                    "gid": "1777377633528903607",
+                    "size": "91799057",
+                    "download": "33480208"
+                }
+            },
+            "decryptionkey": "48a3cb3242a629b4587baa6bac5b863b93952d8ee1d42328ba44682cf84aec1a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18283274",
+                "timeupdated": "1745945489"
+            },
+            "windows7": {
+                "buildid": "17639828",
+                "description": "Windows 7 Support",
+                "timeupdated": "1743494006"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
