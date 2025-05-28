@@ -1,0 +1,51 @@
+{
+    "appid": "2102680",
+    "type": "Game",
+    "name": "Blinded by Fear",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008735",
+    "update_time": "2025-05-16 02:00:44",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2102681": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8355812291332885902",
+                    "size": "397361847",
+                    "download": "173600720"
+                },
+                "test": {
+                    "gid": "477841054853143959",
+                    "size": "397363383",
+                    "download": "173601568"
+                }
+            },
+            "decryptionkey": "e91a1d1287fb3f3f74b31461123e08015373b88f0d2f7d041e556a1df3d6c1a6"
+        },
+        "workshopdepot": "2102680",
+        "branches": {
+            "public": {
+                "buildid": "12513820",
+                "timeupdated": "1698086146"
+            },
+            "test": {
+                "buildid": "12394987",
+                "description": "used for testing",
+                "timeupdated": "1696866665"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
