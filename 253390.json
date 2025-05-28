@@ -1,0 +1,77 @@
+{
+    "appid": "253390",
+    "type": "Game",
+    "name": "Hot Tin Roof: The Cat That Wore A Fedora",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970938",
+    "update_time": "2025-05-14 08:47:41",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "253391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2313039607960720858",
+                    "size": "754223781",
+                    "download": "134616896"
+                }
+            },
+            "decryptionkey": "78ec0acf5342316d7570201a112d1d9ca65762800385e51664236bd5ffdc62ba"
+        },
+        "253392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2416865711191413650",
+                    "size": "761708553",
+                    "download": "135783008"
+                }
+            },
+            "decryptionkey": "db0c82b504ff64ad30907db5737be3c0de5d70301811873c316fa717e11851d9"
+        },
+        "253393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7041686269698978072",
+                    "size": "782506624",
+                    "download": "143161648"
+                }
+            },
+            "decryptionkey": "4b078f12241aa2888794fb7538ba4dcd517fe4c71efbfef3f544fc5bbd22d1f0"
+        },
+        "253394": {},
+        "348070": {
+            "manifests": {
+                "public": {
+                    "gid": "3971722357067829947",
+                    "size": "69088797",
+                    "download": "63430560"
+                }
+            },
+            "dlcappid": "348070",
+            "decryptionkey": "8cb9410045b745a2cc9c4d3eee4614760926eecd07f06608d88335a294338516"
+        },
+        "branches": {
+            "public": {
+                "buildid": "725229"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
