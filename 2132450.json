@@ -1,0 +1,111 @@
+{
+    "appid": "2132450",
+    "type": "Game",
+    "name": "Spectator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009032",
+    "update_time": "2025-05-16 02:18:49",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2132451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2653105450620804087",
+                    "size": "2562601569",
+                    "download": "2153220608"
+                },
+                "beta": {
+                    "gid": "5535937134855845790",
+                    "size": "3658445826",
+                    "download": "3076950304"
+                }
+            },
+            "decryptionkey": "20ca4c3fc7566b862b5742c3afb1a57162e13f958b99550d10fb12c6163d2ebe"
+        },
+        "2132452": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "669875800435365132",
+                    "size": "2893775006",
+                    "download": "2384807504"
+                },
+                "beta": {
+                    "gid": "5241485985689429460",
+                    "size": "3675344400",
+                    "download": "3081375456"
+                }
+            },
+            "decryptionkey": "f1428f1f8c40e5feef09bc9ce435b947c5cedf5895369f23b9c7d7a801e18465"
+        },
+        "2132453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2396689340924140866",
+                    "size": "4035920736",
+                    "download": "3362607200"
+                },
+                "beta": {
+                    "gid": "3384464402226654756",
+                    "size": "2532206972",
+                    "download": "2197024048"
+                }
+            },
+            "decryptionkey": "ee43a633b0b7e4a27985c354f3cf4776e4b72d8f4ad79aa5de951cb029629a17"
+        },
+        "2132454": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4789289291323595037",
+                    "size": "2572472459",
+                    "download": "2130675712"
+                },
+                "beta": {
+                    "gid": "8600520401518187760",
+                    "size": "3127280444",
+                    "download": "2672033568"
+                }
+            },
+            "decryptionkey": "a6f2a50c0e0c5b88cdb9d07d65fda7b52e74bb6080c7415c48758ab3c7ebcb88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11953596",
+                "timeupdated": "1692184731"
+            },
+            "beta": {
+                "buildid": "10975093",
+                "description": "Feature testing branch",
+                "timeupdated": "1692178816"
+            }
+        }
+    }
+}
