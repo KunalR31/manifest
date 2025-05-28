@@ -1,0 +1,117 @@
+{
+    "appid": "225840",
+    "type": "Game",
+    "name": "Sven Co-op",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:42",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "225841": {
+            "manifests": {
+                "public": {
+                    "gid": "7100405834093858048",
+                    "size": "2572858404",
+                    "download": "1351900912"
+                },
+                "release_candidate_public": {
+                    "gid": "7100405834093858048",
+                    "size": "2572858404",
+                    "download": "1351900912"
+                }
+            },
+            "decryptionkey": "7133900a5945d998a51a8aa7b2dfa67595ef2f253d2506d99d546127bd8edb5b"
+        },
+        "225842": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7714419150192498919",
+                    "size": "60554926",
+                    "download": "22574112"
+                },
+                "release_candidate_public": {
+                    "gid": "7714419150192498919",
+                    "size": "60554926",
+                    "download": "22574112"
+                }
+            },
+            "decryptionkey": "33b6cec737899168b296ac5ee6fb22ab781fb72c1425bc03db45d8b26dbb2d40"
+        },
+        "225843": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6320191083261921291",
+                    "size": "105035841",
+                    "download": "28346080"
+                },
+                "release_candidate_public": {
+                    "gid": "6320191083261921291",
+                    "size": "105035841",
+                    "download": "28346080"
+                }
+            },
+            "decryptionkey": "b04f8448e721b441d21efdc18acdd4b05d46aeb621d4a08ae574a0f4de721158"
+        },
+        "225844": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2982461435576021352",
+                    "size": "8590180",
+                    "download": "2618144"
+                },
+                "release_candidate_public": {
+                    "gid": "2982461435576021352",
+                    "size": "8590180",
+                    "download": "2618144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "225840",
+        "branches": {
+            "public": {
+                "buildid": "16648734",
+                "timeupdated": "1733563415"
+            },
+            "release_candidate_public": {
+                "buildid": "16648734",
+                "description": "Release candidate (public)",
+                "timeupdated": "1733432540"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
