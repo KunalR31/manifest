@@ -1,0 +1,85 @@
+{
+    "appid": "429200",
+    "type": "Game",
+    "name": "Super Helmets on Fire DX Ultra Edition Plus Alpha",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28503436",
+    "update_time": "2025-04-16 16:10:40",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "429201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1945105825097135705",
+                    "size": "302363193",
+                    "download": "43100688"
+                }
+            },
+            "decryptionkey": "72441db59c1db228bcc3bb758e9775d6635d1277c2ada9329c3ffdb36c277a18"
+        },
+        "429202": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5773065342840648358",
+                    "size": "336145410",
+                    "download": "53113232"
+                }
+            },
+            "decryptionkey": "53ec39d0ce7fb8ac7bba9aba66e774c795188a2c3c7691beaf983ff31e1f5483"
+        },
+        "429204": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "373482401761152879",
+                    "size": "343889416",
+                    "download": "54824736"
+                }
+            },
+            "decryptionkey": "34555e64a456dc4027617efdfa3c323c621ba9d9cbf0096eb67e534c8da72c7e"
+        },
+        "429203": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6660000735705092881",
+                    "size": "298013289",
+                    "download": "41733264"
+                }
+            },
+            "decryptionkey": "62e9e7e285c72cc73e452816c73fa7c033f0cda35c2b23a0d60dc2fca8ce9002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "983599"
+            }
+        }
+    }
+}
