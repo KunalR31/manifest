@@ -1,0 +1,62 @@
+{
+    "appid": "1363430",
+    "type": "Game",
+    "name": "Propagation VR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28986551",
+    "update_time": "2025-05-15 01:39:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1363431": {
+            "manifests": {
+                "public": {
+                    "gid": "3207166147100530433",
+                    "size": "3678643621",
+                    "download": "1663703728"
+                },
+                "pre-release": {
+                    "gid": "3207166147100530433",
+                    "size": "3678643621",
+                    "download": "1663703728"
+                },
+                "previous-stable": {
+                    "gid": "7201454306789592149",
+                    "size": "3656225726",
+                    "download": "1654071536"
+                }
+            },
+            "decryptionkey": "a60fcd8f86ea5f14805c6201b5021353343fa5e5f71f5aa206a45ca420aef1ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11347745",
+                "timeupdated": "1685699740"
+            },
+            "pre-release": {
+                "buildid": "11347745",
+                "description": "Public branch featuring preview content (obviously less stable than default)",
+                "timeupdated": "1685699771"
+            },
+            "previous-stable": {
+                "buildid": "6282236",
+                "description": "Public branch hosting the previous official version (in case of troubles on default branch, you can check here if the issue was already there before the last update)",
+                "timeupdated": "1685699762"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
