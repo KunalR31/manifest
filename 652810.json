@@ -1,0 +1,49 @@
+{
+    "appid": "652810",
+    "type": "Game",
+    "name": "Grabity",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28976426",
+    "update_time": "2025-05-14 22:41:08",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "652811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6811382456449586604",
+                    "size": "1498282950",
+                    "download": "508897360"
+                },
+                "unstable": {
+                    "gid": "3928701604636282150",
+                    "size": "1498872638",
+                    "download": "509035024"
+                }
+            },
+            "decryptionkey": "5c7a53cff371b1043e454952aa428e768879fe59635c2d51f300c37575f4241e"
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "3011659",
+                "timeupdated": "1534205561"
+            },
+            "unstable": {
+                "buildid": "3433867",
+                "description": "Latest (possibly unstable) build",
+                "timeupdated": "1546121507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
