@@ -1,0 +1,88 @@
+{
+    "appid": "2139840",
+    "type": "Game",
+    "name": "Skelethrone: The Chronicles of Ericona",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29047063",
+    "update_time": "2025-05-18 16:07:49",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2139841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4168862962924392470",
+                    "size": "2196170817",
+                    "download": "1087515120"
+                },
+                "old_1330": {
+                    "gid": "5979056646231679553",
+                    "size": "1809943669",
+                    "download": "866329328"
+                },
+                "old_1460": {
+                    "gid": "4951372963160799384",
+                    "size": "1835088470",
+                    "download": "877860096"
+                }
+            },
+            "decryptionkey": "8e5a3c405ffabd82d236d99d5583d2b3836f045da51e2328b307e3001f8c5977"
+        },
+        "2139842": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6740946476894241145",
+                    "size": "2196087232",
+                    "download": "1087093360"
+                },
+                "old_1330": {
+                    "gid": "7398163600824821559",
+                    "size": "1810397114",
+                    "download": "865943344"
+                },
+                "old_1460": {
+                    "gid": "4716688198899816297",
+                    "size": "1835005013",
+                    "download": "877456224"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18433110",
+                "timeupdated": "1747326094"
+            },
+            "old_1330": {
+                "buildid": "15524169",
+                "description": "Pre-NG+ patch (1.3.3.0)",
+                "timeupdated": "1726510557"
+            },
+            "old_1460": {
+                "buildid": "16330830",
+                "description": "Pre-DLC patch (1.4.6.0)",
+                "timeupdated": "1743938219"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
