@@ -1,0 +1,59 @@
+{
+    "appid": "492500",
+    "type": "Game",
+    "name": "Heroes of the Monkey Tavern",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27483812",
+    "update_time": "2025-02-15 01:13:30",
+    "depot": {
+        "492501": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4157711466547394179",
+                    "size": "1109813482",
+                    "download": "581378704"
+                },
+                "betawin": {
+                    "gid": "4157711466547394179",
+                    "size": "1109813482",
+                    "download": "581378704"
+                }
+            },
+            "decryptionkey": "6c6b5363dd20d663da8c10dc9225eaebfd9fef90046a7d28c933cdf3915f7bcd"
+        },
+        "492502": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "484473648209288502",
+                    "size": "1113020931",
+                    "download": "585959600"
+                },
+                "betawin": {
+                    "gid": "5585579690359153330",
+                    "size": "1112512862",
+                    "download": "585725792"
+                }
+            },
+            "decryptionkey": "c8932a724eff2f675ba38077556e40b035103a478a0e01c63a43828b4690b0ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2717489",
+                "timeupdated": "1524588713"
+            },
+            "betawin": {
+                "buildid": "2447932",
+                "description": "Windows beta",
+                "timeupdated": "1516278461"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
