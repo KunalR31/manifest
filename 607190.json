@@ -1,0 +1,55 @@
+{
+    "appid": "607190",
+    "type": "Game",
+    "name": "Dark",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28975549",
+    "update_time": "2025-05-14 22:39:16",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "607191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8820661978610131436",
+                    "size": "1571497307",
+                    "download": "438866576"
+                },
+                "vraustin": {
+                    "gid": "2453243812269078538",
+                    "size": "1170879524",
+                    "download": "342338736"
+                }
+            },
+            "decryptionkey": "585fbbbcd1f1101de642b22e410ea9ae757c843bc92b4cb91416edf020d3d834"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2114299",
+                "timeupdated": "1505275755"
+            },
+            "vraustin": {
+                "buildid": "1989561",
+                "timeupdated": "1501100159"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
