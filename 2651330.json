@@ -1,0 +1,61 @@
+{
+    "appid": "2651330",
+    "type": "Game",
+    "name": "Intravenous 2: Mercenarism",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013706",
+    "update_time": "2025-05-16 08:06:48",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2651331": {
+            "manifests": {
+                "public": {
+                    "gid": "5204212339010804017",
+                    "size": "283878315",
+                    "download": "279913056"
+                },
+                "featuretest": {
+                    "gid": "5204212339010804017",
+                    "size": "283878315",
+                    "download": "279913056"
+                },
+                "test": {
+                    "gid": "5204212339010804017",
+                    "size": "283878315",
+                    "download": "279913056"
+                }
+            },
+            "decryptionkey": "ae93ebe6b8baae2d4fd79e56f751d123e83392a529d1efb5feeb35884716b0a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15243951",
+                "timeupdated": "1722624590"
+            },
+            "featuretest": {
+                "buildid": "15243951",
+                "description": "feature testing",
+                "timeupdated": "1722624152"
+            },
+            "test": {
+                "buildid": "15243951",
+                "description": "upcoming update preview",
+                "timeupdated": "1722624214"
+            }
+        }
+    }
+}
