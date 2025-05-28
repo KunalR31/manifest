@@ -1,0 +1,244 @@
+{
+    "appid": "863590",
+    "type": "Game",
+    "name": "Starcom: Nexus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28979645",
+    "update_time": "2025-05-14 22:47:19",
+    "depot": {
+        "863591": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6270939908191871876",
+                    "size": "1695203797",
+                    "download": "758023248"
+                },
+                "beta_0_10_stable": {
+                    "gid": "8802357200645430227",
+                    "size": "986723561",
+                    "download": "433400352"
+                },
+                "beta_0_12_stable": {
+                    "gid": "7125592424112780708",
+                    "size": "1036556942",
+                    "download": "448134368"
+                },
+                "beta_0_13_preview": {
+                    "gid": "2143353795634020999",
+                    "size": "1098061359",
+                    "download": "465604256"
+                },
+                "beta_0_14_preview": {
+                    "gid": "6043097451730774728",
+                    "size": "1647854158",
+                    "download": "943080848"
+                },
+                "beta_0_14_stable": {
+                    "gid": "6043097451730774728",
+                    "size": "1647854158",
+                    "download": "943080848"
+                },
+                "beta_0_15_preview": {
+                    "gid": "8019598435829058525",
+                    "size": "1541066480",
+                    "download": "675647888"
+                },
+                "beta_0_16_preview": {
+                    "gid": "7729484069305710505",
+                    "size": "1544002644",
+                    "download": "676469632"
+                },
+                "beta_0_16_stable": {
+                    "gid": "7729484069305710505",
+                    "size": "1544002644",
+                    "download": "676469632"
+                },
+                "beta_0_9_3": {
+                    "gid": "1976630350764734231",
+                    "size": "926406161",
+                    "download": "416946928"
+                },
+                "beta_0_9_4": {
+                    "gid": "3091191133905472056",
+                    "size": "926405361",
+                    "download": "416943536"
+                },
+                "beta_0_9_stable": {
+                    "gid": "3091191133905472056",
+                    "size": "926405361",
+                    "download": "416943536"
+                },
+                "localization": {
+                    "gid": "719749899091684221",
+                    "size": "1694257321",
+                    "download": "757822896"
+                },
+                "postrelease_patch_1": {
+                    "gid": "3215005328819445699",
+                    "size": "1695967811",
+                    "download": "758707808"
+                },
+                "release_1_0_10_preview": {
+                    "gid": "2098489343868220307",
+                    "size": "1694260029",
+                    "download": "757822800"
+                },
+                "release_1_0_11_preview": {
+                    "gid": "311963059432129453",
+                    "size": "1695190524",
+                    "download": "758021136"
+                },
+                "release_1_0_12": {
+                    "gid": "6270939908191871876",
+                    "size": "1695203797",
+                    "download": "758023248"
+                },
+                "release_1_0_3_linux_experimental": {
+                    "gid": "726298773183696391",
+                    "size": "1605870520",
+                    "download": "697550336"
+                },
+                "release_1_0_preview": {
+                    "gid": "726298773183696391",
+                    "size": "1605870520",
+                    "download": "697550336"
+                }
+            },
+            "decryptionkey": "db7a2cd3ad55071a76ecec3c88f1a77d05d1269d77104a82e17713dc717d79c9"
+        },
+        "863592": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1998458034144377253",
+                    "size": "1752363636",
+                    "download": "780106384"
+                },
+                "release_1_0_10_preview": {
+                    "gid": "1998458034144377253",
+                    "size": "1752363636",
+                    "download": "780106384"
+                },
+                "release_1_0_11_preview": {
+                    "gid": "1998458034144377253",
+                    "size": "1752363636",
+                    "download": "780106384"
+                },
+                "release_1_0_12": {
+                    "gid": "1998458034144377253",
+                    "size": "1752363636",
+                    "download": "780106384"
+                },
+                "release_1_0_3_linux_experimental": {
+                    "gid": "8649211818116795458",
+                    "size": "1663975017",
+                    "download": "719457776"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4935264",
+                "timeupdated": "1587668872"
+            },
+            "beta_0_10_stable": {
+                "buildid": "3485568",
+                "description": "Rollback build for playin 0.10.x save games",
+                "timeupdated": "1553770073"
+            },
+            "beta_0_12_stable": {
+                "buildid": "3677956",
+                "description": "Beta 0.12 Stable",
+                "timeupdated": "1559566941"
+            },
+            "beta_0_13_preview": {
+                "buildid": "3791506",
+                "description": "Preview build for Beta 0.13",
+                "timeupdated": "1556893271"
+            },
+            "beta_0_14_preview": {
+                "buildid": "3877473",
+                "description": "Preview build for Beta 0.14",
+                "timeupdated": "1559319581"
+            },
+            "beta_0_14_stable": {
+                "buildid": "3877473",
+                "description": "Rollback build for playing 0.14 saves",
+                "timeupdated": "1569415429"
+            },
+            "beta_0_15_preview": {
+                "buildid": "4137491",
+                "description": "Preview build for Beta 0.15",
+                "timeupdated": "1566761872"
+            },
+            "beta_0_16_preview": {
+                "buildid": "4203877",
+                "description": "Preview build for Beta 0.16",
+                "timeupdated": "1568732262"
+            },
+            "beta_0_16_stable": {
+                "buildid": "4203877",
+                "description": "Rollback build for playing 0.16 save games",
+                "timeupdated": "1572873702"
+            },
+            "beta_0_9_3": {
+                "buildid": "3352489",
+                "description": "Quality settings from in game patch",
+                "timeupdated": "1543531396"
+            },
+            "beta_0_9_4": {
+                "buildid": "3394465",
+                "description": "Fix for controller auto-detect",
+                "timeupdated": "1545404760"
+            },
+            "beta_0_9_stable": {
+                "buildid": "3394465",
+                "description": "Rollback build for playing 0.9.x save games",
+                "timeupdated": "1548612671"
+            },
+            "localization": {
+                "buildid": "4547985",
+                "description": "Build for localization testing",
+                "timeupdated": "1578407874"
+            },
+            "postrelease_patch_1": {
+                "buildid": "4515883",
+                "description": "Preview for first post-release build",
+                "timeupdated": "1576856157"
+            },
+            "release_1_0_10_preview": {
+                "buildid": "4537852",
+                "description": "Preview build for 1.0.10 (Windows and Linux)",
+                "timeupdated": "1577997401"
+            },
+            "release_1_0_11_preview": {
+                "buildid": "4738255",
+                "description": "Preview build for 1.0.11",
+                "timeupdated": "1583251937"
+            },
+            "release_1_0_12": {
+                "buildid": "4935264",
+                "description": "Build for 1.0.12",
+                "timeupdated": "1587650525"
+            },
+            "release_1_0_3_linux_experimental": {
+                "buildid": "4354667",
+                "description": "Experimental Linux",
+                "timeupdated": "1572880654"
+            },
+            "release_1_0_preview": {
+                "buildid": "4337159",
+                "description": "Preview build for v 1.0 rc",
+                "timeupdated": "1572376916"
+            }
+        }
+    }
+}
