@@ -1,0 +1,61 @@
+{
+    "appid": "1857080",
+    "type": "Game",
+    "name": "The Last Starship",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29047088",
+    "update_time": "2025-05-18 16:12:03",
+    "depot": {
+        "1857081": {},
+        "1857082": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4523543352588104646",
+                    "size": "861841138",
+                    "download": "833293984"
+                },
+                "hotfix_test": {
+                    "gid": "3554338598212079444",
+                    "size": "918197580",
+                    "download": "890567184"
+                }
+            },
+            "decryptionkey": "da7ba42e5dc0fab717beb28a4fbae2ec0da3e4805937202e20fd4ada15520b16"
+        },
+        "1857083": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1120721145055399462",
+                    "size": "805557949",
+                    "download": "798446240"
+                },
+                "hotfix_test": {
+                    "gid": "1567437492404654978",
+                    "size": "861762325",
+                    "download": "855642256"
+                }
+            }
+        },
+        "workshopdepot": "1857080",
+        "branches": {
+            "public": {
+                "buildid": "17659609",
+                "timeupdated": "1741693862"
+            },
+            "hotfix_test": {
+                "buildid": "17050326",
+                "description": "Hotfix Public Testing",
+                "timeupdated": "1737379473"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
