@@ -1,0 +1,56 @@
+{
+    "appid": "2140700",
+    "type": "Game",
+    "name": "So Below",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009032",
+    "update_time": "2025-05-16 02:18:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2140701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1875610387679799988",
+                    "size": "19731472623",
+                    "download": "19076085664"
+                },
+                "beta": {
+                    "gid": "2249561941651284370",
+                    "size": "19731310851",
+                    "download": "19075919008"
+                }
+            },
+            "decryptionkey": "26f74f3d1deb8784c7adb55de878e59b32d3d1c8a2af6ca263c9ab1befbf920b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17567494",
+                "timeupdated": "1742072318"
+            },
+            "beta": {
+                "buildid": "18066384",
+                "description": "Internal beta testing branch",
+                "timeupdated": "1744345568"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
