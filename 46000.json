@@ -1,0 +1,59 @@
+{
+    "appid": "46000",
+    "type": "Game",
+    "name": "Bob Came in Pieces",
+    "schinese_name": "鲍勃的飞船",
+    "isfreeapp": "0",
+    "change_number": "28969816",
+    "update_time": "2025-05-14 07:07:59",
+    "depot": {
+        "46003": {
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4851862104650530709",
+                    "size": "2914",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "55c0e030392a03674c667aeadbbd9f6294416588fe93341fee9f1de8764f1614"
+        },
+        "46002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5237995218895867849",
+                    "size": "274611060",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "01d8bc99318b6258068b5e5273ed203eea2c7f71dc731d9bc1134ac5b7171b54"
+        },
+        "46001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "191202721823421685",
+                    "size": "386711851",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a14a3ef044d5c9f1e8ac81354a7c70a29f6d43c61ea8564d1de495e9b68180db"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11511"
+            }
+        }
+    }
+}
