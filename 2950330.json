@@ -1,0 +1,61 @@
+{
+    "appid": "2950330",
+    "type": "Game",
+    "name": "Journey to Foundation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29048192",
+    "update_time": "2025-05-18 19:14:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2950331": {
+            "manifests": {
+                "public": {
+                    "gid": "5636366961627032984",
+                    "size": "22637386459",
+                    "download": "22140687712"
+                },
+                "developement": {
+                    "gid": "5636366961627032984",
+                    "size": "22637386459",
+                    "download": "22140687712"
+                },
+                "loc-test": {
+                    "gid": "1106799462433134369",
+                    "size": "22637377755",
+                    "download": "22140736400"
+                }
+            },
+            "decryptionkey": "d7b06dbcd017996f101c7e28fee389684009b4b867621ad36e9b3c84fa904bf1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14786778",
+                "timeupdated": "1718981904"
+            },
+            "developement": {
+                "buildid": "14786778",
+                "description": "Dev test branch",
+                "timeupdated": "1718919127"
+            },
+            "loc-test": {
+                "buildid": "14562321",
+                "description": "loc test branch",
+                "timeupdated": "1717167175"
+            }
+        }
+    }
+}
