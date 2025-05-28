@@ -1,0 +1,94 @@
+{
+    "appid": "231720",
+    "type": "Game",
+    "name": "Bad Hotel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-25 19:13:14",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "231721": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8377982293003343448",
+                    "size": "109910630",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "8377982293003343448",
+                    "size": "109910630",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5c3d826453633cdfedb1b49b2fc097181ea6771af113f30eb72af03510c4fd45"
+        },
+        "231722": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7874523172632942008",
+                    "size": "97852488",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7874523172632942008",
+                    "size": "97852488",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "abe22413d3e184a5b2f0618377a0aed66d2780f45998fb9666cadf554bea793d"
+        },
+        "231723": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3179995574799329105",
+                    "size": "104774139",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3179995574799329105",
+                    "size": "104774139",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "387132d8d4b370e4d604876b83d13b72f3141a79e3f61a6138838be1ee4336ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "177583"
+            },
+            "beta": {
+                "buildid": "177583"
+            }
+        }
+    }
+}
