@@ -1,0 +1,54 @@
+{
+    "appid": "2421650",
+    "type": "Game",
+    "name": "狄拉克之海",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27875520",
+    "update_time": "2025-03-11 00:52:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2421652": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2054834438825167605",
+                    "size": "9106012305",
+                    "download": "6564338096"
+                },
+                "devtest": {
+                    "gid": "5980860032053316811",
+                    "size": "5099828455",
+                    "download": "4405639056"
+                }
+            },
+            "decryptionkey": "d93aff6b572ecb2a36bc34f41b1869706b56a98251ef8bb697f798d1d1303813"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17063214",
+                "timeupdated": "1737368628"
+            },
+            "devtest": {
+                "buildid": "13055517",
+                "description": "内部测试",
+                "timeupdated": "1703745745"
+            }
+        }
+    }
+}
