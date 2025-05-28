@@ -1,0 +1,65 @@
+{
+    "appid": "348860",
+    "type": "Game",
+    "name": "MyDream",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28715304",
+    "update_time": "2025-04-29 05:52:58",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "348864": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3852980778967681122",
+                    "size": "1111859572",
+                    "download": "333320000"
+                },
+                "vr_towerdefense": {
+                    "gid": "4100483200475261636",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cbd34d8420ed236681af4b15eb8c31e1e86ce0e9dde0fc51d0e9aa78ed3ea773"
+        },
+        "348861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8313203160570989575",
+                    "size": "1144219731",
+                    "download": "334987808"
+                },
+                "vr_towerdefense": {
+                    "gid": "1233754038476487129",
+                    "size": "1073401223",
+                    "download": "321599088"
+                }
+            },
+            "decryptionkey": "ae57d53f69945830a7790c9c83f9c7b01c0463a0b77a29a8b2ef26f3f7064667"
+        },
+        "branches": {
+            "public": {
+                "buildid": "972475"
+            },
+            "vr_towerdefense": {
+                "buildid": "1088566",
+                "timeupdated": "1468000690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
