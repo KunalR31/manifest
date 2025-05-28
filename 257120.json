@@ -1,0 +1,65 @@
+{
+    "appid": "257120",
+    "type": "Game",
+    "name": "Not The Robots",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970938",
+    "update_time": "2025-05-14 08:47:49",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "257121": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5481603523134811099",
+                    "size": "286447750",
+                    "download": "114012368"
+                }
+            },
+            "decryptionkey": "91db9e81ea5fc02a3b652b34e894d4f34c4efa21d875ee84d22b0d7cd2a89f68"
+        },
+        "257123": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2888472931288853583",
+                    "size": "288942759",
+                    "download": "114731504"
+                }
+            },
+            "decryptionkey": "18085f5dd6389e333289ae5f3d1fc9249f178e80c3010286fa3647cb2304b03a"
+        },
+        "257122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7971018833914087841",
+                    "size": "296848527",
+                    "download": "116523312"
+                }
+            },
+            "decryptionkey": "aaa66a03a6a354872aae5bc13cac3d2a4372f55805b974a1ee2974ffc3fe12dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "733843"
+            }
+        }
+    }
+}
