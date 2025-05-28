@@ -1,0 +1,67 @@
+{
+    "appid": "104000",
+    "type": "Game",
+    "name": "iBomber Defense",
+    "schinese_name": "轰炸机防御战",
+    "isfreeapp": "0",
+    "change_number": "28970052",
+    "update_time": "2025-05-14 07:27:43",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "104002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8477670700456939041",
+                    "size": "103060365",
+                    "download": "96698032"
+                }
+            },
+            "decryptionkey": "3fe357120e127f257ec3600ebe26376d5a80e730c41d43a24bead0fd00a45e19"
+        },
+        "104001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9094406936112524323",
+                    "size": "99326911",
+                    "download": "93764304"
+                }
+            },
+            "decryptionkey": "68cde29538bb1e10c91b9bba2bfbcc276c702a4f45734e4637d048d271880733"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "814688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
