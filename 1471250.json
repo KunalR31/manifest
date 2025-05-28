@@ -1,0 +1,75 @@
+{
+    "appid": "1471250",
+    "type": "Game",
+    "name": "Orion",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25600318",
+    "update_time": "2024-10-09 02:50:58",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1471251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3856840264925236496",
+                    "size": "1884989286",
+                    "download": "826795408"
+                }
+            },
+            "decryptionkey": "ac699abcd9f5df040eaf71f353276fd34a85bcaccbc2ce9975bd4d95cec2693f"
+        },
+        "1471252": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5606210380957477479",
+                    "size": "1851731187",
+                    "download": "805438656"
+                }
+            },
+            "decryptionkey": "6d58850195fec3e164dd5a194f3e42ee63cc8c0ff74ecc58fe41639bad54ccd7"
+        },
+        "1471253": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5459817579519490336",
+                    "size": "2036614343",
+                    "download": "888588112"
+                }
+            },
+            "decryptionkey": "00955f5d150050bfac22dccb803e46256b3ca4cff566307d6ddadf7a3a236ecc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6520404",
+                "timeupdated": "1618066278"
+            }
+        }
+    }
+}
