@@ -1,0 +1,54 @@
+{
+    "appid": "1466430",
+    "type": "Application",
+    "name": "Aardvark",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27735527",
+    "update_time": "2025-03-02 02:45:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1466431": {
+            "manifests": {
+                "public": {
+                    "gid": "3685144133495500960",
+                    "size": "372292382",
+                    "download": "108321888"
+                },
+                "test": {
+                    "gid": "1290589510879641789",
+                    "size": "374873242",
+                    "download": "108743008"
+                },
+                "updatetest": {
+                    "gid": "1290589510879641789",
+                    "size": "374873242",
+                    "download": "108743008"
+                }
+            },
+            "decryptionkey": "7f8aa44a4a4873f9711766454e82a13844ab82482516e27ed12933eb2033adc8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6095342",
+                "timeupdated": "1610908154"
+            },
+            "test": {
+                "buildid": "6429576",
+                "description": "Gets builds a bit before they go out to everyone",
+                "timeupdated": "1616554829"
+            },
+            "updatetest": {
+                "buildid": "6429576",
+                "description": "Testing an update-related bug",
+                "timeupdated": "1621460427"
+            }
+        }
+    }
+}
