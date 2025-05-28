@@ -1,0 +1,115 @@
+{
+    "appid": "340280",
+    "type": "Game",
+    "name": "Cubot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-05-26 03:19:54",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "340281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "812972420669547078",
+                    "size": "188107944",
+                    "download": "17254400"
+                }
+            },
+            "decryptionkey": "6a1d24d14ddc347edb96180403a4c121ebf6aec0ba4b9d896ec8c74975b9af02"
+        },
+        "340282": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2346902888902446528",
+                    "size": "191975592",
+                    "download": "18299104"
+                }
+            },
+            "decryptionkey": "4790a3a449cb563c8a0238b2a9aff204e06fbca8f313019c122842613325c019"
+        },
+        "340283": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8444808700986047852",
+                    "size": "192871701",
+                    "download": "17628640"
+                }
+            },
+            "decryptionkey": "4314ef25af3401305f29c3319f146cb3334773b92e8b5424427271b15dc2437d"
+        },
+        "340284": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "95157446301162408",
+                    "size": "207211085",
+                    "download": "19663344"
+                }
+            },
+            "decryptionkey": "dd196192f4ffffa67b50ba69f127c739e6183ef04ce57572a4863de1acb60731"
+        },
+        "340285": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2214203516154935542",
+                    "size": "196834965",
+                    "download": "18913168"
+                }
+            },
+            "decryptionkey": "c59bf8b76e704624ddf2e741da23dfb180b4d31b3599cc6aa0f72572ff7c2762"
+        },
+        "340286": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5547893097066189944",
+                    "size": "199276888",
+                    "download": "19500256"
+                }
+            },
+            "decryptionkey": "a89e2874a92303ed2cbbfe09b68de0856fab947ec5eddde7dca980fdd9586add"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "490466"
+            }
+        }
+    }
+}
