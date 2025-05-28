@@ -1,0 +1,50 @@
+{
+    "appid": "244630",
+    "type": "Game",
+    "name": "NEOTOKYO°",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28120135",
+    "update_time": "2025-03-25 09:10:46",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "244631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1186295940812638221",
+                    "size": "4637930088",
+                    "download": "2692327744"
+                },
+                "beta": {
+                    "gid": "6973057024241804146",
+                    "size": "4637931197",
+                    "download": "2692327056"
+                }
+            },
+            "decryptionkey": "8924e31fe0f5474eb7a590450a38f5b8ff78b3a60bd13dbc62a9dc579af1cbfc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13316950",
+                "timeupdated": "1707508747"
+            },
+            "beta": {
+                "buildid": "16876789",
+                "description": "Misc fixes",
+                "timeupdated": "1735583522"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
