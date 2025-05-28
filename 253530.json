@@ -1,0 +1,113 @@
+{
+    "appid": "253530",
+    "type": "Game",
+    "name": "Fortress Forever",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28970938",
+    "update_time": "2025-05-14 08:47:41",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "253531": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "965676271929440390",
+                    "size": "4606915872",
+                    "download": "2626242928"
+                },
+                "v2.7.5": {
+                    "gid": "5336161462198441301",
+                    "size": "4725575004",
+                    "download": "2732755008"
+                },
+                "v2.7.6": {
+                    "gid": "934684929600479105",
+                    "size": "4606915872",
+                    "download": "2626240880"
+                },
+                "2013": {
+                    "gid": "2655151537226821833",
+                    "size": "4606915987",
+                    "download": "2626242880"
+                }
+            },
+            "decryptionkey": "d64e06d35da487acad1c766551ad9b0edfcc3c9edf3e4e178605e73271ec0ca4"
+        },
+        "253540": {
+            "manifests": {
+                "2013": {
+                    "gid": "3933736744170730469",
+                    "size": "3091161915",
+                    "download": "1537727392"
+                }
+            },
+            "decryptionkey": "5be915a666a803a20540bdc4f0d0054f29daeafd104f76c76c5cfbd690bc5646"
+        },
+        "253541": {
+            "manifests": {
+                "2013": {
+                    "gid": "8487198564713706072",
+                    "size": "2198493760",
+                    "download": "930830128"
+                }
+            },
+            "decryptionkey": "7b653d2c63184f96538663ec65b33de33a05d4d52090681983dd0e0accc50ab6"
+        },
+        "253542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "2013": {
+                    "gid": "7889945450161539706",
+                    "size": "46769873",
+                    "download": "11783376"
+                }
+            },
+            "decryptionkey": "521b0c27f3c45b399016235756a5261ed7f9dbe81f517239576d0c9dffb9cdad"
+        },
+        "253543": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "2013": {
+                    "gid": "1539963514906872584",
+                    "size": "102995753",
+                    "download": "33184272"
+                }
+            },
+            "decryptionkey": "2e327633d43f86e1f0ff67d7f66e69da7611b349dec0aacca2dbbb25f5c3694c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3990439",
+                "timeupdated": "1562554762"
+            },
+            "v2.7.5": {
+                "buildid": "2455043",
+                "description": "previous version 2.7.5",
+                "timeupdated": "1518981319"
+            },
+            "v2.7.6": {
+                "buildid": "2515404",
+                "description": "previous version 2.7.6",
+                "timeupdated": "1518981270"
+            },
+            "2013": {
+                "buildid": "17509432",
+                "description": "Port of FF to the 2013 Source SDK",
+                "timeupdated": "1740545758"
+            }
+        }
+    }
+}
