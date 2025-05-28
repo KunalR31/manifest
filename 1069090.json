@@ -1,0 +1,58 @@
+{
+    "appid": "1069090",
+    "type": "Application",
+    "name": "PureDesktop",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27259257",
+    "update_time": "2025-02-01 02:31:36",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese",
+        "1069091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8184703617056334431",
+                    "size": "321731349",
+                    "download": "113182032"
+                },
+                "beta": {
+                    "gid": "2571518813023816570",
+                    "size": "382855332",
+                    "download": "169465520"
+                }
+            },
+            "decryptionkey": "2746689ebd45f6b851f265726009b1d33d203d94bc47cbd3af5708de34874df5"
+        },
+        "1069092": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4823534",
+                "timeupdated": "1585253646"
+            },
+            "beta": {
+                "buildid": "5493061",
+                "description": "Version with the newest features - Probably unstable",
+                "timeupdated": "1599053083"
+            }
+        }
+    }
+}
