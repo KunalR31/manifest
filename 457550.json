@@ -1,0 +1,67 @@
+{
+    "appid": "457550",
+    "type": "Game",
+    "name": "Bigscreen Beta",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27783518",
+    "update_time": "2025-03-05 06:29:52",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "457551": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6300428541921797268",
+                    "size": "5032947365",
+                    "download": "1955571936"
+                },
+                "alpha": {
+                    "gid": "6300428541921797268",
+                    "size": "5032947365",
+                    "download": "1955571936"
+                },
+                "nightly": {
+                    "gid": "4891823150222848489",
+                    "size": "5073613893",
+                    "download": "1973534144"
+                }
+            },
+            "decryptionkey": "edb611db92ec055ba62c71f74f722c0227565e108b5c2bf07b513a9e7cde3e53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17583584",
+                "timeupdated": "1741127387"
+            },
+            "alpha": {
+                "buildid": "17583584",
+                "description": "Bigscreen alpha build",
+                "timeupdated": "1741061577"
+            },
+            "nightly": {
+                "buildid": "16823106",
+                "description": "Bigscreen nightly builds",
+                "timeupdated": "1734776273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
