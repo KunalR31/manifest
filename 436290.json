@@ -1,0 +1,77 @@
+{
+    "appid": "436290",
+    "type": "Game",
+    "name": "Children of Zodiarcs",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973443",
+    "update_time": "2025-05-14 12:37:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "436291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5284103660293929089",
+                    "size": "2865675412",
+                    "download": "1006364800"
+                },
+                "testing": {
+                    "gid": "6352589396580790520",
+                    "size": "2864341514",
+                    "download": "1004966928"
+                }
+            },
+            "decryptionkey": "66181abc5d00904fee552d0fe2613cfe1203107d51ad0bf8afd698997e97dff0"
+        },
+        "677670": {
+            "dlcappid": "677670",
+            "manifests": {
+                "public": {
+                    "gid": "3720444992861560121",
+                    "size": "358013298",
+                    "download": "342332528"
+                },
+                "testing": {
+                    "gid": "3720444992861560121",
+                    "size": "358013298",
+                    "download": "342332528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "436292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5600585676418794474",
+                    "size": "3040295899",
+                    "download": "1039469504"
+                }
+            },
+            "decryptionkey": "493dc49b5d940c0a06a1ec26bdca1bd99d1f202294ce142cf737085ac2274032"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2470163",
+                "timeupdated": "1521209851"
+            },
+            "testing": {
+                "buildid": "2040629",
+                "description": "Public beta test branch",
+                "timeupdated": "1502975244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
