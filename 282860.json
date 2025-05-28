@@ -1,0 +1,62 @@
+{
+    "appid": "282860",
+    "type": "Game",
+    "name": "Masterspace",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22582485",
+    "update_time": "2024-05-26 00:15:52",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "282861": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7258328859040544394",
+                    "size": "711470000",
+                    "download": "422765984"
+                },
+                "beta": {
+                    "gid": "7258328859040544394",
+                    "size": "711470000",
+                    "download": "422765984"
+                }
+            },
+            "decryptionkey": "f93ffcde2f0aeebc82cb2b2bfe12cb696f01654edf10cb04fabf9e2d5b0e9c15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "659045"
+            },
+            "beta": {
+                "buildid": "659045",
+                "description": "Beta"
+            }
+        }
+    }
+}
