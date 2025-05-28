@@ -1,0 +1,119 @@
+{
+    "appid": "238260",
+    "type": "Game",
+    "name": "Pinball Arcade",
+    "schinese_name": "豪华弹珠",
+    "isfreeapp": "1",
+    "change_number": "28970643",
+    "update_time": "2025-05-14 08:17:49",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "238261": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6601832109856305996",
+                    "size": "20461593304",
+                    "download": "12102051920"
+                },
+                "cabinet_beta": {
+                    "gid": "3083917768090613245",
+                    "size": "19838396233",
+                    "download": "11715257600"
+                },
+                "osx_default": {
+                    "gid": "2039571931357626667",
+                    "size": "4746061802",
+                    "download": "1997821356751"
+                },
+                "public_beta": {
+                    "gid": "6541550003625221590",
+                    "size": "19838380873",
+                    "download": "11715225360"
+                }
+            },
+            "decryptionkey": "9ef15d26286184d0726927b4b48aabb76cda2368c0749eff06b0d0c0d3a47a71"
+        },
+        "238262": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1843759413542542912",
+                    "size": "143000975",
+                    "download": "105978352"
+                },
+                "cabinet_beta": {
+                    "gid": "3919013399986236744",
+                    "size": "127788781",
+                    "download": "105578320"
+                },
+                "osx_default": {
+                    "gid": "4063628049022788647",
+                    "size": "107610729",
+                    "download": "88594704"
+                },
+                "public_beta": {
+                    "gid": "3919013399986236744",
+                    "size": "127788781",
+                    "download": "105578320"
+                }
+            },
+            "decryptionkey": "deac391c192de62175d2a181c4043177a749c51b70d1967ab841bc133b55cafd"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "5650517",
+                "timeupdated": "1602111493"
+            },
+            "cabinet_beta": {
+                "buildid": "2983841",
+                "timeupdated": "1532713738"
+            },
+            "osx_default": {
+                "buildid": "1735085",
+                "description": "test release",
+                "timeupdated": "1491332255"
+            },
+            "public_beta": {
+                "buildid": "2912868",
+                "description": "Public UI Beta",
+                "timeupdated": "1530561803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
