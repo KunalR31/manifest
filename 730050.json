@@ -1,0 +1,88 @@
+{
+    "appid": "730050",
+    "type": "Game",
+    "name": "Verdant Skies",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977752",
+    "update_time": "2025-05-14 22:43:34",
+    "depot": {
+        "workshopdepot": "730050",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "730052": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8818125994521682101",
+                    "size": "820460610",
+                    "download": "314880704"
+                },
+                "publictesting": {
+                    "gid": "475754451721710124",
+                    "size": "1264880109",
+                    "download": "359388496"
+                }
+            },
+            "decryptionkey": "72857a70331480c9fb407686649680eb6c316725550af0dc7db76679744e6dd4"
+        },
+        "730051": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5598884670607209952",
+                    "size": "838099039",
+                    "download": "318764512"
+                },
+                "publictesting": {
+                    "gid": "5598884670607209952",
+                    "size": "838099039",
+                    "download": "318764512"
+                }
+            },
+            "decryptionkey": "afe3a7d6ea825f6d9b7a2b529b8f122cd71228dabfac8d819808708715d5c117"
+        },
+        "730053": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7911203106884863670",
+                    "size": "833210973",
+                    "download": "318633504"
+                },
+                "publictesting": {
+                    "gid": "6257496564312464012",
+                    "size": "1267118312",
+                    "download": "358448816"
+                }
+            },
+            "decryptionkey": "f03ca3321a8e0391239d0417ab8c54de64fac77f086b0a632e9226003e3ff598"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6572654",
+                "timeupdated": "1619062031"
+            },
+            "publictesting": {
+                "buildid": "17312174",
+                "description": "Public Testing",
+                "timeupdated": "1739220146"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e84a874e4a752183c2a51658aeb18d946eab503424dd8424b66915c3d9216033"
+    }
+}
