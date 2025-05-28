@@ -1,0 +1,53 @@
+{
+    "appid": "242800",
+    "type": "Game",
+    "name": "Day One: Garry's Incident",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-06-20 15:32:19",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "242801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2643122910826526766",
+                    "size": "3288839324",
+                    "download": "2757499904"
+                },
+                "local": {
+                    "gid": "2643122910826526766",
+                    "size": "3288839324",
+                    "download": "2757499904"
+                }
+            },
+            "decryptionkey": "0d79eb3d7fcdd93bb2095fcf6acc111bbf2e2ce806731a16201b6e5140948ff3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "647515"
+            },
+            "local": {
+                "buildid": "647515",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
