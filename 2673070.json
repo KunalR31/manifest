@@ -1,0 +1,59 @@
+{
+    "appid": "2673070",
+    "type": "Beta",
+    "name": "Ardem Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28544660",
+    "update_time": "2025-04-18 15:21:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2673071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7578354139962456153",
+                    "size": "23666372575",
+                    "download": "5876044928"
+                }
+            },
+            "decryptionkey": "4a20d554b654cc89b64c1657f1ceb9adef191d26460c851d7ec28eb145849fee"
+        },
+        "2673072": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4210832407472145541",
+                    "size": "23200281336",
+                    "download": "5623520736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18154545",
+                "timeupdated": "1744960901"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
