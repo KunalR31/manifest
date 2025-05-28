@@ -1,0 +1,107 @@
+{
+    "appid": "1799650",
+    "type": "Game",
+    "name": "Bullet Bash",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28795746",
+    "update_time": "2025-05-03 10:30:32",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1799652": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6662941506039449",
+                    "size": "11755772677",
+                    "download": "2745875696"
+                },
+                "local": {
+                    "gid": "8853058370845031297",
+                    "size": "3040620129",
+                    "download": "804953504"
+                }
+            },
+            "decryptionkey": "c21be2a21cb3f4d64d46d79563f3094007a58a2513f0a202ff03676a97e624be"
+        },
+        "1799651": {},
+        "2008900": {
+            "dlcappid": "2008900",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "775384299339891171",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "2008901": {
+            "dlcappid": "2008901",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5262719605061583670",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "2008902": {
+            "dlcappid": "2008902",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3886585003010116068",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9231552",
+                "timeupdated": "1659378626"
+            },
+            "local": {
+                "buildid": "8489997",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1649007733"
+            }
+        }
+    }
+}
