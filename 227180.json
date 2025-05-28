@@ -1,0 +1,74 @@
+{
+    "appid": "227180",
+    "type": "Game",
+    "name": "Kingdom Wars",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28984825",
+    "update_time": "2025-05-15 00:07:17",
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "227181": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3823630835119290573",
+                    "size": "4740531096",
+                    "download": "2454941392"
+                }
+            },
+            "decryptionkey": "27c067ed5e3f418455dd9449960f43df57a9579ed50d920f91f69d861b6f6ac5"
+        },
+        "366330": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3177392472588520459",
+                    "size": "18768",
+                    "download": "16928"
+                }
+            },
+            "dlcappid": "366330",
+            "decryptionkey": ""
+        },
+        "366331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "240514202089314088",
+                    "size": "18768",
+                    "download": "16928"
+                }
+            },
+            "dlcappid": "366331",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6198280",
+                "timeupdated": "1612571446"
+            }
+        }
+    }
+}
