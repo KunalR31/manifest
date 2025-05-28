@@ -1,0 +1,74 @@
+{
+    "appid": "898590",
+    "type": "Game",
+    "name": "Margonem",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28802184",
+    "update_time": "2025-05-04 01:29:23",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "898591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6653150606802749714",
+                    "size": "252319302",
+                    "download": "89883024"
+                },
+                "beta": {
+                    "gid": "6653150606802749714",
+                    "size": "252319302",
+                    "download": "89883024"
+                }
+            },
+            "decryptionkey": "55151b99907ec5ea09a93491d18b02cd57f82a9333204ae8e3797ecf0daa02bc"
+        },
+        "898592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7276979693973978945",
+                    "size": "148940559",
+                    "download": "57100928"
+                },
+                "beta": {
+                    "gid": "7276979693973978945",
+                    "size": "148940559",
+                    "download": "57100928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9243581",
+                "timeupdated": "1660131098"
+            },
+            "beta": {
+                "buildid": "9243581",
+                "timeupdated": "1659519089"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
