@@ -1,0 +1,56 @@
+{
+    "appid": "1513030",
+    "type": "Game",
+    "name": "Soar: Pillars of Tasneem",
+    "schinese_name": "龙与苍穹之歌",
+    "isfreeapp": "0",
+    "change_number": "28991976",
+    "update_time": "2025-05-15 08:14:33",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1513032": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3852283225069422211",
+                    "size": "3061751569",
+                    "download": "1168925488"
+                },
+                "beta": {
+                    "gid": "6607883910597979630",
+                    "size": "3063746336",
+                    "download": "1169478176"
+                }
+            },
+            "decryptionkey": "17cb26fd207678129ed3610538c4b404213ba4aa9318b2f852e85ebaaf7f559c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18432882",
+                "timeupdated": "1747072004"
+            },
+            "beta": {
+                "buildid": "18434739",
+                "description": "the very latest in Soar's development. potentially very bizarre or unstable",
+                "timeupdated": "1747081436"
+            }
+        }
+    }
+}
