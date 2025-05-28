@@ -1,0 +1,74 @@
+{
+    "appid": "2631520",
+    "type": "Game",
+    "name": "Royale King",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26795268",
+    "update_time": "2024-12-27 16:43:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2631521": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7123598696946352042",
+                    "size": "965916416",
+                    "download": "830466208"
+                },
+                "linux": {
+                    "gid": "3411512718875925691",
+                    "size": "923718079",
+                    "download": "793075536"
+                }
+            },
+            "decryptionkey": "d37daf69f8248da2dae31df18a15dfab0c0ce1623ed6fd5664954fc226d12d9a"
+        },
+        "2631522": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6365025808872013463",
+                    "size": "902580438",
+                    "download": "731390384"
+                },
+                "linux": {
+                    "gid": "6365025808872013463",
+                    "size": "902580438",
+                    "download": "731390384"
+                }
+            },
+            "decryptionkey": "d9bab57e6dbfa1808eb8f2a2b56806d29e3cf2c270ba0cbba0a33e8112fa4adc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16461403",
+                "timeupdated": "1732035543"
+            },
+            "linux": {
+                "buildid": "13915036",
+                "description": "Linux Version",
+                "timeupdated": "1711997515"
+            }
+        }
+    }
+}
