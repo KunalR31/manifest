@@ -1,0 +1,55 @@
+{
+    "appid": "1614010",
+    "type": "Game",
+    "name": "FreeRunners",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28816380",
+    "update_time": "2025-05-05 12:30:31",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1614011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4825432162276152356",
+                    "size": "1571432761",
+                    "download": "629007776"
+                },
+                "local": {
+                    "gid": "3728820485374270181",
+                    "size": "1553146606",
+                    "download": "625110560"
+                }
+            },
+            "decryptionkey": "457164c296a8647c388301f060390f123ecb33df5a0908a9725d2ffb972b08d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6873793",
+                "timeupdated": "1623782935"
+            },
+            "local": {
+                "buildid": "6691605",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1620865123"
+            }
+        }
+    }
+}
