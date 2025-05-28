@@ -1,0 +1,84 @@
+{
+    "appid": "1003940",
+    "type": "Game",
+    "name": "Invasion Zero",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26248540",
+    "update_time": "2024-11-19 01:26:36",
+    "depot": {
+        "baselanguages": "english,french,italian,spanish,schinese,russian,brazilian",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1003941": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4283503613816382738",
+                    "size": "4267651476",
+                    "download": "2719484272"
+                }
+            },
+            "decryptionkey": "5376a356aded8853f5611f55590a846d27adc65b71e09b54b12a4e68cdab3051"
+        },
+        "1003942": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "647426575671195658",
+                    "size": "4267651476",
+                    "download": "2717980096"
+                }
+            },
+            "decryptionkey": "65a888b55ff0f79f056cf8e3b7f3d73dad50bb27df6f6451eaf4e48cf45648bf"
+        },
+        "1003943": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6352840154696403644",
+                    "size": "4267651476",
+                    "download": "2717980096"
+                }
+            },
+            "decryptionkey": "27f096df80eed003657dd52dfbe48af0aa6e85518571590e8d36dc176c3d5e5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5323779",
+                "timeupdated": "1595517872"
+            }
+        }
+    }
+}
