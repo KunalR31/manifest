@@ -1,0 +1,57 @@
+{
+    "appid": "3331260",
+    "type": "Game",
+    "name": "Ho-Ho-Maze!",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26581799",
+    "update_time": "2024-12-11 04:16:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3331261": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3407184029548998741",
+                    "size": "691705157",
+                    "download": "550433584"
+                },
+                "local": {
+                    "gid": "2221633469873106255",
+                    "size": "690622051",
+                    "download": "549291312"
+                }
+            },
+            "decryptionkey": "55dc50f85261e1c4e578fbb858d0da3d6bb3f2cf8be4c76dd17a8a486eb03bf7"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16697728",
+                "timeupdated": "1733854818"
+            },
+            "local": {
+                "buildid": "16583102",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1732909314"
+            }
+        }
+    }
+}
