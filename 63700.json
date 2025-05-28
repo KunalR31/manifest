@@ -1,0 +1,100 @@
+{
+    "appid": "63700",
+    "type": "Game",
+    "name": "BIT.TRIP BEAT",
+    "schinese_name": "节奏方块",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:48",
+    "depot": {
+        "202951": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1229884303698906555",
+                    "size": "30432094",
+                    "download": "29642496"
+                },
+                "wingl_unsupported": {
+                    "gid": "1229884303698906555",
+                    "size": "30432094",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "202951",
+            "decryptionkey": ""
+        },
+        "63703": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5291636274410280479",
+                    "size": "100803489",
+                    "download": "43158384"
+                },
+                "wingl_unsupported": {
+                    "gid": "8859860168884864114",
+                    "size": "99367318",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "156e8a2307ecc35558cf66d3c242a490e24d7608b9ab674d58285402e0080636"
+        },
+        "63701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2851779470641597068",
+                    "size": "104374027",
+                    "download": "53700816"
+                },
+                "wingl_unsupported": {
+                    "gid": "6210850681662118994",
+                    "size": "103811646",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "53436b3fec16246d17bdd1636c2958840cc9b4abf665756088f3ded150274094"
+        },
+        "98005": {
+            "manifests": {
+                "public": {
+                    "gid": "2392078250303359337",
+                    "size": "10423434",
+                    "download": "0"
+                },
+                "wingl_unsupported": {
+                    "gid": "2392078250303359337",
+                    "size": "10423434",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "98005",
+            "decryptionkey": ""
+        },
+        "63705": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "774535"
+            },
+            "wingl_unsupported": {
+                "buildid": "20727",
+                "description": "Old OpenGL builds.  Unsupported!"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
