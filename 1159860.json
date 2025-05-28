@@ -1,0 +1,67 @@
+{
+    "appid": "1159860",
+    "type": "Game",
+    "name": "Dash Dash World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29042901",
+    "update_time": "2025-05-18 03:11:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1159861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "905582991558378941",
+                    "size": "11721669501",
+                    "download": "10236854512"
+                },
+                "china_test": {
+                    "gid": "5117164019814190717",
+                    "size": "5528045255",
+                    "download": "4386903904"
+                },
+                "beta": {
+                    "gid": "905582991558378941",
+                    "size": "11721669501",
+                    "download": "10236854512"
+                }
+            },
+            "decryptionkey": "5752a2a0119a527282eb82d56beef296cc64a65900b73c754a74040c0da1c81d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18317240",
+                "timeupdated": "1746171260"
+            },
+            "china_test": {
+                "buildid": "6838156",
+                "description": "test access from china",
+                "timeupdated": "1623228615"
+            },
+            "beta": {
+                "buildid": "18317240",
+                "description": "beta",
+                "timeupdated": "1746161004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
