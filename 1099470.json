@@ -1,0 +1,90 @@
+{
+    "appid": "1099470",
+    "type": "Game",
+    "name": "Karl BOOM",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25749312",
+    "update_time": "2024-10-16 23:08:53",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1099471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5939626969158711688",
+                    "size": "350303541",
+                    "download": "224499472"
+                },
+                "beta": {
+                    "gid": "5939626969158711688",
+                    "size": "350303541",
+                    "download": "224499472"
+                }
+            },
+            "decryptionkey": "a21ebbf7bc67ca210b25c65e387e82dc9a6106d888b9bb65236199bbbe7da799"
+        },
+        "1099472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5999563357917471806",
+                    "size": "282164246",
+                    "download": "148238784"
+                },
+                "beta": {
+                    "gid": "5999563357917471806",
+                    "size": "282164246",
+                    "download": "148238784"
+                }
+            },
+            "decryptionkey": "77d2a84ed46834458e65e2e2fd82798762644a91a591464ca904002660511ffa"
+        },
+        "1099473": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8144999079850296081",
+                    "size": "447157202",
+                    "download": "176522816"
+                },
+                "beta": {
+                    "gid": "8144999079850296081",
+                    "size": "447157202",
+                    "download": "176522816"
+                }
+            },
+            "decryptionkey": "6d39a135376f798bada0f06352ddeb9321c10204180fec54580a684ac381ba1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8950282",
+                "timeupdated": "1655392794"
+            },
+            "beta": {
+                "buildid": "8950282",
+                "timeupdated": "1655392810"
+            }
+        }
+    }
+}
