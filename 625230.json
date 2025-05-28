@@ -1,0 +1,47 @@
+{
+    "appid": "625230",
+    "type": "Game",
+    "name": "Kiln Prototype",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28975867",
+    "update_time": "2025-05-14 22:40:00",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "625231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5648418002066059747",
+                    "size": "381743205",
+                    "download": "332510800"
+                },
+                "devtest1": {
+                    "gid": "7422125730621290004",
+                    "size": "380531565",
+                    "download": "331468144"
+                }
+            },
+            "decryptionkey": "1d755c04ac83ae06138f743ea5e9ed666bda2f1c4fd51a517bfd30efa60db329"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4167052",
+                "timeupdated": "1567620898"
+            },
+            "devtest1": {
+                "buildid": "1785832",
+                "timeupdated": "1493317831"
+            }
+        }
+    }
+}
