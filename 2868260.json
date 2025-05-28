@@ -1,0 +1,64 @@
+{
+    "appid": "2868260",
+    "type": "Game",
+    "name": "Urban Nightmare",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29015010",
+    "update_time": "2025-05-16 10:06:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2868261": {
+            "config": {
+                "oslist": "windows",
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3583642450831157762",
+                    "size": "941450149",
+                    "download": "830599920"
+                },
+                "patchupdate": {
+                    "gid": "2869614643850311008",
+                    "size": "837293284",
+                    "download": "727537168"
+                }
+            },
+            "decryptionkey": "c2a9f9a709d0485b84e63b29dee0c425f7a886569be55ce2b11903d648d19d96"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15278668",
+                "timeupdated": "1722967983"
+            },
+            "patchupdate": {
+                "buildid": "14280900",
+                "description": "For updating builds to base game",
+                "timeupdated": "1715017285"
+            }
+        }
+    }
+}
