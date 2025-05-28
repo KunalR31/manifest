@@ -1,0 +1,52 @@
+{
+    "appid": "251830",
+    "type": "Game",
+    "name": "Stick It To The Man!",
+    "schinese_name": "男人要坚强",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 10:40:06",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "251831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1277250619323413137",
+                    "size": "1248489671",
+                    "download": "51098289632"
+                }
+            },
+            "decryptionkey": "57e041bbf2f07d9a1b3f63b4a7be01f80ec1acce51f3aa2449970b0d9be0c174"
+        },
+        "251832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1527253918897816613",
+                    "size": "1266913847",
+                    "download": "1028480212260"
+                }
+            },
+            "decryptionkey": "52a01582b98739c09d3562b07b39083348cf98bb4a5ce579e42969a0c6b38d38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "319619"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
