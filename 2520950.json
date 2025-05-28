@@ -1,0 +1,74 @@
+{
+    "appid": "2520950",
+    "type": "Game",
+    "name": "The Light in the Darkness",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29012764",
+    "update_time": "2025-05-16 06:42:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2520951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3951144432949835187",
+                    "size": "1743811123",
+                    "download": "1394216208"
+                },
+                "local": {
+                    "gid": "5457082136824833057",
+                    "size": "1448704409",
+                    "download": "1262516000"
+                }
+            },
+            "decryptionkey": "3d6600c30553c3cf15f4cc6d6412cd2b1b4c9acbcf3ef1a8bc526a2168a25e11"
+        },
+        "2520952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8773957936472917843",
+                    "size": "1473027145",
+                    "download": "1197517584"
+                },
+                "local": {
+                    "gid": "4028973794110313584",
+                    "size": "1473027145",
+                    "download": "1197517584"
+                }
+            },
+            "decryptionkey": "3964fe440289eddf37385c9e26e54ff800b3f03e78115ff0622e1b5ce658deed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14070622",
+                "timeupdated": "1713275482"
+            },
+            "local": {
+                "buildid": "13964877",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1712331860"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
