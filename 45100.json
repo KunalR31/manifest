@@ -1,0 +1,81 @@
+{
+    "appid": "45100",
+    "type": "Game",
+    "name": "Secret of the Magic Crystal",
+    "schinese_name": "魔法水晶的秘密",
+    "isfreeapp": "0",
+    "change_number": "27814845",
+    "update_time": "2025-03-06 21:02:14",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "45102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5385733301666267658",
+                    "size": "401356656",
+                    "download": "224045408"
+                }
+            },
+            "decryptionkey": "b55a037810b5afcc0680ec08bebb5552c5e575a7127d6eea0278cc55941b17ed"
+        },
+        "45101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7144414359961295069",
+                    "size": "399027736",
+                    "download": "222789248"
+                }
+            },
+            "decryptionkey": "ab9d39d5e3494902836da23fb486b15bbd2fa7a56177d7509b323f27d2062441"
+        },
+        "45103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1447734209618435468",
+                    "size": "399125518",
+                    "download": "224373488"
+                }
+            },
+            "decryptionkey": "912e77307101adc64b5cb13d7302e814cb1fa18193e1f6395e345c468796c3cd"
+        },
+        "321420": {
+            "manifests": {
+                "public": {
+                    "gid": "6637710186577139563",
+                    "size": "51121019",
+                    "download": "49540528"
+                }
+            },
+            "dlcappid": "321420",
+            "decryptionkey": "eeff91fa236f70bfdc5a3d23420250637731b1981a0b6bb40e91a2d40259d691"
+        },
+        "null": {
+            "depotfromapp": "321420"
+        },
+        "branches": {
+            "public": {
+                "buildid": "421940"
+            }
+        }
+    }
+}
