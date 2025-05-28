@@ -1,0 +1,112 @@
+{
+    "appid": "1928540",
+    "type": "Game",
+    "name": "Horticular",
+    "schinese_name": "园艺大师 Horticular",
+    "isfreeapp": "0",
+    "change_number": "28991051",
+    "update_time": "2025-05-15 06:53:06",
+    "depot": {
+        "workshopdepot": "1928540",
+        "1928541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5430242751209261362",
+                    "size": "364594923",
+                    "download": "141889520"
+                },
+                "test": {
+                    "gid": "6909692601866623596",
+                    "size": "354490782",
+                    "download": "139534576"
+                },
+                "test-1.5": {
+                    "gid": "4501039142073906494",
+                    "size": "364802028",
+                    "download": "141958720"
+                }
+            },
+            "decryptionkey": "a7961bda09e236dd8b36b9e45dcb0553b27e100162abcb0545f0f58ba1212474"
+        },
+        "1928542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3222391668478488433",
+                    "size": "375820341",
+                    "download": "145896656"
+                },
+                "test": {
+                    "gid": "9009687255718712098",
+                    "size": "344670595",
+                    "download": "137642432"
+                },
+                "test-1.5": {
+                    "gid": "2464679528056107939",
+                    "size": "375940726",
+                    "download": "145943120"
+                }
+            },
+            "decryptionkey": "53db8f0fa281168f3a3f3d49926b13417355aea3e82ae1305618780423f6452e"
+        },
+        "1928543": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5132989266110732433",
+                    "size": "373925899",
+                    "download": "143436256"
+                },
+                "test-1.5": {
+                    "gid": "4675378918199374355",
+                    "size": "374100060",
+                    "download": "143485424"
+                }
+            }
+        },
+        "3421790": {
+            "dlcappid": "3421790",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4555744844888403387",
+                    "size": "5100406",
+                    "download": "2380528"
+                },
+                "test-1.5": {
+                    "gid": "7176403687854328436",
+                    "size": "5082767",
+                    "download": "2359968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18223999",
+                "timeupdated": "1745499908"
+            },
+            "test": {
+                "buildid": "15878754",
+                "description": "Test branch for v1.1",
+                "timeupdated": "1727720008"
+            },
+            "test-1.5": {
+                "buildid": "17971397",
+                "description": "Test branch for v1.5",
+                "timeupdated": "1743690006"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
