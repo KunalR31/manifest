@@ -1,0 +1,46 @@
+{
+    "appid": "273110",
+    "type": "Game",
+    "name": "Counter-Strike Nexon",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28979212",
+    "update_time": "2025-05-14 22:46:10",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,russian,turkish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "273111": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5103889483080335846",
+                    "size": "11778205646",
+                    "download": "10982055888"
+                }
+            },
+            "decryptionkey": "1a055548bc66ae731b5770c9ebc03f8d8cf9476db8677070cec5b1f1ead9cd3d"
+        },
+        "273112": {},
+        "branches": {
+            "public": {
+                "buildid": "18453153",
+                "timeupdated": "1747188614"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
