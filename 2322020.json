@@ -1,0 +1,116 @@
+{
+    "appid": "2322020",
+    "type": "Game",
+    "name": "SeaFeud",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29010787",
+    "update_time": "2025-05-16 04:13:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2322021": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6943733495269646366",
+                    "size": "1769740746",
+                    "download": "1499056400"
+                },
+                "alpha": {
+                    "gid": "4691915760412664197",
+                    "size": "1755609807",
+                    "download": "1305419808"
+                },
+                "beta": {
+                    "gid": "8192864135475757737",
+                    "size": "1285386102",
+                    "download": "1025763776"
+                },
+                "gold": {
+                    "gid": "6943733495269646366",
+                    "size": "1769740746",
+                    "download": "1499056400"
+                },
+                "pocg": {
+                    "gid": "7462090183153916094",
+                    "size": "754719299",
+                    "download": "341043152"
+                },
+                "poct": {
+                    "gid": "8883436873819548175",
+                    "size": "709819816",
+                    "download": "297211792"
+                },
+                "release_candidate": {
+                    "gid": "6943733495269646366",
+                    "size": "1769740746",
+                    "download": "1499056400"
+                },
+                "vsfp": {
+                    "gid": "7263007622773248936",
+                    "size": "1368752007",
+                    "download": "955476288"
+                }
+            },
+            "decryptionkey": "f1cf0a633ab7444b12cecc23749cb32dc1313068f97bddf5f800357544477c5a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11190532",
+                "timeupdated": "1683652270"
+            },
+            "alpha": {
+                "buildid": "10939278",
+                "description": "alpha",
+                "timeupdated": "1680716952"
+            },
+            "beta": {
+                "buildid": "11100314",
+                "description": "beta",
+                "timeupdated": "1682557230"
+            },
+            "gold": {
+                "buildid": "11190532",
+                "description": "rtm",
+                "timeupdated": "1683652624"
+            },
+            "pocg": {
+                "buildid": "10667409",
+                "description": "Proof of Concept Gameplay",
+                "timeupdated": "1683042156"
+            },
+            "poct": {
+                "buildid": "10648466",
+                "description": "Proof of Concept Technology",
+                "timeupdated": "1683042107"
+            },
+            "release_candidate": {
+                "buildid": "11190532",
+                "description": "release candidate",
+                "timeupdated": "1683646314"
+            },
+            "vsfp": {
+                "buildid": "10830623",
+                "description": "verical slice, first playable",
+                "timeupdated": "1679502147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
