@@ -1,0 +1,66 @@
+{
+    "appid": "1593930",
+    "type": "Game",
+    "name": "Destinies",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27321332",
+    "update_time": "2025-02-05 15:44:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1593931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "96967129764366353",
+                    "size": "207330556",
+                    "download": "63057568"
+                }
+            },
+            "decryptionkey": "5f91dde4c8ca6a3971dd91bc01b0fff60d7b3503db58705ed41e33388d3ca243"
+        },
+        "1593932": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8052507207845741326",
+                    "size": "405866795",
+                    "download": "87211136"
+                }
+            },
+            "decryptionkey": "862c0ddda4e2f306eaf413c3fc9e2998e2405564b057b6418c513c77cd0a9eae"
+        },
+        "1593933": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2845602492215248006",
+                    "size": "352286883",
+                    "download": "81813280"
+                }
+            },
+            "decryptionkey": "afc93f51d5fd5af1eab78c9ffea44284c21d08b5f2387ee491eae8d9a6a97775"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17235571",
+                "timeupdated": "1738741440"
+            }
+        }
+    }
+}
