@@ -1,0 +1,61 @@
+{
+    "appid": "677620",
+    "type": "Game",
+    "name": "Splitgate",
+    "schinese_name": "分裂门：竞技场",
+    "isfreeapp": "1",
+    "change_number": "28976832",
+    "update_time": "2025-05-14 22:41:55",
+    "depot": {
+        "workshopdepot": "677620",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "677621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8931190387663187068",
+                    "size": "16628104186",
+                    "download": "16527301344"
+                }
+            },
+            "decryptionkey": "be2dca4ba34e344f11909ccafc208ec3e60c7363c61b8c75e3961764206c0d2c"
+        },
+        "677622": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7928676895174210694",
+                    "size": "24621835608",
+                    "download": "23392363888"
+                }
+            },
+            "decryptionkey": "0fde01ebb01f9ed9a3eaa98581f588add3f68f0686a4827b08a37cd96e87ac85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15804115",
+                "timeupdated": "1727155367"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
