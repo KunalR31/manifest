@@ -1,0 +1,83 @@
+{
+    "appid": "653780",
+    "type": "Game",
+    "name": "Defend Your Kingdom",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28976426",
+    "update_time": "2025-05-14 22:41:09",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "653781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2077928659876959451",
+                    "size": "304512433",
+                    "download": "36628272"
+                },
+                "test": {
+                    "gid": "2077928659876959451",
+                    "size": "304512433",
+                    "download": "36628272"
+                }
+            },
+            "decryptionkey": "88ed29df703cee4e624a15cd6481c2f53ab7e2329c435e75d3264d40ea22609e"
+        },
+        "653782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6100312259478919486",
+                    "size": "310076584",
+                    "download": "39828304"
+                },
+                "test": {
+                    "gid": "6100312259478919486",
+                    "size": "310076584",
+                    "download": "39828304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "653783": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4902223389789253341",
+                    "size": "310091261",
+                    "download": "40275664"
+                },
+                "test": {
+                    "gid": "4902223389789253341",
+                    "size": "310091261",
+                    "download": "40275664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1931684",
+                "timeupdated": "1499026976"
+            },
+            "test": {
+                "buildid": "1931684",
+                "timeupdated": "1499017289"
+            }
+        }
+    }
+}
