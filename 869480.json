@@ -1,0 +1,135 @@
+{
+    "appid": "869480",
+    "type": "Game",
+    "name": "Jabroni Brawl: Episode 3",
+    "schinese_name": "傻缺大乱斗：第三章",
+    "isfreeapp": "1",
+    "change_number": "28979783",
+    "update_time": "2025-05-14 22:47:34",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "workshopdepot": "869480",
+        "869481": {
+            "manifests": {
+                "public": {
+                    "gid": "2547177863167158896",
+                    "size": "23964678038",
+                    "download": "10429753712"
+                },
+                "revert": {
+                    "gid": "2232031619308729726",
+                    "size": "23652302164",
+                    "download": "10309435952"
+                },
+                "upcoming": {
+                    "gid": "2547177863167158896",
+                    "size": "23964678038",
+                    "download": "10429753712"
+                }
+            },
+            "decryptionkey": "04ca70818842e0a04db1f9b25ecd4afc1da390b7e9aa8d08ef61244776f26f5b"
+        },
+        "869484": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "845346785004202880",
+                    "size": "109557289",
+                    "download": "35977904"
+                },
+                "revert": {
+                    "gid": "7989633726868625128",
+                    "size": "110821193",
+                    "download": "36314112"
+                },
+                "upcoming": {
+                    "gid": "845346785004202880",
+                    "size": "109557289",
+                    "download": "35977904"
+                }
+            },
+            "decryptionkey": "c6c7924b5ebd8fd801b2c0b8cd1953d9ccd9a5aef3f552f0fe99157e5ccb5724"
+        },
+        "869482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3319289326025486195",
+                    "size": "227498881",
+                    "download": "56915168"
+                },
+                "revert": {
+                    "gid": "1769307498071568201",
+                    "size": "227894635",
+                    "download": "56794464"
+                },
+                "upcoming": {
+                    "gid": "3319289326025486195",
+                    "size": "227498881",
+                    "download": "56915168"
+                }
+            },
+            "decryptionkey": "84bf33439167aaa639c694287ff1cf0f2a2dfbff8e88afc33bea096c8c3d0fd2"
+        },
+        "869486": {
+            "config": {
+                "language": "arabic"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7268382403134151529",
+                    "size": "116",
+                    "download": "128"
+                },
+                "revert": {
+                    "gid": "7268382403134151529",
+                    "size": "116",
+                    "download": "128"
+                },
+                "upcoming": {
+                    "gid": "7268382403134151529",
+                    "size": "116",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415139",
+                "timeupdated": "1746893722"
+            },
+            "revert": {
+                "buildid": "16876526",
+                "description": "Previous patch",
+                "timeupdated": "1746890267"
+            },
+            "upcoming": {
+                "buildid": "18415139",
+                "description": "Upcoming changes",
+                "timeupdated": "1746893309"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
