@@ -1,0 +1,94 @@
+{
+    "appid": "364790",
+    "type": "Game",
+    "name": "Voyage to Farland",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27074779",
+    "update_time": "2025-01-20 19:52:21",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "364791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2345900740318516135",
+                    "size": "24664355",
+                    "download": "20188224"
+                },
+                "gameonlynojre": {
+                    "gid": "2345900740318516135",
+                    "size": "24664355",
+                    "download": "20188224"
+                },
+                "previousversion": {
+                    "gid": "1336375406277613260",
+                    "size": "24654988",
+                    "download": "20181472"
+                }
+            },
+            "decryptionkey": "d0cf626ad7915ee5a7a82d36c6269d9263d87e96f1acc4312188cbfb0479f572"
+        },
+        "364792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6324734561600960308",
+                    "size": "126734492",
+                    "download": "67012320"
+                },
+                "gameonlynojre": {
+                    "gid": "1676494480129193091",
+                    "size": "22031818",
+                    "download": "19679872"
+                },
+                "previousversion": {
+                    "gid": "2087032826877674629",
+                    "size": "22013999",
+                    "download": "19670992"
+                }
+            },
+            "decryptionkey": "dd6d92a56b8973e51059086f8dead62da8612ab64557891e59f2fcaad37ff5e5"
+        },
+        "364793": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9139430983075695219",
+                    "size": "21236449",
+                    "download": "19241328"
+                },
+                "gameonlynojre": {
+                    "gid": "9139430983075695219",
+                    "size": "21236449",
+                    "download": "19241328"
+                },
+                "previousversion": {
+                    "gid": "8862439392716694379",
+                    "size": "21226519",
+                    "download": "19232448"
+                }
+            },
+            "decryptionkey": "83e7c94bf8dbd36e944ea135a9f6443bd323c062a912e478535488dc186ab5ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "853099"
+            },
+            "gameonlynojre": {
+                "buildid": "853094",
+                "description": "v2.3.2 Game only, no Java Runtime"
+            },
+            "previousversion": {
+                "buildid": "664140",
+                "description": "v2.3.1 (No Bundled Java Runtime)"
+            }
+        }
+    }
+}
