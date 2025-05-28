@@ -1,0 +1,126 @@
+{
+    "appid": "792570",
+    "type": "Game",
+    "name": "BattleCON: Online",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25218186",
+    "update_time": "2024-09-14 05:38:52",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "792571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2391293076099970020",
+                    "size": "869532376",
+                    "download": "750489104"
+                },
+                "beta": {
+                    "gid": "2391293076099970020",
+                    "size": "869532376",
+                    "download": "750489104"
+                },
+                "devtest": {
+                    "gid": "2391293076099970020",
+                    "size": "869532376",
+                    "download": "750489104"
+                }
+            },
+            "decryptionkey": "b691c68ade832dff28f00c637bf12d946be1cd6c2b2abb06119d84575ffbc47f"
+        },
+        "792572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "884551626500482913",
+                    "size": "879080163",
+                    "download": "753997632"
+                },
+                "beta": {
+                    "gid": "884551626500482913",
+                    "size": "879080163",
+                    "download": "753997632"
+                },
+                "devtest": {
+                    "gid": "884551626500482913",
+                    "size": "879080163",
+                    "download": "753997632"
+                }
+            },
+            "decryptionkey": "9f4526b0aca55516913eb35972a79a245cfa443081028017f2be899f9d5718bb"
+        },
+        "792573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3979401111019951907",
+                    "size": "869753776",
+                    "download": "750158176"
+                },
+                "beta": {
+                    "gid": "3979401111019951907",
+                    "size": "869753776",
+                    "download": "750158176"
+                },
+                "devtest": {
+                    "gid": "3979401111019951907",
+                    "size": "869753776",
+                    "download": "750158176"
+                }
+            },
+            "decryptionkey": "57f286281af03de902737e4c71461e2677dcd30004d2c98fa7fad81022b0954e"
+        },
+        "940970": {
+            "manifests": {
+                "public": {
+                    "gid": "3963217172124891176",
+                    "size": "828991472",
+                    "download": "761007840"
+                },
+                "beta": {
+                    "gid": "3963217172124891176",
+                    "size": "828991472",
+                    "download": "761007840"
+                },
+                "devtest": {
+                    "gid": "3963217172124891176",
+                    "size": "828991472",
+                    "download": "761007840"
+                }
+            },
+            "dlcappid": "940970",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "6004937",
+                "timeupdated": "1608698866"
+            },
+            "beta": {
+                "buildid": "6004937",
+                "description": "BETA Builds",
+                "timeupdated": "1608698849"
+            },
+            "devtest": {
+                "buildid": "6004937",
+                "description": "Specific Dev Test Builds",
+                "timeupdated": "1608698857"
+            }
+        }
+    }
+}
