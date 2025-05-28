@@ -1,0 +1,64 @@
+{
+    "appid": "1512210",
+    "type": "Application",
+    "name": "Ultra App Kit",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27799136",
+    "update_time": "2025-03-06 01:08:15",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1512211": {
+            "manifests": {
+                "public": {
+                    "gid": "5671164808732190947",
+                    "size": "437270327",
+                    "download": "62244016"
+                },
+                "beta": {
+                    "gid": "5671164808732190947",
+                    "size": "437270327",
+                    "download": "62244016"
+                },
+                "v1.0": {
+                    "gid": "7026657501383487777",
+                    "size": "125948894",
+                    "download": "16520528"
+                },
+                "v1.1": {
+                    "gid": "1718358681829225166",
+                    "size": "540616964",
+                    "download": "72339264"
+                }
+            },
+            "decryptionkey": "9a5f2e217cca4d0607f2e4e2b1197eb0b69ecb78d17232d79f71be5c6db8dd54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7363930",
+                "timeupdated": "1631714444"
+            },
+            "beta": {
+                "buildid": "7363930",
+                "description": "Development branch for testing latest build",
+                "timeupdated": "1631714229"
+            },
+            "v1.0": {
+                "buildid": "6626770",
+                "description": "Version 1.0 archive",
+                "timeupdated": "1626367892"
+            },
+            "v1.1": {
+                "buildid": "7059826",
+                "description": "Version 1.1 archive",
+                "timeupdated": "1631710420"
+            }
+        }
+    }
+}
