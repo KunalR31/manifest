@@ -1,0 +1,51 @@
+{
+    "appid": "1958270",
+    "type": "Game",
+    "name": "Strip'Em II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1958271": {
+            "manifests": {
+                "public": {
+                    "gid": "775592337262749878",
+                    "size": "920708364",
+                    "download": "872906896"
+                },
+                "test": {
+                    "gid": "3608189893590012921",
+                    "size": "921981508",
+                    "download": "875269184"
+                }
+            },
+            "decryptionkey": "1e0fa4f435ac8add0843d3f69af029bd51a378ddf201bc0f5663e4781ea3bbda"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15582421",
+                "timeupdated": "1725396419"
+            },
+            "test": {
+                "buildid": "9298996",
+                "description": "Test branch",
+                "timeupdated": "1660248820"
+            }
+        }
+    }
+}
