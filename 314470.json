@@ -1,0 +1,125 @@
+{
+    "appid": "314470",
+    "type": "Game",
+    "name": "Heroes of a Broken Land",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971804",
+    "update_time": "2025-05-14 10:07:51",
+    "depot": {
+        "314471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5985973181503212708",
+                    "size": "91931036",
+                    "download": "39406336"
+                },
+                "beta": {
+                    "gid": "5985973181503212708",
+                    "size": "91931036",
+                    "download": "39406336"
+                },
+                "local": {
+                    "gid": "771183848189515706",
+                    "size": "81741172",
+                    "download": "41815744"
+                }
+            },
+            "decryptionkey": "d6116820c29eb4c932cb5b7e28682bf11545ef2807589f9cb699c34437402bba"
+        },
+        "314472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7116118795241361125",
+                    "size": "100792005",
+                    "download": "40875104"
+                },
+                "beta": {
+                    "gid": "7116118795241361125",
+                    "size": "100792005",
+                    "download": "40875104"
+                },
+                "local": {
+                    "gid": "1354118032995934371",
+                    "size": "90409761",
+                    "download": "43807552"
+                }
+            },
+            "decryptionkey": "c4cc921a56ced9e342d01997792222c940d020ee01760b28daf89f52cd19dc48"
+        },
+        "314473": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "680882792645698225",
+                    "size": "98486284",
+                    "download": "41079840"
+                },
+                "beta": {
+                    "gid": "680882792645698225",
+                    "size": "98486284",
+                    "download": "41079840"
+                },
+                "local": {
+                    "gid": "386580159329867262",
+                    "size": "87824393",
+                    "download": "44134640"
+                }
+            },
+            "decryptionkey": "249c9c3f592c5f0c4cd94dd8bf664c035e3d4798e6ea2649835d7b33eea06383"
+        },
+        "314474": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3612462174896416577",
+                    "size": "101326620",
+                    "download": "41689648"
+                },
+                "beta": {
+                    "gid": "3612462174896416577",
+                    "size": "101326620",
+                    "download": "41689648"
+                },
+                "local": {
+                    "gid": "6899406003668952044",
+                    "size": "90648317",
+                    "download": "45032560"
+                }
+            },
+            "decryptionkey": "855e48d427a187b7ae8ad1fc0f43cfba904f7e318f01d6d7a70c8e77d83655f3"
+        },
+        "314475": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1116481",
+                "timeupdated": "1462759312"
+            },
+            "beta": {
+                "buildid": "1116481",
+                "timeupdated": "1462758719"
+            },
+            "local": {
+                "buildid": "369619",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
