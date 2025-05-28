@@ -1,0 +1,70 @@
+{
+    "appid": "1039280",
+    "type": "Game",
+    "name": "ProtoCorgi",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983048",
+    "update_time": "2025-05-14 22:52:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1039281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8460586853585419247",
+                    "size": "349449704",
+                    "download": "205301120"
+                }
+            },
+            "decryptionkey": "53d40f91a21bcc391b242f6a7344b24320eee30ed5238330139f6229d9ba47dd"
+        },
+        "1039282": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1406904269206955545",
+                    "size": "364823719",
+                    "download": "209205696"
+                }
+            },
+            "decryptionkey": "e5310f33e84522c19456fa34ac9563ee33e2d0d014cad5e1b01a425d4abe4497"
+        },
+        "1039283": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6192626072296757426",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e84d57666437e4481757f0b5d9b9cfdf4d28266838d03830fbe7ae3768bcef13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13907573",
+                "timeupdated": "1711905009"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
