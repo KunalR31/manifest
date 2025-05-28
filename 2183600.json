@@ -1,0 +1,50 @@
+{
+    "appid": "2183600",
+    "type": "Game",
+    "name": "Kingdom Under Fire: War of Heroes",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29009471",
+    "update_time": "2025-05-16 02:42:45",
+    "depot": {
+        "baselanguages": "english,koreana",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2183601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2612023876209130067",
+                    "size": "3811520480",
+                    "download": "2508357312"
+                },
+                "local": {
+                    "gid": "4634316223441850076",
+                    "size": "2280689408",
+                    "download": "1423657680"
+                }
+            },
+            "decryptionkey": "36774107f9645db3b3eb64c518d174e4d8d672c54286c44e11e19312dc864b03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18292164",
+                "timeupdated": "1746002424"
+            },
+            "local": {
+                "buildid": "9767880",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1666332336"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
