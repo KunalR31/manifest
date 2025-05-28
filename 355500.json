@@ -1,0 +1,79 @@
+{
+    "appid": "355500",
+    "type": "Application",
+    "name": "Leadwerks Game Launcher",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28088706",
+    "update_time": "2025-03-23 00:19:14",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "355501": {
+            "manifests": {
+                "public": {
+                    "gid": "7393004455321657800",
+                    "size": "49509416",
+                    "download": "13963360"
+                },
+                "beta": {
+                    "gid": "7393004455321657800",
+                    "size": "49509416",
+                    "download": "13963360"
+                },
+                "v4.2": {
+                    "gid": "200658936793160026",
+                    "size": "33658800",
+                    "download": "9421616"
+                },
+                "v4.3": {
+                    "gid": "5063714535449469494",
+                    "size": "35045876",
+                    "download": "9710896"
+                }
+            },
+            "decryptionkey": "9a6b49708156c88e1d84aaa3be062e173ca25e0a56922125b98f004c45ecd59e"
+        },
+        "workshopdepot": "355500",
+        "branches": {
+            "public": {
+                "buildid": "2574570",
+                "timeupdated": "1520167085"
+            },
+            "beta": {
+                "buildid": "2574570",
+                "description": "Latest build for testing",
+                "timeupdated": "1520167094"
+            },
+            "v4.2": {
+                "buildid": "1558821",
+                "description": "Archive",
+                "timeupdated": "1485807576"
+            },
+            "v4.3": {
+                "buildid": "1620993",
+                "description": "Archive",
+                "timeupdated": "1499441015"
+            }
+        }
+    }
+}
