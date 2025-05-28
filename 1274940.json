@@ -1,0 +1,57 @@
+{
+    "appid": "1274940",
+    "type": "Game",
+    "name": "Strip 'Em",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28900605",
+    "update_time": "2025-05-09 19:32:15",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,dutch,romanian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1274941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3538721800359845403",
+                    "size": "1752609694",
+                    "download": "690107376"
+                },
+                "testpublic": {
+                    "gid": "2460196050917185798",
+                    "size": "1755331564",
+                    "download": "690055328"
+                }
+            },
+            "decryptionkey": "7dff4c8aa52773e0c953c153ee4446e84349224b47337208a1ac6b9795408eba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15621814",
+                "timeupdated": "1725663181"
+            },
+            "testpublic": {
+                "buildid": "11640399",
+                "timeupdated": "1688651045"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
