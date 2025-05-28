@@ -1,0 +1,54 @@
+{
+    "appid": "862440",
+    "type": "Game",
+    "name": "Angel Wings",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26080527",
+    "update_time": "2024-11-07 08:02:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "862441": {
+            "manifests": {
+                "public": {
+                    "gid": "528618013500170761",
+                    "size": "1388860990",
+                    "download": "1362453488"
+                },
+                "legacy": {
+                    "gid": "5668874767203721591",
+                    "size": "1388911627",
+                    "download": "1362492192"
+                },
+                "beta": {
+                    "gid": "528618013500170761",
+                    "size": "1388860990",
+                    "download": "1362453488"
+                }
+            },
+            "decryptionkey": "28b140d86af72d6f7962826ca3265ca69327e6d7093063b7dd4018e43d6dbf64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16291682",
+                "timeupdated": "1730937755"
+            },
+            "legacy": {
+                "buildid": "6389994",
+                "description": "Legacy branch with previous versions of the game",
+                "timeupdated": "1706061405"
+            },
+            "beta": {
+                "buildid": "16291682",
+                "description": "Testing builds",
+                "timeupdated": "1730749315"
+            }
+        }
+    }
+}
