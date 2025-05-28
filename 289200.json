@@ -1,0 +1,66 @@
+{
+    "appid": "289200",
+    "type": "Game",
+    "name": "Ascension to the Throne",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971347",
+    "update_time": "2025-05-14 09:27:58",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "289201": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "856768591579735448",
+                    "size": "1434687617",
+                    "download": "790831456"
+                }
+            },
+            "decryptionkey": "d540f9eb00f5ac7006972c9002f1dc78b23c12450e646a9b338fdf485940d69b"
+        },
+        "289202": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1327487973455068334",
+                    "size": "128217954",
+                    "download": "113575024"
+                }
+            },
+            "decryptionkey": "b413527cb404b7811fd861cb2e7ece5bd6857d82af71c348232c942748441c28"
+        },
+        "289203": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1114802742375488006",
+                    "size": "128535864",
+                    "download": "111434032"
+                }
+            },
+            "decryptionkey": "15e3231a8d49b045d2857621ecf3ce16a133bdef75838cf55b8787b94fd49e07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "706064"
+            }
+        }
+    }
+}
