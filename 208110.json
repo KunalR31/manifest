@@ -1,0 +1,61 @@
+{
+    "appid": "208110",
+    "type": "Game",
+    "name": "Myst V",
+    "schinese_name": "神秘岛5",
+    "isfreeapp": "0",
+    "change_number": "29030233",
+    "update_time": "2025-05-17 02:08:17",
+    "depot": {
+        "overridescddb": "1",
+        "208111": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1208836627210721890",
+                    "size": "5132161107",
+                    "download": "3492044448"
+                },
+                "previous-version": {
+                    "gid": "2178986775327854036",
+                    "size": "2125718560",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "a693c9fb9f8b66af6489ff0d1ab3f3e6d9003f19b25bb2791ab8aa345b8c823a"
+        },
+        "208112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "867233243795995814",
+                    "size": "6466127474",
+                    "download": "3729335328"
+                },
+                "previous-version": {
+                    "gid": "8644588971430993231",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4202d0f82aaab80a98ef4edd2d7d0a3e733e49710235dc005aa81642b7bf67d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15621176",
+                "timeupdated": "1726685556"
+            },
+            "previous-version": {
+                "buildid": "3108766",
+                "description": "Previous Version",
+                "timeupdated": "1536614794"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
