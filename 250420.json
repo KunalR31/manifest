@@ -1,0 +1,81 @@
+{
+    "appid": "250420",
+    "type": "Game",
+    "name": "8BitMMO",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27132057",
+    "update_time": "2025-01-23 22:25:54",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "250421": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "484219613649862777",
+                    "size": "268202434",
+                    "download": "175380544"
+                }
+            },
+            "decryptionkey": "b9f67b86a553410079258d03deb3444bfce6aef3feda2c51b210e047401a1cce"
+        },
+        "250422": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2495697649789334939",
+                    "size": "275159086",
+                    "download": "177273616"
+                }
+            },
+            "decryptionkey": "699b36e9f51c3131bbf147625a28647c267a8e3f6c4a1db76fea12d16bca7e32"
+        },
+        "250423": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1180405058624340562",
+                    "size": "295237038",
+                    "download": "168403584"
+                }
+            },
+            "decryptionkey": "ec25ebfba3a2e1a3be73d774691d317b6379dc1bbf75a0b31ea9a224d2178564"
+        },
+        "250424": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5049605192310035713",
+                    "size": "270154742",
+                    "download": "175916672"
+                }
+            },
+            "decryptionkey": "4aabe23bfd3f5e853e509da187824dcc5c45eb8749b209287d7ef9a7f301dd7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "868696"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
