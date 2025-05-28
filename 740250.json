@@ -1,0 +1,109 @@
+{
+    "appid": "740250",
+    "type": "Game",
+    "name": "Neos VR",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28977915",
+    "update_time": "2025-05-14 22:44:00",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "740251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "796551503361208206",
+                    "size": "1100964664",
+                    "download": "680884144"
+                },
+                "old-dash": {
+                    "gid": "6432917051099107006",
+                    "size": "1495998654",
+                    "download": "899077024"
+                },
+                "previous-build": {
+                    "gid": "7211823466959584127",
+                    "size": "1323289477",
+                    "download": "744596016"
+                },
+                "shfr-android": {
+                    "gid": "7599267117881167899",
+                    "size": "1904299754",
+                    "download": "1054424640"
+                }
+            },
+            "decryptionkey": "da2dc28d9565bacbe71c04cd1dc416c5ee0d332300beee06b783b61fd12bc5e9"
+        },
+        "740252": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5616226669913641520",
+                    "size": "242143944",
+                    "download": "65188000"
+                },
+                "old-dash": {
+                    "gid": "7712010581144010516",
+                    "size": "218275846",
+                    "download": "43197488"
+                },
+                "previous-build": {
+                    "gid": "8109924855203550288",
+                    "size": "242271565",
+                    "download": "65177536"
+                },
+                "shfr-android": {
+                    "gid": "6822337087032409066",
+                    "size": "299709184",
+                    "download": "76172640"
+                }
+            },
+            "decryptionkey": "a962ac67e8403280d07ecdc66bdb161d7e0293596614a543da91593ad3a81c95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13060091",
+                "timeupdated": "1703817232"
+            },
+            "old-dash": {
+                "buildid": "5189992",
+                "timeupdated": "1593462027"
+            },
+            "previous-build": {
+                "buildid": "8108053",
+                "description": "Previous build from the public (nightly) channel",
+                "timeupdated": "1643408305"
+            },
+            "shfr-android": {
+                "buildid": "5124031",
+                "timeupdated": "1591331827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
