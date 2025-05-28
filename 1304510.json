@@ -1,0 +1,54 @@
+{
+    "appid": "1304510",
+    "type": "Game",
+    "name": "SCP: Nine-Tailed Fox",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28894996",
+    "update_time": "2025-05-09 12:36:01",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1304511": {
+            "manifests": {
+                "public": {
+                    "gid": "1719101282517801870",
+                    "size": "606200931",
+                    "download": "438176480"
+                },
+                "proton": {
+                    "gid": "5641995929476973312",
+                    "size": "606159595",
+                    "download": "438177760"
+                }
+            },
+            "decryptionkey": "20ae4a0173188bf67b23aedc925661e665cd791185dabab809c25b440aba087b"
+        },
+        "workshopdepot": "1304510",
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "15691500",
+                "timeupdated": "1726239532"
+            },
+            "proton": {
+                "buildid": "15940788",
+                "description": "Proton Testing Branch",
+                "timeupdated": "1728148338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
