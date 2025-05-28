@@ -1,0 +1,71 @@
+{
+    "appid": "2899660",
+    "type": "Game",
+    "name": "热血街头",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28958310",
+    "update_time": "2025-05-13 18:32:39",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2899661": {
+            "manifests": {
+                "public": {
+                    "gid": "585343150889553342",
+                    "size": "274048512",
+                    "download": "131975040"
+                },
+                "dlcgo": {
+                    "gid": "585343150889553342",
+                    "size": "274048512",
+                    "download": "131975040"
+                }
+            },
+            "decryptionkey": "529d9b8642d046ffebbbf619183e8cff0e5ad079c175276e73b6b27743cc1d03"
+        },
+        "2900290": {
+            "dlcappid": "2900290",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3617385653826819641",
+                    "size": "439942899",
+                    "download": "151221088"
+                },
+                "dlcgo": {
+                    "gid": "3617385653826819641",
+                    "size": "439942899",
+                    "download": "151221088"
+                }
+            },
+            "decryptionkey": "a67650caba8908e933a352e9b0fd5053abc1f6cfafa36848af1aa0d8128abe38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14188500",
+                "timeupdated": "1714154307"
+            },
+            "dlcgo": {
+                "buildid": "14188500",
+                "description": "DCLTest",
+                "timeupdated": "1714150555"
+            }
+        }
+    }
+}
