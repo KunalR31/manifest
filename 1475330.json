@@ -1,0 +1,53 @@
+{
+    "appid": "1475330",
+    "type": "Game",
+    "name": "Peak Darkness",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28781678",
+    "update_time": "2025-05-02 15:47:59",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1475331": {
+            "manifests": {
+                "public": {
+                    "gid": "6474287558406503691",
+                    "size": "6329291282",
+                    "download": "6167100480"
+                },
+                "igs_testing_build": {
+                    "gid": "6474287558406503691",
+                    "size": "6329291282",
+                    "download": "6167100480"
+                }
+            },
+            "decryptionkey": "69c2a58e9d40b61059c8d793939bee3a33b755e3c0a7d15502c178846c506382"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14308010",
+                "timeupdated": "1715214167"
+            },
+            "igs_testing_build": {
+                "buildid": "14308010",
+                "description": "Used for testing new stuff",
+                "timeupdated": "1715203324"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
