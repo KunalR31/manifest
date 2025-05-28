@@ -1,0 +1,82 @@
+{
+    "appid": "531630",
+    "type": "Game",
+    "name": "Non-Linear Text Quests",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "25424776",
+    "update_time": "2024-09-27 21:04:16",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "531631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6602094836613825716",
+                    "size": "407072708",
+                    "download": "371024496"
+                }
+            },
+            "decryptionkey": "e30592786f314f0c01f17a8a3c6877a532ed9ebace966d283880d701704cd3ce"
+        },
+        "531632": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3383808527183560148",
+                    "size": "408911297",
+                    "download": "371436960"
+                }
+            },
+            "decryptionkey": "5fb9fbd6c9079bfb8d97125f6d1bdc2961cedb9391c57c87b6a97d42cab744af"
+        },
+        "531633": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8870273040532457567",
+                    "size": "404968975",
+                    "download": "369818528"
+                }
+            },
+            "decryptionkey": "439669f85a3015ee8beca050775cbc6d73a7b5af532d329c93683931228bacf9"
+        },
+        "531634": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2191271872154784790",
+                    "size": "405137187",
+                    "download": "369818800"
+                }
+            },
+            "decryptionkey": "4e0295e48cf85658ba2fd0fa16a4ad9bc2241408b22cf1b60d0f773fca362809"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4286225",
+                "timeupdated": "1571076222"
+            }
+        }
+    }
+}
