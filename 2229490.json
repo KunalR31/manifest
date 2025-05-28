@@ -1,0 +1,58 @@
+{
+    "appid": "2229490",
+    "type": "Game",
+    "name": "Iragon: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29009919",
+    "update_time": "2025-05-16 03:12:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2229491": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1441786569081474060",
+                    "size": "5764376528",
+                    "download": "5023992304"
+                }
+            },
+            "decryptionkey": "046763678f2869d779f01a7a8d04fcd1f31bcd294ea6660d676844a0c9ce9dd3"
+        },
+        "2229492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3322260550543561545",
+                    "size": "6084699225",
+                    "download": "5624862208"
+                }
+            },
+            "decryptionkey": "628dd05e7bffafe7e9584893d4728e46eea1917686b1b126272e150fbee53440"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13549132",
+                "timeupdated": "1708732367"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
