@@ -1,0 +1,49 @@
+{
+    "appid": 1290980,
+    "name": "Extra Coin",
+    "type": "Game",
+    "schinese_name": "再来一次",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 13:11:54",
+    "change_number": 29929980,
+    "depot": {
+        "1290981": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6855042064150761689",
+                    "size": "4618437364",
+                    "download": "1074830304"
+                },
+                "demo": {
+                    "gid": "3286991898951520200",
+                    "size": "4412486542",
+                    "download": "1005589600"
+                }
+            },
+            "decryptionkey": "f9903015cbc6a1a0f42622b510da42741c2a6b8a34fb95cc33838c7107332d51"
+        },
+        "1290982": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18144832",
+                "timeupdated": "1745230450"
+            },
+            "demo": {
+                "buildid": "15677967",
+                "description": "Demo branch",
+                "timeupdated": "1726148350"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
