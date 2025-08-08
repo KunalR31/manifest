@@ -1,0 +1,64 @@
+{
+    "appid": 2204730,
+    "name": "Once upon a Dungeon II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 16:47:05",
+    "change_number": 30169755,
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2204731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8738841480200228306",
+                    "size": "324949654",
+                    "download": "115943984"
+                },
+                "feature": {
+                    "gid": "8738841480200228306",
+                    "size": "324949654",
+                    "download": "115943984"
+                }
+            },
+            "decryptionkey": "3b285592f402731907ee92b2f9c01f5b53ee2fc0dc247fda8cbe6c7f30601300"
+        },
+        "2204732": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2927072936535518214",
+                    "size": "324339947",
+                    "download": "114569472"
+                },
+                "feature": {
+                    "gid": "2927072936535518214",
+                    "size": "324339947",
+                    "download": "114569472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19301853",
+                "timeupdated": "1753112822"
+            },
+            "feature": {
+                "buildid": "19301853",
+                "description": "next ver",
+                "timeupdated": "1753112419"
+            }
+        }
+    }
+}
