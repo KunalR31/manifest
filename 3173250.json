@@ -1,0 +1,66 @@
+{
+    "appid": 3173250,
+    "name": "SKYGUARD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 22:42:04",
+    "change_number": 30194514,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3173251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2600917106991069416",
+                    "size": "7872573096",
+                    "download": "7592718768"
+                },
+                "development": {
+                    "gid": "8539120258070109767",
+                    "size": "7872096474",
+                    "download": "7592467568"
+                },
+                "shipping": {
+                    "gid": "4073458851576687835",
+                    "size": "2610105220",
+                    "download": "2350560368"
+                }
+            },
+            "decryptionkey": "67b389f4342d3d1643f874c7b4f2640cbd30f06410be927d23afcdf7c1784a7b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18944707",
+                "timeupdated": "1750453332"
+            },
+            "development": {
+                "buildid": "19068635",
+                "description": "Development",
+                "timeupdated": "1751391089"
+            },
+            "shipping": {
+                "buildid": "18653556",
+                "description": "Shipping",
+                "timeupdated": "1748495049"
+            }
+        }
+    }
+}
