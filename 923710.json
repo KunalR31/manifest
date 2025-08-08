@@ -1,0 +1,85 @@
+{
+    "appid": 923710,
+    "name": "uFactory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 23:52:36",
+    "change_number": 30158581,
+    "depot": {
+        "923711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "259297401748799833",
+                    "size": "364097538",
+                    "download": "166006784"
+                },
+                "godot_public_beta": {
+                    "gid": "2916345763855775188",
+                    "size": "364097075",
+                    "download": "159170256"
+                },
+                "old_unity": {
+                    "gid": "7063743648095167958",
+                    "size": "395425561",
+                    "download": "145821664"
+                }
+            },
+            "decryptionkey": "5E1A066947DCA4575AD9CD2444088E4BBB02A0415562B9175D2D8B73A41A1EC8"
+        },
+        "923712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4938351478248430175",
+                    "size": "332296791",
+                    "download": "159244432"
+                },
+                "godot_public_beta": {
+                    "gid": "2847692561875824429",
+                    "size": "332296312",
+                    "download": "152409008"
+                }
+            },
+            "decryptionkey": "E13A5617A505EC8E7B6272BCE6DB7A21C2D161914151DBFA02ABAED0D0DC9504"
+        },
+        "923713": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2998107732371068721",
+                    "size": "490224620",
+                    "download": "187247488"
+                },
+                "godot_public_beta": {
+                    "gid": "2998107732371068721",
+                    "size": "490224620",
+                    "download": "187247488"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19269308",
+                "timeupdated": "1752809198"
+            },
+            "godot_public_beta": {
+                "buildid": "19214710",
+                "description": "A public beta for the new version of uFactory built with Godot!",
+                "timeupdated": "1752488892"
+            },
+            "old_unity": {
+                "buildid": "7012307",
+                "description": "The outdated version of uFactory built on Unity.",
+                "timeupdated": "1748824307"
+            }
+        }
+    }
+}
