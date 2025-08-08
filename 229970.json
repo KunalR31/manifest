@@ -1,0 +1,56 @@
+{
+    "appid": 229970,
+    "name": "Armada 2526 Gold Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:48:25",
+    "change_number": 30164260,
+    "depot": {
+        "229971": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5932575453239183755",
+                    "size": "1306676158",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2299274292921411197",
+                    "size": "1510499671",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7bfbfb009c92cc25b972c5e824ea88707c9560951b154a509bb9fb47ce22c5e0"
+        },
+        "229972": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "535598730118207769",
+                    "size": "3420933",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3527883762764346233",
+                    "size": "3420933",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cd724fe3811d72f0b14480b98528b130a09a25064843520ecca7e21e4fd4e7b2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "43140"
+            },
+            "local": {
+                "buildid": "41885",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
