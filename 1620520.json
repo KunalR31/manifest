@@ -1,0 +1,126 @@
+{
+    "appid": 1620520,
+    "name": "Mondealy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 15:31:52",
+    "change_number": 30050442,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "1620521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8240962897874620857",
+                    "size": "282138411",
+                    "download": "228691904"
+                },
+                "neaudiofix": {
+                    "gid": "7479757829780092906",
+                    "size": "282639712",
+                    "download": "228829072"
+                },
+                "previous": {
+                    "gid": "3382401196923004339",
+                    "size": "282136700",
+                    "download": "228694256"
+                },
+                "public_testing": {
+                    "gid": "8240962897874620857",
+                    "size": "282138411",
+                    "download": "228691904"
+                },
+                "v1.0.0l": {
+                    "gid": "5861673703219684961",
+                    "size": "282125476",
+                    "download": "228706544"
+                },
+                "v1.0.4": {
+                    "gid": "8240962897874620857",
+                    "size": "282138411",
+                    "download": "228691904"
+                }
+            },
+            "decryptionkey": "eb1147614c1050062aa935ef864e8fed4aebf9ddf72e7aeb4fa715da5b09fd18"
+        },
+        "1620522": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4972525943733392339",
+                    "size": "283123114",
+                    "download": "228487680"
+                },
+                "neaudiofix": {
+                    "gid": "4972525943733392339",
+                    "size": "283123114",
+                    "download": "228487680"
+                },
+                "previous": {
+                    "gid": "5511193848229800675",
+                    "size": "283111744",
+                    "download": "228484768"
+                },
+                "public_testing": {
+                    "gid": "4972525943733392339",
+                    "size": "283123114",
+                    "download": "228487680"
+                },
+                "v1.0.0l": {
+                    "gid": "2281323087216331222",
+                    "size": "283100392",
+                    "download": "228495312"
+                },
+                "v1.0.4": {
+                    "gid": "4972525943733392339",
+                    "size": "283123114",
+                    "download": "228487680"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12178832",
+                "timeupdated": "1695124737"
+            },
+            "neaudiofix": {
+                "buildid": "12448701",
+                "description": "Test of NeAudioFix",
+                "timeupdated": "1697433265"
+            },
+            "previous": {
+                "buildid": "12048816",
+                "description": "Previous build (v1.0.3)",
+                "timeupdated": "1695124722"
+            },
+            "public_testing": {
+                "buildid": "12178832",
+                "description": "Pre-release patches and updates.",
+                "timeupdated": "1695124753"
+            },
+            "v1.0.0l": {
+                "buildid": "11893657",
+                "description": "Version 1.0.0l",
+                "timeupdated": "1694618980"
+            },
+            "v1.0.4": {
+                "buildid": "12178832",
+                "description": "Version 1.0.4",
+                "timeupdated": "1696786332"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
