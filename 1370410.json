@@ -1,0 +1,151 @@
+{
+    "appid": 1370410,
+    "name": "Progress Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 17:50:18",
+    "change_number": 30016047,
+    "depot": {
+        "1370411": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5885626959786192031",
+                    "size": "95933824",
+                    "download": "61865168"
+                },
+                "0.08": {
+                    "gid": "1477454551407423146",
+                    "size": "123289264",
+                    "download": "93062752"
+                },
+                "playtest": {
+                    "gid": "4346960479056018354",
+                    "size": "94077664",
+                    "download": "60673456"
+                },
+                "dev-playtest": {
+                    "gid": "6779514737763597063",
+                    "size": "176007016",
+                    "download": "101819392"
+                }
+            },
+            "decryptionkey": "7dc136d795d5dbc7c3e6602c10e1f9a052e8e82c9e8f2f459bee52a655c78184"
+        },
+        "1370412": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1139864173218957938",
+                    "size": "98242368",
+                    "download": "62728368"
+                },
+                "0.08": {
+                    "gid": "4910438605338515067",
+                    "size": "125622672",
+                    "download": "93891568"
+                },
+                "playtest": {
+                    "gid": "1138914395345935979",
+                    "size": "96386208",
+                    "download": "61583552"
+                },
+                "dev-playtest": {
+                    "gid": "2312919184092329107",
+                    "size": "150656823",
+                    "download": "94475872"
+                }
+            },
+            "decryptionkey": "ceb7826658f3e82a520e458cfa66a6036be8b85ea0389aa3b03dd2e62d47294f"
+        },
+        "1370414": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8680024871086308431",
+                    "size": "98684140",
+                    "download": "62572864"
+                },
+                "0.08": {
+                    "gid": "5882591923898324702",
+                    "size": "126060380",
+                    "download": "93619200"
+                },
+                "playtest": {
+                    "gid": "7923070947474260164",
+                    "size": "96827980",
+                    "download": "61297376"
+                },
+                "dev-playtest": {
+                    "gid": "3875406513797709695",
+                    "size": "98681500",
+                    "download": "62307744"
+                }
+            },
+            "decryptionkey": "58b485846252871af5e915c59f7767aaae2a5c553d493ae2ccd208f98da1542e"
+        },
+        "1370413": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4722647913059350865",
+                    "size": "133458635",
+                    "download": "72093248"
+                },
+                "0.08": {
+                    "gid": "5158542403600232693",
+                    "size": "160627171",
+                    "download": "102987232"
+                },
+                "playtest": {
+                    "gid": "990010482065959850",
+                    "size": "79794754",
+                    "download": "80337328"
+                },
+                "dev-playtest": {
+                    "gid": "1512810263701702728",
+                    "size": "265599499",
+                    "download": "128106288"
+                }
+            },
+            "decryptionkey": "0d28d531f0d14ba99940f8fed4ced9223b607fc52ca7573cae260585657dc645"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19051265",
+                "timeupdated": "1751289246"
+            },
+            "0.08": {
+                "buildid": "11102555",
+                "description": "For legacy version 0.08",
+                "timeupdated": "1682580732"
+            },
+            "playtest": {
+                "buildid": "10351250",
+                "description": "playtest-builds for progress game",
+                "timeupdated": "1674067812"
+            },
+            "dev-playtest": {
+                "buildid": "19193963",
+                "description": "Dev playtest builds",
+                "timeupdated": "1752252610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
