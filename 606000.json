@@ -1,0 +1,83 @@
+{
+    "appid": 606000,
+    "name": "Die for Valhalla!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 00:48:57",
+    "change_number": 30158939,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "606001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3572221781778931526",
+                    "size": "1674891212",
+                    "download": "307945344"
+                },
+                "beta": {
+                    "gid": "3572221781778931526",
+                    "size": "1674891212",
+                    "download": "307945344"
+                }
+            },
+            "decryptionkey": "fb03979470867c51c8f8a50732229fea53018ca68f9091b06088fb1d99436b4c"
+        },
+        "606002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "744320591579399313",
+                    "size": "1713067394",
+                    "download": "312382128"
+                },
+                "beta": {
+                    "gid": "744320591579399313",
+                    "size": "1713067394",
+                    "download": "312382128"
+                }
+            }
+        },
+        "606003": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6393976273587779091",
+                    "size": "1743702973",
+                    "download": "323517984"
+                },
+                "beta": {
+                    "gid": "4375429866381027935",
+                    "size": "1723128609",
+                    "download": "322982768"
+                }
+            }
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "4100860",
+                "timeupdated": "1565698765"
+            },
+            "beta": {
+                "buildid": "4103297",
+                "description": "Open Beta",
+                "timeupdated": "1565751097"
+            }
+        }
+    }
+}
