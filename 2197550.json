@@ -1,0 +1,57 @@
+{
+    "appid": 2197550,
+    "name": "Love Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:41:00",
+    "change_number": 29373774,
+    "depot": {
+        "2197551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1335971831037283295",
+                    "size": "141073692",
+                    "download": "33993392"
+                },
+                "beta": {
+                    "gid": "9012947215926215517",
+                    "size": "141073692",
+                    "download": "33993680"
+                }
+            },
+            "decryptionkey": "c4f6d37bd357ebcf41d7595400f9d24ebe5d0384d91fc700346a42c28c048ea8"
+        },
+        "2197552": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7617800920532235601",
+                    "size": "142592292",
+                    "download": "33104128"
+                },
+                "beta": {
+                    "gid": "5322847641321960729",
+                    "size": "141014548",
+                    "download": "33048752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10645610",
+                "timeupdated": "1677498976"
+            },
+            "beta": {
+                "buildid": "10645457",
+                "description": "beta testing",
+                "timeupdated": "1677497708"
+            }
+        }
+    }
+}
