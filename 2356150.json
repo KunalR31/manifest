@@ -1,0 +1,61 @@
+{
+    "appid": 2356150,
+    "name": "Arcane Assembly",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 18:15:25",
+    "change_number": 29811725,
+    "depot": {
+        "2356151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8234968148157106306",
+                    "size": "238868626",
+                    "download": "129426032"
+                },
+                "fractal": {
+                    "gid": "7877645319851089935",
+                    "size": "194081236",
+                    "download": "127171264"
+                },
+                "local": {
+                    "gid": "7101589613767514090",
+                    "size": "154314679",
+                    "download": "61959168"
+                },
+                "playtest": {
+                    "gid": "8234968148157106306",
+                    "size": "238868626",
+                    "download": "129426032"
+                }
+            },
+            "decryptionkey": "3061395ab01738e6770d6b9d069f772ef613dfa197d38c259a7602e5f1e6d8d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14488979",
+                "timeupdated": "1716825547"
+            },
+            "fractal": {
+                "buildid": "14138891",
+                "description": "fractal demo",
+                "timeupdated": "1713829750"
+            },
+            "local": {
+                "buildid": "10955445",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1680874019"
+            },
+            "playtest": {
+                "buildid": "14488979",
+                "description": "Branch for internal playtesting",
+                "timeupdated": "1716592215"
+            }
+        }
+    }
+}
