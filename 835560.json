@@ -1,0 +1,72 @@
+{
+    "appid": 835560,
+    "name": "Ancient Rush 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:39",
+    "change_number": 30056477,
+    "depot": {
+        "baselanguages": "english,german",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "835561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3090917736895895254",
+                    "size": "2528599286",
+                    "download": "1070955040"
+                },
+                "2.10-beta": {
+                    "gid": "1313338346005601462",
+                    "size": "2525574954",
+                    "download": "1076439696"
+                }
+            },
+            "decryptionkey": "9924be2513da1afa1063e7cc2ee8d499f7ea280c7ceeaf4109b23583c342f3f5"
+        },
+        "835562": {
+            "manifests": {
+                "2.10-beta": {
+                    "gid": "1619275436931144375",
+                    "size": "2521469152",
+                    "download": "1072732960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2891171",
+                "timeupdated": "1529881644"
+            },
+            "2.10-beta": {
+                "buildid": "2829478",
+                "timeupdated": "1528007758"
+            }
+        }
+    }
+}
