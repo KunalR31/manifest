@@ -1,0 +1,81 @@
+{
+    "appid": 1829870,
+    "name": "UAE",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:04:24",
+    "change_number": 29983681,
+    "depot": {
+        "1829870": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1829870",
+            "manifests": {
+                "public": {
+                    "gid": "483527966267031164",
+                    "size": "17623867",
+                    "download": "5140192"
+                },
+                "nightly": {
+                    "gid": "5992534520436960088",
+                    "size": "17640763",
+                    "download": "6082816"
+                }
+            },
+            "decryptionkey": "ff6bf98ff98a4f360503ff6bf700321fbdb77c72795c55a373f5dc389bbf1ff3"
+        },
+        "1829871": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5727436502249891927",
+                    "size": "21333219",
+                    "download": "5667856"
+                },
+                "nightly": {
+                    "gid": "6279266577198354824",
+                    "size": "21350435",
+                    "download": "6790304"
+                }
+            },
+            "dlcappid": "1829870",
+            "decryptionkey": "497be3a2aa49229b9b6897400c8161a05ad4343d0e6ad07fb5ebc4d5e669bc2a"
+        },
+        "1829872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8255944470759573285",
+                    "size": "40141563",
+                    "download": "9999168"
+                },
+                "nightly": {
+                    "gid": "472947961223267985",
+                    "size": "40190971",
+                    "download": "11824784"
+                }
+            },
+            "dlcappid": "1829870",
+            "decryptionkey": "cc1e754f26111c3dbba68acf2917d54218f7882e47daaa1924e18b5a1fc0a688"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265143",
+                "timeupdated": "1745845208"
+            },
+            "nightly": {
+                "buildid": "19172088",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134660"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
