@@ -1,0 +1,52 @@
+{
+    "appid": 3484300,
+    "name": "DREADZONE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:57:57",
+    "change_number": 30216127,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3484301": {
+            "manifests": {
+                "public": {
+                    "gid": "5178708502017066693",
+                    "size": "23989904282",
+                    "download": "22944633360"
+                },
+                "dlss": {
+                    "gid": "2884311813245043272",
+                    "size": "24120134690",
+                    "download": "23014811328"
+                }
+            },
+            "decryptionkey": "e26f07fd4b7fdee8af7f179b8f498c0527b56121cc06ecfa93a2b3c2c683e226"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19304666",
+                "timeupdated": "1753129005"
+            },
+            "dlss": {
+                "buildid": "19301780",
+                "description": "DLSS or FSR support",
+                "timeupdated": "1753112172"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
