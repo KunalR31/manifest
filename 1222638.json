@@ -1,0 +1,84 @@
+{
+    "appid": 1222638,
+    "name": "EasyRPG",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:10:38",
+    "change_number": 29983795,
+    "depot": {
+        "1222638": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1222638"
+            },
+            "dlcappid": "1222638",
+            "manifests": {
+                "public": {
+                    "gid": "6809258013942707108",
+                    "size": "21883668",
+                    "download": "5452384"
+                },
+                "nightly": {
+                    "gid": "1943323409465273172",
+                    "size": "22093588",
+                    "download": "5498560"
+                }
+            },
+            "decryptionkey": "d5310bf9d3cd64eef4b9ec8872e100ac5ff1cf3d8f1228444dc5172081426b97"
+        },
+        "1790111": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222638"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1542456804511158042",
+                    "size": "15065804",
+                    "download": "4627776"
+                },
+                "nightly": {
+                    "gid": "7841265394126111788",
+                    "size": "15049772",
+                    "download": "4639792"
+                }
+            },
+            "dlcappid": "1222638",
+            "decryptionkey": "f15bea4f82c90879667f4044cc79c94911a6f39460be4e5f020cc672d6c469b0"
+        },
+        "1790110": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222638"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4240116901860049741",
+                    "size": "28781292",
+                    "download": "8475520"
+                },
+                "nightly": {
+                    "gid": "4409064180912823183",
+                    "size": "28982076",
+                    "download": "8536576"
+                }
+            },
+            "dlcappid": "1222638",
+            "decryptionkey": "ce5acb07afd69e18b258e0a8b61d8f5d81ac996f342ea0c34be652f6de4adb05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265225",
+                "timeupdated": "1745845080"
+            },
+            "nightly": {
+                "buildid": "19172176",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752135032"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
