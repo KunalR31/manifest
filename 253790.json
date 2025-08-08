@@ -1,0 +1,74 @@
+{
+    "appid": 253790,
+    "name": "rymdkapsel",
+    "type": "Game",
+    "schinese_name": "胶囊太空站",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:57:08",
+    "change_number": 29654191,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "253791": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2281435840743105955",
+                    "size": "73081013",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3516596886126688366",
+                    "size": "73084405",
+                    "download": "142144731070"
+                }
+            },
+            "decryptionkey": "185f4c2ce5f01ad11f02e998c23d9ef598dc72314e2a8d1612c9019cac3cf422"
+        },
+        "253792": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2246537166871794594",
+                    "size": "73295196",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2246537166871794594",
+                    "size": "73295196",
+                    "download": "0"
+                }
+            }
+        },
+        "253793": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3290249314652101958",
+                    "size": "76892593",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3290249314652101958",
+                    "size": "76892593",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "180843"
+            },
+            "beta": {
+                "buildid": "375864"
+            }
+        }
+    }
+}
