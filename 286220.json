@@ -1,0 +1,65 @@
+{
+    "appid": 286220,
+    "name": "Pier Solar and the Great Architects",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:39:09",
+    "change_number": 29666077,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,japanese,portuguese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "286221": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8360586447374197411",
+                    "size": "2461202242",
+                    "download": "2133527872"
+                },
+                "local": {
+                    "gid": "5309874106305107416",
+                    "size": "4032063",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3ef4385eae74caa090b45a84c21bd786bf906ea1fc9c890e733223eb953ac63e"
+        },
+        "328200": {
+            "manifests": {
+                "public": {
+                    "gid": "62757730050916606",
+                    "size": "1192901423",
+                    "download": "1092008824307"
+                }
+            },
+            "dlcappid": "328200",
+            "decryptionkey": "7b797b4d6c5cde00cba9cf881258e5a5fdd525b6c02015093352861fc82b51be"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "621728"
+            },
+            "local": {
+                "buildid": "297129",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
