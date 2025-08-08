@@ -1,0 +1,62 @@
+{
+    "appid": 1766320,
+    "name": "Manhattan",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-25 16:40:30",
+    "change_number": 29173864,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1766321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4175163031533376168",
+                    "size": "135933952",
+                    "download": "111057776"
+                },
+                "legacy": {
+                    "gid": "2645952842921610371",
+                    "size": "137989632",
+                    "download": "110886336"
+                }
+            },
+            "decryptionkey": "e81c7e995707805b0186801357fe985dcdf279d9041ae7480e5bc1b5b9026314"
+        },
+        "1766322": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3674569647808307179",
+                    "size": "307644560",
+                    "download": "123135552"
+                },
+                "legacy": {
+                    "gid": "339638097637808749",
+                    "size": "304841458",
+                    "download": "122447728"
+                }
+            },
+            "decryptionkey": "2cb2291f218437d01a550e913fe6ef69bc00d3d8439a04bab8f7d9b4e14bf9f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14148640",
+                "timeupdated": "1713891721"
+            },
+            "legacy": {
+                "buildid": "11814375",
+                "description": "Previous release of the app (fallback for breaking changes)",
+                "timeupdated": "1699802648"
+            }
+        }
+    }
+}
