@@ -1,0 +1,77 @@
+{
+    "appid": 1640350,
+    "name": "Desktop Dinosaurs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 12:52:50",
+    "change_number": 29841876,
+    "depot": {
+        "1640351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6498759410656655865",
+                    "size": "106235215",
+                    "download": "26341728"
+                },
+                "alpha": {
+                    "gid": "9215490589292854750",
+                    "size": "99047923",
+                    "download": "24806832"
+                }
+            },
+            "decryptionkey": "2bfd620777eb217800fe7bb7c490592e6d88c60e02e18d01a496f44b80b78369"
+        },
+        "1640352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2126641833701091773",
+                    "size": "99182295",
+                    "download": "23942448"
+                },
+                "alpha": {
+                    "gid": "7683274349422504417",
+                    "size": "91995035",
+                    "download": "22413232"
+                }
+            },
+            "decryptionkey": "6a90a684f7e945d57cda9bd9946d2ed6ef27bb9fc81b99be95a218e5c11c52c8"
+        },
+        "1640354": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2743125158492517550",
+                    "size": "101291546",
+                    "download": "25112704"
+                },
+                "alpha": {
+                    "gid": "5770923587379493671",
+                    "size": "94104254",
+                    "download": "23574608"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13428758",
+                "timeupdated": "1707688604"
+            },
+            "alpha": {
+                "buildid": "11606554",
+                "description": "To test release",
+                "timeupdated": "1688247056"
+            }
+        }
+    }
+}
