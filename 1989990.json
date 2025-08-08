@@ -1,0 +1,102 @@
+{
+    "appid": 1989990,
+    "name": "Touhou Crisis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 01:10:13",
+    "change_number": 29752055,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "1",
+        "1989991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4337509645859270187",
+                    "size": "359261370",
+                    "download": "175491952"
+                },
+                "devbranch": {
+                    "gid": "4337509645859270187",
+                    "size": "359261370",
+                    "download": "175491952"
+                }
+            },
+            "decryptionkey": "35aff7b2ae48c066890b368f48d50aa8ed2ff530d248d8dc50dc6af733f9c216"
+        },
+        "1989992": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3460293352264217279",
+                    "size": "366377053",
+                    "download": "175977232"
+                },
+                "devbranch": {
+                    "gid": "3460293352264217279",
+                    "size": "366377053",
+                    "download": "175977232"
+                }
+            },
+            "decryptionkey": "80106ecb07055b8fbf2ceafb7123b091d1e61488a6ec562a616e646615e50077"
+        },
+        "1989993": {
+            "dlcappid": "1990000",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1163346091185547338",
+                    "size": "683677982",
+                    "download": "393528224"
+                },
+                "devbranch": {
+                    "gid": "1163346091185547338",
+                    "size": "683677982",
+                    "download": "393528224"
+                }
+            },
+            "decryptionkey": "1b27018a7247dc080030cf23128f95076cd3b44f7b647f2f133c36df2b8253ea"
+        },
+        "1989994": {
+            "dlcappid": "1990000",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4341236422769958994",
+                    "size": "578025706",
+                    "download": "383614240"
+                },
+                "devbranch": {
+                    "gid": "4341236422769958994",
+                    "size": "578025706",
+                    "download": "383614240"
+                }
+            },
+            "decryptionkey": "f7f8000f8a9c5aafd969f903b84d1e2c6f81b781a8f48bdec062e163e2519f0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8892114",
+                "timeupdated": "1654655273"
+            },
+            "devbranch": {
+                "buildid": "8892114",
+                "description": "Developers only",
+                "timeupdated": "1654654832"
+            }
+        }
+    }
+}
