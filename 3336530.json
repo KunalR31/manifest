@@ -1,0 +1,77 @@
+{
+    "appid": 3336530,
+    "name": "Embers Adrift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:16:14",
+    "change_number": 30217677,
+    "depot": {
+        "3336533": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "932123747359548047",
+                    "size": "10329582307",
+                    "download": "5673132272"
+                },
+                "development": {
+                    "gid": "7042406916072845787",
+                    "size": "10528435969",
+                    "download": "5781430592"
+                }
+            }
+        },
+        "3336532": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6543334891482567469",
+                    "size": "9969462266",
+                    "download": "5364877904"
+                },
+                "development": {
+                    "gid": "79365061433721656",
+                    "size": "10021976501",
+                    "download": "5432840016"
+                }
+            }
+        },
+        "3336531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5224999582941955602",
+                    "size": "9749904828",
+                    "download": "5368037008"
+                },
+                "development": {
+                    "gid": "200259223924399059",
+                    "size": "9849935632",
+                    "download": "5452151744"
+                }
+            },
+            "decryptionkey": "d61eaa9efa46e92dafb506cf8b62380c12d5b52c3b7588e815f71e274b93f18e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19148584",
+                "timeupdated": "1751991314"
+            },
+            "development": {
+                "buildid": "19331101",
+                "description": "QA Testing",
+                "timeupdated": "1753284072"
+            }
+        }
+    }
+}
