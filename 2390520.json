@@ -1,0 +1,58 @@
+{
+    "appid": 2390520,
+    "name": "Trans Neuronica",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:00:51",
+    "change_number": 29644232,
+    "depot": {
+        "2390521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6915687787885000784",
+                    "size": "346177114",
+                    "download": "168080880"
+                },
+                "old-electron": {
+                    "gid": "1455899940061124973",
+                    "size": "346194919",
+                    "download": "168076576"
+                }
+            },
+            "decryptionkey": "cd17ea042eb42b9ecc33dd422bcb825312263f7d5485031128a314e590a88e57"
+        },
+        "2390522": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2734044316062040933",
+                    "size": "350220346",
+                    "download": "163776080"
+                },
+                "old-electron": {
+                    "gid": "4994750083991922748",
+                    "size": "350227072",
+                    "download": "163777984"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16437549",
+                "timeupdated": "1732018869"
+            },
+            "old-electron": {
+                "buildid": "17958641",
+                "description": "Release build using older Electron Version",
+                "timeupdated": "1743616776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
