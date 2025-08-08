@@ -1,0 +1,62 @@
+{
+    "appid": 1107130,
+    "name": "The Way of Cinnamon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 02:13:31",
+    "change_number": 29940492,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1107131": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7377537720859745570",
+                    "size": "355039470",
+                    "download": "107087584"
+                },
+                "test": {
+                    "gid": "683278271949523224",
+                    "size": "375759216",
+                    "download": "110931184"
+                }
+            },
+            "decryptionkey": "ec435edbc3336dca5d338ef5031b936190cab511077fc169edf78a108aee10f2"
+        },
+        "1107132": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6745037672616838154",
+                    "size": "375759216",
+                    "download": "111028384"
+                }
+            },
+            "decryptionkey": "b42f2703037494fdef5140f08921a325c4dc8f73b6df95cb54b424f608d7645d"
+        },
+        "1107133": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8083150",
+                "timeupdated": "1643122574"
+            },
+            "test": {
+                "buildid": "8082835",
+                "description": "test",
+                "timeupdated": "1643120864"
+            }
+        }
+    }
+}
