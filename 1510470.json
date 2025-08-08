@@ -1,0 +1,62 @@
+{
+    "appid": 1510470,
+    "name": "PRIM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 03:31:33",
+    "change_number": 30032435,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "hasdepotsindlc": "1",
+        "1510471": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6455884955361869162",
+                    "size": "1124767055",
+                    "download": "929316992"
+                }
+            },
+            "decryptionkey": "0bb30ec8f576b16ea4561122794f756c64cce0961c7693080efd6328fafed6fe"
+        },
+        "1510472": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1669598264555699589",
+                    "size": "1135807088",
+                    "download": "931784224"
+                }
+            },
+            "decryptionkey": "b1035a7e2a25fbbee369022bdec8ad1c05500971c927aa5ff2fe9ebaafa20094"
+        },
+        "1510473": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6486552836474720024",
+                    "size": "1252885476",
+                    "download": "953059904"
+                }
+            },
+            "decryptionkey": "6ba272104df4e010f3c3f7e488774b88d7ed365cbf6986959158480954d8843e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18700706",
+                "timeupdated": "1750924703"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
