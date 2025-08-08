@@ -1,0 +1,53 @@
+{
+    "appid": 2636910,
+    "name": "Moonbase Lambda",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 03:12:02",
+    "change_number": 30022599,
+    "depot": {
+        "2636911": {
+            "manifests": {
+                "public": {
+                    "gid": "667753999371875090",
+                    "size": "227779304",
+                    "download": "82888960"
+                },
+                "public_beta": {
+                    "gid": "667753999371875090",
+                    "size": "227779304",
+                    "download": "82888960"
+                },
+                "steamapi_test": {
+                    "gid": "8648729681173361776",
+                    "size": "227766698",
+                    "download": "82882640"
+                }
+            },
+            "decryptionkey": "bcb44d2523527b414b40ae901fa78bcca389fcf925c4d6de0ca9bda9cb58bba1"
+        },
+        "2636912": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18370229",
+                "timeupdated": "1746603590"
+            },
+            "public_beta": {
+                "buildid": "18370229",
+                "description": "Public beta branch",
+                "timeupdated": "1746602598"
+            },
+            "steamapi_test": {
+                "buildid": "18300870",
+                "description": "Public beta branch for testing SteamAPI",
+                "timeupdated": "1746041157"
+            }
+        }
+    }
+}
