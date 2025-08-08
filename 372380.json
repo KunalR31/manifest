@@ -1,0 +1,73 @@
+{
+    "appid": 372380,
+    "name": "Warriors & Castles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:29:36",
+    "change_number": 29279299,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "372381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5057899344402577829",
+                    "size": "1010636662",
+                    "download": "174134144"
+                }
+            },
+            "decryptionkey": "ba6ab4f45188fd4f6209912d1bfab3fe82123257f2c6deef06ba10286a8ba1ea"
+        },
+        "372382": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1819028306950624036",
+                    "size": "1060782248",
+                    "download": "190994848"
+                }
+            },
+            "decryptionkey": "d77eb509535e91ca8ed3a23a3a7de0aaed3b09c580257d773d120072e6c451e0"
+        },
+        "372383": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5217751440515655441",
+                    "size": "1015833064",
+                    "download": "176114576"
+                }
+            },
+            "decryptionkey": "a949e47c36d343b35b77f4779516260d8f9b4132e6f594b96257ec18ee0db3cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2770805",
+                "timeupdated": "1526260702"
+            }
+        }
+    }
+}
