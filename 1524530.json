@@ -1,0 +1,80 @@
+{
+    "appid": 1524530,
+    "name": "Fantasy Town Regional Manager",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 08:12:15",
+    "change_number": 30033649,
+    "depot": {
+        "1524531": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "331803665180077069",
+                    "size": "275323810",
+                    "download": "75109408"
+                },
+                "beta": {
+                    "gid": "331803665180077069",
+                    "size": "275323810",
+                    "download": "75109408"
+                }
+            },
+            "decryptionkey": "656bb913ac6eb8211149f1dd51306c075ea438962bb8384ab1454b852a0134c7"
+        },
+        "1524532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1743311708810268907",
+                    "size": "252424822",
+                    "download": "68382560"
+                },
+                "beta": {
+                    "gid": "1743311708810268907",
+                    "size": "252424822",
+                    "download": "68382560"
+                }
+            },
+            "decryptionkey": "b73202d1e059078612f9dd0637d64bf1cdefdcabee070be57e0aea0be7aa4742"
+        },
+        "1524533": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4704329418744685907",
+                    "size": "257050322",
+                    "download": "69255200"
+                },
+                "beta": {
+                    "gid": "4704329418744685907",
+                    "size": "257050322",
+                    "download": "69255200"
+                }
+            },
+            "decryptionkey": "5bc5ebbdd2ea3249b855b74da081390f31e7d3b3dc6be14f05c05ecadaf6d235"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17824657",
+                "timeupdated": "1742711768"
+            },
+            "beta": {
+                "buildid": "17824657",
+                "description": "External testing branch",
+                "timeupdated": "1742708273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
