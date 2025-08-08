@@ -1,0 +1,48 @@
+{
+    "appid": 921940,
+    "name": "Icarus Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:34:26",
+    "change_number": 29504204,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "russian",
+        "921941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3471844645964215338",
+                    "size": "17889852622",
+                    "download": "16966983856"
+                },
+                "test": {
+                    "gid": "1740101582954863725",
+                    "size": "15846932686",
+                    "download": "15040238832"
+                }
+            },
+            "decryptionkey": "579b892428cf9c0e2f4cd2fbcda2cb72d1605d38c115a3fbd3c6aaad47cdada0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7210025",
+                "timeupdated": "1629338714"
+            },
+            "test": {
+                "buildid": "4901599",
+                "description": "test default branch",
+                "timeupdated": "1587127517"
+            }
+        }
+    }
+}
