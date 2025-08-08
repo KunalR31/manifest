@@ -1,0 +1,53 @@
+{
+    "appid": 776270,
+    "name": "MineCart Adventures",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 11:14:30",
+    "change_number": 29620921,
+    "depot": {
+        "776271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3822266745563408732",
+                    "size": "157707253",
+                    "download": "32985200"
+                },
+                "linux_default": {
+                    "gid": "4310634686643925223",
+                    "size": "153885397",
+                    "download": "31910256"
+                }
+            },
+            "decryptionkey": "f75f2786622fd4a8ac5f5aed335acdaa9ae3f9edf23325448c4df3007abf1547"
+        },
+        "776273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux_default": {
+                    "gid": "500384233896387562",
+                    "size": "182229102",
+                    "download": "40458848"
+                }
+            },
+            "decryptionkey": "14bead69f83550ccf6e74dfe48ed8f782710e78480ac3d481739740bc54611e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10121356",
+                "timeupdated": "1670696214"
+            },
+            "linux_default": {
+                "buildid": "10072093",
+                "description": "linux build",
+                "timeupdated": "1670087439"
+            }
+        }
+    }
+}
