@@ -1,0 +1,59 @@
+{
+    "appid": 1529290,
+    "name": "Prison Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 09:20:12",
+    "change_number": 29874952,
+    "depot": {
+        "1529291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "340244013001875784",
+                    "size": "196610592",
+                    "download": "58387200"
+                },
+                "macos": {
+                    "gid": "5870386092205747558",
+                    "size": "196622237",
+                    "download": "58399344"
+                }
+            },
+            "decryptionkey": "a52c7f969d411f0c3a38195484898be8e491e5b15906ee251b4f5c27acd170bd"
+        },
+        "1529292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9008721381245132666",
+                    "size": "237707350",
+                    "download": "77522800"
+                },
+                "macos": {
+                    "gid": "3522712260941596934",
+                    "size": "5098249",
+                    "download": "1920112"
+                }
+            },
+            "decryptionkey": "f311efa618f0e4ff2e3ede7a2ed54d837cfc2e843f82b3e3df081c0134cf27ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12237052",
+                "timeupdated": "1695219747"
+            },
+            "macos": {
+                "buildid": "7969005",
+                "description": "Public macOs branch",
+                "timeupdated": "1641300848"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
