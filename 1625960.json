@@ -1,0 +1,55 @@
+{
+    "appid": 1625960,
+    "name": "Loverowind",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 00:49:29",
+    "change_number": 30158944,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1625961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8950762339945048851",
+                    "size": "2934746319",
+                    "download": "1423413728"
+                },
+                "test": {
+                    "gid": "8950762339945048851",
+                    "size": "2934746319",
+                    "download": "1423413728"
+                }
+            },
+            "decryptionkey": "064155b9452c7fb9569076d1579267ad319a9315dff59cec0d2eebf52668a3e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8447068",
+                "timeupdated": "1648400481"
+            },
+            "test": {
+                "buildid": "8447068",
+                "description": "test",
+                "timeupdated": "1648399568"
+            }
+        }
+    }
+}
