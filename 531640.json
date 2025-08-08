@@ -1,0 +1,83 @@
+{
+    "appid": 531640,
+    "name": "Eternal Card Game",
+    "type": "Game",
+    "schinese_name": "永恒卡牌",
+    "isfreeapp": 1,
+    "update_time": "2025-07-09 20:17:45",
+    "change_number": 29974608,
+    "depot": {
+        "531641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2404442650533451976",
+                    "size": "3676204305",
+                    "download": "3124609840"
+                },
+                "public_beta": {
+                    "gid": "5997684123204865923",
+                    "size": "4004191211",
+                    "download": "3376454464"
+                }
+            },
+            "decryptionkey": "a86e9ad44c674a5cf80a7f3df59ebef9154e209caa7727a514a0572578ef6109"
+        },
+        "531642": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2796942386126724031",
+                    "size": "3677696723",
+                    "download": "3125396224"
+                },
+                "public_beta": {
+                    "gid": "96482104260991182",
+                    "size": "4006902299",
+                    "download": "3376006160"
+                }
+            },
+            "decryptionkey": "4e8df50b57b398d9e8c8c738fd77ac67237393065aedb7d3635fe4f86ad1117f"
+        },
+        "531643": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2435981491737316905",
+                    "size": "3667950425",
+                    "download": "3122278704"
+                },
+                "public_beta": {
+                    "gid": "8173247109387400920",
+                    "size": "4483821611",
+                    "download": "3421559744"
+                }
+            },
+            "decryptionkey": "1a5ca5be1c92946c074b8e62d6be9f645cc61c8defa7e7fb6f075015ab612855"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13914606",
+                "timeupdated": "1711995881"
+            },
+            "public_beta": {
+                "buildid": "18900122",
+                "description": "A pre-release public build for testing by the community.",
+                "timeupdated": "1750183695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
