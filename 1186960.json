@@ -1,0 +1,77 @@
+{
+    "appid": 1186960,
+    "name": "Cowboys vs Hipsters",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 13:23:23",
+    "change_number": 29275200,
+    "depot": {
+        "baselanguages": "",
+        "1186961": {
+            "config": {
+                "osarch": "64",
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3620200994755491784",
+                    "size": "126306234",
+                    "download": "94609088"
+                },
+                "tester": {
+                    "gid": "8196896704321587282",
+                    "size": "43288436",
+                    "download": "41792256"
+                }
+            },
+            "decryptionkey": "68aaa335151fb7080055403e9bb0cd338abf8881ef30fe38d591e472a0eae0dc"
+        },
+        "1186962": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2141839771583476903",
+                    "size": "66475420",
+                    "download": "42896992"
+                },
+                "tester": {
+                    "gid": "4460088429301303678",
+                    "size": "42720880",
+                    "download": "21318512"
+                }
+            },
+            "decryptionkey": "d0ccff4cd746a1f6616e5931701e1969be7b040116d1832bf7cbbb5d79f03bf8"
+        },
+        "1186963": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3153950463013253208",
+                    "size": "74442102",
+                    "download": "44296704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4495975",
+                "timeupdated": "1576473800"
+            },
+            "tester": {
+                "buildid": "4407137",
+                "description": "just to test builds",
+                "timeupdated": "1574229566"
+            }
+        }
+    }
+}
