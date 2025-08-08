@@ -1,0 +1,72 @@
+{
+    "appid": 3192390,
+    "name": "Mirage: Ignis Fatuus",
+    "type": "Game",
+    "schinese_name": "错觉视界：米拉渚的危机（Mirage: Ignis Fatuus）",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 12:15:04",
+    "change_number": 29801425,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3192391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6508504313307880000",
+                    "size": "283034359",
+                    "download": "192690256"
+                }
+            },
+            "decryptionkey": "2be5305cd2d8c98a8a153c60e9309732db3a87a58fd0d035a4653c8a5e631c7d"
+        },
+        "3192392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1157033671845937241",
+                    "size": "522886611",
+                    "download": "238463072"
+                }
+            }
+        },
+        "3192393": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6206327218987436235",
+                    "size": "304709926",
+                    "download": "191818832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19020561",
+                "timeupdated": "1750996201"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
