@@ -1,0 +1,80 @@
+{
+    "appid": 2234340,
+    "name": "RetroArch - ep128emu",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:03:33",
+    "change_number": 29983658,
+    "depot": {
+        "2234340": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2234340",
+            "manifests": {
+                "public": {
+                    "gid": "578438038900425691",
+                    "size": "4554789",
+                    "download": "1230400"
+                },
+                "nightly": {
+                    "gid": "2319270307267226693",
+                    "size": "4554789",
+                    "download": "1334720"
+                }
+            },
+            "decryptionkey": "1f3275bb677ba2db52b030ae1e632f3a93df326ce018feb9658211f349446fe5"
+        },
+        "2234341": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8225570902324759076",
+                    "size": "3715533",
+                    "download": "1094896"
+                },
+                "nightly": {
+                    "gid": "8225570902324759076",
+                    "size": "3715533",
+                    "download": "1094896"
+                }
+            },
+            "dlcappid": "2234340",
+            "decryptionkey": "4ed87e24947b99993da2ef537072341adc51ca298dfbe23bfeb7bb608650555e"
+        },
+        "2234342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1655039998392388523",
+                    "size": "7896245",
+                    "download": "2105312"
+                },
+                "nightly": {
+                    "gid": "1655039998392388523",
+                    "size": "7896245",
+                    "download": "2105312"
+                }
+            },
+            "dlcappid": "2234340",
+            "decryptionkey": "19f784f043bacc84f092948fc11aeb6f96f03daffcdf93e8502e98698b3f041a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265136",
+                "timeupdated": "1745845044"
+            },
+            "nightly": {
+                "buildid": "19172075",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134608"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
