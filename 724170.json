@@ -1,0 +1,123 @@
+{
+    "appid": 724170,
+    "name": "Solar Lander",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 22:35:35",
+    "change_number": 29750318,
+    "depot": {
+        "workshopdepot": "724170",
+        "hasdepotsindlc": "1",
+        "724172": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3710644450937848313",
+                    "size": "205558364",
+                    "download": "36953504"
+                },
+                "beta-build": {
+                    "gid": "3710644450937848313",
+                    "size": "205558364",
+                    "download": "36953504"
+                },
+                "physics-update": {
+                    "gid": "3710644450937848313",
+                    "size": "205558364",
+                    "download": "36953504"
+                },
+                "physics-update-playerprefs": {
+                    "gid": "1160092195247745889",
+                    "size": "196444286",
+                    "download": "34999792"
+                },
+                "pre-physics-update": {
+                    "gid": "4082533592136803521",
+                    "size": "182542613",
+                    "download": "35433872"
+                }
+            },
+            "decryptionkey": "018d6dad2ad1217599f5c0acfafaeee7bc4ef7d170e3d8f00e6247f692f91c4f"
+        },
+        "724173": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6834192604487284708",
+                    "size": "215668294",
+                    "download": "36749424"
+                },
+                "beta-build": {
+                    "gid": "6834192604487284708",
+                    "size": "215668294",
+                    "download": "36749424"
+                },
+                "physics-update": {
+                    "gid": "6834192604487284708",
+                    "size": "215668294",
+                    "download": "36749424"
+                },
+                "physics-update-playerprefs": {
+                    "gid": "1552458882314302721",
+                    "size": "204521296",
+                    "download": "35065200"
+                },
+                "pre-physics-update": {
+                    "gid": "4914480287137382366",
+                    "size": "182523186",
+                    "download": "36075136"
+                }
+            }
+        },
+        "724171": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "pre-physics-update": {
+                    "gid": "2424242674566261238",
+                    "size": "191902899",
+                    "download": "36614672"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18610733",
+                "timeupdated": "1748355037"
+            },
+            "beta-build": {
+                "buildid": "18610733",
+                "description": "Builds here may be very buggy.",
+                "timeupdated": "1748263550"
+            },
+            "physics-update": {
+                "buildid": "18610733",
+                "description": "The last build of the Physics Update.",
+                "timeupdated": "1748271838"
+            },
+            "physics-update-playerprefs": {
+                "buildid": "10812454",
+                "description": "The last Physics Update version before ditching PlayerPrefs.",
+                "timeupdated": "1750887331"
+            },
+            "pre-physics-update": {
+                "buildid": "3277768",
+                "description": "The last build before the Physics Update.",
+                "timeupdated": "1748271672"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
