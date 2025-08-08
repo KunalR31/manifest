@@ -1,0 +1,74 @@
+{
+    "appid": 3605120,
+    "name": "Trails",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 12:20:21",
+    "change_number": 30087946,
+    "depot": {
+        "3605121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3178365173533745410",
+                    "size": "838684274",
+                    "download": "164183472"
+                },
+                "testing": {
+                    "gid": "3178365173533745410",
+                    "size": "838684274",
+                    "download": "164183472"
+                }
+            },
+            "decryptionkey": "0d0838710fdf1b4eaf0f38202ad31bc2f7aa60391cb7c37e531e4004381d589c"
+        },
+        "3605122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9030050326290213215",
+                    "size": "835069672",
+                    "download": "163074592"
+                },
+                "testing": {
+                    "gid": "9030050326290213215",
+                    "size": "835069672",
+                    "download": "163074592"
+                }
+            }
+        },
+        "3605123": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4945585539348764308",
+                    "size": "854866800",
+                    "download": "170631200"
+                },
+                "testing": {
+                    "gid": "4945585539348764308",
+                    "size": "854866800",
+                    "download": "170631200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19243795",
+                "timeupdated": "1752664816"
+            },
+            "testing": {
+                "buildid": "19243795",
+                "description": "Branch to test upcoming changes.",
+                "timeupdated": "1752664504"
+            }
+        }
+    }
+}
