@@ -1,0 +1,61 @@
+{
+    "appid": 1668130,
+    "name": "Orbit.Industries",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:14:56",
+    "change_number": 30206939,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1668131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2274447612756129665",
+                    "size": "2685870536",
+                    "download": "2570120432"
+                }
+            },
+            "decryptionkey": "fe74d847709e412d8f09e09da7b1ec231b124a62c6454a6ad21a0aa2aa277cbe"
+        },
+        "1668132": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3386435770916699033",
+                    "size": "2662468085",
+                    "download": "2534563920"
+                }
+            },
+            "decryptionkey": "c378d563d1bc601bd6867bdf3ac8f256deeab889d104b7d826e323bc6046bd22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19180888",
+                "timeupdated": "1752506413"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
