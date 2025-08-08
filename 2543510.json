@@ -1,0 +1,59 @@
+{
+    "appid": 2543510,
+    "name": "GUNTOUCHABLES",
+    "type": "Game",
+    "schinese_name": "枪途末路",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 15:33:54",
+    "change_number": 30013481,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2543511": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7297023223945360803",
+                    "size": "1898666620",
+                    "download": "302853904"
+                },
+                "local": {
+                    "gid": "8764262917698828555",
+                    "size": "327079696",
+                    "download": "41876400"
+                }
+            },
+            "decryptionkey": "8b67a8f11996c561c14877de7602aa8a0e99f85db0205f10f24a973da70ae82e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822304",
+                "timeupdated": "1749632091"
+            },
+            "local": {
+                "buildid": "11858619",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1691072993"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 9341465538780384603
+}
