@@ -1,0 +1,51 @@
+{
+    "appid": 2342210,
+    "name": "GENIE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:52:41",
+    "change_number": 30147178,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2342211": {
+            "manifests": {
+                "public": {
+                    "gid": "5146133516191544194",
+                    "size": "25987867396",
+                    "download": "25663523600"
+                },
+                "test": {
+                    "gid": "5146133516191544194",
+                    "size": "25987867396",
+                    "download": "25663523600"
+                }
+            },
+            "decryptionkey": "a768a64339beb2159bc2b2562d34519c4ce5c76ee064a4ca7e25af3e5ebc82fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11659837",
+                "timeupdated": "1688911064"
+            },
+            "test": {
+                "buildid": "11659837",
+                "description": "test",
+                "timeupdated": "1688910729"
+            }
+        }
+    }
+}
