@@ -1,0 +1,93 @@
+{
+    "appid": 946990,
+    "name": "Secret Government",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:28:36",
+    "change_number": 30087103,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "946991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399610670028733218",
+                    "size": "4482419521",
+                    "download": "2127804464"
+                },
+                "beta": {
+                    "gid": "7355253953913565042",
+                    "size": "2633614500",
+                    "download": "2294651872"
+                }
+            },
+            "decryptionkey": "73240656097e6197fd99e2f843f572cc073c49f8478ce36542c55be69947cb40"
+        },
+        "946992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "749533568255276146",
+                    "size": "4500988262",
+                    "download": "2129585696"
+                },
+                "beta": {
+                    "gid": "4948684759744072425",
+                    "size": "2621600980",
+                    "download": "2292225440"
+                }
+            }
+        },
+        "946993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8157435242178884256",
+                    "size": "4487747491",
+                    "download": "2126257168"
+                },
+                "beta": {
+                    "gid": "5573211160359131333",
+                    "size": "2662290210",
+                    "download": "2294345312"
+                }
+            }
+        },
+        "1847370": {
+            "dlcappid": "1847370",
+            "manifests": {
+                "public": {
+                    "gid": "6644286996917812653",
+                    "size": "315365090",
+                    "download": "317720528"
+                }
+            },
+            "decryptionkey": "c87ff0d05fb221f92f61aaa56e41c8dd8ac5b871852e0c4fdd32acc2d9dee6e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7928495",
+                "timeupdated": "1640195295"
+            },
+            "beta": {
+                "buildid": "10185613",
+                "description": "Secret Government open beta",
+                "timeupdated": "1671718432"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
