@@ -1,0 +1,73 @@
+{
+    "appid": 1152940,
+    "name": "Trails of the Black Sun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:12:59",
+    "change_number": 29176865,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1152941": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1249283080925271396",
+                    "size": "5937851218",
+                    "download": "1790377552"
+                },
+                "totbs_v1.2": {
+                    "gid": "1249283080925271396",
+                    "size": "5937851218",
+                    "download": "1790377552"
+                }
+            },
+            "decryptionkey": "a1404e8fe04707fa751d8a39abe8f0b49c7af4b9741e020b0bb7456a77e05dd7"
+        },
+        "1152942": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4097559698350986770",
+                    "size": "5988895732",
+                    "download": "1803231888"
+                },
+                "totbs_v1.2": {
+                    "gid": "4097559698350986770",
+                    "size": "5988895732",
+                    "download": "1803231888"
+                }
+            },
+            "decryptionkey": "579a1151e54b1c9f0213d43f4839dba0823ed65de3c119163343a6907596979d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11571744",
+                "timeupdated": "1687892371"
+            },
+            "totbs_v1.2": {
+                "buildid": "11858949",
+                "description": "Latest version before the 2.0 update.",
+                "timeupdated": "1691075677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
