@@ -1,0 +1,98 @@
+{
+    "appid": 2964540,
+    "name": "Nurikabe World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:35:50",
+    "change_number": 30216546,
+    "depot": {
+        "2964541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "399913054696208160",
+                    "size": "322951570",
+                    "download": "245636688"
+                },
+                "beta": {
+                    "gid": "5458088550843938994",
+                    "size": "322953622",
+                    "download": "245633536"
+                }
+            },
+            "decryptionkey": "c4944028f05fe664b22b3eec695f95efe9e5b92a25f38d3ad5e5c87a040ea212"
+        },
+        "2964542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5580128158401364497",
+                    "size": "407389296",
+                    "download": "265009328"
+                },
+                "beta": {
+                    "gid": "4619921872972303038",
+                    "size": "407389266",
+                    "download": "264999680"
+                }
+            }
+        },
+        "2964543": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1225976017586232702",
+                    "size": "365958037",
+                    "download": "258126304"
+                },
+                "beta": {
+                    "gid": "2237635666185165586",
+                    "size": "365962149",
+                    "download": "258151376"
+                }
+            }
+        },
+        "2964544": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "2964545": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "2964546": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "baselanguages": "english,german,spanish,japanese",
+        "workshopdepot": "2964540",
+        "branches": {
+            "public": {
+                "buildid": "17743654",
+                "timeupdated": "1742142948"
+            },
+            "beta": {
+                "buildid": "17743659",
+                "description": "Beta testing: Contains work-in-progress features",
+                "timeupdated": "1742142392"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
