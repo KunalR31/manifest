@@ -1,0 +1,84 @@
+{
+    "appid": 233680,
+    "name": "Black Ink",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 20:54:33",
+    "change_number": 28970500,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "hasdepotsindlc": "0",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233681": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1307191038544820962",
+                    "size": "93850556",
+                    "download": "52450672"
+                },
+                "nonavx": {
+                    "gid": "6130297589263489195",
+                    "size": "92454332",
+                    "download": "52105200"
+                }
+            },
+            "decryptionkey": "01283df5e1fc27077b9efbe9f0fd3c7e6bb14bdbb0e680dc59af70e0d730527c"
+        },
+        "1827230": {
+            "dlcappid": "1827230",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6840117269807030035",
+                    "size": "112336705",
+                    "download": "67911904"
+                }
+            },
+            "decryptionkey": "07a3118471c51dfe2cfa0e574a7e6c0bc0c0e62b584c3eb84310227e7b830231"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15151843",
+                "timeupdated": "1721927768"
+            },
+            "nonavx": {
+                "buildid": "5545740",
+                "description": "non AVX version",
+                "timeupdated": "1600153154"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
