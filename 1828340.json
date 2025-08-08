@@ -1,0 +1,86 @@
+{
+    "appid": 1828340,
+    "name": "VICE",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:15:02",
+    "change_number": 29983875,
+    "depot": {
+        "1828340": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "1828340"
+            },
+            "dlcappid": "1828340",
+            "manifests": {
+                "public": {
+                    "gid": "8850100893430469787",
+                    "size": "29271669",
+                    "download": "8542480"
+                },
+                "nightly": {
+                    "gid": "4203593975659156177",
+                    "size": "29289077",
+                    "download": "10518720"
+                }
+            },
+            "decryptionkey": "c46799daa88bca9d53fe8373fd42c1d9a874c523f8cee5c6951fa18a8d531d2c"
+        },
+        "1828341": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "optionaldlc": "1828340"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7881176040768537267",
+                    "size": "23783677",
+                    "download": "6761856"
+                },
+                "nightly": {
+                    "gid": "3143314711051237635",
+                    "size": "23810973",
+                    "download": "8369040"
+                }
+            },
+            "dlcappid": "1828340",
+            "decryptionkey": "202989df295549beab591b553ab948707429bc0287ec063518e72053411eec74"
+        },
+        "1828342": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1828340"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6310431487092356071",
+                    "size": "45223005",
+                    "download": "12649152"
+                },
+                "nightly": {
+                    "gid": "1080471887895243442",
+                    "size": "45225645",
+                    "download": "15746176"
+                }
+            },
+            "dlcappid": "1828340",
+            "decryptionkey": "4ab092e43c9f4e41a83af057271612f91dc833f1c9e61c4e631837297dbd6411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265288",
+                "timeupdated": "1745845188"
+            },
+            "nightly": {
+                "buildid": "19172241",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752135295"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
