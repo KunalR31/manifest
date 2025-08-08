@@ -1,0 +1,75 @@
+{
+    "appid": 1901130,
+    "name": "ReUpRise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:42:34",
+    "change_number": 29766515,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1901131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5421601644456166864",
+                    "size": "8606618527",
+                    "download": "8446241456"
+                },
+                "_dlc_": {
+                    "gid": "2970868191233987250",
+                    "size": "8821505447",
+                    "download": "8236432592"
+                },
+                "legacy": {
+                    "gid": "2388092999682653228",
+                    "size": "7749074713",
+                    "download": "7207193072"
+                },
+                "practice_mode": {
+                    "gid": "3638215356393953540",
+                    "size": "8284580718",
+                    "download": "7913475136"
+                }
+            },
+            "decryptionkey": "dc7f702b11238444ee0e2bcb1eeabe6ae401c0bd49d4c0256ae3bd4db2105b71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18785035",
+                "timeupdated": "1749395318"
+            },
+            "_dlc_": {
+                "buildid": "16425880",
+                "description": "DLC",
+                "timeupdated": "1731953825"
+            },
+            "legacy": {
+                "buildid": "14493543",
+                "description": "previous-version",
+                "timeupdated": "1749391216"
+            },
+            "practice_mode": {
+                "buildid": "16500885",
+                "description": "Test",
+                "timeupdated": "1732283474"
+            }
+        }
+    }
+}
