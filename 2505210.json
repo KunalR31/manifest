@@ -1,0 +1,51 @@
+{
+    "appid": 2505210,
+    "name": "Awakening Sarah",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 08:12:21",
+    "change_number": 29926040,
+    "depot": {
+        "baselanguages": "english,french,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2505211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5179825014364603822",
+                    "size": "544809650",
+                    "download": "332868880"
+                }
+            },
+            "decryptionkey": "b519ce581921921c7392eb8a30d8a68bc22e52cc1980d42bb505cc4bea8992a6"
+        },
+        "2505212": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8190883944040938991",
+                    "size": "632040871",
+                    "download": "336908192"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17693556",
+                "timeupdated": "1741787197"
+            }
+        }
+    }
+}
