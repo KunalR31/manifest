@@ -1,0 +1,64 @@
+{
+    "appid": 2199580,
+    "name": "Interstellar Pilot 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 02:17:57",
+    "change_number": 30001174,
+    "depot": {
+        "2199581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8238318458893392531",
+                    "size": "207908224",
+                    "download": "118488608"
+                },
+                "beta": {
+                    "gid": "1014312600608221614",
+                    "size": "209021121",
+                    "download": "118848016"
+                },
+                "local": {
+                    "gid": "4666556651438635979",
+                    "size": "202844915",
+                    "download": "116779808"
+                }
+            },
+            "decryptionkey": "20c2c200bc070033e5228cd8b8334d6b9480bd539f393ace259996605debb2a1"
+        },
+        "2199582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "654445210317850132",
+                    "size": "231856317",
+                    "download": "125683472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10244352",
+                "timeupdated": "1672685282"
+            },
+            "beta": {
+                "buildid": "10343211",
+                "description": "Public beta",
+                "timeupdated": "1673991222"
+            },
+            "local": {
+                "buildid": "10158269",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1671147193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
