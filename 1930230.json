@@ -1,0 +1,43 @@
+{
+    "appid": 1930230,
+    "name": "The Hole",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 15:36:06",
+    "change_number": 30112793,
+    "depot": {
+        "1930231": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6130939963771390837",
+                    "size": "7092243600",
+                    "download": "6839580128"
+                },
+                "bobblefix": {
+                    "gid": "2065965555302545729",
+                    "size": "7090806408",
+                    "download": "6838179680"
+                }
+            },
+            "decryptionkey": "1588eec501980e66e0d74d4b2927747a616982cfe6ec68f82277d1e6dc3d0bdb"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9782189",
+                "timeupdated": "1666563904"
+            },
+            "bobblefix": {
+                "buildid": "8872506",
+                "description": "Fixes the bobbling head",
+                "timeupdated": "1666563778"
+            }
+        }
+    }
+}
