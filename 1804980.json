@@ -1,0 +1,74 @@
+{
+    "appid": 1804980,
+    "name": "Polyfury",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 12:32:09",
+    "change_number": 30009637,
+    "depot": {
+        "1804981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5845210435816904136",
+                    "size": "224090741",
+                    "download": "120455792"
+                },
+                "beta": {
+                    "gid": "2258332591759909708",
+                    "size": "105398272",
+                    "download": "35950592"
+                }
+            },
+            "decryptionkey": "af810d0e87270a7b2d4d3b2ff8b3ded91c8edfad7995549113dd4cf6c5b27c29"
+        },
+        "1804982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7013210239610241278",
+                    "size": "248092343",
+                    "download": "128108160"
+                },
+                "beta": {
+                    "gid": "7013210239610241278",
+                    "size": "248092343",
+                    "download": "128108160"
+                }
+            }
+        },
+        "1804983": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1288548151687654438",
+                    "size": "271443086",
+                    "download": "123685840"
+                },
+                "beta": {
+                    "gid": "1288548151687654438",
+                    "size": "271443086",
+                    "download": "123685840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12324871",
+                "timeupdated": "1696077938"
+            },
+            "beta": {
+                "buildid": "19189981",
+                "description": "closed beta test",
+                "timeupdated": "1752233474"
+            }
+        }
+    }
+}
