@@ -1,0 +1,80 @@
+{
+    "appid": 1055610,
+    "name": "Deep Space Battle Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 17:00:50",
+    "change_number": 29971708,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1055611": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9138854868373016275",
+                    "size": "2787517275",
+                    "download": "480418752"
+                },
+                "beta": {
+                    "gid": "9138854868373016275",
+                    "size": "2787517275",
+                    "download": "480418752"
+                }
+            },
+            "decryptionkey": "a564f8a62b98ed9ac2b6de6fcc2611fc97885d1394c20ef1be4f6b16f598f2f6"
+        },
+        "1055612": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2029192053697099101",
+                    "size": "2962280290",
+                    "download": "503042432"
+                },
+                "beta": {
+                    "gid": "2029192053697099101",
+                    "size": "2962280290",
+                    "download": "503042432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8318404",
+                "timeupdated": "1646449064"
+            },
+            "beta": {
+                "buildid": "8318404",
+                "description": "beta",
+                "timeupdated": "1646449088"
+            }
+        }
+    }
+}
