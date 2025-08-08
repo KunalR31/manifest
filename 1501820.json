@@ -1,0 +1,68 @@
+{
+    "appid": 1501820,
+    "name": "Ziggy's Cosmic Adventures",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 12:14:06",
+    "change_number": 29809314,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1501821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3129176196093364339",
+                    "size": "35331657209",
+                    "download": "27143878832"
+                },
+                "previous-version": {
+                    "gid": "5900976969710241179",
+                    "size": "34826922027",
+                    "download": "25363782784"
+                },
+                "development": {
+                    "gid": "3649046088360717419",
+                    "size": "35331665401",
+                    "download": "27144194064"
+                }
+            },
+            "decryptionkey": "54c123ea406aa47d67e0697ead4bc5351c751724675460fc48edea1fe3fce127"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16376766",
+                "timeupdated": "1731437956"
+            },
+            "previous-version": {
+                "buildid": "13241457",
+                "description": "The previous version of the game",
+                "timeupdated": "1706153467"
+            },
+            "development": {
+                "buildid": "16550369",
+                "description": "development",
+                "timeupdated": "1732701694"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
