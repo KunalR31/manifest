@@ -1,0 +1,75 @@
+{
+    "appid": 1908480,
+    "name": "Paladin's Passage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 18:46:28",
+    "change_number": 30017160,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1908481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3120406498180566034",
+                    "size": "1964304364",
+                    "download": "1776781936"
+                }
+            },
+            "decryptionkey": "661dd19ee64d762d02025229db31dcb4c366edff92670a13b50984d0df0c1982"
+        },
+        "1908482": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7569777311726604826",
+                    "size": "2148067168",
+                    "download": "1766367696"
+                }
+            }
+        },
+        "1908483": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1267629556717225970",
+                    "size": "5459352997",
+                    "download": "3136026432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18258271",
+                "timeupdated": "1746126374"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
