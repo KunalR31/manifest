@@ -1,0 +1,63 @@
+{
+    "appid": 1280770,
+    "name": "Redmatch 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 23:09:24",
+    "change_number": 30158334,
+    "depot": {
+        "1280771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6214686844933741101",
+                    "size": "1308994330",
+                    "download": "363440064"
+                },
+                "beta": {
+                    "gid": "6214686844933741101",
+                    "size": "1308994330",
+                    "download": "363440064"
+                }
+            },
+            "decryptionkey": "889f9ec1ef54e9f75161518e1303743308888b0f3203899137908d83003ba482"
+        },
+        "1280772": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8355177552191041121",
+                    "size": "1257489656",
+                    "download": "339456848"
+                },
+                "beta": {
+                    "gid": "8355177552191041121",
+                    "size": "1257489656",
+                    "download": "339456848"
+                }
+            },
+            "decryptionkey": "8a5f2eb2185211640a7e68b0a0a73edcac7b52b3f7fbc2cd57edeb0adc6f3796"
+        },
+        "workshopdepot": "1280770",
+        "branches": {
+            "public": {
+                "buildid": "19293743",
+                "timeupdated": "1753049361"
+            },
+            "beta": {
+                "buildid": "19293743",
+                "description": "testing updates before release",
+                "timeupdated": "1753049083"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
