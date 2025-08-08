@@ -1,0 +1,80 @@
+{
+    "appid": 1800020,
+    "name": "Unreal Mashup Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 01:44:23",
+    "change_number": 29869854,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1800023": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "1800021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2894888971077045156",
+                    "size": "16575735326",
+                    "download": "8441979424"
+                },
+                "invasive": {
+                    "gid": "6922031132879333097",
+                    "size": "16598185197",
+                    "download": "8451053760"
+                },
+                "ummp": {
+                    "gid": "458676319420855498",
+                    "size": "9520705129",
+                    "download": "4333383584"
+                },
+                "umrpg": {
+                    "gid": "6895915317212419755",
+                    "size": "7308092753",
+                    "download": "6880667280"
+                }
+            },
+            "decryptionkey": "dd32ec027cb51c7f69fe300bc378d7f982b523eeb5699e86e03155a322563476"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16636497",
+                "timeupdated": "1733358874"
+            },
+            "invasive": {
+                "buildid": "18338620",
+                "description": "FPS Survival",
+                "timeupdated": "1746373545"
+            },
+            "ummp": {
+                "buildid": "19086484",
+                "description": "Advanced Multiplayer",
+                "timeupdated": "1751503457"
+            },
+            "umrpg": {
+                "buildid": "16595952",
+                "description": "UMRPG",
+                "timeupdated": "1733102437"
+            }
+        }
+    }
+}
