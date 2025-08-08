@@ -1,0 +1,92 @@
+{
+    "appid": 3343790,
+    "name": "Superhero Market",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:14:58",
+    "change_number": 30213258,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3343791": {
+            "manifests": {
+                "public": {
+                    "gid": "1441302830186948122",
+                    "size": "22903696174",
+                    "download": "20238651152"
+                },
+                "developpement": {
+                    "gid": "8824285247043436942",
+                    "size": "22908271998",
+                    "download": "20243586224"
+                },
+                "patch": {
+                    "gid": "1441302830186948122",
+                    "size": "22903696174",
+                    "download": "20238651152"
+                },
+                "promo": {
+                    "gid": "2102586448003826857",
+                    "size": "21756885502",
+                    "download": "19294497824"
+                },
+                "stable": {
+                    "gid": "3525495510121845955",
+                    "size": "22583045220",
+                    "download": "20073458112"
+                },
+                "update": {
+                    "gid": "8824285247043436942",
+                    "size": "22908271998",
+                    "download": "20243586224"
+                }
+            },
+            "decryptionkey": "59c2c08614e675395a3b6a2fd990325fb436fe49461df1b2b227401be95655eb"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "17674750",
+                "timeupdated": "1742562456"
+            },
+            "developpement": {
+                "buildid": "17376816",
+                "description": "Dev",
+                "timeupdated": "1739612617"
+            },
+            "patch": {
+                "buildid": "17674750",
+                "description": "Last fix",
+                "timeupdated": "1741685231"
+            },
+            "promo": {
+                "buildid": "16811201",
+                "description": "Promo Branch",
+                "timeupdated": "1734681268"
+            },
+            "stable": {
+                "buildid": "16970651",
+                "description": "Last stable version before update",
+                "timeupdated": "1736875955"
+            },
+            "update": {
+                "buildid": "17376816",
+                "description": "Last Update",
+                "timeupdated": "1739627138"
+            }
+        }
+    }
+}
