@@ -1,0 +1,64 @@
+{
+    "appid": 553020,
+    "name": "Theatre of Doom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 22:11:13",
+    "change_number": 30019907,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "553021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5788390085972053333",
+                    "size": "646057032",
+                    "download": "325436384"
+                },
+                "beta": {
+                    "gid": "5788390085972053333",
+                    "size": "646057032",
+                    "download": "325436384"
+                }
+            },
+            "decryptionkey": "5181cae9ba832b22b40ed7848cb503b4958147136f689d298924571743572a3e"
+        },
+        "553022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5564202018335485171",
+                    "size": "675558696",
+                    "download": "340024608"
+                },
+                "beta": {
+                    "gid": "3814838339262146453",
+                    "size": "688667501",
+                    "download": "338512048"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6415560",
+                "timeupdated": "1616617456"
+            },
+            "beta": {
+                "buildid": "7047944",
+                "description": "Linux beta",
+                "timeupdated": "1626630138"
+            }
+        }
+    }
+}
