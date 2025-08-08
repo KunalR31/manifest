@@ -1,0 +1,58 @@
+{
+    "appid": 1108250,
+    "name": "All Systems Operational",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:50:17",
+    "change_number": 30122588,
+    "depot": {
+        "1108251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6852634188720578029",
+                    "size": "654553897",
+                    "download": "286689280"
+                },
+                "publictestbranch": {
+                    "gid": "8408068959403581988",
+                    "size": "711093185",
+                    "download": "338342096"
+                }
+            },
+            "decryptionkey": "5283d43da9d7addd0f34e822c27832c3f8b380fd003ba2f8753959449af74d05"
+        },
+        "1108252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7034195373816633084",
+                    "size": "681983953",
+                    "download": "296416192"
+                },
+                "publictestbranch": {
+                    "gid": "4667050900825034281",
+                    "size": "738524029",
+                    "download": "348068992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18948587",
+                "timeupdated": "1750546336"
+            },
+            "publictestbranch": {
+                "buildid": "19268503",
+                "description": "public test branch",
+                "timeupdated": "1752803375"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
