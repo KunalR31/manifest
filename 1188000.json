@@ -1,0 +1,60 @@
+{
+    "appid": 1188000,
+    "name": "Pulstario",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:10:59",
+    "change_number": 30040978,
+    "depot": {
+        "baselanguages": "english",
+        "1188001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8539648272673309398",
+                    "size": "156802738",
+                    "download": "133079520"
+                },
+                "testing": {
+                    "gid": "6428270730901609408",
+                    "size": "164789161",
+                    "download": "134519536"
+                }
+            },
+            "decryptionkey": "7c7637248554865a23742784fffd6fcb03137376697757822c7e66ea9c3a4b19"
+        },
+        "1188003": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4196714471993230548",
+                    "size": "161633359",
+                    "download": "137080064"
+                },
+                "testing": {
+                    "gid": "4196714471993230548",
+                    "size": "161633359",
+                    "download": "137080064"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11482872",
+                "timeupdated": "1686870425"
+            },
+            "testing": {
+                "buildid": "15413913",
+                "description": "Testing for new version of Pulstario",
+                "timeupdated": "1724025376"
+            }
+        }
+    }
+}
