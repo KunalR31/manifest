@@ -1,0 +1,57 @@
+{
+    "appid": 27050,
+    "name": "FATALE",
+    "type": "Game",
+    "schinese_name": "烈火情人",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 10:14:40",
+    "change_number": 29783390,
+    "depot": {
+        "overridescddb": "1",
+        "27052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "737456540282926842",
+                    "size": "297523111",
+                    "download": "0"
+                }
+            }
+        },
+        "27051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1212210009403296446",
+                    "size": "234715317",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "afc98e8f49aa8bd24c255d68b2ad34b48098c321c37e3b4c5244b03158af43a5"
+        },
+        "27053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4964772990088222350",
+                    "size": "270238987",
+                    "download": "0"
+                }
+            }
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "194992"
+            }
+        }
+    }
+}
