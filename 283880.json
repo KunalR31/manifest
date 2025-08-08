@@ -1,0 +1,101 @@
+{
+    "appid": 283880,
+    "name": "Heroine's Quest: The Herald of Ragnarok",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-26 05:35:16",
+    "change_number": 29181185,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,hungarian",
+        "283881": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6505819408483614507",
+                    "size": "501427644",
+                    "download": "426681472"
+                },
+                "gandvik": {
+                    "gid": "2176697788299625696",
+                    "size": "471812912",
+                    "download": "418932128"
+                }
+            },
+            "decryptionkey": "ce60886f36fd2210a54a2425ba26ad5f47e9c4a060538dbc37e2f9e1b3cf2594"
+        },
+        "283884": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2690259227460271283",
+                    "size": "507029768",
+                    "download": "419882976"
+                }
+            },
+            "decryptionkey": "663f82f3c8b6192ad4346991ab2c028567735441870caf39919bc36bcf15206d"
+        },
+        "283882": {
+            "manifests": {
+                "public": {
+                    "gid": "2458391710233445998",
+                    "size": "168503555",
+                    "download": "123623584"
+                },
+                "gandvik": {
+                    "gid": "2458391710233445998",
+                    "size": "168503555",
+                    "download": "123623584"
+                }
+            },
+            "decryptionkey": "8eb3872cc25afd9fbbd03f0c5c73fae5cfe5ffce1dd51982e3d6a440058ba234"
+        },
+        "283883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6687241727720656855",
+                    "size": "522105079",
+                    "download": "425024848"
+                },
+                "gandvik": {
+                    "gid": "1957903366832570378",
+                    "size": "483777937",
+                    "download": "406625184"
+                }
+            },
+            "decryptionkey": "4a6fa2ffa3b0509ba96f0d46a4648bf096a593c45c928ccb6047f3203073091a"
+        },
+        "769130": {
+            "dlcappid": "769130",
+            "manifests": {
+                "public": {
+                    "gid": "3354389224074917242",
+                    "size": "50289249",
+                    "download": "31255296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18596779",
+                "timeupdated": "1748117744"
+            },
+            "gandvik": {
+                "buildid": "1487968",
+                "description": "Fix for Lake Gandvik",
+                "timeupdated": "1480965214"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
