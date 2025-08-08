@@ -1,0 +1,97 @@
+{
+    "appid": 1979930,
+    "name": "FreedroidRPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 08:07:45",
+    "change_number": 29559816,
+    "depot": {
+        "1979931": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "871151632705285154",
+                    "size": "235402432",
+                    "download": "237291344"
+                },
+                "beta": {
+                    "gid": "871151632705285154",
+                    "size": "235402432",
+                    "download": "237291344"
+                },
+                "oldstable": {
+                    "gid": "3320148175669739073",
+                    "size": "241255616",
+                    "download": "242815152"
+                }
+            },
+            "decryptionkey": "112e1bb67e8eabad04b21faf347cdcb85c4a06226ac73830c12d89cf836b0043"
+        },
+        "1979932": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7183769516467535538",
+                    "size": "263199023",
+                    "download": "235896448"
+                },
+                "beta": {
+                    "gid": "7183769516467535538",
+                    "size": "263199023",
+                    "download": "235896448"
+                },
+                "oldstable": {
+                    "gid": "1640601181665328318",
+                    "size": "263925355",
+                    "download": "236072608"
+                }
+            },
+            "decryptionkey": "cfff91863a5574e756dcbeceebdc22d5cad81e98f0ae8d964b099779fcf4a4e4"
+        },
+        "1979933": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "236080039295272812",
+                    "size": "260041950",
+                    "download": "235844704"
+                },
+                "beta": {
+                    "gid": "236080039295272812",
+                    "size": "260041950",
+                    "download": "235844704"
+                },
+                "oldstable": {
+                    "gid": "236080039295272812",
+                    "size": "260041950",
+                    "download": "235844704"
+                }
+            },
+            "decryptionkey": "a081bc209293f9f932752d18e48c2ccb9c55ba755d3a5cdb816e88579935e590"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10543383",
+                "timeupdated": "1677075685"
+            },
+            "beta": {
+                "buildid": "10543383",
+                "description": "Beta branch",
+                "timeupdated": "1676325334"
+            },
+            "oldstable": {
+                "buildid": "10611336",
+                "description": "Old default, reverts a single update",
+                "timeupdated": "1677075887"
+            }
+        }
+    }
+}
