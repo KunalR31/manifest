@@ -1,0 +1,81 @@
+{
+    "appid": 2008300,
+    "name": "RetroArch - Vecx",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 16:09:48",
+    "change_number": 29544754,
+    "depot": {
+        "2008300": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2008300",
+            "manifests": {
+                "public": {
+                    "gid": "9126336339305590397",
+                    "size": "217743",
+                    "download": "68848"
+                },
+                "nightly": {
+                    "gid": "5533289598499843961",
+                    "size": "217743",
+                    "download": "68880"
+                }
+            },
+            "decryptionkey": "dab00a0352eb353c703aee7176e8952f686dbcbf7290eaabc144709b1d7e6e26"
+        },
+        "2008301": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7803954591388574593",
+                    "size": "244327",
+                    "download": "60880"
+                },
+                "nightly": {
+                    "gid": "7803954591388574593",
+                    "size": "244327",
+                    "download": "60880"
+                }
+            },
+            "dlcappid": "2008300",
+            "decryptionkey": "a5b96abdec81ad04cd42d9d83f2fefc96f212bcac915890c6b860f9c0a9c1ded"
+        },
+        "2008302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "363359615942330106",
+                    "size": "258287",
+                    "download": "55264"
+                },
+                "nightly": {
+                    "gid": "363359615942330106",
+                    "size": "258287",
+                    "download": "55264"
+                }
+            },
+            "dlcappid": "2008300",
+            "decryptionkey": "84204e09fdfa4b3cebfbb5514fd7b94c7474a3dda64dac980dc05931b58864db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265246",
+                "timeupdated": "1745845230"
+            },
+            "nightly": {
+                "buildid": "18852630",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1749802183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
