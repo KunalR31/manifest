@@ -1,0 +1,52 @@
+{
+    "appid": 2613890,
+    "name": "Icaria",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:16:15",
+    "change_number": 30211405,
+    "depot": {
+        "2613891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2730589735957481419",
+                    "size": "3563931112",
+                    "download": "1456610144"
+                },
+                "experimental": {
+                    "gid": "2730589735957481419",
+                    "size": "3563931112",
+                    "download": "1456610144"
+                },
+                "prior": {
+                    "gid": "2989727543011991168",
+                    "size": "3473774786",
+                    "download": "1398112896"
+                }
+            },
+            "decryptionkey": "8a57929b81b3083be78a873df5075852d1dc5017c1793a3ef2207212d472cf91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19319091",
+                "timeupdated": "1753243426"
+            },
+            "experimental": {
+                "buildid": "19319091",
+                "description": "For an early look at updates.",
+                "timeupdated": "1753225043"
+            },
+            "prior": {
+                "buildid": "18349934",
+                "description": "An older build in case we break saves.",
+                "timeupdated": "1746849595"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
