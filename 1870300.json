@@ -1,0 +1,58 @@
+{
+    "appid": 1870300,
+    "name": "SOVL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 00:21:15",
+    "change_number": 30099497,
+    "depot": {
+        "1870301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5301382453967101614",
+                    "size": "3139192813",
+                    "download": "969672688"
+                },
+                "test": {
+                    "gid": "5301382453967101614",
+                    "size": "3139192813",
+                    "download": "969672688"
+                }
+            },
+            "decryptionkey": "bf490f0cc51b55f40f81878a7bf7f250a31a0adf39bb3c76ac06b82a9c9fad86"
+        },
+        "1870302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2535154580984985797",
+                    "size": "3199821676",
+                    "download": "988781328"
+                },
+                "test": {
+                    "gid": "2535154580984985797",
+                    "size": "3199821676",
+                    "download": "988781328"
+                }
+            },
+            "decryptionkey": "333736498f35cc5e583dc48ecba8f769403fec828e64c3897e1b6b4558861259"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19119434",
+                "timeupdated": "1751784112"
+            },
+            "test": {
+                "buildid": "19119434",
+                "description": "public test branch",
+                "timeupdated": "1751748573"
+            }
+        }
+    }
+}
