@@ -1,0 +1,55 @@
+{
+    "appid": 1163730,
+    "name": "Motor Assailant",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:16:19",
+    "change_number": 29301945,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1163732": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7808421960314433313",
+                    "size": "5108611858",
+                    "download": "2091642560"
+                },
+                "test": {
+                    "gid": "7808421960314433313",
+                    "size": "5108611858",
+                    "download": "2091642560"
+                }
+            },
+            "decryptionkey": "1f33c131008f5698bc81dd14d980959d70c69265c3635f33a6d56e76fb3ba239"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15715459",
+                "timeupdated": "1726495654"
+            },
+            "test": {
+                "buildid": "15715459",
+                "description": "Testing branch",
+                "timeupdated": "1726493610"
+            }
+        }
+    }
+}
