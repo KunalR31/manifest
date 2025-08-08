@@ -1,0 +1,94 @@
+{
+    "appid": 1175640,
+    "name": "Zombie Road Rider",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 11:52:09",
+    "change_number": 30145440,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1175641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8384085227511776462",
+                    "size": "3284077150",
+                    "download": "3155329040"
+                },
+                "beta": {
+                    "gid": "8384085227511776462",
+                    "size": "3284077150",
+                    "download": "3155329040"
+                }
+            },
+            "decryptionkey": "1d1e9b00db124c031678704401a209cc0045418003aa225e085706a40cda2781"
+        },
+        "1175642": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6685073162069632799",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6685073162069632799",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f61496163d2df87c7a173fdc64c370ee77c36b16bf0c3b63c4109a7d30f9ef80"
+        },
+        "1175644": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4121039745467148071",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4121039745467148071",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9354634",
+                "timeupdated": "1661025585"
+            },
+            "beta": {
+                "buildid": "9354634",
+                "description": "beta",
+                "timeupdated": "1661024468"
+            }
+        }
+    }
+}
