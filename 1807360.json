@@ -1,0 +1,75 @@
+{
+    "appid": 1807360,
+    "name": "Dreadful River",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:02:53",
+    "change_number": 30206769,
+    "depot": {
+        "baselanguages": "english,german",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1807361": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5481709916574918639",
+                    "size": "11975734836",
+                    "download": "11157678224"
+                },
+                "snapshot": {
+                    "gid": "2823702599463225820",
+                    "size": "11818385836",
+                    "download": "10917987040"
+                }
+            },
+            "decryptionkey": "dbe3ded982c0c964e7611ef16c1206b8f9340c32ff2a71d8926e0abe77b1dba5"
+        },
+        "1807362": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2549881347289765493",
+                    "size": "8035645899",
+                    "download": "7466641264"
+                },
+                "snapshot": {
+                    "gid": "2549881347289765493",
+                    "size": "8035645899",
+                    "download": "7466641264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19329386",
+                "timeupdated": "1753275769"
+            },
+            "snapshot": {
+                "buildid": "16013350",
+                "description": "dr current snapshot version",
+                "timeupdated": "1728670752"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
