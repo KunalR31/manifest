@@ -1,0 +1,59 @@
+{
+    "appid": 1760410,
+    "name": "Impostors Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 16:49:35",
+    "change_number": 29952582,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1760411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6210051460281158765",
+                    "size": "3513357813",
+                    "download": "1853368464"
+                }
+            },
+            "decryptionkey": "27f91c2bd56da75a14d266e7f18c2c68e160d5d684bcdbff883f85e503b1ebb6"
+        },
+        "1760412": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3894035369145044846",
+                    "size": "2310263509",
+                    "download": "1512779808"
+                }
+            },
+            "decryptionkey": "50371e56356024e0fae74fdc485a593b07dcef1f5484b66f2edee036eb805ac2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19148293",
+                "timeupdated": "1751989771"
+            }
+        }
+    }
+}
