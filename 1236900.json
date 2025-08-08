@@ -1,0 +1,86 @@
+{
+    "appid": 1236900,
+    "name": "Verdant Village",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:17:34",
+    "change_number": 29161050,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1236901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4511220264203468313",
+                    "size": "326791225",
+                    "download": "161595824"
+                }
+            },
+            "decryptionkey": "5871379e2e3a50acc017076a3e123c213811da56ec84e862d9f73e872f38d367"
+        },
+        "1236902": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8041621342105632306",
+                    "size": "292965184",
+                    "download": "156147648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1236903": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3444055864810522044",
+                    "size": "427175062",
+                    "download": "169942960"
+                }
+            }
+        },
+        "1236904": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8114456102576118730",
+                    "size": "373930633",
+                    "download": "167255744"
+                }
+            }
+        },
+        "1236909": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "10668110",
+                "timeupdated": "1677701803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
