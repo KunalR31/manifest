@@ -1,0 +1,62 @@
+{
+    "appid": 2426350,
+    "name": "Champy the Useless Vampire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 03:52:32",
+    "change_number": 30160156,
+    "depot": {
+        "2426351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7019246162541361903",
+                    "size": "378808216",
+                    "download": "303050512"
+                },
+                "testbuild": {
+                    "gid": "7019246162541361903",
+                    "size": "378808216",
+                    "download": "303050512"
+                }
+            },
+            "decryptionkey": "b7e0bc9d1e199e36a168f2ca64c741bae9747c45bb7cb4ed8b75d279ce9b5533"
+        },
+        "2426352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7639724004743704194",
+                    "size": "418303649",
+                    "download": "313538192"
+                },
+                "testbuild": {
+                    "gid": "7639724004743704194",
+                    "size": "418303649",
+                    "download": "313538192"
+                }
+            }
+        },
+        "2426353": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18580865",
+                "timeupdated": "1747999042"
+            },
+            "testbuild": {
+                "buildid": "18580865",
+                "description": "Testing new stuff before release",
+                "timeupdated": "1747998405"
+            }
+        }
+    }
+}
