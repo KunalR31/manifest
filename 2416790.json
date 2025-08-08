@@ -1,0 +1,55 @@
+{
+    "appid": 2416790,
+    "name": "Old School RPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 01:54:08",
+    "change_number": 29833297,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2416791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8329555900132841718",
+                    "size": "22296282004",
+                    "download": "11156467792"
+                },
+                "test": {
+                    "gid": "8329555900132841718",
+                    "size": "22296282004",
+                    "download": "11156467792"
+                }
+            },
+            "decryptionkey": "1df1a581e06765b3b23f05d185f0e22a8bfcb150bd5e4f53f0726ba35b7866b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18266946",
+                "timeupdated": "1745854524"
+            },
+            "test": {
+                "buildid": "18266946",
+                "description": "feature and patch testing",
+                "timeupdated": "1745852555"
+            }
+        }
+    }
+}
