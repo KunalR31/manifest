@@ -1,0 +1,81 @@
+{
+    "appid": 324730,
+    "name": "Caverns of the Snow Witch",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:43:12",
+    "change_number": 29368721,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "324731": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "553033309609470221",
+                    "size": "348337944",
+                    "download": "146719472"
+                },
+                "beta": {
+                    "gid": "4400089606145627257",
+                    "size": "349018495",
+                    "download": "146872128"
+                }
+            }
+        },
+        "324732": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4456480851527647340",
+                    "size": "329280399",
+                    "download": "141340544"
+                },
+                "beta": {
+                    "gid": "3268623480260324340",
+                    "size": "329158231",
+                    "download": "141332368"
+                }
+            }
+        },
+        "324733": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5272313431260323911",
+                    "size": "318708548",
+                    "download": "138033408"
+                },
+                "beta": {
+                    "gid": "4539461084437636034",
+                    "size": "318586380",
+                    "download": "138020560"
+                }
+            },
+            "decryptionkey": "f61bb7ba75b366496d72044e7ba7c0e9c107ae214acaa6cd3347261203ea3e61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "856650"
+            },
+            "beta": {
+                "buildid": "929184"
+            }
+        }
+    }
+}
