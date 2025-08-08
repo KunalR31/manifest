@@ -1,0 +1,56 @@
+{
+    "appid": 3523370,
+    "name": "OVR Input Method Bridge Early Access",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 17:50:24",
+    "change_number": 30072810,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3523371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4733231869723689188",
+                    "size": "7485966",
+                    "download": "2723584"
+                },
+                "beta": {
+                    "gid": "7277006769595384245",
+                    "size": "7505934",
+                    "download": "2727216"
+                }
+            },
+            "decryptionkey": "895a04efcf4dbd4671516e6aa75c130ed4e8548bc21f8429590655d407ced88d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19026041",
+                "timeupdated": "1751026933"
+            },
+            "beta": {
+                "buildid": "19232873",
+                "description": "beta branch",
+                "timeupdated": "1752598217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
