@@ -1,0 +1,67 @@
+{
+    "appid": 3146020,
+    "name": "Resprite",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 13:01:20",
+    "change_number": 29621948,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian,latam,indonesian",
+        "3146021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9131502172284142942",
+                    "size": "202856542",
+                    "download": "74653104"
+                },
+                "beta": {
+                    "gid": "9131502172284142942",
+                    "size": "202856542",
+                    "download": "74653104"
+                }
+            },
+            "decryptionkey": "451579aa9aa34646440489b980ff08801f79cde6d61e830877cc029181a6298b"
+        },
+        "3146022": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "381388051485001113",
+                    "size": "194173783",
+                    "download": "70380944"
+                },
+                "beta": {
+                    "gid": "381388051485001113",
+                    "size": "194173783",
+                    "download": "70380944"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18906550",
+                "timeupdated": "1750222875"
+            },
+            "beta": {
+                "buildid": "18906550",
+                "description": "Public beta branch - for testing new features and fixes, unstable",
+                "timeupdated": "1750218035"
+            }
+        }
+    }
+}
