@@ -1,0 +1,76 @@
+{
+    "appid": 335240,
+    "name": "Transformice",
+    "type": "Game",
+    "schinese_name": "搬运鼠",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 08:44:02",
+    "change_number": 29916637,
+    "depot": {
+        "335241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9089043337542515768",
+                    "size": "48763870",
+                    "download": "19267664"
+                },
+                "electron": {
+                    "gid": "4497866785957551490",
+                    "size": "326895676",
+                    "download": "112440192"
+                }
+            },
+            "decryptionkey": "ad178ca235b3baca062d2cc47ced165cb1bb054b6c7d4c6ea3841cca9d68a1f6"
+        },
+        "335242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6620023630692256170",
+                    "size": "621764391",
+                    "download": "105317888"
+                },
+                "electron": {
+                    "gid": "6620023630692256170",
+                    "size": "621764391",
+                    "download": "105317888"
+                }
+            },
+            "decryptionkey": "567c202895347f109b278ace070dc0956e84c738c443000696b32eb506b734a2"
+        },
+        "335243": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2388899809692523730",
+                    "size": "353977223",
+                    "download": "116415344"
+                },
+                "electron": {
+                    "gid": "2388899809692523730",
+                    "size": "353977223",
+                    "download": "116415344"
+                }
+            },
+            "decryptionkey": "f680d57f91342c9a5454739ebe066f485b24ba7f56e5e72598aba48ef4e2f8a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6195945",
+                "timeupdated": "1612539201"
+            },
+            "electron": {
+                "buildid": "6196803",
+                "description": "Electron version",
+                "timeupdated": "1612548803"
+            }
+        }
+    }
+}
