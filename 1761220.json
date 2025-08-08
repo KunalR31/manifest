@@ -1,0 +1,59 @@
+{
+    "appid": 1761220,
+    "name": "Prosperous Universe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 08:16:28",
+    "change_number": 29618876,
+    "depot": {
+        "1761222": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "592450856111164819",
+                    "size": "386961382",
+                    "download": "143210640"
+                },
+                "staging": {
+                    "gid": "6195517225676693091",
+                    "size": "386844318",
+                    "download": "143187904"
+                }
+            },
+            "decryptionkey": "7cce663ca13db267a21644ff9aecfa5b25475c7d451c679a40bd381ac565d0f2"
+        },
+        "1761221": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8301946545091048827",
+                    "size": "10573743",
+                    "download": "2313248"
+                },
+                "staging": {
+                    "gid": "5728086920203208905",
+                    "size": "9690549",
+                    "download": "2189696"
+                }
+            },
+            "decryptionkey": "353e7317d8dd483118f053ec502590f521a90a027695770e06689dc59ef55a04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8560805",
+                "timeupdated": "1650619669"
+            },
+            "staging": {
+                "buildid": "13474099",
+                "description": "test server",
+                "timeupdated": "1708075169"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
