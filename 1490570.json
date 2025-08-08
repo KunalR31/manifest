@@ -1,0 +1,65 @@
+{
+    "appid": 1490570,
+    "name": "git gud",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 16:35:58",
+    "change_number": 30134631,
+    "depot": {
+        "baselanguages": "english",
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1490571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5409935447534623795",
+                    "size": "2668866",
+                    "download": "731184"
+                },
+                "dev-branch": {
+                    "gid": "5409935447534623795",
+                    "size": "2668866",
+                    "download": "731184"
+                }
+            },
+            "decryptionkey": "a032a3480ce420c34be09064b2a2092ecf6c1bb8768a332b66aabc6846252cda"
+        },
+        "1490572": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2627544068524008703",
+                    "size": "24328710",
+                    "download": "8057728"
+                },
+                "dev-branch": {
+                    "gid": "2627544068524008703",
+                    "size": "24328710",
+                    "download": "8057728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19209914",
+                "timeupdated": "1752449236"
+            },
+            "dev-branch": {
+                "buildid": "19209914",
+                "description": "Development branch; potentially unstable",
+                "timeupdated": "1752448990"
+            }
+        }
+    }
+}
