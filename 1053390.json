@@ -1,0 +1,52 @@
+{
+    "appid": 1053390,
+    "name": "Kowloon High-School Chronicle: ORIGIN OF ADVENTURE",
+    "type": "Game",
+    "schinese_name": "Kowloon High-School Chronicle",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 17:56:25",
+    "change_number": 29864442,
+    "depot": {
+        "1053391": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1749061393853562427",
+                    "size": "5716901820",
+                    "download": "4372450608"
+                },
+                "arc_debug": {
+                    "gid": "3391490817452456903",
+                    "size": "5716903181",
+                    "download": "4372451536"
+                },
+                "tachyon": {
+                    "gid": "1749061393853562427",
+                    "size": "5716901820",
+                    "download": "4372450608"
+                }
+            },
+            "decryptionkey": "6eec974b7800fffb0dd317eddbdda52b61ce1161f146ea8287ea5875b1cbca4b"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "5889179",
+                "timeupdated": "1606452629"
+            },
+            "arc_debug": {
+                "buildid": "6000389",
+                "description": "アーク確認用ブランチ",
+                "timeupdated": "1652405454"
+            },
+            "tachyon": {
+                "buildid": "5889179",
+                "description": "タキオン様 開発用ブランチ",
+                "timeupdated": "1606451718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
