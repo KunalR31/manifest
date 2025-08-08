@@ -1,0 +1,84 @@
+{
+    "appid": 1227482,
+    "name": "RetroArch - CrocoDS",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 09:01:18",
+    "change_number": 30006138,
+    "depot": {
+        "1227482": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227482"
+            },
+            "dlcappid": "1227482",
+            "manifests": {
+                "public": {
+                    "gid": "7295179710763641891",
+                    "size": "606288",
+                    "download": "245664"
+                },
+                "nightly": {
+                    "gid": "2224125165556701639",
+                    "size": "606288",
+                    "download": "297008"
+                }
+            },
+            "decryptionkey": "fec1cb02cc11aed0bab1f9c63739520f444a8eb47bb8e4736a1c771830c719d3"
+        },
+        "1789810": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227482"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "700413383615310126",
+                    "size": "572008",
+                    "download": "210432"
+                },
+                "nightly": {
+                    "gid": "700413383615310126",
+                    "size": "572008",
+                    "download": "210432"
+                }
+            },
+            "dlcappid": "1227482",
+            "decryptionkey": "521d4b3d31122c9d0141b5a6dfabaa8b3017e7cc4e861d36fd1d45e67f0ed5a9"
+        },
+        "1789811": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227482"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4003069113695160254",
+                    "size": "1157000",
+                    "download": "309120"
+                },
+                "nightly": {
+                    "gid": "4003069113695160254",
+                    "size": "1157000",
+                    "download": "309120"
+                }
+            },
+            "dlcappid": "1227482",
+            "decryptionkey": "0834da2c46627ad85b76a004279e7b57099a965d4fdd6c3dac44b45bd639d5e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265116",
+                "timeupdated": "1745845133"
+            },
+            "nightly": {
+                "buildid": "19187433",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752220872"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
