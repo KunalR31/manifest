@@ -1,0 +1,51 @@
+{
+    "appid": 345020,
+    "name": "A Feeble Saga",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:31:34",
+    "change_number": 30091293,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "345021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7021624516252283419",
+                    "size": "4629961321",
+                    "download": "1109996080"
+                }
+            },
+            "decryptionkey": "405d204aaed5213db96509ae6359231d471f7305333ec130b0e51495fc9802e7"
+        },
+        "345023": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9213967092287784515",
+                    "size": "4701919770",
+                    "download": "1144548448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5195884",
+                "timeupdated": "1593007366"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
