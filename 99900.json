@@ -1,0 +1,48 @@
+{
+    "appid": 99900,
+    "name": "Spiral Knights",
+    "type": "Game",
+    "schinese_name": "螺旋骑士",
+    "isfreeapp": 1,
+    "update_time": "2025-06-03 07:21:10",
+    "change_number": 29336610,
+    "depot": {
+        "overridescddb": "1",
+        "99902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "372193116219002677",
+                    "size": "935766092",
+                    "download": "835577536"
+                }
+            },
+            "decryptionkey": "9e7606b3336cdea20861004454df26cf59b456c0ac925d1de14e7e6e67b2b8e4"
+        },
+        "99901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "812280184875820859",
+                    "size": "495118348",
+                    "download": "610396479398"
+                }
+            },
+            "decryptionkey": "b14dcd8cbe63efa6e4587684afbff6292f93e08447e4cbe26b9765edce0fce60"
+        },
+        "99904": {},
+        "branches": {
+            "public": {
+                "buildid": "1613814",
+                "timeupdated": "1486423077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
