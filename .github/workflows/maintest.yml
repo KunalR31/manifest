@@ -33,7 +33,7 @@ jobs:
           SOURCE_REPO="https://github.com/SteamAutoCracks/ManifestHub.git"
           TARGET_REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
-          TOTAL_BRANCHES=50000
+          TOTAL_BRANCHES=62050
           JOB_COUNT=100
           JOB_INDEX=${{ matrix.job_index }}
           BRANCHES_PER_JOB=$((TOTAL_BRANCHES / JOB_COUNT))
