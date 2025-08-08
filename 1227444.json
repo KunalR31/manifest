@@ -1,0 +1,84 @@
+{
+    "appid": 1227444,
+    "name": "Snes9x",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:14:34",
+    "change_number": 29983869,
+    "depot": {
+        "1227444": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227444"
+            },
+            "dlcappid": "1227444",
+            "manifests": {
+                "public": {
+                    "gid": "1739036820000788544",
+                    "size": "5286979",
+                    "download": "1324000"
+                },
+                "nightly": {
+                    "gid": "4966895751250038780",
+                    "size": "5286979",
+                    "download": "1598624"
+                }
+            },
+            "decryptionkey": "65da2c02b6276a4714bc6294147027f8eb7fb56e13d02225ea41716fdb5dd8a6"
+        },
+        "1790080": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227444"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4618196218942457765",
+                    "size": "5125274",
+                    "download": "1310640"
+                },
+                "nightly": {
+                    "gid": "4618196218942457765",
+                    "size": "5125274",
+                    "download": "1310640"
+                }
+            },
+            "dlcappid": "1227444",
+            "decryptionkey": "263b8542217b5eefbc0aa73703bd6870d8bdf4504846af65c740458ca4e824d6"
+        },
+        "1790081": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227444"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3588519169297429121",
+                    "size": "10198042",
+                    "download": "2186000"
+                },
+                "nightly": {
+                    "gid": "3588519169297429121",
+                    "size": "10198042",
+                    "download": "2186000"
+                }
+            },
+            "dlcappid": "1227444",
+            "decryptionkey": "2db770a976434e9e48142a9dc04c66af366037b090274dac71a0ff53c43f3e74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265287",
+                "timeupdated": "1745845092"
+            },
+            "nightly": {
+                "buildid": "19172238",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752135266"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
