@@ -1,0 +1,93 @@
+{
+    "appid": 813480,
+    "name": "General Horse and the Package of Doom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 11:30:26",
+    "change_number": 29858512,
+    "depot": {
+        "baselanguages": "english",
+        "813481": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2392278570708418386",
+                    "size": "11419026567",
+                    "download": "11334213072"
+                },
+                "classic_1_2": {
+                    "gid": "3796451313595384632",
+                    "size": "11331346362",
+                    "download": "11343388752"
+                },
+                "classic_1_2_gpufix": {
+                    "gid": "4015476106172214560",
+                    "size": "11331346339",
+                    "download": "11343388736"
+                },
+                "enforce_gpu_naughty_list": {
+                    "gid": "150517408422726623",
+                    "size": "11419026544",
+                    "download": "11334213056"
+                }
+            },
+            "decryptionkey": "7fb5787dd9051bfd826685b7fc12325503758c84c7f52209c95621eded9ceb9c"
+        },
+        "813483": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4470297967234175091",
+                    "size": "11505679391",
+                    "download": "11337786896"
+                },
+                "classic_1_2": {
+                    "gid": "7355102496244710152",
+                    "size": "11392909542",
+                    "download": "11347527680"
+                },
+                "classic_1_2_gpufix": {
+                    "gid": "5273664417623200908",
+                    "size": "11392909519",
+                    "download": "11347527664"
+                },
+                "enforce_gpu_naughty_list": {
+                    "gid": "2619423439559139296",
+                    "size": "11505679368",
+                    "download": "11337786880"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19077637",
+                "timeupdated": "1751451877"
+            },
+            "classic_1_2": {
+                "buildid": "5944094",
+                "description": "Classic version 1.2 with lower food gains",
+                "timeupdated": "1751451908"
+            },
+            "classic_1_2_gpufix": {
+                "buildid": "5944215",
+                "description": "If the regular classic has issues",
+                "timeupdated": "1751452203"
+            },
+            "enforce_gpu_naughty_list": {
+                "buildid": "19077891",
+                "description": "If it detects a suspiciously old or weird GPU, it will play in software mode. Less chance for video issues, more chance of performance issues.",
+                "timeupdated": "1751452220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
