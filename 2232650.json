@@ -1,0 +1,74 @@
+{
+    "appid": 2232650,
+    "name": "Expand & Exterminate: Terrytorial Disputes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:23:46",
+    "change_number": 29137248,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2232651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8456519303119151431",
+                    "size": "2528169895",
+                    "download": "802289664"
+                },
+                "demo": {
+                    "gid": "1155833605808368481",
+                    "size": "2481780057",
+                    "download": "789406624"
+                },
+                "experimental": {
+                    "gid": "167297354353548224",
+                    "size": "2482361571",
+                    "download": "789263760"
+                }
+            },
+            "decryptionkey": "8732692bd47d02842a8bf7632f84121ae2bed68bd56635e39b2e7d5677230483"
+        },
+        "2232652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4930253435523222896",
+                    "size": "2463470305",
+                    "download": "758189856"
+                },
+                "demo": {
+                    "gid": "4930253435523222896",
+                    "size": "2463470305",
+                    "download": "758189856"
+                },
+                "experimental": {
+                    "gid": "4930253435523222896",
+                    "size": "2463470305",
+                    "download": "758189856"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12956920",
+                "timeupdated": "1702519238"
+            },
+            "demo": {
+                "buildid": "13242786",
+                "description": "Demo version",
+                "timeupdated": "1705965584"
+            },
+            "experimental": {
+                "buildid": "13429873",
+                "description": "Mostly stable build with experimental features that need testing",
+                "timeupdated": "1707707724"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
