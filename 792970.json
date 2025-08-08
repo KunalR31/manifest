@@ -1,0 +1,72 @@
+{
+    "appid": 792970,
+    "name": "Wheelz2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 11:24:39",
+    "change_number": 30008615,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "792971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2547234291215852481",
+                    "size": "5186821110",
+                    "download": "2620625312"
+                },
+                "beta": {
+                    "gid": "2547234291215852481",
+                    "size": "5186821110",
+                    "download": "2620625312"
+                }
+            },
+            "decryptionkey": "bb2af2e0fe8572a0eb681a0ba5e325de8a05e4a5bb631a7d9c477e6c92be89c7"
+        },
+        "792972": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4756087569787388758",
+                    "size": "5449158829",
+                    "download": "2695415296"
+                },
+                "beta": {
+                    "gid": "4756087569787388758",
+                    "size": "5449158829",
+                    "download": "2695415296"
+                }
+            },
+            "decryptionkey": "bdfa1248d0bed9bba8666a58547798826c62f8784189ea9e7d2103d5951a376a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3713908",
+                "timeupdated": "1554500071"
+            },
+            "beta": {
+                "buildid": "3713908",
+                "description": "hope this works!",
+                "timeupdated": "1554500058"
+            }
+        }
+    }
+}
