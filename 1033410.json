@@ -1,0 +1,54 @@
+{
+    "appid": 1033410,
+    "name": "Fragsurf",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-03 09:25:47",
+    "change_number": 29338077,
+    "depot": {
+        "workshopdepot": "1033410",
+        "1033411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7323996079315209115",
+                    "size": "2845029854",
+                    "download": "2201547072"
+                },
+                "prerelease": {
+                    "gid": "1547077886591824010",
+                    "size": "2845331198",
+                    "download": "2201862560"
+                },
+                "tricksurf": {
+                    "gid": "4182422646391448320",
+                    "size": "9058564926",
+                    "download": "4221675904"
+                }
+            },
+            "decryptionkey": "d7fc3579a2fa6c2858f938b9b487c0aa956c8b5568ceef6c3a508c13b47c49a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16826026",
+                "timeupdated": "1734820093"
+            },
+            "prerelease": {
+                "buildid": "15584621",
+                "description": "prerelease",
+                "timeupdated": "1725424356"
+            },
+            "tricksurf": {
+                "buildid": "14012737",
+                "description": "Build where tricksurf still exists",
+                "timeupdated": "1725511777"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
