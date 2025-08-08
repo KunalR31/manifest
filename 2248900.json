@@ -1,0 +1,96 @@
+{
+    "appid": 2248900,
+    "name": "Master of Chess",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:59:48",
+    "change_number": 30200939,
+    "depot": {
+        "2248901": {
+            "manifests": {
+                "public": {
+                    "gid": "405932191865061193",
+                    "size": "310877166",
+                    "download": "114422192"
+                },
+                "0.6.x": {
+                    "gid": "2375690505737865177",
+                    "size": "573553384",
+                    "download": "109009728"
+                },
+                "beta": {
+                    "gid": "5615930697081694492",
+                    "size": "311104622",
+                    "download": "115036272"
+                },
+                "debug": {
+                    "gid": "5615930697081694492",
+                    "size": "311104622",
+                    "download": "115036272"
+                },
+                "mac_test": {
+                    "gid": "5118736129994295490",
+                    "size": "310477102",
+                    "download": "115427264"
+                }
+            },
+            "decryptionkey": "12513e729aac40281fe4ce7b7dae74dabaa67558e17bf501be8725dbb3241c2f"
+        },
+        "2248902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1329288387364799742",
+                    "size": "547688625",
+                    "download": "158483744"
+                },
+                "beta": {
+                    "gid": "418398285707725072",
+                    "size": "547944953",
+                    "download": "158871056"
+                },
+                "debug": {
+                    "gid": "418398285707725072",
+                    "size": "547944953",
+                    "download": "158871056"
+                },
+                "mac_test": {
+                    "gid": "5017792989720678989",
+                    "size": "539786825",
+                    "download": "157751600"
+                }
+            }
+        },
+        "workshopdepot": "2248900",
+        "branches": {
+            "public": {
+                "buildid": "18930434",
+                "timeupdated": "1750361542"
+            },
+            "0.6.x": {
+                "buildid": "15745991",
+                "description": "Old 0.6 branch",
+                "timeupdated": "1731747719"
+            },
+            "beta": {
+                "buildid": "19325134",
+                "description": "Branch to test new and unstable builds",
+                "timeupdated": "1753253972"
+            },
+            "debug": {
+                "buildid": "19325134",
+                "description": "For debugging crashes of players on discord. Use with caution.",
+                "timeupdated": "1753253983"
+            },
+            "mac_test": {
+                "buildid": "18792950",
+                "description": "Testing mac build",
+                "timeupdated": "1749464943"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
