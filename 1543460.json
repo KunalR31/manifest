@@ -1,0 +1,75 @@
+{
+    "appid": 1543460,
+    "name": "The Sin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:36:27",
+    "change_number": 29594517,
+    "depot": {
+        "baselanguages": "english,russian",
+        "1543461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8728618102559221340",
+                    "size": "203930919",
+                    "download": "132614400"
+                },
+                "linux": {
+                    "gid": "3941829982255361196",
+                    "size": "203557342",
+                    "download": "132598256"
+                },
+                "macbuild": {
+                    "gid": "8185089283214169725",
+                    "size": "203583493",
+                    "download": "132586240"
+                }
+            },
+            "decryptionkey": "21082495481c45abf93497bc0d704327a17ea6dc6e2cf6bb47bcf7951bd9ea69"
+        },
+        "1543462": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "8219403582791437375",
+                    "size": "130882237",
+                    "download": "132429088"
+                }
+            }
+        },
+        "1543463": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "macbuild": {
+                    "gid": "3355931962824158049",
+                    "size": "156091153",
+                    "download": "118803648"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6975747",
+                "timeupdated": "1625342462"
+            },
+            "linux": {
+                "buildid": "6974145",
+                "description": "for linux",
+                "timeupdated": "1625294559"
+            },
+            "macbuild": {
+                "buildid": "6974142",
+                "description": "for mac",
+                "timeupdated": "1625294435"
+            }
+        }
+    }
+}
