@@ -1,0 +1,41 @@
+{
+    "appid": 3367530,
+    "name": "OpenCAGE",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 19:46:07",
+    "change_number": 30029940,
+    "depot": {
+        "3367531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5854809211178783315",
+                    "size": "82421716",
+                    "download": "26305824"
+                },
+                "staging": {
+                    "gid": "2541985999206336169",
+                    "size": "83314644",
+                    "download": "30246128"
+                }
+            },
+            "decryptionkey": "f13ea6caf713b791d74c3be13c9889ef65d81f9003799aa082ec31c23afec298"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18241633",
+                "timeupdated": "1745661661"
+            },
+            "staging": {
+                "buildid": "19203060",
+                "description": "Public test branch",
+                "timeupdated": "1752345963"
+            }
+        }
+    }
+}
