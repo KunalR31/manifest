@@ -1,0 +1,75 @@
+{
+    "appid": 2830480,
+    "name": "Gentoo Rescue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:36:11",
+    "change_number": 30190291,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2830481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2706892945189665038",
+                    "size": "634104706",
+                    "download": "529902384"
+                },
+                "previous": {
+                    "gid": "4838169443056794104",
+                    "size": "634108178",
+                    "download": "529904896"
+                }
+            },
+            "decryptionkey": "1d801f64ac7a36e4c48d28a3f2f2535b4638b9e454da650b81aa6c14ae7648a3"
+        },
+        "2830482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1184169585432057404",
+                    "size": "548232191",
+                    "download": "432950208"
+                },
+                "previous": {
+                    "gid": "6737249019793369569",
+                    "size": "548301711",
+                    "download": "432945472"
+                }
+            }
+        },
+        "workshopdepot": "2830480",
+        "branches": {
+            "public": {
+                "buildid": "19038121",
+                "timeupdated": "1751133099"
+            },
+            "previous": {
+                "buildid": "18974997",
+                "description": "Previous build",
+                "timeupdated": "1751133078"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
