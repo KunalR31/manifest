@@ -1,0 +1,91 @@
+{
+    "appid": 2218560,
+    "name": "PixiEditor",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 12:57:38",
+    "change_number": 29786131,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2218561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4609603136518859181",
+                    "size": "180132241",
+                    "download": "60768128"
+                },
+                "beta-2.0": {
+                    "gid": "5528047077105260253",
+                    "size": "198874888",
+                    "download": "68134080"
+                },
+                "development": {
+                    "gid": "4609603136518859181",
+                    "size": "180132241",
+                    "download": "60768128"
+                }
+            },
+            "decryptionkey": "be19d44c01f453b1e785aa854c56edf48852af1471436bd58caf8558f2741e7d"
+        },
+        "2218562": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3846676808973170966",
+                    "size": "167039203",
+                    "download": "55666912"
+                },
+                "beta-2.0": {
+                    "gid": "3846676808973170966",
+                    "size": "167039203",
+                    "download": "55666912"
+                },
+                "development": {
+                    "gid": "3846676808973170966",
+                    "size": "167039203",
+                    "download": "55666912"
+                }
+            },
+            "decryptionkey": "1d89385bc7b8dacb7bdb511a84fb2d79222b8cfcacdfedca2c26c328a5610baf"
+        },
+        "2218563": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "beta-2.0": {
+                    "gid": "8001573414795617994",
+                    "size": "253474516",
+                    "download": "85419584"
+                }
+            },
+            "decryptionkey": "99659169871c42d74ff58d37e8708634fec963d589c5b87cdc0a765f4818d5ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14452960",
+                "timeupdated": "1716372665"
+            },
+            "beta-2.0": {
+                "buildid": "19025773",
+                "description": "Open beta of PixiEditor 2.0",
+                "timeupdated": "1751025451"
+            },
+            "development": {
+                "buildid": "14452960",
+                "description": "Unstable PixiEditor releases for testing",
+                "timeupdated": "1716370820"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
