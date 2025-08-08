@@ -1,0 +1,79 @@
+{
+    "appid": 910460,
+    "name": "Rocket of Whispers: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 07:44:36",
+    "change_number": 29892330,
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "910461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6991527169138287375",
+                    "size": "186084567",
+                    "download": "69671568"
+                },
+                "beta": {
+                    "gid": "1020974736153070181",
+                    "size": "183480119",
+                    "download": "78815456"
+                }
+            },
+            "decryptionkey": "450ab7c33ff23afdc255b63cbb3d77ac38fe410aa1f434e293f59523113a5def"
+        },
+        "910463": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3029417351281026850",
+                    "size": "192317776",
+                    "download": "71654816"
+                },
+                "beta": {
+                    "gid": "652704599068604696",
+                    "size": "190234274",
+                    "download": "80977536"
+                }
+            },
+            "decryptionkey": "bac05ab5c409bc0a85e0f305efff09ee4dae82470f342f1ab9d9759ab973a5e2"
+        },
+        "910462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7153374638719878814",
+                    "size": "204890047",
+                    "download": "73730752"
+                },
+                "beta": {
+                    "gid": "526905205263753133",
+                    "size": "213953929",
+                    "download": "84739696"
+                }
+            },
+            "decryptionkey": "21433627cf7e5b1cc16b2fa2c5cc1d8529f0fae6bccc56b8f3d6e0adf63bb4c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3224349",
+                "timeupdated": "1540351677"
+            },
+            "beta": {
+                "buildid": "3824747",
+                "description": "v2.0.0",
+                "timeupdated": "1557902996"
+            }
+        }
+    }
+}
