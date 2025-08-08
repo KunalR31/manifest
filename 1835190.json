@@ -1,0 +1,51 @@
+{
+    "appid": 1835190,
+    "name": "One Last Breath",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 04:11:36",
+    "change_number": 30032612,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1835191": {
+            "manifests": {
+                "public": {
+                    "gid": "1329133158137350967",
+                    "size": "6049642320",
+                    "download": "4831695344"
+                },
+                "testing": {
+                    "gid": "1329133158137350967",
+                    "size": "6049642320",
+                    "download": "4831695344"
+                }
+            },
+            "decryptionkey": "5d664afdff4843874b24dd9f4b52038a7ddddfefad14efd61c2724ea8ef692c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13868854",
+                "timeupdated": "1711536887"
+            },
+            "testing": {
+                "buildid": "13868854",
+                "description": "dev test",
+                "timeupdated": "1711537541"
+            }
+        }
+    }
+}
