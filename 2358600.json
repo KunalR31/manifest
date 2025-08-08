@@ -1,0 +1,56 @@
+{
+    "appid": 2358600,
+    "name": "Death Harvest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 10:44:45",
+    "change_number": 30025743,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2358601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2004085054197523780",
+                    "size": "3877023680",
+                    "download": "3341349808"
+                },
+                "beta": {
+                    "gid": "2004085054197523780",
+                    "size": "3877023680",
+                    "download": "3341349808"
+                }
+            },
+            "decryptionkey": "8e27f0d052d5ad721acbfd67517592acf6e825d4858064d79e6dc643e108aa40"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19135134",
+                "timeupdated": "1751996867"
+            },
+            "beta": {
+                "buildid": "19135134",
+                "description": "Open beta version for the community.",
+                "timeupdated": "1751909634"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
