@@ -1,0 +1,53 @@
+{
+    "appid": 1546080,
+    "name": "Every Day We Fight",
+    "type": "Game",
+    "schinese_name": "永不落败 Every Day We Fight",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:51:41",
+    "change_number": 30215361,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1546081": {
+            "manifests": {
+                "public": {
+                    "gid": "6786572664850943106",
+                    "size": "16754088267",
+                    "download": "7444140592"
+                },
+                "test": {
+                    "gid": "6786572664850943106",
+                    "size": "16754088267",
+                    "download": "7444140592"
+                }
+            },
+            "decryptionkey": "a1deb6924446e24067ddd54182a17afd712d11b015038c0d9fff1195f5a68ddd"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19328546",
+                "timeupdated": "1753307495"
+            },
+            "test": {
+                "buildid": "19328546",
+                "description": "for testing",
+                "timeupdated": "1753271417"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
