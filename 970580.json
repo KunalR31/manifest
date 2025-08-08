@@ -1,0 +1,108 @@
+{
+    "appid": 970580,
+    "name": "Cubicity: Slide puzzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:05:55",
+    "change_number": 29636478,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,russian,japanese,ukrainian",
+        "970581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7091269875863871322",
+                    "size": "515688971",
+                    "download": "61714784"
+                },
+                "testing": {
+                    "gid": "8458409181547501616",
+                    "size": "515683815",
+                    "download": "61708240"
+                }
+            },
+            "decryptionkey": "a8b56ed573b9fd69fe16ac042d34ee39a68ac4527ef4038f5c7507cde17ad80b"
+        },
+        "970582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9102940765651984942",
+                    "size": "528286051",
+                    "download": "65862896"
+                },
+                "testing": {
+                    "gid": "2292286283674288510",
+                    "size": "528280895",
+                    "download": "65855136"
+                }
+            },
+            "decryptionkey": "d4709d42529661441cf25e5f567418e41dd9c5b706c1ee9368d149f534ef82d4"
+        },
+        "970583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1786009124454713186",
+                    "size": "597282226",
+                    "download": "86410016"
+                },
+                "testing": {
+                    "gid": "7344257581249415580",
+                    "size": "597274150",
+                    "download": "86403520"
+                }
+            }
+        },
+        "970584": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4047193983604448678",
+                    "size": "605462435",
+                    "download": "92675264"
+                },
+                "testing": {
+                    "gid": "3183311872238802796",
+                    "size": "605454287",
+                    "download": "92677136"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3894142",
+                "timeupdated": "1559821828"
+            },
+            "testing": {
+                "buildid": "3893753",
+                "timeupdated": "1559815399"
+            }
+        }
+    }
+}
