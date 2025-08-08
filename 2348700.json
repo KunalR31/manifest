@@ -1,0 +1,116 @@
+{
+    "appid": 2348700,
+    "name": "Wild Omission",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 03:42:01",
+    "change_number": 30178251,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2348701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3279190412767341637",
+                    "size": "459521412",
+                    "download": "335496592"
+                },
+                "alpha_1.0.x": {
+                    "gid": "4353322478500988164",
+                    "size": "455609932",
+                    "download": "327931792"
+                },
+                "alpha_1.1.x": {
+                    "gid": "289032575803195474",
+                    "size": "460703292",
+                    "download": "332489248"
+                },
+                "alpha_1.2.x": {
+                    "gid": "5933775325423935634",
+                    "size": "453263963",
+                    "download": "331236272"
+                },
+                "alpha_1.3.x": {
+                    "gid": "2523637773614672771",
+                    "size": "459287590",
+                    "download": "336901792"
+                },
+                "alpha_1.4.x": {
+                    "gid": "178955806739328625",
+                    "size": "459346355",
+                    "download": "336909104"
+                },
+                "alpha_1.5.0": {
+                    "gid": "8641086002296914194",
+                    "size": "459382453",
+                    "download": "336445728"
+                },
+                "staging": {
+                    "gid": "8641086002296914194",
+                    "size": "459382453",
+                    "download": "336445728"
+                }
+            },
+            "decryptionkey": "90c5de20787d7ce3f227f56300059fce7269a62e78a6dde13ce0ff4b82584ad6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17779797",
+                "timeupdated": "1745069631"
+            },
+            "alpha_1.0.x": {
+                "buildid": "12923470",
+                "description": "pre infinite update version",
+                "timeupdated": "1705164444"
+            },
+            "alpha_1.1.x": {
+                "buildid": "13358166",
+                "description": "Alpha 1.1.4",
+                "timeupdated": "1709410139"
+            },
+            "alpha_1.2.x": {
+                "buildid": "13409075",
+                "description": "Alpha 1.2.0",
+                "timeupdated": "1709410111"
+            },
+            "alpha_1.3.x": {
+                "buildid": "13847002",
+                "description": "Alpha 1.3.10",
+                "timeupdated": "1711391808"
+            },
+            "alpha_1.4.x": {
+                "buildid": "14129409",
+                "description": "Alpha 1.4.0",
+                "timeupdated": "1718452829"
+            },
+            "alpha_1.5.0": {
+                "buildid": "14764325",
+                "description": "Alpha 1.5.3",
+                "timeupdated": "1719494008"
+            },
+            "staging": {
+                "buildid": "14764325",
+                "description": "for testing features before release",
+                "timeupdated": "1718778378"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
