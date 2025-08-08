@@ -1,0 +1,68 @@
+{
+    "appid": 2538000,
+    "name": "Dojo Masters",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 22:59:22",
+    "change_number": 30194706,
+    "depot": {
+        "baselanguages": "english,french,koreana,spanish,schinese,tchinese,japanese,portuguese,arabic,brazilian,latam",
+        "workshopdepot": "2538000",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2538001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8493407755158767899",
+                    "size": "90843085",
+                    "download": "69610576"
+                },
+                "steamdeck": {
+                    "gid": "6043122061941558521",
+                    "size": "92048473",
+                    "download": "69805488"
+                }
+            },
+            "decryptionkey": "07f3a8f0b3bb2b457828e9e08677b3da48e29563b8b5292f84abef96e3b778c0"
+        },
+        "2538002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7585416772453533625",
+                    "size": "90843085",
+                    "download": "70436864"
+                },
+                "steamdeck": {
+                    "gid": "3239530277549986370",
+                    "size": "92048518",
+                    "download": "70727344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883642",
+                "timeupdated": "1750082203"
+            },
+            "steamdeck": {
+                "buildid": "18620980",
+                "description": "Steam Deck Test Branch",
+                "timeupdated": "1748329979"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
