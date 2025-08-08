@@ -1,0 +1,48 @@
+{
+    "appid": 2613480,
+    "name": "LAN Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 20:25:41",
+    "change_number": 30213405,
+    "depot": {
+        "2613481": {
+            "manifests": {
+                "public": {
+                    "gid": "1394932091866549002",
+                    "size": "557610686",
+                    "download": "177949104"
+                },
+                "experimental": {
+                    "gid": "6813473591174668327",
+                    "size": "557554641",
+                    "download": "177915824"
+                },
+                "linux-testing": {
+                    "gid": "7953703553578269043",
+                    "size": "557555857",
+                    "download": "177916272"
+                }
+            },
+            "decryptionkey": "cd1624e25f4bc9df61477e6dc1b8af3feaf6324547b2427e550886aa8ddb2c9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19282338",
+                "timeupdated": "1752889510"
+            },
+            "experimental": {
+                "buildid": "19207734",
+                "description": "This branch will include major features and changes that require additional testing.",
+                "timeupdated": "1752420024"
+            },
+            "linux-testing": {
+                "buildid": "19231436",
+                "description": "For testing preventing streaming crashes on Linux machines",
+                "timeupdated": "1752590808"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
