@@ -1,0 +1,97 @@
+{
+    "appid": 2332210,
+    "name": "Born Again",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 10:38:44",
+    "change_number": 29687320,
+    "depot": {
+        "2332212": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4777258617413216138",
+                    "size": "228928967",
+                    "download": "88298576"
+                },
+                "testing": {
+                    "gid": "6975577020671446805",
+                    "size": "231725085",
+                    "download": "88325360"
+                }
+            },
+            "decryptionkey": "864be72c3bf0f07d55c80388d4a5d2bd7409da224729eb9dccd6b83d0b108b6b"
+        },
+        "2332213": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3956882821513657849",
+                    "size": "211593087",
+                    "download": "83639280"
+                },
+                "testing": {
+                    "gid": "8480487161292830507",
+                    "size": "214392273",
+                    "download": "83662080"
+                }
+            },
+            "decryptionkey": "f199f7c97c47fdd5512a3797401cb3a25c214a7ede4960d25ff208e1ef2d7003"
+        },
+        "2332214": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4523638303267768255",
+                    "size": "309361061",
+                    "download": "104610816"
+                },
+                "testing": {
+                    "gid": "6350589954290880427",
+                    "size": "312154939",
+                    "download": "104630048"
+                }
+            },
+            "decryptionkey": "9b73581687d5085a2e2401be2193e93817a3cb3a967d73d23aacfcb9e807da59"
+        },
+        "2332215": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1548820548746103368",
+                    "size": "255980784",
+                    "download": "89034704"
+                },
+                "testing": {
+                    "gid": "544284253273684850",
+                    "size": "258793318",
+                    "download": "89059728"
+                }
+            },
+            "decryptionkey": "1ae86dc74efbb0d5bc50126f435192a36eba0ad56b96e99adeb4b02cadf8d2c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16995121",
+                "timeupdated": "1736896517"
+            },
+            "testing": {
+                "buildid": "17469121",
+                "description": "Testing branch",
+                "timeupdated": "1740254929"
+            }
+        }
+    }
+}
