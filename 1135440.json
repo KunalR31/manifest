@@ -1,0 +1,61 @@
+{
+    "appid": 1135440,
+    "name": "Little Green Girl",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 12:47:20",
+    "change_number": 28984279,
+    "depot": {
+        "baselanguages": "english,russian",
+        "1135441": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6847546716017209614",
+                    "size": "2526014148",
+                    "download": "2413888512"
+                },
+                "test": {
+                    "gid": "1045055683901904498",
+                    "size": "2569218943",
+                    "download": "2455568080"
+                }
+            },
+            "decryptionkey": "dd9277b49cf6e9a1f6bb6609a494672a528d2f109f346683a7e7176fdeda5ab2"
+        },
+        "1135442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611131586972661005",
+                    "size": "2511138850",
+                    "download": "2408707936"
+                },
+                "test": {
+                    "gid": "7669160174850686902",
+                    "size": "2511138845",
+                    "download": "2408707936"
+                }
+            },
+            "decryptionkey": "eb4e782f96359f09e58984f382987b718fad5d410af4d06d7bef6c8e768914f4"
+        },
+        "workshopdepot": "1135440",
+        "branches": {
+            "public": {
+                "buildid": "13702023",
+                "timeupdated": "1710160961"
+            },
+            "test": {
+                "buildid": "14341683",
+                "description": "Для тестовых сборок",
+                "timeupdated": "1715520313"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
