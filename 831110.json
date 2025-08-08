@@ -1,0 +1,85 @@
+{
+    "appid": 831110,
+    "name": "Unconventional Warfare",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 17:14:19",
+    "change_number": 29811245,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "831111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7009668143455090154",
+                    "size": "4709865543",
+                    "download": "1370720128"
+                },
+                "beta": {
+                    "gid": "7009668143455090154",
+                    "size": "4709865543",
+                    "download": "1370720128"
+                }
+            },
+            "decryptionkey": "fa9aab1af8ca117e288b58e8fa18f983bf727f3a96f6939e2faf58fa2b8177b2"
+        },
+        "831112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1650125001473177555",
+                    "size": "4700642174",
+                    "download": "1367713824"
+                },
+                "beta": {
+                    "gid": "1650125001473177555",
+                    "size": "4700642174",
+                    "download": "1367713824"
+                }
+            },
+            "decryptionkey": "7f05feceb14e504694b876d16c8af70b0b42b9ae8f838e3d99951dd622540402"
+        },
+        "831113": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2329402962040350950",
+                    "size": "4992124345",
+                    "download": "1415849952"
+                },
+                "beta": {
+                    "gid": "2329402962040350950",
+                    "size": "4992124345",
+                    "download": "1415849952"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10374113",
+                "timeupdated": "1674351510"
+            },
+            "beta": {
+                "buildid": "10374113",
+                "description": "test branch",
+                "timeupdated": "1674313640"
+            }
+        }
+    }
+}
