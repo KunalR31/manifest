@@ -1,0 +1,54 @@
+{
+    "appid": 1156500,
+    "name": "Project Apocalypse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:13:09",
+    "change_number": 29175496,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1156501": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "79563759832722496",
+                    "size": "333107168",
+                    "download": "221058368"
+                },
+                "nightly": {
+                    "gid": "79563759832722496",
+                    "size": "333107168",
+                    "download": "221058368"
+                }
+            },
+            "decryptionkey": "f66a429dc5503c466e0d54ffe549204a7fd0209efde434a79df2b5644d213617"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18600076",
+                "timeupdated": "1748167312"
+            },
+            "nightly": {
+                "buildid": "18600076",
+                "description": "Nightly Builds. Unstable, but actual",
+                "timeupdated": "1748166992"
+            }
+        }
+    }
+}
