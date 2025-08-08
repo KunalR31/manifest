@@ -1,0 +1,70 @@
+{
+    "appid": 330620,
+    "name": "It's A Wipe!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:07:09",
+    "change_number": 29683734,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "330621": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "330622": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9144055854540898988",
+                    "size": "160560412",
+                    "download": "133230048"
+                },
+                "nonopengl": {
+                    "gid": "5677046666045261090",
+                    "size": "133791271",
+                    "download": "113712496"
+                },
+                "opengl": {
+                    "gid": "6245102917140207468",
+                    "size": "160291575",
+                    "download": "132957536"
+                }
+            },
+            "decryptionkey": "2a969e3c79afbf91cce421e7659cc283bcec6aa7760bd147cfae78d565f4f2d1"
+        },
+        "workshopdepot": "330620",
+        "branches": {
+            "public": {
+                "buildid": "4176554",
+                "timeupdated": "1567910184"
+            },
+            "nonopengl": {
+                "buildid": "472735",
+                "description": "Video Testing"
+            },
+            "opengl": {
+                "buildid": "3590003",
+                "timeupdated": "1567908179"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
