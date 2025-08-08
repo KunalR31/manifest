@@ -1,0 +1,61 @@
+{
+    "appid": 2106110,
+    "name": "Mafia Pigs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-21 08:39:35",
+    "change_number": 29093102,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2106111": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5901559991692265254",
+                    "size": "1333819021",
+                    "download": "148779776"
+                },
+                "testing": {
+                    "gid": "5901559991692265254",
+                    "size": "1333819021",
+                    "download": "148779776"
+                }
+            },
+            "decryptionkey": "4b3e193d64d9f2e476359d48916cda33c2b2e1ded43ee65f35fd6766168f59cc"
+        },
+        "2106112": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6497693367152020988",
+                    "size": "1362027688",
+                    "download": "157115840"
+                },
+                "testing": {
+                    "gid": "6497693367152020988",
+                    "size": "1362027688",
+                    "download": "157115840"
+                }
+            },
+            "decryptionkey": "4cd5d586e19e4da41fa4dc2b60083e3ed3588c0366be47e2f111401ba984fcae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11115660",
+                "timeupdated": "1682693897"
+            },
+            "testing": {
+                "buildid": "11115660",
+                "description": "Testing branch with automated builds.",
+                "timeupdated": "1682692725"
+            }
+        }
+    }
+}
