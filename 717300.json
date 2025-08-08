@@ -1,0 +1,62 @@
+{
+    "appid": 717300,
+    "name": "Arena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 01:56:36",
+    "change_number": 29870001,
+    "depot": {
+        "717301": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741817114321242912",
+                    "size": "339249909",
+                    "download": "110723888"
+                },
+                "local": {
+                    "gid": "6845440782030049095",
+                    "size": "350228876",
+                    "download": "131630848"
+                }
+            }
+        },
+        "717302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1022529474901632642",
+                    "size": "343597429",
+                    "download": "110918656"
+                },
+                "local": {
+                    "gid": "699539920176822055",
+                    "size": "319927209",
+                    "download": "128853824"
+                }
+            },
+            "decryptionkey": "9832c9d4cddd40d9ff8bfacf75624704dc87f6003b372e97039f6f2fe99b28c6"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "6162240",
+                "timeupdated": "1613568135"
+            },
+            "local": {
+                "buildid": "2547136",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1519284864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
