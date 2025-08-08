@@ -1,0 +1,51 @@
+{
+    "appid": 1191080,
+    "name": "SANCTION",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 23:52:27",
+    "change_number": 30078339,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1191081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5385234598506650486",
+                    "size": "5038696436",
+                    "download": "4593464608"
+                },
+                "beta": {
+                    "gid": "5609403794974560540",
+                    "size": "5070784285",
+                    "download": "4626723424"
+                }
+            },
+            "decryptionkey": "8a8d04b9e18ea83016acebd8dd8cdd0b60d75c8f6e2ff1616f8ea41c13f2107b"
+        },
+        "workshopdepot": "1191080",
+        "branches": {
+            "public": {
+                "buildid": "19236642",
+                "timeupdated": "1752619942"
+            },
+            "beta": {
+                "buildid": "19044064",
+                "description": "Public beta branch",
+                "timeupdated": "1751227403"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
