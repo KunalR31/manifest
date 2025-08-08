@@ -1,0 +1,60 @@
+{
+    "appid": 1855030,
+    "name": "Stairway to Heaven's Gate",
+    "type": "Game",
+    "schinese_name": "天堂的阶梯",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 17:56:58",
+    "change_number": 29864450,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "1855031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4382953829125733769",
+                    "size": "941517475",
+                    "download": "882179632"
+                }
+            },
+            "decryptionkey": "2e4e7cf554fdb88e470bda2446e725757a27c34ee894e5e65c12300478294ada"
+        },
+        "1855032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7947017721101404169",
+                    "size": "908189713",
+                    "download": "860502768"
+                }
+            },
+            "decryptionkey": "5c75bb370e05f3f034c2ae87508d6861e9a0c990531ed3b7afbab7c0c9cda064"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8055234",
+                "timeupdated": "1642692456"
+            }
+        }
+    }
+}
