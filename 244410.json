@@ -1,0 +1,75 @@
+{
+    "appid": 244410,
+    "name": "Supreme Ruler 1936",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 13:31:58",
+    "change_number": 30089111,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "244411": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4005982137185439133",
+                    "size": "931457514",
+                    "download": "537318096"
+                },
+                "beta": {
+                    "gid": "4005982137185439133",
+                    "size": "931457514",
+                    "download": "537318096"
+                },
+                "winxp": {
+                    "gid": "4744566364031113167",
+                    "size": "927320442",
+                    "download": "529845872"
+                }
+            },
+            "decryptionkey": "4ef5fd1388ac8e2369802014344016592c94389aafdfdb844987857266f121be"
+        },
+        "244412": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3591618830143928927",
+                    "size": "1595895349",
+                    "download": "727273712"
+                },
+                "beta": {
+                    "gid": "3591618830143928927",
+                    "size": "1595895349",
+                    "download": "727273712"
+                },
+                "winxp": {
+                    "gid": "5005903942010717948",
+                    "size": "1591758277",
+                    "download": "719501808"
+                }
+            },
+            "decryptionkey": "ba32d6f221473a38f3bd0392b1f3858ec966ba257a996d4032fd0f8c1b829ad1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "879318"
+            },
+            "beta": {
+                "buildid": "879318",
+                "description": "Public Beta"
+            },
+            "winxp": {
+                "buildid": "511525",
+                "description": "Windows XP Compatible"
+            }
+        }
+    }
+}
