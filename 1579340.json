@@ -1,0 +1,79 @@
+{
+    "appid": 1579340,
+    "name": "Survive the Fall",
+    "type": "Game",
+    "schinese_name": "秋末求生 | Survive the Fall",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:22:09",
+    "change_number": 30204281,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1579341": {
+            "manifests": {
+                "public": {
+                    "gid": "6991405490738422925",
+                    "size": "46498307212",
+                    "download": "16384527200"
+                },
+                "publictesting": {
+                    "gid": "6991405490738422925",
+                    "size": "46498307212",
+                    "download": "16384527200"
+                }
+            },
+            "decryptionkey": "39feebfcc1604f5e11b443382b327ba82cbd6bb5dea920007238e50c93843f17"
+        },
+        "3573210": {
+            "dlcappid": "3573210",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8171616102468114298",
+                    "size": "148757544",
+                    "download": "140651504"
+                },
+                "publictesting": {
+                    "gid": "8171616102468114298",
+                    "size": "148757544",
+                    "download": "140651504"
+                }
+            },
+            "decryptionkey": "7d3abb0701b5d9c82d9121e3c590d62ecf614a542f7067b839784954395d1918"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19191566",
+                "timeupdated": "1752240768"
+            },
+            "publictesting": {
+                "buildid": "19109063",
+                "description": "For public playtesting",
+                "timeupdated": "1751636951"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
