@@ -1,0 +1,87 @@
+{
+    "appid": 1121200,
+    "name": "Silicon City",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:01:43",
+    "change_number": 29641991,
+    "depot": {
+        "baselanguages": "english,french",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1121201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2361239804010522894",
+                    "size": "1566907343",
+                    "download": "368398432"
+                },
+                "beta": {
+                    "gid": "779380242164960046",
+                    "size": "1566811572",
+                    "download": "368209616"
+                }
+            },
+            "decryptionkey": "1dddc2c85e71f81229115c54ce1baddabe319591352124b329edab456ced637a"
+        },
+        "1121202": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8863821212703172889",
+                    "size": "1635055049",
+                    "download": "387278272"
+                },
+                "beta": {
+                    "gid": "5470044480945200804",
+                    "size": "1634782584",
+                    "download": "387087200"
+                }
+            },
+            "decryptionkey": "ab45dc6eec1b3d5331ec55db5f43997667f358f03d7ef05f4e7f154a14de099f"
+        },
+        "1121203": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6764793207065529667",
+                    "size": "1574755686",
+                    "download": "370917792"
+                },
+                "beta": {
+                    "gid": "1517221567085533324",
+                    "size": "1574483241",
+                    "download": "370836384"
+                }
+            },
+            "decryptionkey": "02fc05ffc74abe94d6a60860b86a56d0b957abfbed8b503a89ffaeb7f619c8bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12378737",
+                "timeupdated": "1696685901"
+            },
+            "beta": {
+                "buildid": "12262005",
+                "description": "latest but not stable updates",
+                "timeupdated": "1695433520"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
