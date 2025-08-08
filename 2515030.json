@@ -1,0 +1,55 @@
+{
+    "appid": 2515030,
+    "name": "Dark Lord",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 21:13:51",
+    "change_number": 29903927,
+    "depot": {
+        "2515032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4999501841420788323",
+                    "size": "507997082",
+                    "download": "346196576"
+                }
+            },
+            "decryptionkey": "36E06D15259B6C881399CE1BCAF355371872B20CB2D75983804F7AFDA5500926"
+        },
+        "2515031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2282529347426500668",
+                    "size": "483562867",
+                    "download": "341181392"
+                },
+                "local": {
+                    "gid": "8680642222396430868",
+                    "size": "597178363",
+                    "download": "198064784"
+                }
+            },
+            "decryptionkey": "5339D97FCD5FA0204EB626EE99A7646598C0581F91D4082746BD5C90439F0525"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15661601",
+                "timeupdated": "1726049603"
+            },
+            "local": {
+                "buildid": "11840234",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1690909006"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
