@@ -1,0 +1,68 @@
+{
+    "appid": 1196450,
+    "name": "Stop Sign VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 14:14:22",
+    "change_number": 29810019,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1196451": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5274592362768695309",
+                    "size": "27065245",
+                    "download": "19337712"
+                },
+                "beta": {
+                    "gid": "1638451026848789135",
+                    "size": "27068910",
+                    "download": "19338048"
+                },
+                "previous_beta": {
+                    "gid": "1669370755227101591",
+                    "size": "27028893",
+                    "download": "19327856"
+                },
+                "previous_version": {
+                    "gid": "1669370755227101591",
+                    "size": "27028893",
+                    "download": "19327856"
+                }
+            },
+            "decryptionkey": "7d4e3e375f97176e1f7c69e9c5d545972d3f21862cd162b48c223802382fe9cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8905855",
+                "timeupdated": "1654797948"
+            },
+            "beta": {
+                "buildid": "9508591",
+                "description": "v.0.12.8.2 - Accepts more audio formats + Ctrl-O-O-O to open SteamVR Dashboard",
+                "timeupdated": "1663093706"
+            },
+            "previous_beta": {
+                "buildid": "8659155",
+                "description": "v.0.12.6.10 - Quest RoomId changes",
+                "timeupdated": "1654797699"
+            },
+            "previous_version": {
+                "buildid": "8659155",
+                "description": "v.0.12.6.10 - Quest RoomId changes",
+                "timeupdated": "1654797821"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
