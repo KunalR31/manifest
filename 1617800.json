@@ -1,0 +1,111 @@
+{
+    "appid": 1617800,
+    "name": "Kin's Chronicle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-18 07:38:09",
+    "change_number": 30125774,
+    "depot": {
+        "baselanguages": "english",
+        "1617801": {
+            "config": {
+                "language": "english",
+                "osarch": "64",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7674578534086949194",
+                    "size": "540111113",
+                    "download": "312521392"
+                },
+                "beta": {
+                    "gid": "7674578534086949194",
+                    "size": "540111113",
+                    "download": "312521392"
+                },
+                "v0.42": {
+                    "gid": "7257855086902690177",
+                    "size": "794693876",
+                    "download": "377397184"
+                }
+            },
+            "decryptionkey": "5550898b8b0640c2e62bcf4b0a0d8cffcf122ea40bbfb04fb83971138bc11106"
+        },
+        "1617802": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5824734308844511250",
+                    "size": "554497488",
+                    "download": "132325856"
+                },
+                "beta": {
+                    "gid": "5824734308844511250",
+                    "size": "554497488",
+                    "download": "132325856"
+                }
+            },
+            "decryptionkey": "e99de20a09d766c2eafa0845379b34e3f1408506a6afe5d8ad3bf70861e0c96b"
+        },
+        "1617803": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2967512044181101175",
+                    "size": "428398468",
+                    "download": "119510848"
+                },
+                "beta": {
+                    "gid": "2967512044181101175",
+                    "size": "428398468",
+                    "download": "119510848"
+                }
+            },
+            "decryptionkey": "9164fb9689bd64abf32b67e35bce586708292aef22fc9f5798b1da274a407822"
+        },
+        "1617804": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7782837726293028771",
+                    "size": "897298908",
+                    "download": "421372768"
+                },
+                "beta": {
+                    "gid": "7782837726293028771",
+                    "size": "897298908",
+                    "download": "421372768"
+                }
+            },
+            "decryptionkey": "a662e0770c3913ddaf2b5dd27c3ab99ee216dae9ac64f3f2fa2f25b30bf2231f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12566478",
+                "timeupdated": "1698606440"
+            },
+            "beta": {
+                "buildid": "12566478",
+                "description": "Playtest Branch",
+                "timeupdated": "1698606406"
+            },
+            "v0.42": {
+                "buildid": "7631688",
+                "description": "Previous Stable Version",
+                "timeupdated": "1695493240"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
