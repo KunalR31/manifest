@@ -1,0 +1,67 @@
+{
+    "appid": 1233120,
+    "name": "Street Racing 2020",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 05:24:15",
+    "change_number": 29779473,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1233121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3538861394269954043",
+                    "size": "8318929346",
+                    "download": "8024452960"
+                },
+                "deflin": {
+                    "gid": "2932657938588666747",
+                    "size": "11325735640",
+                    "download": "10854901968"
+                }
+            },
+            "decryptionkey": "e85c6e62b802dae988e0a9d1f45dcb373fb89795c8c2d0ccc19c77fe3b506b18"
+        },
+        "1233122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "deflin": {
+                    "gid": "1389635233793580459",
+                    "size": "8670758003",
+                    "download": "8162262976"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19020967",
+                "timeupdated": "1750998250"
+            },
+            "deflin": {
+                "buildid": "17465889",
+                "description": "un",
+                "timeupdated": "1740216238"
+            }
+        }
+    }
+}
