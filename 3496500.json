@@ -1,0 +1,58 @@
+{
+    "appid": 3496500,
+    "name": "Orb Tower",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 18:12:42",
+    "change_number": 30029302,
+    "depot": {
+        "3496501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7147811226761629183",
+                    "size": "192160229",
+                    "download": "58329808"
+                },
+                "prerelease": {
+                    "gid": "7147811226761629183",
+                    "size": "192160229",
+                    "download": "58329808"
+                }
+            },
+            "decryptionkey": "56efda99cb388cb0bd0cc08f4cafd1a4c532540c0a04c1ae69634ae932e2f04f"
+        },
+        "3496502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9036630935551213389",
+                    "size": "202156585",
+                    "download": "58722128"
+                },
+                "prerelease": {
+                    "gid": "9036630935551213389",
+                    "size": "202156585",
+                    "download": "58722128"
+                }
+            }
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "17697800",
+                "timeupdated": "1741806386"
+            },
+            "prerelease": {
+                "buildid": "17697800",
+                "description": "Unstable to-be tested versions",
+                "timeupdated": "1741806326"
+            }
+        }
+    }
+}
