@@ -1,0 +1,71 @@
+{
+    "appid": 345580,
+    "name": "Universal Combat CE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:35:17",
+    "change_number": 30112774,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "345581": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1700278801005633019",
+                    "size": "2228899876",
+                    "download": "1828114272"
+                },
+                "public_test": {
+                    "gid": "2496517498311151293",
+                    "size": "1341624505",
+                    "download": "974341536"
+                }
+            },
+            "decryptionkey": "f67f4aa2590c711617ff431413a48fc09b9c155a9ffbb9c4b62cc777d0292719"
+        },
+        "370810": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "optionaldlc": "370810"
+            },
+            "dlcappid": "370810",
+            "manifests": {
+                "public": {
+                    "gid": "442433089451899167",
+                    "size": "217634941",
+                    "download": "214712736"
+                },
+                "public_test": {
+                    "gid": "6988532103996037585",
+                    "size": "492573244",
+                    "download": "299140208"
+                }
+            },
+            "decryptionkey": "8aeea16fd67d10aa73b9a86de8ae8b47b52d063b90e1900cd26d7af04f94fc32"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9339837",
+                "timeupdated": "1660827570"
+            },
+            "public_test": {
+                "buildid": "3439098",
+                "description": "Public test branch",
+                "timeupdated": "1546474881"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
