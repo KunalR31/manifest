@@ -1,0 +1,97 @@
+{
+    "appid": 2824760,
+    "name": "Brass Necessity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-01 23:17:11",
+    "change_number": 29311968,
+    "depot": {
+        "2824761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2058609927928307521",
+                    "size": "239622794",
+                    "download": "80988512"
+                },
+                "local": {
+                    "gid": "8881014190071236134",
+                    "size": "199001156",
+                    "download": "76806160"
+                },
+                "march2025": {
+                    "gid": "2058609927928307521",
+                    "size": "239622794",
+                    "download": "80988512"
+                },
+                "version_0.9": {
+                    "gid": "8486676391996726143",
+                    "size": "199001156",
+                    "download": "76811408"
+                }
+            },
+            "decryptionkey": "2ba31e3b48ca8ac75ecf12d90e10563c9bea73968691aa474e47dc465a781b32"
+        },
+        "2824762": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4976929775565188342",
+                    "size": "231279132",
+                    "download": "78413968"
+                },
+                "local": {
+                    "gid": "4000402093285255010",
+                    "size": "190657838",
+                    "download": "74239776"
+                },
+                "march2025": {
+                    "gid": "4976929775565188342",
+                    "size": "231279132",
+                    "download": "78413968"
+                },
+                "version_0.9": {
+                    "gid": "4481269411665312238",
+                    "size": "190657838",
+                    "download": "74235024"
+                }
+            },
+            "decryptionkey": "2ca69f89524a97e345d497b6542d054ece3e0191f6356c0d59585ce0a31fa39f"
+        },
+        "2824763": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17705578",
+                "timeupdated": "1741938370"
+            },
+            "local": {
+                "buildid": "13777526",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1710788841"
+            },
+            "march2025": {
+                "buildid": "17705578",
+                "description": "testing for major update in march 2025",
+                "timeupdated": "1741854119"
+            },
+            "version_0.9": {
+                "buildid": "13777589",
+                "description": "Original early access version",
+                "timeupdated": "1741940752"
+            }
+        }
+    }
+}
