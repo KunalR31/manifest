@@ -1,0 +1,94 @@
+{
+    "appid": 311800,
+    "name": "Black Ice",
+    "type": "Game",
+    "schinese_name": "黑冰",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:10:17",
+    "change_number": 29308006,
+    "depot": {
+        "311801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "461210395801322831",
+                    "size": "1614639092",
+                    "download": "301003728"
+                },
+                "version0.7": {
+                    "gid": "1002466132925249282",
+                    "size": "175322858",
+                    "download": "70915728"
+                },
+                "indev": {
+                    "gid": "461210395801322831",
+                    "size": "1614639092",
+                    "download": "301003728"
+                }
+            },
+            "decryptionkey": "ce232b05ea74c1132008aec8f5965738909e168736172a4ee5abbf4b320ac1e7"
+        },
+        "311802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9206888660178378319",
+                    "size": "1638467527",
+                    "download": "308285712"
+                },
+                "version0.7": {
+                    "gid": "2271621944114558799",
+                    "size": "172761496",
+                    "download": "72240448"
+                },
+                "indev": {
+                    "gid": "9206888660178378319",
+                    "size": "1638467527",
+                    "download": "308285712"
+                }
+            }
+        },
+        "311803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2846279257376793315",
+                    "size": "1656747493",
+                    "download": "301810976"
+                },
+                "version0.7": {
+                    "gid": "1723844278314703698",
+                    "size": "173327997",
+                    "download": "72232448"
+                },
+                "indev": {
+                    "gid": "2846279257376793315",
+                    "size": "1656747493",
+                    "download": "301810976"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18690323",
+                "timeupdated": "1748753991"
+            },
+            "version0.7": {
+                "buildid": "1221173",
+                "timeupdated": "1486692099"
+            },
+            "indev": {
+                "buildid": "18690323",
+                "description": "the latest stuff - help test!",
+                "timeupdated": "1748754009"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
