@@ -1,0 +1,61 @@
+{
+    "appid": 1234180,
+    "name": "Moons Of Darsalon",
+    "type": "Game",
+    "schinese_name": "达萨隆之月",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 18:55:29",
+    "change_number": 29865298,
+    "depot": {
+        "workshopdepot": "1234180",
+        "baselanguages": "english,spanish,schinese,brazilian",
+        "1234181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9138647348804665451",
+                    "size": "777230188",
+                    "download": "496373648"
+                },
+                "test": {
+                    "gid": "9138647348804665451",
+                    "size": "777230188",
+                    "download": "496373648"
+                }
+            },
+            "decryptionkey": "20eb543693fccdb188bf01fbab67c04a34f003bcf2b9c3d6f27599220fe8335e"
+        },
+        "1234182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8220535329067878100",
+                    "size": "1383651955",
+                    "download": "1011023744"
+                },
+                "test": {
+                    "gid": "8220535329067878100",
+                    "size": "1383651955",
+                    "download": "1011023744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18402367",
+                "timeupdated": "1746790746"
+            },
+            "test": {
+                "buildid": "18402367",
+                "description": "for testing",
+                "timeupdated": "1746790442"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
