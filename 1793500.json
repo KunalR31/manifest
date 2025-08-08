@@ -1,0 +1,54 @@
+{
+    "appid": 1793500,
+    "name": "Christmas Live Wallpaper",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:40:24",
+    "change_number": 29378000,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1793501": {
+            "manifests": {
+                "public": {
+                    "gid": "9091865550456451331",
+                    "size": "208164178",
+                    "download": "52583792"
+                },
+                "test": {
+                    "gid": "9091865550456451331",
+                    "size": "208164178",
+                    "download": "52583792"
+                },
+                "test2": {
+                    "gid": "9091865550456451331",
+                    "size": "208164178",
+                    "download": "52583792"
+                }
+            },
+            "decryptionkey": "657d81d111726022fc4fe7d749e2e37f8b9b67595981232c949fd5f120964316"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7959815",
+                "timeupdated": "1641033832"
+            },
+            "test": {
+                "buildid": "7959815",
+                "description": "For testing prior to launching on main default branch",
+                "timeupdated": "1641033057"
+            },
+            "test2": {
+                "buildid": "7959815",
+                "description": "Extra logging for fault finding",
+                "timeupdated": "1641033803"
+            }
+        }
+    }
+}
