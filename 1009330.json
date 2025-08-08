@@ -1,0 +1,72 @@
+{
+    "appid": 1009330,
+    "name": "batch",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 11:54:16",
+    "change_number": 29841038,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,dutch",
+        "1009332": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8620366952071186692",
+                    "size": "186493060",
+                    "download": "69294672"
+                },
+                "beta": {
+                    "gid": "5771966651990297919",
+                    "size": "186493060",
+                    "download": "69294608"
+                }
+            },
+            "decryptionkey": "e65b7a72b31e87bdccd27375455c212ce6591f6dacc75e348bbd29b9b3a7c2d3"
+        },
+        "1009331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5648571794516907247",
+                    "size": "203177352",
+                    "download": "71110096"
+                },
+                "beta": {
+                    "gid": "4583041357617178577",
+                    "size": "203177352",
+                    "download": "71110032"
+                }
+            },
+            "decryptionkey": "6266c16a7751d356fff6f2c518d11208b1efdb674e70637ba2a16328b85a7d33"
+        },
+        "1009335": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "1009336": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4478849",
+                "timeupdated": "1576007378"
+            },
+            "beta": {
+                "buildid": "4478868",
+                "timeupdated": "1576007710"
+            }
+        }
+    }
+}
