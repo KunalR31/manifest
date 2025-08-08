@@ -1,0 +1,72 @@
+{
+    "appid": 1538030,
+    "name": "Steinstern",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:57:03",
+    "change_number": 30175153,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german",
+        "1538031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3922621673170361720",
+                    "size": "331213243",
+                    "download": "183290208"
+                },
+                "beta": {
+                    "gid": "3922621673170361720",
+                    "size": "331213243",
+                    "download": "183290208"
+                }
+            },
+            "decryptionkey": "d1dd6510ba1b96965bbd58606471cd45c2435e3c3db1ebe9926c0ab8aa356134"
+        },
+        "1538032": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2809625770481060097",
+                    "size": "341630690",
+                    "download": "178323008"
+                },
+                "beta": {
+                    "gid": "2809625770481060097",
+                    "size": "341630690",
+                    "download": "178323008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19305615",
+                "timeupdated": "1753135016"
+            },
+            "beta": {
+                "buildid": "19305615",
+                "description": "Testing of new versions",
+                "timeupdated": "1753134464"
+            }
+        }
+    }
+}
