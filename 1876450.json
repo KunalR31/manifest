@@ -1,0 +1,82 @@
+{
+    "appid": 1876450,
+    "name": "RetroArch - WASM-4",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 09:01:41",
+    "change_number": 30006145,
+    "depot": {
+        "1876450": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1876450",
+            "manifests": {
+                "public": {
+                    "gid": "6428553072570818909",
+                    "size": "191095",
+                    "download": "73024"
+                },
+                "nightly": {
+                    "gid": "7709620133906164521",
+                    "size": "191095",
+                    "download": "85728"
+                }
+            },
+            "decryptionkey": "f90c2b2e7c7dfd14a903f010da4cd73cb5765195ed4dcfb181826b0ca446b4cc"
+        },
+        "1876451": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2733770841241151993",
+                    "size": "163873",
+                    "download": "51600"
+                },
+                "nightly": {
+                    "gid": "4647620980166978638",
+                    "size": "163873",
+                    "download": "51616"
+                }
+            },
+            "dlcappid": "1876450",
+            "decryptionkey": "4427e8a5dcff2305fbb99843d9aa9d4933d5a17a6fce8f39447c1e819981364b"
+        },
+        "1876452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "398682379364608410",
+                    "size": "427473",
+                    "download": "94416"
+                },
+                "nightly": {
+                    "gid": "3208496683404358443",
+                    "size": "427473",
+                    "download": "94432"
+                }
+            },
+            "dlcappid": "1876450",
+            "decryptionkey": "6b258e0f90465a23e053841c50e6510ee4fe8fe7e839ff5454641a9a0c46a7c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265117",
+                "timeupdated": "1745845222"
+            },
+            "nightly": {
+                "buildid": "19187437",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752220895"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
