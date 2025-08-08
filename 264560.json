@@ -1,0 +1,82 @@
+{
+    "appid": 264560,
+    "name": "Quest for Infamy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 21:51:16",
+    "change_number": 30149559,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "markdlcdepots": "1",
+        "264561": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7104308779157321234",
+                    "size": "1875117948",
+                    "download": "1611605280"
+                },
+                "v2beta": {
+                    "gid": "3014148879058742592",
+                    "size": "1935776525",
+                    "download": "1663470432"
+                }
+            },
+            "decryptionkey": "4927ca43e2e24f63ec95e459aeb800ee93f2fbe764389d7761ab81fc8d5a8ea1"
+        },
+        "264562": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8843654611311174621",
+                    "size": "1881377555",
+                    "download": "1609190480"
+                },
+                "v2beta": {
+                    "gid": "8843654611311174621",
+                    "size": "1881377555",
+                    "download": "1609190480"
+                }
+            },
+            "decryptionkey": "c6dfc3cf0ff3144440eac4468459bad991dd85ab49961a356fb1e90079aaf9ed"
+        },
+        "264563": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2544907862397009981",
+                    "size": "1725454708",
+                    "download": "0"
+                },
+                "v2beta": {
+                    "gid": "2544907862397009981",
+                    "size": "1725454708",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "565146"
+            },
+            "v2beta": {
+                "buildid": "5040927",
+                "description": "v2.0 Beta",
+                "timeupdated": "1589734865"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
