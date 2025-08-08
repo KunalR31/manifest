@@ -1,0 +1,91 @@
+{
+    "appid": 1102100,
+    "name": "TINY METAL: FULL METAL RUMBLE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 10:52:26",
+    "change_number": 30145073,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,japanese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1102101": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2613369801001502245",
+                    "size": "894885658",
+                    "download": "752296240"
+                },
+                "32bit": {
+                    "gid": "8008159157868277893",
+                    "size": "922505488",
+                    "download": "760522336"
+                },
+                "intel_fix": {
+                    "gid": "2613369801001502245",
+                    "size": "894885658",
+                    "download": "752296240"
+                },
+                "linux": {
+                    "gid": "1931604920830527755",
+                    "size": "821454106",
+                    "download": "736558960"
+                }
+            },
+            "decryptionkey": "485990aa773cab63e92e8888b397ab7aeaa39a523cd309b8e195c4e7163ab723"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7322003",
+                "timeupdated": "1631086928"
+            },
+            "32bit": {
+                "buildid": "4848855",
+                "description": "Last available 32bit build",
+                "timeupdated": "1606900240"
+            },
+            "intel_fix": {
+                "buildid": "7322003",
+                "timeupdated": "1631086919"
+            },
+            "linux": {
+                "buildid": "6167809",
+                "description": "Known working Linux tag",
+                "timeupdated": "1631806790"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
