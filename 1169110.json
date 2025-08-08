@@ -1,0 +1,67 @@
+{
+    "appid": 1169110,
+    "name": "Super Bout: Champion's Tour",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 00:37:13",
+    "change_number": 30039955,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1169111": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "857892864101105716",
+                    "size": "5276774",
+                    "download": "994400"
+                },
+                "test": {
+                    "gid": "3641733648285117459",
+                    "size": "105815178",
+                    "download": "15541568"
+                }
+            }
+        },
+        "1169112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746136192899204852",
+                    "size": "26747657",
+                    "download": "3275280"
+                },
+                "test": {
+                    "gid": "2085715987807911139",
+                    "size": "15361684",
+                    "download": "4648704"
+                }
+            },
+            "decryptionkey": "3b60c6b0ba243870f29b9ea9be8b9d8c1628f53fe8e4cb1bb775cababae8e1a9"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9203492",
+                "timeupdated": "1658959989"
+            },
+            "test": {
+                "buildid": "19210066",
+                "description": "Test Branch",
+                "timeupdated": "1752449829"
+            }
+        }
+    }
+}
