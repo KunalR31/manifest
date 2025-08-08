@@ -1,0 +1,71 @@
+{
+    "appid": 298340,
+    "name": "Flashout 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:04:41",
+    "change_number": 30121987,
+    "depot": {
+        "298341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5528037904230896224",
+                    "size": "260432225",
+                    "download": "114491840"
+                },
+                "local": {
+                    "gid": "4868821529336862922",
+                    "size": "369913731",
+                    "download": "177699411697"
+                }
+            },
+            "decryptionkey": "36c2d34cecb72865c2915cff939c28f738855d2a4cc1af96c1634bb749da5709"
+        },
+        "298342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6382962595588912894",
+                    "size": "307699692",
+                    "download": "81380535464"
+                }
+            }
+        },
+        "298343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7473132681621711552",
+                    "size": "374714510",
+                    "download": "11340978256"
+                },
+                "local": {
+                    "gid": "3833030761346141911",
+                    "size": "373018997",
+                    "download": "93533707261"
+                }
+            },
+            "decryptionkey": "2988fcac32b97849edd70f541344d36ed9691006b0e4d8322f186e346fd36ae9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9474448",
+                "timeupdated": "1662647834"
+            },
+            "local": {
+                "buildid": "352123",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
