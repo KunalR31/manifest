@@ -1,0 +1,74 @@
+{
+    "appid": 276440,
+    "name": "Kingdom Tales",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 20:09:11",
+    "change_number": 29903224,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,russian,japanese,portuguese,polish,dutch,swedish,czech",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "276441": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1495872709402619577",
+                    "size": "368771587",
+                    "download": "345580272"
+                }
+            },
+            "decryptionkey": "032ba4071645d931aebba519796995f900afc569b07e2af38961b5ac3f46528f"
+        },
+        "276442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2334564092809438292",
+                    "size": "386835523",
+                    "download": "351250336"
+                }
+            }
+        },
+        "276443": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2903374107150007015",
+                    "size": "375695500",
+                    "download": "348054656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12678364",
+                "timeupdated": "1699701163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
