@@ -1,0 +1,84 @@
+{
+    "appid": 1222635,
+    "name": "Nestopia",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 09:02:39",
+    "change_number": 30006157,
+    "depot": {
+        "1222635": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1222635"
+            },
+            "dlcappid": "1222635",
+            "manifests": {
+                "public": {
+                    "gid": "106724826695772881",
+                    "size": "5864910",
+                    "download": "723392"
+                },
+                "nightly": {
+                    "gid": "958168055742548382",
+                    "size": "5864910",
+                    "download": "854992"
+                }
+            },
+            "decryptionkey": "1552007dc8956f25c87eaafc1f2c01e230f8d08b50a46a24e104be2d3c65f3aa"
+        },
+        "1790140": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222635"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6955962378112584464",
+                    "size": "5367060",
+                    "download": "507584"
+                },
+                "nightly": {
+                    "gid": "6955962378112584464",
+                    "size": "5367060",
+                    "download": "507584"
+                }
+            },
+            "dlcappid": "1222635",
+            "decryptionkey": "2e7319a67b8ce1c4b9ec8975b191de20235ca7d26172afceae06b8d60344daf3"
+        },
+        "1790141": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222635"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "937069455171202442",
+                    "size": "10629820",
+                    "download": "1056224"
+                },
+                "nightly": {
+                    "gid": "937069455171202442",
+                    "size": "10629820",
+                    "download": "1056224"
+                }
+            },
+            "dlcappid": "1222635",
+            "decryptionkey": "cb7d97ec9818918e98a2466fa91d1e13ab4da4609439e23e1e721ddd41b2d870"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265118",
+                "timeupdated": "1745845182"
+            },
+            "nightly": {
+                "buildid": "19187442",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752220952"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
