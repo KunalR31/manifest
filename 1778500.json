@@ -1,0 +1,66 @@
+{
+    "appid": 1778500,
+    "name": "Dee's Nuts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 04:06:31",
+    "change_number": 29980086,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1778501": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2612360060297521619",
+                    "size": "870057932",
+                    "download": "603213008"
+                },
+                "beta": {
+                    "gid": "3389388333784953294",
+                    "size": "55350913",
+                    "download": "12945424"
+                },
+                "linux": {
+                    "gid": "6772426051910787496",
+                    "size": "560308254",
+                    "download": "376491584"
+                }
+            },
+            "decryptionkey": "c3781db8fed20d70494bc9bc3547ad3e834cc4f0725b68c0bcb2ddaa8ea425d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19169342",
+                "timeupdated": "1752116785"
+            },
+            "beta": {
+                "buildid": "9881849",
+                "description": "Unity version",
+                "timeupdated": "1735851398"
+            },
+            "linux": {
+                "buildid": "16923770",
+                "description": "linux",
+                "timeupdated": "1736220110"
+            }
+        }
+    }
+}
