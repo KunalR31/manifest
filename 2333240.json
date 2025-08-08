@@ -1,0 +1,73 @@
+{
+    "appid": 2333240,
+    "name": "Logic Town",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:20",
+    "change_number": 30157356,
+    "depot": {
+        "2333241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3210961986030950043",
+                    "size": "711213962",
+                    "download": "174535664"
+                },
+                "beta": {
+                    "gid": "3210961986030950043",
+                    "size": "711213962",
+                    "download": "174535664"
+                },
+                "legacy": {
+                    "gid": "6774400548732058521",
+                    "size": "911190592",
+                    "download": "193221664"
+                }
+            },
+            "decryptionkey": "5067770f6ae0f95c9b6c031d5ad2f54990ead17f61f6c919f622bcbe401fd9af"
+        },
+        "2333242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7554910177267874889",
+                    "size": "925119931",
+                    "download": "205483280"
+                },
+                "beta": {
+                    "gid": "7554910177267874889",
+                    "size": "925119931",
+                    "download": "205483280"
+                },
+                "legacy": {
+                    "gid": "6028714083321626922",
+                    "size": "1087574551",
+                    "download": "220800064"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18892309",
+                "timeupdated": "1751004613"
+            },
+            "beta": {
+                "buildid": "18892309",
+                "description": "Public beta branch",
+                "timeupdated": "1750150737"
+            },
+            "legacy": {
+                "buildid": "17022400",
+                "description": "The previous version of the game",
+                "timeupdated": "1745298512"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
