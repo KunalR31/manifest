@@ -1,0 +1,60 @@
+{
+    "appid": 1031110,
+    "name": "Unroaded",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 15:11:31",
+    "change_number": 30027779,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,russian,ukrainian",
+        "1031111": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "743990040821888073",
+                    "size": "224698652",
+                    "download": "154592032"
+                },
+                "beta": {
+                    "gid": "743990040821888073",
+                    "size": "224698652",
+                    "download": "154592032"
+                }
+            },
+            "decryptionkey": "4b4ea8eed4f21d9005293f086b5296a620693de40f5047899bf32be59cba9ec5"
+        },
+        "1031112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "500520446327474823",
+                    "size": "212349548",
+                    "download": "149429552"
+                },
+                "beta": {
+                    "gid": "500520446327474823",
+                    "size": "212349548",
+                    "download": "149429552"
+                }
+            },
+            "decryptionkey": "86f6391e5aaddefda3a8547308c58a2964745bc6995f4b5f52bb00748297ba25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15186297",
+                "timeupdated": "1722257529"
+            },
+            "beta": {
+                "buildid": "15186297",
+                "description": "beta",
+                "timeupdated": "1722256981"
+            }
+        }
+    }
+}
