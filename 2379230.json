@@ -1,0 +1,58 @@
+{
+    "appid": 2379230,
+    "name": "Blessed Burden",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 18:50:52",
+    "change_number": 30029588,
+    "depot": {
+        "2379231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7442723304725100158",
+                    "size": "3288108356",
+                    "download": "1587564880"
+                },
+                "test_public": {
+                    "gid": "7442723304725100158",
+                    "size": "3288108356",
+                    "download": "1587564880"
+                }
+            },
+            "decryptionkey": "f32c14f9af362cac409a1040340e229a78a9bbf514e61347ac859c937f5545a5"
+        },
+        "2379232": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4823965595095002318",
+                    "size": "3837511121",
+                    "download": "2164654512"
+                },
+                "test_public": {
+                    "gid": "4823965595095002318",
+                    "size": "3837511121",
+                    "download": "2164654512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19202802",
+                "timeupdated": "1752342631"
+            },
+            "test_public": {
+                "buildid": "19202802",
+                "description": "Public test branch",
+                "timeupdated": "1752342647"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
