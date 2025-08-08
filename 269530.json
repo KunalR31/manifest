@@ -1,0 +1,72 @@
+{
+    "appid": 269530,
+    "name": "Voice Of Pripyat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 19:09:28",
+    "change_number": 29912440,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "269531": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "187478185881007223",
+                    "size": "607532798",
+                    "download": "470266352"
+                }
+            },
+            "decryptionkey": "6bfa30a7ca2b18cf80f9f20732bb5876f1f910f2e981bb26802f3333ea3816d6"
+        },
+        "269532": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7633068847935739564",
+                    "size": "604659904",
+                    "download": "471391472"
+                }
+            },
+            "decryptionkey": "b9d0cf81f5d44a88263018daeda8f81d91fa91fa8318798cffe46bf627886ac9"
+        },
+        "269533": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2906025577905876542",
+                    "size": "607573859",
+                    "download": "471981696"
+                }
+            },
+            "decryptionkey": "e334413d675ecbb9b5f25e1f53f2a8acb40fa099acb691716a531c6c7fc75a2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "544702"
+            }
+        }
+    }
+}
