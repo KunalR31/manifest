@@ -1,0 +1,55 @@
+{
+    "appid": 1603260,
+    "name": "Re.Surs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:52:23",
+    "change_number": 30147176,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1603261": {
+            "manifests": {
+                "public": {
+                    "gid": "1310135530581651499",
+                    "size": "383083434",
+                    "download": "314704672"
+                },
+                "release-exp-aspect-ratios": {
+                    "gid": "7150273432375045639",
+                    "size": "402329450",
+                    "download": "328186112"
+                },
+                "release-mouse-visible": {
+                    "gid": "8225768162026419101",
+                    "size": "402307315",
+                    "download": "328210368"
+                }
+            },
+            "decryptionkey": "bc24604813d8fb2c7447c0ace3b31529ecebbc9da75414a95eec8320d064bafe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8765744",
+                "timeupdated": "1653325246"
+            },
+            "release-exp-aspect-ratios": {
+                "buildid": "7748985",
+                "description": "Experimental support for 4:3 & 5:4",
+                "timeupdated": "1637431694"
+            },
+            "release-mouse-visible": {
+                "buildid": "7682333",
+                "description": "release (mouse visible)",
+                "timeupdated": "1636464069"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
