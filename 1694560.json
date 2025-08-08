@@ -1,0 +1,105 @@
+{
+    "appid": 1694560,
+    "name": "Inspector Schmidt - A Bavarian Tale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:14:42",
+    "change_number": 29621632,
+    "depot": {
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1694561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7027508446092570660",
+                    "size": "19512324839",
+                    "download": "16210055952"
+                },
+                "ue4_legacy": {
+                    "gid": "8331421403642786318",
+                    "size": "17765537265",
+                    "download": "15245152816"
+                }
+            },
+            "decryptionkey": "5a2d8605389f206edf6d3f382442c80f6bbe5d404a7dba40956ec1248e0a464d"
+        },
+        "2298860": {
+            "dlcappid": "2298860",
+            "config": {
+                "language": "german"
+            }
+        },
+        "1694563": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8720851861334540721",
+                    "size": "19783579774",
+                    "download": "15948544608"
+                },
+                "ue4_legacy": {
+                    "gid": "6154567188956960592",
+                    "size": "19762461926",
+                    "download": "15597848352"
+                }
+            }
+        },
+        "1694562": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4017530272912853400",
+                    "size": "19783579774",
+                    "download": "15874408224"
+                },
+                "ue4_legacy": {
+                    "gid": "7869534428475274462",
+                    "size": "17765537265",
+                    "download": "14999361104"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15229696",
+                "timeupdated": "1722541158"
+            },
+            "ue4_legacy": {
+                "buildid": "10535360",
+                "description": "The original UE 4 version",
+                "timeupdated": "1699120771"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
