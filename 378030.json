@@ -1,0 +1,91 @@
+{
+    "appid": 378030,
+    "name": "Cardinal Quest 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:34:29",
+    "change_number": 30101916,
+    "depot": {
+        "378031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8025765807358731741",
+                    "size": "60497908",
+                    "download": "47822864"
+                },
+                "modsupport": {
+                    "gid": "3092172686824545342",
+                    "size": "61021151",
+                    "download": "48054272"
+                }
+            },
+            "decryptionkey": "4be36d45c5ba322176efe311e99f783b68b5bbc37aacce64ae3209da406eefa0"
+        },
+        "378032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8673271422080688985",
+                    "size": "63379153",
+                    "download": "48164624"
+                },
+                "modsupport": {
+                    "gid": "8673271422080688985",
+                    "size": "63379153",
+                    "download": "48164624"
+                }
+            }
+        },
+        "378033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4755075360369319615",
+                    "size": "68943390",
+                    "download": "49388608"
+                },
+                "modsupport": {
+                    "gid": "4755075360369319615",
+                    "size": "68943390",
+                    "download": "49388608"
+                }
+            }
+        },
+        "430000": {
+            "manifests": {
+                "public": {
+                    "gid": "2416109004682878136",
+                    "size": "107347776",
+                    "download": "101751504"
+                },
+                "modsupport": {
+                    "gid": "2416109004682878136",
+                    "size": "107347776",
+                    "download": "101751504"
+                }
+            },
+            "dlcappid": "430000",
+            "decryptionkey": "5ac01e0e906ce0f85546c7ea207ecb2a7b026f5a39482c0c38606477aaf7e089"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1178939",
+                "timeupdated": "1465856083"
+            },
+            "modsupport": {
+                "buildid": "9269971",
+                "description": "Experimental moddable build.",
+                "timeupdated": "1659892689"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
