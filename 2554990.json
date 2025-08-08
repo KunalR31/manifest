@@ -1,0 +1,78 @@
+{
+    "appid": 2554990,
+    "name": "Beacon Patrol: First Horizons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 19:15:16",
+    "change_number": 29564580,
+    "depot": {
+        "2554991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6757114088810849801",
+                    "size": "276797065",
+                    "download": "70815904"
+                },
+                "beta": {
+                    "gid": "6757114088810849801",
+                    "size": "276797065",
+                    "download": "70815904"
+                }
+            },
+            "decryptionkey": "908e76746f9bed413be8942e3627f4398ed94c310aa756deb144522e45032770"
+        },
+        "2554992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2466605916306123674",
+                    "size": "271856910",
+                    "download": "69460672"
+                },
+                "beta": {
+                    "gid": "2466605916306123674",
+                    "size": "271856910",
+                    "download": "69460672"
+                }
+            },
+            "decryptionkey": "72eb809958a9bc2009af368ca66fdf63e04dd0fd6071d4ad75e93cfb7ab8869a"
+        },
+        "2554993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "184258467465657663",
+                    "size": "277074555",
+                    "download": "70139168"
+                },
+                "beta": {
+                    "gid": "184258467465657663",
+                    "size": "277074555",
+                    "download": "70139168"
+                }
+            },
+            "decryptionkey": "8eb5c42a6d658b853cebaaafed295194c42de561bb2ee91fdc9cd84169afea5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14187021",
+                "timeupdated": "1714143383"
+            },
+            "beta": {
+                "buildid": "14187021",
+                "description": "Beta Branch for testing",
+                "timeupdated": "1714142792"
+            }
+        }
+    }
+}
