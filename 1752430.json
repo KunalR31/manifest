@@ -1,0 +1,90 @@
+{
+    "appid": 1752430,
+    "name": "Friends of little Yus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:16:59",
+    "change_number": 29787556,
+    "depot": {
+        "1752431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2007520872991460976",
+                    "size": "32563056",
+                    "download": "9263104"
+                },
+                "helios": {
+                    "gid": "4167581849475509048",
+                    "size": "32108160",
+                    "download": "9261760"
+                },
+                "radians": {
+                    "gid": "8402243291034294377",
+                    "size": "30323520",
+                    "download": "8776688"
+                },
+                "test": {
+                    "gid": "2719271861940924058",
+                    "size": "32283344",
+                    "download": "9264176"
+                }
+            },
+            "decryptionkey": "e51c0ccb6fd6e00bb2ebcb13cf11c713b9b2192cee46593876869a2e7348fadd"
+        },
+        "1752432": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5017185746580678153",
+                    "size": "53825806",
+                    "download": "12594336"
+                },
+                "helios": {
+                    "gid": "1129582663038514025",
+                    "size": "53370910",
+                    "download": "12592992"
+                },
+                "radians": {
+                    "gid": "2730058196716507716",
+                    "size": "51904969",
+                    "download": "12132336"
+                },
+                "test": {
+                    "gid": "4484917358645458575",
+                    "size": "53546094",
+                    "download": "12595408"
+                }
+            },
+            "decryptionkey": "97e5d787c29d8566a50f8ac11ece1ac55bbb9f6b3687d39fea6088efb7cb1b69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9615162",
+                "timeupdated": "1664433354"
+            },
+            "helios": {
+                "buildid": "9567374",
+                "description": "Public Helios branch",
+                "timeupdated": "1663827164"
+            },
+            "radians": {
+                "buildid": "7500375",
+                "description": "Public Radians branch",
+                "timeupdated": "1657197543"
+            },
+            "test": {
+                "buildid": "9576577",
+                "description": "Branch for testing new features",
+                "timeupdated": "1663924111"
+            }
+        }
+    }
+}
