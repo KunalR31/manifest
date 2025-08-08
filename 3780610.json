@@ -1,0 +1,48 @@
+{
+    "appid": 3780610,
+    "name": "Alchemy Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:11:11",
+    "change_number": 30201107,
+    "depot": {
+        "3780611": {
+            "manifests": {
+                "public": {
+                    "gid": "9051750237045914356",
+                    "size": "1807792023",
+                    "download": "324416672"
+                },
+                "experimental_linux_test": {
+                    "gid": "4624658943317528889",
+                    "size": "1851623750",
+                    "download": "325926864"
+                },
+                "stable_build": {
+                    "gid": "8470632232955631367",
+                    "size": "1807068935",
+                    "download": "324378560"
+                }
+            },
+            "decryptionkey": "d4e91a705e11db247d5afdf42ecb703526e37c1ea1fa2366e7049d22ab20bdbf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19300029",
+                "timeupdated": "1753103046"
+            },
+            "experimental_linux_test": {
+                "buildid": "19243470",
+                "description": "THIS MIGHT NOT WORK",
+                "timeupdated": "1752662790"
+            },
+            "stable_build": {
+                "buildid": "19246024",
+                "description": "old working version",
+                "timeupdated": "1753027445"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
