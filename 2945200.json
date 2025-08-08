@@ -1,0 +1,72 @@
+{
+    "appid": 2945200,
+    "name": "Cabin Corpse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 09:30:08",
+    "change_number": 30084957,
+    "depot": {
+        "2945201": {
+            "manifests": {
+                "public": {
+                    "gid": "3625350088894244571",
+                    "size": "2708466706",
+                    "download": "1472318256"
+                },
+                "mac_save_bugfix": {
+                    "gid": "3218848090648013705",
+                    "size": "2432336465",
+                    "download": "1311927616"
+                }
+            },
+            "decryptionkey": "9ff44cfd4b2be8d3ecf8630ce173e4b6f9a2765899ffc6df11ead55c2703888c"
+        },
+        "2945202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9067986104712479027",
+                    "size": "2733008495",
+                    "download": "1480127744"
+                },
+                "mac_save_bugfix": {
+                    "gid": "647576826516043974",
+                    "size": "2456873506",
+                    "download": "1319735040"
+                }
+            }
+        },
+        "2945203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4561316658447544818",
+                    "size": "2710698270",
+                    "download": "1471703952"
+                },
+                "mac_save_bugfix": {
+                    "gid": "1265074703560449190",
+                    "size": "2434568029",
+                    "download": "1311315536"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19199897",
+                "timeupdated": "1752305078"
+            },
+            "mac_save_bugfix": {
+                "buildid": "17364544",
+                "description": "fix save bug with mac",
+                "timeupdated": "1739526330"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
