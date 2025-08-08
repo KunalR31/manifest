@@ -1,0 +1,96 @@
+{
+    "appid": 504010,
+    "name": "Chernobyl VR Project",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 14:11:13",
+    "change_number": 30011445,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "504011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5507424986721814877",
+                    "size": "13201604560",
+                    "download": "6792537344"
+                },
+                "chernobylproject(non-vr)": {
+                    "gid": "5507424986721814877",
+                    "size": "13201604560",
+                    "download": "6792537344"
+                }
+            },
+            "decryptionkey": "2f2e0a68b65f049c47059eed61328d9153d0c357498d1acebc74545791c2f611"
+        },
+        "504012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "504013": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "42388709754581857",
+                    "size": "13183509380",
+                    "download": "13054995232"
+                },
+                "chernobylproject(non-vr)": {
+                    "gid": "42388709754581857",
+                    "size": "13183509380",
+                    "download": "13054995232"
+                }
+            },
+            "decryptionkey": "02740426612597cfa2ad68ff9e7cada0e4237005ef147cfe46020813d56f84d7"
+        },
+        "504014": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "chernobylproject(non-vr)": {
+                    "gid": "7791633019305104570",
+                    "size": "12337281878",
+                    "download": "12253993664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2228032",
+                "timeupdated": "1509631448"
+            },
+            "chernobylproject(non-vr)": {
+                "buildid": "3234811",
+                "description": "Chernobyl Project (Non-VR)",
+                "timeupdated": "1557395940"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
