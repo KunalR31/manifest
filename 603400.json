@@ -1,0 +1,78 @@
+{
+    "appid": 603400,
+    "name": "FOX n FORESTS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:33:34",
+    "change_number": 29506682,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "603401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1101956215663140744",
+                    "size": "299416337",
+                    "download": "113380560"
+                }
+            },
+            "decryptionkey": "8dbfbd1f2a6dfa41719209467839192ef426d835dcf3edf6c3e2e84370adb49b"
+        },
+        "603402": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3564199719757457439",
+                    "size": "309933169",
+                    "download": "118496592"
+                }
+            },
+            "decryptionkey": "1d842d03f27af0dd083231a6150d3ca817ae308aa305d8f33a9538bee9742486"
+        },
+        "603403": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6677243578277810522",
+                    "size": "316598634",
+                    "download": "107854432"
+                }
+            }
+        },
+        "603404": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2382473668358036599",
+                    "size": "316502385",
+                    "download": "107724112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2765619",
+                "timeupdated": "1526291861"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
