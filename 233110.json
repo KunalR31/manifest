@@ -1,0 +1,52 @@
+{
+    "appid": 233110,
+    "name": "Defense Technica",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:59:57",
+    "change_number": 29567493,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,koreana,spanish,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1938338694098074173",
+                    "size": "755451536",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d38d561357c4c11317c71f96962485d2ed7048a444f7df8e04dbae1325d9ca4f"
+        },
+        "233112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5443511485359103665",
+                    "size": "772075312",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4faf49c38482f86c1a6e277b8eb568408a4f61d9add08ee1be17a466e48071f6"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "141215"
+            }
+        }
+    }
+}
