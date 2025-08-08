@@ -1,0 +1,75 @@
+{
+    "appid": 941850,
+    "name": "Vanguard: Normandy 1944",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 18:23:17",
+    "change_number": 30029406,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,spanish,norwegian,swedish",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "941851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8190290882162506234",
+                    "size": "9970683697",
+                    "download": "9374930464"
+                },
+                "beta-0.6": {
+                    "gid": "8190290882162506234",
+                    "size": "9970683697",
+                    "download": "9374930464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "941852": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5906623007595565171",
+                    "size": "10085447700",
+                    "download": "7232502368"
+                },
+                "beta-0.6": {
+                    "gid": "5906623007595565171",
+                    "size": "10085447700",
+                    "download": "7232502368"
+                }
+            },
+            "decryptionkey": "af744a45bf7a5ecdd711bb8598ac0fbbfaf02980b864f21dcb02bce077a5cb9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19200033",
+                "timeupdated": "1752340993"
+            },
+            "beta-0.6": {
+                "buildid": "19200033",
+                "description": "Community pre-release build for events and testing",
+                "timeupdated": "1752340929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
