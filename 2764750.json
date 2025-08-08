@@ -1,0 +1,56 @@
+{
+    "appid": 2764750,
+    "name": "The Other Side",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 07:13:48",
+    "change_number": 30161531,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2764751": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7644748037182166284",
+                    "size": "15287270020",
+                    "download": "14186747824"
+                },
+                "canary": {
+                    "gid": "7427558045656456747",
+                    "size": "14117131159",
+                    "download": "13223308480"
+                }
+            },
+            "decryptionkey": "113da5665350affbeacc447a5fa24af4497a26a4a316a4984b60d4bf90286252"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19296227",
+                "timeupdated": "1753078424"
+            },
+            "canary": {
+                "buildid": "18773439",
+                "description": "unstable - cutting edge features",
+                "timeupdated": "1749254665"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
