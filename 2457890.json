@@ -1,0 +1,73 @@
+{
+    "appid": 2457890,
+    "name": "DRACOMATON",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 20:32:39",
+    "change_number": 30038305,
+    "depot": {
+        "2457891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4669420277248477382",
+                    "size": "236946444",
+                    "download": "161476288"
+                },
+                "capstone": {
+                    "gid": "2145162426717635293",
+                    "size": "1415085647",
+                    "download": "133144896"
+                },
+                "classic": {
+                    "gid": "3861637586845931926",
+                    "size": "1411273655",
+                    "download": "136444256"
+                }
+            },
+            "decryptionkey": "d21b2800b2e35782baf57d1646111aa97b7d1422ea8e170f414367b31ff0166f"
+        },
+        "2457893": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1119897241786434184",
+                    "size": "876389195",
+                    "download": "163717952"
+                },
+                "capstone": {
+                    "gid": "6944782802468854552",
+                    "size": "260872246",
+                    "download": "164547984"
+                },
+                "classic": {
+                    "gid": "6421693315628021666",
+                    "size": "1443260569",
+                    "download": "144159248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15391374",
+                "timeupdated": "1723791881"
+            },
+            "capstone": {
+                "buildid": "15223405",
+                "description": "capstone dracomaton - as shown off at the UCSC showcase in june 2023",
+                "timeupdated": "1722498482"
+            },
+            "classic": {
+                "buildid": "12775326",
+                "description": "classic dracomaton - as released in august 2023",
+                "timeupdated": "1705302193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
