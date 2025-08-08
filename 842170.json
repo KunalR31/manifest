@@ -1,0 +1,74 @@
+{
+    "appid": 842170,
+    "name": "Hyperspace Dogfights",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:43:09",
+    "change_number": 29075604,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "842172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8058128388653620853",
+                    "size": "750308793",
+                    "download": "532206624"
+                },
+                "patch_dog_beta": {
+                    "gid": "5010282329898754539",
+                    "size": "749393555",
+                    "download": "531968624"
+                }
+            },
+            "decryptionkey": "c527612a7f6d72eeefacaee273d3a787b531d240cc00526ac239036b28358974"
+        },
+        "842171": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8743323726734816371",
+                    "size": "731154480",
+                    "download": "532287136"
+                },
+                "patch_dog_beta": {
+                    "gid": "2221330559822557248",
+                    "size": "729655831",
+                    "download": "531756208"
+                }
+            }
+        },
+        "1259270": {
+            "dlcappid": "1259270",
+            "manifests": {
+                "public": {
+                    "gid": "3517314329762254728",
+                    "size": "138",
+                    "download": "160"
+                },
+                "patch_dog_beta": {
+                    "gid": "7673178066847648917",
+                    "size": "112",
+                    "download": "144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15328895",
+                "timeupdated": "1723299107"
+            },
+            "patch_dog_beta": {
+                "buildid": "7555113",
+                "timeupdated": "1634583867"
+            }
+        }
+    }
+}
