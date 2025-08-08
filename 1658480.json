@@ -1,0 +1,49 @@
+{
+    "appid": 1658480,
+    "name": "EQDRIVE.IO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:02:48",
+    "change_number": 29684948,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1658481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3676251493769947426",
+                    "size": "6897179990",
+                    "download": "2166782304"
+                },
+                "legacy": {
+                    "gid": "6238584851105280705",
+                    "size": "6897151946",
+                    "download": "2166807184"
+                }
+            },
+            "decryptionkey": "1e6c82793ec3c9d11b2491e81ae8ce338ecaf6e610bbd7f5c7fd274a86bbd216"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11543870",
+                "timeupdated": "1687519417"
+            },
+            "legacy": {
+                "buildid": "11042150",
+                "description": "old version",
+                "timeupdated": "1683401775"
+            }
+        }
+    }
+}
