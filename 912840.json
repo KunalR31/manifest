@@ -1,0 +1,66 @@
+{
+    "appid": 912840,
+    "name": "The End of the Sun",
+    "type": "Game",
+    "schinese_name": "太阳的尽头",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 12:00:52",
+    "change_number": 30184460,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,hungarian,czech,ukrainian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "912841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4129853192075023525",
+                    "size": "9226084213",
+                    "download": "5227501232"
+                }
+            },
+            "decryptionkey": "2032eade4a0ba87fa3b0f801ac163d73ea1d21d3f3530b2c013abd0e845b8df4"
+        },
+        "912842": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "200832792584729004",
+                    "size": "9263524798",
+                    "download": "5240097920"
+                }
+            }
+        },
+        "912843": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8780531481000839499",
+                    "size": "9303897277",
+                    "download": "5238654640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19286293",
+                "timeupdated": "1753025297"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
