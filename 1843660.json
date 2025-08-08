@@ -1,0 +1,80 @@
+{
+    "appid": 1843660,
+    "name": "RetroArch - Beetle Cygne",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:02:57",
+    "change_number": 29983644,
+    "depot": {
+        "1843660": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "1843660",
+            "manifests": {
+                "public": {
+                    "gid": "6268794224685840189",
+                    "size": "1267757",
+                    "download": "176944"
+                },
+                "nightly": {
+                    "gid": "6668135670650668603",
+                    "size": "1267757",
+                    "download": "212704"
+                }
+            },
+            "decryptionkey": "53ebc1f223fe141960aac6df1ef9bb5abb8474bc7dfd9d50cce950a97b284323"
+        },
+        "1843661": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "499588821807412135",
+                    "size": "1152211",
+                    "download": "104608"
+                },
+                "nightly": {
+                    "gid": "499588821807412135",
+                    "size": "1152211",
+                    "download": "104608"
+                }
+            },
+            "dlcappid": "1843660",
+            "decryptionkey": "848c7a98494385123d841bb409146e646f8f9b2294a0df4c4d05131d3650b723"
+        },
+        "1843662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1728135113218141370",
+                    "size": "2084491",
+                    "download": "143744"
+                },
+                "nightly": {
+                    "gid": "1728135113218141370",
+                    "size": "2084491",
+                    "download": "143744"
+                }
+            },
+            "dlcappid": "1843660",
+            "decryptionkey": "930b56099cbd152477770d7d6b08751c1a065293cedc73f2bc9e590fb16787a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265128",
+                "timeupdated": "1745845233"
+            },
+            "nightly": {
+                "buildid": "19172066",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134571"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
