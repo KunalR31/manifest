@@ -1,0 +1,81 @@
+{
+    "appid": 2246910,
+    "name": "RetroArch - MojoZork",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:03:19",
+    "change_number": 29983651,
+    "depot": {
+        "2246910": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2246910",
+            "manifests": {
+                "public": {
+                    "gid": "5669290812362514422",
+                    "size": "131616",
+                    "download": "44256"
+                },
+                "nightly": {
+                    "gid": "6596934735084277295",
+                    "size": "131616",
+                    "download": "52144"
+                }
+            },
+            "decryptionkey": "e12b1ccf355ece39e417d82d738b8595cef16c351bc2041104b88226224a13f3"
+        },
+        "2246911": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6984051423342396282",
+                    "size": "102317",
+                    "download": "24432"
+                },
+                "nightly": {
+                    "gid": "6984051423342396282",
+                    "size": "102317",
+                    "download": "24432"
+                }
+            },
+            "dlcappid": "2246910",
+            "decryptionkey": "4f2b928867ad2388d0c4beea5880459b0ec06bdc68373a317c4a2d3225cce3d7"
+        },
+        "2246912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8628292059791004479",
+                    "size": "291373",
+                    "download": "45120"
+                },
+                "nightly": {
+                    "gid": "8628292059791004479",
+                    "size": "291373",
+                    "download": "45120"
+                }
+            },
+            "dlcappid": "2246910",
+            "decryptionkey": "c6fbf42d953bb132c1ebf894327c6a76c34b4a0786dbf448bdc58b0cfa478913"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265133",
+                "timeupdated": "1745845035"
+            },
+            "nightly": {
+                "buildid": "19172069",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134595"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
