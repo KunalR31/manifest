@@ -1,0 +1,56 @@
+{
+    "appid": 1382190,
+    "name": "Killer in the cabin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 22:14:20",
+    "change_number": 29813339,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1382191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6056092352362766828",
+                    "size": "11152616904",
+                    "download": "4906091952"
+                },
+                "cabinqa": {
+                    "gid": "6056092352362766828",
+                    "size": "11152616904",
+                    "download": "4906091952"
+                }
+            },
+            "decryptionkey": "4897c460c485d61eec15b09ce6c3b3f18a55e7f8dc5a5918d59e923552900a40"
+        },
+        "1382192": {},
+        "branches": {
+            "public": {
+                "buildid": "17675577",
+                "timeupdated": "1741708998"
+            },
+            "cabinqa": {
+                "buildid": "17675577",
+                "description": "Version for testing",
+                "timeupdated": "1741689991"
+            }
+        }
+    }
+}
