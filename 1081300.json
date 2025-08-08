@@ -1,0 +1,66 @@
+{
+    "appid": 1081300,
+    "name": "Sacre Bleu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 20:44:22",
+    "change_number": 29848785,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1081301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7952241234380680492",
+                    "size": "2845139661",
+                    "download": "2625253664"
+                },
+                "debug-branch": {
+                    "gid": "1139271928216098612",
+                    "size": "3030042887",
+                    "download": "2735818912"
+                },
+                "dev-branch": {
+                    "gid": "3534465263388100747",
+                    "size": "2845127373",
+                    "download": "2625641776"
+                }
+            },
+            "decryptionkey": "96033ddc5fed5310d0569e5ec8b4983ade23472946d1acc073f2e1d32dea5801"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18708078",
+                "timeupdated": "1749764660"
+            },
+            "debug-branch": {
+                "buildid": "18450201",
+                "description": "Here are builds with debug-volumes",
+                "timeupdated": "1747166893"
+            },
+            "dev-branch": {
+                "buildid": "19069901",
+                "description": "Development Branch",
+                "timeupdated": "1751399058"
+            }
+        }
+    }
+}
