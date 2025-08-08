@@ -1,0 +1,76 @@
+{
+    "appid": 1690210,
+    "name": "Sea of Dreams",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:57:28",
+    "change_number": 29332352,
+    "depot": {
+        "baselanguages": "english,french",
+        "1690211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "423921640591996537",
+                    "size": "206680613",
+                    "download": "55097584"
+                },
+                "no-drm": {
+                    "gid": "7512346744399617033",
+                    "size": "206223711",
+                    "download": "54970240"
+                }
+            },
+            "decryptionkey": "b9c3b17b4a6d4fdc42d8eeda1352590cd3c28e076bcaf87efdbe1a78c40e42a0"
+        },
+        "1690212": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6294599439254623975",
+                    "size": "203764939",
+                    "download": "60211824"
+                },
+                "no-drm": {
+                    "gid": "465929544565991737",
+                    "size": "203304851",
+                    "download": "60127456"
+                }
+            }
+        },
+        "1690213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1010071889938924820",
+                    "size": "234887593",
+                    "download": "56793872"
+                },
+                "no-drm": {
+                    "gid": "863830832601770136",
+                    "size": "234289723",
+                    "download": "56681408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18522090",
+                "timeupdated": "1747679899"
+            },
+            "no-drm": {
+                "buildid": "18522280",
+                "description": "No DRM version of Sea of Dreams",
+                "timeupdated": "1747680951"
+            }
+        }
+    }
+}
