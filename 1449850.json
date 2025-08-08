@@ -1,0 +1,73 @@
+{
+    "appid": 1449850,
+    "name": "Yu-Gi-Oh!  Master Duel",
+    "type": "Game",
+    "schinese_name": "游戏王：大师决斗",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:48:36",
+    "change_number": 30212876,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1449851": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8126584179407533853",
+                    "size": "307658845",
+                    "download": "208432032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1449852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6413440099541550755",
+                    "size": "354947481",
+                    "download": "234862736"
+                },
+                "local": {
+                    "gid": "2404381385164435113",
+                    "size": "504916893",
+                    "download": "184373296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1449853": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4472781099658091004",
+                    "size": "354947481",
+                    "download": "234842000"
+                }
+            },
+            "decryptionkey": "068dd00ef43bc982b5706b462dc417325371f29d557f9d0651d40aba06c1aaa6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18367410",
+                "timeupdated": "1746594024"
+            },
+            "local": {
+                "buildid": "8228144",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1645172157"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
