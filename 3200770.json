@@ -1,0 +1,79 @@
+{
+    "appid": 3200770,
+    "name": "Dark Age Asunder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 00:09:03",
+    "change_number": 30195630,
+    "depot": {
+        "3200771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6693899998404944897",
+                    "size": "469980224",
+                    "download": "339543136"
+                },
+                "devtest": {
+                    "gid": "7644710149879275699",
+                    "size": "470142688",
+                    "download": "339681632"
+                }
+            },
+            "decryptionkey": "5d0d320b9523a2f6554cb41e179e689e04f9d11cd62decff5df98e3bc548c90f"
+        },
+        "3200772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1907488933548064377",
+                    "size": "453359951",
+                    "download": "333788880"
+                },
+                "devtest": {
+                    "gid": "7264557730536261247",
+                    "size": "453522415",
+                    "download": "333917424"
+                }
+            }
+        },
+        "3849820": {
+            "dlcappid": "3849820",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2400187242511662420",
+                    "size": "48353960",
+                    "download": "44549744"
+                },
+                "devtest": {
+                    "gid": "2400187242511662420",
+                    "size": "48353960",
+                    "download": "44549744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,french,spanish,russian,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19283166",
+                "timeupdated": "1752898446"
+            },
+            "devtest": {
+                "buildid": "19321378",
+                "description": "Development test",
+                "timeupdated": "1753225740"
+            }
+        }
+    }
+}
