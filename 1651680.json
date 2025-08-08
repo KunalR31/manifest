@@ -1,0 +1,104 @@
+{
+    "appid": 1651680,
+    "name": "The Colorful Creature",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 22:27:24",
+    "change_number": 30139644,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1651681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3460016314291609361",
+                    "size": "99603187",
+                    "download": "76202912"
+                },
+                "arm_branch": {
+                    "gid": "4964830825405361605",
+                    "size": "96183894",
+                    "download": "72528240"
+                },
+                "32bit": {
+                    "gid": "5635345507660889083",
+                    "size": "98201371",
+                    "download": "70088448"
+                },
+                "beta": {
+                    "gid": "8022881728440510179",
+                    "size": "99359447",
+                    "download": "74140256"
+                }
+            },
+            "decryptionkey": "2c75aecf9dc9aa6b9c298770f5f5c22912face1a45df36392ee0ee394d06f5f8"
+        },
+        "1651682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6696337938598556227",
+                    "size": "92521742",
+                    "download": "73837792"
+                },
+                "arm_branch": {
+                    "gid": "3188192047512458826",
+                    "size": "94343749",
+                    "download": "72772576"
+                },
+                "32bit": {
+                    "gid": "8511519192252312800",
+                    "size": "88775301",
+                    "download": "68611600"
+                },
+                "beta": {
+                    "gid": "3188192047512458826",
+                    "size": "94343749",
+                    "download": "72772576"
+                }
+            }
+        },
+        "workshopdepot": "1651680",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19280334",
+                "timeupdated": "1752874038"
+            },
+            "arm_branch": {
+                "buildid": "16572328",
+                "description": "Only for Windows ARM computers",
+                "timeupdated": "1732835923"
+            },
+            "32bit": {
+                "buildid": "9357053",
+                "description": "32-bit branch which supports 32-bit systems. NOT RECOMMENDED FOR 64-BIT, THIS BRANCH WON'T BE UPDATED!",
+                "timeupdated": "1661987521"
+            },
+            "beta": {
+                "buildid": "16153299",
+                "description": "Beta Versions",
+                "timeupdated": "1729698009"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
