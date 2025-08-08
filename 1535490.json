@@ -1,0 +1,91 @@
+{
+    "appid": 1535490,
+    "name": "Eggcelerate!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:59:50",
+    "change_number": 29567501,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1535491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5439941163171229119",
+                    "size": "319558751",
+                    "download": "61049056"
+                },
+                "test": {
+                    "gid": "5439941163171229119",
+                    "size": "319558751",
+                    "download": "61049056"
+                }
+            },
+            "decryptionkey": "63510aca70e5c3f4b26dd47ad43bc09caf87d46325d291718c6d6d383b3ea444"
+        },
+        "1535492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8992921300417083758",
+                    "size": "333841075",
+                    "download": "63692240"
+                },
+                "test": {
+                    "gid": "8992921300417083758",
+                    "size": "333841075",
+                    "download": "63692240"
+                }
+            }
+        },
+        "1535493": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5925509581477113074",
+                    "size": "322672540",
+                    "download": "61619024"
+                },
+                "test": {
+                    "gid": "5925509581477113074",
+                    "size": "322672540",
+                    "download": "61619024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10145908",
+                "timeupdated": "1672363077"
+            },
+            "test": {
+                "buildid": "10145908",
+                "description": "Test Testing branch",
+                "timeupdated": "1671042231"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
