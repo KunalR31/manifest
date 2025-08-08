@@ -1,0 +1,64 @@
+{
+    "appid": 1871970,
+    "name": "Rise for the Fight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 22:16:17",
+    "change_number": 30214916,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1871971": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3364074652539132219",
+                    "size": "266098751",
+                    "download": "57302208"
+                },
+                "playtest": {
+                    "gid": "5422269567395535459",
+                    "size": "281734066",
+                    "download": "67361456"
+                }
+            },
+            "decryptionkey": "761a56d31eb4e74220ef167e1f9a123343736632c096c4f214b1a8fcf85e06be"
+        },
+        "1871972": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2651106120924070626",
+                    "size": "282618166",
+                    "download": "63811392"
+                },
+                "playtest": {
+                    "gid": "7299783699457514637",
+                    "size": "297400294",
+                    "download": "73691328"
+                }
+            },
+            "decryptionkey": "16e199b25fbe16c4f43df5a362f145e13557210fd76a0fe652e1fce01533d260"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18108372",
+                "timeupdated": "1744690429"
+            },
+            "playtest": {
+                "buildid": "19334919",
+                "description": "This branch will be for testing new features, bug fixes, and so on before they are released.",
+                "timeupdated": "1753305373"
+            }
+        }
+    }
+}
