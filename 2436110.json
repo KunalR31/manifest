@@ -1,0 +1,56 @@
+{
+    "appid": 2436110,
+    "name": "KARNAL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 13:12:21",
+    "change_number": 30026903,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2436111": {
+            "config": {
+                "oslist": "windows,linux",
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "147745009084315955",
+                    "size": "8531632289",
+                    "download": "8220596832"
+                },
+                "classic": {
+                    "gid": "2647343345240671056",
+                    "size": "6614797847",
+                    "download": "6325575712"
+                }
+            },
+            "decryptionkey": "005d2b90e672dbf8a0f1b9a1e9b0e6c39d195d3fa304d45a3cac8e3c2b566d5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16595058",
+                "timeupdated": "1733092067"
+            },
+            "classic": {
+                "buildid": "13190656",
+                "description": "Karnal 1.2",
+                "timeupdated": "1713125902"
+            }
+        }
+    }
+}
