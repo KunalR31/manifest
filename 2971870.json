@@ -1,0 +1,60 @@
+{
+    "appid": 2971870,
+    "name": "Miniparty",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 13:12:36",
+    "change_number": 30026904,
+    "depot": {
+        "baselanguages": "english",
+        "2971871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3651433316744310386",
+                    "size": "277422360",
+                    "download": "86122304"
+                },
+                "test": {
+                    "gid": "6950028703266226473",
+                    "size": "299793756",
+                    "download": "88379712"
+                }
+            },
+            "decryptionkey": "03fb61ce64f34bd239d95e5c43ad5a22ae7bdabfb4453139c5830ad9d60c1ab7"
+        },
+        "2971872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2056535230010604517",
+                    "size": "284860754",
+                    "download": "88893968"
+                },
+                "test": {
+                    "gid": "732735846621891480",
+                    "size": "307232118",
+                    "download": "91206576"
+                }
+            },
+            "decryptionkey": "11d483172d90495c80f813103ed4d6e1181f49b490c6744fe01a43978baf8a53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14912159",
+                "timeupdated": "1719961750"
+            },
+            "test": {
+                "buildid": "14910199",
+                "description": "beta test",
+                "timeupdated": "1719947128"
+            }
+        }
+    }
+}
