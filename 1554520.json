@@ -1,0 +1,78 @@
+{
+    "appid": 1554520,
+    "name": "Smackball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:56:02",
+    "change_number": 30091744,
+    "depot": {
+        "1554521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8714002273959510003",
+                    "size": "90214696",
+                    "download": "29861776"
+                },
+                "beta": {
+                    "gid": "4422570013153028634",
+                    "size": "106987009",
+                    "download": "43053760"
+                }
+            },
+            "decryptionkey": "485aaafa641a4ed180554e5bb67708e181c75ea8d69981e14c0f95a14ba39188"
+        },
+        "1554522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7812700948830679426",
+                    "size": "82559113",
+                    "download": "27434352"
+                },
+                "beta": {
+                    "gid": "2403655468666359537",
+                    "size": "98394625",
+                    "download": "39535792"
+                }
+            },
+            "decryptionkey": "763abaa466fc69bc87f76f483f27c1a497bf92b975bbbb83c7402b2f6522e3d5"
+        },
+        "1554523": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "335820841083474289",
+                    "size": "111930364",
+                    "download": "36415712"
+                },
+                "beta": {
+                    "gid": "7963437682166291927",
+                    "size": "130457774",
+                    "download": "51720080"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7141700",
+                "timeupdated": "1628175425"
+            },
+            "beta": {
+                "buildid": "19246617",
+                "description": "Public beta branch",
+                "timeupdated": "1752677754"
+            }
+        }
+    }
+}
