@@ -1,0 +1,97 @@
+{
+    "appid": 360030,
+    "name": "XLarn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 17:39:27",
+    "change_number": 29953341,
+    "depot": {
+        "360031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4837831709173790698",
+                    "size": "3595468",
+                    "download": "3134352"
+                },
+                "linux64-fix": {
+                    "gid": "9030077722576865851",
+                    "size": "4632540",
+                    "download": "4059088"
+                },
+                "mac-mojave-fix": {
+                    "gid": "4837831709173790698",
+                    "size": "3595468",
+                    "download": "3134352"
+                }
+            },
+            "decryptionkey": "74e791a2816a1e85d468c76a1eb42d6004b561244a0797a689a20660592cbdb0"
+        },
+        "360032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8724563414193554260",
+                    "size": "6493088",
+                    "download": "4540048"
+                },
+                "linux64-fix": {
+                    "gid": "1084519183210668790",
+                    "size": "7740845",
+                    "download": "5528128"
+                },
+                "mac-mojave-fix": {
+                    "gid": "8724563414193554260",
+                    "size": "6493088",
+                    "download": "4540048"
+                }
+            },
+            "decryptionkey": "95dceb175993dcbd155d760ab9fb5943e2c494359b243926541ac2532061d10b"
+        },
+        "360033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7550295749610713822",
+                    "size": "3936569",
+                    "download": "3186256"
+                },
+                "linux64-fix": {
+                    "gid": "7298590151694710062",
+                    "size": "4440244",
+                    "download": "3965904"
+                },
+                "mac-mojave-fix": {
+                    "gid": "7550295749610713822",
+                    "size": "3936569",
+                    "download": "3186256"
+                }
+            },
+            "decryptionkey": "cc82e709cd564ce6dd4b9f64d73155f5fe6a9b3c8ae2186bdeb02f89e08060b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18843996",
+                "timeupdated": "1750266292"
+            },
+            "linux64-fix": {
+                "buildid": "15100363",
+                "description": "hotfix for linux 64 bit systems",
+                "timeupdated": "1734447353"
+            },
+            "mac-mojave-fix": {
+                "buildid": "18843996",
+                "description": "hotfix for mac mojave",
+                "timeupdated": "1750269849"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
