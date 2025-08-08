@@ -1,0 +1,68 @@
+{
+    "appid": 803720,
+    "name": "War Theatre",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:08:41",
+    "change_number": 29559804,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "803721": {
+            "manifests": {
+                "public": {
+                    "gid": "6894993361739706058",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ec258167860f9b7688554c4310317d7f41e2713778aab5ddcbf1756423ed25fb"
+        },
+        "803722": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1488115647262504175",
+                    "size": "305547051",
+                    "download": "290668240"
+                }
+            },
+            "decryptionkey": "c1165f25976fcfda59e4cefe4a18338bf38c0c16bbd11852ed1caf65095f651e"
+        },
+        "803723": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4620098933585773742",
+                    "size": "331863401",
+                    "download": "311175936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3674008",
+                "timeupdated": "1553354921"
+            }
+        }
+    }
+}
