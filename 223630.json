@@ -1,0 +1,60 @@
+{
+    "appid": 223630,
+    "name": "AirBuccaneers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-12 05:52:35",
+    "change_number": 29516417,
+    "depot": {
+        "223631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4867687994243093845",
+                    "size": "1336672867",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4867687994243093845",
+                    "size": "1336672867",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ecde48551bc8f855e30542ec7033f3a29cc760a34d60b58a5a7a20413e91c1b8"
+        },
+        "223632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8513506169582257937",
+                    "size": "1244878489",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "8513506169582257937",
+                    "size": "1244878489",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8d47ab0aa1e9714d269f3db22385646fd2c11d539bfd2843c861012b152ccf6f"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "108013"
+            },
+            "beta": {
+                "buildid": "108013",
+                "description": "Beta branch"
+            }
+        }
+    }
+}
