@@ -1,0 +1,118 @@
+{
+    "appid": 1568570,
+    "name": "Retro Tank Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 16:18:49",
+    "change_number": 30155455,
+    "depot": {
+        "baselanguages": "english,german,spanish,schinese,tchinese,russian,japanese,polish,ukrainian",
+        "1568571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1171520572156992998",
+                    "size": "53723896",
+                    "download": "21000544"
+                },
+                "alpha": {
+                    "gid": "5057431852198282964",
+                    "size": "51233704",
+                    "download": "20275744"
+                },
+                "old-netcode": {
+                    "gid": "8334488260866308931",
+                    "size": "48334584",
+                    "download": "19712128"
+                },
+                "beta": {
+                    "gid": "1171520572156992998",
+                    "size": "53723896",
+                    "download": "21000544"
+                }
+            },
+            "decryptionkey": "d0e61a51756fd2242f4a27f221f0c863deca79797989593fbbb33679dff881b0"
+        },
+        "1568572": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4008389064870804941",
+                    "size": "67938287",
+                    "download": "24905776"
+                },
+                "alpha": {
+                    "gid": "3973343608862599501",
+                    "size": "65448095",
+                    "download": "24193072"
+                },
+                "old-netcode": {
+                    "gid": "5316204814275649249",
+                    "size": "69714303",
+                    "download": "24586416"
+                },
+                "beta": {
+                    "gid": "4008389064870804941",
+                    "size": "67938287",
+                    "download": "24905776"
+                }
+            }
+        },
+        "1568573": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "756005554735470730",
+                    "size": "62155408",
+                    "download": "23321216"
+                },
+                "alpha": {
+                    "gid": "4522551182652358110",
+                    "size": "59645488",
+                    "download": "22463904"
+                },
+                "old-netcode": {
+                    "gid": "8046015563372987723",
+                    "size": "62469534",
+                    "download": "22671104"
+                },
+                "beta": {
+                    "gid": "756005554735470730",
+                    "size": "62155408",
+                    "download": "23321216"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19291724",
+                "timeupdated": "1753024725"
+            },
+            "alpha": {
+                "buildid": "8638489",
+                "description": "Branch for early testing - it's sometimes very broken",
+                "timeupdated": "1651117102"
+            },
+            "old-netcode": {
+                "buildid": "8642779",
+                "description": "v1.1 using the old netcode",
+                "timeupdated": "1651159286"
+            },
+            "beta": {
+                "buildid": "19291724",
+                "description": "Branch for beta testers",
+                "timeupdated": "1753024158"
+            }
+        }
+    }
+}
