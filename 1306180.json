@@ -1,0 +1,139 @@
+{
+    "appid": 1306180,
+    "name": "Retrocycles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 18:15:59",
+    "change_number": 29584881,
+    "depot": {
+        "baselanguages": "english,german",
+        "1306181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8988503045674442112",
+                    "size": "10724421",
+                    "download": "3903952"
+                },
+                "staging": {
+                    "gid": "6224217129873772666",
+                    "size": "10727257",
+                    "download": "3905088"
+                },
+                "alpha": {
+                    "gid": "6309481189377402975",
+                    "size": "10766358",
+                    "download": "3915600"
+                },
+                "beta": {
+                    "gid": "7333750981850852075",
+                    "size": "10729264",
+                    "download": "3906016"
+                },
+                "experimental": {
+                    "gid": "8973358654604520479",
+                    "size": "29031135",
+                    "download": "9213392"
+                }
+            },
+            "decryptionkey": "47fd77b612bd45362d0003dbb1f6057184ea96251d93fde4cb791464d3667170"
+        },
+        "1306182": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "150516314902936749",
+                    "size": "8158188",
+                    "download": "2418976"
+                },
+                "staging": {
+                    "gid": "7480451625410522578",
+                    "size": "8230644",
+                    "download": "2448896"
+                },
+                "alpha": {
+                    "gid": "133351567331199378",
+                    "size": "8244028",
+                    "download": "2454528"
+                },
+                "beta": {
+                    "gid": "2775351991896088639",
+                    "size": "8232544",
+                    "download": "2448832"
+                },
+                "experimental": {
+                    "gid": "5074167409021523219",
+                    "size": "17891995",
+                    "download": "6335376"
+                }
+            },
+            "decryptionkey": "70e02e95b71432282779fc6f1fec910c26f4e45623380a1e939895704538381e"
+        },
+        "1306183": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8183435937606924045",
+                    "size": "6012530",
+                    "download": "2289952"
+                },
+                "staging": {
+                    "gid": "6665746166944476910",
+                    "size": "9371828",
+                    "download": "3227408"
+                },
+                "alpha": {
+                    "gid": "385433343826464605",
+                    "size": "9394217",
+                    "download": "3235568"
+                },
+                "beta": {
+                    "gid": "5371721938910372323",
+                    "size": "9392480",
+                    "download": "3234192"
+                },
+                "experimental": {
+                    "gid": "4652535087874154941",
+                    "size": "35534404",
+                    "download": "12363024"
+                }
+            },
+            "decryptionkey": "030285ca38f581802cc5f4f6509d541076b4d7f9ed01b04085c9ab7fd42b78e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13766176",
+                "timeupdated": "1710670899"
+            },
+            "staging": {
+                "buildid": "13862349",
+                "description": "Builds about to be released",
+                "timeupdated": "1711487107"
+            },
+            "alpha": {
+                "buildid": "18496998",
+                "description": "Builds directly from current development",
+                "timeupdated": "1747428255"
+            },
+            "beta": {
+                "buildid": "17594526",
+                "description": "Builds on the way to release",
+                "timeupdated": "1741120694"
+            },
+            "experimental": {
+                "buildid": "17652523",
+                "description": "Builds too strange for alpha",
+                "timeupdated": "1741523679"
+            }
+        }
+    }
+}
