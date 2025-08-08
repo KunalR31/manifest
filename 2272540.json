@@ -1,0 +1,58 @@
+{
+    "appid": 2272540,
+    "name": "FBC: Firebreak",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:23:17",
+    "change_number": 30217090,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2272541": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2520209928519846316",
+                    "size": "21570212273",
+                    "download": "15006179664"
+                },
+                "local": {
+                    "gid": "1949281024751576723",
+                    "size": "14395236982",
+                    "download": "7844779984"
+                }
+            },
+            "decryptionkey": "a07aa761da92da0deb6a785fac179e2fc66fd3cb9b177051ff9b397b2b966ceb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19213525",
+                "timeupdated": "1752573551"
+            },
+            "local": {
+                "buildid": "10673205",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1677753244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
