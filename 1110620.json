@@ -1,0 +1,52 @@
+{
+    "appid": 1110620,
+    "name": "Way of Rhea",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:22:57",
+    "change_number": 29256400,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1110622": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7357699633187740873",
+                    "size": "334585841",
+                    "download": "246711072"
+                }
+            },
+            "decryptionkey": "9b7a0d67e849fe4790fff6ced321546ed94e951e0b100f62cc28a6522edeae2e"
+        },
+        "1110621": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8587727922529976907",
+                    "size": "351323897",
+                    "download": "249162256"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18617027",
+                "timeupdated": "1748506462"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
