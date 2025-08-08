@@ -1,0 +1,69 @@
+{
+    "appid": 3380340,
+    "name": "DragonRoad",
+    "type": "Game",
+    "schinese_name": "龙道",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:44:50",
+    "change_number": 30215978,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3380341": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1252294131547011477",
+                    "size": "60409611806",
+                    "download": "57956027232"
+                }
+            },
+            "decryptionkey": "814e2b2b09bf8ded67139879fabda1ccb65d2fd6b7bfa576fa62ddba00839873"
+        },
+        "3380343": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1289691388090202101",
+                    "size": "60409611806",
+                    "download": "57957179680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19335033",
+                "timeupdated": "1753310686"
+            }
+        }
+    }
+}
