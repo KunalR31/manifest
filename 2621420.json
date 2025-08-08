@@ -1,0 +1,72 @@
+{
+    "appid": 2621420,
+    "name": "The Elision Effect",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:59:04",
+    "change_number": 29998217,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2621421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6146996426087820020",
+                    "size": "230539054",
+                    "download": "139891872"
+                },
+                "beta": {
+                    "gid": "1444181576386514595",
+                    "size": "230532910",
+                    "download": "139899920"
+                }
+            },
+            "decryptionkey": "4fa5dbf110ea93143e997f4c970a6b800ea17f4e9f6067750499b46dd41aed04"
+        },
+        "2621422": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1778976802811826231",
+                    "size": "209386456",
+                    "download": "93693136"
+                },
+                "beta": {
+                    "gid": "2126307090655196961",
+                    "size": "209385969",
+                    "download": "93671648"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14640342",
+                "timeupdated": "1717768503"
+            },
+            "beta": {
+                "buildid": "14640049",
+                "description": "Unpublished changes, before I test them live",
+                "timeupdated": "1717767338"
+            }
+        }
+    }
+}
