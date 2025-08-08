@@ -1,0 +1,61 @@
+{
+    "appid": 1573360,
+    "name": "Infinity Kingdom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 08:12:07",
+    "change_number": 30063012,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,thai,polish,vietnamese",
+        "hasdepotsindlc": "0",
+        "1573361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3515823489384921774",
+                    "size": "2396973700",
+                    "download": "1994954160"
+                },
+                "test": {
+                    "gid": "8013740379025777186",
+                    "size": "2080284720",
+                    "download": "1723351472"
+                }
+            },
+            "decryptionkey": "240eb7694a9ebc35fa0bd1553a749e4411fa4f75685b73768f9b0287d85eefc9"
+        },
+        "1573362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3208789411059378588",
+                    "size": "2481447101",
+                    "download": "1984374288"
+                },
+                "test": {
+                    "gid": "1144809555149619962",
+                    "size": "2092736526",
+                    "download": "1707083904"
+                }
+            },
+            "decryptionkey": "1874bd4baa68d6c61a33d8a433af90ed8b9d418190f03ce1f666ad2767d2a27a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19184544",
+                "timeupdated": "1752202626"
+            },
+            "test": {
+                "buildid": "12668498",
+                "description": "测试分支",
+                "timeupdated": "1699601745"
+            }
+        }
+    }
+}
