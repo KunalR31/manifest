@@ -1,0 +1,98 @@
+{
+    "appid": 815010,
+    "name": "Relaxicon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:34:34",
+    "change_number": 29267214,
+    "depot": {
+        "815011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5305494675619365126",
+                    "size": "97967457",
+                    "download": "39009200"
+                },
+                "beta": {
+                    "gid": "1209714383720933272",
+                    "size": "99179731",
+                    "download": "39209968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "815012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6607772164029825551",
+                    "size": "106380985",
+                    "download": "41502656"
+                },
+                "beta": {
+                    "gid": "5952024530478206405",
+                    "size": "107795499",
+                    "download": "41780160"
+                }
+            },
+            "decryptionkey": "e6d6f3f18fca26bc9b02bdcc734df1930df99243a623d3c941aaee9beb97d8b3"
+        },
+        "815013": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7876584054476705700",
+                    "size": "105137511",
+                    "download": "41034288"
+                },
+                "beta": {
+                    "gid": "6790361749743649191",
+                    "size": "101291166",
+                    "download": "40011280"
+                }
+            }
+        },
+        "815014": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8130328281263184279",
+                    "size": "114702785",
+                    "download": "42444512"
+                },
+                "beta": {
+                    "gid": "3690794801716172511",
+                    "size": "149432494",
+                    "download": "42679888"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5677045",
+                "timeupdated": "1602602873"
+            },
+            "beta": {
+                "buildid": "6061285",
+                "timeupdated": "1610277374"
+            }
+        }
+    }
+}
