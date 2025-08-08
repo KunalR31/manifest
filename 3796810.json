@@ -1,0 +1,68 @@
+{
+    "appid": 3796810,
+    "name": "Nightingale Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:08:27",
+    "change_number": 30190816,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2834901": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3428279827223574099",
+                    "size": "11132336795",
+                    "download": "10582973488"
+                },
+                "public-test-realm": {
+                    "gid": "8448769228220537243",
+                    "size": "11132336458",
+                    "download": "10582942688"
+                }
+            },
+            "decryptionkey": "19017e82480e010d2b1bd4df327956ac12921ff4f73ffac6005d34f77899581b"
+        },
+        "2834902": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7154253869340697887",
+                    "size": "11210452176",
+                    "download": "10715518032"
+                },
+                "public-test-realm": {
+                    "gid": "4408164414722041366",
+                    "size": "11210452176",
+                    "download": "10715514368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19221410",
+                "timeupdated": "1752683283"
+            },
+            "public-test-realm": {
+                "buildid": "19163404",
+                "description": "Test branch for upcoming releases",
+                "timeupdated": "1752078451"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
