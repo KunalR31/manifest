@@ -1,0 +1,57 @@
+{
+    "appid": 1209570,
+    "name": "Cosmos",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:33:29",
+    "change_number": 29731287,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1209571": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8141214431576133785",
+                    "size": "603654374",
+                    "download": "170998368"
+                },
+                "development": {
+                    "gid": "3140809412567484313",
+                    "size": "603665375",
+                    "download": "173092128"
+                }
+            },
+            "decryptionkey": "6007ca1abe8d08f382995caabc3e19b58900aeb1433c5f8b8c80e3845c590135"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18915766",
+                "timeupdated": "1750267638"
+            },
+            "development": {
+                "buildid": "18986914",
+                "description": "For testing developmental patches",
+                "timeupdated": "1750804173"
+            }
+        }
+    }
+}
