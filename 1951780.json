@@ -1,0 +1,73 @@
+{
+    "appid": 1951780,
+    "name": "Jumping Jazz Cats",
+    "type": "Game",
+    "schinese_name": "奇喵派对",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 06:52:11",
+    "change_number": 30143573,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1951781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3967857811879165383",
+                    "size": "2308032019",
+                    "download": "1864829632"
+                },
+                "experimental": {
+                    "gid": "8229088861219154103",
+                    "size": "2308299651",
+                    "download": "1875759088"
+                }
+            },
+            "decryptionkey": "1a2665d2ccc26b6fc849acae18c8932f9d802794a174a7eeaa8addb988e0c1f7"
+        },
+        "3558441": {
+            "dlcappid": "3558440",
+            "manifests": {
+                "public": {
+                    "gid": "6986745160634033049",
+                    "size": "109367771",
+                    "download": "101764208"
+                },
+                "experimental": {
+                    "gid": "6986745160634033049",
+                    "size": "109367771",
+                    "download": "101764208"
+                }
+            },
+            "decryptionkey": "067a0178f8171cdd5d9ebecf10273ea54bcc743e0fde33295b3bfc85b801e477"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18446688",
+                "timeupdated": "1747217667"
+            },
+            "experimental": {
+                "buildid": "19066247",
+                "description": "PUBLIC - Experimental Branch",
+                "timeupdated": "1751623053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
