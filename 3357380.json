@@ -1,0 +1,66 @@
+{
+    "appid": 3357380,
+    "name": "NEDRA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:42:45",
+    "change_number": 30176265,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese",
+        "3357381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7258723623371057706",
+                    "size": "9567571606",
+                    "download": "9156649712"
+                },
+                "iio-dev": {
+                    "gid": "5994353672658581365",
+                    "size": "11224623624",
+                    "download": "10803694208"
+                },
+                "iio-testing": {
+                    "gid": "2592197796383710851",
+                    "size": "9567629446",
+                    "download": "9156674208"
+                }
+            },
+            "decryptionkey": "f6ddf3011a0f746ebcc750cf1315450781e39e18ea59864afb2c3f961708685f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19167687",
+                "timeupdated": "1752104845"
+            },
+            "iio-dev": {
+                "buildid": "17371493",
+                "description": "Developer uploads and testing",
+                "timeupdated": "1739563121"
+            },
+            "iio-testing": {
+                "buildid": "19070424",
+                "description": "full-game-testing",
+                "timeupdated": "1751402397"
+            }
+        }
+    }
+}
