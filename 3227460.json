@@ -1,0 +1,76 @@
+{
+    "appid": 3227460,
+    "name": "LIMSCAPE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 11:25:42",
+    "change_number": 30129327,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3227461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2162679437101350419",
+                    "size": "1679577168",
+                    "download": "1304964032"
+                },
+                "beta": {
+                    "gid": "2162679437101350419",
+                    "size": "1679577168",
+                    "download": "1304964032"
+                },
+                "preprevious": {
+                    "gid": "8401306353859829849",
+                    "size": "1679332829",
+                    "download": "1304850032"
+                },
+                "previous": {
+                    "gid": "609031163817277530",
+                    "size": "1679356565",
+                    "download": "1304816464"
+                }
+            },
+            "decryptionkey": "0592190e501c98ef03a6d7d9ebded65ad9399f4440027433b3473afd2ae0c7bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19254361",
+                "timeupdated": "1752726289"
+            },
+            "beta": {
+                "buildid": "19254361",
+                "description": "beta version",
+                "timeupdated": "1752723357"
+            },
+            "preprevious": {
+                "buildid": "19047560",
+                "description": "previous version 2",
+                "timeupdated": "1752727075"
+            },
+            "previous": {
+                "buildid": "19089932",
+                "description": "previous version",
+                "timeupdated": "1752727064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
