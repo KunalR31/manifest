@@ -1,0 +1,45 @@
+{
+    "appid": 240320,
+    "name": "Panzar",
+    "type": "Game",
+    "schinese_name": "混沌试炼",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 16:23:02",
+    "change_number": 29279299,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,russian,polish",
+        "markdlcdepots": "1",
+        "240321": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "357849148055543606",
+                    "size": "11463185228",
+                    "download": "10807653824"
+                },
+                "local": {
+                    "gid": "4416311405937482270",
+                    "size": "104529951",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b26282fd97ea4483efd24ab53a05cf6a16490baffd178f9cf420e8df825e3ae0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3584679",
+                "timeupdated": "1550826406"
+            },
+            "local": {
+                "buildid": "145038",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
