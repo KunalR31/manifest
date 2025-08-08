@@ -1,0 +1,137 @@
+{
+    "appid": 41300,
+    "name": "Altitude",
+    "type": "Game",
+    "schinese_name": "飞机大乱斗",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 05:07:15",
+    "change_number": 30160669,
+    "depot": {
+        "overridescddb": "1",
+        "41304": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2270626899600309162",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "2121481902971246541",
+                    "size": "111241836",
+                    "download": "671111625832"
+                },
+                "beta": {
+                    "gid": "2270626899600309162",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "361cfccb765dc2740e054bb02e21c8647b099da0d06a60765ca41a68113d7730"
+        },
+        "41303": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4842180458463061052",
+                    "size": "312598605",
+                    "download": "176494288"
+                },
+                "previous": {
+                    "gid": "3483231600846891148",
+                    "size": "6017080",
+                    "download": "2427808"
+                },
+                "beta": {
+                    "gid": "4842180458463061052",
+                    "size": "312598605",
+                    "download": "176494288"
+                }
+            },
+            "decryptionkey": "c4cbb8a4d8b308fe43487564febc07c969d327701ebb93242b1a935dd70fce3b"
+        },
+        "41302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9212941411731750178",
+                    "size": "308438547",
+                    "download": "176840752"
+                },
+                "previous": {
+                    "gid": "3640375030833653107",
+                    "size": "94927943",
+                    "download": "41012115984"
+                },
+                "beta": {
+                    "gid": "9212941411731750178",
+                    "size": "308438547",
+                    "download": "176840752"
+                }
+            },
+            "decryptionkey": "9e030d19c2323fe6627c401340fa634deb40440a71bbbe1ece4f7d466c6f7414"
+        },
+        "41301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7348674636034381845",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7348674636034381845",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1df24e8ce9f36be241fff78973c985ad563fac1d7d05e3c30fced6f4beb37c11"
+        },
+        "41305": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8956400798772137002",
+                    "size": "318835565",
+                    "download": "178237696"
+                },
+                "previous": {
+                    "gid": "2679964288049273930",
+                    "size": "152240466",
+                    "download": "284129836774"
+                },
+                "beta": {
+                    "gid": "8956400798772137002",
+                    "size": "318835565",
+                    "download": "178237696"
+                }
+            },
+            "decryptionkey": "c6eb1064c2eafa79df0209d87d0d4403317096f241e5ccae9d52ceb0dec35510"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19295538",
+                "timeupdated": "1753070831"
+            },
+            "previous": {
+                "buildid": "374586",
+                "description": "The legacy 32bit Altitude.",
+                "timeupdated": "1617203994"
+            },
+            "beta": {
+                "buildid": "19295538",
+                "description": "Beta branch for testing Altitude",
+                "timeupdated": "1753070708"
+            }
+        }
+    }
+}
