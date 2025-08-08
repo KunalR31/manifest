@@ -1,0 +1,52 @@
+{
+    "appid": 1402020,
+    "name": "SCP: Labrat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 01:42:03",
+    "change_number": 30159306,
+    "depot": {
+        "1402021": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2886918217238687812",
+                    "size": "3806699874",
+                    "download": "1645864448"
+                },
+                "breach-beta": {
+                    "gid": "3137830062741537623",
+                    "size": "4163340419",
+                    "download": "2533213712"
+                },
+                "v1_96": {
+                    "gid": "3845194592514955007",
+                    "size": "2100486024",
+                    "download": "891543088"
+                }
+            },
+            "decryptionkey": "37b3528728469583f7773d13abd78ce83d7e4023c5cca168780460652c28dd31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18016080",
+                "timeupdated": "1744827899"
+            },
+            "breach-beta": {
+                "buildid": "11763340",
+                "description": "Beta for breach multiplayer mode",
+                "timeupdated": "1690004104"
+            },
+            "v1_96": {
+                "buildid": "8270556",
+                "description": "Legacy version of SCP: Labrat",
+                "timeupdated": "1671748683"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
