@@ -1,0 +1,57 @@
+{
+    "appid": 2210300,
+    "name": "The Hellchemist",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 13:04:12",
+    "change_number": 29809625,
+    "depot": {
+        "2210301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7947643614241264144",
+                    "size": "428198909",
+                    "download": "166083440"
+                },
+                "testing": {
+                    "gid": "1230931962544422890",
+                    "size": "185171505",
+                    "download": "65924320"
+                }
+            },
+            "decryptionkey": "b998abceae2d0c1d6a887fd89e17acb41a2135ec80a48147ce548c7a39b41e2a"
+        },
+        "2210302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7487500489049308823",
+                    "size": "428198909",
+                    "download": "166083440"
+                },
+                "testing": {
+                    "gid": "2743156976427944422",
+                    "size": "185171505",
+                    "download": "65924320"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11106116",
+                "timeupdated": "1682607720"
+            },
+            "testing": {
+                "buildid": "10750139",
+                "description": "Experimental",
+                "timeupdated": "1678618491"
+            }
+        }
+    }
+}
