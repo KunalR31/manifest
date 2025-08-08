@@ -1,0 +1,61 @@
+{
+    "appid": 3515100,
+    "name": "OCCT",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 10:08:03",
+    "change_number": 30144750,
+    "depot": {
+        "3515102": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9007894003704118188",
+                    "size": "294054240",
+                    "download": "206144688"
+                },
+                "local": {
+                    "gid": "2917652042786354277",
+                    "size": "268339520",
+                    "download": "179350800"
+                }
+            },
+            "decryptionkey": "8e42f89add75524c3403f231b74c3bd0bec10c7ded64c7ef7f288352c1dc828d"
+        },
+        "3515103": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "336235959551589469",
+                    "size": "275186713",
+                    "download": "190159488"
+                },
+                "local": {
+                    "gid": "8819556116814975779",
+                    "size": "276526092",
+                    "download": "191466432"
+                }
+            },
+            "decryptionkey": "c32c0c4d30d4b4e2e2ce96ff082e745c0bd9082f84e43ef3afd23e2ef3a02a11"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19284346",
+                "timeupdated": "1752916079"
+            },
+            "local": {
+                "buildid": "17647451",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1741449742"
+            }
+        }
+    }
+}
