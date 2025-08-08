@@ -1,0 +1,61 @@
+{
+    "appid": 3337140,
+    "name": "After Inc: Revival",
+    "type": "Game",
+    "schinese_name": "劫后公司",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:44:45",
+    "change_number": 30210801,
+    "depot": {
+        "3337143": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2883246989516867633",
+                    "size": "820544380",
+                    "download": "320597552"
+                },
+                "openbeta": {
+                    "gid": "8946118533667320045",
+                    "size": "820595340",
+                    "download": "320601216"
+                }
+            },
+            "decryptionkey": "93279b68247b5e1c1f5f74972baf9058c3a7479c4b67cbe68a6e53aa60915819"
+        },
+        "3337142": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3033797882480450053",
+                    "size": "918222319",
+                    "download": "346898480"
+                },
+                "openbeta": {
+                    "gid": "3033797882480450053",
+                    "size": "918222319",
+                    "download": "346898480"
+                }
+            },
+            "decryptionkey": "0c2bf209b9cfd8678e7d11bfea0e971ddef37b4c65c3b75d815a6d383ab3bae9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19217579",
+                "timeupdated": "1752503972"
+            },
+            "openbeta": {
+                "buildid": "19331912",
+                "description": "Free to join - give us your feedback in discord",
+                "timeupdated": "1753289080"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
