@@ -1,0 +1,66 @@
+{
+    "appid": 1642890,
+    "name": "Disc Golf Valley",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:14:56",
+    "change_number": 30206939,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1642891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8192954137574803350",
+                    "size": "12907177520",
+                    "download": "2548488112"
+                },
+                "test": {
+                    "gid": "2783803407116497699",
+                    "size": "11010803196",
+                    "download": "2151815232"
+                }
+            },
+            "decryptionkey": "728d8aa8735cd5a7c93745dc1e978dde685031256c4eb7c5e371d361f2f45709"
+        },
+        "1642892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "170199954461500457",
+                    "size": "13064365288",
+                    "download": "2570778688"
+                },
+                "test": {
+                    "gid": "1032200847954256590",
+                    "size": "11170553272",
+                    "download": "2167847984"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19131288",
+                "timeupdated": "1751959720"
+            },
+            "test": {
+                "buildid": "15533939",
+                "description": "test branch",
+                "timeupdated": "1724947867"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
