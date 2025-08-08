@@ -1,0 +1,62 @@
+{
+    "appid": 830580,
+    "name": "BattleBeasts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 21:11:24",
+    "change_number": 30055780,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "830581": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7250994048330575950",
+                    "size": "12091532000",
+                    "download": "4893315296"
+                },
+                "developer": {
+                    "gid": "8298268684419637133",
+                    "size": "1164743223",
+                    "download": "799085520"
+                }
+            },
+            "decryptionkey": "9b4deefebfaa6d1f54cec5e7c1687f09d01f7a9ee1e73317f32eb829f1bd68df"
+        },
+        "830584": {},
+        "830582": {
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "830583": {},
+        "branches": {
+            "public": {
+                "buildid": "6708222",
+                "timeupdated": "1621197824"
+            },
+            "developer": {
+                "buildid": "10483647",
+                "description": "контент для разработчиков и внутренних тестеров",
+                "timeupdated": "1675631348"
+            }
+        }
+    }
+}
