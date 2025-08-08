@@ -1,0 +1,47 @@
+{
+    "appid": 206480,
+    "name": "Dungeons & Dragons Online®",
+    "type": "Game",
+    "schinese_name": "龙与地下城Online",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 04:23:47",
+    "change_number": 29636554,
+    "depot": {
+        "206482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4085681023808739565",
+                    "size": "2852461",
+                    "download": "2832208"
+                }
+            },
+            "decryptionkey": "9d2988bdbbfccc3ee82cd64dd45a9b608fef38f4ce1776d07c73c7ec861c15da"
+        },
+        "206481": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5314428729483977501",
+                    "size": "15894690489",
+                    "download": "13102353920"
+                }
+            },
+            "decryptionkey": "825b13c47e601e9e0fc6760d57339c7b135659274d209ebd215ac6c0ad99b26d"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "8727642",
+                "timeupdated": "1652386558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
