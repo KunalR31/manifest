@@ -1,0 +1,76 @@
+{
+    "appid": 840060,
+    "name": "Good Doggo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 12:09:59",
+    "change_number": 29661175,
+    "depot": {
+        "840061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3556104804014949753",
+                    "size": "55677369",
+                    "download": "22230832"
+                },
+                "beta": {
+                    "gid": "3556104804014949753",
+                    "size": "55677369",
+                    "download": "22230832"
+                }
+            },
+            "decryptionkey": "3c913c36f9717855e5210abaaf8b164a60ca95bb780db3180b5f696aa7411998"
+        },
+        "840062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7938468448063698379",
+                    "size": "76239774",
+                    "download": "26380384"
+                },
+                "beta": {
+                    "gid": "7938468448063698379",
+                    "size": "76239774",
+                    "download": "26380384"
+                }
+            },
+            "decryptionkey": "0bb2e6c58cad86495cc88eed509fab61c77023cb8ad5dc37623678c35419b9e1"
+        },
+        "840063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6938158940793219449",
+                    "size": "107977337",
+                    "download": "38384848"
+                },
+                "beta": {
+                    "gid": "6938158940793219449",
+                    "size": "107977337",
+                    "download": "38384848"
+                }
+            },
+            "decryptionkey": "1380d01ae1c1214e13cbdcb91a3c0f7d61032a213bf26494563e4dca59b0bea3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2793195",
+                "timeupdated": "1526921427"
+            },
+            "beta": {
+                "buildid": "2793195",
+                "description": "beta test for next patch",
+                "timeupdated": "1526916645"
+            }
+        }
+    }
+}
