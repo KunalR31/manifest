@@ -1,0 +1,64 @@
+{
+    "appid": 3361890,
+    "name": "V-Shift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 01:22:15",
+    "change_number": 29814541,
+    "depot": {
+        "3361891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5026745615669240678",
+                    "size": "602144103",
+                    "download": "182298800"
+                },
+                "beta1": {
+                    "gid": "734726720652683230",
+                    "size": "602701900",
+                    "download": "181775040"
+                }
+            },
+            "decryptionkey": "7c98b70ab00fe8156b1042e9108c3ea0666474855e0f313fd608bebd941dbac8"
+        },
+        "3361892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3970139466393155803",
+                    "size": "525956584",
+                    "download": "135689504"
+                },
+                "beta1": {
+                    "gid": "3970139466393155803",
+                    "size": "525956584",
+                    "download": "135689504"
+                }
+            }
+        },
+        "3361893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18819407",
+                "timeupdated": "1749613666"
+            },
+            "beta1": {
+                "buildid": "18709682",
+                "description": "Public testing branch",
+                "timeupdated": "1748906921"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
