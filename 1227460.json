@@ -1,0 +1,84 @@
+{
+    "appid": 1227460,
+    "name": "Picodrive",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:03:06",
+    "change_number": 29983647,
+    "depot": {
+        "1227460": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227460"
+            },
+            "dlcappid": "1227460",
+            "manifests": {
+                "public": {
+                    "gid": "2355114561928433266",
+                    "size": "1888628",
+                    "download": "637712"
+                },
+                "nightly": {
+                    "gid": "1235720075211461710",
+                    "size": "1893748",
+                    "download": "784128"
+                }
+            },
+            "decryptionkey": "5a449c0295033e1c133eac5aa404ec4add2078cf59d23eeb0583e24e370beede"
+        },
+        "1789940": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227460"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1007439652380522584",
+                    "size": "1875476",
+                    "download": "606848"
+                },
+                "nightly": {
+                    "gid": "5034802184999131454",
+                    "size": "1879668",
+                    "download": "609520"
+                }
+            },
+            "dlcappid": "1227460",
+            "decryptionkey": "35a2ccb96713b040a63124ce90da4f4cb62e28ab8a2f6556a001e4a31d2f858e"
+        },
+        "1789941": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227460"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8943068051199934605",
+                    "size": "3532468",
+                    "download": "997712"
+                },
+                "nightly": {
+                    "gid": "8389473225860913894",
+                    "size": "3549652",
+                    "download": "1003408"
+                }
+            },
+            "dlcappid": "1227460",
+            "decryptionkey": "7f4c1173f6192f88670c898cbb5bf52aa67bc8a02ef0f77d555ba0c44dcbd4d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265129",
+                "timeupdated": "1745845203"
+            },
+            "nightly": {
+                "buildid": "19172067",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134579"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
