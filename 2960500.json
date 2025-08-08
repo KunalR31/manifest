@@ -1,0 +1,52 @@
+{
+    "appid": 2960500,
+    "name": "Sparedevil",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:50:48",
+    "change_number": 29218919,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2960501": {
+            "manifests": {
+                "public": {
+                    "gid": "8942357770095698974",
+                    "size": "410070842",
+                    "download": "293525696"
+                },
+                "betabranch": {
+                    "gid": "608469503056435401",
+                    "size": "415274711",
+                    "download": "295910368"
+                }
+            },
+            "decryptionkey": "dff1a7d57827161ef8b06fb4ce3efb97b8fdf9353d5e087b13cbddf518eea7c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18510295",
+                "timeupdated": "1748369033"
+            },
+            "betabranch": {
+                "buildid": "16341657",
+                "description": "The beta branch of Sparedevil",
+                "timeupdated": "1731069187"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
