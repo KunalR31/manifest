@@ -1,0 +1,41 @@
+{
+    "appid": 1866300,
+    "name": "Dawn Apart",
+    "type": "Game",
+    "schinese_name": "黎明时分",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:40:47",
+    "change_number": 30213627,
+    "depot": {
+        "1866301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "181454816382842411",
+                    "size": "2844775066",
+                    "download": "856885152"
+                },
+                "dev-test": {
+                    "gid": "4087487208099782508",
+                    "size": "2844992474",
+                    "download": "857001680"
+                }
+            },
+            "decryptionkey": "e54868dba7f030542f13e2abb7879f5edc1523619fcecf20159031f92794f195"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19280328",
+                "timeupdated": "1752875293"
+            },
+            "dev-test": {
+                "buildid": "19333985",
+                "description": "Public branch for testing upcoming content",
+                "timeupdated": "1753299644"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
