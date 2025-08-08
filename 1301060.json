@@ -1,0 +1,81 @@
+{
+    "appid": 1301060,
+    "name": "EreaDrone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:13:06",
+    "change_number": 30217642,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1301061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8433593973300065520",
+                    "size": "33514181061",
+                    "download": "24695245840"
+                },
+                "local": {
+                    "gid": "4964605006239417102",
+                    "size": "24828108168",
+                    "download": "9279537904"
+                }
+            },
+            "decryptionkey": "81715e4a82cae3fe43237e9956d7bc7930e5fb4cdf61155424f612e1f96ce607"
+        },
+        "1301062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4166021065323253300",
+                    "size": "34937859177",
+                    "download": "12510406160"
+                }
+            }
+        },
+        "1301063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "69207891658247547",
+                    "size": "35792685107",
+                    "download": "12889583120"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "19331236",
+                "timeupdated": "1753285686"
+            },
+            "local": {
+                "buildid": "9239523",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1659468969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
