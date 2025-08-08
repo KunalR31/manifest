@@ -1,0 +1,86 @@
+{
+    "appid": 804460,
+    "name": "LAST WAR 2044",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:22:29",
+    "change_number": 29145465,
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "804461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "853440381914965615",
+                    "size": "2200872304",
+                    "download": "832571712"
+                },
+                "alpha": {
+                    "gid": "2088191478033312756",
+                    "size": "914740899",
+                    "download": "357171552"
+                },
+                "last_stable": {
+                    "gid": "8150821045724175350",
+                    "size": "2200873328",
+                    "download": "832571680"
+                }
+            },
+            "decryptionkey": "71352dd86aed88395c1846691ab95d12a0f641ea0dfe75d774f49dc015806d5d"
+        },
+        "804464": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "804465": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4302292763563401559",
+                    "size": "1703367413",
+                    "download": "658870784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18578819",
+                "timeupdated": "1747989084"
+            },
+            "alpha": {
+                "buildid": "18573727",
+                "description": "Oldest 2017 build",
+                "timeupdated": "1747956330"
+            },
+            "last_stable": {
+                "buildid": "2908988",
+                "description": "Early Access version",
+                "timeupdated": "1747956230"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
