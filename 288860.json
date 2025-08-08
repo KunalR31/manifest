@@ -1,0 +1,96 @@
+{
+    "appid": 288860,
+    "name": "Realms of Arkania: Star Trail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:33:31",
+    "change_number": 29507271,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german",
+        "workshopdepot": "288860",
+        "288861": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4471501699126153211",
+                    "size": "13950836089",
+                    "download": "5830231328"
+                },
+                "betadev": {
+                    "gid": "2971199121457134468",
+                    "size": "13956670986",
+                    "download": "5831344288"
+                }
+            },
+            "decryptionkey": "7a32cd5a848e31de521be14ddcb734fcae9b81e17c319aed76deac4b2c8088fe"
+        },
+        "288862": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7728451356633595686",
+                    "size": "13811204050",
+                    "download": "5731126048"
+                },
+                "betadev": {
+                    "gid": "3810423133298662431",
+                    "size": "13703587282",
+                    "download": "5625676528"
+                }
+            }
+        },
+        "288863": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8153984745415369819",
+                    "size": "13722120461",
+                    "download": "5681799120"
+                },
+                "betadev": {
+                    "gid": "7987185120872428041",
+                    "size": "13614503693",
+                    "download": "5576349600"
+                }
+            }
+        },
+        "654140": {
+            "dlcappid": "654140",
+            "manifests": {
+                "public": {
+                    "gid": "9022261024826172294",
+                    "size": "1785573544",
+                    "download": "1793001696"
+                },
+                "betadev": {
+                    "gid": "2517170457549047486",
+                    "size": "1785573015",
+                    "download": "1793001584"
+                }
+            },
+            "decryptionkey": "36818ba154dfb6b576e0ced08f1daf403831df7aa33f76e4210ef597a9bb22c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7032960",
+                "timeupdated": "1626339516"
+            },
+            "betadev": {
+                "buildid": "6866644",
+                "description": "Public Beta",
+                "timeupdated": "1623705457"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
