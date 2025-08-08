@@ -1,0 +1,48 @@
+{
+    "appid": 3339780,
+    "name": "Desktop Survivors 98",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:18:36",
+    "change_number": 30141307,
+    "depot": {
+        "3339781": {
+            "manifests": {
+                "public": {
+                    "gid": "6746531875343861290",
+                    "size": "523417250",
+                    "download": "161222368"
+                },
+                "single_thread": {
+                    "gid": "6777512230746111089",
+                    "size": "523399330",
+                    "download": "161209520"
+                },
+                "test": {
+                    "gid": "7419317127838025194",
+                    "size": "523412642",
+                    "download": "161221024"
+                }
+            },
+            "decryptionkey": "0a9c417e76754ed4ff6bcde27c0c80b66c47f1b1b0ec8f5708707628e6d642bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18652909",
+                "timeupdated": "1748490968"
+            },
+            "single_thread": {
+                "buildid": "18618331",
+                "description": "Compatibility branch without multi-threading.",
+                "timeupdated": "1748310045"
+            },
+            "test": {
+                "buildid": "18651466",
+                "description": "Public branch for testing.",
+                "timeupdated": "1748482992"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
