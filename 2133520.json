@@ -1,0 +1,67 @@
+{
+    "appid": 2133520,
+    "name": "Ertugrul of Ulukayin",
+    "type": "Game",
+    "schinese_name": "乌卢卡的埃尔图",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:04:02",
+    "change_number": 29680030,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2133521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6285851307021430620",
+                    "size": "9173152772",
+                    "download": "8441803568"
+                },
+                "press": {
+                    "gid": "6917150010924458927",
+                    "size": "9173189983",
+                    "download": "8441729072"
+                },
+                "test": {
+                    "gid": "6917150010924458927",
+                    "size": "9173189983",
+                    "download": "8441729072"
+                }
+            },
+            "decryptionkey": "01a536a66993f6a86afe23e020ffb386621f7b1c33113b83fbebca5943dc0397"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946170",
+                "timeupdated": "1750486634"
+            },
+            "press": {
+                "buildid": "18945748",
+                "description": "for streamers, magazines, etc.",
+                "timeupdated": "1750489406"
+            },
+            "test": {
+                "buildid": "18945748",
+                "description": "developer test branch",
+                "timeupdated": "1750489437"
+            }
+        }
+    }
+}
