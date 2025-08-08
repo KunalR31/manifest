@@ -1,0 +1,76 @@
+{
+    "appid": 2769820,
+    "name": "Trappist",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:09:28",
+    "change_number": 29309582,
+    "depot": {
+        "2769821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8602916226385952026",
+                    "size": "378128633",
+                    "download": "286120576"
+                },
+                "beta": {
+                    "gid": "8602916226385952026",
+                    "size": "378128633",
+                    "download": "286120576"
+                }
+            },
+            "decryptionkey": "329051bcdef35d3392fd3d6afea57d459932e835328c028a0fcb04fbf714db3d"
+        },
+        "2769822": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2399006641275138867",
+                    "size": "406301251",
+                    "download": "313624272"
+                },
+                "beta": {
+                    "gid": "2399006641275138867",
+                    "size": "406301251",
+                    "download": "313624272"
+                }
+            },
+            "decryptionkey": "eaf5335dad294ed96b73d228412006b3fb54494f6d94ae5343b820814148c4fd"
+        },
+        "2769823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3490549994988993018",
+                    "size": "403064642",
+                    "download": "302024848"
+                },
+                "beta": {
+                    "gid": "3490549994988993018",
+                    "size": "403064642",
+                    "download": "302024848"
+                }
+            },
+            "decryptionkey": "a5444d0e849f8f83aeadbd7b17430c422fbed684e975282d62cf20af96fb29de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18684435",
+                "timeupdated": "1748679786"
+            },
+            "beta": {
+                "buildid": "18684435",
+                "description": "Public beta builds for Trappist",
+                "timeupdated": "1748679287"
+            }
+        }
+    }
+}
