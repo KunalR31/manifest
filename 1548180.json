@@ -1,0 +1,42 @@
+{
+    "appid": 1548180,
+    "name": "Worship",
+    "type": "Game",
+    "schinese_name": "以邪神之名",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:15:43",
+    "change_number": 30217672,
+    "depot": {
+        "1548181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6383676290521222616",
+                    "size": "4079648226",
+                    "download": "2871263120"
+                },
+                "beta-multiplayer": {
+                    "gid": "239322562723441972",
+                    "size": "4079647483",
+                    "download": "2871259136"
+                }
+            },
+            "decryptionkey": "56b4ac160aaaff762a5109ab9d414da4d5f219f52d58e43807452028c7918adb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19321975",
+                "timeupdated": "1753230856"
+            },
+            "beta-multiplayer": {
+                "buildid": "19322131",
+                "description": "Unstable multiplayer support for daring players",
+                "timeupdated": "1753231723"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
