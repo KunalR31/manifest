@@ -1,0 +1,74 @@
+{
+    "appid": 2226430,
+    "name": "CraftCraft",
+    "type": "Game",
+    "schinese_name": "奇巧匠：手工经商模拟",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:13:43",
+    "change_number": 30214879,
+    "depot": {
+        "2226432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1832365535748844229",
+                    "size": "3794772073",
+                    "download": "3035020176"
+                },
+                "public_testing": {
+                    "gid": "7689079194674963793",
+                    "size": "3741580857",
+                    "download": "2828924992"
+                },
+                "public_testing_3_6": {
+                    "gid": "969726770847248607",
+                    "size": "3737735113",
+                    "download": "2827936608"
+                }
+            },
+            "decryptionkey": "3440e78392fbba4f1d65b654b9867eb20cdfcb50bd75c285bf0f064dd0c4ff4c"
+        },
+        "2226433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2524894380565257214",
+                    "size": "3831446733",
+                    "download": "3048242544"
+                },
+                "public_testing": {
+                    "gid": "4272247283026346179",
+                    "size": "3789832404",
+                    "download": "2842950736"
+                },
+                "public_testing_3_6": {
+                    "gid": "7792825401579735526",
+                    "size": "3774308255",
+                    "download": "2838521408"
+                }
+            },
+            "decryptionkey": "476d8e74d6baef15a7ad9492e6d454407bbeb1748ab5b8210539135ed70c807f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19331724",
+                "timeupdated": "1753288457"
+            },
+            "public_testing": {
+                "buildid": "18784513",
+                "description": "Public testing branch",
+                "timeupdated": "1749389408"
+            },
+            "public_testing_3_6": {
+                "buildid": "18884681",
+                "description": "Public testing branch for Godot 3.6 engine update",
+                "timeupdated": "1750087776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
