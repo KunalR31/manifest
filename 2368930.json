@@ -1,0 +1,74 @@
+{
+    "appid": 2368930,
+    "name": "ISLANDERS: New Shores",
+    "type": "Game",
+    "schinese_name": "岛民: 新海岸",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 09:55:18",
+    "change_number": 30182501,
+    "depot": {
+        "baselanguages": "english",
+        "2368931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8134735041837218415",
+                    "size": "717347852",
+                    "download": "259811936"
+                },
+                "macos_develop": {
+                    "gid": "6960752883546120478",
+                    "size": "717296355",
+                    "download": "253026224"
+                },
+                "macos_qa_developer": {
+                    "gid": "6960752883546120478",
+                    "size": "717296355",
+                    "download": "253026224"
+                }
+            },
+            "decryptionkey": "924f9db27c7400a1185ba793bbd54719c53dd4c3e1e55aaeb340ab7a34bfd73f"
+        },
+        "2368932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696672325752673272",
+                    "size": "789188753",
+                    "download": "276305520"
+                },
+                "macos_develop": {
+                    "gid": "8499362466041190030",
+                    "size": "789174981",
+                    "download": "270455776"
+                },
+                "macos_qa_developer": {
+                    "gid": "2716987419506009261",
+                    "size": "789714037",
+                    "download": "276466240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19312207",
+                "timeupdated": "1753174514"
+            },
+            "macos_develop": {
+                "buildid": "18774993",
+                "description": "MacOS develop branch",
+                "timeupdated": "1749269317"
+            },
+            "macos_qa_developer": {
+                "buildid": "19072959",
+                "description": "MacOS build with developer capabilities",
+                "timeupdated": "1751420124"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
