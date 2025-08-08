@@ -1,0 +1,76 @@
+{
+    "appid": 1834000,
+    "name": "KaRu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 22:36:19",
+    "change_number": 29506190,
+    "depot": {
+        "1834001": {
+            "manifests": {
+                "public": {
+                    "gid": "8508017697743763608",
+                    "size": "1477574080",
+                    "download": "1244256608"
+                },
+                "update_beta_testing": {
+                    "gid": "6839871031799053556",
+                    "size": "1456464160",
+                    "download": "1248286784"
+                }
+            },
+            "decryptionkey": "c35fb6909df2190f92190e093f77508c800b7414d3998fd19a2dbb33533f9920"
+        },
+        "1834002": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2442123224844585322",
+                    "size": "55176226",
+                    "download": "14962368"
+                },
+                "update_beta_testing": {
+                    "gid": "7022374663040125470",
+                    "size": "71386984",
+                    "download": "20328640"
+                }
+            },
+            "decryptionkey": "55aeb707eb87983f7c555ddd7c6c2888b412347a517df1413489b89a28760630"
+        },
+        "1834003": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3034083472995762088",
+                    "size": "87339593",
+                    "download": "22488736"
+                },
+                "update_beta_testing": {
+                    "gid": "8786693386363363358",
+                    "size": "80630064",
+                    "download": "21773776"
+                }
+            },
+            "decryptionkey": "97c807a07db47e887de4831ce673d64808582338275d912b9f4a734bdc519e10"
+        },
+        "baselanguages": "english,arabic",
+        "branches": {
+            "public": {
+                "buildid": "10256730",
+                "timeupdated": "1672861649"
+            },
+            "update_beta_testing": {
+                "buildid": "12694186",
+                "description": "branch used for testing technical updates",
+                "timeupdated": "1699920424"
+            }
+        }
+    }
+}
