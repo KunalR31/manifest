@@ -1,0 +1,60 @@
+{
+    "appid": 989060,
+    "name": "Virtual Home Theater",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 16:44:34",
+    "change_number": 29971432,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "989061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6727243530341305579",
+                    "size": "70955991",
+                    "download": "45076400"
+                },
+                "beta": {
+                    "gid": "6727243530341305579",
+                    "size": "70955991",
+                    "download": "45076400"
+                },
+                "previous": {
+                    "gid": "5866505557213029500",
+                    "size": "62832527",
+                    "download": "42117072"
+                }
+            },
+            "decryptionkey": "8c7cf9cd1361e2facafba2f2e7a0d7bb73c5dc781ac43f8b3802c1b2ccccbb1a"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18258967",
+                "timeupdated": "1745800975"
+            },
+            "beta": {
+                "buildid": "18258967",
+                "description": "Public beta branch",
+                "timeupdated": "1745796598"
+            },
+            "previous": {
+                "buildid": "16358207",
+                "description": "Public previous stable version branch",
+                "timeupdated": "1745800780"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
