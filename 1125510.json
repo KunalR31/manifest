@@ -1,0 +1,56 @@
+{
+    "appid": 1125510,
+    "name": "Snacko",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 06:06:10",
+    "change_number": 30143303,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1125511": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9009525900342811856",
+                    "size": "2309226706",
+                    "download": "466424512"
+                },
+                "0.9.3": {
+                    "gid": "4740838461854637162",
+                    "size": "2521641547",
+                    "download": "400836032"
+                }
+            },
+            "decryptionkey": "721d6be4d8d35b2d2a878f4c0c9fd8514bf8db80e1666a1c27484fccb4767d2b"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19283341",
+                "timeupdated": "1752901566"
+            },
+            "0.9.3": {
+                "buildid": "15084989",
+                "description": "0.9.3 stable",
+                "timeupdated": "1724261546"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
