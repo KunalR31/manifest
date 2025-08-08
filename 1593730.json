@@ -1,0 +1,54 @@
+{
+    "appid": 1593730,
+    "name": "Epiphany City: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 01:09:48",
+    "change_number": 30196427,
+    "depot": {
+        "1593731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1782298642647210573",
+                    "size": "1453428087",
+                    "download": "132995168"
+                },
+                "local": {
+                    "gid": "1150151651450027639",
+                    "size": "1452222345",
+                    "download": "132562768"
+                }
+            },
+            "decryptionkey": "e078ad56babe03fc8c4f03b1d962422598fe26cb961de3cd7c8166c41769a86a"
+        },
+        "1593732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8934088164671656001",
+                    "size": "1489207868",
+                    "download": "141599440"
+                }
+            },
+            "decryptionkey": "03997c6754b99bc8e054c20bdab11414b286bd86a647eb25007c701feadd72df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7256736",
+                "timeupdated": "1630001535"
+            },
+            "local": {
+                "buildid": "6657256",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1620296698"
+            }
+        }
+    }
+}
