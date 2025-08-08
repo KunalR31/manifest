@@ -1,0 +1,78 @@
+{
+    "appid": 595490,
+    "name": "LookVR",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:15:31",
+    "change_number": 29787522,
+    "depot": {
+        "595491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4732992772484514899",
+                    "size": "611017314",
+                    "download": "235464304"
+                },
+                "beta": {
+                    "gid": "4732992772484514899",
+                    "size": "611017314",
+                    "download": "235464304"
+                },
+                "release-1.0": {
+                    "gid": "6329954577540014762",
+                    "size": "128266167",
+                    "download": "36189200"
+                },
+                "release-1.1": {
+                    "gid": "3443532368750553021",
+                    "size": "134776203",
+                    "download": "38235232"
+                }
+            },
+            "decryptionkey": "60076a753a698f72d92b61a1a6309e7d4d162f21d3fb0ecc0d48154fec784d8c"
+        },
+        "595492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6156282598049792261",
+                    "size": "675933645",
+                    "download": "288356896"
+                },
+                "beta": {
+                    "gid": "6156282598049792261",
+                    "size": "675933645",
+                    "download": "288356896"
+                }
+            },
+            "decryptionkey": "dac8d6c04c0ab8edd3c731c985e7ac24bfa36e8604854ff17ddd7db1d733a007"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3579836",
+                "timeupdated": "1550708710"
+            },
+            "beta": {
+                "buildid": "3579836",
+                "description": "The most recent beta version, not guaranteed to work.",
+                "timeupdated": "1550708193"
+            },
+            "release-1.0": {
+                "buildid": "1631392",
+                "description": "The final 1.0.x release, in case you're having problems.",
+                "timeupdated": "1550707743"
+            },
+            "release-1.1": {
+                "buildid": "1861357",
+                "description": "The final 1.1.x release, in case you're having problems.",
+                "timeupdated": "1550707707"
+            }
+        }
+    }
+}
