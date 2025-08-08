@@ -1,0 +1,58 @@
+{
+    "appid": 1184450,
+    "name": "Magic of Autumn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:56:57",
+    "change_number": 29334735,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1184451": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3308994953624729354",
+                    "size": "30748798",
+                    "download": "22420144"
+                },
+                "beta": {
+                    "gid": "3308994953624729354",
+                    "size": "30748798",
+                    "download": "22420144"
+                },
+                "fallback": {
+                    "gid": "4769010518487193172",
+                    "size": "30512082",
+                    "download": "21313392"
+                }
+            },
+            "decryptionkey": "8b08bac7881e56c4c18ab235494f4cac58cae12342a1cb9d376605ed77a40302"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13901934",
+                "timeupdated": "1711794810"
+            },
+            "beta": {
+                "buildid": "13901934",
+                "description": "Beta branch",
+                "timeupdated": "1711794381"
+            },
+            "fallback": {
+                "buildid": "5631949",
+                "description": "Fallback branch",
+                "timeupdated": "1711793707"
+            }
+        }
+    }
+}
