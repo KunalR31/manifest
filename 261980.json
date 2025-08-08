@@ -1,0 +1,54 @@
+{
+    "appid": 261980,
+    "name": "Half-Life: Before",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 22:19:03",
+    "change_number": 30174692,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "261981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1038141297028284413",
+                    "size": "72993631",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "373137723575858743",
+                    "size": "72982605",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4638173219526185160",
+                    "size": "643593161",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "43d789f197c40f8549987898369e067ea7e2268e3de48b84c425fa5d2a41bb92"
+        },
+        "261982": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "154705"
+            },
+            "beta": {
+                "buildid": "154425"
+            },
+            "local": {
+                "buildid": "140499",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
