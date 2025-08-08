@@ -1,0 +1,111 @@
+{
+    "appid": 944500,
+    "name": "Antistatic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:29:38",
+    "change_number": 30215094,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "944501": {
+            "manifests": {
+                "public": {
+                    "gid": "4971169010032224379",
+                    "size": "88923315",
+                    "download": "30095168"
+                },
+                "canary": {
+                    "gid": "4971169010032224379",
+                    "size": "88923315",
+                    "download": "30095168"
+                },
+                "previous": {
+                    "gid": "4946445353910767472",
+                    "size": "88843687",
+                    "download": "30079792"
+                },
+                "v0.4.x": {
+                    "gid": "3657528145438821947",
+                    "size": "101016769",
+                    "download": "35760352"
+                },
+                "v0.5.x": {
+                    "gid": "4842538942510039023",
+                    "size": "101100299",
+                    "download": "35773664"
+                },
+                "v0.6.x": {
+                    "gid": "7817017355921359846",
+                    "size": "97519261",
+                    "download": "30962400"
+                },
+                "v0.7.x": {
+                    "gid": "4971169010032224379",
+                    "size": "88923315",
+                    "download": "30095168"
+                },
+                "v0.8.x": {
+                    "gid": "6722828289526397500",
+                    "size": "99298952",
+                    "download": "32705232"
+                }
+            },
+            "decryptionkey": "b028271a976673870384fb39aa85be40a96d1e4ba3d8d896923959152d51180a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6142387",
+                "timeupdated": "1611702543"
+            },
+            "canary": {
+                "buildid": "6142387",
+                "description": "Unstable branch - early testing",
+                "timeupdated": "1611702532"
+            },
+            "previous": {
+                "buildid": "6035608",
+                "description": "Previous \"stable\" release",
+                "timeupdated": "1611467741"
+            },
+            "v0.4.x": {
+                "buildid": "4563520",
+                "description": "v0.4 release line",
+                "timeupdated": "1579808448"
+            },
+            "v0.5.x": {
+                "buildid": "4601739",
+                "description": "v0.5 release line",
+                "timeupdated": "1587578899"
+            },
+            "v0.6.x": {
+                "buildid": "5036695",
+                "description": "v0.6 release line",
+                "timeupdated": "1589589759"
+            },
+            "v0.7.x": {
+                "buildid": "6142387",
+                "description": "v0.7.x release line",
+                "timeupdated": "1611702554"
+            },
+            "v0.8.x": {
+                "buildid": "10073072",
+                "description": "v0.8.x - pre-alpha",
+                "timeupdated": "1670111743"
+            }
+        }
+    }
+}
