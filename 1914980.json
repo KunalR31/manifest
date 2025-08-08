@@ -1,0 +1,75 @@
+{
+    "appid": 1914980,
+    "name": "Golfing In Aether",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 19:16:25",
+    "change_number": 29994801,
+    "depot": {
+        "workshopdepot": "1914980",
+        "baselanguages": "english,german,french,italian,spanish,japanese,portuguese,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1914981": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5879132415555657130",
+                    "size": "1598833966",
+                    "download": "1442565616"
+                }
+            },
+            "decryptionkey": "a427d20072dec3d34c32b05bc458cd8a6443073d0d3650aa1c6d1d26fcb1ebcc"
+        },
+        "1914982": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7066272138353537780",
+                    "size": "1637463900",
+                    "download": "1430750528"
+                }
+            }
+        },
+        "1914983": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7472353783571410106",
+                    "size": "2192489715",
+                    "download": "1475868896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19177267",
+                "timeupdated": "1752171379"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
