@@ -1,0 +1,59 @@
+{
+    "appid": 1849040,
+    "name": "lure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 18:12:08",
+    "change_number": 30029293,
+    "depot": {
+        "1849041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5810296551613269063",
+                    "size": "254753310",
+                    "download": "102603392"
+                },
+                "beta": {
+                    "gid": "5810296551613269063",
+                    "size": "254753310",
+                    "download": "102603392"
+                }
+            },
+            "decryptionkey": "ec93e72c7542f9680c6fcad34e4be71ab59e1c3bbfa4915ac9447219f8418566"
+        },
+        "1849042": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7789935625439755944",
+                    "size": "277429658",
+                    "download": "109307584"
+                },
+                "beta": {
+                    "gid": "7789935625439755944",
+                    "size": "277429658",
+                    "download": "109307584"
+                }
+            },
+            "decryptionkey": "497dfef786ea7840e4bf8136672945dba4d3296c4e740c1beebd1ea612bff0d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8563126",
+                "timeupdated": "1650028988"
+            },
+            "beta": {
+                "buildid": "8563126",
+                "description": "Beta branch",
+                "timeupdated": "1650003407"
+            }
+        }
+    }
+}
