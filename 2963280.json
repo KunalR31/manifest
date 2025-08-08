@@ -1,0 +1,59 @@
+{
+    "appid": 2963280,
+    "name": "Sapo 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 08:35:14",
+    "change_number": 30005638,
+    "depot": {
+        "2963281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2428719546815131352",
+                    "size": "200381200",
+                    "download": "120312384"
+                },
+                "compatibility": {
+                    "gid": "5445744414652334793",
+                    "size": "334026864",
+                    "download": "255131520"
+                }
+            },
+            "decryptionkey": "4bb782087cc67f9e01fb14e572c49a2f257ec7678745648d386d83ec876cab0d"
+        },
+        "2963283": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1354370047830564102",
+                    "size": "268258427",
+                    "download": "134839792"
+                },
+                "compatibility": {
+                    "gid": "3611534172633960463",
+                    "size": "154793288",
+                    "download": "155891184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18393089",
+                "timeupdated": "1747193302"
+            },
+            "compatibility": {
+                "buildid": "18454635",
+                "description": "Compat Version",
+                "timeupdated": "1747197924"
+            }
+        }
+    }
+}
