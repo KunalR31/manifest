@@ -1,0 +1,76 @@
+{
+    "appid": 1509780,
+    "name": "Bombagun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 22:41:51",
+    "change_number": 30174969,
+    "depot": {
+        "1509781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8224478646918337659",
+                    "size": "129171952",
+                    "download": "77267408"
+                },
+                "beta": {
+                    "gid": "4556615853931659820",
+                    "size": "129689783",
+                    "download": "77723856"
+                }
+            },
+            "decryptionkey": "b3513c936651ef325fab43161840df51e531c9844375472969c40310e966c263"
+        },
+        "1509782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1833693202732391912",
+                    "size": "154358473",
+                    "download": "86336320"
+                },
+                "beta": {
+                    "gid": "5118814013207572938",
+                    "size": "154364081",
+                    "download": "86341136"
+                }
+            },
+            "decryptionkey": "d9ee639345df77afa54daf20261f1c270c0d6c9bfb70cee2ae6d8a7e774e4ab3"
+        },
+        "1509783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4165229446565246498",
+                    "size": "130637880",
+                    "download": "76622992"
+                },
+                "beta": {
+                    "gid": "938483306389800043",
+                    "size": "130642401",
+                    "download": "76630672"
+                }
+            },
+            "decryptionkey": "b661f52783129696eed9c121358edbab49f396905c07798a0cf9fb0de5f80de5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8161119",
+                "timeupdated": "1644271492"
+            },
+            "beta": {
+                "buildid": "8203798",
+                "description": "beta build (only for testing)",
+                "timeupdated": "1644891746"
+            }
+        }
+    }
+}
