@@ -1,0 +1,104 @@
+{
+    "appid": 2420350,
+    "name": "The Mildew Children",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 14:02:06",
+    "change_number": 29988450,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2420351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2601933498973012221",
+                    "size": "2271154661",
+                    "download": "1061680512"
+                },
+                "pre_vo": {
+                    "gid": "2593128773374265988",
+                    "size": "1415828221",
+                    "download": "343012704"
+                },
+                "pre_locs": {
+                    "gid": "4573204037590873560",
+                    "size": "2117425429",
+                    "download": "1038109792"
+                }
+            },
+            "decryptionkey": "1ab8448fc5723c83955a6870103455ee4c3789dce29102377a858147da5ebd59"
+        },
+        "2420352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5835942395374289984",
+                    "size": "2299249456",
+                    "download": "1070452336"
+                },
+                "pre_vo": {
+                    "gid": "5270149927230298769",
+                    "size": "1443009097",
+                    "download": "351140832"
+                },
+                "pre_locs": {
+                    "gid": "8122052944711534169",
+                    "size": "2145519407",
+                    "download": "1046281472"
+                }
+            }
+        },
+        "2420353": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3593312104070238530",
+                    "size": "2270924583",
+                    "download": "1058852944"
+                },
+                "pre_vo": {
+                    "gid": "9107703227150233094",
+                    "size": "1415798061",
+                    "download": "339930560"
+                },
+                "pre_locs": {
+                    "gid": "6491499868127699040",
+                    "size": "2117194535",
+                    "download": "1035021120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18975812",
+                "timeupdated": "1750942806"
+            },
+            "pre_vo": {
+                "buildid": "14552153",
+                "description": "Before voice-over build (very very old)",
+                "timeupdated": "1741515051"
+            },
+            "pre_locs": {
+                "buildid": "17651597",
+                "description": "Before localizations build (old)",
+                "timeupdated": "1750942644"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
