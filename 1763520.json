@@ -1,0 +1,72 @@
+{
+    "appid": 1763520,
+    "name": "Dot's Home",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 12:18:34",
+    "change_number": 29410213,
+    "depot": {
+        "baselanguages": "english",
+        "1763523": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "1763524": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "1763521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7482707499270922887",
+                    "size": "480655672",
+                    "download": "185131552"
+                },
+                "beta-public": {
+                    "gid": "7482707499270922887",
+                    "size": "480655672",
+                    "download": "185131552"
+                }
+            },
+            "decryptionkey": "f0708ffb461a8f64f7dae828a2a5169d167c584a1393cc7373575d28638ac764"
+        },
+        "1763522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1464548906597171197",
+                    "size": "483265905",
+                    "download": "185662608"
+                },
+                "beta-public": {
+                    "gid": "1464548906597171197",
+                    "size": "483265905",
+                    "download": "185662608"
+                }
+            },
+            "decryptionkey": "cae0d906b83eb4428ec19735e0cf1dff563a523bef50bd4df9430200c98c8f0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13845600",
+                "timeupdated": "1711386033"
+            },
+            "beta-public": {
+                "buildid": "13845600",
+                "description": "Public beta branch for testing fixes",
+                "timeupdated": "1711382929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
