@@ -1,0 +1,85 @@
+{
+    "appid": 2820390,
+    "name": "Seclusion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:12:45",
+    "change_number": 29177748,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2820391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7230913682661480603",
+                    "size": "5615378797",
+                    "download": "5254654608"
+                },
+                "devpreview": {
+                    "gid": "2370609010062033735",
+                    "size": "5619214187",
+                    "download": "5258544208"
+                },
+                "prealphabuilds": {
+                    "gid": "8929455806639023826",
+                    "size": "3363460588",
+                    "download": "2976464608"
+                }
+            },
+            "decryptionkey": "8db2b6923013c287df2b356e30484836e18278f657dd7b2939f5ce63854885ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18279410",
+                "timeupdated": "1745928697"
+            },
+            "devpreview": {
+                "buildid": "18331121",
+                "description": "For dev - All updates are uploaded and tested on this branch before going to the public branch",
+                "timeupdated": "1746275694"
+            },
+            "prealphabuilds": {
+                "buildid": "15439117",
+                "description": "Branch for very old versions of the game, will have to reinstall the game completely after switch",
+                "timeupdated": "1748185105"
+            }
+        }
+    }
+}
