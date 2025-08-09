@@ -1,0 +1,81 @@
+{
+    "appid": 291190,
+    "name": "Heroes of Steel RPG",
+    "type": "Game",
+    "schinese_name": "钢铁英雄",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 08:11:16",
+    "change_number": 29926026,
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "291191": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5002016988964117760",
+                    "size": "148789072",
+                    "download": "126792000"
+                }
+            },
+            "decryptionkey": "6cfd095c5d3be7862fa09cd27aad1afe5530c15005dd402f7d122cb28d3b5916"
+        },
+        "291192": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4047313588851081753",
+                    "size": "105619858",
+                    "download": "83188384"
+                }
+            }
+        },
+        "291193": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8542554646222577150",
+                    "size": "186403871",
+                    "download": "129429216"
+                }
+            }
+        },
+        "291194": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "427919911828958622",
+                    "size": "178735388",
+                    "download": "129009024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11574831",
+                "timeupdated": "1687924486"
+            }
+        }
+    }
+}
