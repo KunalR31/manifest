@@ -1,0 +1,74 @@
+{
+    "appid": 873270,
+    "name": "Rolled Out!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:39:27",
+    "change_number": 29381865,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "873271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1256929527535902043",
+                    "size": "5854531542",
+                    "download": "1849930144"
+                },
+                "reloaded": {
+                    "gid": "1688780584272389672",
+                    "size": "1106161980",
+                    "download": "600563952"
+                }
+            },
+            "decryptionkey": "0c8a1d0395add5c9ed819bf09794b41f4df2f5e7cee6024734f18dc1decf1b02"
+        },
+        "873272": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5117121090075629626",
+                    "size": "5771298388",
+                    "download": "1779469328"
+                },
+                "reloaded": {
+                    "gid": "5117121090075629626",
+                    "size": "5771298388",
+                    "download": "1779469328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12038113",
+                "timeupdated": "1693081383"
+            },
+            "reloaded": {
+                "buildid": "12253290",
+                "description": "ROR",
+                "timeupdated": "1695357821"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
