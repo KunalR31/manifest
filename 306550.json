@@ -1,0 +1,67 @@
+{
+    "appid": 306550,
+    "name": "Runers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 08:50:53",
+    "change_number": 29837961,
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "306551": {
+            "manifests": {
+                "public": {
+                    "gid": "2043913849162287286",
+                    "size": "259087032",
+                    "download": "174308656"
+                },
+                "beta": {
+                    "gid": "1249096142711928924",
+                    "size": "256829468",
+                    "download": "161975686832"
+                }
+            },
+            "decryptionkey": "bdb2e5b22c2aa8eb45e05c0971debc4d7546e40e46273644c67a506138339bba"
+        },
+        "317880": {
+            "manifests": {
+                "public": {
+                    "gid": "5796902557517554449",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "5956627860527284576",
+                    "size": "81216306",
+                    "download": "73024956174"
+                }
+            },
+            "dlcappid": "317880",
+            "decryptionkey": "627b5677d1bbf522ed1c7e66b895dc61ce1d9bb42fd8fd066e6f9e6edc9569ed"
+        },
+        "baselanguages": "english,german,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "664973"
+            },
+            "beta": {
+                "buildid": "454936",
+                "description": "Beta Builds"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
