@@ -1,0 +1,65 @@
+{
+    "appid": 277850,
+    "name": "Sportsfriends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-05 13:10:24",
+    "change_number": 29910081,
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "277851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7667072389248128305",
+                    "size": "293579307",
+                    "download": "256611728"
+                }
+            },
+            "decryptionkey": "ac590f1ada9f958b298af817789dd63f25d648296c94e4aebac6a8812f53c417"
+        },
+        "277852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4219116215708457650",
+                    "size": "386901779",
+                    "download": "348367152"
+                }
+            },
+            "decryptionkey": "652af8013ee97b7754bb63c2329f84b7263d2651216dd7615ff1dffdec21c1f9"
+        },
+        "277853": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7312457742247396652",
+                    "size": "400865301",
+                    "download": "348723024"
+                }
+            },
+            "decryptionkey": "491894c027dd9b99dd800d924c2953769929a0c40da197001e360431cf56b854"
+        },
+        "branches": {
+            "public": {
+                "buildid": "779709"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
