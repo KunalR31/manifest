@@ -1,0 +1,98 @@
+{
+    "appid": 703720,
+    "name": "ERSATZ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 01:17:15",
+    "change_number": 30196514,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "703721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2252819367447454099",
+                    "size": "234527444",
+                    "download": "190364736"
+                },
+                "test": {
+                    "gid": "2469841956713121316",
+                    "size": "238415727",
+                    "download": "192662176"
+                }
+            },
+            "decryptionkey": "df4eaeac96dd050ff7cd409bb5a9dfc151ec0054c0a29d5759c4dfcd55cb85e9"
+        },
+        "704600": {
+            "dlcappid": "704600",
+            "manifests": {
+                "public": {
+                    "gid": "5502239971927934818",
+                    "size": "705472106",
+                    "download": "683570464"
+                },
+                "test": {
+                    "gid": "5502239971927934818",
+                    "size": "705472106",
+                    "download": "683570464"
+                }
+            },
+            "decryptionkey": "fa322381cf4086066aea0f3aded98925fe444d36f6e02e969ea133fbac164621"
+        },
+        "703722": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4086313464960831572",
+                    "size": "231959939",
+                    "download": "189324096"
+                },
+                "test": {
+                    "gid": "6909790344413875524",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "703723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9112207739516443558",
+                    "size": "160843952",
+                    "download": "119099792"
+                },
+                "test": {
+                    "gid": "9112207739516443558",
+                    "size": "160843952",
+                    "download": "119099792"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11172804",
+                "timeupdated": "1683410205"
+            },
+            "test": {
+                "buildid": "6517203",
+                "description": "Beta Branch",
+                "timeupdated": "1617993264"
+            }
+        }
+    }
+}
