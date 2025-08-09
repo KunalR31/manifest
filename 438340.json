@@ -1,0 +1,72 @@
+{
+    "appid": 438340,
+    "name": "Drizzlepath: Genie",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 15:35:38",
+    "change_number": 30133623,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "438341": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7046668366390789177",
+                    "size": "3902537663",
+                    "download": "1682087376"
+                },
+                "test": {
+                    "gid": "7046668366390789177",
+                    "size": "3902537663",
+                    "download": "1682087376"
+                },
+                "unreal_engine_4.10": {
+                    "gid": "1346546682064296298",
+                    "size": "4193986589",
+                    "download": "1749033216"
+                }
+            },
+            "decryptionkey": "5325f888f9c3d60a04cf6eccf063c6a052b63a5ff57424c1d85a6fd6974d56ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8538851",
+                "timeupdated": "1649712222"
+            },
+            "test": {
+                "buildid": "8538851",
+                "timeupdated": "1649712161"
+            },
+            "unreal_engine_4.10": {
+                "buildid": "7669325",
+                "description": "The last build with Unreal Engine 4.10 (Legacy)",
+                "timeupdated": "1648760496"
+            }
+        }
+    }
+}
