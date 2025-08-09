@@ -1,0 +1,91 @@
+{
+    "appid": 3400930,
+    "name": "Guilty as Sock!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 12:10:37",
+    "change_number": 30205059,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3400931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6104313422817175356",
+                    "size": "6020049358",
+                    "download": "752666064"
+                },
+                "beta": {
+                    "gid": "6104313422817175356",
+                    "size": "6020049358",
+                    "download": "752666064"
+                }
+            },
+            "decryptionkey": "b4b077327c865e84c8ff3a5df3db9164977fc05a5fe3af164e0c3789a4f18ce0"
+        },
+        "3400932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4079601277075583674",
+                    "size": "6045573994",
+                    "download": "814654176"
+                },
+                "beta": {
+                    "gid": "4079601277075583674",
+                    "size": "6045573994",
+                    "download": "814654176"
+                }
+            },
+            "decryptionkey": "fb2ac1cd5e82b472834b8dfc030f716345cd3284549a1ac4471f7f4524dbda80"
+        },
+        "3400933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2529535388519630599",
+                    "size": "1185966445",
+                    "download": "210446944"
+                },
+                "beta": {
+                    "gid": "2529535388519630599",
+                    "size": "1185966445",
+                    "download": "210446944"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19204110",
+                "timeupdated": "1752404775"
+            },
+            "beta": {
+                "buildid": "19204110",
+                "description": "latest but not stable",
+                "timeupdated": "1752404703"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
