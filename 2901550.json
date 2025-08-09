@@ -1,0 +1,83 @@
+{
+    "appid": 2901550,
+    "name": "Arcanists",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 01:56:01",
+    "change_number": 29869994,
+    "depot": {
+        "baselanguages": "english",
+        "2901551": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4853569383686962829",
+                    "size": "816392483",
+                    "download": "153881024"
+                },
+                "testserver": {
+                    "gid": "7551202426830943506",
+                    "size": "796148787",
+                    "download": "147219664"
+                }
+            },
+            "decryptionkey": "12bf8c93772cac311a78f6c6268b15590e1a6feab654d5df0db488ffa92eb53f"
+        },
+        "2901552": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3249494845280235357",
+                    "size": "829116156",
+                    "download": "155921392"
+                },
+                "testserver": {
+                    "gid": "6565153951432983627",
+                    "size": "808872460",
+                    "download": "149242208"
+                }
+            },
+            "decryptionkey": "128e14d1804d8fab5d7472267c7469f51b6922372bdc9847e76ab41db04da0e6"
+        },
+        "2901553": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3673648756820324278",
+                    "size": "830003267",
+                    "download": "155889440"
+                },
+                "testserver": {
+                    "gid": "2811613497461085976",
+                    "size": "809760083",
+                    "download": "149200960"
+                }
+            },
+            "decryptionkey": "13a014f367d59819d02f7fdba1cef99bc5cdc85cd0df6a62ba9ea5307e7c9eb5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18994097",
+                "timeupdated": "1750851109"
+            },
+            "testserver": {
+                "buildid": "17826138",
+                "description": "Testing the next update",
+                "timeupdated": "1742731699"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
