@@ -1,0 +1,61 @@
+{
+    "appid": 3100650,
+    "name": "Quantum Witch",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 16:51:32",
+    "change_number": 30051694,
+    "depot": {
+        "3100651": {},
+        "3100652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4450616011276503880",
+                    "size": "431310899",
+                    "download": "294068208"
+                },
+                "testing": {
+                    "gid": "4450616011276503880",
+                    "size": "431310899",
+                    "download": "294068208"
+                }
+            },
+            "decryptionkey": "363b2e1b8f8f809b6dc93f46beff80cddd300cb50b8afc128f8679fffb61ad0c"
+        },
+        "3100653": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5665856333532546172",
+                    "size": "412154830",
+                    "download": "324790096"
+                },
+                "testing": {
+                    "gid": "5665856333532546172",
+                    "size": "412154830",
+                    "download": "324790096"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19218145",
+                "timeupdated": "1752508285"
+            },
+            "testing": {
+                "buildid": "19218145",
+                "description": "Beta versions to test engine fixes",
+                "timeupdated": "1752507005"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
