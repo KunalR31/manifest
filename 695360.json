@@ -1,0 +1,70 @@
+{
+    "appid": 695360,
+    "name": "Veritex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 18:04:52",
+    "change_number": 29993204,
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "695361": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8079205866609647667",
+                    "size": "3466290343",
+                    "download": "3264499696"
+                },
+                "testing": {
+                    "gid": "5571071473508177568",
+                    "size": "4805300190",
+                    "download": "4639520368"
+                }
+            },
+            "decryptionkey": "11d0426926a6c4544377d9bd3a6e286b348617b390094d3b1d903d7b0e6b3028"
+        },
+        "695362": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "695363": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3702454",
+                "timeupdated": "1554223076"
+            },
+            "testing": {
+                "buildid": "3632644",
+                "description": "Testing Branch",
+                "timeupdated": "1552235852"
+            }
+        }
+    }
+}
