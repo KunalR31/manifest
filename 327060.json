@@ -1,0 +1,76 @@
+{
+    "appid": 327060,
+    "name": "Feist",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:12:44",
+    "change_number": 29177923,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,portuguese",
+        "327061": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9011262794969382190",
+                    "size": "204990976",
+                    "download": "88007968"
+                },
+                "testing": {
+                    "gid": "1014329050407427036",
+                    "size": "195998896",
+                    "download": "85862176"
+                }
+            }
+        },
+        "327062": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3889548114780180222",
+                    "size": "193001551",
+                    "download": "84324656"
+                },
+                "testing": {
+                    "gid": "7749307165510386520",
+                    "size": "174344092",
+                    "download": "80523040"
+                }
+            },
+            "decryptionkey": "7bca01f5079ef9e5a9c31024c9ecab2f7d900ff8aa91b6d935d24e4f361a9ae4"
+        },
+        "327063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5637986957150278904",
+                    "size": "200216997",
+                    "download": "86596576"
+                },
+                "testing": {
+                    "gid": "3202387087449835201",
+                    "size": "190356707",
+                    "download": "85192144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3840669",
+                "timeupdated": "1558372669"
+            },
+            "testing": {
+                "buildid": "2912745",
+                "description": "Testing Branch",
+                "timeupdated": "1530557672"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
