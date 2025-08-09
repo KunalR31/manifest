@@ -1,0 +1,75 @@
+{
+    "appid": 2800900,
+    "name": "Rift Riff",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 16:18:38",
+    "change_number": 30134352,
+    "depot": {
+        "2800901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3474340102103036574",
+                    "size": "572016800",
+                    "download": "450637744"
+                },
+                "testing": {
+                    "gid": "3474340102103036574",
+                    "size": "572016800",
+                    "download": "450637744"
+                }
+            },
+            "decryptionkey": "f3c7ea3002f656ee07bab9f10c17dbd3e775a438b4bd5c88a11f4fe3d4c3e9dd"
+        },
+        "2800902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2567059648449130504",
+                    "size": "655874505",
+                    "download": "468083280"
+                },
+                "testing": {
+                    "gid": "2567059648449130504",
+                    "size": "655874505",
+                    "download": "468083280"
+                }
+            }
+        },
+        "2800903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7632922147238797178",
+                    "size": "545284640",
+                    "download": "445218368"
+                },
+                "testing": {
+                    "gid": "7632922147238797178",
+                    "size": "545284640",
+                    "download": "445218368"
+                }
+            }
+        },
+        "baselanguages": "english,dutch",
+        "branches": {
+            "public": {
+                "buildid": "18841098",
+                "timeupdated": "1749735234"
+            },
+            "testing": {
+                "buildid": "18841098",
+                "description": "For testing whether your bug may be resolved",
+                "timeupdated": "1749735199"
+            }
+        }
+    }
+}
