@@ -1,0 +1,52 @@
+{
+    "appid": 3054410,
+    "name": "Bushside Rangers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 07:37:17",
+    "change_number": 30200652,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3054411": {
+            "manifests": {
+                "public": {
+                    "gid": "2344687459059902047",
+                    "size": "3293420613",
+                    "download": "3175839520"
+                },
+                "public-beta": {
+                    "gid": "5788907665586452820",
+                    "size": "3566643917",
+                    "download": "3376697040"
+                }
+            },
+            "decryptionkey": "f3d4245e90daabdf8d1139fd3fc806309720faaf24a60902e2331d579126f314"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18177003",
+                "timeupdated": "1745208772"
+            },
+            "public-beta": {
+                "buildid": "18231402",
+                "description": "Public beta branch",
+                "timeupdated": "1745541020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
