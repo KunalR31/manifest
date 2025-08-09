@@ -1,0 +1,61 @@
+{
+    "appid": 3384090,
+    "name": "Plastic Battlegrounds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 01:09:50",
+    "change_number": 30196385,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3384091": {
+            "manifests": {
+                "public": {
+                    "gid": "4570216930692818309",
+                    "size": "2221922175",
+                    "download": "2005343856"
+                },
+                "experimental": {
+                    "gid": "4570216930692818309",
+                    "size": "2221922175",
+                    "download": "2005343856"
+                },
+                "test": {
+                    "gid": "4296138676899203804",
+                    "size": "1989294469",
+                    "download": "1777258320"
+                }
+            },
+            "decryptionkey": "8e7d091643c1da41e472797ecce9727787cc911d99a7af6f1004025cb7d62ed3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19253462",
+                "timeupdated": "1752719215"
+            },
+            "experimental": {
+                "buildid": "19253462",
+                "description": "experimental build",
+                "timeupdated": "1752717941"
+            },
+            "test": {
+                "buildid": "19184335",
+                "description": "dev purposes",
+                "timeupdated": "1752201234"
+            }
+        }
+    }
+}
