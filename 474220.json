@@ -1,0 +1,84 @@
+{
+    "appid": 474220,
+    "name": "Soldat 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 20:21:10",
+    "change_number": 28973828,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "474221": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1735859371864216932",
+                    "size": "312622560",
+                    "download": "140158640"
+                },
+                "test": {
+                    "gid": "1989770829460465225",
+                    "size": "335234192",
+                    "download": "145740672"
+                }
+            },
+            "decryptionkey": "af89aa8b7cfef6eb5f73cc7cd4bc1b4f1045c4cf6820b499450c914e0edb8d3a"
+        },
+        "474222": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1590861169881836728",
+                    "size": "357358160",
+                    "download": "141268736"
+                },
+                "test": {
+                    "gid": "6548334223782490427",
+                    "size": "400683489",
+                    "download": "146907920"
+                }
+            }
+        },
+        "474223": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6231065685418615427",
+                    "size": "329091599",
+                    "download": "144795408"
+                },
+                "test": {
+                    "gid": "5087951985976746745",
+                    "size": "435684891",
+                    "download": "159639568"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15072804",
+                "timeupdated": "1721291793"
+            },
+            "test": {
+                "buildid": "15010884",
+                "description": "Testing",
+                "timeupdated": "1720772106"
+            }
+        }
+    }
+}
