@@ -1,0 +1,71 @@
+{
+    "appid": 459040,
+    "name": "Medieval Battlefields",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 18:35:48",
+    "change_number": 29865050,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,polish,dutch,swedish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "459043": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "671292796091407502",
+                    "size": "71152779",
+                    "download": "64457376"
+                }
+            },
+            "decryptionkey": "124aeac6205b2d40cce8797b69a141ce7830c4f45c57eef5d1868dbf8456b58a"
+        },
+        "459042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1709803900388495310",
+                    "size": "84364285",
+                    "download": "70346352"
+                }
+            }
+        },
+        "459045": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "154819104239348661",
+                    "size": "76948090",
+                    "download": "65716320"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19080674",
+                "timeupdated": "1751477741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
