@@ -1,0 +1,55 @@
+{
+    "appid": 540770,
+    "name": "Subject 264",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 08:16:01",
+    "change_number": 29781450,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "540771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8076716077471588631",
+                    "size": "3609368394",
+                    "download": "1725469792"
+                },
+                "beta": {
+                    "gid": "8713938320714021595",
+                    "size": "3609366034",
+                    "download": "1725473024"
+                }
+            },
+            "decryptionkey": "0803a605d3069764dcb59e13322774fe943effb324a3c6a47b3c7eebe5b167c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3528089",
+                "timeupdated": "1549224584"
+            },
+            "beta": {
+                "buildid": "3495575",
+                "description": "Beta Branch of Subject 264",
+                "timeupdated": "1548275001"
+            }
+        }
+    }
+}
