@@ -1,0 +1,75 @@
+{
+    "appid": 2927910,
+    "name": "Honey Bee",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:09:19",
+    "change_number": 30210150,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,brazilian",
+        "2927911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5082798867816053148",
+                    "size": "1047265743",
+                    "download": "313293840"
+                },
+                "honeybee_pre-release": {
+                    "gid": "5082798867816053148",
+                    "size": "1047265743",
+                    "download": "313293840"
+                },
+                "honeybee_preview-beta": {
+                    "gid": "5082798867816053148",
+                    "size": "1047265743",
+                    "download": "313293840"
+                }
+            },
+            "decryptionkey": "bf86ffd9575bf4244b990af6eb12704014d0ae2c755fd7b36f383cde4a8f8d19"
+        },
+        "2927913": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6435253343825693894",
+                    "size": "35736016",
+                    "download": "13131728"
+                },
+                "honeybee_pre-release": {
+                    "gid": "6435253343825693894",
+                    "size": "35736016",
+                    "download": "13131728"
+                },
+                "honeybee_preview-beta": {
+                    "gid": "6435253343825693894",
+                    "size": "35736016",
+                    "download": "13131728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19339056",
+                "timeupdated": "1753335811"
+            },
+            "honeybee_pre-release": {
+                "buildid": "19339056",
+                "description": "The pre-release version of honey bee usually receives the fastest fixes",
+                "timeupdated": "1753334809"
+            },
+            "honeybee_preview-beta": {
+                "buildid": "19339056",
+                "description": "(CAUTION) New content is being tested for the next game update, so you may encounter many bugs and instabilities.",
+                "timeupdated": "1753334749"
+            }
+        }
+    }
+}
