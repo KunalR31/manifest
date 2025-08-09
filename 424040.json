@@ -1,0 +1,64 @@
+{
+    "appid": 424040,
+    "name": "Fragmental",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:49:12",
+    "change_number": 29052752,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "424041": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2191560747122558537",
+                    "size": "906422104",
+                    "download": "296021632"
+                },
+                "local": {
+                    "gid": "3046110984821464542",
+                    "size": "905399318",
+                    "download": "233147840"
+                }
+            },
+            "decryptionkey": "736c789c4186b81ecac7f5433cfe4ad2ce18c35c6638d2cdb042e6eedadf0477"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2410036",
+                "timeupdated": "1514995265"
+            },
+            "local": {
+                "buildid": "885941",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
