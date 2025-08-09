@@ -1,0 +1,87 @@
+{
+    "appid": 308600,
+    "name": "Skillshot City",
+    "type": "Game",
+    "schinese_name": "基因变种",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:29:45",
+    "change_number": 30212627,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "308601": {
+            "manifests": {
+                "public": {
+                    "gid": "2134349415669572825",
+                    "size": "682906081",
+                    "download": "434078400"
+                },
+                "testing": {
+                    "gid": "2134349415669572825",
+                    "size": "682906081",
+                    "download": "434078400"
+                }
+            },
+            "decryptionkey": "85752a33e9947f9cb2f45664482a34cd0e439f8e33e0cb8e338fc02c8c5ff327"
+        },
+        "308602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7562161093727716821",
+                    "size": "15048918",
+                    "download": "5773792"
+                },
+                "testing": {
+                    "gid": "7562161093727716821",
+                    "size": "15048918",
+                    "download": "5773792"
+                }
+            },
+            "decryptionkey": "7675f0067cc6aa5251ff6a360fc3e9bf60a88ebd79d5b77970f172c192e33046"
+        },
+        "308603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7404950089190112320",
+                    "size": "38288587",
+                    "download": "13979632"
+                },
+                "testing": {
+                    "gid": "7404950089190112320",
+                    "size": "38288587",
+                    "download": "13979632"
+                }
+            },
+            "decryptionkey": "b8112ee7f1bd47600e357569468c0d1decc2dd2e7fd1ba17502d4cb3052af8e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19333233",
+                "timeupdated": "1753295382"
+            },
+            "testing": {
+                "buildid": "19333233",
+                "description": "Skillshot City BETA Branch",
+                "timeupdated": "1753295360"
+            }
+        }
+    }
+}
