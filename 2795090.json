@@ -1,0 +1,59 @@
+{
+    "appid": 2795090,
+    "name": "MR FARMBOY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:11:00",
+    "change_number": 30216926,
+    "depot": {
+        "2795092": {
+            "config": {
+                "oslist": "windows,macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7978122976304776412",
+                    "size": "140122640",
+                    "download": "66843712"
+                },
+                "public-beta": {
+                    "gid": "7978122976304776412",
+                    "size": "140122640",
+                    "download": "66843712"
+                }
+            },
+            "decryptionkey": "ccad51d4f51b5bdf2a6644a3084bed469c5d048ffffcbe45bcbc87d57a465ae4"
+        },
+        "2795091": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7020859894418742804",
+                    "size": "112358112",
+                    "download": "60034480"
+                },
+                "public-beta": {
+                    "gid": "7020859894418742804",
+                    "size": "112358112",
+                    "download": "60034480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19327453",
+                "timeupdated": "1753265857"
+            },
+            "public-beta": {
+                "buildid": "19327453",
+                "description": "Experimental Builds",
+                "timeupdated": "1753265869"
+            }
+        }
+    }
+}
