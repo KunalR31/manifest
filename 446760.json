@@ -1,0 +1,64 @@
+{
+    "appid": 446760,
+    "name": "Neighborhorde",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:47:50",
+    "change_number": 29356311,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "446761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7256330126261306687",
+                    "size": "35396608",
+                    "download": "35411152"
+                },
+                "beta1": {
+                    "gid": "7256330126261306687",
+                    "size": "35396608",
+                    "download": "35411152"
+                }
+            },
+            "decryptionkey": "ad0596a6897a8a369ef2b0cee1debf1c307baec708c7be869cb5c5bf7de77ce3"
+        },
+        "446762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2091952985039938148",
+                    "size": "76969739",
+                    "download": "33150512"
+                },
+                "beta1": {
+                    "gid": "2091952985039938148",
+                    "size": "76969739",
+                    "download": "33150512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1914519",
+                "timeupdated": "1498329198"
+            },
+            "beta1": {
+                "buildid": "1914519",
+                "description": "new stuff woah!",
+                "timeupdated": "1498329251"
+            }
+        }
+    }
+}
