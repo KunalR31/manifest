@@ -1,0 +1,66 @@
+{
+    "appid": 453650,
+    "name": "Marble Void",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:36:20",
+    "change_number": 29497843,
+    "depot": {
+        "baselanguages": "english,spanish",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "453651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1253518468845316146",
+                    "size": "579559054",
+                    "download": "138222592"
+                }
+            },
+            "decryptionkey": "d17aac9c6dfc0204e10c36c8fa65cb50e1d3b1c7844968bd87f0a2b85b644cb7"
+        },
+        "453652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2293165854661183840",
+                    "size": "583856774",
+                    "download": "139459424"
+                }
+            },
+            "decryptionkey": "cb613a9e32fd7735e4be0228fb6167df517469d97b0a33f72a2a598cd5e21c31"
+        },
+        "453653": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1219412789837518074",
+                    "size": "614749491",
+                    "download": "148475488"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1443224",
+                "timeupdated": "1478547246"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
