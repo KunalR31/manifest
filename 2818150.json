@@ -1,0 +1,65 @@
+{
+    "appid": 2818150,
+    "name": "Cattle Country",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 18:26:42",
+    "change_number": 30156372,
+    "depot": {
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2818151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7427020731737051062",
+                    "size": "463971616",
+                    "download": "168514208"
+                },
+                "next_update": {
+                    "gid": "7427020731737051062",
+                    "size": "463971616",
+                    "download": "168514208"
+                }
+            },
+            "decryptionkey": "d1dbe30d60e27a7c60076a2552a5b64927fc6070a0c5b12b123dffcdeff05ad1"
+        },
+        "2818152": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7355728525081443197",
+                    "size": "484329219",
+                    "download": "177582016"
+                },
+                "next_update": {
+                    "gid": "7355728525081443197",
+                    "size": "484329219",
+                    "download": "177582016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883721",
+                "timeupdated": "1750082534"
+            },
+            "next_update": {
+                "buildid": "18883721",
+                "description": "Test branch for the next update",
+                "timeupdated": "1750082606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
