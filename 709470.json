@@ -1,0 +1,77 @@
+{
+    "appid": 709470,
+    "name": "Mirrors - Tomblight Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 19:10:08",
+    "change_number": 30172007,
+    "depot": {
+        "709471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3394002933639169993",
+                    "size": "350276539",
+                    "download": "90189344"
+                },
+                "local": {
+                    "gid": "6246634858675387773",
+                    "size": "350276227",
+                    "download": "91369840"
+                }
+            },
+            "decryptionkey": "bea5f8f36cfdf985c7b39692f90c4b3bd619dbdd4f1dda0eb7bce3218d6cbdc9"
+        },
+        "709472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8816378777907078728",
+                    "size": "374151885",
+                    "download": "99619008"
+                },
+                "local": {
+                    "gid": "2249698686821276612",
+                    "size": "374151573",
+                    "download": "99646544"
+                }
+            }
+        },
+        "709473": {},
+        "709479": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6691738664965837805",
+                    "size": "398857323",
+                    "download": "93734720"
+                },
+                "local": {
+                    "gid": "7844415945663838619",
+                    "size": "398857011",
+                    "download": "93765296"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19301912",
+                "timeupdated": "1753112834"
+            },
+            "local": {
+                "buildid": "19287767",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1752961075"
+            }
+        }
+    }
+}
