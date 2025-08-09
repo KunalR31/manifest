@@ -1,0 +1,57 @@
+{
+    "appid": 3327950,
+    "name": "冷战：前线",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 13:22:01",
+    "change_number": 30110248,
+    "depot": {
+        "baselanguages": "schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3327951": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4095044892203387654",
+                    "size": "10929675275",
+                    "download": "8773942736"
+                },
+                "test": {
+                    "gid": "9139809871362172106",
+                    "size": "10862495292",
+                    "download": "8706608864"
+                }
+            },
+            "decryptionkey": "145b68930d44bb5137edead51223ff490e752c1fea95fcbf5da8429b5a092c14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19259536",
+                "timeupdated": "1752754917"
+            },
+            "test": {
+                "buildid": "19155491",
+                "description": "Beta测试 v20250418",
+                "timeupdated": "1752331184"
+            }
+        }
+    }
+}
