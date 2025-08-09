@@ -1,0 +1,62 @@
+{
+    "appid": 2709060,
+    "name": "Super Retro BoxBot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 17:07:15",
+    "change_number": 29811190,
+    "depot": {
+        "2709062": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7999362814680696816",
+                    "size": "406814652",
+                    "download": "123442976"
+                },
+                "beta": {
+                    "gid": "7999362814680696816",
+                    "size": "406814652",
+                    "download": "123442976"
+                }
+            }
+        },
+        "2709061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "645531741029943957",
+                    "size": "289191653",
+                    "download": "111543872"
+                },
+                "beta": {
+                    "gid": "645531741029943957",
+                    "size": "289191653",
+                    "download": "111543872"
+                }
+            },
+            "decryptionkey": "14280f2343295ad415b51eef882fc4f47bb94a172f4d4d40460a4ea066c06980"
+        },
+        "workshopdepot": "2709060",
+        "branches": {
+            "public": {
+                "buildid": "13364079",
+                "timeupdated": "1707101538"
+            },
+            "beta": {
+                "buildid": "13364079",
+                "description": "Beta branch",
+                "timeupdated": "1707101373"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
