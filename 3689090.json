@@ -1,0 +1,73 @@
+{
+    "appid": 3689090,
+    "name": "Labyrinth : Dracula's lair",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:49:36",
+    "change_number": 29766464,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3689091": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2525286017859555703",
+                    "size": "6422080947",
+                    "download": "6230127888"
+                },
+                "linux": {
+                    "gid": "2525286017859555703",
+                    "size": "6422080947",
+                    "download": "6230127888"
+                }
+            },
+            "decryptionkey": "f77fb8d4fcc028d4ecbf0a2b36ce019ebff4a33bcd69aa7c22cc538d1fbd6ce7"
+        },
+        "3689092": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3524902748182161453",
+                    "size": "6417390719",
+                    "download": "5895522480"
+                },
+                "linux": {
+                    "gid": "3524902748182161453",
+                    "size": "6417390719",
+                    "download": "5895522480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18724779",
+                "timeupdated": "1748987398"
+            },
+            "linux": {
+                "buildid": "18724779",
+                "description": "linux public branch",
+                "timeupdated": "1748987379"
+            }
+        }
+    }
+}
