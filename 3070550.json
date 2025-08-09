@@ -1,0 +1,63 @@
+{
+    "appid": 3070550,
+    "name": "AnyMe Cam",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 16:07:15",
+    "change_number": 30071014,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3070551": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4988603323717458647",
+                    "size": "1389983183",
+                    "download": "453957136"
+                },
+                "local": {
+                    "gid": "417869570971382975",
+                    "size": "1153361498",
+                    "download": "351329888"
+                }
+            },
+            "decryptionkey": "83ed4611161a7899e19ba3c55182fde05b16e19c354d7d2a0dbd0b6b655cbf9c"
+        },
+        "3070552": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7854202157766955258",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "17eca143690f688631213aa5a1b97370d36530d1fcd274f5fddbb9ed8c6bd8a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19231579",
+                "timeupdated": "1752592031"
+            },
+            "local": {
+                "buildid": "14895969",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1719845393"
+            }
+        }
+    }
+}
