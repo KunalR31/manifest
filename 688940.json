@@ -1,0 +1,57 @@
+{
+    "appid": 688940,
+    "name": "Steve's Pub - Soda on tap",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:16:12",
+    "change_number": 29787538,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german",
+        "688941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3913279689853913426",
+                    "size": "343752915",
+                    "download": "275629968"
+                },
+                "oculus_testing": {
+                    "gid": "7006603007849552569",
+                    "size": "343820671",
+                    "download": "275697712"
+                }
+            },
+            "decryptionkey": "7950702306ecf5b72107ce9fd69ac41bc13b5e6fd3c414a5c6d2c6b3937a3e60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3142114",
+                "timeupdated": "1537473728"
+            },
+            "oculus_testing": {
+                "buildid": "3178269",
+                "description": "oculus testing branch",
+                "timeupdated": "1538554745"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
