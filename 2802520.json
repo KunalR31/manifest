@@ -1,0 +1,47 @@
+{
+    "appid": 2802520,
+    "name": "Gracia",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 15:00:36",
+    "change_number": 29880122,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2802521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2918272278311064225",
+                    "size": "26240374",
+                    "download": "11003520"
+                },
+                "prerelease": {
+                    "gid": "2918272278311064225",
+                    "size": "26240374",
+                    "download": "11003520"
+                }
+            },
+            "decryptionkey": "567580132c94ede7e107598ffe80ce7e5706029afd53f21fd6f2ad8171550855"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19094587",
+                "timeupdated": "1751551232"
+            },
+            "prerelease": {
+                "buildid": "19094587",
+                "description": "branch for deploy exe via github actions",
+                "timeupdated": "1751550729"
+            }
+        }
+    }
+}
