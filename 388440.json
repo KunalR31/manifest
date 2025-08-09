@@ -1,0 +1,107 @@
+{
+    "appid": 388440,
+    "name": "Big Journey to Home",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:33",
+    "change_number": 30056454,
+    "depot": {
+        "baselanguages": "english,russian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "388441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1675625412599938902",
+                    "size": "75752982",
+                    "download": "46037104"
+                },
+                "legacy": {
+                    "gid": "8226188585353721021",
+                    "size": "64665067",
+                    "download": "48309840"
+                }
+            },
+            "decryptionkey": "7d28d226693b76a5095c84fce8aefce06a9024d3c98b0c615d62db4c63d0d95a"
+        },
+        "388442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5095042368531222225",
+                    "size": "110243275",
+                    "download": "53384496"
+                },
+                "legacy": {
+                    "gid": "5391946816893064189",
+                    "size": "64656241",
+                    "download": "48052224"
+                }
+            },
+            "decryptionkey": "d85fae110c09f0152392bf9091711410425e9cf1ba88fe1e7b5dcc5394fb4e8a"
+        },
+        "388443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2500709429224032942",
+                    "size": "74704990",
+                    "download": "46052640"
+                },
+                "legacy": {
+                    "gid": "3647687391838100562",
+                    "size": "60992980",
+                    "download": "46968400"
+                }
+            },
+            "decryptionkey": "0363bce76e24ffe1dd90b472021193f679417aeddce3ca1dcd8c82559e4dd7cb"
+        },
+        "439710": {
+            "manifests": {
+                "public": {
+                    "gid": "7971840539928482304",
+                    "size": "356482442",
+                    "download": "348967648"
+                },
+                "legacy": {
+                    "gid": "7971840539928482304",
+                    "size": "356482442",
+                    "download": "348967648"
+                }
+            },
+            "dlcappid": "439710",
+            "decryptionkey": "128fe6136724cdc0e4e2005826697a4dbd47912884b43e4de65ca035f1bb0138"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17431802",
+                "timeupdated": "1740013160"
+            },
+            "legacy": {
+                "buildid": "1022423",
+                "description": "Legacy version 1.1.1 (x86/dx9)",
+                "timeupdated": "1594817762"
+            }
+        }
+    }
+}
