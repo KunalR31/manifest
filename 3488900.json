@@ -1,0 +1,57 @@
+{
+    "appid": 3488900,
+    "name": "Kiloton",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 21:55:53",
+    "change_number": 29830097,
+    "depot": {
+        "3488901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7340978001435976081",
+                    "size": "113635007",
+                    "download": "31200608"
+                },
+                "developer-testing": {
+                    "gid": "7340978001435976081",
+                    "size": "113635007",
+                    "download": "31200608"
+                }
+            },
+            "decryptionkey": "a5c263d7b2484145c3bca4a347c1165d5fcad6608d07b095384134d0ee19f028"
+        },
+        "3488902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6199903381049926999",
+                    "size": "139426465",
+                    "download": "39280240"
+                },
+                "developer-testing": {
+                    "gid": "6199903381049926999",
+                    "size": "139426465",
+                    "download": "39280240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18305187",
+                "timeupdated": "1746073477"
+            },
+            "developer-testing": {
+                "buildid": "18305187",
+                "description": "what I test builds with before updating the live branch",
+                "timeupdated": "1746070951"
+            }
+        }
+    }
+}
