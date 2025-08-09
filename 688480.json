@@ -1,0 +1,47 @@
+{
+    "appid": 688480,
+    "name": "EVE: Valkyrie - Warzone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 15:23:15",
+    "change_number": 27924129,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "688481": {
+            "manifests": {
+                "public": {
+                    "gid": "8589221247050766419",
+                    "size": "31083931279",
+                    "download": "9892140448"
+                },
+                "local": {
+                    "gid": "5694268001014102581",
+                    "size": "30972492914",
+                    "download": "9665472208"
+                }
+            },
+            "decryptionkey": "6d1eb7bf2be0d2508d736d47a82edcab83bbb7baec79ec7626ef446864a19607"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "2347437",
+                "timeupdated": "1513078368"
+            },
+            "local": {
+                "buildid": "2214200",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1508456862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
