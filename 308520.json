@@ -1,0 +1,82 @@
+{
+    "appid": 308520,
+    "name": "Minimon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:32:19",
+    "change_number": 29597625,
+    "depot": {
+        "baselanguages": "english,german,spanish,portuguese",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "308521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3819576350332897280",
+                    "size": "193954952",
+                    "download": "153378096"
+                },
+                "beta": {
+                    "gid": "7768501325129829937",
+                    "size": "203113382",
+                    "download": "161598432"
+                }
+            },
+            "decryptionkey": "609d91195748560f0cac100702af911ee47a2032c5039b094d1c140ebbac536b"
+        },
+        "308522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2159450688523344371",
+                    "size": "139815865",
+                    "download": "112390848"
+                },
+                "beta": {
+                    "gid": "2278869744333411454",
+                    "size": "208515357",
+                    "download": "162387488"
+                }
+            },
+            "decryptionkey": "5dc4adb88ebf3aebdc5bd3c0156c7826faf983d8b84f3eadec521da89d08e371"
+        },
+        "308523": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1823775952727646827",
+                    "size": "207737003",
+                    "download": "155518192"
+                },
+                "beta": {
+                    "gid": "1400550763458603019",
+                    "size": "216946161",
+                    "download": "163752960"
+                }
+            },
+            "decryptionkey": "da990ed7854be2ec97f2ffdf06945b7856023c33a4ccd163c76ad1f0fe7e8161"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4136396",
+                "timeupdated": "1566685401"
+            },
+            "beta": {
+                "buildid": "692293"
+            }
+        }
+    }
+}
