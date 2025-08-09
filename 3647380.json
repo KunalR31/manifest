@@ -1,0 +1,84 @@
+{
+    "appid": 3647380,
+    "name": "Ascension Gamebook",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:15:05",
+    "change_number": 29434249,
+    "depot": {
+        "3647381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7647208792718744536",
+                    "size": "1294475009",
+                    "download": "1113767728"
+                },
+                "pcdep": {
+                    "gid": "7647208792718744536",
+                    "size": "1294475009",
+                    "download": "1113767728"
+                }
+            },
+            "decryptionkey": "943798ccd8ce13ff742c81adb87a74223f4940a5b11378baffad71134c6cdf89"
+        },
+        "3647385": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8621214137508553734",
+                    "size": "1278537334",
+                    "download": "1108969968"
+                },
+                "macdep": {
+                    "gid": "8621214137508553734",
+                    "size": "1278537334",
+                    "download": "1108969968"
+                }
+            }
+        },
+        "3647386": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6953630876528098500",
+                    "size": "1299806777",
+                    "download": "1110115168"
+                },
+                "linuxdep": {
+                    "gid": "6953630876528098500",
+                    "size": "1299806777",
+                    "download": "1110115168"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18777063",
+                "timeupdated": "1749292915"
+            },
+            "linuxdep": {
+                "buildid": "18777056",
+                "description": "Linux",
+                "timeupdated": "1749292801"
+            },
+            "macdep": {
+                "buildid": "18777032",
+                "description": "Mac",
+                "timeupdated": "1749292581"
+            },
+            "pcdep": {
+                "buildid": "18777015",
+                "description": "PC",
+                "timeupdated": "1749292283"
+            }
+        }
+    }
+}
