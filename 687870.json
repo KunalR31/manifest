@@ -1,0 +1,55 @@
+{
+    "appid": 687870,
+    "name": "CINEVR",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 13:55:25",
+    "change_number": 29842747,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "687871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "811931690163969245",
+                    "size": "543143520",
+                    "download": "149549024"
+                },
+                "beta": {
+                    "gid": "811931690163969245",
+                    "size": "543143520",
+                    "download": "149549024"
+                }
+            },
+            "decryptionkey": "e38f6005635bcce82a2cff9afee29747565248e4b4c792757eed2ddab106fd78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5468474",
+                "timeupdated": "1598599365"
+            },
+            "beta": {
+                "buildid": "5468474",
+                "description": "Beta testing",
+                "timeupdated": "1598539227"
+            }
+        }
+    }
+}
