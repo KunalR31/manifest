@@ -1,0 +1,114 @@
+{
+    "appid": 417200,
+    "name": "Make Sail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 04:13:40",
+    "change_number": 29798160,
+    "depot": {
+        "417201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1060759774004572393",
+                    "size": "1223726918",
+                    "download": "461692864"
+                },
+                "experimental": {
+                    "gid": "4341465394228552814",
+                    "size": "1253318925",
+                    "download": "467676224"
+                },
+                "testing": {
+                    "gid": "1060759774004572393",
+                    "size": "1223726918",
+                    "download": "461692864"
+                }
+            },
+            "decryptionkey": "6e19faacbf0cd772df19364f29e79dc8c7281b7b8f6454c38cc2085388393e2b"
+        },
+        "417202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4024534435637508276",
+                    "size": "1245551303",
+                    "download": "467824784"
+                },
+                "experimental": {
+                    "gid": "2678537447896042893",
+                    "size": "1273076051",
+                    "download": "468368320"
+                },
+                "testing": {
+                    "gid": "4024534435637508276",
+                    "size": "1245551303",
+                    "download": "467824784"
+                }
+            }
+        },
+        "417203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4065126392717861649",
+                    "size": "1232605364",
+                    "download": "464543008"
+                },
+                "experimental": {
+                    "gid": "4065126392717861649",
+                    "size": "1232605364",
+                    "download": "464543008"
+                },
+                "testing": {
+                    "gid": "4065126392717861649",
+                    "size": "1232605364",
+                    "download": "464543008"
+                }
+            }
+        },
+        "811230": {
+            "manifests": {
+                "public": {
+                    "gid": "1927453187042020280",
+                    "size": "262079861",
+                    "download": "170568144"
+                },
+                "experimental": {
+                    "gid": "1927453187042020280",
+                    "size": "262079861",
+                    "download": "170568144"
+                },
+                "testing": {
+                    "gid": "1927453187042020280",
+                    "size": "262079861",
+                    "download": "170568144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7781212",
+                "timeupdated": "1638205909"
+            },
+            "experimental": {
+                "buildid": "9403071",
+                "description": "May be broken or corrupt saves",
+                "timeupdated": "1661675697"
+            },
+            "testing": {
+                "buildid": "7781212",
+                "description": "Release Candidate",
+                "timeupdated": "1661608119"
+            }
+        }
+    }
+}
