@@ -1,0 +1,154 @@
+{
+    "appid": 445020,
+    "name": "Frozen Synapse 2",
+    "type": "Game",
+    "schinese_name": "冰封触点2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:52:21",
+    "change_number": 29049282,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "445021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8515188403288962346",
+                    "size": "1730053975",
+                    "download": "936895904"
+                },
+                "debug": {
+                    "gid": "2612700868176475489",
+                    "size": "1726962304",
+                    "download": "938575696"
+                },
+                "multiplatform_test": {
+                    "gid": "753863440407073365",
+                    "size": "1726244868",
+                    "download": "938263888"
+                },
+                "preview": {
+                    "gid": "2612700868176475489",
+                    "size": "1726962304",
+                    "download": "938575696"
+                }
+            },
+            "decryptionkey": "9228a5718d9b477ea4d56ac8db0bfbc82b36af1ab05081edd69991b4d08cfe18"
+        },
+        "445022": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5086874048509108342",
+                    "size": "0",
+                    "download": "0"
+                },
+                "debug": {
+                    "gid": "5331000556575622252",
+                    "size": "1863083745",
+                    "download": "954310832"
+                },
+                "multiplatform_test": {
+                    "gid": "3834101082317344124",
+                    "size": "1761417818",
+                    "download": "943154048"
+                },
+                "preview": {
+                    "gid": "5145908686905339382",
+                    "size": "1791329148",
+                    "download": "943738624"
+                }
+            }
+        },
+        "445023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5794477704715726045",
+                    "size": "9529535",
+                    "download": "2349920"
+                },
+                "debug": {
+                    "gid": "5748054295327135045",
+                    "size": "1740705114",
+                    "download": "941535104"
+                },
+                "multiplatform_test": {
+                    "gid": "917062700465947535",
+                    "size": "1744874644",
+                    "download": "940215824"
+                },
+                "preview": {
+                    "gid": "5748054295327135045",
+                    "size": "1740705114",
+                    "download": "941535104"
+                }
+            }
+        },
+        "914840": {
+            "manifests": {
+                "public": {
+                    "gid": "3794029664154074206",
+                    "size": "1119106803",
+                    "download": "1130892592"
+                },
+                "debug": {
+                    "gid": "3794029664154074206",
+                    "size": "1119106803",
+                    "download": "1130892592"
+                },
+                "multiplatform_test": {
+                    "gid": "3794029664154074206",
+                    "size": "1119106803",
+                    "download": "1130892592"
+                },
+                "preview": {
+                    "gid": "3794029664154074206",
+                    "size": "1119106803",
+                    "download": "1130892592"
+                }
+            },
+            "dlcappid": "914840",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3382428",
+                "timeupdated": "1545991632"
+            },
+            "debug": {
+                "buildid": "3271015",
+                "timeupdated": "1541171311"
+            },
+            "multiplatform_test": {
+                "buildid": "3382675",
+                "timeupdated": "1544451973"
+            },
+            "preview": {
+                "buildid": "3268317",
+                "timeupdated": "1541097254"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
