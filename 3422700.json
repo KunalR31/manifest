@@ -1,0 +1,74 @@
+{
+    "appid": 3422700,
+    "name": "Cribbish",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:11:22",
+    "change_number": 30218990,
+    "depot": {
+        "3422701": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3551738853968616891",
+                    "size": "250827261",
+                    "download": "99697808"
+                },
+                "beta": {
+                    "gid": "3551738853968616891",
+                    "size": "250827261",
+                    "download": "99697808"
+                }
+            }
+        },
+        "3422702": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4929039782107649511",
+                    "size": "165702928",
+                    "download": "81296080"
+                },
+                "beta": {
+                    "gid": "4929039782107649511",
+                    "size": "165702928",
+                    "download": "81296080"
+                }
+            },
+            "decryptionkey": "f5b059ef5f75926e998475daa7dad8ad5bd6b30bad7328f2f38e55843c60e5fc"
+        },
+        "3422703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2758889971975760538",
+                    "size": "139450648",
+                    "download": "75934832"
+                },
+                "beta": {
+                    "gid": "2758889971975760538",
+                    "size": "139450648",
+                    "download": "75934832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18976308",
+                "timeupdated": "1750747573"
+            },
+            "beta": {
+                "buildid": "18976308",
+                "description": "Beta release branch for testing",
+                "timeupdated": "1750747271"
+            }
+        }
+    }
+}
