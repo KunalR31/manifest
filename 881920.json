@@ -1,0 +1,100 @@
+{
+    "appid": 881920,
+    "name": "Depression The Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:13:49",
+    "change_number": 29437812,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "881921": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2647127078201941710",
+                    "size": "1873496655",
+                    "download": "510510928"
+                },
+                "patch-preview": {
+                    "gid": "932329564578532898",
+                    "size": "4687407521",
+                    "download": "1185381296"
+                }
+            },
+            "decryptionkey": "f2e75ff5600dd371de1f62672dc24c8bbe6f43ac941e7a3174ff4285bf78bbe2"
+        },
+        "881922": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5625136164444365068",
+                    "size": "1887603311",
+                    "download": "517248768"
+                },
+                "patch-preview": {
+                    "gid": "5625136164444365068",
+                    "size": "1887603311",
+                    "download": "517248768"
+                }
+            }
+        },
+        "881923": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5059855468731610079",
+                    "size": "1890139320",
+                    "download": "520485216"
+                },
+                "patch-preview": {
+                    "gid": "5059855468731610079",
+                    "size": "1890139320",
+                    "download": "520485216"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4431607",
+                "timeupdated": "1574864502"
+            },
+            "patch-preview": {
+                "buildid": "4723238",
+                "description": "Patch current Alpha",
+                "timeupdated": "1582827020"
+            }
+        }
+    }
+}
