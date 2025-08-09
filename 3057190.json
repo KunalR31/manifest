@@ -1,0 +1,66 @@
+{
+    "appid": 3057190,
+    "name": "LOOTPLOT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 12:57:28",
+    "change_number": 29859766,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3057191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7129483753862292921",
+                    "size": "196413034",
+                    "download": "188572624"
+                },
+                "prerelease": {
+                    "gid": "7129483753862292921",
+                    "size": "196413034",
+                    "download": "188572624"
+                }
+            },
+            "decryptionkey": "8c0fc9ed0e842f2938f08e3d6e1586f077b553203e9833a3b2d62412b46d3f39"
+        },
+        "3057192": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2601450270324587260",
+                    "size": "199738423",
+                    "download": "189109200"
+                },
+                "prerelease": {
+                    "gid": "2601450270324587260",
+                    "size": "199738423",
+                    "download": "189109200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19045925",
+                "timeupdated": "1751249783"
+            },
+            "prerelease": {
+                "buildid": "19045925",
+                "description": "Branch for pre-releasing",
+                "timeupdated": "1751249204"
+            }
+        }
+    }
+}
