@@ -1,0 +1,58 @@
+{
+    "appid": 3262180,
+    "name": "Pryizm Multiplayer Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 04:42:55",
+    "change_number": 30178905,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3262181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "296814762032238462",
+                    "size": "3013712432",
+                    "download": "2360547296"
+                }
+            },
+            "decryptionkey": "3f0b3bed03b0cb3ea58bb8a947264112f625cac7876e1908b2909783a78402ec"
+        },
+        "3262182": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "975629094932780457",
+                    "size": "5045685999",
+                    "download": "3258509936"
+                }
+            },
+            "decryptionkey": "489f2a0fe4c6f9a9c854f1de0f661ebf08afa059509b862fd288fab4c9f13ce2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19309582",
+                "timeupdated": "1753155748"
+            }
+        }
+    }
+}
