@@ -1,0 +1,57 @@
+{
+    "appid": 2800150,
+    "name": "AI Roguelite 2D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:22:04",
+    "change_number": 30212524,
+    "depot": {
+        "2800151": {
+            "manifests": {
+                "public": {
+                    "gid": "4777970669224404041",
+                    "size": "2517886155",
+                    "download": "1865121936"
+                },
+                "beta": {
+                    "gid": "4777970669224404041",
+                    "size": "2517886155",
+                    "download": "1865121936"
+                },
+                "debug": {
+                    "gid": "8147364134712903324",
+                    "size": "2518015301",
+                    "download": "1865155344"
+                },
+                "older_build": {
+                    "gid": "268223650026582440",
+                    "size": "2517820364",
+                    "download": "1865052912"
+                }
+            },
+            "decryptionkey": "baf6c96f78b00ec6ca32c0ca01587940819f92cbd1de4f0deff3d26d13f6b3ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15996624",
+                "timeupdated": "1728575268"
+            },
+            "beta": {
+                "buildid": "15996624",
+                "description": "Contains the newest fixes and features; less stable than default",
+                "timeupdated": "1728574802"
+            },
+            "debug": {
+                "buildid": "18450747",
+                "description": "for debugging",
+                "timeupdated": "1747170711"
+            },
+            "older_build": {
+                "buildid": "14432815",
+                "description": "Older build to use if Default branch has a newly introduced bug",
+                "timeupdated": "1728575416"
+            }
+        }
+    }
+}
