@@ -1,0 +1,83 @@
+{
+    "appid": 629210,
+    "name": "Extra Terrestrial Perception",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:51:50",
+    "change_number": 30147171,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "629211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7865654960442073898",
+                    "size": "3405162375",
+                    "download": "817201344"
+                }
+            },
+            "decryptionkey": "c57eb9af9721005142844efffe2ddcc07df51754f32f96e65afdcc9dcb753ba9"
+        },
+        "629212": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8057937424707937441",
+                    "size": "3375087045",
+                    "download": "796188960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "629213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1616709144406709897",
+                    "size": "3819321171",
+                    "download": "783108400"
+                }
+            }
+        },
+        "629214": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8768668797240930420",
+                    "size": "3947034771",
+                    "download": "845912400"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1990487",
+                "timeupdated": "1501128326"
+            }
+        }
+    }
+}
