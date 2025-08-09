@@ -1,0 +1,57 @@
+{
+    "appid": 2916300,
+    "name": "Kiko's Apple Adventure",
+    "type": "Game",
+    "schinese_name": "Kiko的苹果冒险",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 04:10:20",
+    "change_number": 29890194,
+    "depot": {
+        "2916301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "611067999070861464",
+                    "size": "258148989",
+                    "download": "66695168"
+                },
+                "beta": {
+                    "gid": "919370238450615497",
+                    "size": "262330869",
+                    "download": "70870112"
+                }
+            },
+            "decryptionkey": "d5f6e081c7b6465064033b50df246338a3b5ee7d7ea73a525baca81094769565"
+        },
+        "2916302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3672505016430419126",
+                    "size": "282723673",
+                    "download": "73968832"
+                },
+                "beta": {
+                    "gid": "5191620576191800547",
+                    "size": "286905073",
+                    "download": "78150688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840406",
+                "timeupdated": "1749732469"
+            },
+            "beta": {
+                "buildid": "18889996",
+                "description": "test before update",
+                "timeupdated": "1750118541"
+            }
+        }
+    }
+}
