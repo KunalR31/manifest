@@ -1,0 +1,75 @@
+{
+    "appid": 659920,
+    "name": "Transports",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 14:46:32",
+    "change_number": 30132751,
+    "depot": {
+        "baselanguages": "english,german",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "659921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2902210885388245794",
+                    "size": "700766532",
+                    "download": "200119664"
+                },
+                "old_default": {
+                    "gid": "2323966917976177723",
+                    "size": "672667279",
+                    "download": "200923440"
+                },
+                "testing": {
+                    "gid": "8919049646401741306",
+                    "size": "719342876",
+                    "download": "207772736"
+                }
+            },
+            "decryptionkey": "a6e56167ad76e8d6c35053b4955a90c4b438fef2ae7d815bdd55115609e41c35"
+        },
+        "659922": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "workshopdepot": "659920",
+        "branches": {
+            "public": {
+                "buildid": "17484261",
+                "timeupdated": "1740405266"
+            },
+            "old_default": {
+                "buildid": "6425040",
+                "description": "Last default build.",
+                "timeupdated": "1740405197"
+            },
+            "testing": {
+                "buildid": "19275580",
+                "description": "Public testing branch.",
+                "timeupdated": "1752846387"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
