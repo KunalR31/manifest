@@ -1,0 +1,88 @@
+{
+    "appid": 636910,
+    "name": "Geoid",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 07:38:51",
+    "change_number": 29698132,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "636911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7802444619903167299",
+                    "size": "4347312084",
+                    "download": "1339853488"
+                },
+                "beta": {
+                    "gid": "2277631064705425804",
+                    "size": "2591084042",
+                    "download": "834098592"
+                }
+            },
+            "decryptionkey": "787a3773bcd045f608681e34b21b8aac0aadb7dde49b9ac8988387c360afd132"
+        },
+        "636912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4004735928109450309",
+                    "size": "4596467588",
+                    "download": "1456492128"
+                },
+                "beta": {
+                    "gid": "4004735928109450309",
+                    "size": "4596467588",
+                    "download": "1456492128"
+                }
+            }
+        },
+        "636913": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5653819776057852030",
+                    "size": "5210531531",
+                    "download": "1508749136"
+                },
+                "beta": {
+                    "gid": "8823288962817615691",
+                    "size": "3556175490",
+                    "download": "957828432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1898797",
+                "timeupdated": "1497831474"
+            },
+            "beta": {
+                "buildid": "10906864",
+                "timeupdated": "1680312169"
+            }
+        }
+    }
+}
