@@ -1,0 +1,47 @@
+{
+    "appid": 3077230,
+    "name": "Open Blocks",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 18:13:28",
+    "change_number": 30171190,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3077231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "772703161882365357",
+                    "size": "552912206",
+                    "download": "164638848"
+                },
+                "beta": {
+                    "gid": "2222505422545631361",
+                    "size": "550832950",
+                    "download": "162947312"
+                }
+            },
+            "decryptionkey": "d7d23d28089fd14a03d576338c08b82362958f1b43f1b15cc0c560b366869287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18068557",
+                "timeupdated": "1744359627"
+            },
+            "beta": {
+                "buildid": "19302860",
+                "description": "pre-release versions",
+                "timeupdated": "1753118004"
+            }
+        }
+    }
+}
