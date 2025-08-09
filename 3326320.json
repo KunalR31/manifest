@@ -1,0 +1,54 @@
+{
+    "appid": 3326320,
+    "name": "Blitzthera Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 21:38:29",
+    "change_number": 30030666,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3326321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3277287666217533777",
+                    "size": "1151723312",
+                    "download": "409796960"
+                },
+                "beta": {
+                    "gid": "18432534036960937",
+                    "size": "2779861623",
+                    "download": "2244997392"
+                }
+            },
+            "decryptionkey": "1ee7e3c983ee5b1b2922905a32a594f5f3263063b0b218145003d53bb9a7cae5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19195567",
+                "timeupdated": "1752352705"
+            },
+            "beta": {
+                "buildid": "19181050",
+                "description": "for beta beta testers",
+                "timeupdated": "1752177831"
+            }
+        }
+    }
+}
