@@ -1,0 +1,60 @@
+{
+    "appid": 3066310,
+    "name": "Final Outpost: Definitive Edition",
+    "type": "Game",
+    "schinese_name": "最终前哨: 最终版",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 21:18:33",
+    "change_number": 30149369,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian,vietnamese,indonesian",
+        "hasdepotsindlc": "1",
+        "3066311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8187305468623903590",
+                    "size": "393991083",
+                    "download": "75931008"
+                }
+            },
+            "decryptionkey": "b13227c3b248ddf64d6fe196fc436fb336a8a76adcabea15ca5617c56fac68b3"
+        },
+        "3066312": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2059665278161955280",
+                    "size": "441023899",
+                    "download": "76879552"
+                }
+            }
+        },
+        "3066313": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3605296591375708004",
+                    "size": "579830229",
+                    "download": "121593760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852657",
+                "timeupdated": "1749812879"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
