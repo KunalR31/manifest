@@ -1,0 +1,60 @@
+{
+    "appid": 514990,
+    "name": "Outbreak",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 00:11:30",
+    "change_number": 30039760,
+    "depot": {
+        "514991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8034203562621879864",
+                    "size": "916009816",
+                    "download": "359713408"
+                }
+            },
+            "decryptionkey": "643921d72f170c43ac2e52d6379275cbfc1099119c84a08c01047f18017ed1cd"
+        },
+        "514992": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5691073527045240475",
+                    "size": "932772748",
+                    "download": "364439056"
+                }
+            },
+            "decryptionkey": "6dd6694ea0db776fe8153a09a01946c671859a4ecee7f200bf5e2306d0d81f31"
+        },
+        "514993": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6586265068167971972",
+                    "size": "903383144",
+                    "download": "356799392"
+                }
+            },
+            "decryptionkey": "0d7a03e285619770c83110c30da511ec0437529c8542f5da833d7679f9fcd2da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5245231",
+                "timeupdated": "1593732899"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
