@@ -1,0 +1,57 @@
+{
+    "appid": 3317160,
+    "name": "Selfish Heroes Playtest",
+    "type": "Beta",
+    "schinese_name": "自私的英雄游戏测试",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:10:02",
+    "change_number": 30176554,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "3317161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5597630673251406869",
+                    "size": "347628992",
+                    "download": "141881808"
+                },
+                "local": {
+                    "gid": "8749213932744978339",
+                    "size": "80603796",
+                    "download": "36517216"
+                }
+            },
+            "decryptionkey": "1e30ed07a56bc66525dde1fd40cd974c8ed353aba6942f1deda968df37a845e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19307782",
+                "timeupdated": "1753142997"
+            },
+            "local": {
+                "buildid": "16242487",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1730318497"
+            }
+        }
+    }
+}
