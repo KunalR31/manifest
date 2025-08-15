@@ -10,4 +10,3 @@ addappid(3241660) -- R.E.P.O.
 
 -- MAIN APP DEPOTS
 addappid(3241661, 1, "0a0fcffb2de6fb0fa6caff076a5a8cb960903d17320968d5c042fd5a4f9ad2ad") -- Depot 3241661
-setManifestid(3241661, "4154963422191387469", 0)
