@@ -1,0 +1,108 @@
+name: Remove setManifestid from .lua files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process-branches:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 100
+      matrix:
+        job_index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
+                    10,11,12,13,14,15,16,17,18,19,
+                    20,21,22,23,24,25,26,27,28,29,
+                    30,31,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,48,49,
+                    50,51,52,53,54,55,56,57,58,59,
+                    60,61,62,63,64,65,66,67,68,69,
+                    70,71,72,73,74,75,76,77,78,79,
+                    80,81,82,83,84,85,86,87,88,89,
+                    90,91,92,93,94,95,96,97,98,99]
+
+    steps:
+      - name: Setup Git
+        run: |
+          git config --global user.name "MANGO UNLOCKER"
+          git config --global user.email "actions@github.com"
+
+      - name: Process branch subset
+        run: |
+          set -euo pipefail
+
+          TARGET_REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
+          # Get all branches except main
+          ALL_BRANCHES=$(git ls-remote --heads "$TARGET_REPO" \
+            | awk '{print $2}' \
+            | sed 's|refs/heads/||' \
+            | grep -v '^main$')
+
+          TOTAL_BRANCHES=$(echo "$ALL_BRANCHES" | wc -l)
+          JOB_COUNT=100
+          JOB_INDEX=${{ matrix.job_index }}
+          BRANCHES_PER_JOB=$((TOTAL_BRANCHES / JOB_COUNT))
+          START=$((JOB_INDEX * BRANCHES_PER_JOB))
+          END=$((START + BRANCHES_PER_JOB - 1))
+
+          echo "Total branches: $TOTAL_BRANCHES"
+          echo "Job $JOB_INDEX processing branches $START to $END"
+
+          # Select only the branches for this job
+          BRANCHES=$(echo "$ALL_BRANCHES" | sed -n "$((START+1)),$((END+1))p")
+
+          for branch in $BRANCHES; do
+            echo "-----------------------------"
+            echo "Processing branch: $branch"
+            echo "-----------------------------"
+
+            workdir=$(mktemp -d)
+            pushd "$workdir" > /dev/null
+
+            if ! git init; then 
+              echo "::warning:: Failed to init repo for $branch"
+              popd > /dev/null
+              rm -rf "$workdir"
+              continue
+            fi
+
+            git remote add origin "$TARGET_REPO"
+
+            if ! git fetch origin "$branch"; then 
+              echo "::warning:: Failed to fetch branch $branch"
+              popd > /dev/null
+              rm -rf "$workdir"
+              continue
+            fi
+
+            if ! git checkout "$branch"; then 
+              echo "::warning:: Failed to checkout branch $branch"
+              popd > /dev/null
+              rm -rf "$workdir"
+              continue
+            fi
+
+            LUA_FILE="${branch}.lua"
+            if [[ -f "$LUA_FILE" ]]; then
+              echo "Found $LUA_FILE — removing setManifestid lines..."
+              BEFORE_HASH=$(sha256sum "$LUA_FILE" | awk '{print $1}')
+              grep -vi "setmanifestid" "$LUA_FILE" > tmpfile && mv tmpfile "$LUA_FILE"
+              AFTER_HASH=$(sha256sum "$LUA_FILE" | awk '{print $1}')
+
+              if [[ "$BEFORE_HASH" != "$AFTER_HASH" ]]; then
+                echo "File changed — committing..."
+                git add "$LUA_FILE"
+                git commit -m "Remove setManifestid lines from $LUA_FILE"
+                if ! git push origin "$branch"; then
+                  echo "::warning:: Failed to push branch $branch"
+                fi
+              else
+                echo "No changes needed."
+              fi
+            else
+              echo "::notice:: No $LUA_FILE in branch $branch — skipping."
+            fi
+
+            popd > /dev/null
+            rm -rf "$workdir"
+          done
