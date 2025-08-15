@@ -1,6 +1,5 @@
 addappid(408930)
 addappid(228985)
-setManifestid(228985,"3966345552745568756")
 addappid(408931,0,"d7a5d39934f01aafef397d314a52c2c32d9715eaf2d23bccaef82b7d60d33489")
 addappid(409190)
 addappid(409191)
