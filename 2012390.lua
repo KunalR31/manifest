@@ -1,4 +1,3 @@
 addappid(2012390)
 addappid(2012391,0,"40d7b1e51194f9f2f672d0ceb4c32e8eeb75cc17eef0cd813a651afcd04eccdf")
-setManifestid(2012391,"2934070228993540125")
 addappid(2012392)
