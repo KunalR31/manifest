@@ -1,6 +1,5 @@
 addappid(1059830)
 addappid(1059831,0,"23e596574df940d4fd25d118a8ea65ada15f28bfbf0ebfb758222a3edb15d2b8")
-setManifestid(1059831,"6988077968346299052")
 addappid(1059832)
 addappid(1059833)
 addappid(1059834)
