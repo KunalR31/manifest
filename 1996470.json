@@ -1,0 +1,88 @@
+{
+    "appid": 1996470,
+    "name": "Skator Gator 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 00:14:19",
+    "change_number": 29796155,
+    "depot": {
+        "1996471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4146422942476007342",
+                    "size": "429475883",
+                    "download": "248925984"
+                },
+                "premay2024": {
+                    "gid": "8254271036034749974",
+                    "size": "1100924251",
+                    "download": "161318496"
+                },
+                "testing": {
+                    "gid": "4146422942476007342",
+                    "size": "429475883",
+                    "download": "248925984"
+                }
+            },
+            "decryptionkey": "c5de443b7f8dec8ad7796de319ba528858a88abc2430257c1929bd14b483549b"
+        },
+        "1996472": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1390394825504902284",
+                    "size": "1100924251",
+                    "download": "161411696"
+                },
+                "premay2024": {
+                    "gid": "1390394825504902284",
+                    "size": "1100924251",
+                    "download": "161411696"
+                },
+                "testing": {
+                    "gid": "1390394825504902284",
+                    "size": "1100924251",
+                    "download": "161411696"
+                }
+            },
+            "decryptionkey": "1bbbc7e7b99624bc061b9cb7fd952d3277b9b9d1eeb020bb3a7bf3cf4a5eb547"
+        },
+        "1996473": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "1996474": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14282223",
+                "timeupdated": "1715028792"
+            },
+            "premay2024": {
+                "buildid": "12290085",
+                "description": "Original build before optimizations.",
+                "timeupdated": "1714945681"
+            },
+            "testing": {
+                "buildid": "14282223",
+                "description": "Branch for QA builds.",
+                "timeupdated": "1715027486"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
