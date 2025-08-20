@@ -1,0 +1,89 @@
+{
+    "appid": 2171970,
+    "name": "Unified",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 22:12:35",
+    "change_number": 29886351,
+    "depot": {
+        "baselanguages": "english",
+        "2171972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "macos": {
+                    "gid": "6640804334126942677",
+                    "size": "172329412",
+                    "download": "132153824"
+                }
+            },
+            "decryptionkey": "c2f9fab5c71e6925006f635d7885332e68c1969aecff7a4ec0cd2d23d1765b50"
+        },
+        "2171973": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "4755376327182928235",
+                    "size": "134527748",
+                    "download": "136200640"
+                }
+            },
+            "decryptionkey": "f681449cd8b9f1e122120f783c611996ffa01648bda36b719722f0851a37b6da"
+        },
+        "2171974": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "2171971": {
+            "manifests": {
+                "public": {
+                    "gid": "8407032495273383809",
+                    "size": "185282542",
+                    "download": "136207584"
+                },
+                "linux": {
+                    "gid": "8407032495273383809",
+                    "size": "185282542",
+                    "download": "136207584"
+                },
+                "macos": {
+                    "gid": "8407032495273383809",
+                    "size": "185282542",
+                    "download": "136207584"
+                },
+                "windows": {
+                    "gid": "8407032495273383809",
+                    "size": "185282542",
+                    "download": "136207584"
+                }
+            },
+            "decryptionkey": "8fd6acb3bac7d64ed8c8975cc822f9c8a76e3df01794094137ab7ee0ec62af88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9637185",
+                "timeupdated": "1664721871"
+            },
+            "linux": {
+                "buildid": "9637036",
+                "description": "linux",
+                "timeupdated": "1664718286"
+            },
+            "macos": {
+                "buildid": "9637026",
+                "description": "macos",
+                "timeupdated": "1664718078"
+            },
+            "windows": {
+                "buildid": "9637021",
+                "description": "windows",
+                "timeupdated": "1664721200"
+            }
+        }
+    }
+}
