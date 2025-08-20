@@ -1,0 +1,39 @@
+{
+    "appid": 217750,
+    "name": "Age of Conan: Unchained",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 20:23:25",
+    "change_number": 30018679,
+    "depot": {
+        "preloadonly": "1",
+        "217751": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "659894298413112609",
+                    "size": "26415900929",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1130461375674803093",
+                    "size": "26379355053",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6624da2ecd8bb60ef0dceb8ca085fd2c32bbd515f67300362e34c24ab61f6dd9"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "36461"
+            },
+            "local": {
+                "buildid": "8365",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
