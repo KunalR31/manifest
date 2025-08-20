@@ -1,0 +1,58 @@
+{
+    "appid": 2160240,
+    "name": "Sushi For Robots",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 06:13:52",
+    "change_number": 29816635,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2160241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7561594108694790488",
+                    "size": "359932195",
+                    "download": "195883520"
+                }
+            },
+            "decryptionkey": "14c23e26602442c8607f6338a22bb79dd84111c8f1dcd0e9929c7ab9d8e09872"
+        },
+        "2160242": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5010460862610660362",
+                    "size": "462086310",
+                    "download": "204639360"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11977985",
+                "timeupdated": "1692383161"
+            }
+        }
+    }
+}
