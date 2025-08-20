@@ -1,0 +1,77 @@
+{
+    "appid": 2156830,
+    "name": "Words of Yendor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:10:31",
+    "change_number": 29557884,
+    "depot": {
+        "2156831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2968203399035695975",
+                    "size": "268227840",
+                    "download": "207199888"
+                },
+                "beta": {
+                    "gid": "2968203399035695975",
+                    "size": "268227840",
+                    "download": "207199888"
+                }
+            },
+            "decryptionkey": "1b8ec325335d6abdaa16d99a75318d6a0ddbec08a0e1c3b7d1dfb2d188443c6c"
+        },
+        "2156832": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6935221172138270797",
+                    "size": "273380049",
+                    "download": "208564736"
+                },
+                "beta": {
+                    "gid": "6935221172138270797",
+                    "size": "273380049",
+                    "download": "208564736"
+                }
+            }
+        },
+        "2156833": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1140281009387990324",
+                    "size": "314271927",
+                    "download": "218335360"
+                },
+                "beta": {
+                    "gid": "1140281009387990324",
+                    "size": "314271927",
+                    "download": "218335360"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18249811",
+                "timeupdated": "1745673514"
+            },
+            "beta": {
+                "buildid": "18249811",
+                "description": "Testing the next version",
+                "timeupdated": "1745673264"
+            }
+        }
+    }
+}
