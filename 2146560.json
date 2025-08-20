@@ -1,0 +1,75 @@
+{
+    "appid": 2146560,
+    "name": "Ghostboy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 07:12:14",
+    "change_number": 29982039,
+    "depot": {
+        "baselanguages": "english,hungarian",
+        "hasdepotsindlc": "1",
+        "2146561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6733420780324892783",
+                    "size": "1346712437",
+                    "download": "1166296096"
+                },
+                "beta": {
+                    "gid": "6733420780324892783",
+                    "size": "1346712437",
+                    "download": "1166296096"
+                }
+            },
+            "decryptionkey": "b55f86bc978e6fa19a1bfec272cab0c547861f3eb08a75523967b45c7145329b"
+        },
+        "2146562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5534317793257234264",
+                    "size": "1386972023",
+                    "download": "1178250000"
+                },
+                "beta": {
+                    "gid": "5534317793257234264",
+                    "size": "1386972023",
+                    "download": "1178250000"
+                }
+            }
+        },
+        "3052400": {
+            "dlcappid": "3052400",
+            "manifests": {
+                "public": {
+                    "gid": "124580641213416093",
+                    "size": "633085823",
+                    "download": "455791280"
+                },
+                "beta": {
+                    "gid": "124580641213416093",
+                    "size": "633085823",
+                    "download": "455791280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18871899",
+                "timeupdated": "1750921294"
+            },
+            "beta": {
+                "buildid": "18871899",
+                "description": "Beta branch with untested changes",
+                "timeupdated": "1749967873"
+            }
+        }
+    }
+}
