@@ -1,0 +1,77 @@
+{
+    "appid": 205080,
+    "name": "BIT.TRIP FATE",
+    "type": "Game",
+    "schinese_name": "像素奔跑者：命运",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 22:11:36",
+    "change_number": 30039019,
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "205081": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2362729233149638633",
+                    "size": "95879706",
+                    "download": "0"
+                },
+                "patch_beta": {
+                    "gid": "2362729233149638633",
+                    "size": "95879706",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "92b4635af08a38fad674ae4e20ea00c2dd6c37a270dd77762164ed9c6e257f55"
+        },
+        "205082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2383317715254957974",
+                    "size": "140590880",
+                    "download": "90352768"
+                },
+                "patch_beta": {
+                    "gid": "2383317715254957974",
+                    "size": "140590880",
+                    "download": "90352768"
+                }
+            }
+        },
+        "205083": {
+            "manifests": {
+                "public": {
+                    "gid": "1888584663003330427",
+                    "size": "31024840",
+                    "download": "0"
+                },
+                "patch_beta": {
+                    "gid": "1888584663003330427",
+                    "size": "31024840",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "205083",
+            "decryptionkey": "2b69ad853d3a9177757052a6d30106e30c1095dc0082ae2e1bd44a10075c439f"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1155771",
+                "timeupdated": "1464736391"
+            },
+            "patch_beta": {
+                "buildid": "1155771",
+                "timeupdated": "1464687471"
+            }
+        }
+    }
+}
