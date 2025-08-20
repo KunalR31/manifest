@@ -1,0 +1,75 @@
+{
+    "appid": 2095120,
+    "name": "S.E.C.U.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:13:24",
+    "change_number": 29174871,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2095121": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1095783276686660198",
+                    "size": "13036665451",
+                    "download": "12614024672"
+                },
+                "0.9.2.1": {
+                    "gid": "3912761377489991472",
+                    "size": "9778430218",
+                    "download": "9499722288"
+                },
+                "devbranch": {
+                    "gid": "652935983541739599",
+                    "size": "13036663403",
+                    "download": "12614086080"
+                },
+                "firstlaunchversion": {
+                    "gid": "6590476343782771214",
+                    "size": "10108843332",
+                    "download": "9809887232"
+                }
+            },
+            "decryptionkey": "90d299e7141c1d3c501aede26603d4a5b6e30acd8d7c0dfed78e4484fc7f5649"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15032494",
+                "timeupdated": "1721017382"
+            },
+            "0.9.2.1": {
+                "buildid": "10802128",
+                "description": "Old Build",
+                "timeupdated": "1684583970"
+            },
+            "devbranch": {
+                "buildid": "14492413",
+                "description": "Build Testing",
+                "timeupdated": "1716633158"
+            },
+            "firstlaunchversion": {
+                "buildid": "9859006",
+                "description": "First ever early access build",
+                "timeupdated": "1718079313"
+            }
+        }
+    }
+}
