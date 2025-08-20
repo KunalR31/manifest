@@ -1,0 +1,79 @@
+{
+    "appid": 2108210,
+    "name": "ENDER OCEAN - Your mission: \"Clean the Ocean\"",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 18:12:39",
+    "change_number": 30016554,
+    "depot": {
+        "2108211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1843007352135443491",
+                    "size": "2460550992",
+                    "download": "1274017616"
+                },
+                "local": {
+                    "gid": "292659567690402103",
+                    "size": "2460550992",
+                    "download": "1274017616"
+                }
+            },
+            "decryptionkey": "63c718943555a5f58c3239fd979b21e19b5f7f249820fc30bfb9f5fd94bab4b0"
+        },
+        "2108212": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1079589019313941421",
+                    "size": "2464843864",
+                    "download": "1262980160"
+                },
+                "local": {
+                    "gid": "7985906151715900241",
+                    "size": "2464843864",
+                    "download": "1262980160"
+                }
+            },
+            "decryptionkey": "7c6f2ec46f90c1a7d038b7eb946e60d5395bae35eb6034d2336321c78e7177fd"
+        },
+        "2108213": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8668604018727765896",
+                    "size": "2498683923",
+                    "download": "1279395488"
+                },
+                "local": {
+                    "gid": "8133748994685840684",
+                    "size": "2498683923",
+                    "download": "1279395488"
+                }
+            },
+            "decryptionkey": "3496b66dda17c252486468944c4aa422e26b5147c0bc964e82e58016f6dd0270"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9289783",
+                "timeupdated": "1660192561"
+            },
+            "local": {
+                "buildid": "9262292",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1660192711"
+            }
+        }
+    }
+}
