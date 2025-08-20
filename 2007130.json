@@ -1,0 +1,78 @@
+{
+    "appid": 2007130,
+    "name": "Around The World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-05 05:11:29",
+    "change_number": 29907434,
+    "depot": {
+        "2007131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7248048477030089445",
+                    "size": "181577729",
+                    "download": "55355968"
+                },
+                "beta": {
+                    "gid": "2262274233638943608",
+                    "size": "180203201",
+                    "download": "55326320"
+                }
+            },
+            "decryptionkey": "95af8e959404ca132c5b8b3a09c8c915074b18bee38a852d16d6acfd9062a806"
+        },
+        "2007132": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1690409085258067390",
+                    "size": "224610980",
+                    "download": "56768336"
+                },
+                "beta": {
+                    "gid": "2805262995004274786",
+                    "size": "223243164",
+                    "download": "56748208"
+                }
+            },
+            "decryptionkey": "261ef46ca41cead92425d4741cd26e3bc79af9e28f9cee2391e9eb954d8872ab"
+        },
+        "2007133": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3258217162816334653",
+                    "size": "200308918",
+                    "download": "62363392"
+                },
+                "beta": {
+                    "gid": "6467480730347013978",
+                    "size": "198940826",
+                    "download": "62328352"
+                }
+            },
+            "decryptionkey": "67c902414eb3f4d9fcfb4338e169f4dcb34cb4bb7a2b1fd7e61a8b36afcb8143"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "10544513",
+                "timeupdated": "1676337263"
+            },
+            "beta": {
+                "buildid": "10294120",
+                "description": "Beta Testers",
+                "timeupdated": "1673392518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
